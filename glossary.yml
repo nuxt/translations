@@ -28,6 +28,34 @@
   doNotTranslate: true
 - term: useAsyncData
   doNotTranslate: true
+- term: NuxtHub
+  doNotTranslate: true
+- term: Nuxt Image
+  doNotTranslate: true
+- term: Nuxt Scripts
+  doNotTranslate: true
+- term: Nuxt SEO
+  doNotTranslate: true
+- term: Nuxt Studio
+  doNotTranslate: true
+- term: Nuxi
+  doNotTranslate: true
+- term: UnJS
+  doNotTranslate: true
+- term: h3
+  doNotTranslate: true
+- term: Pinia
+  doNotTranslate: true
+- term: Vue Router
+  doNotTranslate: true
+- term: useState
+  doNotTranslate: true
+- term: useRuntimeConfig
+  doNotTranslate: true
+- term: useAppConfig
+  doNotTranslate: true
+- term: defineNuxtConfig
+  doNotTranslate: true
 - term: composable
   note: a Vue Composition API function
   translations:
