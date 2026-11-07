@@ -688,11 +688,12 @@ terms:
   - Nutzenden
 - term: developer
   match: \bdevelopers?\b
-  note: geschlechtsneutral gem. Styleguide (nicht "Entwickler")
+  note: Geschlechtsneutral und natürlich formulieren. Je nach Kontext "Entwickelnde", "Entwicklerinnen und Entwickler" oder eine passende neutrale Umschreibung verwenden. Keine Formulierung erzwingen, die unnatürlich klingt.
   decision: translate
   target: Entwickelnde
   accept:
   - Entwickelnden
+  - Entwicklerinnen und Entwickler
 - term: visitor
   match: \bvisitors?\b
   note: geschlechtsneutral gem. Styleguide (nicht "Besucher")
