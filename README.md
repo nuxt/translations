@@ -1,6 +1,6 @@
 # Nuxt translations
 
-Translations of the Nuxt documentation, maintained with [diglot](https://github.com/danielroe/diglot). French is the first locale.
+Translations of the Nuxt documentation, maintained with [diglot](https://github.com/danielroe/diglot). The locales are French and German.
 
 To contribute a translation, see [`CONTRIBUTING.md`](./CONTRIBUTING.md); discussion happens in [this thread](https://github.com/nuxt/translations/discussions/8).
 
@@ -119,6 +119,19 @@ The workflow then writes no new records for that locale. Existing records remain
 - A narrow no-break space (U+202F) before `;`, `:`, `!`, `?` and `»`, and after `«`. Machine output gets it from `typography` in [`fr/style.yml`](./fr/style.yml).
 
 Terminology is in [`glossary.yml`](./glossary.yml) and [`fr/glossary.yml`](./fr/glossary.yml).
+
+## German style
+
+- Address the reader formally as `Sie`; instructions in the imperative with `Sie`. Never `du`.
+- `wir` only when the Nuxt team speaks; a "we" or "let's" that walks the reader through a step becomes `Sie` or an impersonal form.
+- German capitalisation in headings, titles and labels, not English title case.
+- Code identifiers, file names, package names and configuration keys stay in English.
+- Compounds are one word or hyphenated (`Entwicklungsserver`, `Nuxt-Modul`), never split by a space.
+- No Denglisch verbs (`builden`, `deployen`) and no half-English compounds (`Static Generierung`); established nouns such as `Build`, `Deployment` and `Payload` stay in English.
+- German quotation marks (`„ “`) for quoted prose.
+- List items of one list share the same grammatical form.
+
+Style rules are in [`de/style.yml`](./de/style.yml); terminology is in [`glossary.yml`](./glossary.yml) and [`de/glossary.yml`](./de/glossary.yml).
 
 ## License
 

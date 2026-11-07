@@ -1,0 +1,12 @@
+rules:
+  - Address the reader formally as "Sie" ("Sie", "Ihr", "Ihnen", always capitalised) and use the imperative with "Sie" for instructions ("Fügen Sie … hinzu", "Erstellen Sie …"); never use "du" and never mix the two forms.
+  - When the English "we" or "let's" walks the reader through a step, use "Sie" or an impersonal form, not "wir"; keep "wir" only when the Nuxt team speaks.
+  - Follow German capitalisation in headings, titles and labels (capitalise nouns and the first word); do not copy English title case.
+  - Keep code identifiers, file and directory names, package names and configuration keys in English.
+  - Write compound nouns as one word ("Entwicklungsserver", "Paketmanager"), and hyphenate compounds with an English term or a proper noun ("Nuxt-Modul", "Vue-Komponente", "Server-Route"); never leave a space inside a compound ("Entwicklungs Server").
+  - Name the kind of a code element before it rather than hyphenating it onto a token ("die Datei {0}", "die Option {1}", not "{0}-Datei").
+  - Avoid Denglisch. Do not inflect English verbs ("builden", "deployen", "fetchen"); use German verbs ("erstellen", "bereitstellen", "abrufen"). Do not mix English and German halves in one term ("Static Generierung"); use either the established English noun or the German one.
+  - Established English nouns of the field stay in English ("Build", "Deployment", "Payload", "Bundle", "Template", "Developer Experience", "Lazy Loading"); do not replace them with literal German renderings.
+  - Prefer natural German over literal word-for-word translation; rephrase calques ("Nebenversion", "ausführlicher zu benutzen") and avoid repeating the same verb in consecutive sentences.
+  - Use German quotation marks („ “) for quoted prose.
+  - Keep list items of one list in the same grammatical form.

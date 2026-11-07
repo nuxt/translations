@@ -23,7 +23,7 @@ Every record has a state:
 - `machine`: this was translated by AI, and no one has reviewed it yet (`review: none`).
 - `edited`: a person has changed the text (`review: edited`).
 - `verified`: a reviewer has approved it (`review: verified` with `verifiedBy`).
-- `rejected`: a reviewer has rejected it (`review: rejected` with `rejectedBy`), or the checks fail it; machine translations that fail the checks are listed in `.diglot/rejected/fr.json`.
+- `rejected`: a reviewer has rejected it (`review: rejected` with `rejectedBy`), or the checks fail it; machine translations that fail the checks are listed in `.diglot/rejected/<locale>.json`.
 
 `pnpm status` shows the counts per state and per source.
 
@@ -37,7 +37,7 @@ Edit either on [nuxt.com](https://nuxt.com) (coming soon) or locally:
 To approve a record you have read:
 
 ```bash
-pnpm x18n review approve <hash> --locale fr
+pnpm x18n review approve <hash> --locale <locale>
 ```
 
 This writes `review: verified` and `verifiedBy` into the record. The `verifiedBy.by` field is your GitHub login when the commit author is a GitHub noreply address or `gh` is logged in, otherwise the git name. Then commit the record and open a pull request.
@@ -48,10 +48,10 @@ This writes `review: verified` and `verifiedBy` into the record. The `verifiedBy
 
 ## Glossary and style
 
-Terminology lives in [`glossary.yml`](./glossary.yml) (shared by all locales) and [`fr/glossary.yml`](./fr/glossary.yml) (French only). Style rules and typography live in [`fr/style.yml`](./fr/style.yml).
+Terminology lives in [`glossary.yml`](./glossary.yml) (shared by all locales) and `<locale>/glossary.yml` (one locale only, for example [`fr/glossary.yml`](./fr/glossary.yml) or [`de/glossary.yml`](./de/glossary.yml)). Style rules and typography live in `<locale>/style.yml`.
 
 Propose a glossary change in the same pull request as the translations that use it.
 
 ## Review
 
-Members of `nuxt/translators-fr` review each pull request: the placeholders, glossary terms, style and the translation itself. Keep the change focused.
+Members of the locale's team (`nuxt/translators-fr`, `nuxt/translators-de`) review each pull request: the placeholders, glossary terms, style and the translation itself. Keep the change focused.
