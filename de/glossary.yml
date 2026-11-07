@@ -1,0 +1,133 @@
+# German decisions that need diglot-only fields. Entries here replace shared entries with
+# the same term in ../glossary.yml.
+terms:
+  - term: layer
+    match: \blayers?\b
+    note: the Nuxt layers feature (extends); der Layer, die Layer
+    decision: keep
+  - term: payload
+    note: serialised server state sent to the client; die Payload
+    decision: keep
+  - term: developer experience
+    match: \bdeveloper experience\b|\bDX\b
+    decision: keep
+  - term: store
+    match: \bstores?\b
+    note: a state store such as Pinia; der Store, never "Speicher"
+    decision: keep
+  - term: lazy loading
+    match: \blazy[- ]?load(?:ing|ed|s)?\b
+    note: never "langsam"
+    decision: translate
+    target: Lazy Loading
+    accept:
+      - Lazy-Loading
+      - lazy geladen
+      - lazy zu laden
+      - lazy lädt
+  - term: auto-import
+    match: \bauto-?import(?:s|ed|ing)?\b|\bautomatically imports?\b
+    decision: translate
+    target: automatischer Import
+    accept:
+      - automatisch\p{L}* Import
+      - automatisch importiert
+      - Auto-Import
+  - term: hydration
+    match: \bhydrat(?:ion|es?|ed|ing)\b
+    note: not "Hydratation"
+    decision: translate
+    target: Hydration
+    accept:
+      - hydrier
+  - term: server-side rendering
+    match: \bserver[- ]side render(?:ing|ed)?\b
+    decision: translate
+    target: serverseitiges Rendering
+    accept:
+      - serverseitig\p{L}* Rendering
+      - serverseitig gerendert
+      - auf dem Server gerendert
+  - term: prerendering
+    match: \bpre-?render(?:ing|ed|s)?\b
+    decision: translate
+    target: Prerendering
+    accept:
+      - prerender
+      - vorgerender
+      - vorab gerender
+  - term: static site generation
+    match: \bstatic (?:site )?generation\b
+    note: not "Static Generierung"
+    decision: translate
+    target: statische Generierung
+    accept:
+      - statisch\p{L}* Generierung
+      - statisch generiert
+  - term: data fetching
+    match: \bdata[- ]fetching\b
+    decision: translate
+    target: Datenabruf
+    accept:
+      - Abrufen von Daten
+      - Daten\p{L}* abzurufen
+      - Daten abrufen
+  - term: server route
+    match: \bserver routes?\b
+    decision: translate
+    target: Server-Route
+    accept:
+      - Serverroute
+  - term: directory
+    match: \bdirector(?:y|ies)\b
+    decision: translate
+    target: Verzeichnis
+    accept:
+      - Ordner
+  - term: module
+    match: \bmodules?\b
+    note: Nuxt-Modul
+    decision: translate
+    target: Modul
+  - term: package
+    match: \bpackages?\b
+    decision: translate
+    target: Paket
+  - term: dependency
+    match: \bdependenc(?:y|ies)\b
+    decision: translate
+    target: Abhängigkeit
+  - term: environment variable
+    match: \benv(?:ironment)? variables?\b
+    decision: translate
+    target: Umgebungsvariable
+  - term: dev server
+    match: \bdev(?:elopment)? servers?\b
+    decision: translate
+    target: Entwicklungsserver
+  - term: production
+    match: \bproduction\b
+    decision: translate
+    target: Produktion
+    accept:
+      - produktiv
+  - term: bundle
+    match: \bbundles?\b
+    decision: keep
+  - term: template
+    match: \btemplates?\b
+    decision: keep
+  - term: helper
+    match: \bhelpers?\b
+    decision: translate
+    target: Hilfsfunktion
+    accept:
+      - Helper
+  - term: build
+    match: \bbuild(?:s|ing)?\b
+    note: as a noun keep "Build" (der Build, beim Build); as a verb use "erstellen" or "kompilieren", never "builden"
+    decision: translate
+  - term: deploy
+    match: \bdeploy(?:s|ed|ing|ment|ments)?\b
+    note: as a noun keep "Deployment"; as a verb use "bereitstellen", never "deployen"
+    decision: translate

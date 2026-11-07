@@ -32,42 +32,55 @@
   note: a Vue Composition API function
   translations:
     fr: composable
+    de: Composable
 - term: plugin
   translations:
     fr: plugin
+    de: Plugin
 - term: middleware
   translations:
     fr: middleware
+    de: Middleware
 - term: runtime config
   note: the runtimeConfig option and useRuntimeConfig
   translations:
     fr: runtime config
+    de: Runtime-Config
 - term: app config
   note: the app.config file and useAppConfig
   translations:
     fr: app config
+    de: App-Config
 - term: hook
   translations:
     fr: hook
+    de: Hook
 - term: layout
   note: a file in the layouts directory
   translations:
     fr: layout
+    de: Layout
 - term: component
   translations:
     fr: composant
+    de: Komponente
 - term: server component
   translations:
     fr: composant serveur
+    de: Serverkomponente
 - term: data fetching
   translations:
     fr: récupération de données
+    de: Datenabruf
 - term: server-side rendering
   translations:
     fr: rendu côté serveur
+    de: serverseitiges Rendering
 - term: prerendering
   translations:
     fr: prérendu
+    de: Prerendering
 - term: route middleware
   translations:
     fr: middleware de route
+    de: Route-Middleware
