@@ -1,7 +1,7 @@
 import { defineConfig } from '@diglot/core'
 
 export default defineConfig({
-  locales: ['fr'],
+  locales: ['fr', 'ru'],
   glossary: 'glossary.yml',
   mt: {
     model: 'anthropic/claude-sonnet-5.5',
