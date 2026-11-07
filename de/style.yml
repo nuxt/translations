@@ -1,12 +1,166 @@
 rules:
-  - Address the reader formally as "Sie" ("Sie", "Ihr", "Ihnen", always capitalised) and use the imperative with "Sie" for instructions ("Fügen Sie … hinzu", "Erstellen Sie …"); never use "du" and never mix the two forms.
-  - When the English "we" or "let's" walks the reader through a step, use "Sie" or an impersonal form, not "wir"; keep "wir" only when the Nuxt team speaks.
-  - Follow German capitalisation in headings, titles and labels (capitalise nouns and the first word); do not copy English title case.
-  - Keep code identifiers, file and directory names, package names and configuration keys in English.
-  - Write compound nouns as one word ("Entwicklungsserver", "Paketmanager"), and hyphenate compounds with an English term or a proper noun ("Nuxt-Modul", "Vue-Komponente", "Server-Route"); never leave a space inside a compound ("Entwicklungs Server").
-  - Name the kind of a code element before it rather than hyphenating it onto a token ("die Datei {0}", "die Option {1}", not "{0}-Datei").
-  - Avoid Denglisch. Do not inflect English verbs ("builden", "deployen", "fetchen"); use German verbs ("erstellen", "bereitstellen", "abrufen"). Do not mix English and German halves in one term ("Static Generierung"); use either the established English noun or the German one.
-  - Established English nouns of the field stay in English ("Build", "Deployment", "Payload", "Bundle", "Template", "Developer Experience", "Lazy Loading"); do not replace them with literal German renderings.
-  - Prefer natural German over literal word-for-word translation; rephrase calques ("Nebenversion", "ausführlicher zu benutzen") and avoid repeating the same verb in consecutive sentences.
-  - Use German quotation marks („ “) for quoted prose.
-  - Keep list items of one list in the same grammatical form.
+  - >-
+    Treat the project glossary as the authoritative source for terminology.
+    Follow its translation decisions, preferred terms, grammatical gender,
+    spelling, and usage notes consistently. Do not replace an established
+    glossary term with a synonym simply because another translation sounds
+    more natural. If a term is missing from the glossary, consult the German
+    MDN documentation for established web-platform terminology before choosing
+    a translation.
+
+  - >-
+    Use the German MDN Web Docs as a primary reference for terminology and
+    established technical phrasing related to HTML, CSS, JavaScript, browser
+    APIs, and general web-platform concepts. Check how MDN uses a term in
+    context, not just in headings or glossary entries. If the German MDN page
+    is unavailable or has not been translated, consult the English MDN page
+    to understand the concept and choose a natural, technically accurate
+    German equivalent. Do not copy English terminology blindly. The project
+    glossary and Nuxt-specific conventions take precedence over MDN where
+    they differ.
+
+  - >-
+    Follow Duden recommendations and current reformed German spelling,
+    grammar, punctuation, and capitalisation. Use German capitalisation in
+    headings, titles, and labels: capitalise nouns and the first word, but
+    do not copy English Title Case.
+
+  - >-
+    Address the reader informally using lowercase "du", "dein", "dir", and
+    their grammatical forms. Use the informal imperative for instructions
+    ("Füge … hinzu", "Erstelle …"). Capitalise these forms only when required
+    by standard German sentence capitalisation, such as at the beginning of
+    a sentence. Never use formal address ("Sie", "Ihr").
+
+  - >-
+    When the English "we" or "let's" guides the reader through a task or
+    describes an action the reader should take, address the reader directly
+    with "du" or use a natural impersonal construction. Use "wir" only when
+    the Nuxt team is genuinely speaking as a group, expressing its own
+    decisions, actions, or opinions.
+
+  - >-
+    Use gender-neutral and inclusive language whenever a person's gender is
+    irrelevant. Prefer natural neutral formulations, such as "Nutzende",
+    "Mitglieder", "Personen" or a suitable rephrasing that avoids personal
+    nouns. Participles such as "Nutzende" are useful where they sound natural,
+    but do not force awkward constructions such as "Entwickelnde" into every
+    sentence. Avoid generic masculine forms when a natural neutral
+    alternative is available. Do not introduce gender symbols such as "*",
+    ":" or "_" unless explicitly required by the project.
+
+  - >-
+    Write clearly, concisely, and consistently. Prefer active voice, direct
+    verbs, and short, unambiguous sentences. Preserve all relevant technical
+    information and nuances from the source, but do not reproduce English
+    sentence structures if they sound unnatural in German. Prioritise natural,
+    idiomatic German over word-for-word translation without changing the
+    meaning or omitting information.
+
+  - >-
+    Avoid patronising or subjective adjectives such as "einfach", "simpel",
+    or "kinderleicht" when they imply that a task or concept should be easy
+    for everyone. Do not describe a feature as easy to use unless this is
+    factually relevant. The word "einfach" may still be used in its literal
+    sense when it means "only" or "simply" and does not make a judgement
+    about the reader's abilities.
+
+  - >-
+    Translate headings that describe an action using the German infinitive
+    ("Komponenten hinzufügen", not "Füge Komponenten hinzu" or
+    "Hinzufügen von Komponenten"). Use natural German noun phrases for
+    conceptual headings. When changing a heading, update internal anchor
+    links that depend on the generated heading slug. Do not change explicit
+    URLs, file paths, or stable externally referenced anchors unnecessarily.
+
+  - >-
+    Keep code identifiers, component names, class names, variable names,
+    configuration keys, plugin and function names, HTML and Vue elements,
+    package names, API names, command names, and URL paths or slugs unchanged
+    in English. Do not translate or alter anything whose exact spelling is
+    required for code to work.
+
+  - >-
+    Translate explanatory code comments and user-facing text in code examples,
+    including example titles, labels, button text, and placeholder text, when
+    they are illustrative rather than literal technical values. Preserve
+    strings, values, commands, file contents, and output exactly when they
+    represent real API requirements, executable examples, expected output,
+    or values that must remain unchanged for the example to work. Never
+    sacrifice technical correctness for localisation.
+
+  - >-
+    Keep conventional file and directory names in English
+    ("nuxt.config.ts", "app.vue", "README.md", "pages/"). Freely chosen
+    illustrative placeholder filenames ("mein-logo.svg" instead of
+    "my-logo.svg") may be translated if they are not established project
+    conventions and are kept consistent across prose, file trees, and code.
+
+  - >-
+    Write German compound nouns as one word ("Entwicklungsserver",
+    "Paketmanager"). Hyphenate compounds containing an English term, acronym,
+    or single-word brand name ("Nuxt-Modul", "Vue-Komponente", "Server-Route",
+    "SSR-Modus"). Never leave a space inside a compound ("Nuxt Projekt" is
+    incorrect; use "Nuxt-Projekt"). For multi-word proper names, avoid
+    awkward chains of hyphenated words and rephrase with "von" where
+    appropriate ("die Funktionen von Nuxt DevTools").
+
+  - >-
+    When referencing code elements or links in compounds, place a hyphen
+    directly after the closing backtick or link
+    ("die `<NuxtLink>`-Komponente", "das `ssr`-Attribut",
+    "die `nuxt.config.ts`-Datei",
+    "die [`<NuxtPage>`](/docs/...)-Komponente").
+    Alternatively, put the descriptive noun before the code element
+    ("die Datei `nuxt.config.ts`"). Never leave a space between the code
+    element or link and the noun.
+
+  - >-
+    Avoid unnecessary Denglisch. Do not form German verbs by adding German
+    endings to English technical verbs ("builden", "deployen", "fetchen").
+    Use the German equivalents specified in the glossary ("erzeugen",
+    "bereitstellen", "abrufen"). Retain established ecosystem terms such as
+    "Composable", "Middleware", "Layer", "Store", "Payload", "Slot", "Prop",
+    "Commit", "Pull Request", and "Branch" when the glossary specifies them
+    or when they are the established technical terms. Follow the glossary
+    for their spelling, capitalisation, grammatical gender, and plural forms.
+
+  - >-
+    Keep terminology consistent across the entire document and across the
+    project. Use the same German term for the same concept unless the source
+    clearly uses different meanings. Do not alternate between synonyms just
+    to avoid repetition when technical consistency is more important.
+
+  - >-
+    Use proper German typography in prose: German quotation marks
+    („…“) and, for quotations within quotations, single German quotation
+    marks (‚…‘). Use an en dash with spaces (" – ") for parenthetical
+    interruptions, not a hyphen. Use non-breaking spaces between numbers
+    and units or percentages ("50 %", "10 ms") and within abbreviations
+    ("z. B.", "d. h.") where appropriate. Do not apply typographic
+    substitutions inside code, commands, URLs, or literal output.
+
+  - >-
+    Use actual non-breaking spaces (U+00A0) in normal text where required.
+    Use "&nbsp;" only when writing HTML or when the surrounding source format
+    specifically requires an HTML entity. Do not insert HTML entities into
+    ordinary Markdown unnecessarily.
+
+  - >-
+    Respect official brand spelling and capitalisation at all times,
+    including at the beginning of a sentence. Examples include "Nuxt",
+    "Vue", "Nitro", "Vite", "GitHub", "GitLab", "JavaScript", "TypeScript",
+    "VS Code", and "npm". Do not modify brand names to fit German
+    capitalisation conventions.
+
+  - >-
+    Write descriptive links and references. Avoid vague references such as
+    "hier", "oben" or "unten" when a descriptive link or the name of a
+    section can be used instead. Refer to sections by their headings and
+    ensure that link text makes sense out of context, including for people
+    using screen readers.
+
+  - >-
+    Keep list items within the same list grammatically parallel. Use
+    consistent sentence structure, capitalisation, and punctuation across
+    equivalent items.

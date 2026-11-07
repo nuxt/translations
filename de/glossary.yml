@@ -1,133 +1,713 @@
-# German decisions that need diglot-only fields. Entries here replace shared entries with
-# the same term in ../glossary.yml.
 terms:
-  - term: layer
-    match: \blayers?\b
-    note: the Nuxt layers feature (extends); der Layer, die Layer
-    decision: keep
-  - term: payload
-    note: serialised server state sent to the client; die Payload
-    decision: keep
-  - term: developer experience
-    match: \bdeveloper experience\b|\bDX\b
-    decision: keep
-  - term: store
-    match: \bstores?\b
-    note: a state store such as Pinia; der Store, never "Speicher"
-    decision: keep
-  - term: lazy loading
-    match: \blazy[- ]?load(?:ing|ed|s)?\b
-    note: never "langsam"
-    decision: translate
-    target: Lazy Loading
-    accept:
-      - Lazy-Loading
-      - lazy geladen
-      - lazy zu laden
-      - lazy lädt
-  - term: auto-import
-    match: \bauto-?import(?:s|ed|ing)?\b|\bautomatically imports?\b
-    decision: translate
-    target: automatischer Import
-    accept:
-      - automatisch\p{L}* Import
-      - automatisch importiert
-      - Auto-Import
-  - term: hydration
-    match: \bhydrat(?:ion|es?|ed|ing)\b
-    note: not "Hydratation"
-    decision: translate
-    target: Hydration
-    accept:
-      - hydrier
-  - term: server-side rendering
-    match: \bserver[- ]side render(?:ing|ed)?\b
-    decision: translate
-    target: serverseitiges Rendering
-    accept:
-      - serverseitig\p{L}* Rendering
-      - serverseitig gerendert
-      - auf dem Server gerendert
-  - term: prerendering
-    match: \bpre-?render(?:ing|ed|s)?\b
-    decision: translate
-    target: Prerendering
-    accept:
-      - prerender
-      - vorgerender
-      - vorab gerender
-  - term: static site generation
-    match: \bstatic (?:site )?generation\b
-    note: not "Static Generierung"
-    decision: translate
-    target: statische Generierung
-    accept:
-      - statisch\p{L}* Generierung
-      - statisch generiert
-  - term: data fetching
-    match: \bdata[- ]fetching\b
-    decision: translate
-    target: Datenabruf
-    accept:
-      - Abrufen von Daten
-      - Daten\p{L}* abzurufen
-      - Daten abrufen
-  - term: server route
-    match: \bserver routes?\b
-    decision: translate
-    target: Server-Route
-    accept:
-      - Serverroute
-  - term: directory
-    match: \bdirector(?:y|ies)\b
-    decision: translate
-    target: Verzeichnis
-    accept:
-      - Ordner
-  - term: module
-    match: \bmodules?\b
-    note: Nuxt-Modul
-    decision: translate
-    target: Modul
-  - term: package
-    match: \bpackages?\b
-    decision: translate
-    target: Paket
-  - term: dependency
-    match: \bdependenc(?:y|ies)\b
-    decision: translate
-    target: Abhängigkeit
-  - term: environment variable
-    match: \benv(?:ironment)? variables?\b
-    decision: translate
-    target: Umgebungsvariable
-  - term: dev server
-    match: \bdev(?:elopment)? servers?\b
-    decision: translate
-    target: Entwicklungsserver
-  - term: production
-    match: \bproduction\b
-    decision: translate
-    target: Produktion
-    accept:
-      - produktiv
-  - term: bundle
-    match: \bbundles?\b
-    decision: keep
-  - term: template
-    match: \btemplates?\b
-    decision: keep
-  - term: helper
-    match: \bhelpers?\b
-    decision: translate
-    target: Hilfsfunktion
-    accept:
-      - Helper
-  - term: build
-    match: \bbuild(?:s|ing)?\b
-    note: as a noun keep "Build" (der Build, beim Build); as a verb use "erstellen" or "kompilieren", never "builden"
-    decision: translate
-  - term: deploy
-    match: \bdeploy(?:s|ed|ing|ment|ments)?\b
-    note: as a noun keep "Deployment"; as a verb use "bereitstellen", never "deployen"
-    decision: translate
+- term: layer
+  match: \blayers?\b
+  note: the Nuxt layers feature (extends); der Layer, die Layer (nicht "Schicht" oder "Ebene")
+  decision: keep
+- term: module
+  match: \bmodules?\b
+  note: Nuxt-Modul
+  decision: translate
+  target: Modul
+  accept:
+  - Module
+  - Modulen
+  - Moduls
+- term: store
+  match: \bstores?\b
+  note: a state store such as Pinia or useState; der Store, niemals "Speicher" oder "Lager"
+  decision: keep
+- term: payload
+  match: \bpayloads?\b
+  note: serialised server state sent to the client (Nuxt Payload); die Payload
+  decision: keep
+- term: island
+  match: \bislands?\b
+  note: Nuxt-Island-Komponenten (<NuxtIsland>); „Island“ bleibt als etablierter Nuxt-Fachbegriff unübersetzt; beim
+    ersten Vorkommen kann eine kurze Erklärung ergänzt werden.
+  decision: keep
+  accept:
+  - Islands
+  - Nuxt-Island
+  - Nuxt-Islands
+- term: server route
+  match: \bserver routes?\b
+  decision: translate
+  target: Server-Route
+  accept:
+  - Server-Routen
+  - Serverroute
+  - Serverrouten
+- term: API route
+  match: \bAPI routes?\b
+  decision: translate
+  target: API-Route
+  accept:
+  - API-Routen
+- term: auto-import
+  match: \bauto-?import(?:s|ed|ing)?\b|\bautomatically imports?\b
+  decision: translate
+  target: automatischer Import
+  accept:
+  - automatisch\p{L}* Import\p{L}*
+  - automatisch importier\p{L}*
+  - Auto-Import
+  - Auto-Imports
+- term: data fetching
+  match: \bdata[- ]fetching\b
+  decision: translate
+  target: Datenabruf
+  accept:
+  - Abrufen von Daten
+  - Daten\p{L}* abzurufen
+  - Daten abrufen
+- term: lifecycle hook
+  match: \blifecycle hooks?\b
+  note: Vue-/Nuxt-Lifecycle-Hooks; der Lifecycle-Hook.
+  decision: keep
+  accept:
+  - Lifecycle-Hooks
+- term: reactivity
+  match: \breactiv(?:ity|e)\b
+  decision: translate
+  target: Reaktivität
+  accept:
+  - reaktiv\p{L}*
+- term: state management
+  match: \bstate management\b
+  decision: translate
+  target: Zustandsverwaltung
+  accept:
+  - State-Management
+- term: single-file component
+  match: \bsingle[- ]file components?\b|\bSFCs?\b
+  note: Vue Single-File Components (.vue-Dateien)
+  decision: translate
+  target: Single-File-Komponente
+  accept:
+  - Single-File-Komponenten
+  - Einzeldateikomponente
+  - Einzeldateikomponenten
+  - SFC
+  - SFCs
+- term: prop
+  match: \bprops?\b
+  note: Vue Komponenten-Props; die Prop, die Props (oder Eigenschaften)
+  decision: keep
+- term: slot
+  match: \bslots?\b
+  note: Vue Slots; der Slot, die Slots (niemals "Steckplatz" oder "Einschub")
+  decision: keep
+- term: teleport
+  match: \bteleports?\b
+  note: Vue <Teleport>-Funktion; der Teleport
+  decision: keep
+- term: transition
+  match: \btransitions?\b
+  note: Seiten- oder Komponentenübergänge in Nuxt/Vue
+  decision: translate
+  target: Übergang
+  accept:
+  - Übergänge
+  - Transition
+  - Transitions
+- term: hot module replacement
+  match: \bhot module replacement\b|\bHMR\b
+  decision: keep
+- term: hydration
+  match: \bhydrat(?:ion|es?|ed|ing)\b
+  note: In Nuxt-/Vue-Dokumentation „Hydration“ und „hydratisieren“ verwenden; nicht „Hydrierung“ oder „hydrieren“.
+  decision: keep
+  accept:
+  - Hydrations
+  - hydratisieren
+  - hydratisiert
+  - hydratisierte
+- term: hydration mismatch
+  match: \bhydration mismatch(?:es)?\b
+  note: Abweichung zwischen Server- und Client-DOM während der Hydration; der etablierte Fachbegriff Hydration-Mismatch
+    ist vorzuziehen.
+  decision: translate
+  target: Hydration-Mismatch
+  accept:
+  - Hydration-Mismatches
+  - Hydratationsabweichung
+  - Hydratationsabweichungen
+- term: partial hydration
+  match: \bpartial hydration\b
+  note: Nicht „Hydrierung“.
+  decision: translate
+  target: partielle Hydration
+- term: selective hydration
+  match: \bselective hydration\b
+  note: Nicht „Hydrierung“.
+  decision: translate
+  target: selektive Hydration
+- term: server-side rendering
+  match: \bserver[- ]side render(?:ing|ed)?\b
+  decision: translate
+  target: serverseitiges Rendering
+  accept:
+  - serverseitig\p{L}* Rendering
+  - serverseitig gerendert
+  - auf dem Server gerendert
+- term: client-side rendering
+  match: \bclient[- ]side render(?:ing|ed)?\b
+  decision: translate
+  target: clientseitiges Rendering
+  accept:
+  - clientseitig\p{L}* Rendering
+  - clientseitig gerendert
+  - auf dem Client gerendert
+- term: universal rendering
+  match: \buniversal render(?:ing|ed)?\b
+  decision: translate
+  target: universelles Rendering
+  accept:
+  - universell\p{L}* Rendering
+  - universell gerendert
+- term: hybrid rendering
+  match: \bhybrid render(?:ing|ed)?\b
+  decision: translate
+  target: hybrides Rendering
+  accept:
+  - hybrid\p{L}* Rendering
+  - hybrid gerendert
+- term: edge-side rendering
+  match: \bedge[- ]side render(?:ing|ed)?\b|\bESR\b
+  decision: keep
+  accept:
+  - ESR
+  note: Etablierter Rendering-Fachbegriff; Edge-Side-Rendering oder ESR.
+- term: prerendering
+  match: \bpre-?render(?:ing|ed|s)?\b
+  decision: translate
+  target: Vorab-Rendering
+  accept:
+  - Prerendering
+  - vorgerendert\p{L}*
+  - vorab gerendert\p{L}*
+  - vorab zu rendern
+- term: static site generation
+  match: \bstatic (?:site )?generation\b
+  note: Die Erzeugung statischer Websites; nicht die unspezifische „statische Generierung“.
+  decision: translate
+  target: Generierung statischer Websites
+  accept:
+  - Generierung statischer Website
+  - Generieren statischer Websites
+  - statische Website-Generierung
+- term: lazy loading
+  match: \blazy[- ]?load(?:ing|ed|s)?\b
+  note: niemals "langsam laden" (in Nuxt oft durch das Präfix <Lazy...> genutzt)
+  decision: translate
+  target: verzögertes Laden
+  accept:
+  - verzögert geladen
+  - verzögert zu laden
+  - bei Bedarf geladen
+  - Lazy-Loading
+  - Lazy Loading
+- term: developer experience
+  match: \bdeveloper experience\b|\bDX\b
+  note: Etablierter Fachbegriff Developer Experience (DX); beim ersten Vorkommen ggf. ausschreiben und mit DX abkürzen.
+  decision: keep
+  accept:
+  - DX
+- term: accessible
+  match: \baccessible\b
+  note: 'Adjektiv: accessible → barrierefrei. Accessibility als Substantiv ist ein eigener Glossareintrag.'
+  decision: translate
+  target: barrierefrei
+  accept:
+  - barrierefrei
+  - barrierefreie
+  - barrierefreier
+  - barrierefreies
+  - barrierefreien
+- term: accessibility
+  match: \baccessibility\b
+  decision: translate
+  target: Barrierefreiheit
+  note: 'Substantiv: accessibility → Barrierefreiheit; vom Adjektiv accessible („barrierefrei“) getrennt behandeln.'
+  accept:
+  - Barrierefreiheit
+  - barrierefreie Zugänglichkeit
+- term: asset
+  match: \bassets?\b
+  note: wird nicht übersetzt (gängiger Domänenbegriff, z. B. assets/-Verzeichnis)
+  decision: keep
+- term: autogenerated
+  match: \bauto-?generated\b
+  note: nicht "autogeneriert"
+  decision: translate
+  target: automatisch generiert
+  accept:
+  - automatisch generierte\p{L}*
+  - automatisch erzeugt\p{L}*
+- term: badge
+  match: \bbadges?\b
+  decision: keep
+  note: UI-Badge als etablierter Oberflächenbegriff; je nach konkretem Kontext ggf. „Kennzeichnung“ oder „Hinweis“.
+  accept:
+  - Badges
+- term: branch
+  match: \bbranch(?:es)?\b
+  note: der Branch
+  decision: keep
+- term: breaking change
+  match: \bbreaking changes?\b
+  decision: translate
+  target: inkompatible Änderung
+  accept:
+  - inkompatible Änderungen
+  - inkompatiblen Änderungen
+  - nicht abwärtskompatible Änderung
+  - nicht abwärtskompatible Änderungen
+  note: Änderung, die bestehende Nutzung inkompatibel macht; wenn konkret die Rückwärtskompatibilität gemeint ist,
+    auch „nicht abwärtskompatible Änderung“.
+- term: built-in
+  match: \bbuilt-?in\b
+  note: „integriert“ bzw. „integrierte“ je nach grammatischem Kontext; nicht „eingebaut“.
+  decision: translate
+  target: integriert
+  accept:
+  - integriert
+  - integrierte
+  - integrierter
+  - integriertes
+  - integrierten
+- term: build
+  match: \bbuild(?:s|ing)?\b
+  note: 'Kontextabhängig: als Verb „erzeugen“; als Substantiv „Build“ (z. B. ein Build) oder „Erzeugung“. Nicht
+    „bauen“ oder „builden“.'
+  decision: translate
+  target: erzeugen
+  accept:
+  - erzeugt
+  - erzeugte
+  - erzeugten
+  - Erzeugung
+  - Erzeugungen
+  - Build
+  - Builds
+- term: build process
+  match: \bbuild process(?:es)?\b
+  decision: translate
+  target: Erstellungsprozess
+  accept:
+  - Erzeugungsprozess
+  - Build-Prozess
+- term: build time
+  match: \bbuild time\b
+  decision: translate
+  target: Build-Zeit
+  accept:
+  - Build-Zeiten
+  - während des Build-Prozesses
+  - zur Build-Zeit
+  note: Zeit bzw. Phase, in der der Build erstellt wird; nicht „Erzeugungszeitpunkt“.
+- term: bundle
+  match: \bbundles?\b|\bbundling\b
+  note: das Bundle, bündeln / Bundling
+  decision: keep
+- term: command line
+  match: \bcommand line\b
+  decision: translate
+  target: Kommandozeile
+- term: commit
+  match: \bcommits?\b
+  note: gängiger Git-Domänenbegriff; der Commit
+  decision: keep
+- term: collapsed
+  match: \bcollapsed\b
+  note: nicht "ausgeblendet"
+  decision: translate
+  target: eingeklappt
+  accept:
+  - eingeklappte\p{L}*
+- term: expanded
+  match: \bexpanded\b
+  note: nicht "erweitert"
+  decision: translate
+  target: aufgeklappt
+  accept:
+  - aufgeklappte\p{L}*
+- term: CLI
+  match: \bCLI\b
+  note: beim ersten Vorkommen im Abschnitt kann "(CLI)" dahinter ergänzt werden (z. B. Nuxt-CLI)
+  decision: translate
+  target: Kommandozeilenschnittstelle
+  accept:
+  - CLI
+- term: CLI flag
+  match: \bCLI flags?\b
+  decision: translate
+  target: Befehlszeilenoption
+  accept:
+  - Befehlszeilenoptionen
+  - Kommandozeilenoption
+  - Kommandozeilenoptionen
+  - CLI-Option
+  - CLI-Optionen
+- term: configuration option
+  match: \bconfig(?:uration)? options?\b
+  note: wenn klar ist, dass es um die Konfiguration geht, kann auch nur "Option" verwendet werden
+  decision: translate
+  target: Konfigurationsoption
+  accept:
+  - Konfigurationsoptionen
+  - Option
+  - Optionen
+- term: dark mode
+  match: \bdark mode\b
+  note: nicht "Dark Mode" oder "dunkler Modus"
+  decision: translate
+  target: Dunkelmodus
+- term: light mode
+  match: \blight mode\b
+  note: nicht "Light Mode" oder "heller Modus"
+  decision: translate
+  target: Hellmodus
+- term: dependency
+  match: \bdependenc(?:y|ies)\b
+  decision: translate
+  target: Abhängigkeit
+  accept:
+  - Abhängigkeiten
+- term: deploy
+  match: \bdeploy(?:s|ed|ing|ment|ments)?\b
+  note: Eine Anwendung in einer Zielumgebung verfügbar machen; „bereitstellen“ verwenden, nicht „veröffentlichen“
+    oder „deployen“.
+  decision: translate
+  target: bereitstellen
+  accept:
+  - bereitgestellt
+  - bereitstellte
+  - Bereitstellung
+  - Bereitstellungen
+- term: deployment provider
+  match: \bdeployment providers?\b|\bhosting providers?\b
+  decision: translate
+  target: Hosting-Anbieter
+- term: deprecate
+  match: \bdeprecat(?:e|es|ed|ing)\b
+  note: Feature X is deprecated → Feature X wird nicht mehr empfohlen. Nicht pauschal mit „veraltet“ übersetzen;
+    nicht mit der tatsächlichen Entfernung gleichsetzen.
+  decision: translate
+  target: nicht mehr empfohlen
+  accept:
+  - wird nicht mehr empfohlen
+  - nicht mehr empfohlene
+  - als nicht mehr empfohlen gekennzeichnet
+  - abgekündigt
+- term: deprecation
+  match: \bdeprecations?\b
+  decision: translate
+  target: Abkündigung
+  accept:
+  - Abkündigungen
+  - Nicht-mehr-Empfehlung
+  note: Deprecation bedeutet, dass die Nutzung nicht mehr empfohlen wird; es bedeutet nicht zwingend, dass das Feature
+    bereits entfernt wurde.
+- term: dev server
+  match: \bdev(?:elopment)? servers?\b
+  decision: translate
+  target: Entwicklungsserver
+  accept:
+  - Entwicklungsservers
+  - Entwicklungsservern
+- term: dev toolbar
+  match: \bdev(?:elopment)? toolbars?\b
+  decision: translate
+  target: Entwicklungsleiste
+  accept:
+  - Entwicklungswerkzeugleiste
+  - Dev-Toolbar
+- term: directory
+  match: \bdirector(?:y|ies)\b
+  note: streng "Verzeichnis", nicht "Ordner"
+  decision: translate
+  target: Verzeichnis
+  accept:
+  - Verzeichnisse
+  - Verzeichnissen
+  - Verzeichnisses
+- term: domain
+  match: \bdomains?\b
+  decision: keep
+  accept:
+  - Domains
+  - Subdomain
+  - Subdomains
+  - Domainname
+  - Domainnamen
+  note: Im Web-/DNS-Kontext den etablierten Begriff „Domain“ verwenden (auch in der deutschen MDN-Dokumentation);
+    nicht „Domäne“.
+- term: environment variable
+  match: \benv(?:ironment)? variables?\b
+  decision: translate
+  target: Umgebungsvariable
+  accept:
+  - Umgebungsvariablen
+- term: framework
+  match: \bframeworks?\b
+  note: gängiger Domänenbegriff; das Framework
+  decision: keep
+- term: guide
+  match: \bguides?\b
+  note: nicht "Leitfaden" oder "Handbuch"
+  decision: translate
+  target: Anleitung
+  accept:
+  - Anleitungen
+- term: helper
+  match: \bhelpers?\b(?!\s+functions?\b)
+  note: Für ein eigenständiges Hilfswerkzeug; wenn ausdrücklich eine Funktion gemeint ist, den separaten Begriff
+    „helper function“ verwenden.
+  decision: translate
+  target: Hilfsprogramm
+  accept:
+  - Hilfsprogramme
+  - Hilfsprogramm
+- term: helper function
+  match: \bhelper functions?\b
+  decision: translate
+  target: Hilfsfunktion
+  note: Eine Funktion, die andere Funktionen oder Abläufe unterstützt; nicht pauschal für jedes Hilfswerkzeug verwenden.
+  accept:
+  - Hilfsfunktionen
+  - Hilfsfunktion
+- term: landing page
+  match: \blanding pages?\b
+  decision: translate
+  target: Landingpage
+  accept:
+  - Landingpages
+- term: locale
+  match: \blocales?\b
+  note: MDN verwendet „Gebietsschema“ für locale, insbesondere bei Intl und sprach-/regionsabhängigen Einstellungen.
+    Nicht mit einem Verzeichnis verwechseln.
+  decision: translate
+  target: Gebietsschema
+  accept:
+  - Gebietsschemas
+  - Gebietsschema-Bezeichner
+  - Gebietsschema-Bezeichnern
+- term: log
+  match: \blog(?:s|ged|ging)?\b
+  note: Verb "protokollieren", Substantiv "Protokollierung" (im Einzelfall "Logging")
+  decision: translate
+  target: protokollieren
+  accept:
+  - protokolliert\p{L}*
+  - Protokollierung
+  - Logging
+- term: media query
+  match: \bmedia quer(?:y|ies)\b
+  note: gängiger Domänenbegriff
+  decision: keep
+- term: override
+  match: \boverrid(?:e|es|ing|den)\b
+  decision: translate
+  target: überschreiben
+  accept:
+  - überschrieben\p{L}*
+  - überschreibt
+- term: package
+  match: \bpackages?\b
+  decision: translate
+  target: Paket
+  accept:
+  - Pakete
+  - Paketen
+  - Pakets
+- term: page
+  match: \bpages?\b
+  note: einzelne (HTML-)Seite oder Vue-Seitenkomponente; niemals "Webseite" verwenden (Verwechslungsgefahr mit "Website")
+  decision: translate
+  target: Seite
+  accept:
+  - Seiten
+- term: production
+  match: \bproduction\b
+  decision: translate
+  target: Produktion
+  accept:
+  - Produktion
+  - produktiv
+  - produktive
+  - produktiver
+  - produktives
+  - Produktionsumgebung
+  - Produktionsmodus
+  note: Substantiv „Produktion“; in Zusammensetzungen z. B. „Produktionsumgebung“ oder „Produktionsmodus“.
+- term: project root
+  match: '\bproject root(?: directory)?\b|\broot directory\b'
+  decision: translate
+  target: Projektstammverzeichnis
+  accept:
+  - Stammverzeichnis
+- term: reader
+  match: \breaders?\b
+  note: geschlechtsneutral gem. Styleguide (nicht "Leser")
+  decision: translate
+  target: Lesende
+  accept:
+  - Lesenden
+- term: release
+  match: \brelease(?:s|d|ing)?\b
+  decision: translate
+  target: veröffentlichen
+  accept:
+  - veröffentlicht
+  - veröffentlichte
+  - Veröffentlichung
+  - Veröffentlichungen
+  - Release
+  - Releases
+  note: 'Kontextabhängig: als Verb „veröffentlichen“; als Substantiv für eine Softwareversion meist „Release“. Nicht
+    beide Bedeutungen auf „veröffentlichen“ reduzieren.'
+- term: repository
+  match: \brepositor(?:y|ies)\b|\brepos?\b
+  note: gängiger Domänenbegriff; das Repository
+  decision: keep
+- term: request
+  match: \brequests?\b
+  decision: translate
+  target: Anfrage
+  accept:
+  - Anfragen
+- term: response
+  match: \bresponses?\b
+  decision: translate
+  target: Antwort
+  accept:
+  - Antworten
+- term: schema
+  match: \bschemas?\b
+  note: Plural ist "Schemas", niemals "Schemata"
+  decision: translate
+  target: Schema
+  accept:
+  - Schemas
+- term: script
+  match: \bscripts?\b
+  decision: translate
+  target: Skript
+  accept:
+  - Skripte
+  - Skripten
+  - Skripts
+- term: sidebar
+  match: \bsidebars?\b
+  decision: translate
+  target: Seitenleiste
+  accept:
+  - Seitenleisten
+- term: site
+  match: \bsites?\b|\bwebsites?\b
+  note: Vollständige Webpräsenz unter einer gemeinsamen Domain (im Gegensatz zur einzelnen „Seite“).
+  decision: translate
+  target: Website
+  accept:
+  - Websites
+  - Website
+- term: style
+  match: \bstyles?\b
+  note: gängiger Domänenbegriff
+  decision: keep
+- term: scoped style
+  match: \bscoped styles?\b
+  note: CSS-Regeln, deren Geltungsbereich auf eine Komponente beschränkt ist; „Style“ bleibt entsprechend dem
+    allgemeinen Glossareintrag „style“ als Fachbegriff erhalten.
+  decision: translate
+  target: bereichsbezogener Style
+  accept:
+  - bereichsbezogene Styles
+  - bereichsbezogener Style
+  - bereichsbezogenen Style
+- term: tab
+  match: \btabs?\b
+  note: In UI-Navigation „Registerkarte“; bei Browser-Tabs oder ausdrücklich etabliertem UI-Fachgebrauch kann „Tab“
+    stehen.
+  decision: translate
+  target: Registerkarte
+  accept:
+  - Registerkarten
+  - Tab
+  - Tabs
+- term: template
+  match: \btemplates?\b
+  note: Im Kontext von Projektvorlagen „Vorlage“; bei Vue- bzw. HTML-<template>-Tags bleibt das Code-Tag selbst
+    unübersetzt.
+  decision: translate
+  target: Vorlage
+  accept:
+  - Vorlagen
+  - Template
+  - Templates
+- term: theme
+  match: \bthemes?\b
+  note: das Theme, nicht "Design" oder "Thema"
+  decision: keep
+- term: UI
+  match: \bUI\b
+  decision: translate
+  target: Benutzeroberfläche
+  accept:
+  - UI
+- term: upgrade
+  match: \bupgrad(?:e|es|ed|ing)\b
+  decision: translate
+  target: Upgrade
+  note: Versionswechsel auf eine höhere Version; je nach Satz auch „aktualisieren“ möglich, aber nicht automatisch
+    mit update gleichsetzen.
+  accept:
+  - Upgrades
+  - Versionsupgrade
+  - Versionsupgrades
+  - auf eine höhere Version aktualisieren
+- term: update
+  match: \bupdates?\b|\bupdated\b|\bupdating\b
+  decision: translate
+  target: aktualisieren
+  accept:
+  - aktualisiert
+  - aktualisierte
+  - aktualisierten
+  - Aktualisierung
+  - Aktualisierungen
+  note: 'Update → aktualisieren. „Upgrade“ ist nicht automatisch synonym: Upgrade bezeichnet typischerweise einen
+    Versionswechsel auf eine höhere Version und erhält einen eigenen Eintrag.'
+- term: user
+  match: \busers?\b
+  note: geschlechtsneutral gem. Styleguide (nicht "Benutzer" oder "Nutzer")
+  decision: translate
+  target: Nutzende
+  accept:
+  - Nutzenden
+- term: developer
+  match: \bdevelopers?\b
+  note: geschlechtsneutral gem. Styleguide (nicht "Entwickler")
+  decision: translate
+  target: Entwickelnde
+  accept:
+  - Entwickelnden
+- term: visitor
+  match: \bvisitors?\b
+  note: geschlechtsneutral gem. Styleguide (nicht "Besucher")
+  decision: translate
+  target: Besuchende
+  accept:
+  - Besuchenden
+- term: viewport
+  match: \bviewports?\b
+  note: nicht "Ansichtsfenster" oder "Sichtfeld"; der Viewport
+  decision: keep
+- term: web
+  match: \bweb\b|\bthe web\b
+  decision: keep
+  note: „Web“ bezeichnet das World Wide Web und ist nicht vollständig synonym mit „Internet“; in technischen Zusammensetzungen
+    „Web-“ verwenden.
+  accept:
+  - Web

@@ -45,12 +45,12 @@
   note: the runtimeConfig option and useRuntimeConfig
   translations:
     fr: runtime config
-    de: Runtime-Config
+    de: Laufzeitkonfiguration
 - term: app config
   note: the app.config file and useAppConfig
   translations:
     fr: app config
-    de: App-Config
+    de: App-Konfiguration
 - term: hook
   translations:
     fr: hook
@@ -83,4 +83,4 @@
 - term: route middleware
   translations:
     fr: middleware de route
-    de: Route-Middleware
+    de: Routen-Middleware
