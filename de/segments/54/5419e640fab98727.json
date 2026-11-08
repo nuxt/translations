@@ -3,7 +3,7 @@
   "source": "Layouts are wrapper around pages",
   "text": "Layouts umschließen Seiten",
   "origin": "human",
-  "review": "edited",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
@@ -11,5 +11,9 @@
     "candidate": "Layouts sind Wrapper um Seiten"
   },
   "by": "OrbisK",
-  "updatedAt": "2026-11-08T16:15:58.956Z"
+  "verifiedBy": {
+    "by": "trueberryless",
+    "at": "2026-11-08T21:26:04.002Z"
+  },
+  "updatedAt": "2026-11-08T21:26:04.002Z"
 }
