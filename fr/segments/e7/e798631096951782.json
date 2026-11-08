@@ -1,0 +1,14 @@
+{
+  "hash": "e798631096951782",
+  "source": "Nested keys of an object can also be set individually, such as {0} for {1}. An empty variable is ignored for a key that cannot be an empty string.",
+  "text": "Les clés imbriquées d'un objet peuvent aussi être définies individuellement, par exemple {0} pour {1}. Une variable vide est ignorée pour une clé qui ne peut pas être une chaîne vide.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les clés imbriquées d'un objet peuvent aussi être définies individuellement, par exemple {0} pour {1}. Une variable vide est ignorée pour une clé qui ne peut pas être une chaîne vide."
+  },
+  "updatedAt": "2026-11-08T17:39:00.148Z"
+}

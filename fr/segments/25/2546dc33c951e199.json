@@ -1,0 +1,14 @@
+{
+  "hash": "2546dc33c951e199",
+  "source": "A plain default of {0} or {1} is replaced with an empty string, so it is set as a string. To keep a {2} default and still coerce a variable to another type, use a schema such as {3}.",
+  "text": "Une valeur par défaut simple de {0} ou {1} est remplacée par une chaîne vide, elle est donc définie comme une chaîne. Pour conserver une valeur par défaut {2} tout en convertissant une variable vers un autre type, utilisez un schéma tel que {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une valeur par défaut simple de {0} ou {1} est remplacée par une chaîne vide, elle est donc définie comme une chaîne. Pour conserver une valeur par défaut {2} tout en convertissant une variable vers un autre type, utilisez un schéma tel que {3}."
+  },
+  "updatedAt": "2026-11-08T17:39:00.148Z"
+}

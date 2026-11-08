@@ -1,0 +1,14 @@
+{
+  "hash": "28e498dd46a5c6a6",
+  "source": "Validating With a Schema",
+  "text": "Valider avec un schéma",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Valider avec un schéma"
+  },
+  "updatedAt": "2026-11-08T17:39:00.148Z"
+}

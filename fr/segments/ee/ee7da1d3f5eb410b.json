@@ -1,0 +1,14 @@
+{
+  "hash": "ee7da1d3f5eb410b",
+  "source": "Augmenting {0} or {1} from {2} changes the types only. Values are still converted according to their default, so an augmented type can describe a value your app never receives.",
+  "text": "Augmenter {0} ou {1} depuis {2} ne modifie que les types. Les valeurs sont toujours converties selon leur valeur par défaut, si bien qu'un type augmenté peut décrire une valeur que votre application ne reçoit jamais.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Augmenter {0} ou {1} depuis {2} ne modifie que les types. Les valeurs sont toujours converties selon leur valeur par défaut, si bien qu'un type augmenté peut décrire une valeur que votre application ne reçoit jamais."
+  },
+  "updatedAt": "2026-11-08T17:39:00.148Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "8ca93f651d6b1333",
+  "source": "an environment variable cannot be converted to the type of the value it replaces (for example {0} for a numeric {1})",
+  "text": "une variable d'environnement ne peut pas être convertie vers le type de la valeur qu'elle remplace (par exemple {0} pour un {1} numérique)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "une variable d'environnement ne peut pas être convertie vers le type de la valeur qu'elle remplace (par exemple {0} pour un {1} numérique)"
+  },
+  "updatedAt": "2026-11-08T17:39:00.148Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "79b4799de36d5d8a",
+  "source": "Runtime Config Environment Variables Follow the Type of Their Value",
+  "text": "Les variables d'environnement du runtime config suivent le type de leur valeur",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les variables d'environnement du runtime config suivent le type de leur valeur"
+  },
+  "updatedAt": "2026-11-08T17:39:00.148Z"
+}

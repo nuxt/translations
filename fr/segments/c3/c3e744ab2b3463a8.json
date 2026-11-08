@@ -1,0 +1,14 @@
+{
+  "hash": "c3e744ab2b3463a8",
+  "source": "A schema was assigned to the runtime config directly.",
+  "text": "Un schéma a été assigné directement au runtime config.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un schéma a été assigné directement au runtime config."
+  },
+  "updatedAt": "2026-11-08T17:39:00.148Z"
+}

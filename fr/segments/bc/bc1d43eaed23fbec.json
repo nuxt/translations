@@ -1,0 +1,14 @@
+{
+  "hash": "bc1d43eaed23fbec",
+  "source": "When the server starts, Nuxt applies matching environment variables to the {0}runtime config{/0} and checks the result against the type of each value. The server does not start if:",
+  "text": "Au démarrage du serveur, Nuxt applique les variables d'environnement correspondantes au {0}runtime config{/0} et vérifie le résultat par rapport au type de chaque valeur. Le serveur ne démarre pas si :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Au démarrage du serveur, Nuxt applique les variables d'environnement correspondantes au {0}runtime config{/0} et vérifie le résultat par rapport au type de chaque valeur. Le serveur ne démarre pas si :"
+  },
+  "updatedAt": "2026-11-08T17:39:00.148Z"
+}

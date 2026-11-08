@@ -1,0 +1,14 @@
+{
+  "hash": "b077691bc6aa8aec",
+  "source": "The schema can also be used for the whole {0}, set in the {1} of a {2}layer{/2}, or set by a module with {3}. A plain value set in a higher layer, or in your own {4}, becomes the default for a schema declared further down.",
+  "text": "Le schéma peut aussi être utilisé pour l'ensemble de {0}, défini dans le {1} d'un {2}layer (couche){/2}, ou défini par un module avec {3}. Une valeur simple définie dans un layer supérieur, ou dans votre propre {4}, devient la valeur par défaut d'un schéma déclaré plus bas.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le schéma peut aussi être utilisé pour l'ensemble de {0}, défini dans le {1} d'un {2}layer (couche){/2}, ou défini par un module avec {3}. Une valeur simple définie dans un layer supérieur, ou dans votre propre {4}, devient la valeur par défaut d'un schéma déclaré plus bas."
+  },
+  "updatedAt": "2026-11-08T17:39:00.148Z"
+}

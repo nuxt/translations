@@ -1,0 +1,14 @@
+{
+  "hash": "f68d52da062f9d02",
+  "source": "{0} (also {1}, {2}, {3}, {4}, {5}, {6} and {7})",
+  "text": "{0} (également {1}, {2}, {3}, {4}, {5}, {6} et {7})",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} (également {1}, {2}, {3}, {4}, {5}, {6} et {7})"
+  },
+  "updatedAt": "2026-11-08T17:39:00.148Z"
+}

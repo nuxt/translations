@@ -1,0 +1,14 @@
+{
+  "hash": "3e445dbbb4608868",
+  "source": "Each issue names the runtime config key and the environment variable that sets it.",
+  "text": "Chaque problème indique la clé du runtime config et la variable d'environnement qui la définit.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chaque problème indique la clé du runtime config et la variable d'environnement qui la définit."
+  },
+  "updatedAt": "2026-11-08T17:39:00.148Z"
+}

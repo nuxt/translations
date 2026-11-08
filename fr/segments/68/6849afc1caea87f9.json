@@ -1,0 +1,14 @@
+{
+  "hash": "6849afc1caea87f9",
+  "source": "Plain values that default to {0} or {1} are replaced with an empty string, so they are set as strings too. A schema such as {2} keeps its {3} default.",
+  "text": "Les valeurs simples dont la valeur par défaut est {0} ou {1} sont remplacées par une chaîne vide, elles sont donc aussi définies comme des chaînes. Un schéma tel que {2} conserve sa valeur par défaut {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les valeurs simples dont la valeur par défaut est {0} ou {1} sont remplacées par une chaîne vide, elles sont donc aussi définies comme des chaînes. Un schéma tel que {2} conserve sa valeur par défaut {3}."
+  },
+  "updatedAt": "2026-11-08T17:39:00.148Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "2be9900bad087c0f",
+  "source": "On versions of Nuxt without support for runtime config schemas, a schema is replaced by its default value and is not validated. A required value without a default becomes an empty string, so an environment variable can still override it.",
+  "text": "Sur les versions de Nuxt qui ne prennent pas en charge les schémas de runtime config, un schéma est remplacé par sa valeur par défaut et n'est pas validé. Une valeur requise sans valeur par défaut devient une chaîne vide, de sorte qu'une variable d'environnement peut toujours la remplacer.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sur les versions de Nuxt qui ne prennent pas en charge les schémas de runtime config, un schéma est remplacé par sa valeur par défaut et n'est pas validé. Une valeur requise sans valeur par défaut devient une chaîne vide, de sorte qu'une variable d'environnement peut toujours la remplacer."
+  },
+  "updatedAt": "2026-11-08T17:39:00.148Z"
+}

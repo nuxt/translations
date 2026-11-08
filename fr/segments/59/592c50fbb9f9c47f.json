@@ -1,0 +1,14 @@
+{
+  "hash": "592c50fbb9f9c47f",
+  "source": "NUXT_E8014",
+  "text": "NUXT_E8014",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "NUXT_E8014"
+  },
+  "updatedAt": "2026-11-08T17:39:00.148Z"
+}

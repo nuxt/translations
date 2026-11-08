@@ -1,0 +1,14 @@
+{
+  "hash": "6e1f74c71f0f48c2",
+  "source": "Remove literal double quotes that were only there to keep a value a string, such as {0}. With a string default, the quotes are now part of the value.",
+  "text": "Supprimez les guillemets doubles littéraux qui servaient uniquement à conserver une valeur sous forme de chaîne, comme {0}. Avec une valeur par défaut de type chaîne, les guillemets font désormais partie de la valeur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Supprimez les guillemets doubles littéraux qui servaient uniquement à conserver une valeur sous forme de chaîne, comme {0}. Avec une valeur par défaut de type chaîne, les guillemets font désormais partie de la valeur."
+  },
+  "updatedAt": "2026-11-08T17:39:00.148Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "24c68147217634c3",
+  "source": "The server does not start if an environment variable cannot be converted (for example {0} for a numeric {1}). See {2}Validating With a Schema{/2} to declare the type of a value without giving it a default.",
+  "text": "Le serveur ne démarre pas si une variable d'environnement ne peut pas être convertie (par exemple {0} pour un {1} numérique). Consultez {2}Valider avec un schéma{/2} pour déclarer le type d'une valeur sans lui donner de valeur par défaut.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le serveur ne démarre pas si une variable d'environnement ne peut pas être convertie (par exemple {0} pour un {1} numérique). Consultez {2}Valider avec un schéma{/2} pour déclarer le type d'une valeur sans lui donner de valeur par défaut."
+  },
+  "updatedAt": "2026-11-08T17:39:00.148Z"
+}

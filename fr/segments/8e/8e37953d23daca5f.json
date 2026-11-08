@@ -1,0 +1,14 @@
+{
+  "hash": "8e37953d23daca5f",
+  "source": "Value",
+  "text": "Valeur",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Valeur"
+  },
+  "updatedAt": "2026-11-08T17:39:00.148Z"
+}

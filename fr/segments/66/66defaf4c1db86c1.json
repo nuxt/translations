@@ -1,0 +1,14 @@
+{
+  "hash": "66defaf4c1db86c1",
+  "source": "A value passed to {0} can be a {1}schema{/1}, which sets the type of the value and its default:",
+  "text": "Une valeur passée à {0} peut être un {1}schéma{/1}, qui définit le type de la valeur et sa valeur par défaut :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une valeur passée à {0} peut être un {1}schéma{/1}, qui définit le type de la valeur et sa valeur par défaut :"
+  },
+  "updatedAt": "2026-11-08T17:39:00.148Z"
+}

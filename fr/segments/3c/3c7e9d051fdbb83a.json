@@ -1,0 +1,14 @@
+{
+  "hash": "3c7e9d051fdbb83a",
+  "source": "Set the listed environment variables to valid values where the server runs:",
+  "text": "Définissez les variables d'environnement listées avec des valeurs valides là où le serveur s'exécute :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définissez les variables d'environnement listées avec des valeurs valides là où le serveur s'exécute :"
+  },
+  "updatedAt": "2026-11-08T17:39:00.148Z"
+}

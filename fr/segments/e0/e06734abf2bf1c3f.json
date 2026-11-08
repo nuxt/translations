@@ -1,0 +1,14 @@
+{
+  "hash": "e06734abf2bf1c3f",
+  "source": "The server does not start if a variable cannot be converted (for example {0}), and reports {1}.",
+  "text": "Le serveur ne démarre pas si une variable ne peut pas être convertie (par exemple {0}), et signale {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le serveur ne démarre pas si une variable ne peut pas être convertie (par exemple {0}), et signale {1}."
+  },
+  "updatedAt": "2026-11-08T17:39:00.148Z"
+}

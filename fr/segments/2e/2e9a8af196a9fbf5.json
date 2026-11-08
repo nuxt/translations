@@ -1,0 +1,14 @@
+{
+  "hash": "2e9a8af196a9fbf5",
+  "source": "The schema itself is not included in your server bundle. Refinements, such as a minimum length or a URL format, are not checked, and transforms are not supported.",
+  "text": "Le schéma lui-même n'est pas inclus dans le bundle de votre serveur. Les raffinements, comme une longueur minimale ou un format d'URL, ne sont pas vérifiés, et les transformations ne sont pas prises en charge.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le schéma lui-même n'est pas inclus dans le bundle de votre serveur. Les raffinements, comme une longueur minimale ou un format d'URL, ne sont pas vérifiés, et les transformations ne sont pas prises en charge."
+  },
+  "updatedAt": "2026-11-08T17:39:00.148Z"
+}

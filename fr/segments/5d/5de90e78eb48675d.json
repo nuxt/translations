@@ -1,0 +1,14 @@
+{
+  "hash": "5de90e78eb48675d",
+  "source": "a value {0}declared with a schema{/0} is required, but has no default and no environment variable sets it",
+  "text": "une valeur {0}déclarée avec un schéma{/0} est requise, mais n'a pas de valeur par défaut et aucune variable d'environnement ne la définit",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "une valeur {0}déclarée avec un schéma{/0} est requise, mais n'a pas de valeur par défaut et aucune variable d'environnement ne la définit"
+  },
+  "updatedAt": "2026-11-08T17:39:00.148Z"
+}

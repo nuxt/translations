@@ -1,0 +1,14 @@
+{
+  "hash": "8571d26b90a1a353",
+  "source": "Assigning a schema to {0} directly throws an error.",
+  "text": "Affecter directement un schéma à {0} génère une erreur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Affecter directement un schéma à {0} génère une erreur."
+  },
+  "updatedAt": "2026-11-08T17:39:00.148Z"
+}

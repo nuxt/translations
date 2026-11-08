@@ -1,0 +1,14 @@
+{
+  "hash": "93e77d3aab4d00bf",
+  "source": "A runtime config schema cannot be converted to JSON Schema.",
+  "text": "Un schéma runtime config ne peut pas être converti en JSON Schema.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un schéma runtime config ne peut pas être converti en JSON Schema."
+  },
+  "updatedAt": "2026-11-08T17:39:00.148Z"
+}

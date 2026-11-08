@@ -1,0 +1,14 @@
+{
+  "hash": "4fc75161e0160a6e",
+  "source": "An environment variable that overrides a {0}runtime config{/0} value is converted to the type of the value in {1}, rather than guessed from its contents with {2}. {3} is a number when {4} defaults to {5}, and {6} stays a string when {7} defaults to {8}.",
+  "text": "Une variable d'environnement qui remplace une valeur du {0}runtime config{/0} est convertie vers le type de la valeur définie dans {1}, au lieu d'être devinée à partir de son contenu avec {2}. {3} est un nombre lorsque {4} a pour valeur par défaut {5}, et {6} reste une chaîne de caractères lorsque {7} a pour valeur par défaut {8}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une variable d'environnement qui remplace une valeur du {0}runtime config{/0} est convertie vers le type de la valeur définie dans {1}, au lieu d'être devinée à partir de son contenu avec {2}. {3} est un nombre lorsque {4} a pour valeur par défaut {5}, et {6} reste une chaîne de caractères lorsque {7} a pour valeur par défaut {8}."
+  },
+  "updatedAt": "2026-11-08T17:39:00.148Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "8c590fa945e28030",
+  "source": "In a module, pass the schema to {0}:",
+  "text": "Dans un module, passez le schéma à {0} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans un module, passez le schéma à {0} :"
+  },
+  "updatedAt": "2026-11-08T17:39:00.148Z"
+}

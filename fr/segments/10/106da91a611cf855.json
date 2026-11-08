@@ -1,0 +1,14 @@
+{
+  "hash": "106da91a611cf855",
+  "source": "Matching environment variables are applied and converted in the same way as at runtime. Schemas declared in {0} are replaced by their default values.",
+  "text": "Les variables d'environnement correspondantes sont appliquées et converties de la même manière qu'à l'exécution. Les schémas déclarés dans {0} sont remplacés par leurs valeurs par défaut.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les variables d'environnement correspondantes sont appliquées et converties de la même manière qu'à l'exécution. Les schémas déclarés dans {0} sont remplacés par leurs valeurs par défaut."
+  },
+  "updatedAt": "2026-11-08T17:39:00.148Z"
+}

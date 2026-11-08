@@ -1,0 +1,14 @@
+{
+  "hash": "bdae3cfc11ace2d4",
+  "source": "Schemas",
+  "text": "Schémas",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Schémas"
+  },
+  "updatedAt": "2026-11-08T17:39:00.148Z"
+}

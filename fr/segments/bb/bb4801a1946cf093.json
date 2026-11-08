@@ -1,0 +1,14 @@
+{
+  "hash": "bb4801a1946cf093",
+  "source": "The runtime config does not match its schema when the server starts.",
+  "text": "Le runtime config ne correspond pas à son schéma au démarrage du serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le runtime config ne correspond pas à son schéma au démarrage du serveur."
+  },
+  "updatedAt": "2026-11-08T17:39:00.148Z"
+}

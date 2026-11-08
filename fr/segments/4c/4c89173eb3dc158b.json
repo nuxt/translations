@@ -1,0 +1,14 @@
+{
+  "hash": "4c89173eb3dc158b",
+  "source": "Remove transforms from runtime config schemas, and convert the value where you read it instead:",
+  "text": "Supprimez les transformations des schémas runtime config et convertissez plutôt la valeur à l'endroit où vous la lisez :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Supprimez les transformations des schémas runtime config et convertissez plutôt la valeur à l'endroit où vous la lisez :"
+  },
+  "updatedAt": "2026-11-08T17:39:00.148Z"
+}
