@@ -1,14 +1,15 @@
 {
   "hash": "5419e640fab98727",
   "source": "Layouts are wrapper around pages",
-  "text": "Layouts sind Wrapper um Seiten",
-  "origin": "mt",
-  "review": "none",
+  "text": "Layouts umschließen Seiten",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Layouts sind Wrapper um Seiten"
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-08T16:15:58.956Z"
 }

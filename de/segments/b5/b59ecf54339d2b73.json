@@ -3,12 +3,16 @@
   "source": "To use pages, create an {0} file and add {1} component to the {2} (or remove {3} for default entry). You can now create more pages and their corresponding routes by adding new files in the {4} directory.",
   "text": "Um Seiten zu verwenden, erstelle eine Datei {0} und füge die Komponente {1} zur {2} hinzu (oder entferne {3}, um den Standardeinstiegspunkt zu verwenden). Du kannst nun weitere Seiten und die zugehörigen Routen erstellen, indem du neue Dateien im Verzeichnis {4} hinzufügst.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Um Seiten zu verwenden, erstelle eine Datei {0} und füge die Komponente {1} zur {2} hinzu (oder entferne {3}, um den Standardeinstiegspunkt zu verwenden). Du kannst nun weitere Seiten und die zugehörigen Routen erstellen, indem du neue Dateien im Verzeichnis {4} hinzufügst."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T16:15:58.956Z"
+  },
+  "updatedAt": "2026-11-08T16:15:58.956Z"
 }

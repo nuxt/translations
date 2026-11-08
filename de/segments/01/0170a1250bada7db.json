@@ -3,12 +3,16 @@
   "source": "Pages represent views for each specific route pattern. Every file in the {0} directory represents a different route displaying its content.",
   "text": "Seiten stellen Ansichten für jedes bestimmte Routenmuster dar. Jede Datei im Verzeichnis {0} steht für eine eigene Route, die ihren Inhalt anzeigt.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Seiten stellen Ansichten für jedes bestimmte Routenmuster dar. Jede Datei im Verzeichnis {0} steht für eine eigene Route, die ihren Inhalt anzeigt."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T16:15:58.956Z"
+  },
+  "updatedAt": "2026-11-08T16:15:58.956Z"
 }

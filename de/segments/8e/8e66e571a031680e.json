@@ -1,14 +1,15 @@
 {
   "hash": "8e66e571a031680e",
   "source": "If you only need to modify the {0}, you can refer to the {1}SEO and meta section{/1}.",
-  "text": "Wenn du nur das {0} ändern möchtest, schau dir den {1}Abschnitt „SEO und Meta“{/1} an.",
-  "origin": "mt",
-  "review": "none",
+  "text": "Wenn du nur den {0} ändern möchtest, schau dir den {1}Abschnitt „SEO und Meta“{/1} an.",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Wenn du nur das {0} ändern möchtest, schau dir den {1}Abschnitt „SEO und Meta“{/1} an."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-08T16:15:58.956Z"
 }

@@ -1,14 +1,15 @@
 {
   "hash": "1ec020437e6dc2a1",
   "source": "Layouts are wrappers around pages that contain a common User Interface for several pages, such as header and footer displays. Layouts are Vue files using {0} components to display the **page** content. The {1} file will be used by default. Custom layouts can be set as part of your page metadata.",
-  "text": "Layouts sind Wrapper um Seiten, die eine gemeinsame Benutzeroberfläche für mehrere Seiten enthalten, zum Beispiel Kopf- und Fußbereiche. Layouts sind Vue-Dateien, die {0}-Komponenten verwenden, um den Inhalt der **Seite** anzuzeigen. Standardmäßig wird die Datei {1} verwendet. Eigene Layouts lassen sich als Teil der Metadaten deiner Seite festlegen.",
-  "origin": "mt",
-  "review": "none",
+  "text": "Layouts umschließen Seiten, die eine gemeinsame Benutzeroberfläche für mehrere Seiten enthalten, zum Beispiel Kopf- und Fußbereiche. Layouts sind Vue-Dateien, die {0}-Komponenten verwenden, um den Inhalt der **Seite** anzuzeigen. Standardmäßig wird die Datei {1} verwendet. Eigene Layouts lassen sich als Teil der Metadaten deiner Seite festlegen.",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Layouts sind Wrapper um Seiten, die eine gemeinsame Benutzeroberfläche für mehrere Seiten enthalten, zum Beispiel Kopf- und Fußbereiche. Layouts sind Vue-Dateien, die {0}-Komponenten verwenden, um den Inhalt der **Seite** anzuzeigen. Standardmäßig wird die Datei {1} verwendet. Eigene Layouts lassen sich als Teil der Metadaten deiner Seite festlegen."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-08T16:15:58.956Z"
 }

@@ -3,12 +3,16 @@
   "source": "If you want to create more layouts and learn how to use them in your pages, find more information in the {0}Layouts section{/0}.",
   "text": "Wenn du weitere Layouts erstellen und erfahren möchtest, wie du sie in deinen Seiten verwendest, findest du weitere Informationen im {0}Abschnitt „Layouts“{/0}.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Wenn du weitere Layouts erstellen und erfahren möchtest, wie du sie in deinen Seiten verwendest, findest du weitere Informationen im {0}Abschnitt „Layouts“{/0}."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T16:15:58.956Z"
+  },
+  "updatedAt": "2026-11-08T16:15:58.956Z"
 }

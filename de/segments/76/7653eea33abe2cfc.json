@@ -3,12 +3,16 @@
   "source": "Most components are reusable pieces of the user interface, like buttons and menus. In Nuxt, you can create these components in the {0} directory, and they will be automatically available across your application without having to explicitly import them.",
   "text": "Die meisten Komponenten sind wiederverwendbare Teile der Benutzeroberfläche, etwa Buttons und Menüs. In Nuxt kannst du diese Komponenten im Verzeichnis {0} erstellen. Sie stehen dann automatisch in deiner gesamten Anwendung zur Verfügung, ohne dass du sie explizit importieren musst.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Die meisten Komponenten sind wiederverwendbare Teile der Benutzeroberfläche, etwa Buttons und Menüs. In Nuxt kannst du diese Komponenten im Verzeichnis {0} erstellen. Sie stehen dann automatisch in deiner gesamten Anwendung zur Verfügung, ohne dass du sie explizit importieren musst."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T16:15:58.956Z"
+  },
+  "updatedAt": "2026-11-08T16:15:58.956Z"
 }

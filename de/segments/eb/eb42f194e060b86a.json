@@ -3,12 +3,16 @@
   "source": "By default, Nuxt will treat this file as the **entrypoint** and render its content for every route of the application.",
   "text": "Standardmäßig behandelt Nuxt diese Datei als **Einstiegspunkt** und rendert ihren Inhalt für jede Route der Anwendung.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Standardmäßig behandelt Nuxt diese Datei als **Einstiegspunkt** und rendert ihren Inhalt für jede Route der Anwendung."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T16:15:58.956Z"
+  },
+  "updatedAt": "2026-11-08T16:15:58.956Z"
 }
