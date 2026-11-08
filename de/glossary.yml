@@ -307,8 +307,8 @@ terms:
   - zur Build-Zeit
   note: Zeit bzw. Phase, in der der Build erstellt wird; nicht „Erzeugungszeitpunkt“.
 - term: bundle
-  match: \bbundles?\b|\bbundling\b
-  note: das Bundle, bündeln / Bundling
+  match: \bbundl(?:es?|ed|ers?|ing)\b
+  note: Nomen beibehalten (das Bundle, der Bundler, das Bundling); als Verb „bündeln“ / „gebündelt“ verwenden.
   decision: keep
 - term: command line
   match: \bcommand line\b

@@ -2,3 +2,4 @@
 .diglot/sources/
 .x18n/
 node_modules
+.idea
