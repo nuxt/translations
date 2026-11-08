@@ -3,12 +3,16 @@
   "source": "You can import stylesheets in your pages, layouts and components directly. You can use a JavaScript import, or a CSS {0}{1} statement{/0}.",
   "text": "Du kannst Stylesheets direkt in deinen Seiten, Layouts und Komponenten importieren. Dafür kannst du einen JavaScript-Import oder eine CSS-{0}{1}-Anweisung{/0} verwenden.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Du kannst Stylesheets direkt in deinen Seiten, Layouts und Komponenten importieren. Dafür kannst du einen JavaScript-Import oder eine CSS-{0}{1}-Anweisung{/0} verwenden."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T16:59:42.413Z"
+  },
+  "updatedAt": "2026-11-08T16:59:42.413Z"
 }

@@ -3,12 +3,16 @@
   "source": "Importing Within Components",
   "text": "Import innerhalb von Komponenten",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Import innerhalb von Komponenten"
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T16:59:42.413Z"
+  },
+  "updatedAt": "2026-11-08T16:59:42.413Z"
 }

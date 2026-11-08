@@ -1,14 +1,15 @@
 {
   "hash": "927b1f867ae3d478",
   "source": "Working With Fonts",
-  "text": "Mit Schriftarten arbeiten",
-  "origin": "mt",
-  "review": "none",
+  "text": "Arbeiten mit Schriftarten",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Mit Schriftarten arbeiten"
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-08T16:59:42.413Z"
 }

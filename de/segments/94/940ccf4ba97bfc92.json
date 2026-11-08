@@ -3,12 +3,16 @@
   "source": "Nuxt is highly flexible when it comes to styling. Write your own styles, or reference local and external stylesheets. You can use CSS preprocessors, CSS frameworks, UI libraries and Nuxt modules to style your application.",
   "text": "Nuxt ist beim Styling äußerst flexibel. Schreibe eigene Styles oder binde lokale und externe Stylesheets ein. Du kannst CSS-Präprozessoren, CSS-Frameworks, Bibliotheken für Benutzeroberflächen und Nuxt-Module nutzen, um deine Anwendung zu gestalten.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Nuxt ist beim Styling äußerst flexibel. Schreibe eigene Styles oder binde lokale und externe Stylesheets ein. Du kannst CSS-Präprozessoren, CSS-Frameworks, Bibliotheken für Benutzeroberflächen und Nuxt-Module nutzen, um deine Anwendung zu gestalten."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T16:59:42.413Z"
+  },
+  "updatedAt": "2026-11-08T16:59:42.413Z"
 }

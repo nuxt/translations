@@ -1,14 +1,15 @@
 {
   "hash": "1baef4dbd3158dd5",
   "source": "Stylesheets Distributed Through NPM",
-  "text": "Über npm verteilte Stylesheets",
-  "origin": "mt",
-  "review": "none",
+  "text": "Stylesheets aus der npm-Registry",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Über npm verteilte Stylesheets"
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-08T16:59:42.413Z"
 }

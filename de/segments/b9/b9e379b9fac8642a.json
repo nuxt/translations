@@ -3,12 +3,16 @@
   "source": "You can include external stylesheets in your application by adding a link element in the head section of your nuxt.config file. You can achieve this result using different methods. Note that local stylesheets can also be included this way.",
   "text": "Du kannst externe Stylesheets in deine Anwendung einbinden, indem du in der nuxt.config-Datei ein link-Element im head-Bereich hinzufügst. Dieses Ergebnis lässt sich auf unterschiedliche Weise erzielen. Beachte, dass sich auf diese Weise auch lokale Stylesheets einbinden lassen.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Du kannst externe Stylesheets in deine Anwendung einbinden, indem du in der nuxt.config-Datei ein link-Element im head-Bereich hinzufügst. Dieses Ergebnis lässt sich auf unterschiedliche Weise erzielen. Beachte, dass sich auf diese Weise auch lokale Stylesheets einbinden lassen."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T16:59:42.413Z"
+  },
+  "updatedAt": "2026-11-08T16:59:42.413Z"
 }

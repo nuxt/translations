@@ -3,12 +3,16 @@
   "source": "Nuxt uses {0} under the hood, and you can refer to {1}its full documentation{/1}.",
   "text": "Nuxt verwendet im Hintergrund {0}. Weitere Informationen findest du in {1}der vollständigen Dokumentation{/1}.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Nuxt verwendet im Hintergrund {0}. Weitere Informationen findest du in {1}der vollständigen Dokumentation{/1}."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T16:59:42.413Z"
+  },
+  "updatedAt": "2026-11-08T16:59:42.413Z"
 }

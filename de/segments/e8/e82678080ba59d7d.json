@@ -3,12 +3,16 @@
   "source": "External stylesheets are render-blocking resources: they must be loaded and processed before the browser renders the page. Web pages that contain unnecessarily large styles take longer to render. You can read more about it on {0}web.dev{/0}.",
   "text": "Externe Stylesheets sind renderblockierende Ressourcen: Sie müssen geladen und verarbeitet werden, bevor der Browser die Seite rendert. Seiten mit unnötig umfangreichen Styles benötigen länger zum Rendern. Mehr dazu erfährst du auf {0}web.dev{/0}.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Externe Stylesheets sind renderblockierende Ressourcen: Sie müssen geladen und verarbeitet werden, bevor der Browser die Seite rendert. Seiten mit unnötig umfangreichen Styles benötigen länger zum Rendern. Mehr dazu erfährst du auf {0}web.dev{/0}."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T16:59:42.413Z"
+  },
+  "updatedAt": "2026-11-08T16:59:42.413Z"
 }

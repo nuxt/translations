@@ -3,12 +3,16 @@
   "source": "Place your local fonts files in your {0} directory, for example in {1}. You can then reference them in your stylesheets using {2}.",
   "text": "Lege deine lokalen Schriftdateien in deinem Verzeichnis {0} ab, zum Beispiel in {1}. Anschließend kannst du in deinen Stylesheets mit {2} auf sie verweisen.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Lege deine lokalen Schriftdateien in deinem Verzeichnis {0} ab, zum Beispiel in {1}. Anschließend kannst du in deinen Stylesheets mit {2} auf sie verweisen."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T16:59:42.413Z"
+  },
+  "updatedAt": "2026-11-08T16:59:42.413Z"
 }

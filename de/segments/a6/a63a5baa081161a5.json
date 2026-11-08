@@ -1,14 +1,15 @@
 {
   "hash": "a63a5baa081161a5",
   "source": "The package can also be referenced as a string in the css property of your Nuxt configuration.",
-  "text": "Das Paket kann auch als Zeichenkette in der Eigenschaft css deiner Nuxt-Konfiguration angegeben werden.",
-  "origin": "mt",
-  "review": "none",
+  "text": "Das Paket kann auch als Zeichenkette im CSS-Schlüssel deiner Nuxt-Konfiguration angegeben werden.",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Das Paket kann auch als Zeichenkette in der Eigenschaft css deiner Nuxt-Konfiguration angegeben werden."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-08T16:59:42.413Z"
 }

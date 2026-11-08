@@ -3,12 +3,16 @@
   "source": "You can also reference stylesheets that are distributed through npm. Let's use the popular {0} library as an example.",
   "text": "Du kannst auch auf Stylesheets verweisen, die über npm verteilt werden. Als Beispiel verwenden wir die beliebte Bibliothek {0}.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Du kannst auch auf Stylesheets verweisen, die über npm verteilt werden. Als Beispiel verwenden wir die beliebte Bibliothek {0}."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T16:59:42.413Z"
+  },
+  "updatedAt": "2026-11-08T16:59:42.413Z"
 }

@@ -3,12 +3,16 @@
   "source": "Then you can reference it directly in your pages, layouts and components:",
   "text": "Danach kannst du sie direkt in deinen Seiten, Layouts und Komponenten einbinden:",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Danach kannst du sie direkt in deinen Seiten, Layouts und Komponenten einbinden:"
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T16:59:42.413Z"
+  },
+  "updatedAt": "2026-11-08T16:59:42.413Z"
 }
