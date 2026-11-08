@@ -1,14 +1,15 @@
 {
   "hash": "588acd5de99c6bf6",
   "source": "If you need to inject code in pre-processed files, like a {0}Sass partial{/0} with color variables, you can do so with the Vite {1}preprocessors options{/1}.",
-  "text": "Wenn du Code in vorverarbeitete Dateien einfügen musst, etwa eine {0}Sass-Partial{/0} mit Farbvariablen, kannst du das über die {1}Präprozessor-Optionen{/1} von Vite tun.",
-  "origin": "mt",
-  "review": "none",
+  "text": "Wenn du Code in präprozessierte Dateien einfügen möchtest, etwa eine {0}Sass-Partial{/0} mit Farbvariablen, kannst du das über die {1}Präprozessor-Optionen{/1} von Vite tun.",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Wenn du Code in vorverarbeitete Dateien einfügen musst, etwa eine {0}Sass-Partial{/0} mit Farbvariablen, kannst du das über die {1}Präprozessor-Optionen{/1} von Vite tun."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-08T20:02:51.441Z"
 }

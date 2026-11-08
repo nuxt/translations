@@ -3,12 +3,16 @@
   "source": "Create some partials in your {0} directory:",
   "text": "Erstelle einige Partials in deinem Verzeichnis {0}:",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Erstelle einige Partials in deinem Verzeichnis {0}:"
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T20:02:51.441Z"
+  },
+  "updatedAt": "2026-11-08T20:02:51.441Z"
 }

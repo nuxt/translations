@@ -3,12 +3,16 @@
   "source": "To use a preprocessor like SCSS, Sass, Less or Stylus, install it first.",
   "text": "Um einen Präprozessor wie SCSS, Sass, Less oder Stylus zu verwenden, installiere ihn zunächst.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Um einen Präprozessor wie SCSS, Sass, Less oder Stylus zu verwenden, installiere ihn zunächst."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T20:02:51.441Z"
+  },
+  "updatedAt": "2026-11-08T20:02:51.441Z"
 }

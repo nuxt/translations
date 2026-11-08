@@ -3,12 +3,16 @@
   "source": "The natural place to write your stylesheets is the {0} directory. You can then import your source files in your {1} (or layouts files) using your preprocessor's syntax.",
   "text": "Deine Stylesheets schreibst du am besten im Verzeichnis {0}. Anschließend kannst du deine Quelldateien in {1} (oder in Layout-Dateien) mit der Syntax deines Präprozessors importieren.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Deine Stylesheets schreibst du am besten im Verzeichnis {0}. Anschließend kannst du deine Quelldateien in {1} (oder in Layout-Dateien) mit der Syntax deines Präprozessors importieren."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T20:02:51.441Z"
+  },
+  "updatedAt": "2026-11-08T20:02:51.441Z"
 }

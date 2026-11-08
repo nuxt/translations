@@ -1,14 +1,15 @@
 {
   "hash": "f9146581ebbe2597",
   "source": "Alternatively, you can use the {0} property of your Nuxt configuration.",
-  "text": "Alternativ kannst du die Eigenschaft {0} deiner Nuxt-Konfiguration verwenden.",
-  "origin": "mt",
-  "review": "none",
+  "text": "Alternativ kannst du den Schlüssel {0} deiner Nuxt-Konfiguration verwenden.",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Alternativ kannst du die Eigenschaft {0} deiner Nuxt-Konfiguration verwenden."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-08T20:02:51.441Z"
 }

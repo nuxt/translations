@@ -3,12 +3,16 @@
   "source": "In both cases, the compiled stylesheets will be inlined in the HTML rendered by Nuxt.",
   "text": "In beiden Fällen werden die kompilierten Stylesheets in das von Nuxt gerenderte HTML eingebettet.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "In beiden Fällen werden die kompilierten Stylesheets in das von Nuxt gerenderte HTML eingebettet."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T20:02:51.441Z"
+  },
+  "updatedAt": "2026-11-08T20:02:51.441Z"
 }
