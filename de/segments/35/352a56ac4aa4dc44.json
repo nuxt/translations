@@ -3,12 +3,16 @@
   "source": "Glob imports are lazy by default. Add {0} if the URLs must be available synchronously:",
   "text": "Glob-Imports sind standardmäßig lazy. Füge {0} hinzu, wenn die URLs synchron verfügbar sein müssen:",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Glob-Imports sind standardmäßig lazy. Füge {0} hinzu, wenn die URLs synchron verfügbar sein müssen:"
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T16:45:32.612Z"
+  },
+  "updatedAt": "2026-11-08T16:45:32.612Z"
 }

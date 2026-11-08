@@ -3,12 +3,16 @@
   "source": "For example, referencing an image file in the {0} directory, available at the static URL {1}:",
   "text": "Zum Beispiel wird hier eine Bilddatei aus dem Verzeichnis {0} referenziert, die unter der statischen URL {1} verfügbar ist:",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Zum Beispiel wird hier eine Bilddatei aus dem Verzeichnis {0} referenziert, die unter der statischen URL {1} verfügbar ist:"
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T16:45:32.612Z"
+  },
+  "updatedAt": "2026-11-08T16:45:32.612Z"
 }

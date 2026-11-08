@@ -3,12 +3,16 @@
   "source": "For example, referencing an image file that will be processed if a build tool is configured to handle this file extension:",
   "text": "Zum Beispiel wird hier eine Bilddatei referenziert, die verarbeitet wird, wenn ein Build-Werkzeug für diese Dateiendung konfiguriert ist:",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Zum Beispiel wird hier eine Bilddatei referenziert, die verarbeitet wird, wenn ein Build-Werkzeug für diese Dateiendung konfiguriert ist:"
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T16:45:32.612Z"
+  },
+  "updatedAt": "2026-11-08T16:45:32.612Z"
 }

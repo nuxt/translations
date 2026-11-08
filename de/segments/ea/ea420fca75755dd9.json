@@ -1,14 +1,15 @@
 {
   "hash": "ea420fca75755dd9",
   "source": "You can get a file in the {0} directory from your application's code or from a browser by the root URL {1}.",
-  "text": "Du kannst im Code deiner Anwendung oder in einem Browser über die Root-URL {1} auf eine Datei im Verzeichnis {0} zugreifen.",
-  "origin": "mt",
-  "review": "none",
+  "text": "Du kannst im Code deiner Anwendung oder in einem Browser über die Stamm-URL {1} auf eine Datei im Verzeichnis {0} zugreifen.",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Du kannst im Code deiner Anwendung oder in einem Browser über die Root-URL {1} auf eine Datei im Verzeichnis {0} zugreifen."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-08T16:45:32.612Z"
 }

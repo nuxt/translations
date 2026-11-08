@@ -3,12 +3,16 @@
   "source": "For a broader pattern or an explicit map of available files, use {0}:",
   "text": "Für ein breiteres Muster oder eine explizite Zuordnung der verfügbaren Dateien verwende {0}:",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Für ein breiteres Muster oder eine explizite Zuordnung der verfügbaren Dateien verwende {0}:"
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T16:45:32.612Z"
+  },
+  "updatedAt": "2026-11-08T16:45:32.612Z"
 }

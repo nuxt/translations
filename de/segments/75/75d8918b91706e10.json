@@ -3,12 +3,16 @@
   "source": "The {0} directory contains by convention every asset that you want the build tool (Vite or webpack) to process.",
   "text": "Das Verzeichnis {0} enthält per Konvention alle Assets, die das Build-Werkzeug (Vite oder webpack) verarbeiten soll.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Das Verzeichnis {0} enthält per Konvention alle Assets, die das Build-Werkzeug (Vite oder webpack) verarbeiten soll."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T16:45:32.612Z"
+  },
+  "updatedAt": "2026-11-08T16:45:32.612Z"
 }

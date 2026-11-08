@@ -3,12 +3,16 @@
   "source": "Nuxt uses two directories to handle assets like stylesheets, fonts or images.",
   "text": "Nuxt verwendet zwei Verzeichnisse, um Assets wie Stylesheets, Schriftarten oder Bilder zu verwalten.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Nuxt verwendet zwei Verzeichnisse, um Assets wie Stylesheets, Schriftarten oder Bilder zu verwalten."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T16:45:32.612Z"
+  },
+  "updatedAt": "2026-11-08T16:45:32.612Z"
 }

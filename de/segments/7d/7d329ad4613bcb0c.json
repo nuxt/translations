@@ -3,12 +3,16 @@
   "source": "The {0} directory is used as a public server for static assets publicly available at a defined URL of your application.",
   "text": "Das Verzeichnis {0} dient als öffentlicher Server für statische Assets, die unter einer festgelegten URL deiner Anwendung öffentlich verfügbar sind.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Das Verzeichnis {0} dient als öffentlicher Server für statische Assets, die unter einer festgelegten URL deiner Anwendung öffentlich verfügbar sind."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T16:45:32.612Z"
+  },
+  "updatedAt": "2026-11-08T16:45:32.612Z"
 }

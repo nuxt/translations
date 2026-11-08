@@ -3,12 +3,16 @@
   "source": "When many files share a directory and extension, use a {0}variable dynamic import{/0} instead of listing every file:",
   "text": "Wenn viele Dateien im selben Verzeichnis liegen und dieselbe Dateiendung haben, verwende einen {0}dynamischen Import mit Variable{/0}, statt jede Datei einzeln aufzulisten:",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Wenn viele Dateien im selben Verzeichnis liegen und dieselbe Dateiendung haben, verwende einen {0}dynamischen Import mit Variable{/0}, statt jede Datei einzeln aufzulisten:"
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T16:45:32.612Z"
+  },
+  "updatedAt": "2026-11-08T16:45:32.612Z"
 }

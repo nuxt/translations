@@ -3,12 +3,16 @@
   "source": "Await a lazy import before using its URL in server-rendered markup. Vite's {0}{1} pattern{/0} does not work with SSR.",
   "text": "Warte auf einen Lazy Import, bevor du seine URL in serverseitig gerendertem Markup verwendest. Das {0}Muster {1}{/0} von Vite funktioniert nicht mit SSR.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Warte auf einen Lazy Import, bevor du seine URL in serverseitig gerendertem Markup verwendest. Das {0}Muster {1}{/0} von Vite funktioniert nicht mit SSR."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T16:45:32.612Z"
+  },
+  "updatedAt": "2026-11-08T16:45:32.612Z"
 }

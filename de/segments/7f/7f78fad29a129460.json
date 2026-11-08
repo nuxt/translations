@@ -3,12 +3,16 @@
   "source": "In your application's code, you can reference a file located in the {0} directory by using the {1} path.",
   "text": "Im Code deiner Anwendung kannst du eine Datei im Verzeichnis {0} über den Pfad {1} referenzieren.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Im Code deiner Anwendung kannst du eine Datei im Verzeichnis {0} über den Pfad {1} referenzieren."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T16:45:32.612Z"
+  },
+  "updatedAt": "2026-11-08T16:45:32.612Z"
 }

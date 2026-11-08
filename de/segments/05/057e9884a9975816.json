@@ -3,12 +3,16 @@
   "source": "Nuxt uses {0}Vite{/0} (default) or {1}webpack{/1} to build and bundle your application. The main function of these build tools is to process JavaScript files, but they can be extended through {2}plugins{/2} (for Vite) or {3}loaders{/3} (for webpack) to process other kinds of assets, like stylesheets, fonts or SVGs. This step transforms the original file, mainly for performance or caching purposes (such as stylesheet minification or browser cache invalidation).",
   "text": "Nuxt verwendet {0}Vite{/0} (Standard) oder {1}webpack{/1}, um deine Anwendung zu erzeugen und zu bündeln. Die Hauptaufgabe dieser Build-Werkzeuge besteht darin, JavaScript-Dateien zu verarbeiten. Sie lassen sich jedoch über {2}Plugins{/2} (bei Vite) oder {3}Loader{/3} (bei webpack) erweitern, um auch andere Arten von Assets wie Stylesheets, Schriftarten oder SVGs zu verarbeiten. Dieser Schritt transformiert die ursprüngliche Datei, vor allem aus Performance- oder Caching-Gründen (etwa Minifizierung von Stylesheets oder Invalidierung des Browser-Caches).",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Nuxt verwendet {0}Vite{/0} (Standard) oder {1}webpack{/1}, um deine Anwendung zu erzeugen und zu bündeln. Die Hauptaufgabe dieser Build-Werkzeuge besteht darin, JavaScript-Dateien zu verarbeiten. Sie lassen sich jedoch über {2}Plugins{/2} (bei Vite) oder {3}Loader{/3} (bei webpack) erweitern, um auch andere Arten von Assets wie Stylesheets, Schriftarten oder SVGs zu verarbeiten. Dieser Schritt transformiert die ursprüngliche Datei, vor allem aus Performance- oder Caching-Gründen (etwa Minifizierung von Stylesheets oder Invalidierung des Browser-Caches)."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T16:45:32.612Z"
+  },
+  "updatedAt": "2026-11-08T16:45:32.612Z"
 }

@@ -3,12 +3,16 @@
   "source": "When the possible files are known, list their imports explicitly:",
   "text": "Wenn die möglichen Dateien bekannt sind, liste ihre Imports explizit auf:",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Wenn die möglichen Dateien bekannt sind, liste ihre Imports explizit auf:"
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T16:45:32.612Z"
+  },
+  "updatedAt": "2026-11-08T16:45:32.612Z"
 }

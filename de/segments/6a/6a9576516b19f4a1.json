@@ -3,12 +3,16 @@
   "source": "The {0} directory content is served at the server root as-is.",
   "text": "Der Inhalt des Verzeichnisses {0} wird unverändert im Stammverzeichnis des Servers bereitgestellt.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Der Inhalt des Verzeichnisses {0} wird unverändert im Stammverzeichnis des Servers bereitgestellt."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T16:45:32.612Z"
+  },
+  "updatedAt": "2026-11-08T16:45:32.612Z"
 }

@@ -1,14 +1,15 @@
 {
   "hash": "a2169332ced4755d",
   "source": "Because {0} is applied at runtime, a static public path works even when the base URL is only known at deploy time (for example set via {1}), and it works whether or not the file is processed by the build. This resolution only happens for literal paths the build tool can see.",
-  "text": "Da {0} zur Laufzeit angewendet wird, funktioniert ein statischer öffentlicher Pfad auch dann, wenn die Basis-URL erst bei der Bereitstellung bekannt ist (zum Beispiel über {1} festgelegt) – unabhängig davon, ob die Datei vom Build verarbeitet wird. Diese Auflösung findet nur bei literalen Pfaden statt, die das Build-Werkzeug erkennen kann.",
-  "origin": "mt",
-  "review": "none",
+  "text": "Da {0} zur Laufzeit angewendet wird, funktioniert ein statischer öffentlicher Pfad auch dann, wenn die Basis-URL erst bei der Bereitstellung bekannt ist (zum Beispiel über {1} festgelegt) – unabhängig davon, ob die Datei vom Build verarbeitet wird. Diese Auflösung findet nur für fest angegebene Pfade statt, die das Build-Tool erkennen kann.",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Da {0} zur Laufzeit angewendet wird, funktioniert ein statischer öffentlicher Pfad auch dann, wenn die Basis-URL erst bei der Bereitstellung bekannt ist (zum Beispiel über {1} festgelegt) – unabhängig davon, ob die Datei vom Build verarbeitet wird. Diese Auflösung findet nur bei literalen Pfaden statt, die das Build-Werkzeug erkennen kann."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-08T16:45:32.612Z"
 }

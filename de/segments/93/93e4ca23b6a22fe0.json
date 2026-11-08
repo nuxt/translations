@@ -3,12 +3,16 @@
   "source": "Nuxt won't serve files in the {0} directory at a static URL like {1}. If you need a static URL, use the {2} directory.",
   "text": "Nuxt stellt Dateien im Verzeichnis {0} nicht unter einer statischen URL wie {1} bereit. Wenn du eine statische URL benötigst, verwende das Verzeichnis {2}.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Nuxt stellt Dateien im Verzeichnis {0} nicht unter einer statischen URL wie {1} bereit. Wenn du eine statische URL benötigst, verwende das Verzeichnis {2}."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T16:45:32.612Z"
+  },
+  "updatedAt": "2026-11-08T16:45:32.612Z"
 }

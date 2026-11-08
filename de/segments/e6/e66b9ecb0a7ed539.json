@@ -1,14 +1,15 @@
 {
   "hash": "e66b9ecb0a7ed539",
   "source": "Static vs. Dynamic {0}",
-  "text": "Statisches vs. dynamisches {0}",
-  "origin": "mt",
-  "review": "none",
+  "text": "Statische im Vergleich zu dynamischen {0} Attributen",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Statisches vs. dynamisches {0}"
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-08T16:45:32.612Z"
 }

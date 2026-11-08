@@ -1,14 +1,15 @@
 {
   "hash": "31d2cb21173ac58b",
   "source": "A bound {0} whose value is assembled at runtime is opaque to the build tool, so none of that rewriting happens. The string is used exactly as written:",
-  "text": "Ein gebundenes {0}, dessen Wert erst zur Laufzeit zusammengesetzt wird, ist für das Build-Werkzeug nicht durchschaubar, sodass keine dieser Umschreibungen stattfindet. Der String wird genau so verwendet, wie er geschrieben ist:",
-  "origin": "mt",
-  "review": "none",
+  "text": "Ein gebundenes {0} Attribut, dessen Wert erst zur Laufzeit zusammengesetzt wird, ist für das Build-Werkzeug nicht erkennbar, sodass keine dieser Umschreibungen stattfindet. Der String wird genau so verwendet, wie er geschrieben ist:",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Ein gebundenes {0}, dessen Wert erst zur Laufzeit zusammengesetzt wird, ist für das Build-Werkzeug nicht durchschaubar, sodass keine dieser Umschreibungen stattfindet. Der String wird genau so verwendet, wie er geschrieben ist:"
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-08T16:45:32.612Z"
 }

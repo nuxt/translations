@@ -3,12 +3,16 @@
   "source": "Nuxt offers two options for your assets.",
   "text": "Nuxt bietet zwei Möglichkeiten für deine Assets.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Nuxt bietet zwei Möglichkeiten für deine Assets."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T16:45:32.612Z"
+  },
+  "updatedAt": "2026-11-08T16:45:32.612Z"
 }

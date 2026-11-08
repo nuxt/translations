@@ -1,14 +1,15 @@
 {
   "hash": "c528b4966def2c3c",
   "source": "A runtime-built public path like {0} is therefore **not** prefixed with {1}. If your application is deployed below the origin root, prefix it yourself with {2} (for example via {3}).",
-  "text": "Einem zur Laufzeit zusammengesetzten öffentlichen Pfad wie {0} wird daher {1} **nicht** vorangestellt. Wenn deine Anwendung unterhalb des Origin-Stammverzeichnisses bereitgestellt wird, stelle {2} selbst voran (zum Beispiel über {3}).",
-  "origin": "mt",
-  "review": "none",
+  "text": "Einem zur Laufzeit zusammengesetzten öffentlichen Pfad wie {0} wird daher {1} **nicht** vorangestellt. Wenn deine Anwendung in einem Unterpfad statt im Stammverzeichnis der Domain bereitgestellt wird, stelle {2} selbst voran (zum Beispiel über {3}).",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Einem zur Laufzeit zusammengesetzten öffentlichen Pfad wie {0} wird daher {1} **nicht** vorangestellt. Wenn deine Anwendung unterhalb des Origin-Stammverzeichnisses bereitgestellt wird, stelle {2} selbst voran (zum Beispiel über {3})."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-08T16:45:32.612Z"
 }

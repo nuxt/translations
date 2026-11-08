@@ -1,14 +1,15 @@
 {
   "hash": "7a05b9866e227ea0",
   "source": "Each import has a literal path, so Vite can find both files at build time while loading only the selected module at runtime.",
-  "text": "Jeder Import hat einen literalen Pfad, sodass Vite beide Dateien zur Build-Zeit finden kann und zur Laufzeit nur das ausgewählte Modul lädt.",
-  "origin": "mt",
-  "review": "none",
+  "text": "Jeder Import hat einen fest angegebenen Pfad, sodass Vite beide Dateien zur Build-Zeit finden kann und zur Laufzeit nur das ausgewählte Modul lädt.",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Jeder Import hat einen literalen Pfad, sodass Vite beide Dateien zur Build-Zeit finden kann und zur Laufzeit nur das ausgewählte Modul lädt."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-08T16:45:32.612Z"
 }

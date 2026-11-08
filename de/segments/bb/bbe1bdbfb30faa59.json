@@ -1,14 +1,15 @@
 {
   "hash": "bbe1bdbfb30faa59",
   "source": "When an {0} is a static string literal in your template, the build tool rewrites it into a runtime helper that resolves the final URL. A public path such as {1} is wrapped so that your {2} is applied when the page renders, and a bundled path such as {3} additionally becomes an import that resolves to the hashed output file.",
-  "text": "Wenn ein {0} in deiner Vorlage ein statisches String-Literal ist, schreibt das Build-Werkzeug es in ein Laufzeit-Hilfsprogramm um, das die endgültige URL auflöst. Ein öffentlicher Pfad wie {1} wird so eingebunden, dass dein {2} beim Rendern der Seite angewendet wird. Ein gebündelter Pfad wie {3} wird zusätzlich zu einem Import, der auf die Ausgabedatei mit Hash verweist.",
-  "origin": "mt",
-  "review": "none",
+  "text": "Wenn ein {0} Attribut in deiner Vorlage ein statisches String-Literal ist, schreibt das Build-Werkzeug es in eine Laufzeit-Hilfsfunktion um, die die endgültige URL auflöst. Ein öffentlicher Pfad wie {1} wird so eingebunden, dass deine {2} Konfiguration beim Rendern der Seite angewendet wird. Ein gebündelter Pfad wie {3} wird zusätzlich zu einem Import, der auf die Ausgabedatei mit Hash verweist.",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Wenn ein {0} in deiner Vorlage ein statisches String-Literal ist, schreibt das Build-Werkzeug es in ein Laufzeit-Hilfsprogramm um, das die endgültige URL auflöst. Ein öffentlicher Pfad wie {1} wird so eingebunden, dass dein {2} beim Rendern der Seite angewendet wird. Ein gebündelter Pfad wie {3} wird zusätzlich zu einem Import, der auf die Ausgabedatei mit Hash verweist."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-08T16:45:32.612Z"
 }

@@ -3,12 +3,16 @@
   "source": "Only the filename can be dynamic in this example. Keeping the directory and extension in the import lets Vite find the possible files at build time.",
   "text": "In diesem Beispiel kann nur der Dateiname dynamisch sein. Wenn Verzeichnis und Dateiendung im Import stehen bleiben, kann Vite die möglichen Dateien zur Build-Zeit finden.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "In diesem Beispiel kann nur der Dateiname dynamisch sein. Wenn Verzeichnis und Dateiendung im Import stehen bleiben, kann Vite die möglichen Dateien zur Build-Zeit finden."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T16:45:32.612Z"
+  },
+  "updatedAt": "2026-11-08T16:45:32.612Z"
 }

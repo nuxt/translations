@@ -3,12 +3,16 @@
   "source": "The sections below cover how to handle each case when the path is only known at runtime.",
   "text": "Die folgenden Abschnitte zeigen, wie du jeden Fall behandelst, wenn der Pfad erst zur Laufzeit bekannt ist.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Die folgenden Abschnitte zeigen, wie du jeden Fall behandelst, wenn der Pfad erst zur Laufzeit bekannt ist."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-08T16:45:32.612Z"
+  },
+  "updatedAt": "2026-11-08T16:45:32.612Z"
 }
