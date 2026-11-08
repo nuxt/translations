@@ -2,7 +2,7 @@
   "version": 1,
   "source": "nuxt-cli",
   "ref": "main",
-  "sha": "db93607c43b9f9a5a811ae4771730b1a97d7198f",
+  "sha": "336d757ae1d996fa102464d220835265d9542b83",
   "policy": "f6e446c627d4102c",
   "files": {
     "docs/.navigation.yml": [
@@ -182,6 +182,10 @@
       {"hash":"49f035e526e93270","kind":"frontmatter","format":"plain","words":1,"skeleton":"Source"},
       {"hash":"14a99b9f9dea3897","kind":"code-label","format":"plain","words":1,"skeleton":"Terminal"},
       {"hash":"65c6d42f5d8eec67","kind":"paragraph","format":"markdown","words":31,"skeleton":"The {0} command builds Nuxt and analyzes the production bundle (experimental). The results are served on a local server when the build finishes, unless you pass {1} or {2} is set in the environment.","placeholders":["code","code","code"]},
+      {"hash":"58584af144881f40","kind":"paragraph","format":"markdown","words":45,"skeleton":"The server links to each report: the client bundle and the Nitro server bundle. When only one report exists, the server shows it directly. The server uses the port in {0}, or port 3000. If that port is in use, it picks a free port between 3000 and 3100.","placeholders":["code"]},
+      {"hash":"47cd42ce63e4f984","kind":"paragraph","format":"markdown","words":76,"skeleton":"Each run is written to its own directory inside {0}, named after {1} ({2} when omitted), so you can keep several runs side by side, for example {3} and {4}. Running again with the same name replaces that run only. Characters other than letters, digits, {5} and {6} are replaced with {7} in the directory name, so {8} and {9} share the same directory. If you set {10}, the client report is written to that path instead. With Nuxt 3 and 4, {11} does the same for the Nitro report.","placeholders":["link","code","code","code","code","code","code","code","code","code","code","code"]},
+      {"hash":"1928023c04dfa4d7","kind":"paragraph","format":"markdown","words":74,"skeleton":"Pass {0} to write the reports as JSON instead of HTML: {1} and {2}, in the {3} format of {4}. They include each module's size, the chunk it ends up in, and its static and dynamic imports. This makes them easy to process with scripts or AI agents. Nothing is served in this mode. A custom report filename ending in {5} is written with a {6} extension instead. With the webpack and rspack builders, {7} is the webpack stats file rather than {8}.","placeholders":["code","code","code","code","code","code","code","code","code"]},
+      {"hash":"9ef62ab606c13b89","kind":"paragraph","format":"markdown","words":31,"skeleton":"With Nuxt 5, the Nitro report needs {0} in your project. If it's missing, the Nitro report is skipped. With the Vite builder, Nuxt also offers to install it as a dev dependency.","placeholders":["code"]},
       {"hash":"b012bb7d7ad1dbef","kind":"paragraph","format":"markdown","words":27,"skeleton":"Routes are not prerendered while analyzing, since prerendering runs the built app and its output is not what is being measured. Pass {0} if your analysis needs it.","placeholders":["code"]},
       {"hash":"7f816072c1c6a23b","kind":"heading","format":"markdown","words":1,"skeleton":"Arguments"},
       {"hash":"481da3a767b1d543","kind":"table-cell","format":"markdown","words":1,"skeleton":"Argument"},
@@ -211,6 +215,9 @@
       {"hash":"a00644508de97e85","kind":"table-cell","format":"markdown","words":0,"skeleton":"{0}","placeholders":["code"]},
       {"hash":"a00644508de97e85","kind":"table-cell","format":"markdown","words":0,"skeleton":"{0}","placeholders":["code"]},
       {"hash":"5a36a74d8dbfc5b5","kind":"table-cell","format":"markdown","words":4,"skeleton":"Prerender routes while analyzing"},
+      {"hash":"a00644508de97e85","kind":"table-cell","format":"markdown","words":0,"skeleton":"{0}","placeholders":["code"]},
+      {"hash":"a00644508de97e85","kind":"table-cell","format":"markdown","words":0,"skeleton":"{0}","placeholders":["code"]},
+      {"hash":"d88c4b403730a099","kind":"table-cell","format":"markdown","words":14,"skeleton":"Write the client and server bundle analysis as JSON instead of HTML (implies --no-serve)"},
       {"hash":"ff702c088f8f6ecc","kind":"component-slot","format":"markdown","words":4,"skeleton":"This command sets {0} to {1}.","placeholders":["code","code"]}
     ],
     "docs/build-module.md": [

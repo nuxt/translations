@@ -1,0 +1,14 @@
+{
+  "hash": "9ef62ab606c13b89",
+  "source": "With Nuxt 5, the Nitro report needs {0} in your project. If it's missing, the Nitro report is skipped. With the Vite builder, Nuxt also offers to install it as a dev dependency.",
+  "text": "Avec Nuxt 5, le rapport Nitro nécessite {0} dans votre projet. S'il est absent, le rapport Nitro est ignoré. Avec le builder Vite, Nuxt propose également de l'installer en tant que dépendance de développement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avec Nuxt 5, le rapport Nitro nécessite {0} dans votre projet. S'il est absent, le rapport Nitro est ignoré. Avec le builder Vite, Nuxt propose également de l'installer en tant que dépendance de développement."
+  },
+  "updatedAt": "2026-11-08T23:02:53.905Z"
+}

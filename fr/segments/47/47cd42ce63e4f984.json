@@ -1,0 +1,14 @@
+{
+  "hash": "47cd42ce63e4f984",
+  "source": "Each run is written to its own directory inside {0}, named after {1} ({2} when omitted), so you can keep several runs side by side, for example {3} and {4}. Running again with the same name replaces that run only. Characters other than letters, digits, {5} and {6} are replaced with {7} in the directory name, so {8} and {9} share the same directory. If you set {10}, the client report is written to that path instead. With Nuxt 3 and 4, {11} does the same for the Nitro report.",
+  "text": "Chaque exécution est écrite dans son propre répertoire à l'intérieur de {0}, nommé d'après {1} ({2} s'il est omis), ce qui vous permet de conserver plusieurs exécutions côte à côte, par exemple {3} et {4}. Relancer la commande avec le même nom remplace uniquement cette exécution. Les caractères autres que les lettres, les chiffres, {5} et {6} sont remplacés par {7} dans le nom du répertoire, de sorte que {8} et {9} partagent le même répertoire. Si vous définissez {10}, le rapport client est écrit à cet emplacement à la place. Avec Nuxt 3 et 4, {11} fait de même pour le rapport Nitro.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chaque exécution est écrite dans son propre répertoire à l'intérieur de {0}, nommé d'après {1} ({2} s'il est omis), ce qui vous permet de conserver plusieurs exécutions côte à côte, par exemple {3} et {4}. Relancer la commande avec le même nom remplace uniquement cette exécution. Les caractères autres que les lettres, les chiffres, {5} et {6} sont remplacés par {7} dans le nom du répertoire, de sorte que {8} et {9} partagent le même répertoire. Si vous définissez {10}, le rapport client est écrit à cet emplacement à la place. Avec Nuxt 3 et 4, {11} fait de même pour le rapport Nitro."
+  },
+  "updatedAt": "2026-11-08T23:02:53.905Z"
+}
