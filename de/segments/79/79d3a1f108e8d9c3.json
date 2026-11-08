@@ -3,12 +3,16 @@
   "source": "Bundled",
   "text": "Gebündelt",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Gebündelt"
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "verifiedBy": {
+    "by": "trueberryless",
+    "at": "2026-11-08T21:17:20.685Z"
+  },
+  "updatedAt": "2026-11-08T21:17:20.685Z"
 }
