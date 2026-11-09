@@ -3,12 +3,16 @@
   "source": "If you need to style different parts of your application completely differently, you can use layouts. Use different styles for different layouts.",
   "text": "Wenn du verschiedene Teile deiner Anwendung völlig unterschiedlich gestalten möchtest, kannst du Layouts verwenden. Nutze für unterschiedliche Layouts jeweils unterschiedliche Styles.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Wenn du verschiedene Teile deiner Anwendung völlig unterschiedlich gestalten möchtest, kannst du Layouts verwenden. Nutze für unterschiedliche Layouts jeweils unterschiedliche Styles."
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-09T18:56:30.627Z"
+  },
+  "updatedAt": "2026-11-09T18:56:30.627Z"
 }

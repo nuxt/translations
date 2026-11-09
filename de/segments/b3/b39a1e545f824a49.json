@@ -3,12 +3,16 @@
   "source": "{0}postcss-url{/0}: Transforms {1} statements",
   "text": "{0}postcss-url{/0}: Transformiert {1}-Anweisungen",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "{0}postcss-url{/0}: Transformiert {1}-Anweisungen"
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-09T18:56:30.627Z"
+  },
+  "updatedAt": "2026-11-09T18:56:30.627Z"
 }

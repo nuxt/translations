@@ -1,14 +1,15 @@
 {
   "hash": "c123ef40922806d1",
   "source": "LCP Advanced Optimizations",
-  "text": "Erweiterte LCP-Optimierungen",
-  "origin": "mt",
-  "review": "none",
+  "text": "Fortgeschrittene LCP-Optimierungen",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Erweiterte LCP-Optimierungen"
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-09T18:56:30.627Z"
 }

@@ -3,12 +3,16 @@
   "source": "You can use {0}the Nuxt Google Fonts module{/0} to load Google Fonts.",
   "text": "Du kannst {0}das Modul Nuxt Google Fonts{/0} verwenden, um Google Fonts zu laden.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Du kannst {0}das Modul Nuxt Google Fonts{/0} verwenden, um Google Fonts zu laden."
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-09T18:56:30.627Z"
+  },
+  "updatedAt": "2026-11-09T18:56:30.627Z"
 }

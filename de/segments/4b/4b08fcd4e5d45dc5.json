@@ -1,14 +1,15 @@
 {
   "hash": "4b08fcd4e5d45dc5",
   "source": "If you are using {0}UnoCSS{/0}, note that it comes with a {1}web fonts presets{/1} to conveniently load fonts from common providers, including Google Fonts and more.",
-  "text": "Wenn du {0}UnoCSS{/0} verwendest, beachte, dass es {1}Web-Fonts-Presets{/1} mitbringt, mit denen du Schriften bequem von gängigen Anbietern wie Google Fonts und weiteren laden kannst.",
-  "origin": "mt",
-  "review": "none",
+  "text": "Wenn du {0}UnoCSS{/0} verwendest, beachte, dass es {1}Vorkonfigurationen für Webfonts{/1} mitbringt, mit denen du Schriften bequem von gängigen Anbietern wie Google Fonts und weiteren laden kannst.",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Wenn du {0}UnoCSS{/0} verwendest, beachte, dass es {1}Web-Fonts-Presets{/1} mitbringt, mit denen du Schriften bequem von gängigen Anbietern wie Google Fonts und weiteren laden kannst."
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-09T18:56:30.627Z"
 }

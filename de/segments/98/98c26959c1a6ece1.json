@@ -3,12 +3,16 @@
   "source": "Nuxt isn't opinionated when it comes to styling and provides you with a wide variety of options. You can use any styling tool that you want, such as popular libraries like {0}UnoCSS{/0} or {1}Tailwind CSS{/1}.",
   "text": "Nuxt macht keine strikten Vorgaben für das Styling und bietet dir eine große Auswahl an Möglichkeiten. Du kannst jedes beliebige Styling-Werkzeug verwenden, zum Beispiel beliebte Bibliotheken wie {0}UnoCSS{/0} oder {1}Tailwind CSS{/1}.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Nuxt macht keine strikten Vorgaben für das Styling und bietet dir eine große Auswahl an Möglichkeiten. Du kannst jedes beliebige Styling-Werkzeug verwenden, zum Beispiel beliebte Bibliotheken wie {0}UnoCSS{/0} oder {1}Tailwind CSS{/1}."
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-09T18:56:30.627Z"
+  },
+  "updatedAt": "2026-11-09T18:56:30.627Z"
 }

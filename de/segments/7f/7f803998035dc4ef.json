@@ -1,14 +1,15 @@
 {
   "hash": "7f803998035dc4ef",
   "source": "if it starts with 'entry', remove it from the list",
-  "text": "wenn der Eintrag mit 'entry' beginnt, ihn aus der Liste entfernen",
-  "origin": "mt",
-  "review": "none",
+  "text": "Wenn der Eintrag mit 'entry' beginnt, dann entferne ihn aus der Liste.",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "wenn der Eintrag mit 'entry' beginnt, ihn aus der Liste entfernen"
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-09T18:56:30.627Z"
 }

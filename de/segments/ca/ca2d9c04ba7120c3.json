@@ -1,14 +1,15 @@
 {
   "hash": "ca2d9c04ba7120c3",
   "source": "{0}autoprefixer{/0}: Automatically adds vendor prefixes",
-  "text": "{0}autoprefixer{/0}: Fügt automatisch Vendor-Präfixe hinzu",
-  "origin": "mt",
-  "review": "none",
+  "text": "{0}autoprefixer{/0}: Fügt automatisch Vendorpräfixe hinzu",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "{0}autoprefixer{/0}: Fügt automatisch Vendor-Präfixe hinzu"
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-09T18:56:30.627Z"
 }

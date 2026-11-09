@@ -3,12 +3,16 @@
   "source": "{0}postcss-import{/0}: Improves the {1} rule",
   "text": "{0}postcss-import{/0}: Verbessert die Regel {1}",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "{0}postcss-import{/0}: Verbessert die Regel {1}"
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-09T18:56:30.627Z"
+  },
+  "updatedAt": "2026-11-09T18:56:30.627Z"
 }

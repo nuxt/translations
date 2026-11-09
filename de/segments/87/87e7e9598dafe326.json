@@ -3,12 +3,16 @@
   "source": "Refer to the {0}Vue docs{/0} for more information.",
   "text": "Weitere Informationen findest du in der {0}Vue-Dokumentation{/0}.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Weitere Informationen findest du in der {0}Vue-Dokumentation{/0}."
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-09T18:56:30.627Z"
+  },
+  "updatedAt": "2026-11-09T18:56:30.627Z"
 }

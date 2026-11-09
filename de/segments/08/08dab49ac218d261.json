@@ -1,14 +1,15 @@
 {
   "hash": "08dab49ac218d261",
   "source": "Use HTTP2/HTTP3 for delivery",
-  "text": "Nutze HTTP2/HTTP3 für die Auslieferung",
-  "origin": "mt",
-  "review": "none",
+  "text": "Nutze HTTP2/HTTP3 für die Bereitstellung",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Nutze HTTP2/HTTP3 für die Auslieferung"
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-09T18:56:30.627Z"
 }

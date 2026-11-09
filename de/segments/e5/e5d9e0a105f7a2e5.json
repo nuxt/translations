@@ -3,12 +3,16 @@
   "source": "You can use {0}CSS Modules{/0} with the module attribute. Access it with the injected {1} variable.",
   "text": "Mit dem Attribut module kannst du {0}CSS-Module{/0} verwenden. Du greifst darauf über die injizierte Variable {1} zu.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Mit dem Attribut module kannst du {0}CSS-Module{/0} verwenden. Du greifst darauf über die injizierte Variable {1} zu."
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-09T18:56:30.627Z"
+  },
+  "updatedAt": "2026-11-09T18:56:30.627Z"
 }

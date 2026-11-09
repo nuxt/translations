@@ -3,12 +3,16 @@
   "source": "This is an experimental option and you should refer to the Vite documentation and {0}provide feedback{/0}.",
   "text": "Dies ist eine experimentelle Option. Lies dazu die Vite-Dokumentation und {0}gib Feedback{/0}.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Dies ist eine experimentelle Option. Lies dazu die Vite-Dokumentation und {0}gib Feedback{/0}."
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-09T18:56:30.627Z"
+  },
+  "updatedAt": "2026-11-09T18:56:30.627Z"
 }

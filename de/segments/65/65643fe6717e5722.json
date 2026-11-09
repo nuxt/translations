@@ -3,12 +3,16 @@
   "source": "{0}Nuxt UI{/0}: A UI Library for Modern Web Apps",
   "text": "{0}Nuxt UI{/0}: Eine Bibliothek für Benutzeroberflächen moderner Web-Apps",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "{0}Nuxt UI{/0}: Eine Bibliothek für Benutzeroberflächen moderner Web-Apps"
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-09T18:56:30.627Z"
+  },
+  "updatedAt": "2026-11-09T18:56:30.627Z"
 }

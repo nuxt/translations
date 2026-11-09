@@ -1,14 +1,15 @@
 {
   "hash": "fbcfb37f619f97d3",
   "source": "Leveraging Layouts For Multiple Styles",
-  "text": "Layouts für mehrere Styles nutzen",
-  "origin": "mt",
-  "review": "none",
+  "text": "Layouts für unterschiedliche Styles nutzen",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Layouts für mehrere Styles nutzen"
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-09T18:56:30.627Z"
 }

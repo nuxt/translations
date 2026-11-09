@@ -1,14 +1,15 @@
 {
   "hash": "335f9ddc05539a41",
   "source": "One of the best things about Vue and SFC is how great it is at naturally dealing with styling. You can directly write CSS or preprocessor code in the style block of your components file, therefore you will have a fantastic developer experience without having to use something like CSS-in-JS. However if you wish to use CSS-in-JS, you can find 3rd party libraries and modules that support it, such as {0}pinceau{/0}.",
-  "text": "Eine der größten Stärken von Vue und SFC ist, wie natürlich sich das Styling umsetzen lässt. Du kannst CSS oder Preprocessor-Code direkt im Style-Block deiner Komponentendatei schreiben und erhältst so eine hervorragende Developer Experience, ohne etwas wie CSS-in-JS zu benötigen. Wenn du CSS-in-JS dennoch verwenden möchtest, findest du Bibliotheken und Module von Drittanbietern, die es unterstützen, etwa {0}pinceau{/0}.",
-  "origin": "mt",
-  "review": "none",
+  "text": "Eine der größten Stärken von Vue und SFC ist, wie natürlich sich das Styling umsetzen lässt. Du kannst CSS oder Präprozessoren-Code direkt im Style-Block deiner Komponentendatei schreiben und erhältst so eine hervorragende Developer Experience, ohne etwas wie CSS-in-JS zu benötigen. Wenn du CSS-in-JS dennoch verwenden möchtest, findest du Bibliotheken und Module von Drittanbietern, die es unterstützen, etwa {0}pinceau{/0}.",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Eine der größten Stärken von Vue und SFC ist, wie natürlich sich das Styling umsetzen lässt. Du kannst CSS oder Preprocessor-Code direkt im Style-Block deiner Komponentendatei schreiben und erhältst so eine hervorragende Developer Experience, ohne etwas wie CSS-in-JS zu benötigen. Wenn du CSS-in-JS dennoch verwenden möchtest, findest du Bibliotheken und Module von Drittanbietern, die es unterstützen, etwa {0}pinceau{/0}."
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-09T18:56:30.627Z"
 }

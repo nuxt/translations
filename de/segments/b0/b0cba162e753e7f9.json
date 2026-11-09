@@ -3,12 +3,16 @@
   "source": "Nuxt comes with postcss built-in. You can configure it in your {0} file.",
   "text": "Nuxt bringt PostCSS integriert mit. Du kannst es in deiner Datei {0} konfigurieren.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Nuxt bringt PostCSS integriert mit. Du kannst es in deiner Datei {0} konfigurieren."
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-09T18:56:30.627Z"
+  },
+  "updatedAt": "2026-11-09T18:56:30.627Z"
 }

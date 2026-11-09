@@ -1,14 +1,15 @@
 {
   "hash": "f11102eb1b0a773b",
   "source": "You can refer to the {0}Vite CSS docs{/0} and the {1}@vitejs/plugin-vue docs{/1}. For webpack users, refer to the {2}vue loader docs{/2}.",
-  "text": "Weitere Informationen findest du in der {0}Vite-CSS-Dokumentation{/0} und in der {1}Dokumentation zu @vitejs/plugin-vue{/1}. Für webpack lies die {2}Dokumentation des vue-Loaders{/2}.",
-  "origin": "mt",
-  "review": "none",
+  "text": "Weitere Informationen findest du in der {0}Vite-CSS-Dokumentation{/0} und in der {1}Dokumentation zu @vitejs/plugin-vue{/1}. Für webpack lies die {2}Dokumentation des Laders von Vue{/2}.",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Weitere Informationen findest du in der {0}Vite-CSS-Dokumentation{/0} und in der {1}Dokumentation zu @vitejs/plugin-vue{/1}. Für webpack lies die {2}Dokumentation des vue-Loaders{/2}."
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-09T18:56:30.627Z"
 }

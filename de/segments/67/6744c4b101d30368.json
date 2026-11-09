@@ -1,14 +1,15 @@
 {
   "hash": "6744c4b101d30368",
   "source": "Nuxt modules provide you with a good developer experience out of the box, but remember that if your favorite tool doesn't have a module, it doesn't mean that you can't use it with Nuxt! You can configure it yourself for your own project. Depending on the tool, you might need to use a {0}Nuxt plugin{/0} and/or {1}make your own module{/1}. Share them with the {2}community{/2} if you do!",
-  "text": "Nuxt-Module bieten dir von Haus aus eine gute Developer Experience. Denk aber daran: Wenn dein Lieblingswerkzeug kein Modul hat, heißt das nicht, dass du es nicht mit Nuxt verwenden kannst! Du kannst es selbst für dein Projekt konfigurieren. Je nach Werkzeug brauchst du dafür möglicherweise ein {0}Nuxt-plugin{/0} und/oder {1}ein eigenes Modul{/1}. Teile sie mit der {2}Community{/2}, wenn du das tust!",
-  "origin": "mt",
-  "review": "none",
+  "text": "Nuxt-Module bieten dir von Haus aus eine gute Developer Experience. Denk aber daran: Wenn dein Lieblingswerkzeug kein Modul hat, heißt das nicht, dass du es nicht mit Nuxt verwenden kannst! Du kannst es selbst für dein Projekt konfigurieren. Je nach Werkzeug brauchst du dafür möglicherweise ein {0}Nuxt-Plugin{/0} und/oder {1}ein eigenes Modul{/1}. Teile sie mit der {2}Community{/2}, wenn du das möchtest!",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Nuxt-Module bieten dir von Haus aus eine gute Developer Experience. Denk aber daran: Wenn dein Lieblingswerkzeug kein Modul hat, heißt das nicht, dass du es nicht mit Nuxt verwenden kannst! Du kannst es selbst für dein Projekt konfigurieren. Je nach Werkzeug brauchst du dafür möglicherweise ein {0}Nuxt-plugin{/0} und/oder {1}ein eigenes Modul{/1}. Teile sie mit der {2}Community{/2}, wenn du das tust!"
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-09T18:56:30.627Z"
 }

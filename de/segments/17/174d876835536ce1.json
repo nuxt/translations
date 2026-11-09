@@ -1,14 +1,15 @@
 {
   "hash": "174d876835536ce1",
   "source": "Preprocessor Workers (Experimental)",
-  "text": "Preprocessor-Worker (experimentell)",
-  "origin": "mt",
-  "review": "none",
+  "text": "Präprozessor-Worker (experimentell)",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Preprocessor-Worker (experimentell)"
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-09T18:56:30.627Z"
 }

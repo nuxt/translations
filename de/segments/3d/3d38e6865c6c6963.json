@@ -3,12 +3,16 @@
   "source": "Host your assets on the same domain (do not use a different subdomain)",
   "text": "Hoste deine Assets auf derselben Domain (nutze keine andere Subdomain)",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Hoste deine Assets auf derselben Domain (nutze keine andere Subdomain)"
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-09T18:56:30.627Z"
+  },
+  "updatedAt": "2026-11-09T18:56:30.627Z"
 }

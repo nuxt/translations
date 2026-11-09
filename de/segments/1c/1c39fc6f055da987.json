@@ -1,14 +1,15 @@
 {
   "hash": "1c39fc6f055da987",
   "source": "find the app entry, css list",
-  "text": "den App-Einstiegspunkt und die CSS-Liste finden",
-  "origin": "mt",
-  "review": "none",
+  "text": "Finde den App-Einstiegspunkt und die CSS-Liste.",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "den App-Einstiegspunkt und die CSS-Liste finden"
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-09T18:56:30.627Z"
 }

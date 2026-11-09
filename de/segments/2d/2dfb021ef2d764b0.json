@@ -3,12 +3,16 @@
   "source": "By default, Nuxt comes with the following plugins already pre-configured:",
   "text": "Standardmäßig sind in Nuxt bereits die folgenden plugins vorkonfiguriert:",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Standardmäßig sind in Nuxt bereits die folgenden plugins vorkonfiguriert:"
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-09T18:56:30.627Z"
+  },
+  "updatedAt": "2026-11-09T18:56:30.627Z"
 }
