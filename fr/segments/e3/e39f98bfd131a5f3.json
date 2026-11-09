@@ -1,0 +1,14 @@
+{
+  "hash": "e39f98bfd131a5f3",
+  "source": "The server does not start if an environment variable cannot be converted to the type of a schema in your {0}, or with {1} to the type of any schema or default (for example {2} for a numeric {3}). For a schema set by a module, Nuxt warns instead and the value keeps its default. See {4}Validating With a Schema{/4} to declare the type of a value without giving it a default.",
+  "text": "Le serveur ne démarre pas si une variable d'environnement ne peut pas être convertie vers le type d'un schéma de votre {0}, ni, avec {1}, vers le type d'un schéma ou d'une valeur par défaut (par exemple {2} pour un {3} numérique). Pour un schéma défini par un module, Nuxt affiche plutôt un avertissement et la valeur conserve sa valeur par défaut. Consultez {4}Validation avec un schéma{/4} pour déclarer le type d'une valeur sans lui donner de valeur par défaut.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le serveur ne démarre pas si une variable d'environnement ne peut pas être convertie vers le type d'un schéma de votre {0}, ni, avec {1}, vers le type d'un schéma ou d'une valeur par défaut (par exemple {2} pour un {3} numérique). Pour un schéma défini par un module, Nuxt affiche plutôt un avertissement et la valeur conserve sa valeur par défaut. Consultez {4}Validation avec un schéma{/4} pour déclarer le type d'une valeur sans lui donner de valeur par défaut."
+  },
+  "updatedAt": "2026-11-09T16:14:44.523Z"
+}

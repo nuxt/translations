@@ -1,0 +1,14 @@
+{
+  "hash": "cf7fd7bc53bfee0d",
+  "source": "Values declared {0}with a schema{/0} are converted to the type of their schema instead, so {1} stays a string for a {2} value.",
+  "text": "Les valeurs déclarées {0}avec un schéma{/0} sont plutôt converties vers le type de leur schéma, si bien que {1} reste une chaîne de caractères pour une valeur {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les valeurs déclarées {0}avec un schéma{/0} sont plutôt converties vers le type de leur schéma, si bien que {1} reste une chaîne de caractères pour une valeur {2}."
+  },
+  "updatedAt": "2026-11-09T16:14:44.523Z"
+}

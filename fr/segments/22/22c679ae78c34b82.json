@@ -1,0 +1,14 @@
+{
+  "hash": "22c679ae78c34b82",
+  "source": "Always install {0} on the client from the app entry. By default, a production client build only installs the global, and includes {1}, when a module reads it.",
+  "text": "Installez toujours {0} côté client depuis l'entrée de l'application. Par défaut, un build client de production n'installe le global, et n'inclut {1}, que lorsqu'un module le lit.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Installez toujours {0} côté client depuis l'entrée de l'application. Par défaut, un build client de production n'installe le global, et n'inclut {1}, que lorsqu'un module le lit."
+  },
+  "updatedAt": "2026-11-09T16:14:44.523Z"
+}

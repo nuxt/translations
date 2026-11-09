@@ -1,0 +1,14 @@
+{
+  "hash": "d57f34d69ac57829",
+  "source": "The augmentation changes the types only. Environment variables are {0}cast with {1}{/0} (or, with {2}, converted to the type of the default), so declare a key with a schema in {3} to have it converted to the type you augment it with.",
+  "text": "L'augmentation ne modifie que les types. Les variables d'environnement sont {0}converties avec {1}{/0} (ou, avec {2}, converties vers le type de la valeur par défaut), donc déclarez une clé avec un schéma dans {3} pour qu'elle soit convertie vers le type avec lequel vous l'augmentez.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'augmentation ne modifie que les types. Les variables d'environnement sont {0}converties avec {1}{/0} (ou, avec {2}, converties vers le type de la valeur par défaut), donc déclarez une clé avec un schéma dans {3} pour qu'elle soit convertie vers le type avec lequel vous l'augmentez."
+  },
+  "updatedAt": "2026-11-09T16:14:44.523Z"
+}

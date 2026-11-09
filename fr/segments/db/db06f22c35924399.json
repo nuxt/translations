@@ -1,0 +1,14 @@
+{
+  "hash": "db06f22c35924399",
+  "source": "Unless {0} is enabled, an invalid or missing value only stops the server, or a prerendered page, when its schema is declared in a {1}. For a schema set by a module, Nuxt warns when the server starts and the value keeps its default.",
+  "text": "Sauf si {0} est activé, une valeur invalide ou manquante n'arrête le serveur, ou une page pré-rendue, que si son schéma est déclaré dans un {1}. Pour un schéma défini par un module, Nuxt affiche un avertissement au démarrage du serveur et la valeur conserve sa valeur par défaut.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sauf si {0} est activé, une valeur invalide ou manquante n'arrête le serveur, ou une page pré-rendue, que si son schéma est déclaré dans un {1}. Pour un schéma défini par un module, Nuxt affiche un avertissement au démarrage du serveur et la valeur conserve sa valeur par défaut."
+  },
+  "updatedAt": "2026-11-09T16:14:44.523Z"
+}

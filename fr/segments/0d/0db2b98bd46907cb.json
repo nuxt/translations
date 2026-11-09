@@ -1,0 +1,14 @@
+{
+  "hash": "0db2b98bd46907cb",
+  "source": "Nuxt generates types for your runtime config from the type of each value, or from its schema. Values declared with a schema are converted to the same types when the server starts, so their generated types describe the values your app receives.",
+  "text": "Nuxt génère les types de votre runtime config à partir du type de chaque valeur, ou de son schéma. Les valeurs déclarées avec un schéma sont converties vers les mêmes types au démarrage du serveur, de sorte que les types générés décrivent les valeurs que reçoit votre application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt génère les types de votre runtime config à partir du type de chaque valeur, ou de son schéma. Les valeurs déclarées avec un schéma sont converties vers les mêmes types au démarrage du serveur, de sorte que les types générés décrivent les valeurs que reçoit votre application."
+  },
+  "updatedAt": "2026-11-09T16:14:44.523Z"
+}

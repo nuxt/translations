@@ -1,0 +1,14 @@
+{
+  "hash": "46d0f8c4b87d69e2",
+  "source": "Augmenting {0} or {1} from {2} changes the types only. Values without a schema are still cast with {3}, so an augmented type can describe a value your app never receives.",
+  "text": "Augmenter {0} ou {1} depuis {2} ne modifie que les types. Les valeurs sans schéma sont toujours transtypées avec {3}, si bien qu'un type augmenté peut décrire une valeur que votre application ne reçoit jamais.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Augmenter {0} ou {1} depuis {2} ne modifie que les types. Les valeurs sans schéma sont toujours transtypées avec {3}, si bien qu'un type augmenté peut décrire une valeur que votre application ne reçoit jamais."
+  },
+  "updatedAt": "2026-11-09T16:14:44.523Z"
+}
