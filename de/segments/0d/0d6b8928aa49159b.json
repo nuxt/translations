@@ -3,12 +3,16 @@
   "source": "This will now trigger a warning",
   "text": "Dies löst jetzt eine Warnung aus",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Dies löst jetzt eine Warnung aus"
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "trueberryless",
+    "at": "2026-11-09T18:02:26.459Z"
+  },
+  "updatedAt": "2026-11-09T18:02:26.459Z"
 }

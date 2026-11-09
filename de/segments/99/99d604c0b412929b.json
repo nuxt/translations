@@ -3,12 +3,16 @@
   "source": "This specifies the directory prefix for {0} and {1}",
   "text": "Dies legt das Verzeichnispräfix für {0} und {1} fest",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Dies legt das Verzeichnispräfix für {0} und {1} fest"
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "trueberryless",
+    "at": "2026-11-09T18:02:26.459Z"
+  },
+  "updatedAt": "2026-11-09T18:02:26.459Z"
 }

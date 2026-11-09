@@ -3,12 +3,16 @@
   "source": "Using pinned version due to {0}",
   "text": "Angepinnte Version wegen {0}",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Angepinnte Version wegen {0}"
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "trueberryless",
+    "at": "2026-11-09T18:02:26.459Z"
+  },
+  "updatedAt": "2026-11-09T18:02:26.459Z"
 }

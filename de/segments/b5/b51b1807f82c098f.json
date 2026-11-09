@@ -3,12 +3,16 @@
   "source": "This reverts the new srcDir default from {0} back to your root directory",
   "text": "Dies setzt den neuen Standardwert von srcDir von {0} wieder auf dein Stammverzeichnis zurück",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Dies setzt den neuen Standardwert von srcDir von {0} wieder auf dein Stammverzeichnis zurück"
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "trueberryless",
+    "at": "2026-11-09T18:02:26.459Z"
+  },
+  "updatedAt": "2026-11-09T18:02:26.459Z"
 }

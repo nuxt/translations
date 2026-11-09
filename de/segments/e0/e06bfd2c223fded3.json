@@ -3,12 +3,16 @@
   "source": "To upgrade Nuxt to the {0}latest release{/0}, use the {1} command.",
   "text": "Um Nuxt auf das {0}neueste Release{/0} zu aktualisieren, verwende den Befehl {1}.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Um Nuxt auf das {0}neueste Release{/0} zu aktualisieren, verwende den Befehl {1}."
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "trueberryless",
+    "at": "2026-11-09T18:02:26.459Z"
+  },
+  "updatedAt": "2026-11-09T18:02:26.459Z"
 }

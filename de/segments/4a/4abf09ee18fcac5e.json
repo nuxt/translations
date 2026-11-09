@@ -1,14 +1,15 @@
 {
   "hash": "4abf09ee18fcac5e",
   "source": "Latest release",
-  "text": "Neuestes Release",
-  "origin": "mt",
-  "review": "none",
+  "text": "Neueste Release",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Neuestes Release"
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "by": "trueberryless",
+  "updatedAt": "2026-11-09T18:02:26.459Z"
 }

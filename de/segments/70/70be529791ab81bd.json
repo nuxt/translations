@@ -3,12 +3,16 @@
   "source": "To use the latest Nuxt build and test features before their release, read about the {0}nightly release channel{/0} guide.",
   "text": "Wenn du den neuesten Nuxt-Build verwenden und Features vor ihrer Veröffentlichung testen möchtest, lies die Anleitung zum {0}Nightly-Release-Kanal{/0}.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Wenn du den neuesten Nuxt-Build verwenden und Features vor ihrer Veröffentlichung testen möchtest, lies die Anleitung zum {0}Nightly-Release-Kanal{/0}."
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "trueberryless",
+    "at": "2026-11-09T18:02:26.459Z"
+  },
+  "updatedAt": "2026-11-09T18:02:26.459Z"
 }

@@ -1,14 +1,15 @@
 {
   "hash": "9451acbd184b402a",
   "source": "Layer: my-layer/nuxt.config.ts",
-  "text": "Layer: my-layer/nuxt.config.ts (Layer-Konfiguration)",
-  "origin": "mt",
-  "review": "none",
+  "text": "Layer: my-layer/nuxt.config.ts",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Layer: my-layer/nuxt.config.ts (Layer-Konfiguration)"
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "by": "trueberryless",
+  "updatedAt": "2026-11-09T18:02:26.459Z"
 }
