@@ -3,12 +3,16 @@
   "source": "This produces the following result when navigating between pages:",
   "text": "Beim Navigieren zwischen Seiten ergibt das folgendes Ergebnis:",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Beim Navigieren zwischen Seiten ergibt das folgendes Ergebnis:"
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-09T21:36:04.091Z"
+  },
+  "updatedAt": "2026-11-09T21:36:04.091Z"
 }

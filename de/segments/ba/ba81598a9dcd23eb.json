@@ -1,14 +1,15 @@
 {
   "hash": "ba81598a9dcd23eb",
   "source": "Slide left when going to a higher ID, right otherwise",
-  "text": "Nach links gleiten bei einer höheren ID, andernfalls nach rechts",
-  "origin": "mt",
-  "review": "none",
+  "text": "Nach links gleiten beim navigieren zu einer höheren ID, andernfalls nach rechts",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Nach links gleiten bei einer höheren ID, andernfalls nach rechts"
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-09T21:36:04.091Z"
 }

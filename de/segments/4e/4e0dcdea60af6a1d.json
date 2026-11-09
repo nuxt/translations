@@ -3,12 +3,16 @@
   "source": "For advanced use-cases, you can use JavaScript hooks to create highly dynamic and custom transitions for your Nuxt pages.",
   "text": "Für fortgeschrittene Anwendungsfälle kannst du JavaScript-Hooks nutzen, um hochdynamische, individuelle Übergänge für deine Nuxt-Seiten zu erstellen.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Für fortgeschrittene Anwendungsfälle kannst du JavaScript-Hooks nutzen, um hochdynamische, individuelle Übergänge für deine Nuxt-Seiten zu erstellen."
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-09T21:36:04.091Z"
+  },
+  "updatedAt": "2026-11-09T21:36:04.091Z"
 }

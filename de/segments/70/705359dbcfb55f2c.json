@@ -1,14 +1,15 @@
 {
   "hash": "705359dbcfb55f2c",
   "source": "The Nuxt integration can be enabled with the {0} option in your configuration file:",
-  "text": "Die Nuxt-Integration kannst du in deiner Konfigurationsdatei mit der Option {0} aktivieren:",
-  "origin": "mt",
-  "review": "none",
+  "text": "Die Nuxt-Integration kannst du in deiner Konfigurationsdatei mit dem Schlüssel {0} aktivieren:",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Die Nuxt-Integration kannst du in deiner Konfigurationsdatei mit der Option {0} aktivieren:"
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-09T21:36:04.091Z"
 }

@@ -3,12 +3,16 @@
   "source": "The possible values are: {0}, {1}, or {2}.",
   "text": "Mögliche Werte sind: {0}, {1} oder {2}.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Mögliche Werte sind: {0}, {1} oder {2}."
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-09T21:36:04.091Z"
+  },
+  "updatedAt": "2026-11-09T21:36:04.091Z"
 }

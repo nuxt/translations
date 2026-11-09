@@ -3,12 +3,16 @@
   "source": "This way presents perfect use-cases for JavaScript animation libraries such as {0}GSAP{/0}.",
   "text": "Dieser Ansatz eignet sich ideal für JavaScript-Animationsbibliotheken wie {0}GSAP{/0}.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Dieser Ansatz eignet sich ideal für JavaScript-Animationsbibliotheken wie {0}GSAP{/0}."
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-09T21:36:04.091Z"
+  },
+  "updatedAt": "2026-11-09T21:36:04.091Z"
 }

@@ -3,12 +3,16 @@
   "source": "Similar to {0}, you can apply a custom {1} to the page component using {2}:",
   "text": "Ähnlich wie bei {0} kannst du mit {2} einen benutzerdefinierten {1} auf die Seitenkomponente anwenden:",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Ähnlich wie bei {0} kannst du mit {2} einen benutzerdefinierten {1} auf die Seitenkomponente anwenden:"
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-09T21:36:04.091Z"
+  },
+  "updatedAt": "2026-11-09T21:36:04.091Z"
 }

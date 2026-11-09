@@ -3,12 +3,16 @@
   "source": "It is possible to override the default {0} value for a page by setting the {1} key in {2} of the page:",
   "text": "Du kannst den Standardwert von {0} für eine Seite überschreiben, indem du den Schlüssel {1} in {2} der Seite setzt:",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Du kannst den Standardwert von {0} für eine Seite überschreiben, indem du den Schlüssel {1} in {2} der Seite setzt:"
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-09T21:36:04.091Z"
+  },
+  "updatedAt": "2026-11-09T21:36:04.091Z"
 }

@@ -1,14 +1,15 @@
 {
   "hash": "fafa9bd1fddb25be",
   "source": "If set to true, Nuxt will not apply transitions if the user's browser matches {0} (recommended). If set to {1}, Nuxt will always apply the transition and it is up to you to respect the user's preference.",
-  "text": "Ist der Wert „true“, wendet Nuxt keine Übergänge an, wenn der Browser der Nutzenden {0} entspricht (empfohlen). Bei {1} wendet Nuxt den Übergang immer an, und du musst selbst dafür sorgen, die Präferenz der Nutzenden zu berücksichtigen.",
-  "origin": "mt",
-  "review": "none",
+  "text": "Ist der Wert \"true\", wendet Nuxt keine Übergänge an, sofern im Browser des Nutzenden {0} zutrifft (empfohlen). Bei {1} wendet Nuxt den Übergang immer an, und du musst selbst dafür sorgen, die Präferenz der Nutzenden zu berücksichtigen.",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Ist der Wert „true“, wendet Nuxt keine Übergänge an, wenn der Browser der Nutzenden {0} entspricht (empfohlen). Bei {1} wendet Nuxt den Übergang immer an, und du musst selbst dafür sorgen, die Präferenz der Nutzenden zu berücksichtigen."
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-09T21:36:04.091Z"
 }

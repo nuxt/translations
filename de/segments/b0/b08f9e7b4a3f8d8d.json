@@ -3,12 +3,16 @@
   "source": "Or configure types per-page using {0}. Per-page types support both static arrays and functions for dynamic behavior:",
   "text": "Oder du konfigurierst Typen pro Seite mit {0}. Typen pro Seite unterstützen sowohl statische Arrays als auch Funktionen für dynamisches Verhalten:",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Oder du konfigurierst Typen pro Seite mit {0}. Typen pro Seite unterstützen sowohl statische Arrays als auch Funktionen für dynamisches Verhalten:"
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-09T21:36:04.091Z"
+  },
+  "updatedAt": "2026-11-09T21:36:04.091Z"
 }

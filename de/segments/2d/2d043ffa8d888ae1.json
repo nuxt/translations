@@ -3,12 +3,16 @@
   "source": "By default, view transitions are enabled for all {0}pages{/0}, but you can set a different global default.",
   "text": "Standardmäßig sind View Transitions für alle {0}Seiten{/0} aktiviert. Du kannst aber einen anderen globalen Standard festlegen.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Standardmäßig sind View Transitions für alle {0}Seiten{/0} aktiviert. Du kannst aber einen anderen globalen Standard festlegen."
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-09T21:36:04.091Z"
+  },
+  "updatedAt": "2026-11-09T21:36:04.091Z"
 }

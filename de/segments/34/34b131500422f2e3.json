@@ -1,14 +1,15 @@
 {
   "hash": "34b131500422f2e3",
   "source": "Types applied only when navigating FROM this page",
-  "text": "Typen, die nur bei der Navigation VON dieser Seite angewendet werden",
-  "origin": "mt",
-  "review": "none",
+  "text": "Typen, die nur bei der Navigation WEG von dieser Seite angewendet werden",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Typen, die nur bei der Navigation VON dieser Seite angewendet werden"
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-09T21:36:04.091Z"
 }

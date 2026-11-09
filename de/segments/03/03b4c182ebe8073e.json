@@ -3,12 +3,16 @@
   "source": "To set a different transition for a page, set the {0} key in {1} of the page:",
   "text": "Um für eine Seite einen anderen Übergang festzulegen, setze den Schlüssel {0} in {1} der Seite:",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Um für eine Seite einen anderen Übergang festzulegen, setze den Schlüssel {0} in {1} der Seite:"
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-09T21:36:04.091Z"
+  },
+  "updatedAt": "2026-11-09T21:36:04.091Z"
 }

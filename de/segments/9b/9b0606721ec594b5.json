@@ -3,12 +3,16 @@
   "source": "Disable view transitions globally, and opt-in on a per page basis",
   "text": "View Transitions global deaktivieren und pro Seite gezielt aktivieren",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "View Transitions global deaktivieren und pro Seite gezielt aktivieren"
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-09T21:36:04.091Z"
+  },
+  "updatedAt": "2026-11-09T21:36:04.091Z"
 }

@@ -1,14 +1,15 @@
 {
   "hash": "c97a602bce933daf",
   "source": "To apply dynamic transitions using conditional logic, you can leverage inline {0}middleware{/0} to assign a different transition name to {1}.",
-  "text": "Um dynamische Übergänge mit bedingter Logik anzuwenden, kannst du Inline-{0}Middleware{/0} nutzen und {1} einen anderen Übergangsnamen zuweisen.",
-  "origin": "mt",
-  "review": "none",
+  "text": "Um dynamische Übergänge mit bedingter Logik anzuwenden, kannst du eine anonyme {0}Middleware{/0} nutzen und {1} einen anderen Übergangsnamen zuweisen.",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Um dynamische Übergänge mit bedingter Logik anzuwenden, kannst du Inline-{0}Middleware{/0} nutzen und {1} einen anderen Übergangsnamen zuweisen."
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-09T21:36:04.091Z"
 }

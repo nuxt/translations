@@ -3,12 +3,16 @@
   "source": "{0}View transition types{/0} allow you to apply different CSS animations depending on the type of navigation. This is useful for creating asymmetric transitions (e.g., a different animation when navigating forward vs. backward).",
   "text": "Mit {0}View-Transition-Typen{/0} kannst du je nach Art der Navigation unterschiedliche CSS-Animationen anwenden. Das ist nützlich, um asymmetrische Übergänge zu erstellen (z. B. eine andere Animation bei der Navigation vorwärts als rückwärts).",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Mit {0}View-Transition-Typen{/0} kannst du je nach Art der Navigation unterschiedliche CSS-Animationen anwenden. Das ist nützlich, um asymmetrische Übergänge zu erstellen (z. B. eine andere Animation bei der Navigation vorwärts als rückwärts)."
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-09T21:36:04.091Z"
+  },
+  "updatedAt": "2026-11-09T21:36:04.091Z"
 }

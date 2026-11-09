@@ -3,12 +3,16 @@
   "source": "When {0} is used in {1}, transitions can be configured with the {2} prop to activate transitions globally.",
   "text": "Wenn {0} in {1} verwendet wird, lassen sich Übergänge mit der Prop {2} konfigurieren, um sie global zu aktivieren.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Wenn {0} in {1} verwendet wird, lassen sich Übergänge mit der Prop {2} konfigurieren, um sie global zu aktivieren."
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-09T21:36:04.091Z"
+  },
+  "updatedAt": "2026-11-09T21:36:04.091Z"
 }

@@ -3,12 +3,16 @@
   "source": "To start adding transition between your pages and layouts, add the following CSS to your {0}:",
   "text": "Um Übergänge zwischen deinen Seiten und Layouts hinzuzufügen, ergänze folgendes CSS in deiner {0}:",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Um Übergänge zwischen deinen Seiten und Layouts hinzuzufügen, ergänze folgendes CSS in deiner {0}:"
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-09T21:36:04.091Z"
+  },
+  "updatedAt": "2026-11-09T21:36:04.091Z"
 }

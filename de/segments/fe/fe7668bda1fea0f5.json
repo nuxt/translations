@@ -1,14 +1,15 @@
 {
   "hash": "fe7668bda1fea0f5",
   "source": "To start adding transition between your pages, add the following CSS to your {0}:",
-  "text": "Um Übergänge zwischen deinen Seiten hinzuzufügen, ergänze folgendes CSS in deiner {0}:",
-  "origin": "mt",
-  "review": "none",
+  "text": "Um Übergänge zwischen deinen Seiten hinzuzufügen, ergänze zunächst folgendes CSS in deiner {0}:",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Um Übergänge zwischen deinen Seiten hinzuzufügen, ergänze folgendes CSS in deiner {0}:"
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-09T21:36:04.091Z"
 }
