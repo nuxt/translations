@@ -1,14 +1,15 @@
 {
   "hash": "0731214bd6a03443",
   "source": "**Windows slow DNS resolution**: Instead of using {0} for local dev server on Windows, use {1} for much faster loading experience on browsers.",
-  "text": "**Langsame DNS-Auflösung unter Windows**: Verwende für den lokalen Entwicklungsserver unter Windows statt {0} lieber {1}, um im Browser deutlich schneller zu laden.",
-  "origin": "mt",
-  "review": "none",
+  "text": "**Langsame DNS-Auflösung unter Windows**: Verwende für den lokalen Entwicklungsserver unter Windows statt {0} lieber {1}, damit die Website im Browser schneller laden kann.",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "**Langsame DNS-Auflösung unter Windows**: Verwende für den lokalen Entwicklungsserver unter Windows statt {0} lieber {1}, um im Browser deutlich schneller zu laden."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "by": "trueberryless",
+  "updatedAt": "2026-11-09T17:21:32.228Z"
 }

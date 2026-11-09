@@ -1,14 +1,15 @@
 {
   "hash": "bdaa03f5d1810b47",
   "source": "**WSL**: If you are using Windows and experience slow HMR, you may want to try using {0}WSL (Windows Subsystem for Linux){/0} which may solve some performance issues.",
-  "text": "**WSL**: Wenn du Windows verwendest und eine langsame HMR feststellst, kannst du {0}WSL (Windows Subsystem for Linux){/0} ausprobieren, das einige Performance-Probleme lösen kann.",
-  "origin": "mt",
-  "review": "none",
+  "text": "**WSL**: Wenn du Windows verwendest und langsame HMR feststellst, kannst du {0}WSL (Windows Subsystem for Linux){/0} ausprobieren, das einige Performance-Probleme lösen kann.",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "**WSL**: Wenn du Windows verwendest und eine langsame HMR feststellst, kannst du {0}WSL (Windows Subsystem for Linux){/0} ausprobieren, das einige Performance-Probleme lösen kann."
   },
-  "updatedAt": "2026-11-08T00:34:47.570Z"
+  "by": "trueberryless",
+  "updatedAt": "2026-11-09T17:21:32.228Z"
 }
