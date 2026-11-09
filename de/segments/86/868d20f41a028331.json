@@ -3,12 +3,16 @@
   "source": "{0} and {1} can accept nested meta tags (for aesthetic reasons) but this does not affect *where* the nested meta tags are rendered in the final HTML.",
   "text": "{0} und {1} können verschachtelte Meta-Tags akzeptieren (aus ästhetischen Gründen), das hat jedoch keinen Einfluss darauf, *wo* die verschachtelten Meta-Tags im finalen HTML ausgegeben werden.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "{0} und {1} können verschachtelte Meta-Tags akzeptieren (aus ästhetischen Gründen), das hat jedoch keinen Einfluss darauf, *wo* die verschachtelten Meta-Tags im finalen HTML ausgegeben werden."
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-09T19:46:34.934Z"
+  },
+  "updatedAt": "2026-11-09T19:46:34.934Z"
 }

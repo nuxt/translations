@@ -3,12 +3,16 @@
   "source": "You can use the {0} option to provide a dynamic template for customizing the title of your site. For example, you could add the name of your site to the title of every page.",
   "text": "Mit der Option {0} kannst du eine dynamische Vorlage bereitstellen, um den Titel deiner Website anzupassen. Du könntest beispielsweise den Namen deiner Website zum Titel jeder Seite hinzufügen.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Mit der Option {0} kannst du eine dynamische Vorlage bereitstellen, um den Titel deiner Website anzupassen. Du könntest beispielsweise den Namen deiner Website zum Titel jeder Seite hinzufügen."
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-09T19:46:34.934Z"
+  },
+  "updatedAt": "2026-11-09T19:46:34.934Z"
 }

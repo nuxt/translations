@@ -1,14 +1,15 @@
 {
   "hash": "682955c7a40f9b3c",
   "source": "update Nuxt defaults",
-  "text": "Nuxt-Standardwerte aktualisieren",
-  "origin": "mt",
-  "review": "none",
+  "text": "Nuxt-Standardwerte aktualisieren.",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Nuxt-Standardwerte aktualisieren"
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-09T19:46:34.934Z"
 }

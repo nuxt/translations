@@ -1,14 +1,15 @@
 {
   "hash": "1c68efc5e59ff382",
   "source": "valid options are: 'head' | 'bodyClose' | 'bodyOpen'",
-  "text": "gültige Optionen sind: 'head' | 'bodyClose' | 'bodyOpen'",
-  "origin": "mt",
-  "review": "none",
+  "text": "Gültige Optionen sind: 'head' | 'bodyClose' | 'bodyOpen'.",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "gültige Optionen sind: 'head' | 'bodyClose' | 'bodyOpen'"
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-09T19:46:34.934Z"
 }

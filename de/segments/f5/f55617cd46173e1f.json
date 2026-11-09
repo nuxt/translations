@@ -1,14 +1,15 @@
 {
   "hash": "f55617cd46173e1f",
   "source": "While using {0} is recommended in all cases, you may have a personal preference for defining your head tags in your template using components.",
-  "text": "Auch wenn die Verwendung von {0} in allen Fällen empfohlen wird, kannst du persönlich bevorzugen, deine Head-Tags in der Vorlage mithilfe von Komponenten zu definieren.",
-  "origin": "mt",
-  "review": "none",
+  "text": "Auch wenn die Verwendung von {0} in allen Fällen empfohlen wird, kannst du persönlich bevorzugen, deine Head-Tags im template mithilfe von Komponenten zu definieren.",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Auch wenn die Verwendung von {0} in allen Fällen empfohlen wird, kannst du persönlich bevorzugen, deine Head-Tags in der Vorlage mithilfe von Komponenten zu definieren."
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-09T19:46:34.934Z"
 }

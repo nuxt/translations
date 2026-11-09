@@ -3,12 +3,16 @@
   "source": "Within your {0}{1} directory{/0}, you can use {2} along with {3} to set metadata based on the current route.",
   "text": "Innerhalb deines {0}Verzeichnisses {1}{/0} kannst du {2} zusammen mit {3} verwenden, um Metadaten auf Basis der aktuellen Route festzulegen.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Innerhalb deines {0}Verzeichnisses {1}{/0} kannst du {2} zusammen mit {3} verwenden, um Metadaten auf Basis der aktuellen Route festzulegen."
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-09T19:46:34.934Z"
+  },
+  "updatedAt": "2026-11-09T19:46:34.934Z"
 }

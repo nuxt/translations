@@ -3,12 +3,16 @@
   "source": "And then in your layout file, you might use the route's metadata you have previously set:",
   "text": "Und anschließend in deiner layout-Datei die zuvor gesetzten Metadaten der Route verwenden:",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Und anschließend in deiner layout-Datei die zuvor gesetzten Metadaten der Route verwenden:"
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-09T19:46:34.934Z"
+  },
+  "updatedAt": "2026-11-09T19:46:34.934Z"
 }

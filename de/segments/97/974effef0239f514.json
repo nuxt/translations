@@ -1,14 +1,15 @@
 {
   "hash": "974effef0239f514",
   "source": "If you need to duplicate tags across client-server boundaries, apply a {0} attribute on the {1} component.",
-  "text": "Wenn du Tags über die Grenze zwischen Client und Server hinweg duplizieren musst, setze ein {0}-Attribut auf die Komponente {1}.",
-  "origin": "mt",
-  "review": "none",
+  "text": "Wenn du Tags über Client und Server hinweg duplizieren musst, setze ein {0}-Attribut auf die Komponente {1}.",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Wenn du Tags über die Grenze zwischen Client und Server hinweg duplizieren musst, setze ein {0}-Attribut auf die Komponente {1}."
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-09T19:46:34.934Z"
 }

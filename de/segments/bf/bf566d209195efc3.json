@@ -3,12 +3,16 @@
   "source": "While most sites won't need to override these defaults, you can update them using the keyed shortcuts.",
   "text": "Die meisten Websites müssen diese Standardwerte zwar nicht überschreiben, du kannst sie aber mit den Schlüssel-Kurzformen aktualisieren.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Die meisten Websites müssen diese Standardwerte zwar nicht überschreiben, du kannst sie aber mit den Schlüssel-Kurzformen aktualisieren."
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-09T19:46:34.934Z"
+  },
+  "updatedAt": "2026-11-09T19:46:34.934Z"
 }

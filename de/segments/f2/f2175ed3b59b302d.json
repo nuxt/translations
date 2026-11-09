@@ -3,12 +3,16 @@
   "source": "If you want to use a function (for full control), then this cannot be set in your {0}. It is recommended instead to set it within your {1} file where it will apply to all pages on your site:",
   "text": "Wenn du eine Funktion verwenden möchtest (für volle Kontrolle), kannst du sie nicht in deiner {0} festlegen. Stattdessen empfiehlt es sich, sie in deiner Datei {1} zu setzen, wo sie für alle Seiten deiner Website gilt:",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Wenn du eine Funktion verwenden möchtest (für volle Kontrolle), kannst du sie nicht in deiner {0} festlegen. Stattdessen empfiehlt es sich, sie in deiner Datei {1} zu setzen, wo sie für alle Seiten deiner Website gilt:"
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-09T19:46:34.934Z"
+  },
+  "updatedAt": "2026-11-09T19:46:34.934Z"
 }

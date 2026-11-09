@@ -1,14 +1,15 @@
 {
   "hash": "702b25a300a72bd0",
   "source": "When you set {0}, assets in your {1} directory (including {2}) are served from that CDN. Nuxt resolves public assets against {3}, falling back to {4}. However, a static {5} link such as {6} above is a literal path and is **not** resolved against {7}. To point the favicon at the resolved location, build the {8} from runtime config with {9} in {10}:",
-  "text": "Wenn du {0} setzt, werden Assets in deinem Verzeichnis {1} (einschließlich {2}) über dieses CDN ausgeliefert. Nuxt löst öffentliche Assets relativ zu {3} auf und greift andernfalls auf {4} zurück. Ein statischer {5}-Link wie {6} oben ist jedoch ein wörtlicher Pfad und wird **nicht** relativ zu {7} aufgelöst. Damit das Favicon auf den aufgelösten Speicherort zeigt, erstelle {8} mit {9} in {10} aus der Laufzeitkonfiguration:",
-  "origin": "mt",
-  "review": "none",
+  "text": "Wenn du {0} setzt, werden Assets in deinem Verzeichnis {1} (einschließlich {2}) über dieses CDN ausgeliefert. Nuxt löst öffentliche Assets relativ zu {3} auf und greift andernfalls auf {4} zurück. Ein statischer {5}-Link wie {6} oben ist jedoch ein fester Pfad und wird **nicht** relativ zu {7} aufgelöst. Damit das Favicon auf den aufgelösten Speicherort zeigt, erstelle {8} mit {9} in {10} aus der Laufzeitkonfiguration:",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Wenn du {0} setzt, werden Assets in deinem Verzeichnis {1} (einschließlich {2}) über dieses CDN ausgeliefert. Nuxt löst öffentliche Assets relativ zu {3} auf und greift andernfalls auf {4} zurück. Ein statischer {5}-Link wie {6} oben ist jedoch ein wörtlicher Pfad und wird **nicht** relativ zu {7} aufgelöst. Damit das Favicon auf den aufgelösten Speicherort zeigt, erstelle {8} mit {9} in {10} aus der Laufzeitkonfiguration:"
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-09T19:46:34.934Z"
 }

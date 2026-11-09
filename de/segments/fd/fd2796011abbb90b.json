@@ -3,12 +3,16 @@
   "source": "Now, if you set the title to {0} with {1} on another page of your site, the title would appear as 'My Page - Site Title' in the browser tab. You could also pass {2} to default to 'Site Title'.",
   "text": "Wenn du nun auf einer anderen Seite deiner Website den Titel mit {1} auf {0} setzt, erscheint er im Browser-Tab als „My Page - Site Title“. Du könntest auch {2} übergeben, damit standardmäßig „Site Title“ verwendet wird.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Wenn du nun auf einer anderen Seite deiner Website den Titel mit {1} auf {0} setzt, erscheint er im Browser-Tab als „My Page - Site Title“. Du könntest auch {2} übergeben, damit standardmäßig „Site Title“ verwendet wird."
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-09T19:46:34.934Z"
+  },
+  "updatedAt": "2026-11-09T19:46:34.934Z"
 }

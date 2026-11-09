@@ -1,14 +1,15 @@
 {
   "hash": "aef57ae2f0d4f9f1",
   "source": "In the example below, {0} is set either as a string with the {1} placeholder or as a {2}, which allows greater flexibility in setting the page title dynamically for each route of your Nuxt app:",
-  "text": "Im folgenden Beispiel wird {0} entweder als String mit dem Platzhalter {1} oder als {2} gesetzt. Das ermöglicht mehr Flexibilität, um den Seitentitel für jede Route deiner Nuxt-App dynamisch festzulegen:",
-  "origin": "mt",
-  "review": "none",
+  "text": "Im folgenden Beispiel wird {0} entweder als Text mit dem Platzhalter {1} oder als {2} gesetzt. Das ermöglicht mehr Flexibilität, um den Seitentitel für jede Route deiner Nuxt-App dynamisch festzulegen:",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Im folgenden Beispiel wird {0} entweder als String mit dem Platzhalter {1} oder als {2} gesetzt. Das ermöglicht mehr Flexibilität, um den Seitentitel für jede Route deiner Nuxt-App dynamisch festzulegen:"
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-09T19:46:34.934Z"
 }

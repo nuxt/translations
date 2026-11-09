@@ -1,14 +1,15 @@
 {
   "hash": "19e2af2edd0f9f6b",
   "source": "Reactivity is supported on all properties, by providing a computed value, a getter, or a reactive object.",
-  "text": "Reaktivität wird für alle Eigenschaften unterstützt, indem du einen berechneten Wert (Computed), einen Getter oder ein reaktives Objekt übergibst.",
-  "origin": "mt",
-  "review": "none",
+  "text": "Reaktivität wird für alle Eigenschaften unterstützt, indem du einen berechneten Wert (computed), einen Getter oder ein reaktives Objekt übergibst.",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Reaktivität wird für alle Eigenschaften unterstützt, indem du einen berechneten Wert (Computed), einen Getter oder ein reaktives Objekt übergibst."
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-09T19:46:34.934Z"
 }
