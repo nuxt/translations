@@ -1,0 +1,14 @@
+{
+  "hash": "0811e22eebdc3121",
+  "source": "Nuxt Kit provides a set of utilities to help you create and use pages. You can use these utilities to manipulate the pages configuration or to define route rules.",
+  "text": "Nuxt Kit bietet eine Reihe von Hilfsfunktionen, mit denen du Seiten erstellen und verwenden kannst. Damit kannst du die Seitenkonfiguration anpassen oder Routing-Regeln definieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Kit bietet eine Reihe von Hilfsfunktionen, mit denen du Seiten erstellen und verwenden kannst. Damit kannst du die Seitenkonfiguration anpassen oder Routing-Regeln definieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

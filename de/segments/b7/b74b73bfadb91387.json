@@ -1,0 +1,14 @@
+{
+  "hash": "b74b73bfadb91387",
+  "source": "{0} - Extend the default composables",
+  "text": "{0} – Erweitert die Standard-Composables",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} – Erweitert die Standard-Composables"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

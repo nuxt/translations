@@ -1,0 +1,14 @@
+{
+  "hash": "2c43cf7b9b00c3f2",
+  "source": "An object or an array of objects, which can be import names, import objects or import sources.",
+  "text": "Ein Objekt oder ein Array von Objekten, bei denen es sich um Importnamen, Importobjekte oder Importquellen handeln kann.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein Objekt oder ein Array von Objekten, bei denen es sich um Importnamen, Importobjekte oder Importquellen handeln kann."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

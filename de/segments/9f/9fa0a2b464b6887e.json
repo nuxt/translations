@@ -1,0 +1,14 @@
+{
+  "hash": "9fa0a2b464b6887e",
+  "source": "External Routing",
+  "text": "Externe Navigation",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Externe Navigation"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

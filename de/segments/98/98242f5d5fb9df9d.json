@@ -1,0 +1,14 @@
+{
+  "hash": "98242f5d5fb9df9d",
+  "source": "Learn more about Vite's Environment API.",
+  "text": "Erfahre mehr über die Environment API von Vite.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erfahre mehr über die Environment API von Vite."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "fd876006366152ae",
+  "source": "You can use Nuxt Fonts with UnoCSS by setting {0} in your configuration file:",
+  "text": "Du kannst Nuxt Fonts mit UnoCSS verwenden, indem du {0} in deiner Konfigurationsdatei setzt:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst Nuxt Fonts mit UnoCSS verwenden, indem du {0} in deiner Konfigurationsdatei setzt:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

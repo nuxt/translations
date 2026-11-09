@@ -1,0 +1,14 @@
+{
+  "hash": "6183c61c6dd33a68",
+  "source": "Inline Code",
+  "text": "Inline-Code",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Inline-Code"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

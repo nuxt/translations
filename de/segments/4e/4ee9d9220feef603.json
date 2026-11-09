@@ -1,0 +1,14 @@
+{
+  "hash": "4ee9d9220feef603",
+  "source": "setPageLayout called on server within component.",
+  "text": "setPageLayout wurde auf dem Server innerhalb einer Komponente aufgerufen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "setPageLayout wurde auf dem Server innerhalb einer Komponente aufgerufen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

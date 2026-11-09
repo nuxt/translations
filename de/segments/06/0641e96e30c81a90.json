@@ -1,0 +1,14 @@
+{
+  "hash": "0641e96e30c81a90",
+  "source": "An example v4 folder structure.",
+  "text": "Eine beispielhafte Verzeichnisstruktur für v4.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine beispielhafte Verzeichnisstruktur für v4."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

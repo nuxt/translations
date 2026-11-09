@@ -1,0 +1,14 @@
+{
+  "hash": "3cc2899506131646",
+  "source": "SEO & PWA",
+  "text": "SEO & PWA",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "SEO & PWA"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

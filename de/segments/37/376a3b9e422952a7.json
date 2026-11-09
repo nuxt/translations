@@ -1,0 +1,14 @@
+{
+  "hash": "376a3b9e422952a7",
+  "source": "When fetching data from the {0} directory, the response is serialized using {1}. However, since serialization is limited to only JavaScript primitive types, Nuxt does its best to convert the return type of {2} and {3} to match the actual value.",
+  "text": "Beim Abrufen von Daten aus dem Verzeichnis {0} wird die Antwort mit {1} serialisiert. Da die Serialisierung jedoch auf primitive JavaScript-Typen beschränkt ist, versucht Nuxt bestmöglich, den Rückgabetyp von {2} und {3} an den tatsächlichen Wert anzupassen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Beim Abrufen von Daten aus dem Verzeichnis {0} wird die Antwort mit {1} serialisiert. Da die Serialisierung jedoch auf primitive JavaScript-Typen beschränkt ist, versucht Nuxt bestmöglich, den Rückgabetyp von {2} und {3} an den tatsächlichen Wert anzupassen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

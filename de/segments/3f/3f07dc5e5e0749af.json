@@ -1,0 +1,14 @@
+{
+  "hash": "3f07dc5e5e0749af",
+  "source": "If you are working in a project with a monorepo, like {0}, ensure that you specify the main scope of your commit in brackets. For example: {1}.",
+  "text": "Wenn du in einem Projekt mit Monorepo arbeitest, wie {0}, gib den Hauptbereich deines Commits in Klammern an. Zum Beispiel: {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du in einem Projekt mit Monorepo arbeitest, wie {0}, gib den Hauptbereich deines Commits in Klammern an. Zum Beispiel: {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

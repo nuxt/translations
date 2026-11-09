@@ -1,0 +1,14 @@
+{
+  "hash": "ecd2e9be10507faa",
+  "source": "ref() and computed() are auto-imported",
+  "text": "ref() und computed() werden automatisch importiert",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "ref() und computed() werden automatisch importiert"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

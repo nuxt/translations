@@ -1,0 +1,14 @@
+{
+  "hash": "7636e7261864dba1",
+  "source": "If you have been defining transitions for your page or layout directly in your component options, you will now need to use {0} to set the transition. Since Vue 3, {1}-enter and -leave CSS classes have been renamed{/1}. The {2} prop from {3} no longer applies to transition when used on {4}, so move the styles to your {5} class.",
+  "text": "Wenn du Übergänge für deine Seite oder dein Layout direkt in den Komponentenoptionen definiert hast, musst du den Übergang jetzt mit {0} festlegen. Seit Vue 3 wurden {1}die CSS-Klassen für Enter und Leave umbenannt{/1}. Die Prop {2} von {3} wirkt sich nicht mehr auf den Übergang aus, wenn sie bei {4} verwendet wird. Verschiebe die Styles daher in deine {5}-Klasse.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du Übergänge für deine Seite oder dein Layout direkt in den Komponentenoptionen definiert hast, musst du den Übergang jetzt mit {0} festlegen. Seit Vue 3 wurden {1}die CSS-Klassen für Enter und Leave umbenannt{/1}. Die Prop {2} von {3} wirkt sich nicht mehr auf den Übergang aus, wenn sie bei {4} verwendet wird. Verschiebe die Styles daher in deine {5}-Klasse."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

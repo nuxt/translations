@@ -1,0 +1,14 @@
+{
+  "hash": "f0b7b0b5d0a9d3bf",
+  "source": "Differences from {0}",
+  "text": "Unterschiede zu {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Unterschiede zu {0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

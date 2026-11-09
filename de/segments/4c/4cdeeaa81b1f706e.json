@@ -1,0 +1,14 @@
+{
+  "hash": "4cdeeaa81b1f706e",
+  "source": "Alternatively, set {0} to strip scripts in development as well, making the production behavior observable in dev.",
+  "text": "Alternativ kannst du {0} setzen, damit Skripte auch in der Entwicklung entfernt werden. So lässt sich das Verhalten der Produktion bereits in der Entwicklung beobachten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Alternativ kannst du {0} setzen, damit Skripte auch in der Entwicklung entfernt werden. So lässt sich das Verhalten der Produktion bereits in der Entwicklung beobachten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

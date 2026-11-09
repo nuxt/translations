@@ -1,0 +1,14 @@
+{
+  "hash": "237f65d967cc69c2",
+  "source": "Module Compatibility",
+  "text": "Modulkompatibilität",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Modulkompatibilität"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

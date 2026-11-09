@@ -1,0 +1,14 @@
+{
+  "hash": "1fdba0f06e8ae2ba",
+  "source": "Both {0} and {1} keys accept {2} as JSON serializable values where you can pass the {3}, {4} and other valid transition-props of the custom CSS transition.",
+  "text": "Die beiden Schlüssel {0} und {1} akzeptieren {2} als JSON-serialisierbare Werte, in denen du {3}, {4} und weitere gültige Transition-Props des benutzerdefinierten CSS-Übergangs angeben kannst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die beiden Schlüssel {0} und {1} akzeptieren {2} als JSON-serialisierbare Werte, in denen du {3}, {4} und weitere gültige Transition-Props des benutzerdefinierten CSS-Übergangs angeben kannst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

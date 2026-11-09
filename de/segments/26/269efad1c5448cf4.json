@@ -1,0 +1,14 @@
+{
+  "hash": "269efad1c5448cf4",
+  "source": "If you're consuming SSE via GET request, you can use {0} or VueUse composable {1}.",
+  "text": "Wenn du SSE per GET-Anfrage nutzt, kannst du {0} oder das VueUse-Composable {1} verwenden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du SSE per GET-Anfrage nutzt, kannst du {0} oder das VueUse-Composable {1} verwenden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

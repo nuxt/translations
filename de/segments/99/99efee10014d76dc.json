@@ -1,0 +1,14 @@
+{
+  "hash": "99efee10014d76dc",
+  "source": "Nuxt exposes every auto-import with the {0} alias that can be used to make the import explicit if needed:",
+  "text": "Nuxt stellt jeden automatischen Import über den Alias {0} bereit. Damit kannst du den Import bei Bedarf explizit machen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt stellt jeden automatischen Import über den Alias {0} bereit. Damit kannst du den Import bei Bedarf explizit machen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

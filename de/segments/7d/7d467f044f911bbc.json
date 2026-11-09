@@ -1,0 +1,14 @@
+{
+  "hash": "7d467f044f911bbc",
+  "source": "This matches the recommended structure where only tests that need the Nuxt runtime environment are placed in these directories. Unit tests in other directories like {0} can be added manually if needed.",
+  "text": "Das entspricht der empfohlenen Struktur, bei der nur Tests, die die Nuxt-Laufzeitumgebung benötigen, in diesen Verzeichnissen liegen. Unit-Tests in anderen Verzeichnissen wie {0} kannst du bei Bedarf manuell hinzufügen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das entspricht der empfohlenen Struktur, bei der nur Tests, die die Nuxt-Laufzeitumgebung benötigen, in diesen Verzeichnissen liegen. Unit-Tests in anderen Verzeichnissen wie {0} kannst du bei Bedarf manuell hinzufügen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

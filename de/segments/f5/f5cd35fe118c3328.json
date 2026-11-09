@@ -1,0 +1,14 @@
+{
+  "hash": "f5cd35fe118c3328",
+  "source": "Avoid subjective words like *simply*, *just*, *obviously...* when possible.",
+  "text": "Vermeide nach Möglichkeit subjektive Wörter wie *einfach*, *nur*, *offensichtlich* usw.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vermeide nach Möglichkeit subjektive Wörter wie *einfach*, *nur*, *offensichtlich* usw."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

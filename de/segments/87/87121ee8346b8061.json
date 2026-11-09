@@ -1,0 +1,14 @@
+{
+  "hash": "87121ee8346b8061",
+  "source": "Setting Up a Dev Container",
+  "text": "Einen Dev Container einrichten",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Einen Dev Container einrichten"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

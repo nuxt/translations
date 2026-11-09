@@ -1,0 +1,14 @@
+{
+  "hash": "7d02ed4c6cbb9a8f",
+  "source": "Note that currently server routes do not support the full functionality of dynamic routes as {0}pages{/0} do.",
+  "text": "Beachte, dass Server-Routen derzeit nicht den vollen Funktionsumfang dynamischer Routen unterstützen, wie ihn {0}Seiten{/0} bieten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Beachte, dass Server-Routen derzeit nicht den vollen Funktionsumfang dynamischer Routen unterstützen, wie ihn {0}Seiten{/0} bieten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

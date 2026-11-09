@@ -1,0 +1,14 @@
+{
+  "hash": "f6b765eb7ca6a83d",
+  "source": "Run it without a module name to pick from the modules the project currently uses.",
+  "text": "Führe den Befehl ohne Modulnamen aus, um ein Modul aus den Modulen auszuwählen, die das Projekt aktuell verwendet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Führe den Befehl ohne Modulnamen aus, um ein Modul aus den Modulen auszuwählen, die das Projekt aktuell verwendet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

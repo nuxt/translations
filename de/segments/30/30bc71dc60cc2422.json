@@ -1,0 +1,14 @@
+{
+  "hash": "30bc71dc60cc2422",
+  "source": "{0}: Remote source to call the island to render.",
+  "text": "{0}: Externe Quelle, von der das Island zum Rendern abgerufen wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Externe Quelle, von der das Island zum Rendern abgerufen wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "cc8be4bd0b9fdaf1",
+  "source": "When you need to handle more complex configuration alterations, you should consider using {0}defu{/0}.",
+  "text": "Wenn du komplexere Änderungen an der Konfiguration vornehmen musst, solltest du {0}defu{/0} in Betracht ziehen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du komplexere Änderungen an der Konfiguration vornehmen musst, solltest du {0}defu{/0} in Betracht ziehen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

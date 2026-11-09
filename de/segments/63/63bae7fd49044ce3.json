@@ -1,0 +1,14 @@
+{
+  "hash": "63bae7fd49044ce3",
+  "source": "{0} and {1} take any {2}Standard Schema{/2} (Zod, Valibot, ArkType and others), or a function that returns the validated value, {3} to accept the input or {4} to reject it.",
+  "text": "{0} und {1} akzeptieren jedes {2}Standard Schema{/2} (Zod, Valibot, ArkType und andere) oder eine Funktion, die den validierten Wert zurückgibt, mit {3} die Eingabe akzeptiert oder mit {4} ablehnt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} und {1} akzeptieren jedes {2}Standard Schema{/2} (Zod, Valibot, ArkType und andere) oder eine Funktion, die den validierten Wert zurückgibt, mit {3} die Eingabe akzeptiert oder mit {4} ablehnt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

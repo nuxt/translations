@@ -1,0 +1,14 @@
+{
+  "hash": "8c11a54bf52241bf",
+  "source": "Server component props come from the request (URL query or body), so treat them as untrusted input. Nuxt rejects the props most likely to leak through unintentionally: a top-level {0} that the island does not declare (an undeclared prop falls through as an attribute onto the island's root), and, with {1} enabled, a {2} anywhere in the props. Beyond that, avoid feeding props you have not validated into dynamic component resolution ({3}, {4}, {5}, or a polymorphic {6} / {7} prop), since a string can resolve to any registered component or HTML element.",
+  "text": "Props von Serverkomponenten stammen aus der Anfrage (URL-Query oder Body). Behandle sie daher als nicht vertrauenswürdige Eingaben. Nuxt lehnt die Props ab, die am ehesten unbeabsichtigt durchsickern: ein {0} auf oberster Ebene, den das Island nicht deklariert (eine nicht deklarierte Prop landet als Attribut am Wurzelelement des Islands), und, wenn {1} aktiviert ist, ein {2} an beliebiger Stelle in den Props. Darüber hinaus solltest du keine nicht validierten Props in die dynamische Komponentenauflösung einspeisen ({3}, {4}, {5} oder eine polymorphe {6}-/{7}-Prop), da ein String zu jeder registrierten Komponente oder jedem HTML-Element aufgelöst werden kann.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Props von Serverkomponenten stammen aus der Anfrage (URL-Query oder Body). Behandle sie daher als nicht vertrauenswürdige Eingaben. Nuxt lehnt die Props ab, die am ehesten unbeabsichtigt durchsickern: ein {0} auf oberster Ebene, den das Island nicht deklariert (eine nicht deklarierte Prop landet als Attribut am Wurzelelement des Islands), und, wenn {1} aktiviert ist, ein {2} an beliebiger Stelle in den Props. Darüber hinaus solltest du keine nicht validierten Props in die dynamische Komponentenauflösung einspeisen ({3}, {4}, {5} oder eine polymorphe {6}-/{7}-Prop), da ein String zu jeder registrierten Komponente oder jedem HTML-Element aufgelöst werden kann."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

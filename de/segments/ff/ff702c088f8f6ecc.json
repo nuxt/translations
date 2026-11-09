@@ -1,0 +1,14 @@
+{
+  "hash": "ff702c088f8f6ecc",
+  "source": "This command sets {0} to {1}.",
+  "text": "Dieser Befehl setzt {0} auf {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dieser Befehl setzt {0} auf {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

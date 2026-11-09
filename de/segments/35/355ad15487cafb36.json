@@ -1,0 +1,14 @@
+{
+  "hash": "355ad15487cafb36",
+  "source": "Breaking or significant changes are documented below along with migration steps and the configuration available for each.",
+  "text": "Breaking Changes und wesentliche Änderungen sind unten dokumentiert, zusammen mit den Migrationsschritten und der jeweils verfügbaren Konfiguration.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Breaking Changes und wesentliche Änderungen sind unten dokumentiert, zusammen mit den Migrationsschritten und der jeweils verfügbaren Konfiguration."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

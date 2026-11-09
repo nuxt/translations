@@ -1,0 +1,14 @@
+{
+  "hash": "e4841ac6005c6233",
+  "source": "this will automatically be rendered on the server, meaning your markdown parsing + highlighting",
+  "text": "das wird automatisch auf dem Server gerendert, d. h. deine Bibliotheken für das Parsen und Hervorheben von Markdown",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "das wird automatisch auf dem Server gerendert, d. h. deine Bibliotheken für das Parsen und Hervorheben von Markdown"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

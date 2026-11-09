@@ -1,0 +1,14 @@
+{
+  "hash": "b3cb1a4094506f19",
+  "source": "Nested {0} Files Are No Longer Auto-Imported",
+  "text": "Verschachtelte {0}-Dateien werden nicht mehr automatisch importiert",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verschachtelte {0}-Dateien werden nicht mehr automatisch importiert"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

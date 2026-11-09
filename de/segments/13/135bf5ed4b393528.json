@@ -1,0 +1,14 @@
+{
+  "hash": "135bf5ed4b393528",
+  "source": "You can access {0}plugin injections{/0} from composables:",
+  "text": "Du kannst aus Composables auf {0}Plugin-Injections{/0} zugreifen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst aus Composables auf {0}Plugin-Injections{/0} zugreifen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

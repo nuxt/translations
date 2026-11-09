@@ -1,0 +1,14 @@
+{
+  "hash": "46767905a0245c17",
+  "source": "{0}: a function or class instance passed as a prop to a server component, or in the {1} of a {2}",
+  "text": "{0}: eine Funktion oder Klasseninstanz, die als Prop an eine Serverkomponente oder im {1} eines {2} übergeben wird",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: eine Funktion oder Klasseninstanz, die als Prop an eine Serverkomponente oder im {1} eines {2} übergeben wird"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

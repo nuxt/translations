@@ -1,0 +1,14 @@
+{
+  "hash": "2ee2dbca9a392de9",
+  "source": "Create a new file in your project root directory and name it {0}.",
+  "text": "Erstelle im Projektstammverzeichnis eine neue Datei und nenne sie {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erstelle im Projektstammverzeichnis eine neue Datei und nenne sie {0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e94fd0e2460c790f",
+  "source": "{0} received a non-function {1} argument. The value to run once must be a function so Nuxt can execute it a single time and skip it on subsequent calls.",
+  "text": "{0} hat für das Argument {1} einen Wert erhalten, der keine Funktion ist. Der Wert, der einmalig ausgeführt werden soll, muss eine Funktion sein, damit Nuxt sie genau einmal ausführen und bei späteren Aufrufen überspringen kann.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} hat für das Argument {1} einen Wert erhalten, der keine Funktion ist. Der Wert, der einmalig ausgeführt werden soll, muss eine Funktion sein, damit Nuxt sie genau einmal ausführen und bei späteren Aufrufen überspringen kann."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "6393b16d1ba473fe",
+  "source": "Returns the preflight {0}, or {1}: {2}.",
+  "text": "Gibt die Preflight-{0} zurück oder {1}: {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gibt die Preflight-{0} zurück oder {1}: {2}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

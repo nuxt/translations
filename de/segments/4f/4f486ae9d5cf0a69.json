@@ -1,0 +1,14 @@
+{
+  "hash": "4f486ae9d5cf0a69",
+  "source": "runs when the browser is idle, or about 2 seconds after your app is ready, whichever comes first",
+  "text": "wird ausgeführt, wenn der Browser im Leerlauf ist, oder etwa 2 Sekunden nachdem deine App bereit ist – je nachdem, was zuerst eintritt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "wird ausgeführt, wenn der Browser im Leerlauf ist, oder etwa 2 Sekunden nachdem deine App bereit ist – je nachdem, was zuerst eintritt"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

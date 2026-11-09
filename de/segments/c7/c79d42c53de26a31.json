@@ -1,0 +1,14 @@
+{
+  "hash": "c79d42c53de26a31",
+  "source": "You can now define a key within the {0} compiler macro.",
+  "text": "Du kannst jetzt einen Schlüssel innerhalb des Compiler-Makros {0} definieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst jetzt einen Schlüssel innerhalb des Compiler-Makros {0} definieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

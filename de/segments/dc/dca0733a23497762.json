@@ -1,0 +1,14 @@
+{
+  "hash": "dca0733a23497762",
+  "source": "Nuxt uses native ES modules.",
+  "text": "Nuxt verwendet native ES Modules.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt verwendet native ES Modules."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

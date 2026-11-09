@@ -1,0 +1,14 @@
+{
+  "hash": "13bbea646e4796b9",
+  "source": "It's suggested to wrap your components in either a {0} or {1} component as tags will be deduped more intuitively.",
+  "text": "Es empfiehlt sich, deine Komponenten entweder in eine {0}- oder eine {1}-Komponente einzuschließen, da Tags so intuitiver dedupliziert werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Es empfiehlt sich, deine Komponenten entweder in eine {0}- oder eine {1}-Komponente einzuschließen, da Tags so intuitiver dedupliziert werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

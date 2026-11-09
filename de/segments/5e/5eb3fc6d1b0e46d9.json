@@ -1,0 +1,14 @@
+{
+  "hash": "5eb3fc6d1b0e46d9",
+  "source": "The official builders also emit their own hooks (for example {0}, {1}, {2}) so modules and Nitro can participate in the build. A custom builder may emit its own hooks, but the build output contract below is what makes it interoperate with the Nuxt server runtime.",
+  "text": "Die offiziellen Builder senden außerdem eigene Hooks (zum Beispiel {0}, {1}, {2}), damit Module und Nitro am Build mitwirken können. Ein eigener Builder kann ebenfalls eigene Hooks senden, aber erst der unten beschriebene Build-Output-Vertrag sorgt dafür, dass er mit der Nuxt-Server-Runtime zusammenarbeitet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die offiziellen Builder senden außerdem eigene Hooks (zum Beispiel {0}, {1}, {2}), damit Module und Nitro am Build mitwirken können. Ein eigener Builder kann ebenfalls eigene Hooks senden, aber erst der unten beschriebene Build-Output-Vertrag sorgt dafür, dass er mit der Nuxt-Server-Runtime zusammenarbeitet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

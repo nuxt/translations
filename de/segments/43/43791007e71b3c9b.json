@@ -1,0 +1,14 @@
+{
+  "hash": "43791007e71b3c9b",
+  "source": "Configure the module",
+  "text": "Das Modul konfigurieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Modul konfigurieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

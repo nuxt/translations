@@ -1,0 +1,14 @@
+{
+  "hash": "c696789b5ad60d9a",
+  "source": "Route middleware does not run when rendering island components. Middleware is a routing concept that applies to pages, not components, and is not designed to control component rendering.",
+  "text": "Routen-Middleware wird beim Rendern von Island-Komponenten nicht ausgeführt. Middleware ist ein Routing-Konzept, das für Seiten gilt, nicht für Komponenten, und ist nicht dafür gedacht, das Rendern von Komponenten zu steuern.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Routen-Middleware wird beim Rendern von Island-Komponenten nicht ausgeführt. Middleware ist ein Routing-Konzept, das für Seiten gilt, nicht für Komponenten, und ist nicht dafür gedacht, das Rendern von Komponenten zu steuern."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

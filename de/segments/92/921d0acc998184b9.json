@@ -1,0 +1,14 @@
+{
+  "hash": "921d0acc998184b9",
+  "source": "Nuxt 5 ships {0}, an import surface for the server utilities server code reaches for most: {1}, {2}, {3}, {4}, the cookie and header helpers, {5}, {6} and {7}.",
+  "text": "Nuxt 5 liefert {0} mit, eine Importschnittstelle für die Server-Hilfsfunktionen, die Server-Code am häufigsten benötigt: {1}, {2}, {3}, {4}, die Cookie- und Header-Hilfsfunktionen, {5}, {6} und {7}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt 5 liefert {0} mit, eine Importschnittstelle für die Server-Hilfsfunktionen, die Server-Code am häufigsten benötigt: {1}, {2}, {3}, {4}, die Cookie- und Header-Hilfsfunktionen, {5}, {6} und {7}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

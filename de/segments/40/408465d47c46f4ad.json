@@ -1,0 +1,14 @@
+{
+  "hash": "408465d47c46f4ad",
+  "source": "{0}: watch reactive sources to auto-refresh",
+  "text": "{0}: beobachtet reaktive Quellen, um automatisch zu aktualisieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: beobachtet reaktive Quellen, um automatisch zu aktualisieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

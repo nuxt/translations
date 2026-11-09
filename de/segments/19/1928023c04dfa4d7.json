@@ -1,0 +1,14 @@
+{
+  "hash": "1928023c04dfa4d7",
+  "source": "Pass {0} to write the reports as JSON instead of HTML: {1} and {2}, in the {3} format of {4}. They include each module's size, the chunk it ends up in, and its static and dynamic imports. This makes them easy to process with scripts or AI agents. Nothing is served in this mode. A custom report filename ending in {5} is written with a {6} extension instead. With the webpack and rspack builders, {7} is the webpack stats file rather than {8}.",
+  "text": "Übergib {0}, um die Berichte statt als HTML als JSON zu schreiben: {1} und {2} im {3}-Format von {4}. Sie enthalten die Größe jedes Moduls, den Chunk, in dem es landet, sowie seine statischen und dynamischen Importe. So lassen sie sich leicht mit Skripten oder KI-Agenten verarbeiten. In diesem Modus wird nichts bereitgestellt. Ein benutzerdefinierter Berichtsdateiname, der auf {5} endet, wird stattdessen mit der Endung {6} geschrieben. Bei den Buildern webpack und rspack ist {7} die webpack-Stats-Datei und nicht {8}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Übergib {0}, um die Berichte statt als HTML als JSON zu schreiben: {1} und {2} im {3}-Format von {4}. Sie enthalten die Größe jedes Moduls, den Chunk, in dem es landet, sowie seine statischen und dynamischen Importe. So lassen sie sich leicht mit Skripten oder KI-Agenten verarbeiten. In diesem Modus wird nichts bereitgestellt. Ein benutzerdefinierter Berichtsdateiname, der auf {5} endet, wird stattdessen mit der Endung {6} geschrieben. Bei den Buildern webpack und rspack ist {7} die webpack-Stats-Datei und nicht {8}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "6f8574dc3db33b0d",
+  "source": "Shared State",
+  "text": "Gemeinsamer Zustand",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gemeinsamer Zustand"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

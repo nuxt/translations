@@ -1,0 +1,14 @@
+{
+  "hash": "84c785f6344821dc",
+  "source": "Inline module definition",
+  "text": "Inline-Moduldefinition",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Inline-Moduldefinition"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

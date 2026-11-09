@@ -1,0 +1,14 @@
+{
+  "hash": "0182fb91070c9435",
+  "source": "Include the response status line and headers in the output",
+  "text": "Statuszeile und Header der Antwort in die Ausgabe aufnehmen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Statuszeile und Header der Antwort in die Ausgabe aufnehmen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

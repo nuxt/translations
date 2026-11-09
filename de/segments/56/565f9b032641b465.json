@@ -1,0 +1,14 @@
+{
+  "hash": "565f9b032641b465",
+  "source": "{0} is unaffected: its {1} and {2} options are handled through {3} rather than the Vue Options API, so it works regardless of this flag.",
+  "text": "{0} ist nicht betroffen: Die Optionen {1} und {2} werden über {3} und nicht über die Vue Options API verarbeitet, sodass es unabhängig von diesem Flag funktioniert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ist nicht betroffen: Die Optionen {1} und {2} werden über {3} und nicht über die Vue Options API verarbeitet, sodass es unabhängig von diesem Flag funktioniert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

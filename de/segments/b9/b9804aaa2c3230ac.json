@@ -1,0 +1,14 @@
+{
+  "hash": "b9804aaa2c3230ac",
+  "source": "When enabled, {0} components and {1} wrappers render an HTML comment on the server instead of an empty {2}. This fixes a Vue hydration issue where scoped styles may not be applied when the placeholder {3} and the actual component root share the same tag name.",
+  "text": "Wenn die Option aktiviert ist, rendern {0}-Komponenten und {1}-Wrapper auf dem Server einen HTML-Kommentar statt eines leeren {2}. Das behebt ein Hydration-Problem in Vue, bei dem bereichsbezogene Styles möglicherweise nicht angewendet werden, wenn das Platzhalter-{3} und das Wurzelelement der eigentlichen Komponente denselben Tag-Namen haben.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn die Option aktiviert ist, rendern {0}-Komponenten und {1}-Wrapper auf dem Server einen HTML-Kommentar statt eines leeren {2}. Das behebt ein Hydration-Problem in Vue, bei dem bereichsbezogene Styles möglicherweise nicht angewendet werden, wenn das Platzhalter-{3} und das Wurzelelement der eigentlichen Komponente denselben Tag-Namen haben."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

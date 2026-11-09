@@ -1,0 +1,14 @@
+{
+  "hash": "8ee3a1c70c473b7c",
+  "source": "Hook to the {0} hook through the {1} map",
+  "text": "Den {0}-Hook über die {1}-Map einhängen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Den {0}-Hook über die {1}-Map einhängen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

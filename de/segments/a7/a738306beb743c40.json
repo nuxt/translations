@@ -1,0 +1,14 @@
+{
+  "hash": "a738306beb743c40",
+  "source": "Writable Cookies",
+  "text": "Beschreibbare Cookies",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Beschreibbare Cookies"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

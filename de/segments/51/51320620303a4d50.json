@@ -1,0 +1,14 @@
+{
+  "hash": "51320620303a4d50",
+  "source": "Stylesheets (CSS, SASS, etc.)",
+  "text": "Stylesheets (CSS, SASS usw.)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Stylesheets (CSS, SASS usw.)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

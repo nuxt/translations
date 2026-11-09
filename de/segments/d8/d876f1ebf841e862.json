@@ -1,0 +1,14 @@
+{
+  "hash": "d876f1ebf841e862",
+  "source": "setPageLayout allows you to dynamically change the layout of a page.",
+  "text": "setPageLayout ermöglicht dir, das Layout einer Seite dynamisch zu ändern.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "setPageLayout ermöglicht dir, das Layout einer Seite dynamisch zu ändern."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

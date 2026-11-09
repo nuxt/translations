@@ -1,0 +1,14 @@
+{
+  "hash": "6fc283216a66718a",
+  "source": "{0} is a helper function that returns an {1}URL object{/1} working on both server-side and client-side.",
+  "text": "{0} ist eine Hilfsfunktion, die ein {1}URL-Objekt{/1} zurückgibt und sowohl auf dem Server als auch auf dem Client funktioniert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ist eine Hilfsfunktion, die ein {1}URL-Objekt{/1} zurückgibt und sowohl auf dem Server als auch auf dem Client funktioniert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

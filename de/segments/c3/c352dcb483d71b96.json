@@ -1,0 +1,14 @@
+{
+  "hash": "c352dcb483d71b96",
+  "source": "You'll then be able to inject all those assets inside the application from your {0}module definition{/0}.",
+  "text": "Anschließend kannst du alle diese Assets über deine {0}Moduldefinition{/0} in die Anwendung einfügen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Anschließend kannst du alle diese Assets über deine {0}Moduldefinition{/0} in die Anwendung einfügen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

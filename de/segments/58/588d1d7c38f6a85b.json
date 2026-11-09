@@ -1,0 +1,14 @@
+{
+  "hash": "588d1d7c38f6a85b",
+  "source": "Family names are written as they appear in CSS, so {0} becomes {1}. Every weight in {2} is loaded in every style in {3}, so the Raleway entry above also loads italic at weight 400.",
+  "text": "Schriftfamilien werden so geschrieben, wie sie in CSS erscheinen, aus {0} wird also {1}. Jede Schriftstärke in {2} wird in jedem Stil aus {3} geladen, sodass der Raleway-Eintrag oben auch Kursivschrift in der Stärke 400 lädt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Schriftfamilien werden so geschrieben, wie sie in CSS erscheinen, aus {0} wird also {1}. Jede Schriftstärke in {2} wird in jedem Stil aus {3} geladen, sodass der Raleway-Eintrag oben auch Kursivschrift in der Stärke 400 lädt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "0a003f3d1bc68150",
+  "source": "A rule that nothing declares now reads back as {0} rather than {1}, so it needs a cast at the point of use:",
+  "text": "Eine Regel, die nirgends deklariert ist, wird jetzt als {0} statt als {1} ausgelesen und benötigt daher an der Verwendungsstelle eine Typumwandlung:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine Regel, die nirgends deklariert ist, wird jetzt als {0} statt als {1} ausgelesen und benötigt daher an der Verwendungsstelle eine Typumwandlung:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

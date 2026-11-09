@@ -1,0 +1,14 @@
+{
+  "hash": "4f117d1026d5433c",
+  "source": "Add a global method",
+  "text": "Eine globale Methode hinzufügen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine globale Methode hinzufügen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

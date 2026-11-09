@@ -1,0 +1,14 @@
+{
+  "hash": "4d0720279e85ac66",
+  "source": "We can use {0} to easily figure out if a user is authorized or not.",
+  "text": "Mit {0} lässt sich leicht herausfinden, ob Nutzende autorisiert sind oder nicht.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit {0} lässt sich leicht herausfinden, ob Nutzende autorisiert sind oder nicht."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "12dda3aaab9397ad",
+  "source": "For environment-specific plugins in Nuxt 5+, use the {0} method:",
+  "text": "Für umgebungsspezifische Plugins in Nuxt 5+ verwendest du die Methode {0}:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Für umgebungsspezifische Plugins in Nuxt 5+ verwendest du die Methode {0}:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

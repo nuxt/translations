@@ -1,0 +1,14 @@
+{
+  "hash": "abd9b2ac8be3b168",
+  "source": "It's important that this comes last if you have overrides you wish to apply",
+  "text": "Es ist wichtig, dass dieser Eintrag zuletzt steht, wenn du Überschreibungen anwenden möchtest",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Es ist wichtig, dass dieser Eintrag zuletzt steht, wenn du Überschreibungen anwenden möchtest"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

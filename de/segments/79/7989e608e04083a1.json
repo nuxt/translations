@@ -1,0 +1,14 @@
+{
+  "hash": "7989e608e04083a1",
+  "source": "{0} \\| {1}: specify a content to be rendered server-side.",
+  "text": "{0} \\| {1}: Gibt einen Inhalt an, der serverseitig gerendert wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} \\| {1}: Gibt einen Inhalt an, der serverseitig gerendert wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

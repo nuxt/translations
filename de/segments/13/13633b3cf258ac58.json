@@ -1,0 +1,14 @@
+{
+  "hash": "13633b3cf258ac58",
+  "source": "{0} can only be used once per mocked import per test file. It is actually a macro that gets transformed to {1} and {2} is hoisted, as described {3}in the Vitest docs{/3}.",
+  "text": "{0} kann pro gemocktem Import und Testdatei nur einmal verwendet werden. Es handelt sich dabei um ein Makro, das in {1} umgewandelt wird, und {2} wird hochgezogen („hoisted“), wie {3}in der Vitest-Dokumentation{/3} beschrieben.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} kann pro gemocktem Import und Testdatei nur einmal verwendet werden. Es handelt sich dabei um ein Makro, das in {1} umgewandelt wird, und {2} wird hochgezogen („hoisted“), wie {3}in der Vitest-Dokumentation{/3} beschrieben."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

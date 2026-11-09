@@ -1,0 +1,14 @@
+{
+  "hash": "24770ae19d62a36b",
+  "source": "This call is performed before hydration",
+  "text": "Dieser Aufruf wird vor der Hydration ausgeführt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dieser Aufruf wird vor der Hydration ausgeführt"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

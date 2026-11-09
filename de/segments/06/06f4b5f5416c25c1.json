@@ -1,0 +1,14 @@
+{
+  "hash": "06f4b5f5416c25c1",
+  "source": "To configure the Adobe provider in your Nuxt app, you must provide a Project ID or array of Project IDs corresponding to the Web Projects you have created in Adobe Fonts.",
+  "text": "Um den Adobe-Provider in deiner Nuxt-App zu konfigurieren, musst du eine Projekt-ID oder ein Array von Projekt-IDs angeben, die den in Adobe Fonts erstellten Web-Projekten entsprechen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um den Adobe-Provider in deiner Nuxt-App zu konfigurieren, musst du eine Projekt-ID oder ein Array von Projekt-IDs angeben, die den in Adobe Fonts erstellten Web-Projekten entsprechen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

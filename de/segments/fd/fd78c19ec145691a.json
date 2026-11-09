@@ -1,0 +1,14 @@
+{
+  "hash": "fd78c19ec145691a",
+  "source": "Nuxt integrates Vue 3, the new major release of Vue that enables new patterns for Nuxt users.",
+  "text": "Nuxt integriert Vue 3, das neue Major-Release von Vue, das neue Muster für Nutzende von Nuxt ermöglicht.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt integriert Vue 3, das neue Major-Release von Vue, das neue Muster für Nutzende von Nuxt ermöglicht."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

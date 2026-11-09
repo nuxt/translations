@@ -1,0 +1,14 @@
+{
+  "hash": "db5fbffd342064cd",
+  "source": "This warning is emitted during development when a rendered route uses one of these features.",
+  "text": "Diese Warnung wird während der Entwicklung ausgegeben, wenn eine gerenderte Route eine dieser Funktionen verwendet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese Warnung wird während der Entwicklung ausgegeben, wenn eine gerenderte Route eine dieser Funktionen verwendet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

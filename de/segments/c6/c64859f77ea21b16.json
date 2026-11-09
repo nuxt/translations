@@ -1,0 +1,14 @@
+{
+  "hash": "c64859f77ea21b16",
+  "source": "A read-only computed ref resolving to the layout name (a {0}), or {1} when the layout is disabled.",
+  "text": "Eine schreibgeschützte berechnete Ref, die auf den Layout-Namen (einen {0}) aufgelöst wird, oder auf {1}, wenn das Layout deaktiviert ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine schreibgeschützte berechnete Ref, die auf den Layout-Namen (einen {0}) aufgelöst wird, oder auf {1}, wenn das Layout deaktiviert ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

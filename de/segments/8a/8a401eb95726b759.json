@@ -1,0 +1,14 @@
+{
+  "hash": "8a401eb95726b759",
+  "source": "**Workaround**: set a distinct {0} on the island's Vue app from a server plugin, based on the island context id:",
+  "text": "**Workaround**: Setze in einem Server-Plugin anhand der Island-Kontext-ID ein eigenes {0} für die Vue-App des Islands:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Workaround**: Setze in einem Server-Plugin anhand der Island-Kontext-ID ein eigenes {0} für die Vue-App des Islands:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

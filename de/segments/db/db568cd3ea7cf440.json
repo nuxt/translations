@@ -1,0 +1,14 @@
+{
+  "hash": "db568cd3ea7cf440",
+  "source": "Preloading components loads components that your page will need very soon, which you want to start loading early in rendering lifecycle. This ensures they are available earlier and are less likely to block the page's render, improving performance.",
+  "text": "Beim Vorladen von Komponenten werden Komponenten geladen, die deine Seite in Kürze benötigt und deren Laden du früh im Rendering-Lebenszyklus starten möchtest. So stehen sie früher zur Verfügung und blockieren das Rendern der Seite mit geringerer Wahrscheinlichkeit, was die Performance verbessert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Beim Vorladen von Komponenten werden Komponenten geladen, die deine Seite in Kürze benötigt und deren Laden du früh im Rendering-Lebenszyklus starten möchtest. So stehen sie früher zur Verfügung und blockieren das Rendern der Seite mit geringerer Wahrscheinlichkeit, was die Performance verbessert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "14a6601d2a46cb52",
+  "source": "log all requests",
+  "text": "alle Anfragen protokollieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "alle Anfragen protokollieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

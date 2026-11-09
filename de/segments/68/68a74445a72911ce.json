@@ -1,0 +1,14 @@
+{
+  "hash": "68a74445a72911ce",
+  "source": "When you run {0} or {1}, Nuxt:",
+  "text": "Wenn du {0} oder {1} ausführst, geht Nuxt wie folgt vor:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du {0} oder {1} ausführst, geht Nuxt wie folgt vor:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

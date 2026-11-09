@@ -1,0 +1,14 @@
+{
+  "hash": "3a1bd5e7bcc30b9a",
+  "source": "When {0} is {1} (the default), {2} is {3} while a request is in flight and matches {4}. While {5} is {6}, {7} stays {8}. You can see this with {9}, or with {10} during server rendering.",
+  "text": "Wenn {0} den Wert {1} hat (Standard), ist {2} {3}, solange eine Anfrage läuft, und entspricht {4}. Solange {5} {6} ist, bleibt {7} {8}. Das siehst du mit {9} oder mit {10} beim Rendering auf dem Server.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn {0} den Wert {1} hat (Standard), ist {2} {3}, solange eine Anfrage läuft, und entspricht {4}. Solange {5} {6} ist, bleibt {7} {8}. Das siehst du mit {9} oder mit {10} beim Rendering auf dem Server."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

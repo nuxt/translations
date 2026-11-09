@@ -1,0 +1,14 @@
+{
+  "hash": "c713a204b7823418",
+  "source": "Pre-renders every route of the application and stores the result in plain HTML files.",
+  "text": "Rendert alle Routen der Anwendung vorab und speichert das Ergebnis in reinen HTML-Dateien.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Rendert alle Routen der Anwendung vorab und speichert das Ergebnis in reinen HTML-Dateien."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

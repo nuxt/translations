@@ -1,0 +1,14 @@
+{
+  "hash": "736f3694b7b20290",
+  "source": "Enabling Server Components",
+  "text": "Serverkomponenten aktivieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Serverkomponenten aktivieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

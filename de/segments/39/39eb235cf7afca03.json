@@ -1,0 +1,14 @@
+{
+  "hash": "39eb235cf7afca03",
+  "source": "You can customize the TypeScript configuration of your Nuxt project for each context ({0} and {1}) in the {2} file.",
+  "text": "Du kannst die TypeScript-Konfiguration deines Nuxt-Projekts für jeden Kontext ({0} und {1}) in der Datei {2} anpassen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst die TypeScript-Konfiguration deines Nuxt-Projekts für jeden Kontext ({0} und {1}) in der Datei {2} anpassen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

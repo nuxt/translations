@@ -1,0 +1,14 @@
+{
+  "hash": "2c9de099dece7592",
+  "source": "The AI assistant will use the MCP server to fetch structured JSON data and provide guided assistance for Nuxt development.",
+  "text": "Der KI-Assistent nutzt den MCP-Server, um strukturierte JSON-Daten abzurufen und dich bei der Nuxt-Entwicklung gezielt zu unterstützen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der KI-Assistent nutzt den MCP-Server, um strukturierte JSON-Daten abzurufen und dich bei der Nuxt-Entwicklung gezielt zu unterstützen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

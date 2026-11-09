@@ -1,0 +1,14 @@
+{
+  "hash": "5d9c6f308b6d2a0b",
+  "source": "A family you did not set {0} on will resolve a bold face as well as a regular one, so you will see additional {1} rules and an additional file downloaded per family. Text that silently fell back to a synthesised bold will now render in the real one.",
+  "text": "Eine Familie, für die du {0} nicht gesetzt hast, wird jetzt sowohl mit einem fetten als auch mit einem normalen Schnitt aufgelöst. Daher siehst du zusätzliche {1}-Regeln und eine zusätzliche heruntergeladene Datei pro Familie. Text, der bisher stillschweigend auf synthetisch erzeugtes Fett zurückfiel, wird jetzt im echten Schnitt dargestellt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine Familie, für die du {0} nicht gesetzt hast, wird jetzt sowohl mit einem fetten als auch mit einem normalen Schnitt aufgelöst. Daher siehst du zusätzliche {1}-Regeln und eine zusätzliche heruntergeladene Datei pro Familie. Text, der bisher stillschweigend auf synthetisch erzeugtes Fett zurückfiel, wird jetzt im echten Schnitt dargestellt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

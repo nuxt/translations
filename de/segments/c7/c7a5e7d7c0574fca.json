@@ -1,0 +1,14 @@
+{
+  "hash": "c7a5e7d7c0574fca",
+  "source": "Casing of common tool names is checked automatically by {0}case police{/0} when you run {1}.",
+  "text": "Die Groß- und Kleinschreibung gängiger Tool-Namen wird beim Ausführen von {1} automatisch von {0}case police{/0} geprüft.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Groß- und Kleinschreibung gängiger Tool-Namen wird beim Ausführen von {1} automatisch von {0}case police{/0} geprüft."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

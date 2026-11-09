@@ -1,0 +1,14 @@
+{
+  "hash": "cb78b8d35639a106",
+  "source": "The <NuxtRouteAnnouncer> component adds a hidden element with the page title to announce route changes to assistive technologies.",
+  "text": "Die Komponente <NuxtRouteAnnouncer> fügt ein verstecktes Element mit dem Seitentitel hinzu, um Routenwechsel für assistive Technologien anzukündigen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Komponente <NuxtRouteAnnouncer> fügt ein verstecktes Element mit dem Seitentitel hinzu, um Routenwechsel für assistive Technologien anzukündigen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "844717d6e9c8af33",
+  "source": "Create Content",
+  "text": "Inhalte erstellen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Inhalte erstellen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

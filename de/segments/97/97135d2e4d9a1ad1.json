@@ -1,0 +1,14 @@
+{
+  "hash": "97135d2e4d9a1ad1",
+  "source": "👈 extend the returned object with a new property",
+  "text": "👈 das zurückgegebene Objekt um eine neue Eigenschaft erweitern",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "👈 das zurückgegebene Objekt um eine neue Eigenschaft erweitern"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

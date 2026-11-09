@@ -1,0 +1,14 @@
+{
+  "hash": "a735a3763f7681bd",
+  "source": "NuxtLink to an unknown route",
+  "text": "NuxtLink zu einer unbekannten Route",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "NuxtLink zu einer unbekannten Route"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

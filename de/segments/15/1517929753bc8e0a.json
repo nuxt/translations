@@ -1,0 +1,14 @@
+{
+  "hash": "1517929753bc8e0a",
+  "source": "This function will return the global Nuxt error that is being handled.",
+  "text": "Diese Funktion gibt den globalen Nuxt-Fehler zurück, der gerade behandelt wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese Funktion gibt den globalen Nuxt-Fehler zurück, der gerade behandelt wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

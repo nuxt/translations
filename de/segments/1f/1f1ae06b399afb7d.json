@@ -1,0 +1,14 @@
+{
+  "hash": "1f1ae06b399afb7d",
+  "source": "**{0}** fires after the body stream completes, before closing tags. Mutate {1} to inject final markup (end-of-body analytics tags, server-rendered debug widgets, etc.).",
+  "text": "**{0}** wird ausgelöst, nachdem der Body-Stream abgeschlossen ist, vor den schließenden Tags. Verändere {1}, um abschließendes Markup einzufügen (Analytics-Tags am Ende des Body, serverseitig gerenderte Debug-Widgets usw.).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** wird ausgelöst, nachdem der Body-Stream abgeschlossen ist, vor den schließenden Tags. Verändere {1}, um abschließendes Markup einzufügen (Analytics-Tags am Ende des Body, serverseitig gerenderte Debug-Widgets usw.)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

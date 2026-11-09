@@ -1,0 +1,14 @@
+{
+  "hash": "20b7e6a0e6887b2e",
+  "source": "{0} in island and server components",
+  "text": "{0} in Island- und Serverkomponenten",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} in Island- und Serverkomponenten"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

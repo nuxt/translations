@@ -1,0 +1,14 @@
+{
+  "hash": "790c55d23cc0f415",
+  "source": "Install the Rsbuild plugin for each language you use instead of its webpack loader. Nuxt registers these plugins when they are installed, and warns when a file needs one that is missing.",
+  "text": "Installiere für jede verwendete Sprache das Rsbuild-Plugin anstelle des webpack-Loaders. Nuxt registriert diese Plugins, sobald sie installiert sind, und warnt, wenn für eine Datei ein fehlendes Plugin benötigt wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Installiere für jede verwendete Sprache das Rsbuild-Plugin anstelle des webpack-Loaders. Nuxt registriert diese Plugins, sobald sie installiert sind, und warnt, wenn für eine Datei ein fehlendes Plugin benötigt wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

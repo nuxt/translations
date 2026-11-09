@@ -1,0 +1,14 @@
+{
+  "hash": "0229f43b1330235a",
+  "source": "If your module should provide Vue components, you can use the {0} utility to add them as auto-imports for Nuxt to resolve.",
+  "text": "Wenn dein Modul Vue-Komponenten bereitstellen soll, kannst du sie mit dem Hilfsprogramm {0} als automatische Importe hinzufügen, die Nuxt auflöst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn dein Modul Vue-Komponenten bereitstellen soll, kannst du sie mit dem Hilfsprogramm {0} als automatische Importe hinzufügen, die Nuxt auflöst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

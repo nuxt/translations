@@ -1,0 +1,14 @@
+{
+  "hash": "e35817caa6d5e0c2",
+  "source": "If type-checking now errors on a side-effect import of a non-code asset (for example {0}), add an ambient module declaration so TypeScript knows the import is valid:",
+  "text": "Wenn die Typprüfung jetzt bei einem Side-Effect-Import eines Assets, das kein Code ist (z. B. {0}), einen Fehler meldet, füge eine Ambient-Moduldeklaration hinzu, damit TypeScript den Import als gültig erkennt:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn die Typprüfung jetzt bei einem Side-Effect-Import eines Assets, das kein Code ist (z. B. {0}), einen Fehler meldet, füge eine Ambient-Moduldeklaration hinzu, damit TypeScript den Import als gültig erkennt:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

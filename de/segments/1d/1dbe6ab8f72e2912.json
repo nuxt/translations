@@ -1,0 +1,14 @@
+{
+  "hash": "1dbe6ab8f72e2912",
+  "source": "If enabled, registers components to be globally available.",
+  "text": "Wenn aktiviert, werden die Komponenten global verfügbar registriert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn aktiviert, werden die Komponenten global verfügbar registriert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

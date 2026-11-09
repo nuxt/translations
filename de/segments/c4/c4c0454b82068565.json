@@ -1,0 +1,14 @@
+{
+  "hash": "c4c0454b82068565",
+  "source": "The documentation lives in the {0} directory and is published on {1}nuxt.com/modules/fonts{/1}. Keep images and videos next to the pages in {2} and link them with a relative path, such as {3} or {4}.",
+  "text": "Die Dokumentation befindet sich im Verzeichnis {0} und wird auf {1}nuxt.com/modules/fonts{/1} veröffentlicht. Lege Bilder und Videos neben den Seiten in {2} ab und verlinke sie über einen relativen Pfad, etwa {3} oder {4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Dokumentation befindet sich im Verzeichnis {0} und wird auf {1}nuxt.com/modules/fonts{/1} veröffentlicht. Lege Bilder und Videos neben den Seiten in {2} ab und verlinke sie über einen relativen Pfad, etwa {3} oder {4}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

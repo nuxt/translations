@@ -1,0 +1,14 @@
+{
+  "hash": "5ae1910adeea4e84",
+  "source": "Family-level {0} descriptors now apply to provider fonts",
+  "text": "{0}-Deskriptoren auf Familienebene gelten jetzt für Provider-Schriften",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}-Deskriptoren auf Familienebene gelten jetzt für Provider-Schriften"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

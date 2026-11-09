@@ -1,0 +1,14 @@
+{
+  "hash": "a94716c43c88a7ef",
+  "source": "**{0}**: Nuxt instance. If not provided, it will be retrieved from the context via {1} call.",
+  "text": "**{0}**: Nuxt-Instanz. Wird sie nicht angegeben, wird sie über den Aufruf von {1} aus dem Kontext abgerufen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}**: Nuxt-Instanz. Wird sie nicht angegeben, wird sie über den Aufruf von {1} aus dem Kontext abgerufen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

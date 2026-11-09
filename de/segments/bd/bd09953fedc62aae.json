@@ -1,0 +1,14 @@
+{
+  "hash": "bd09953fedc62aae",
+  "source": "For example, creating a file named {0} will register a catch-all route for all requests that do not match any route handler, such as {1}.",
+  "text": "Wenn du beispielsweise eine Datei mit dem Namen {0} erstellst, wird eine Catch-all-Route für alle Anfragen registriert, die zu keinem Route-Handler passen, etwa {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du beispielsweise eine Datei mit dem Namen {0} erstellst, wird eine Catch-all-Route für alle Anfragen registriert, die zu keinem Route-Handler passen, etwa {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

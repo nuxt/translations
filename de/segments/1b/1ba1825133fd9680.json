@@ -1,0 +1,14 @@
+{
+  "hash": "1ba1825133fd9680",
+  "source": "Routes with the {0} route rule are always rendered with the buffered (non-streaming) renderer.",
+  "text": "Routen mit der Routenregel {0} werden immer mit dem gepufferten Renderer (ohne Streaming) gerendert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Routen mit der Routenregel {0} werden immer mit dem gepufferten Renderer (ohne Streaming) gerendert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

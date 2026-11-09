@@ -1,0 +1,14 @@
+{
+  "hash": "fd96d5b8117e8187",
+  "source": "Nuxt will now only inline styles for Vue components, not global CSS.",
+  "text": "Nuxt bindet jetzt nur noch Styles von Vue-Komponenten inline ein, nicht mehr globales CSS.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt bindet jetzt nur noch Styles von Vue-Komponenten inline ein, nicht mehr globales CSS."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

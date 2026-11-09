@@ -1,0 +1,14 @@
+{
+  "hash": "b0d9ff3b1bd35852",
+  "source": "Common places a font stays invisible to the scan:",
+  "text": "Typische Stellen, an denen eine Schriftart für den Scan unsichtbar bleibt:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Typische Stellen, an denen eine Schriftart für den Scan unsichtbar bleibt:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

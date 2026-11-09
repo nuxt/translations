@@ -1,0 +1,14 @@
+{
+  "hash": "3ce7db060eee93f4",
+  "source": "The resulting {0} composable has the same signature and return type as {1}, with all options available for the caller to use or override.",
+  "text": "Das resultierende Composable {0} hat dieselbe Signatur und denselben Rückgabetyp wie {1}. Alle Optionen stehen dem Aufrufer zur Verfügung und können von ihm verwendet oder überschrieben werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das resultierende Composable {0} hat dieselbe Signatur und denselben Rückgabetyp wie {1}. Alle Optionen stehen dem Aufrufer zur Verfügung und können von ihm verwendet oder überschrieben werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

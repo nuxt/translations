@@ -1,0 +1,14 @@
+{
+  "hash": "5470d0c740de8b1f",
+  "source": "**Production FOUC for nested async components:** the renderer inlines route CSS in a chunk sent straight after the shell. It can only inline the styles for components whose modules are already registered at that point: the page, the layout, and any async component placed directly inside a {0} boundary (Vue instantiates those eagerly when render begins).",
+  "text": "**FOUC in der Produktion bei verschachtelten asynchronen Komponenten:** Der Renderer bettet das Routen-CSS in einen Chunk ein, der direkt nach der Shell gesendet wird. Er kann nur die Styles von Komponenten einbetten, deren Module zu diesem Zeitpunkt bereits registriert sind: die Seite, das Layout und jede asynchrone Komponente, die direkt innerhalb einer {0}-Grenze liegt (Vue instanziiert diese sofort, wenn das Rendering beginnt).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**FOUC in der Produktion bei verschachtelten asynchronen Komponenten:** Der Renderer bettet das Routen-CSS in einen Chunk ein, der direkt nach der Shell gesendet wird. Er kann nur die Styles von Komponenten einbetten, deren Module zu diesem Zeitpunkt bereits registriert sind: die Seite, das Layout und jede asynchrone Komponente, die direkt innerhalb einer {0}-Grenze liegt (Vue instanziiert diese sofort, wenn das Rendering beginnt)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

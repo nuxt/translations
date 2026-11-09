@@ -1,0 +1,14 @@
+{
+  "hash": "ba24ade5e01e592a",
+  "source": "Module body exporting the hashed entry chunk filename for import maps.",
+  "text": "Modulinhalt, der den Dateinamen des gehashten Entry-Chunks für Import Maps exportiert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Modulinhalt, der den Dateinamen des gehashten Entry-Chunks für Import Maps exportiert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

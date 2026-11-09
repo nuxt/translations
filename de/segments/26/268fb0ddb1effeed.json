@@ -1,0 +1,14 @@
+{
+  "hash": "268fb0ddb1effeed",
+  "source": "Follow these steps to set up Nuxt as a connector within ChatGPT:",
+  "text": "Gehe wie folgt vor, um Nuxt als Konnektor in ChatGPT einzurichten:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gehe wie folgt vor, um Nuxt als Konnektor in ChatGPT einzurichten:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

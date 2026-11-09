@@ -1,0 +1,14 @@
+{
+  "hash": "1f713083755d25f4",
+  "source": "extend tsconfig.shared.json",
+  "text": "tsconfig.shared.json erweitern",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "tsconfig.shared.json erweitern"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

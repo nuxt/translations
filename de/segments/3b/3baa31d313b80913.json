@@ -1,0 +1,14 @@
+{
+  "hash": "3baa31d313b80913",
+  "source": "\"Get the introduction documentation\"",
+  "text": "„Hole die Einführung in die Dokumentation“",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "„Hole die Einführung in die Dokumentation“"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

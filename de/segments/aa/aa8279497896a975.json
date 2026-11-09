@@ -1,0 +1,14 @@
+{
+  "hash": "aa8279497896a975",
+  "source": "Add the offending library to {0} in {1} so the build pipeline can process its {2} call.",
+  "text": "Füge die betreffende Bibliothek in {1} zu {0} hinzu, damit die Build-Pipeline ihren {2}-Aufruf verarbeiten kann.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Füge die betreffende Bibliothek in {1} zu {0} hinzu, damit die Build-Pipeline ihren {2}-Aufruf verarbeiten kann."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

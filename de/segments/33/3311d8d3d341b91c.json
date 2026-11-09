@@ -1,0 +1,14 @@
+{
+  "hash": "3311d8d3d341b91c",
+  "source": "**{0}**: A tag to suffix all log messages with, displayed on the right near the timestamp.",
+  "text": "**{0}**: Ein Tag, das allen Protokollmeldungen angehängt wird und rechts neben dem Zeitstempel angezeigt wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}**: Ein Tag, das allen Protokollmeldungen angehängt wird und rechts neben dem Zeitstempel angezeigt wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

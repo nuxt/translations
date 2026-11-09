@@ -1,0 +1,14 @@
+{
+  "hash": "38271e270ba71895",
+  "source": "Use the {0}Nuxt DevTools{/0} to inspect this data in the **Payload tab**.",
+  "text": "Mit den {0}Nuxt DevTools{/0} kannst du diese Daten auf der **Registerkarte „Payload“** untersuchen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit den {0}Nuxt DevTools{/0} kannst du diese Daten auf der **Registerkarte „Payload“** untersuchen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

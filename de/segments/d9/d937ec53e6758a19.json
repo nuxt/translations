@@ -1,0 +1,14 @@
+{
+  "hash": "d937ec53e6758a19",
+  "source": "The {0} composable is responsible for wrapping async logic and returning the result once it is resolved.",
+  "text": "Das Composable {0} kapselt asynchrone Logik und gibt das Ergebnis zurück, sobald es aufgelöst ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Composable {0} kapselt asynchrone Logik und gibt das Ergebnis zurück, sobald es aufgelöst ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

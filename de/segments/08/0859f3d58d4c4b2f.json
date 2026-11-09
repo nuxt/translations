@@ -1,0 +1,14 @@
+{
+  "hash": "0859f3d58d4c4b2f",
+  "source": "Forwarded links are downgraded from {0} to {1}, apart from {2} hints, which keep {3} with any {4} stripped.",
+  "text": "Übernommene Links werden von {0} auf {1} herabgestuft. Ausgenommen sind {2}-Hinweise, die {3} behalten, wobei {4} entfernt wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Übernommene Links werden von {0} auf {1} herabgestuft. Ausgenommen sind {2}-Hinweise, die {3} behalten, wobei {4} entfernt wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

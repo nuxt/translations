@@ -1,0 +1,14 @@
+{
+  "hash": "f68d3503973f3a28",
+  "source": "When the callback accepts an {0} parameter, the component's root element is tagged with a {1} attribute so the inlined script can find it.",
+  "text": "Wenn der Callback einen {0}-Parameter akzeptiert, wird das Root-Element der Komponente mit einem {1}-Attribut versehen, damit das eingebettete Skript es finden kann.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn der Callback einen {0}-Parameter akzeptiert, wird das Root-Element der Komponente mit einem {1}-Attribut versehen, damit das eingebettete Skript es finden kann."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

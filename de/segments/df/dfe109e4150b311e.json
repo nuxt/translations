@@ -1,0 +1,14 @@
+{
+  "hash": "dfe109e4150b311e",
+  "source": "You can use {0} in any methods that are executed only on client-side.",
+  "text": "Du kannst {0} in allen Methoden verwenden, die nur auf dem Client ausgeführt werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst {0} in allen Methoden verwenden, die nur auf dem Client ausgeführt werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "1df41a1963946802",
+  "source": "See {0}Rsbuild website{/0} for more information about Rsbuild plugins. When {1} or {2} is set to {3}, the plugin is only registered for the other {4}environment{/4}.",
+  "text": "Weitere Informationen zu Rsbuild-Plugins findest du auf der {0}Rsbuild-Website{/0}. Wenn {1} oder {2} auf {3} gesetzt ist, wird das Plugin nur für die andere {4}Umgebung{/4} registriert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Weitere Informationen zu Rsbuild-Plugins findest du auf der {0}Rsbuild-Website{/0}. Wenn {1} oder {2} auf {3} gesetzt ist, wird das Plugin nur für die andere {4}Umgebung{/4} registriert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

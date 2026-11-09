@@ -1,0 +1,14 @@
+{
+  "hash": "464d2632dcc933c0",
+  "source": "Click on \"Edit Config\". This will open the local Claude directory.",
+  "text": "Klicke auf „Edit Config“. Dadurch öffnet sich das lokale Claude-Verzeichnis.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Klicke auf „Edit Config“. Dadurch öffnet sich das lokale Claude-Verzeichnis."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "bf9e75242ebdc4e9",
+  "source": "Restart Claude Desktop app. The Nuxt MCP server should now be registered.",
+  "text": "Starte die Claude-Desktop-App neu. Der Nuxt-MCP-Server sollte jetzt registriert sein.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Starte die Claude-Desktop-App neu. Der Nuxt-MCP-Server sollte jetzt registriert sein."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

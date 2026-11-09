@@ -1,0 +1,14 @@
+{
+  "hash": "11ddab2c0ffb65e5",
+  "source": "Stub dist instead of actually building it for development",
+  "text": "dist als Stub anlegen, statt es für die Entwicklung tatsächlich zu erzeugen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "dist als Stub anlegen, statt es für die Entwicklung tatsächlich zu erzeugen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

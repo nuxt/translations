@@ -1,0 +1,14 @@
+{
+  "hash": "140c34c032b7b1e9",
+  "source": "your tests here",
+  "text": "hier kommen deine Tests hin",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "hier kommen deine Tests hin"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

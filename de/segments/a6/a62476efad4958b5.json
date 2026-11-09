@@ -1,0 +1,14 @@
+{
+  "hash": "a62476efad4958b5",
+  "source": "Current Packages",
+  "text": "Aktuelle Pakete",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Aktuelle Pakete"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

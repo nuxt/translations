@@ -1,0 +1,14 @@
+{
+  "hash": "261eb3e7383a6562",
+  "source": "Migrate to Nuxt Bridge: {0}",
+  "text": "Zu Nuxt Bridge migrieren: {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Zu Nuxt Bridge migrieren: {0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

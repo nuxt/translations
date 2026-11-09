@@ -1,0 +1,14 @@
+{
+  "hash": "c8684819ba54269d",
+  "source": "This injects an import map at the top of your {0} tag:",
+  "text": "Dadurch wird oben in deinem {0}-Tag eine Import-Map eingefügt:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dadurch wird oben in deinem {0}-Tag eine Import-Map eingefügt:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

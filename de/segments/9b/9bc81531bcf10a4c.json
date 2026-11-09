@@ -1,0 +1,14 @@
+{
+  "hash": "9bc81531bcf10a4c",
+  "source": "In Nuxt 2 plugins, this was referred to as **inject function**.",
+  "text": "In Plugins von Nuxt 2 wurde dies als **inject function** bezeichnet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In Plugins von Nuxt 2 wurde dies als **inject function** bezeichnet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "31f942474a98ed68",
+  "source": "Changing an island's props triggers a network request that re-renders the component on the server and updates its HTML in place.",
+  "text": "Wenn sich die Props eines Islands ändern, löst das eine Netzwerkanfrage aus, die die Komponente auf dem Server neu rendert und ihr HTML an Ort und Stelle aktualisiert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn sich die Props eines Islands ändern, löst das eine Netzwerkanfrage aus, die die Komponente auf dem Server neu rendert und ihr HTML an Ort und Stelle aktualisiert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

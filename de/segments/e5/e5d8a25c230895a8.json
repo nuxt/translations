@@ -1,0 +1,14 @@
+{
+  "hash": "e5d8a25c230895a8",
+  "source": "A {0}, sent with its own status. Headers set on {1} are sent with it, and {2} values from both are kept.",
+  "text": "Ein {0}, das mit seinem eigenen Status gesendet wird. Auf {1} gesetzte Header werden mitgesendet, und {2}-Werte aus beiden bleiben erhalten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein {0}, das mit seinem eigenen Status gesendet wird. Auf {1} gesetzte Header werden mitgesendet, und {2}-Werte aus beiden bleiben erhalten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

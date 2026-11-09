@@ -1,0 +1,14 @@
+{
+  "hash": "dd20efac8cdb04c4",
+  "source": "**{0}** (optional): The Nuxt instance to get layers from. If not provided, the function will use the current Nuxt context.",
+  "text": "**{0}** (optional): Die Nuxt-Instanz, aus der die Layer abgerufen werden. Wird sie nicht angegeben, verwendet die Funktion den aktuellen Nuxt-Kontext.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** (optional): Die Nuxt-Instanz, aus der die Layer abgerufen werden. Wird sie nicht angegeben, verwendet die Funktion den aktuellen Nuxt-Kontext."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "def3330180fbecc7",
+  "source": "event.context.path to get the route path: '/api/foo/bar/baz'",
+  "text": "event.context.path liefert den Routenpfad: '/api/foo/bar/baz'",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "event.context.path liefert den Routenpfad: '/api/foo/bar/baz'"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

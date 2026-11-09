@@ -1,0 +1,14 @@
+{
+  "hash": "f9112db1fa2a8b82",
+  "source": "You can customize these default transition names globally using {0}.",
+  "text": "Du kannst diese Standardnamen für Übergänge global mit {0} anpassen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst diese Standardnamen für Übergänge global mit {0} anpassen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "38b5eef3f1680c40",
+  "source": "Event handler.",
+  "text": "Event-Handler.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Event-Handler."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

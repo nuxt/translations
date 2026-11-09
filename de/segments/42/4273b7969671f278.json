@@ -1,0 +1,14 @@
+{
+  "hash": "4273b7969671f278",
+  "source": "**{0}**. Serve this when the host should keep a 404 status and still load your app.",
+  "text": "**{0}**. Liefere diese Datei aus, wenn der Host den Status 404 beibehalten und trotzdem deine App laden soll.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}**. Liefere diese Datei aus, wenn der Host den Status 404 beibehalten und trotzdem deine App laden soll."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

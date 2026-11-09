@@ -1,0 +1,14 @@
+{
+  "hash": "a0d6bb7966948a2e",
+  "source": "To get the ref of a layout component, access it through {0}.",
+  "text": "Um die Ref einer Layout-Komponente zu erhalten, greife über {0} darauf zu.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um die Ref einer Layout-Komponente zu erhalten, greife über {0} darauf zu."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

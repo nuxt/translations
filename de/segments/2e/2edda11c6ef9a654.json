@@ -1,0 +1,14 @@
+{
+  "hash": "2edda11c6ef9a654",
+  "source": "Set to {0} when you want to preserve page state across route changes or use the {1} for a fine-grained control.",
+  "text": "Setze den Wert auf {0}, wenn du den Zustand der Seite über Routenwechsel hinweg beibehalten oder {1} für eine feinere Steuerung verwenden möchtest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Setze den Wert auf {0}, wenn du den Zustand der Seite über Routenwechsel hinweg beibehalten oder {1} für eine feinere Steuerung verwenden möchtest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

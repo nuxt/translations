@@ -1,0 +1,14 @@
+{
+  "hash": "9ef3799ffe1589d5",
+  "source": "{0} generates its Rspack configuration from the webpack builder's presets, with loaders for CSS, PostCSS, esbuild and assets. {1} uses Rsbuild's own handling of these instead (SWC for scripts, Lightning CSS for styles), with the Rsbuild plugin ecosystem.",
+  "text": "{0} erzeugt seine Rspack-Konfiguration aus den Presets des webpack-Builders, mit Loadern für CSS, PostCSS, esbuild und Assets. {1} verwendet stattdessen Rsbuilds eigene Verarbeitung (SWC für Skripte, Lightning CSS für Styles) mit dem Plugin-Ökosystem von Rsbuild.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} erzeugt seine Rspack-Konfiguration aus den Presets des webpack-Builders, mit Loadern für CSS, PostCSS, esbuild und Assets. {1} verwendet stattdessen Rsbuilds eigene Verarbeitung (SWC für Skripte, Lightning CSS für Styles) mit dem Plugin-Ökosystem von Rsbuild."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

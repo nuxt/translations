@@ -1,0 +1,14 @@
+{
+  "hash": "b128883db48d76eb",
+  "source": "To ensure that the compiler correctly recognizes this macro, avoid using external variables. The following approach will prevent the macro from being properly recognized:",
+  "text": "Damit der Compiler dieses Makro korrekt erkennt, vermeide externe Variablen. Der folgende Ansatz verhindert, dass das Makro richtig erkannt wird:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Damit der Compiler dieses Makro korrekt erkennt, vermeide externe Variablen. Der folgende Ansatz verhindert, dass das Makro richtig erkannt wird:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

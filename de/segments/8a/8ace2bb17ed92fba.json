@@ -1,0 +1,14 @@
+{
+  "hash": "8ace2bb17ed92fba",
+  "source": "{0} is inferred as { createdAt: Date } and you can safely use the Date object methods",
+  "text": "{0} wird als { createdAt: Date } abgeleitet, und du kannst die Methoden des Date-Objekts sicher verwenden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} wird als { createdAt: Date } abgeleitet, und du kannst die Methoden des Date-Objekts sicher verwenden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

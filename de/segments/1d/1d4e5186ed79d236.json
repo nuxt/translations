@@ -1,0 +1,14 @@
+{
+  "hash": "1d4e5186ed79d236",
+  "source": "Nuxt is powered by {0}Nitro{/0}, a modern server engine.",
+  "text": "Nuxt basiert auf {0}Nitro{/0}, einer modernen Server-Engine.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt basiert auf {0}Nitro{/0}, einer modernen Server-Engine."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

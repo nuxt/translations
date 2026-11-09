@@ -1,0 +1,14 @@
+{
+  "hash": "bc6545a0f6875cea",
+  "source": "Top-level options are shared by the client and server builds. Use {0} and {1} to provide configuration for each build.",
+  "text": "Optionen auf oberster Ebene werden vom Client- und vom Server-Build gemeinsam genutzt. Verwende {0} und {1}, um die Konfiguration für den jeweiligen Build festzulegen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Optionen auf oberster Ebene werden vom Client- und vom Server-Build gemeinsam genutzt. Verwende {0} und {1}, um die Konfiguration für den jeweiligen Build festzulegen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

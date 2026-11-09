@@ -1,0 +1,14 @@
+{
+  "hash": "f2eb5512f2fd1df9",
+  "source": "This file is auto-generated from Nuxt source code.",
+  "text": "Diese Datei wird automatisch aus dem Nuxt-Quellcode generiert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese Datei wird automatisch aus dem Nuxt-Quellcode generiert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

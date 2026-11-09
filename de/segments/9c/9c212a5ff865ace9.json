@@ -1,0 +1,14 @@
+{
+  "hash": "9c212a5ff865ace9",
+  "source": "{0}: decoded hash section of the URL that starts with a #",
+  "text": "{0}: dekodierter Hash-Abschnitt der URL, der mit einem # beginnt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: dekodierter Hash-Abschnitt der URL, der mit einem # beginnt"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

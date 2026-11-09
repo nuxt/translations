@@ -1,0 +1,14 @@
+{
+  "hash": "a008732edecf13c9",
+  "source": "In this example, we pass the {0} param to link to the route {1}.",
+  "text": "In diesem Beispiel übergeben wir den Parameter {0}, um auf die Route {1} zu verlinken.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In diesem Beispiel übergeben wir den Parameter {0}, um auf die Route {1} zu verlinken."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

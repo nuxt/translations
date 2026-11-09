@@ -1,0 +1,14 @@
+{
+  "hash": "13db1045f32cabc6",
+  "source": "The layout name is normalized to kebab-case, so {0} becomes {1}.",
+  "text": "Der Name des Layouts wird in kebab-case normalisiert, sodass aus {0} {1} wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Name des Layouts wird in kebab-case normalisiert, sodass aus {0} {1} wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

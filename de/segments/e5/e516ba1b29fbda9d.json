@@ -1,0 +1,14 @@
+{
+  "hash": "e516ba1b29fbda9d",
+  "source": "runs once",
+  "text": "wird einmalig ausgeführt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "wird einmalig ausgeführt"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

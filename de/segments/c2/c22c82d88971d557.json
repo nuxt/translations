@@ -1,0 +1,14 @@
+{
+  "hash": "c22c82d88971d557",
+  "source": "Using Third-Party Libraries",
+  "text": "Bibliotheken von Drittanbietern verwenden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bibliotheken von Drittanbietern verwenden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

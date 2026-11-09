@@ -1,0 +1,14 @@
+{
+  "hash": "5e6bc27bb9241b58",
+  "source": "Specify the root directory of your Nuxt project",
+  "text": "Legt das Stammverzeichnis deines Nuxt-Projekts fest",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Legt das Stammverzeichnis deines Nuxt-Projekts fest"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

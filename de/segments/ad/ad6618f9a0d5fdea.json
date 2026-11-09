@@ -1,0 +1,14 @@
+{
+  "hash": "ad6618f9a0d5fdea",
+  "source": "By default, {0} will resolve to the web-standard implementations Nuxt ships. They're written against the {1} shape, and they're what {2} runs on.",
+  "text": "Standardmäßig wird {0} zu den Web-Standard-Implementierungen aufgelöst, die Nuxt mitliefert. Sie sind gegen die Struktur von {1} geschrieben und bilden die Grundlage dafür, worauf {2} läuft.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardmäßig wird {0} zu den Web-Standard-Implementierungen aufgelöst, die Nuxt mitliefert. Sie sind gegen die Struktur von {1} geschrieben und bilden die Grundlage dafür, worauf {2} läuft."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

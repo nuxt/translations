@@ -1,0 +1,14 @@
+{
+  "hash": "53407a9142e1fd13",
+  "source": "Default vs Override Mode",
+  "text": "Standardmodus vs. Überschreibungsmodus",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardmodus vs. Überschreibungsmodus"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

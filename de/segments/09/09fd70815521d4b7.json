@@ -1,0 +1,14 @@
+{
+  "hash": "09fd70815521d4b7",
+  "source": "This runs when the module is upgraded to a newer version",
+  "text": "Dies wird ausgeführt, wenn das Modul auf eine neuere Version aktualisiert wird",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dies wird ausgeführt, wenn das Modul auf eine neuere Version aktualisiert wird"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

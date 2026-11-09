@@ -1,0 +1,14 @@
+{
+  "hash": "de6d3be4be1981d9",
+  "source": "If you read or replace {0} in the browser, use a plugin that provides your own instance instead:",
+  "text": "Wenn du {0} im Browser liest oder ersetzt, verwende stattdessen ein Plugin, das deine eigene Instanz bereitstellt:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du {0} im Browser liest oder ersetzt, verwende stattdessen ein Plugin, das deine eigene Instanz bereitstellt:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

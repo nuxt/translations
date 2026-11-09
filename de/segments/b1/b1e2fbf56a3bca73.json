@@ -1,0 +1,14 @@
+{
+  "hash": "b1e2fbf56a3bca73",
+  "source": "If you don't need your state to be deeply reactive, you can combine {0} with {1}. This can improve performance when your state contains large objects and arrays.",
+  "text": "Wenn dein State nicht tief reaktiv sein muss, kannst du {0} mit {1} kombinieren. Das kann die Performance verbessern, wenn dein State große Objekte und Arrays enthält.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn dein State nicht tief reaktiv sein muss, kannst du {0} mit {1} kombinieren. Das kann die Performance verbessern, wenn dein State große Objekte und Arrays enthält."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

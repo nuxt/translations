@@ -1,0 +1,14 @@
+{
+  "hash": "b02ee02da5586c6d",
+  "source": "Partially Disabling Auto-imports",
+  "text": "Automatische Importe teilweise deaktivieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Automatische Importe teilweise deaktivieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

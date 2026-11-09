@@ -1,0 +1,14 @@
+{
+  "hash": "508702e8b64eae23",
+  "source": "This method is useful if you want to invalidate the data fetching for another page.",
+  "text": "Diese Methode ist nützlich, wenn du den Datenabruf für eine andere Seite ungültig machen möchtest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese Methode ist nützlich, wenn du den Datenabruf für eine andere Seite ungültig machen möchtest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

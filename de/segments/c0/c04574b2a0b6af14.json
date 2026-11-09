@@ -1,0 +1,14 @@
+{
+  "hash": "c04574b2a0b6af14",
+  "source": "^ no PUT route matches '/pets'",
+  "text": "^ keine PUT-Route passt zu '/pets'",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "^ keine PUT-Route passt zu '/pets'"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

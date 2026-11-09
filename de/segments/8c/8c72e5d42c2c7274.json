@@ -1,0 +1,14 @@
+{
+  "hash": "8c72e5d42c2c7274",
+  "source": "You can manually specify routes that {0}Nitro{/0} will fetch and pre-render during the build or ignore routes that you don't want to pre-render like {1} in the {2} file:",
+  "text": "Du kannst manuell Routen angeben, die {0}Nitro{/0} während des Builds abruft und vorab rendert, oder Routen ignorieren, die nicht vorab gerendert werden sollen, wie {1} in der Datei {2}:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst manuell Routen angeben, die {0}Nitro{/0} während des Builds abruft und vorab rendert, oder Routen ignorieren, die nicht vorab gerendert werden sollen, wie {1} in der Datei {2}:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

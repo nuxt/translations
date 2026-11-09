@@ -1,0 +1,14 @@
+{
+  "hash": "38352dc5cc9bfe33",
+  "source": "Set a key with",
+  "text": "Einen Schlüssel setzen mit",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Einen Schlüssel setzen mit"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "3de4e0abc848df9f",
+  "source": "Anonymous (or inline) route middleware are defined directly within the page.",
+  "text": "Anonyme (oder Inline-)Routen-Middleware wird direkt in der Seite definiert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Anonyme (oder Inline-)Routen-Middleware wird direkt in der Seite definiert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

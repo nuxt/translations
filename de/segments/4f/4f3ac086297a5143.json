@@ -1,0 +1,14 @@
+{
+  "hash": "4f3ac086297a5143",
+  "source": "a {0} a handler returns is a {1} at the call site",
+  "text": "ein {0}, das ein Handler zurückgibt, ist an der Aufrufstelle ein {1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "ein {0}, das ein Handler zurückgibt, ist an der Aufrufstelle ein {1}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

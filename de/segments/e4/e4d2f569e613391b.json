@@ -1,0 +1,14 @@
+{
+  "hash": "e4d2f569e613391b",
+  "source": "Environment variable values are automatically cast to their JavaScript type using {0}. For example, {1} becomes the number {2}. To keep a value a string, the environment variable value itself must contain literal double quotes: in a {3} file, write {4}; when setting the variable directly (in a shell, Dockerfile, or hosting dashboard), make sure the quotes are part of the value and not stripped by the shell (for example {5}).",
+  "text": "Werte von Umgebungsvariablen werden mit {0} automatisch in ihren JavaScript-Typ umgewandelt. Zum Beispiel wird {1} zur Zahl {2}. Damit ein Wert ein String bleibt, muss der Wert der Umgebungsvariable selbst literale doppelte Anführungszeichen enthalten: In einer {3}-Datei schreibst du {4}. Wenn du die Variable direkt setzt (in einer Shell, einem Dockerfile oder einem Hosting-Dashboard), stelle sicher, dass die Anführungszeichen Teil des Werts sind und nicht von der Shell entfernt werden (z. B. {5}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Werte von Umgebungsvariablen werden mit {0} automatisch in ihren JavaScript-Typ umgewandelt. Zum Beispiel wird {1} zur Zahl {2}. Damit ein Wert ein String bleibt, muss der Wert der Umgebungsvariable selbst literale doppelte Anführungszeichen enthalten: In einer {3}-Datei schreibst du {4}. Wenn du die Variable direkt setzt (in einer Shell, einem Dockerfile oder einem Hosting-Dashboard), stelle sicher, dass die Anführungszeichen Teil des Werts sind und nicht von der Shell entfernt werden (z. B. {5})."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

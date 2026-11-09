@@ -1,0 +1,14 @@
+{
+  "hash": "7210ed3175eb8d8f",
+  "source": "If you do not pass an event or list of events, it defaults to hydrating on {0}, {1} and {2}.",
+  "text": "Wenn du kein Event und keine Liste von Events übergibst, wird standardmäßig bei {0}, {1} und {2} hydratisiert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du kein Event und keine Liste von Events übergibst, wird standardmäßig bei {0}, {1} und {2} hydratisiert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

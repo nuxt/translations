@@ -1,0 +1,14 @@
+{
+  "hash": "5c91d66bbe007d96",
+  "source": "The location of a font file is an implementation detail rather than a stable URL contract, so this may change again. If you have hard-coded {0} anywhere (a CDN rule, a CSP directive, a cache header, a test), point it at your build assets directory instead. Fonts are still served from {1} in development and with the webpack and rspack builders; see {2}where fonts are served from{/2}.",
+  "text": "Der Speicherort einer Schriftdatei ist ein Implementierungsdetail und kein stabiler URL-Vertrag, daher kann er sich erneut ändern. Falls du {0} irgendwo fest codiert hast (in einer CDN-Regel, einer CSP-Direktive, einem Cache-Header oder einem Test), verweise stattdessen auf dein Build-Assets-Verzeichnis. In der Entwicklung sowie mit den Buildern webpack und rspack werden Schriften weiterhin von {1} ausgeliefert; siehe {2}woher Schriften ausgeliefert werden{/2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Speicherort einer Schriftdatei ist ein Implementierungsdetail und kein stabiler URL-Vertrag, daher kann er sich erneut ändern. Falls du {0} irgendwo fest codiert hast (in einer CDN-Regel, einer CSP-Direktive, einem Cache-Header oder einem Test), verweise stattdessen auf dein Build-Assets-Verzeichnis. In der Entwicklung sowie mit den Buildern webpack und rspack werden Schriften weiterhin von {1} ausgeliefert; siehe {2}woher Schriften ausgeliefert werden{/2}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

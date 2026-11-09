@@ -1,0 +1,14 @@
+{
+  "hash": "01f8a5d0c932443e",
+  "source": "To revert to the previous {0} placeholder behavior:",
+  "text": "So stellst du das vorherige Platzhalterverhalten von {0} wieder her:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "So stellst du das vorherige Platzhalterverhalten von {0} wieder her:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b5d25155db971b83",
+  "source": "{0} file is another syntax for configuring the Nuxt application (useful for global configurations).",
+  "text": "Die Datei {0} ist eine alternative Syntax zur Konfiguration der Nuxt-Anwendung (nützlich für globale Konfigurationen).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Datei {0} ist eine alternative Syntax zur Konfiguration der Nuxt-Anwendung (nützlich für globale Konfigurationen)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

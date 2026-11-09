@@ -1,0 +1,14 @@
+{
+  "hash": "28526f879bb141e6",
+  "source": "Nuxt auto-imports components, composables and {0}Vue.js APIs{/0} to use across your application without explicitly importing them.",
+  "text": "Nuxt importiert Komponenten, Composables und {0}Vue.js-APIs{/0} automatisch, sodass du sie in deiner gesamten Anwendung verwenden kannst, ohne sie explizit zu importieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt importiert Komponenten, Composables und {0}Vue.js-APIs{/0} automatisch, sodass du sie in deiner gesamten Anwendung verwenden kannst, ohne sie explizit zu importieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

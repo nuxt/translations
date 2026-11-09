@@ -1,0 +1,14 @@
+{
+  "hash": "0d99eba04522c47a",
+  "source": "In order to use {0} you should install and enable the Nuxt Image module:",
+  "text": "Um {0} zu verwenden, solltest du das Nuxt-Image-Modul installieren und aktivieren:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um {0} zu verwenden, solltest du das Nuxt-Image-Modul installieren und aktivieren:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

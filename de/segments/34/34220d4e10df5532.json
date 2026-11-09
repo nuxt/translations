@@ -1,0 +1,14 @@
+{
+  "hash": "34220d4e10df5532",
+  "source": "The core of the provider API in Nuxt Fonts has been extracted to a common library that can be used by any framework - {0}.",
+  "text": "Der Kern der Provider-API in Nuxt Fonts wurde in eine gemeinsame Bibliothek ausgelagert, die in jedem Framework verwendet werden kann – {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Kern der Provider-API in Nuxt Fonts wurde in eine gemeinsame Bibliothek ausgelagert, die in jedem Framework verwendet werden kann – {0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

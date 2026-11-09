@@ -1,0 +1,14 @@
+{
+  "hash": "e424f2d8beeee136",
+  "source": "{0} now defaults to {1} outside of dev mode, so rather than producing a build with a missing font, the build fails when no provider can serve a family, when a font file cannot be downloaded after retries, or when you set {2} on a family and that provider does not contain it.",
+  "text": "{0} hat außerhalb des Entwicklungsmodus jetzt den Standardwert {1}. Statt einen Build mit fehlender Schrift zu erzeugen, schlägt der Build daher fehl, wenn kein Provider eine Familie bereitstellen kann, wenn eine Schriftdatei auch nach mehreren Versuchen nicht heruntergeladen werden kann oder wenn du {2} für eine Familie setzt und dieser Provider sie nicht enthält.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} hat außerhalb des Entwicklungsmodus jetzt den Standardwert {1}. Statt einen Build mit fehlender Schrift zu erzeugen, schlägt der Build daher fehl, wenn kein Provider eine Familie bereitstellen kann, wenn eine Schriftdatei auch nach mehreren Versuchen nicht heruntergeladen werden kann oder wenn du {2} für eine Familie setzt und dieser Provider sie nicht enthält."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "f0775422686231ee",
+  "source": "If you have Prettier installed in your editor, we recommend you disable it when working on the project to avoid conflict.",
+  "text": "Wenn du Prettier in deinem Editor installiert hast, empfehlen wir, es bei der Arbeit am Projekt zu deaktivieren, um Konflikte zu vermeiden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du Prettier in deinem Editor installiert hast, empfehlen wir, es bei der Arbeit am Projekt zu deaktivieren, um Konflikte zu vermeiden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

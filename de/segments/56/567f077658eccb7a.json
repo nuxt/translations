@@ -1,0 +1,14 @@
+{
+  "hash": "567f077658eccb7a",
+  "source": "Watch a video from Vue School on the new directory structure",
+  "text": "Sieh dir ein Video von Vue School zur neuen Verzeichnisstruktur an",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sieh dir ein Video von Vue School zur neuen Verzeichnisstruktur an"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

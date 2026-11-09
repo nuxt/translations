@@ -1,0 +1,14 @@
+{
+  "hash": "ccd7b83d71a3030b",
+  "source": "{0} is also used as an alternative way of setting the page title. However, {1} does not allow the page title to be dynamic. Therefore, it is recommended to use {2} in the {3} file to add a dynamic title, which is then applied to all routes of your Nuxt app.",
+  "text": "{0} wird ebenfalls als alternative Möglichkeit verwendet, den Seitentitel festzulegen. {1} erlaubt es jedoch nicht, den Seitentitel dynamisch zu gestalten. Daher empfiehlt es sich, {2} in der Datei {3} zu verwenden, um einen dynamischen Titel hinzuzufügen, der dann auf alle Routen deiner Nuxt-App angewendet wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} wird ebenfalls als alternative Möglichkeit verwendet, den Seitentitel festzulegen. {1} erlaubt es jedoch nicht, den Seitentitel dynamisch zu gestalten. Daher empfiehlt es sich, {2} in der Datei {3} zu verwenden, um einen dynamischen Titel hinzuzufügen, der dann auf alle Routen deiner Nuxt-App angewendet wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

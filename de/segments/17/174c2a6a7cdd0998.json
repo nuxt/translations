@@ -1,0 +1,14 @@
+{
+  "hash": "174c2a6a7cdd0998",
+  "source": "useCookie is an SSR-friendly composable to read and write cookies.",
+  "text": "useCookie ist ein SSR-freundliches Composable zum Lesen und Schreiben von Cookies.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "useCookie ist ein SSR-freundliches Composable zum Lesen und Schreiben von Cookies."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "abdf749b99f95e9e",
+  "source": "This feature automatically shares payload *data* between pages that are prerendered. This can result in a significant performance improvement when prerendering sites that use {0} or {1} and fetch the same data in different pages.",
+  "text": "Dieses Feature teilt automatisch die Payload-*Daten* zwischen Seiten, die vorab gerendert werden. Das kann die Performance beim Vorab-Rendering von Websites deutlich verbessern, die {0} oder {1} verwenden und auf verschiedenen Seiten dieselben Daten abrufen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dieses Feature teilt automatisch die Payload-*Daten* zwischen Seiten, die vorab gerendert werden. Das kann die Performance beim Vorab-Rendering von Websites deutlich verbessern, die {0} oder {1} verwenden und auf verschiedenen Seiten dieselben Daten abrufen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

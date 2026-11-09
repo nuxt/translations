@@ -1,0 +1,14 @@
+{
+  "hash": "253c905f4963b5f9",
+  "source": "You can overwrite {0} defaults by creating your own link component using {1}.",
+  "text": "Du kannst die Standardwerte von {0} überschreiben, indem du mit {1} eine eigene Link-Komponente erstellst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst die Standardwerte von {0} überschreiben, indem du mit {1} eine eigene Link-Komponente erstellst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

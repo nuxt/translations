@@ -1,0 +1,14 @@
+{
+  "hash": "07bef376e0338cca",
+  "source": "Defines the {0}font metric override descriptors{/0} of every {1} generated for the given font family. These apply to the family itself; the metrics of the fallback fonts we generate for it are calculated for you.",
+  "text": "Legt die {0}Descriptors zum Überschreiben der Schriftmetriken{/0} jedes für die angegebene Schriftfamilie erzeugten {1} fest. Diese gelten für die Familie selbst; die Metriken der Fallback-Schriften, die wir dafür erzeugen, werden für dich berechnet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Legt die {0}Descriptors zum Überschreiben der Schriftmetriken{/0} jedes für die angegebene Schriftfamilie erzeugten {1} fest. Diese gelten für die Familie selbst; die Metriken der Fallback-Schriften, die wir dafür erzeugen, werden für dich berechnet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "7dbb9b960998745b",
+  "source": "Access the admin layer",
+  "text": "Auf den Admin-Layer zugreifen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auf den Admin-Layer zugreifen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

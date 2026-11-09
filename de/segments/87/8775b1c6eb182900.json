@@ -1,0 +1,14 @@
+{
+  "hash": "8775b1c6eb182900",
+  "source": "A function (or stringified function) to run before Nuxt hydrates. It will be stringified and inlined in the HTML. Should not have external dependencies or reference variables outside the callback. Runs before Nuxt runtime initializes, so it should not rely on Nuxt or Vue context.",
+  "text": "Eine Funktion (oder in einen String umgewandelte Funktion), die ausgeführt wird, bevor Nuxt hydratisiert. Sie wird in einen String umgewandelt und in das HTML eingebettet. Sie sollte keine externen Abhängigkeiten haben und keine Variablen außerhalb des Callbacks referenzieren. Sie läuft, bevor die Nuxt-Runtime initialisiert ist, und sollte sich daher nicht auf den Nuxt- oder Vue-Kontext verlassen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine Funktion (oder in einen String umgewandelte Funktion), die ausgeführt wird, bevor Nuxt hydratisiert. Sie wird in einen String umgewandelt und in das HTML eingebettet. Sie sollte keine externen Abhängigkeiten haben und keine Variablen außerhalb des Callbacks referenzieren. Sie läuft, bevor die Nuxt-Runtime initialisiert ist, und sollte sich daher nicht auf den Nuxt- oder Vue-Kontext verlassen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "56e05f1619cf7f52",
+  "source": "Both would otherwise only surface when Nuxt loads the file, so the generated {0} tsconfig now describes the environment the way the runtime sees it ({1} and {2} set to {3}, plus {4}) and TypeScript reports both up front.",
+  "text": "Beides würde sonst erst auffallen, wenn Nuxt die Datei lädt. Deshalb beschreibt die generierte tsconfig für {0} die Umgebung jetzt so, wie die Runtime sie sieht ({1} und {2} sind auf {3} gesetzt, dazu {4}), und TypeScript meldet beides schon vorab.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Beides würde sonst erst auffallen, wenn Nuxt die Datei lädt. Deshalb beschreibt die generierte tsconfig für {0} die Umgebung jetzt so, wie die Runtime sie sieht ({1} und {2} sind auf {3} gesetzt, dazu {4}), und TypeScript meldet beides schon vorab."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

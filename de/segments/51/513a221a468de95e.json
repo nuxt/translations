@@ -1,0 +1,14 @@
+{
+  "hash": "513a221a468de95e",
+  "source": "Nuxt provides specialized LLMs.txt files that you can reference in Cursor for better AI assistance with Nuxt development.",
+  "text": "Nuxt stellt spezielle LLMs.txt-Dateien bereit, auf die du in Cursor verweisen kannst, um bei der Entwicklung mit Nuxt bessere Unterstützung durch KI zu erhalten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt stellt spezielle LLMs.txt-Dateien bereit, auf die du in Cursor verweisen kannst, um bei der Entwicklung mit Nuxt bessere Unterstützung durch KI zu erhalten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

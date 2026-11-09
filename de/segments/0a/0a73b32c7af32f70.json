@@ -1,0 +1,14 @@
+{
+  "hash": "0a73b32c7af32f70",
+  "source": "A Nuxt application can be deployed on a Node.js server, pre-rendered for static hosting, or deployed to serverless or edge (CDN) environments.",
+  "text": "Eine Nuxt-Anwendung kann auf einem Node.js-Server bereitgestellt, für statisches Hosting vorab gerendert oder in Serverless- bzw. Edge-Umgebungen (CDN) bereitgestellt werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine Nuxt-Anwendung kann auf einem Node.js-Server bereitgestellt, für statisches Hosting vorab gerendert oder in Serverless- bzw. Edge-Umgebungen (CDN) bereitgestellt werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

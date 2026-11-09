@@ -1,0 +1,14 @@
+{
+  "hash": "c2c4989fdd1cc8bd",
+  "source": "The cache step must run **after** you install dependencies. Some package managers remove unknown directories inside {0}, which will delete a cache restored before install.",
+  "text": "Der Cache-Schritt muss **nach** der Installation der Abhängigkeiten laufen. Einige Paketmanager entfernen unbekannte Verzeichnisse innerhalb von {0}, wodurch ein vor der Installation wiederhergestellter Cache gelöscht wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Cache-Schritt muss **nach** der Installation der Abhängigkeiten laufen. Einige Paketmanager entfernen unbekannte Verzeichnisse innerhalb von {0}, wodurch ein vor der Installation wiederhergestellter Cache gelöscht wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

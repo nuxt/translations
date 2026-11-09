@@ -1,0 +1,14 @@
+{
+  "hash": "f74aa1c637b69efb",
+  "source": "Resolve auto-imported components in the Vue template compiler.",
+  "text": "Automatisch importierte Komponenten im Vue-Template-Compiler auflösen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Automatisch importierte Komponenten im Vue-Template-Compiler auflösen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "81ebfdacf3902560",
+  "source": "Clients that run JavaScript apply the patch, and clients matching {0} never stream in the first place, so they receive the full buffered {1}. Anything else (a crawler your {2} does not list, a link unfurler, {3}) will not see those tags at all. JSON-LD scripts, {4} tags and body-positioned tags are the exception: they are rendered as real markup before {5}, where every client can read them. Keep other SEO-critical tags (canonical links, social meta) synchronous, or opt the route out of streaming with {6}.",
+  "text": "Clients, die JavaScript ausführen, wenden den Patch an, und Clients, auf die {0} zutrifft, streamen gar nicht erst und erhalten daher das vollständige gepufferte {1}. Alles andere (ein Crawler, den deine {2} nicht aufführt, ein Link-Unfurler, {3}) sieht diese Tags überhaupt nicht. JSON-LD-Skripte, {4}-Tags und im Body positionierte Tags sind die Ausnahme: Sie werden vor {5} als echtes Markup gerendert, wo jeder Client sie lesen kann. Halte andere SEO-kritische Tags (kanonische Links, Social-Meta) synchron oder nimm die Route mit {6} vom Streaming aus.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Clients, die JavaScript ausführen, wenden den Patch an, und Clients, auf die {0} zutrifft, streamen gar nicht erst und erhalten daher das vollständige gepufferte {1}. Alles andere (ein Crawler, den deine {2} nicht aufführt, ein Link-Unfurler, {3}) sieht diese Tags überhaupt nicht. JSON-LD-Skripte, {4}-Tags und im Body positionierte Tags sind die Ausnahme: Sie werden vor {5} als echtes Markup gerendert, wo jeder Client sie lesen kann. Halte andere SEO-kritische Tags (kanonische Links, Social-Meta) synchron oder nimm die Route mit {6} vom Streaming aus."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

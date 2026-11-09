@@ -1,0 +1,14 @@
+{
+  "hash": "d779bf68c1e9351a",
+  "source": "It respects the following runtime environment variables:",
+  "text": "Folgende Umgebungsvariablen zur Laufzeit werden berücksichtigt:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Folgende Umgebungsvariablen zur Laufzeit werden berücksichtigt:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

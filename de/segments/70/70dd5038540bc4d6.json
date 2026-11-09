@@ -1,0 +1,14 @@
+{
+  "hash": "70dd5038540bc4d6",
+  "source": "the window width is greater than or equal to 768px.",
+  "text": "die Fensterbreite größer oder gleich 768 px ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "die Fensterbreite größer oder gleich 768 px ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

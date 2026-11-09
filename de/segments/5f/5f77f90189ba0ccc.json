@@ -1,0 +1,14 @@
+{
+  "hash": "5f77f90189ba0ccc",
+  "source": "redis connector options",
+  "text": "Optionen des Redis-Connectors",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Optionen des Redis-Connectors"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

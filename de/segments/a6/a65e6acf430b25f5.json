@@ -1,0 +1,14 @@
+{
+  "hash": "a65e6acf430b25f5",
+  "source": "**See**: {0}tsconfig.json information{/0}",
+  "text": "**Siehe**: {0}Informationen zur tsconfig.json{/0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Siehe**: {0}Informationen zur tsconfig.json{/0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

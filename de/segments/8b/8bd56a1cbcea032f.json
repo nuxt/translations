@@ -1,0 +1,14 @@
+{
+  "hash": "8bd56a1cbcea032f",
+  "source": "It improves type support when using modern libraries with {0}.",
+  "text": "Er verbessert die Typunterstützung bei der Verwendung moderner Bibliotheken mit {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Er verbessert die Typunterstützung bei der Verwendung moderner Bibliotheken mit {0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

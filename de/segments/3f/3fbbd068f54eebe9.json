@@ -1,0 +1,14 @@
+{
+  "hash": "3fbbd068f54eebe9",
+  "source": "{0} is used to refetch all or specific {1} instances, including those from {2}, {3}, {4}, and {5}.",
+  "text": "{0} lädt alle oder bestimmte {1}-Instanzen neu, einschließlich der Instanzen von {2}, {3}, {4} und {5}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} lädt alle oder bestimmte {1}-Instanzen neu, einschließlich der Instanzen von {2}, {3}, {4} und {5}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

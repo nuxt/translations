@@ -1,0 +1,14 @@
+{
+  "hash": "6f1f311853d84af6",
+  "source": "{0}: Forces the link to be rendered as an {1} tag instead of a Vue Router {2}.",
+  "text": "{0}: Erzwingt, dass der Link als {1}-Tag statt als {2} von Vue Router gerendert wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Erzwingt, dass der Link als {1}-Tag statt als {2} von Vue Router gerendert wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

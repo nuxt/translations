@@ -1,0 +1,14 @@
+{
+  "hash": "c3bd7ecbc44ea3a8",
+  "source": "Called before building the Nitro instance.",
+  "text": "Wird aufgerufen, bevor die Nitro-Instanz erzeugt wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird aufgerufen, bevor die Nitro-Instanz erzeugt wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

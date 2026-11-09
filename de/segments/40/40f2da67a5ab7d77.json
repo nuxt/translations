@@ -1,0 +1,14 @@
+{
+  "hash": "40f2da67a5ab7d77",
+  "source": "If you're developing a Nuxt module and using APIs that are only supported in specific Nuxt versions, it's highly recommended to include {0}.",
+  "text": "Wenn du ein Nuxt-Modul entwickelst und APIs verwendest, die nur in bestimmten Nuxt-Versionen unterstützt werden, empfiehlt es sich dringend, {0} anzugeben.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du ein Nuxt-Modul entwickelst und APIs verwendest, die nur in bestimmten Nuxt-Versionen unterstützt werden, empfiehlt es sich dringend, {0} anzugeben."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

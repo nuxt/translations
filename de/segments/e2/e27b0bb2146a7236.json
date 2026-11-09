@@ -1,0 +1,14 @@
+{
+  "hash": "e27b0bb2146a7236",
+  "source": "If you are augmenting types that are **shared between the app and server**, move the files to the {0} directory.",
+  "text": "Wenn du Typen erweiterst, die **von App und Server gemeinsam genutzt werden**, verschiebe die Dateien in das Verzeichnis {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du Typen erweiterst, die **von App und Server gemeinsam genutzt werden**, verschiebe die Dateien in das Verzeichnis {0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

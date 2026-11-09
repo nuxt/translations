@@ -1,0 +1,14 @@
+{
+  "hash": "d06355b8e0b55fc3",
+  "source": "Modules, like everything in a Nuxt configuration, aren't included in your application runtime. However, you might want your module to provide, or inject runtime code to the application it's installed on. That's what the runtime directory enables you to do.",
+  "text": "Module sind, wie alles in einer Nuxt-Konfiguration, nicht Teil der Laufzeit deiner Anwendung. Du möchtest aber vielleicht, dass dein Modul Runtime-Code für die Anwendung bereitstellt oder in sie einfügt, in der es installiert ist. Genau das ermöglicht dir das Runtime-Verzeichnis.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Module sind, wie alles in einer Nuxt-Konfiguration, nicht Teil der Laufzeit deiner Anwendung. Du möchtest aber vielleicht, dass dein Modul Runtime-Code für die Anwendung bereitstellt oder in sie einfügt, in der es installiert ist. Genau das ermöglicht dir das Runtime-Verzeichnis."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

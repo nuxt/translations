@@ -1,0 +1,14 @@
+{
+  "hash": "7a21693dc0d49fac",
+  "source": "If you use a generic font family like {0}, we will 'translate' that generic family name into one or more font families when generating fallback metrics. You can customize which families we use. (One or two works best.)",
+  "text": "Wenn du eine generische Schriftfamilie wie {0} verwendest, „übersetzen“ wir diesen generischen Familiennamen beim Erzeugen der Fallback-Metriken in eine oder mehrere Schriftfamilien. Du kannst anpassen, welche Familien wir verwenden. (Eine oder zwei funktionieren am besten.)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du eine generische Schriftfamilie wie {0} verwendest, „übersetzen“ wir diesen generischen Familiennamen beim Erzeugen der Fallback-Metriken in eine oder mehrere Schriftfamilien. Du kannst anpassen, welche Familien wir verwenden. (Eine oder zwei funktionieren am besten.)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

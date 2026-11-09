@@ -1,0 +1,14 @@
+{
+  "hash": "490a773469568834",
+  "source": "If you need either plugin, install it and enable it explicitly:",
+  "text": "Wenn du eines der beiden Plugins benötigst, installiere es und aktiviere es explizit:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du eines der beiden Plugins benötigst, installiere es und aktiviere es explizit:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

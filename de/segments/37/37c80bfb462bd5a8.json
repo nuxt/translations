@@ -1,0 +1,14 @@
+{
+  "hash": "37c80bfb462bd5a8",
+  "source": "{0} in {1} or on each family. It is passed to Google Fonts, so only the glyphs you need are downloaded.",
+  "text": "{0} in {1} oder an jeder Schriftfamilie. Der Wert wird an Google Fonts übergeben, sodass nur die benötigten Glyphen heruntergeladen werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} in {1} oder an jeder Schriftfamilie. Der Wert wird an Google Fonts übergeben, sodass nur die benötigten Glyphen heruntergeladen werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

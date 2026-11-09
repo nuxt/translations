@@ -1,0 +1,14 @@
+{
+  "hash": "76affd482396a49a",
+  "source": "For announcing dynamic in-page content changes (form validation, toasts, loading states), use {0} instead.",
+  "text": "Um dynamische Inhaltsänderungen innerhalb einer Seite anzusagen (Formularvalidierung, Toasts, Ladezustände), verwende stattdessen {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um dynamische Inhaltsänderungen innerhalb einer Seite anzusagen (Formularvalidierung, Toasts, Ladezustände), verwende stattdessen {0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

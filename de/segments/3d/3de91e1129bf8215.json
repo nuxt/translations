@@ -1,0 +1,14 @@
+{
+  "hash": "3de91e1129bf8215",
+  "source": "The {0} option helps you to minimize the payload size stored in your HTML document by only selecting the fields that you want returned from the composables.",
+  "text": "Die Option {0} hilft dir, die Größe der Payload im HTML-Dokument zu minimieren, indem nur die Felder ausgewählt werden, die von den Composables zurückgegeben werden sollen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Option {0} hilft dir, die Größe der Payload im HTML-Dokument zu minimieren, indem nur die Felder ausgewählt werden, die von den Composables zurückgegeben werden sollen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

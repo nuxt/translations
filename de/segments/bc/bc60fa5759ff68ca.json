@@ -1,0 +1,14 @@
+{
+  "hash": "bc60fa5759ff68ca",
+  "source": "Rendering Optimizations: Today and Tomorrow",
+  "text": "Rendering-Optimierungen: heute und morgen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Rendering-Optimierungen: heute und morgen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

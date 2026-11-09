@@ -1,0 +1,14 @@
+{
+  "hash": "7081da9f5e6273ac",
+  "source": "👈 run code *after* calling {0} in {1}",
+  "text": "👈 Code ausführen, *nachdem* {0} in {1} aufgerufen wurde",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "👈 Code ausführen, *nachdem* {0} in {1} aufgerufen wurde"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

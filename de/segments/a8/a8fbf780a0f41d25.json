@@ -1,0 +1,14 @@
+{
+  "hash": "a8fbf780a0f41d25",
+  "source": "{0} reduces every font file we emit to the characters needed to render the text you give it, which can dramatically cut the bytes shipped for icon fonts and single-language sites.",
+  "text": "{0} reduziert jede Schriftdatei, die wir ausgeben, auf die Zeichen, die zum Darstellen des angegebenen Texts nötig sind. Das kann die ausgelieferte Datenmenge bei Icon-Schriften und einsprachigen Websites drastisch verringern.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} reduziert jede Schriftdatei, die wir ausgeben, auf die Zeichen, die zum Darstellen des angegebenen Texts nötig sind. Das kann die ausgelieferte Datenmenge bei Icon-Schriften und einsprachigen Websites drastisch verringern."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

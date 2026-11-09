@@ -1,0 +1,14 @@
+{
+  "hash": "b17e1eae62460598",
+  "source": "Setting {0} additionally allows passing slots to {1} components. Those slots are rendered on the server and are **not interactive** on the client.",
+  "text": "Mit {0} können zusätzlich Slots an {1}-Komponenten übergeben werden. Diese Slots werden auf dem Server gerendert und sind auf dem Client **nicht interaktiv**.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit {0} können zusätzlich Slots an {1}-Komponenten übergeben werden. Diese Slots werden auf dem Server gerendert und sind auf dem Client **nicht interaktiv**."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

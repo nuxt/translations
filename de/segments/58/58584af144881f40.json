@@ -1,0 +1,14 @@
+{
+  "hash": "58584af144881f40",
+  "source": "The server links to each report: the client bundle and the Nitro server bundle. When only one report exists, the server shows it directly. The server uses the port in {0}, or port 3000. If that port is in use, it picks a free port between 3000 and 3100.",
+  "text": "Der Server verlinkt auf jeden Bericht: das Client-Bundle und das Nitro-Server-Bundle. Gibt es nur einen Bericht, zeigt der Server ihn direkt an. Der Server verwendet den Port aus {0} oder Port 3000. Ist dieser Port belegt, wählt er einen freien Port zwischen 3000 und 3100.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Server verlinkt auf jeden Bericht: das Client-Bundle und das Nitro-Server-Bundle. Gibt es nur einen Bericht, zeigt der Server ihn direkt an. Der Server verwendet den Port aus {0} oder Port 3000. Ist dieser Port belegt, wählt er einen freien Port zwischen 3000 und 3100."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

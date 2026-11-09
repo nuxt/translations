@@ -1,0 +1,14 @@
+{
+  "hash": "db61e3897d2a617c",
+  "source": "Mostly-static sites",
+  "text": "Überwiegend statische Websites",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Überwiegend statische Websites"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

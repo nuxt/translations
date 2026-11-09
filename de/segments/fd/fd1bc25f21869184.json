@@ -1,0 +1,14 @@
+{
+  "hash": "fd1bc25f21869184",
+  "source": "Global route options applied to matching server routes.",
+  "text": "Globale Routenoptionen, die auf passende Server-Routen angewendet werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Globale Routenoptionen, die auf passende Server-Routen angewendet werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

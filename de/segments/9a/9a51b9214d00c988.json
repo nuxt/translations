@@ -1,0 +1,14 @@
+{
+  "hash": "9a51b9214d00c988",
+  "source": "Watch a video from LearnVue about useNuxtData",
+  "text": "Sieh dir ein Video von LearnVue zu useNuxtData an",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sieh dir ein Video von LearnVue zu useNuxtData an"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

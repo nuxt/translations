@@ -1,0 +1,14 @@
+{
+  "hash": "a3015dd0c1f4eedf",
+  "source": "Then, you can access this new base URL using {0}:",
+  "text": "Anschließend kannst du über {0} auf diese neue Basis-URL zugreifen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Anschließend kannst du über {0} auf diese neue Basis-URL zugreifen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

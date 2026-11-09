@@ -1,0 +1,14 @@
+{
+  "hash": "0b35d0b299b9ad31",
+  "source": "Watch a video from Alexander Lichter about getting started with @nuxt/test-utils",
+  "text": "Sieh dir ein Video von Alexander Lichter über den Einstieg in @nuxt/test-utils an",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sieh dir ein Video von Alexander Lichter über den Einstieg in @nuxt/test-utils an"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

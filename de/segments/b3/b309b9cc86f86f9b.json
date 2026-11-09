@@ -1,0 +1,14 @@
+{
+  "hash": "b309b9cc86f86f9b",
+  "source": "The {0} Object",
+  "text": "Das Objekt {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Objekt {0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

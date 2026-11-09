@@ -1,0 +1,14 @@
+{
+  "hash": "ea3295cb31733805",
+  "source": "Fix the original page error first. The recovery path only runs because rendering threw, so the diagnostic disappears once the page renders.",
+  "text": "Behebe zuerst den ursprünglichen Seitenfehler. Der Wiederherstellungspfad wird nur ausgeführt, weil beim Rendern ein Fehler ausgelöst wurde, daher verschwindet die Diagnose, sobald die Seite gerendert wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Behebe zuerst den ursprünglichen Seitenfehler. Der Wiederherstellungspfad wird nur ausgeführt, weil beim Rendern ein Fehler ausgelöst wurde, daher verschwindet die Diagnose, sobald die Seite gerendert wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "392c7091dbeccf37",
+  "source": "Recommended Migration",
+  "text": "Empfohlene Migration",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Empfohlene Migration"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

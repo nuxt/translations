@@ -1,0 +1,14 @@
+{
+  "hash": "795d5b3c6dc3f1a8",
+  "source": "The context passed to {0} describes what was loaded:",
+  "text": "Der an {0} übergebene Kontext beschreibt, was geladen wurde:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der an {0} übergebene Kontext beschreibt, was geladen wurde:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

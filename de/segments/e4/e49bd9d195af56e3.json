@@ -1,0 +1,14 @@
+{
+  "hash": "e49bd9d195af56e3",
+  "source": "The dev server is found through the {0} file it writes into your {1}build directory{/1}, so the command only works while {2} is running for that project. Pass an absolute URL to talk to any other server.",
+  "text": "Der Entwicklungsserver wird über die Datei {0} gefunden, die er in dein {1}Build-Verzeichnis{/1} schreibt. Der Befehl funktioniert daher nur, solange {2} für dieses Projekt läuft. Übergib eine absolute URL, um einen beliebigen anderen Server anzusprechen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Entwicklungsserver wird über die Datei {0} gefunden, die er in dein {1}Build-Verzeichnis{/1} schreibt. Der Befehl funktioniert daher nur, solange {2} für dieses Projekt läuft. Übergib eine absolute URL, um einen beliebigen anderen Server anzusprechen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

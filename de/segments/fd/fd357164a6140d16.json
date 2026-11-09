@@ -1,0 +1,14 @@
+{
+  "hash": "fd357164a6140d16",
+  "source": "Nothing is installed in CI or when there is no interactive terminal. In that case the missing packages are reported as a diagnostic that includes the install command, and the function reports them as missing so your module can degrade gracefully.",
+  "text": "In CI-Umgebungen oder ohne interaktives Terminal wird nichts installiert. In diesem Fall werden die fehlenden Pakete als Diagnose gemeldet, die den Installationsbefehl enthält, und die Funktion meldet sie als fehlend, sodass dein Modul sich kontrolliert auf eingeschränkte Funktionalität zurückfallen lassen kann.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In CI-Umgebungen oder ohne interaktives Terminal wird nichts installiert. In diesem Fall werden die fehlenden Pakete als Diagnose gemeldet, die den Installationsbefehl enthält, und die Funktion meldet sie als fehlend, sodass dein Modul sich kontrolliert auf eingeschränkte Funktionalität zurückfallen lassen kann."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

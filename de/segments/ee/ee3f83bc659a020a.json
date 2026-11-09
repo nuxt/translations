@@ -1,0 +1,14 @@
+{
+  "hash": "ee3f83bc659a020a",
+  "source": "Enable {0}Corepack{/0} to have {1} and {2}",
+  "text": "Aktiviere {0}Corepack{/0}, um {1} und {2} zu nutzen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Aktiviere {0}Corepack{/0}, um {1} und {2} zu nutzen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

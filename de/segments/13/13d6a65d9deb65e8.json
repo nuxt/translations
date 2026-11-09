@@ -1,0 +1,14 @@
+{
+  "hash": "13d6a65d9deb65e8",
+  "source": "Often this is used when in a monorepo setup. Nuxt will attempt to detect your workspace directory automatically, but you can override it here. It is normally not needed to configure this option.",
+  "text": "Dies wird häufig in einem Monorepo-Setup verwendet. Nuxt versucht, dein Workspace-Verzeichnis automatisch zu erkennen, aber du kannst es hier überschreiben. Normalerweise ist es nicht nötig, diese Option zu konfigurieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dies wird häufig in einem Monorepo-Setup verwendet. Nuxt versucht, dein Workspace-Verzeichnis automatisch zu erkennen, aber du kannst es hier überschreiben. Normalerweise ist es nicht nötig, diese Option zu konfigurieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

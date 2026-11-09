@@ -1,0 +1,14 @@
+{
+  "hash": "d59464d68844ecaf",
+  "source": "**See**: {0}{1} migration documentation{/0}",
+  "text": "**Siehe**: {0}Migrationsdokumentation zu {1}{/0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Siehe**: {0}Migrationsdokumentation zu {1}{/0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

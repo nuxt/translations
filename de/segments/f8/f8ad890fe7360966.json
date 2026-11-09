@@ -1,0 +1,14 @@
+{
+  "hash": "f8ad890fe7360966",
+  "source": "Legacy support is possible using {0}h3js/h3{/0}, but it is advised to avoid legacy handlers as much as you can.",
+  "text": "Legacy-Unterstützung ist mit {0}h3js/h3{/0} möglich, es wird jedoch empfohlen, Legacy-Handler so weit wie möglich zu vermeiden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Legacy-Unterstützung ist mit {0}h3js/h3{/0} möglich, es wird jedoch empfohlen, Legacy-Handler so weit wie möglich zu vermeiden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

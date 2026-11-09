@@ -1,0 +1,14 @@
+{
+  "hash": "da044dcf210df185",
+  "source": "... it's a bit more complicated than that, of course!",
+  "text": "... es ist natürlich etwas komplizierter als das!",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "... es ist natürlich etwas komplizierter als das!"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

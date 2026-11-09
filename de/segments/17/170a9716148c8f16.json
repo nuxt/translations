@@ -1,0 +1,14 @@
+{
+  "hash": "170a9716148c8f16",
+  "source": "Try to upgrade to latest versions:",
+  "text": "Versuche, auf die neuesten Versionen zu aktualisieren:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Versuche, auf die neuesten Versionen zu aktualisieren:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

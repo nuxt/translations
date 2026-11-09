@@ -1,0 +1,14 @@
+{
+  "hash": "d2177f9649b5a87b",
+  "source": "You do not need to {0} {1}. On the server, Nuxt waits for the promise to resolve before rendering in either case, so the returned HTML always contains the data. The {2} affects what happens after the call: with it, execution pauses until {3} is populated, and client-side navigation is blocked until the data is ready; without it, execution continues immediately, {4} starts as its default value until the request resolves, and on client-side navigation you handle the loading and error states yourself using the returned {5} and {6} refs. This has a similar effect to the {7} option, though {8} is the explicit way to opt into non-blocking navigation.",
+  "text": "Du musst {1} nicht mit {0} verwenden. Auf dem Server wartet Nuxt in beiden Fällen, bis das Promise aufgelöst ist, bevor es rendert, sodass das zurückgegebene HTML immer die Daten enthält. Das {2} wirkt sich darauf aus, was nach dem Aufruf passiert: Mit {0} pausiert die Ausführung, bis {3} befüllt ist, und die clientseitige Navigation wird blockiert, bis die Daten bereitstehen. Ohne {0} läuft die Ausführung sofort weiter, {4} hat zunächst seinen Standardwert, bis die Anfrage aufgelöst ist, und bei der clientseitigen Navigation kümmerst du dich selbst um Lade- und Fehlerzustände, indem du die zurückgegebenen Refs {5} und {6} nutzt. Das hat eine ähnliche Wirkung wie die Option {7}, wobei {8} der explizite Weg ist, sich für eine nicht blockierende Navigation zu entscheiden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du musst {1} nicht mit {0} verwenden. Auf dem Server wartet Nuxt in beiden Fällen, bis das Promise aufgelöst ist, bevor es rendert, sodass das zurückgegebene HTML immer die Daten enthält. Das {2} wirkt sich darauf aus, was nach dem Aufruf passiert: Mit {0} pausiert die Ausführung, bis {3} befüllt ist, und die clientseitige Navigation wird blockiert, bis die Daten bereitstehen. Ohne {0} läuft die Ausführung sofort weiter, {4} hat zunächst seinen Standardwert, bis die Anfrage aufgelöst ist, und bei der clientseitigen Navigation kümmerst du dich selbst um Lade- und Fehlerzustände, indem du die zurückgegebenen Refs {5} und {6} nutzt. Das hat eine ähnliche Wirkung wie die Option {7}, wobei {8} der explizite Weg ist, sich für eine nicht blockierende Navigation zu entscheiden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "5fd30a4869061232",
+  "source": "Vue Compatibility",
+  "text": "Vue-Kompatibilität",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vue-Kompatibilität"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

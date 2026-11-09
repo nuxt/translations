@@ -1,0 +1,14 @@
+{
+  "hash": "6277f2cf3aaf6811",
+  "source": "Access the reactive app config defined in the project.",
+  "text": "Greife auf die reaktive App-Konfiguration zu, die im Projekt definiert ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Greife auf die reaktive App-Konfiguration zu, die im Projekt definiert ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

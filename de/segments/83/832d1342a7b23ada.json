@@ -1,0 +1,14 @@
+{
+  "hash": "832d1342a7b23ada",
+  "source": "Registers a runtime hook in a Nuxt application and ensures it is properly disposed of when the scope is destroyed.",
+  "text": "Registriert einen Runtime-Hook in einer Nuxt-Anwendung und stellt sicher, dass er ordnungsgemäß entfernt wird, wenn der Scope zerstört wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Registriert einen Runtime-Hook in einer Nuxt-Anwendung und stellt sicher, dass er ordnungsgemäß entfernt wird, wenn der Scope zerstört wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

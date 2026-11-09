@@ -1,0 +1,14 @@
+{
+  "hash": "900f85dede8ca77e",
+  "source": "To render content pages, add a {0}catch-all route{/0} using the {1} component:",
+  "text": "Um Inhaltsseiten darzustellen, füge mit der Komponente {1} eine {0}Catch-all-Route{/0} hinzu:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um Inhaltsseiten darzustellen, füge mit der Komponente {1} eine {0}Catch-all-Route{/0} hinzu:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

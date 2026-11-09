@@ -1,0 +1,14 @@
+{
+  "hash": "3781c73cc7475785",
+  "source": "You can return streams directly from the event handler.",
+  "text": "Du kannst Streams direkt aus dem Event-Handler zurückgeben.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst Streams direkt aus dem Event-Handler zurückgeben."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

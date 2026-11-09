@@ -1,0 +1,14 @@
+{
+  "hash": "b4e0add8bfea4dc2",
+  "source": "**Check for inconsistent options**: Review any components using the same key with different options or fetch functions.",
+  "text": "**Auf inkonsistente Optionen prüfen**: Überprüfe alle Komponenten, die denselben Schlüssel mit unterschiedlichen Optionen oder Abruffunktionen verwenden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Auf inkonsistente Optionen prüfen**: Überprüfe alle Komponenten, die denselben Schlüssel mit unterschiedlichen Optionen oder Abruffunktionen verwenden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

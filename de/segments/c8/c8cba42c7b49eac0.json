@@ -1,0 +1,14 @@
+{
+  "hash": "c8cba42c7b49eac0",
+  "source": "Templates allow you to generate extra files during development and build time. These files will be available in virtual filesystem and can be used in plugins, layouts, components, etc. {0} and {1} allow you to add templates to the Nuxt application. {2} allows you to regenerate templates that match the filter.",
+  "text": "Mit Vorlagen kannst du während der Entwicklung und zur Build-Zeit zusätzliche Dateien generieren. Diese Dateien stehen im virtuellen Dateisystem zur Verfügung und können in plugins, layouts, Komponenten usw. verwendet werden. Mit {0} und {1} fügst du der Nuxt-Anwendung Vorlagen hinzu. Mit {2} kannst du Vorlagen neu generieren, die dem Filter entsprechen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit Vorlagen kannst du während der Entwicklung und zur Build-Zeit zusätzliche Dateien generieren. Diese Dateien stehen im virtuellen Dateisystem zur Verfügung und können in plugins, layouts, Komponenten usw. verwendet werden. Mit {0} und {1} fügst du der Nuxt-Anwendung Vorlagen hinzu. Mit {2} kannst du Vorlagen neu generieren, die dem Filter entsprechen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

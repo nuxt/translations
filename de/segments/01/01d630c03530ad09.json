@@ -1,0 +1,14 @@
+{
+  "hash": "01d630c03530ad09",
+  "source": "**Nuxt tests**: Place tests that rely on the Nuxt runtime environment in {0} - these will run within a Nuxt runtime environment",
+  "text": "**Nuxt-Tests**: Lege Tests, die auf die Nuxt-Laufzeitumgebung angewiesen sind, in {0} ab – diese laufen innerhalb einer Nuxt-Laufzeitumgebung",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Nuxt-Tests**: Lege Tests, die auf die Nuxt-Laufzeitumgebung angewiesen sind, in {0} ab – diese laufen innerhalb einer Nuxt-Laufzeitumgebung"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

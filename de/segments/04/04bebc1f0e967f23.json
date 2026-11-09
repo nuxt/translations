@@ -1,0 +1,14 @@
+{
+  "hash": "04bebc1f0e967f23",
+  "source": "Accessing Nuxt Vite Config",
+  "text": "Zugriff auf die Nuxt-Vite-Konfiguration",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Zugriff auf die Nuxt-Vite-Konfiguration"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

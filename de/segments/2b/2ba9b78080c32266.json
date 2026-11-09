@@ -1,0 +1,14 @@
+{
+  "hash": "2ba9b78080c32266",
+  "source": "Serializing Data From Server to Client",
+  "text": "Daten vom Server zum Client serialisieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Daten vom Server zum Client serialisieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

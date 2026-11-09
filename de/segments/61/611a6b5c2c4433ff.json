@@ -1,0 +1,14 @@
+{
+  "hash": "611a6b5c2c4433ff",
+  "source": "do something",
+  "text": "etwas tun",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "etwas tun"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

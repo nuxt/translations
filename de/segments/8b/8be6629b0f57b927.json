@@ -1,0 +1,14 @@
+{
+  "hash": "8be6629b0f57b927",
+  "source": "Read the body from a file, or from stdin with {0}",
+  "text": "Den Body aus einer Datei lesen oder mit {0} aus stdin",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Den Body aus einer Datei lesen oder mit {0} aus stdin"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

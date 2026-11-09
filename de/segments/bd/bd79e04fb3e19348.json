@@ -1,0 +1,14 @@
+{
+  "hash": "bd79e04fb3e19348",
+  "source": "Code that relies on the app manifest ran while {0} is disabled. The manifest powers features such as route rules matching and prerendered-payload detection on the client, so it must be enabled for them to work.",
+  "text": "Es wurde Code ausgeführt, der auf dem App-Manifest basiert, während {0} deaktiviert ist. Das Manifest ermöglicht Funktionen wie den Abgleich von Route-Rules und die Erkennung vorab gerenderter Payloads auf dem Client, daher muss es aktiviert sein, damit diese funktionieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Es wurde Code ausgeführt, der auf dem App-Manifest basiert, während {0} deaktiviert ist. Das Manifest ermöglicht Funktionen wie den Abgleich von Route-Rules und die Erkennung vorab gerenderter Payloads auf dem Client, daher muss es aktiviert sein, damit diese funktionieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

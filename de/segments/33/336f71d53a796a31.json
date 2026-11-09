@@ -1,0 +1,14 @@
+{
+  "hash": "336f71d53a796a31",
+  "source": "The recommended approach for Nuxt is to enable ESLint support using the {0} module, that will setup project-aware ESLint configuration for you.",
+  "text": "Für Nuxt empfehlen wir, die ESLint-Unterstützung mit dem Modul {0} zu aktivieren. Es richtet eine projektbezogene ESLint-Konfiguration für dich ein.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Für Nuxt empfehlen wir, die ESLint-Unterstützung mit dem Modul {0} zu aktivieren. Es richtet eine projektbezogene ESLint-Konfiguration für dich ein."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

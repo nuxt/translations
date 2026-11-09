@@ -1,0 +1,14 @@
+{
+  "hash": "02afb4d2bfa1ad53",
+  "source": "Add Runtime Code",
+  "text": "Runtime-Code hinzufügen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Runtime-Code hinzufügen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

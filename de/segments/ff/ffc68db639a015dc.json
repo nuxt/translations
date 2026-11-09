@@ -1,0 +1,14 @@
+{
+  "hash": "ffc68db639a015dc",
+  "source": "Where you relied on h3-specific options ({0}, {1}, {2}), either import {3} from {4} or move to the {5} equivalents: {6}, {7} and {8}.",
+  "text": "Wenn du dich auf h3-spezifische Optionen ({0}, {1}, {2}) verlassen hast, importiere entweder {3} aus {4} oder wechsle zu den entsprechenden {5}-Äquivalenten: {6}, {7} und {8}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du dich auf h3-spezifische Optionen ({0}, {1}, {2}) verlassen hast, importiere entweder {3} aus {4} oder wechsle zu den entsprechenden {5}-Äquivalenten: {6}, {7} und {8}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

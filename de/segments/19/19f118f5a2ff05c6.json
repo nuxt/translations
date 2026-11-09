@@ -1,0 +1,14 @@
+{
+  "hash": "19f118f5a2ff05c6",
+  "source": "The <NuxtAnnouncer> component adds a hidden element to announce dynamic content changes to assistive technologies.",
+  "text": "Die Komponente <NuxtAnnouncer> fügt ein verborgenes Element hinzu, um Änderungen an dynamischen Inhalten für assistive Technologien anzukündigen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Komponente <NuxtAnnouncer> fügt ein verborgenes Element hinzu, um Änderungen an dynamischen Inhalten für assistive Technologien anzukündigen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

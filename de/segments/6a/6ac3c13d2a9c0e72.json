@@ -1,0 +1,14 @@
+{
+  "hash": "6ac3c13d2a9c0e72",
+  "source": "Allows extending the routes to be pre-rendered.",
+  "text": "Erlaubt das Erweitern der Routen, die vorab gerendert werden sollen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erlaubt das Erweitern der Routen, die vorab gerendert werden sollen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

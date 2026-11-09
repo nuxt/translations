@@ -1,0 +1,14 @@
+{
+  "hash": "6af1bfead65fb38d",
+  "source": "{0} Is Now Optional (Remote Layers)",
+  "text": "{0} ist jetzt optional (Remote-Layer)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ist jetzt optional (Remote-Layer)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "2732f6688a273185",
+  "source": "You can also force a v3 folder structure with the following configuration:",
+  "text": "Du kannst auch mit der folgenden Konfiguration eine Verzeichnisstruktur wie in v3 erzwingen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst auch mit der folgenden Konfiguration eine Verzeichnisstruktur wie in v3 erzwingen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

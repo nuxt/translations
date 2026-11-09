@@ -1,0 +1,14 @@
+{
+  "hash": "9262363ac01096c1",
+  "source": "This respects the layer priority system",
+  "text": "Dadurch wird das Prioritätssystem der Layer berücksichtigt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dadurch wird das Prioritätssystem der Layer berücksichtigt"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

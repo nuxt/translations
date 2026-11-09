@@ -1,0 +1,14 @@
+{
+  "hash": "391cd9e4c0ec5f8e",
+  "source": "CSS Modules",
+  "text": "CSS-Module",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "CSS-Module"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

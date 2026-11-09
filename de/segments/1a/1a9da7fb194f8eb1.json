@@ -1,0 +1,14 @@
+{
+  "hash": "1a9da7fb194f8eb1",
+  "source": "Access Runtime Config",
+  "text": "Auf die Laufzeitkonfiguration zugreifen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auf die Laufzeitkonfiguration zugreifen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

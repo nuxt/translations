@@ -1,0 +1,14 @@
+{
+  "hash": "3460f5e7ed923353",
+  "source": "Find out how Nuxt Fonts works behind the scenes to optimize fonts in your project.",
+  "text": "Erfahre, wie Nuxt Fonts im Hintergrund funktioniert, um Schriftarten in deinem Projekt zu optimieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erfahre, wie Nuxt Fonts im Hintergrund funktioniert, um Schriftarten in deinem Projekt zu optimieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

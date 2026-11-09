@@ -1,0 +1,14 @@
+{
+  "hash": "8cbd1040bbd2a38b",
+  "source": "Avoid copy-pasting AI-generated summaries that don't reflect your own understanding",
+  "text": "Vermeide es, von der KI erzeugte Zusammenfassungen per Copy-and-paste einzufügen, die dein eigenes Verständnis nicht widerspiegeln",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vermeide es, von der KI erzeugte Zusammenfassungen per Copy-and-paste einzufügen, die dein eigenes Verständnis nicht widerspiegeln"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

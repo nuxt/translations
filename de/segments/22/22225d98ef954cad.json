@@ -1,0 +1,14 @@
+{
+  "hash": "22225d98ef954cad",
+  "source": "Access runtime config variables with the useRuntimeConfig composable.",
+  "text": "Greife mit dem Composable useRuntimeConfig auf Variablen der Laufzeitkonfiguration zu.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Greife mit dem Composable useRuntimeConfig auf Variablen der Laufzeitkonfiguration zu."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

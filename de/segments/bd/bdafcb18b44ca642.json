@@ -1,0 +1,14 @@
+{
+  "hash": "bdafcb18b44ca642",
+  "source": "Reserved runtimeConfig.app namespace",
+  "text": "Reservierter Namespace runtimeConfig.app",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Reservierter Namespace runtimeConfig.app"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

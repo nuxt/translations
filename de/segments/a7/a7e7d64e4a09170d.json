@@ -1,0 +1,14 @@
+{
+  "hash": "a7e7d64e4a09170d",
+  "source": "Dynamically pass in credentials from runtime configuration, or other sources",
+  "text": "Zugangsdaten dynamisch aus der Laufzeitkonfiguration oder anderen Quellen übergeben",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Zugangsdaten dynamisch aus der Laufzeitkonfiguration oder anderen Quellen übergeben"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

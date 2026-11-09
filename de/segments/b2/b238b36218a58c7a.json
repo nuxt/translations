@@ -1,0 +1,14 @@
+{
+  "hash": "b238b36218a58c7a",
+  "source": "One-time setup: create database schema, generate config files, etc.",
+  "text": "Einmaliges Setup: Datenbankschema erstellen, Konfigurationsdateien erzeugen usw.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Einmaliges Setup: Datenbankschema erstellen, Konfigurationsdateien erzeugen usw."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

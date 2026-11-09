@@ -1,0 +1,14 @@
+{
+  "hash": "f37e7bf1ed8100f6",
+  "source": "make sure the user is logged in",
+  "text": "sicherstellen, dass die nutzende Person angemeldet ist",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "sicherstellen, dass die nutzende Person angemeldet ist"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "eb55b718314ce409",
+  "source": "To keep scanning subdirectories while you migrate, enable {0}.",
+  "text": "Um beim Migrieren weiterhin Unterverzeichnisse zu durchsuchen, aktiviere {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um beim Migrieren weiterhin Unterverzeichnisse zu durchsuchen, aktiviere {0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

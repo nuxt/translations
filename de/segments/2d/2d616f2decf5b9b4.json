@@ -1,0 +1,14 @@
+{
+  "hash": "2d616f2decf5b9b4",
+  "source": "To get started you can initialize a layer with the {0}nuxt/starter/layer template{/0}. This will create a basic structure you can build upon. Execute this command within the terminal to get started:",
+  "text": "Für den Einstieg kannst du einen Layer mit der {0}Vorlage nuxt/starter/layer{/0} initialisieren. Sie erstellt eine grundlegende Struktur, auf der du aufbauen kannst. Führe dazu diesen Befehl im Terminal aus:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Für den Einstieg kannst du einen Layer mit der {0}Vorlage nuxt/starter/layer{/0} initialisieren. Sie erstellt eine grundlegende Struktur, auf der du aufbauen kannst. Führe dazu diesen Befehl im Terminal aus:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

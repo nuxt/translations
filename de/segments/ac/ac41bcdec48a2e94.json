@@ -1,0 +1,14 @@
+{
+  "hash": "ac41bcdec48a2e94",
+  "source": "{0} is only required if you wish to use the built-in browser testing utilities (and are not using {1} as your test runner)",
+  "text": "{0} ist nur erforderlich, wenn du die integrierten Hilfsprogramme für Browser-Tests nutzen möchtest (und {1} nicht als Test-Runner verwendest)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ist nur erforderlich, wenn du die integrierten Hilfsprogramme für Browser-Tests nutzen möchtest (und {1} nicht als Test-Runner verwendest)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

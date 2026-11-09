@@ -1,0 +1,14 @@
+{
+  "hash": "2c47522ccbb7d1ea",
+  "source": "Make the change directly in the GitHub interface and open a Pull Request.",
+  "text": "Nimm die Änderung direkt in der GitHub-Oberfläche vor und öffne einen Pull Request.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nimm die Änderung direkt in der GitHub-Oberfläche vor und öffne einen Pull Request."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

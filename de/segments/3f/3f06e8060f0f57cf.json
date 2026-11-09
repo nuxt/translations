@@ -1,0 +1,14 @@
+{
+  "hash": "3f06e8060f0f57cf",
+  "source": "With Nuxt Kit you can also add your own auto-imports. {0} and {1} allow you to add imports to the Nuxt application. {2} allows you to add listed imports from 3rd party packages to the Nuxt application.",
+  "text": "Mit Nuxt Kit kannst du auch eigene automatische Importe hinzufügen. {0} und {1} ermöglichen es dir, der Nuxt-Anwendung Importe hinzuzufügen. {2} ermöglicht es, aufgelistete Importe aus Drittanbieter-Paketen zur Nuxt-Anwendung hinzuzufügen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit Nuxt Kit kannst du auch eigene automatische Importe hinzufügen. {0} und {1} ermöglichen es dir, der Nuxt-Anwendung Importe hinzuzufügen. {2} ermöglicht es, aufgelistete Importe aus Drittanbieter-Paketen zur Nuxt-Anwendung hinzuzufügen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "236cd23f4dccd861",
+  "source": "Nuxt projects rely on auto-generated types to work properly. These types are stored in the {0} directory and are generated when you run the dev server or build your application. You can also generate these files manually by running {1}.",
+  "text": "Nuxt-Projekte benötigen automatisch generierte Typen, um korrekt zu funktionieren. Diese Typen werden im Verzeichnis {0} gespeichert und erzeugt, wenn du den Entwicklungsserver startest oder deine Anwendung erzeugst. Du kannst diese Dateien auch manuell generieren, indem du {1} ausführst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt-Projekte benötigen automatisch generierte Typen, um korrekt zu funktionieren. Diese Typen werden im Verzeichnis {0} gespeichert und erzeugt, wenn du den Entwicklungsserver startest oder deine Anwendung erzeugst. Du kannst diese Dateien auch manuell generieren, indem du {1} ausführst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

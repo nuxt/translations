@@ -1,0 +1,14 @@
+{
+  "hash": "2815af2895be4d0f",
+  "source": "In this case, we need to manually interop the default export:",
+  "text": "In diesem Fall musst du den Default-Export manuell per Interop auflösen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In diesem Fall musst du den Default-Export manuell per Interop auflösen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

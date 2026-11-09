@@ -1,0 +1,14 @@
+{
+  "hash": "ae8199ca85b13707",
+  "source": "**{0}** maps a module specifier to the code that must be behind it. Loop over it and register each one. Because you never write the specifiers yourself, Nuxt can add, remove, or rename modules and your builder will keep working.",
+  "text": "**{0}** ordnet einem Modul-Specifier den Code zu, der dahinterliegen muss. Gehe es in einer Schleife durch und registriere jeden Eintrag. Da du die Specifier nie selbst schreibst, kann Nuxt Module hinzufügen, entfernen oder umbenennen, und dein Builder funktioniert weiterhin.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** ordnet einem Modul-Specifier den Code zu, der dahinterliegen muss. Gehe es in einer Schleife durch und registriere jeden Eintrag. Da du die Specifier nie selbst schreibst, kann Nuxt Module hinzufügen, entfernen oder umbenennen, und dein Builder funktioniert weiterhin."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

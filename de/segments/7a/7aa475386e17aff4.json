@@ -1,0 +1,14 @@
+{
+  "hash": "7aa475386e17aff4",
+  "source": "Whether to enable HTTPS.",
+  "text": "Gibt an, ob HTTPS aktiviert werden soll.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gibt an, ob HTTPS aktiviert werden soll."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

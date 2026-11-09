@@ -1,0 +1,14 @@
+{
+  "hash": "4feb03b76ecafbba",
+  "source": "Runs in the browser, right before Nuxt hydrates",
+  "text": "Läuft im Browser, unmittelbar bevor Nuxt hydratisiert",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Läuft im Browser, unmittelbar bevor Nuxt hydratisiert"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

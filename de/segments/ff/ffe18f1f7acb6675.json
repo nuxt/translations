@@ -1,0 +1,14 @@
+{
+  "hash": "ffe18f1f7acb6675",
+  "source": "{0}: the base {1} (default {2}).",
+  "text": "{0}: die Basis-{1} (Standard: {2}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: die Basis-{1} (Standard: {2})."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

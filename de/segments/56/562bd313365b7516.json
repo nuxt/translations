@@ -1,0 +1,14 @@
+{
+  "hash": "562bd313365b7516",
+  "source": "Leave {0} unset if your output can't be imported as a module. {1} leaves it unset, because what a Nitro build exports depends on the preset it built for.",
+  "text": "Lass {0} ungesetzt, wenn sich deine Ausgabe nicht als Modul importieren lässt. {1} lässt es ungesetzt, weil das, was ein Nitro-Build exportiert, vom Preset abhängt, für das er erzeugt wurde.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lass {0} ungesetzt, wenn sich deine Ausgabe nicht als Modul importieren lässt. {1} lässt es ungesetzt, weil das, was ein Nitro-Build exportiert, vom Preset abhängt, für das er erzeugt wurde."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

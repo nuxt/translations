@@ -1,0 +1,14 @@
+{
+  "hash": "be67f4218136ff8f",
+  "source": "to the data fetched, but Nuxt can't know that because it's not reflected in the key.",
+  "text": "die abgerufenen Daten macht, Nuxt das aber nicht wissen kann, da es sich nicht im Schlüssel widerspiegelt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "die abgerufenen Daten macht, Nuxt das aber nicht wissen kann, da es sich nicht im Schlüssel widerspiegelt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

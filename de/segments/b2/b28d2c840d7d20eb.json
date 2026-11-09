@@ -1,0 +1,14 @@
+{
+  "hash": "b28d2c840d7d20eb",
+  "source": "If you have access to the {0} instance, it is recommended to use its {1} or {2} method as the preferred way to refetch the data.",
+  "text": "Wenn du Zugriff auf die {0}-Instanz hast, solltest du bevorzugt deren Methode {1} oder {2} verwenden, um die Daten neu zu laden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du Zugriff auf die {0}-Instanz hast, solltest du bevorzugt deren Methode {1} oder {2} verwenden, um die Daten neu zu laden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "0594ad0ee2b349d5",
+  "source": "Customize the scroll behavior for hash links.",
+  "text": "Passt das Scrollverhalten für Hash-Links an.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Passt das Scrollverhalten für Hash-Links an."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

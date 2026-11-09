@@ -1,0 +1,14 @@
+{
+  "hash": "4abf09ee18fcac5e",
+  "source": "Latest release",
+  "text": "Neuestes Release",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Neuestes Release"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

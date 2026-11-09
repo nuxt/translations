@@ -1,0 +1,14 @@
+{
+  "hash": "cb7721f2607d386d",
+  "source": "We have prepared a {0}Dedicated Guide{/0} for authoring Nuxt 3 ready modules using {1}. Currently best migration path is to follow it and rewrite your modules. Rest of this guide includes preparation steps if you prefer to avoid a full rewrite yet making modules compatible with Nuxt 3.",
+  "text": "Wir haben eine {0}eigene Anleitung{/0} für die Entwicklung von Modulen für Nuxt 3 mit {1} vorbereitet. Der beste Migrationsweg ist derzeit, ihr zu folgen und deine Module neu zu schreiben. Der Rest dieser Anleitung enthält Vorbereitungsschritte für den Fall, dass du eine vollständige Neuentwicklung vermeiden und die Module dennoch mit Nuxt 3 kompatibel machen möchtest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wir haben eine {0}eigene Anleitung{/0} für die Entwicklung von Modulen für Nuxt 3 mit {1} vorbereitet. Der beste Migrationsweg ist derzeit, ihr zu folgen und deine Module neu zu schreiben. Der Rest dieser Anleitung enthält Vorbereitungsschritte für den Fall, dass du eine vollständige Neuentwicklung vermeiden und die Module dennoch mit Nuxt 3 kompatibel machen möchtest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "2516fab8e83ab7ae",
+  "source": "You can inspect all events using the **Nuxt DevTools** Hooks panel.",
+  "text": "Du kannst alle Events im Hooks-Panel der **Nuxt DevTools** untersuchen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst alle Events im Hooks-Panel der **Nuxt DevTools** untersuchen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e26f4d5e7bcef6e0",
+  "source": "Nuxt Scripts releases.",
+  "text": "Releases von Nuxt Scripts.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Releases von Nuxt Scripts."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

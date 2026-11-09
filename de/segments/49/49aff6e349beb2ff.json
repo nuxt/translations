@@ -1,0 +1,14 @@
+{
+  "hash": "49aff6e349beb2ff",
+  "source": "And if it reads files Nuxt doesn't know about, say a set of YAML files you scan yourself, pass a function instead:",
+  "text": "Und wenn sie Dateien liest, die Nuxt nicht kennt, zum Beispiel eine Reihe von YAML-Dateien, die du selbst einliest, übergib stattdessen eine Funktion:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Und wenn sie Dateien liest, die Nuxt nicht kennt, zum Beispiel eine Reihe von YAML-Dateien, die du selbst einliest, übergib stattdessen eine Funktion:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

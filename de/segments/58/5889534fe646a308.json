@@ -1,0 +1,14 @@
+{
+  "hash": "5889534fe646a308",
+  "source": "You can use {0} to fix most of the style changes.{1}If there are still errors left, you must correct them manually.",
+  "text": "Du kannst {0} verwenden, um die meisten Style-Änderungen zu beheben.{1}Wenn danach noch Fehler übrig sind, musst du sie manuell korrigieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst {0} verwenden, um die meisten Style-Änderungen zu beheben.{1}Wenn danach noch Fehler übrig sind, musst du sie manuell korrigieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

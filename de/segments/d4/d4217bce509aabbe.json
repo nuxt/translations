@@ -1,0 +1,14 @@
+{
+  "hash": "d4217bce509aabbe",
+  "source": "Import as this name.",
+  "text": "Import unter diesem Namen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Import unter diesem Namen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

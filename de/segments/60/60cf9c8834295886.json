@@ -1,0 +1,14 @@
+{
+  "hash": "60cf9c8834295886",
+  "source": "Commands that reach the network (installing a module, searching modules, downloading a template, checking for updates) report why a request failed rather than the raw error, and suggest the retry that is likely to work. Behind a proxy that re-signs TLS traffic that means {0}, pointing at your organisation's root certificate.",
+  "text": "Befehle, die das Netzwerk nutzen (ein Modul installieren, Module suchen, eine Vorlage herunterladen, nach Updates suchen), melden, warum eine Anfrage fehlgeschlagen ist, statt den rohen Fehler auszugeben, und schlagen den Wiederholungsversuch vor, der wahrscheinlich funktioniert. Hinter einem Proxy, der TLS-Verkehr neu signiert, bedeutet das {0} mit Verweis auf das Stammzertifikat deiner Organisation.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Befehle, die das Netzwerk nutzen (ein Modul installieren, Module suchen, eine Vorlage herunterladen, nach Updates suchen), melden, warum eine Anfrage fehlgeschlagen ist, statt den rohen Fehler auszugeben, und schlagen den Wiederholungsversuch vor, der wahrscheinlich funktioniert. Hinter einem Proxy, der TLS-Verkehr neu signiert, bedeutet das {0} mit Verweis auf das Stammzertifikat deiner Organisation."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

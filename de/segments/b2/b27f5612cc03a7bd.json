@@ -1,0 +1,14 @@
+{
+  "hash": "b27f5612cc03a7bd",
+  "source": "{0} is the {1} command: it runs the dev server, builds your application for production, scaffolds files, manages modules and answers questions about your project. It is a dependency of {2}, so a Nuxt project already has it.",
+  "text": "{0} ist der {1}-Befehl: Er startet den Entwicklungsserver, erzeugt deine Anwendung für die Produktion, legt Dateien als Gerüst an, verwaltet Module und beantwortet Fragen zu deinem Projekt. Er ist eine Abhängigkeit von {2}, daher ist er in einem Nuxt-Projekt bereits vorhanden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ist der {1}-Befehl: Er startet den Entwicklungsserver, erzeugt deine Anwendung für die Produktion, legt Dateien als Gerüst an, verwaltet Module und beantwortet Fragen zu deinem Projekt. Er ist eine Abhängigkeit von {2}, daher ist er in einem Nuxt-Projekt bereits vorhanden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

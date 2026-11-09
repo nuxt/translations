@@ -1,0 +1,14 @@
+{
+  "hash": "ae57e7ec34e6a1fa",
+  "source": "Title Template",
+  "text": "Titelvorlage",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Titelvorlage"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

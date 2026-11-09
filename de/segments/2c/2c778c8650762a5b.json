@@ -1,0 +1,14 @@
+{
+  "hash": "2c778c8650762a5b",
+  "source": "It existed because the error was previously passed to the error page as individual query parameters, which stringified {0} and meant it had to be parsed back. Setting it to {1} opted out of that parsing and left you with the string.",
+  "text": "Die Option gab es, weil der Fehler früher als einzelne Query-Parameter an die Fehlerseite übergeben wurde. Dabei wurde {0} in einen String umgewandelt und musste wieder zurückgeparst werden. Wenn du die Option auf {1} gesetzt hast, wurde dieses Parsen übersprungen, und du hast den String erhalten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Option gab es, weil der Fehler früher als einzelne Query-Parameter an die Fehlerseite übergeben wurde. Dabei wurde {0} in einen String umgewandelt und musste wieder zurückgeparst werden. Wenn du die Option auf {1} gesetzt hast, wurde dieses Parsen übersprungen, und du hast den String erhalten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "d313c0309775b7c3",
+  "source": "If you return your helpers from the plugin, they will be typed automatically; you'll find them typed for the return of {0} and within your templates.",
+  "text": "Wenn du deine Hilfsprogramme aus dem Plugin zurückgibst, werden sie automatisch typisiert. Du findest sie typisiert im Rückgabewert von {0} und in deinen Vorlagen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du deine Hilfsprogramme aus dem Plugin zurückgibst, werden sie automatisch typisiert. Du findest sie typisiert im Rückgabewert von {0} und in deinen Vorlagen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

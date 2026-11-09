@@ -1,0 +1,14 @@
+{
+  "hash": "04b5fdf3597cbc6a",
+  "source": "{0} has been removed. There is no current replacement. Feel free to raise a discussion if you have a use case for this.",
+  "text": "{0} wurde entfernt. Es gibt derzeit keinen Ersatz. Eröffne gern eine Diskussion, wenn du dafür einen Anwendungsfall hast.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} wurde entfernt. Es gibt derzeit keinen Ersatz. Eröffne gern eine Diskussion, wenn du dafür einen Anwendungsfall hast."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "1237525183e3f66b",
+  "source": "Start GitHub Copilot CLI in interactive mode.",
+  "text": "Starte die GitHub Copilot CLI im interaktiven Modus.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Starte die GitHub Copilot CLI im interaktiven Modus."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

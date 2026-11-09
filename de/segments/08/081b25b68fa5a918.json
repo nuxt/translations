@@ -1,0 +1,14 @@
+{
+  "hash": "081b25b68fa5a918",
+  "source": "{0} to stop the CLI checking for newer Nuxt releases",
+  "text": "{0}, damit die Kommandozeilenschnittstelle nicht nach neueren Nuxt-Releases sucht",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}, damit die Kommandozeilenschnittstelle nicht nach neueren Nuxt-Releases sucht"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

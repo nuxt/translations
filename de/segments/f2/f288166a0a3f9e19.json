@@ -1,0 +1,14 @@
+{
+  "hash": "f288166a0a3f9e19",
+  "source": "Every path is a function, because a builder may only resolve it while initialising, so call them from a hook that runs after the server builder has run.",
+  "text": "Jeder Pfad ist eine Funktion, weil ein Builder ihn möglicherweise erst bei der Initialisierung auflösen kann. Rufe sie daher aus einem Hook auf, der nach dem Lauf des Server-Builders ausgeführt wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Jeder Pfad ist eine Funktion, weil ein Builder ihn möglicherweise erst bei der Initialisierung auflösen kann. Rufe sie daher aus einem Hook auf, der nach dem Lauf des Server-Builders ausgeführt wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

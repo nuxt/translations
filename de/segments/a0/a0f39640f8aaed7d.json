@@ -1,0 +1,14 @@
+{
+  "hash": "a0f39640f8aaed7d",
+  "source": "\"List all available Nuxt documentation pages\"",
+  "text": "„Liste alle verfügbaren Seiten der Nuxt-Dokumentation auf“",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "„Liste alle verfügbaren Seiten der Nuxt-Dokumentation auf“"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

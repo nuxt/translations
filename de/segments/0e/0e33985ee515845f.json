@@ -1,0 +1,14 @@
+{
+  "hash": "0e33985ee515845f",
+  "source": "Medium priority",
+  "text": "Mittlere Priorität",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mittlere Priorität"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

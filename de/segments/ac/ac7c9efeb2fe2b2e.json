@@ -1,0 +1,14 @@
+{
+  "hash": "ac7c9efeb2fe2b2e",
+  "source": "This will throw a 401 error if the request doesn't come from a valid user session",
+  "text": "Dies löst einen 401-Fehler aus, wenn die Anfrage nicht von einer gültigen Nutzersitzung stammt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dies löst einen 401-Fehler aus, wenn die Anfrage nicht von einer gültigen Nutzersitzung stammt"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

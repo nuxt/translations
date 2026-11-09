@@ -1,0 +1,14 @@
+{
+  "hash": "dab52658eac8c069",
+  "source": "This includes:",
+  "text": "Dazu gehören:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dazu gehören:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

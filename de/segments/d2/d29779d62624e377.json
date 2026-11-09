@@ -1,0 +1,14 @@
+{
+  "hash": "d29779d62624e377",
+  "source": "{0} allows you to dynamically change the layout of a page. It relies on access to the Nuxt context and therefore can only be called within the {1}Nuxt context{/1}.",
+  "text": "{0} ermöglicht dir, das Layout einer Seite dynamisch zu ändern. Die Funktion benötigt Zugriff auf den Nuxt-Kontext und kann daher nur innerhalb des {1}Nuxt-Kontexts{/1} aufgerufen werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ermöglicht dir, das Layout einer Seite dynamisch zu ändern. Die Funktion benötigt Zugriff auf den Nuxt-Kontext und kann daher nur innerhalb des {1}Nuxt-Kontexts{/1} aufgerufen werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

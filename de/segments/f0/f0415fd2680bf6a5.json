@@ -1,0 +1,14 @@
+{
+  "hash": "f0415fd2680bf6a5",
+  "source": "Fetch a route of the app in-process, with the path relative to {0} and the {1} and {2} headers forwarded unless {3} is set. It rejects on a server builder without an in-process fetch.",
+  "text": "Ruft eine Route der App im selben Prozess ab, wobei der Pfad relativ zu {0} angegeben wird und die Header {1} und {2} weitergeleitet werden, sofern {3} nicht gesetzt ist. Bei einem Server-Builder ohne prozessinternen Abruf wird die Anfrage abgelehnt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ruft eine Route der App im selben Prozess ab, wobei der Pfad relativ zu {0} angegeben wird und die Header {1} und {2} weitergeleitet werden, sofern {3} nicht gesetzt ist. Bei einem Server-Builder ohne prozessinternen Abruf wird die Anfrage abgelehnt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

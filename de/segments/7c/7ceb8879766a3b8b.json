@@ -1,0 +1,14 @@
+{
+  "hash": "7ceb8879766a3b8b",
+  "source": "If set to {0}, the directory will be prepended to the array with {1} instead of {2}.",
+  "text": "Wenn auf {0} gesetzt, wird das Verzeichnis mit {1} statt mit {2} an den Anfang des Arrays gestellt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn auf {0} gesetzt, wird das Verzeichnis mit {1} statt mit {2} an den Anfang des Arrays gestellt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "ab2902366b5a6302",
+  "source": "It is possible to display {0}nested routes{/0} with {1}.",
+  "text": "Mit {1} lassen sich {0}verschachtelte Routen{/0} anzeigen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit {1} lassen sich {0}verschachtelte Routen{/0} anzeigen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

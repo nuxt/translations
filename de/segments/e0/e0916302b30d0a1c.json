@@ -1,0 +1,14 @@
+{
+  "hash": "e0916302b30d0a1c",
+  "source": "Migrating from {0}",
+  "text": "Migration von {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Migration von {0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

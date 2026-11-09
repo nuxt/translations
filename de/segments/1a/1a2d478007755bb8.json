@@ -1,0 +1,14 @@
+{
+  "hash": "1a2d478007755bb8",
+  "source": "Name of the analysis",
+  "text": "Name der Analyse",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Name der Analyse"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

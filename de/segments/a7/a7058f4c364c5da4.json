@@ -1,0 +1,14 @@
+{
+  "hash": "a7058f4c364c5da4",
+  "source": "To use this feature, you need to:",
+  "text": "Um dieses Feature zu nutzen, musst du:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um dieses Feature zu nutzen, musst du:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

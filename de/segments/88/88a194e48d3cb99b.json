@@ -1,0 +1,14 @@
+{
+  "hash": "88a194e48d3cb99b",
+  "source": "Trying to load everything at the same time",
+  "text": "Versuch, alles gleichzeitig zu laden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Versuch, alles gleichzeitig zu laden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

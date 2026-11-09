@@ -1,0 +1,14 @@
+{
+  "hash": "77f84f46097767cc",
+  "source": "Nuxt's data fetching system ({0} and {1}) has been significantly reorganized for better performance and consistency:",
+  "text": "Das Datenabrufsystem von Nuxt ({0} und {1}) wurde für bessere Performance und Konsistenz deutlich umstrukturiert:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Datenabrufsystem von Nuxt ({0} und {1}) wurde für bessere Performance und Konsistenz deutlich umstrukturiert:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

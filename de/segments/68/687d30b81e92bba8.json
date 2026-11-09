@@ -1,0 +1,14 @@
+{
+  "hash": "687d30b81e92bba8",
+  "source": "Start with the Nuxt sandbox and add the **minimum** amount of code necessary to reproduce the bug you're experiencing.",
+  "text": "Beginne mit der Nuxt-Sandbox und füge nur das **Minimum** an Code hinzu, das nötig ist, um den aufgetretenen Fehler zu reproduzieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Beginne mit der Nuxt-Sandbox und füge nur das **Minimum** an Code hinzu, das nötig ist, um den aufgetretenen Fehler zu reproduzieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

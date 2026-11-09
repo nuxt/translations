@@ -1,0 +1,14 @@
+{
+  "hash": "f9e7a844673acc59",
+  "source": "A new 'island context' will be created while rendering the component.",
+  "text": "Beim Rendern der Komponente wird ein neuer „Island-Kontext“ erstellt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Beim Rendern der Komponente wird ein neuer „Island-Kontext“ erstellt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

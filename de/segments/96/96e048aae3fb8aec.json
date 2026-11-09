@@ -1,0 +1,14 @@
+{
+  "hash": "96e048aae3fb8aec",
+  "source": "It stays visible until the first page is ready to render, including asynchronous setup in the page, and is then removed. This avoids a white flash between the loading screen and your page. The wrapper element can be customized with {0} and {1}; keep an {2}, as Nuxt uses it to remove the element.",
+  "text": "Sie bleibt sichtbar, bis die erste Seite bereit zum Rendern ist, einschließlich eines asynchronen Setups in der Seite, und wird dann entfernt. Dadurch wird ein weißes Aufblitzen zwischen dem Ladebildschirm und deiner Seite vermieden. Das umgebende Element lässt sich mit {0} und {1} anpassen. Behalte dabei ein {2} bei, da Nuxt es verwendet, um das Element zu entfernen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sie bleibt sichtbar, bis die erste Seite bereit zum Rendern ist, einschließlich eines asynchronen Setups in der Seite, und wird dann entfernt. Dadurch wird ein weißes Aufblitzen zwischen dem Ladebildschirm und deiner Seite vermieden. Das umgebende Element lässt sich mit {0} und {1} anpassen. Behalte dabei ein {2} bei, da Nuxt es verwendet, um das Element zu entfernen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

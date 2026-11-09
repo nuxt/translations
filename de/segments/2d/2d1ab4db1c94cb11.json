@@ -1,0 +1,14 @@
+{
+  "hash": "2d1ab4db1c94cb11",
+  "source": "This option allows passing additional keys to extract from the page metadata when using {0}.",
+  "text": "Mit dieser Option kannst du zusätzliche Schlüssel übergeben, die bei der Verwendung von {0} aus den Seitenmetadaten extrahiert werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit dieser Option kannst du zusätzliche Schlüssel übergeben, die bei der Verwendung von {0} aus den Seitenmetadaten extrahiert werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

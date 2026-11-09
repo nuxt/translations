@@ -1,0 +1,14 @@
+{
+  "hash": "2265ed9ce55e2ddc",
+  "source": "Contributing to the Auto-Generated Key",
+  "text": "Zum automatisch generierten Schlüssel beitragen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Zum automatisch generierten Schlüssel beitragen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

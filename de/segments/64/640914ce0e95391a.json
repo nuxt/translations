@@ -1,0 +1,14 @@
+{
+  "hash": "640914ce0e95391a",
+  "source": "If you have tests in other directories that you will be running in the Nuxt Vitest environment, you can include them in the Nuxt app TypeScript context by adding them to your configuration:",
+  "text": "Wenn du Tests in anderen Verzeichnissen hast, die in der Nuxt-Vitest-Umgebung laufen sollen, kannst du sie dem TypeScript-Kontext der Nuxt-App hinzufügen, indem du sie in deiner Konfiguration ergänzt:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du Tests in anderen Verzeichnissen hast, die in der Nuxt-Vitest-Umgebung laufen sollen, kannst du sie dem TypeScript-Kontext der Nuxt-App hinzufügen, indem du sie in deiner Konfiguration ergänzt:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

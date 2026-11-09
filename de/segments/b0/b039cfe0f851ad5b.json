@@ -1,0 +1,14 @@
+{
+  "hash": "b039cfe0f851ad5b",
+  "source": "Check out a branch where you can work and commit your changes:",
+  "text": "Checke einen Branch aus, in dem du arbeiten und deine Änderungen committen kannst:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Checke einen Branch aus, in dem du arbeiten und deine Änderungen committen kannst:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

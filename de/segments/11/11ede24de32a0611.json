@@ -1,0 +1,14 @@
+{
+  "hash": "11ede24de32a0611",
+  "source": "An RFC will then move through the following stages:",
+  "text": "Ein RFC durchläuft dann die folgenden Phasen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein RFC durchläuft dann die folgenden Phasen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

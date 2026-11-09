@@ -1,0 +1,14 @@
+{
+  "hash": "c254f5fd1afe34bb",
+  "source": "Read more about typed routes, and about declaring a route Nuxt cannot see.",
+  "text": "Mehr dazu, wie Routen typisiert werden und wie du eine Route deklarierst, die Nuxt nicht sehen kann.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mehr dazu, wie Routen typisiert werden und wie du eine Route deklarierst, die Nuxt nicht sehen kann."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

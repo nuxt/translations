@@ -1,0 +1,14 @@
+{
+  "hash": "5cb626c74e49ef30",
+  "source": "Hydration mismatches are not just warnings - they are indicators of serious problems that can break your application:",
+  "text": "Hydration-Mismatches sind nicht nur Warnungen – sie weisen auf ernste Probleme hin, die deine Anwendung beeinträchtigen können:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Hydration-Mismatches sind nicht nur Warnungen – sie weisen auf ernste Probleme hin, die deine Anwendung beeinträchtigen können:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

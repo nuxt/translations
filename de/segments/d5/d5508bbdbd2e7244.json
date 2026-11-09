@@ -1,0 +1,14 @@
+{
+  "hash": "d5508bbdbd2e7244",
+  "source": "{0} was called with a key that is not a string. The key identifies the shared state across the app and in the hydration payload, so it must be a non-empty string.",
+  "text": "{0} wurde mit einem Schlüssel aufgerufen, der kein String ist. Der Schlüssel identifiziert den geteilten State in der gesamten App und im Hydration-Payload, daher muss er ein nicht leerer String sein.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} wurde mit einem Schlüssel aufgerufen, der kein String ist. Der Schlüssel identifiziert den geteilten State in der gesamten App und im Hydration-Payload, daher muss er ein nicht leerer String sein."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

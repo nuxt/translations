@@ -1,0 +1,14 @@
+{
+  "hash": "4b870f2839156dac",
+  "source": "Some tags are provided by Nuxt by default to ensure your website works well out of the box.",
+  "text": "Einige Tags stellt Nuxt standardmäßig bereit, damit deine Website sofort gut funktioniert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Einige Tags stellt Nuxt standardmäßig bereit, damit deine Website sofort gut funktioniert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

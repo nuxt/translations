@@ -1,0 +1,14 @@
+{
+  "hash": "6f6627eb49d88903",
+  "source": "When the route changes and userId updates, the data will be automatically refetched",
+  "text": "Wenn sich die Route ändert und userId aktualisiert wird, werden die Daten automatisch neu abgerufen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn sich die Route ändert und userId aktualisiert wird, werden die Daten automatisch neu abgerufen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

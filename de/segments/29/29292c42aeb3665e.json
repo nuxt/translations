@@ -1,0 +1,14 @@
+{
+  "hash": "29292c42aeb3665e",
+  "source": "{0} Nitro hook",
+  "text": "Nitro-Hook {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nitro-Hook {0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

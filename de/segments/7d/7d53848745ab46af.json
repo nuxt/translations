@@ -1,0 +1,14 @@
+{
+  "hash": "7d53848745ab46af",
+  "source": "If {0}, the plugin will be appended to the plugins array. If {1}, it will be prepended. Defaults to {2}.",
+  "text": "Bei {0} wird das Plugin an das Plugin-Array angehängt. Bei {1} wird es vorangestellt. Der Standardwert ist {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bei {0} wird das Plugin an das Plugin-Array angehängt. Bei {1} wird es vorangestellt. Der Standardwert ist {2}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

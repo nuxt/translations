@@ -1,0 +1,14 @@
+{
+  "hash": "fada942710eddf66",
+  "source": "Dynamic import",
+  "text": "Dynamischer Import",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dynamischer Import"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

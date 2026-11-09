@@ -1,0 +1,14 @@
+{
+  "hash": "622437bb8c828c1f",
+  "source": "Preprocessors Support",
+  "text": "Unterstützung für Preprocessors",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Unterstützung für Preprocessors"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

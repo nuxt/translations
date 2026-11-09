@@ -1,0 +1,14 @@
+{
+  "hash": "ca13b686e64f697d",
+  "source": "Using {0}router options{/0}, you can optionally override or extend your routes using a function that accepts the scanned routes and returns customized routes.",
+  "text": "Mit den {0}Router-Optionen{/0} kannst du deine Routen optional überschreiben oder erweitern, und zwar mit einer Funktion, die die gescannten Routen entgegennimmt und angepasste Routen zurückgibt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit den {0}Router-Optionen{/0} kannst du deine Routen optional überschreiben oder erweitern, und zwar mit einer Funktion, die die gescannten Routen entgegennimmt und angepasste Routen zurückgibt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

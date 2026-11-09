@@ -1,0 +1,14 @@
+{
+  "hash": "bd1cd3e68ee9ac40",
+  "source": "Whether to watch for changes and update the cookie. {0} for deep watch, {1} for shallow watch, i.e. data changes for only top level properties, {2} to disable.{3}**Note:** Refresh {4} values manually when a cookie has changed with {5}.",
+  "text": "Legt fest, ob auf Änderungen geachtet und das Cookie aktualisiert werden soll. {0} für tiefes Beobachten, {1} für flaches Beobachten, d. h. nur Änderungen an Eigenschaften der obersten Ebene, {2}, um es zu deaktivieren.{3}**Hinweis:** Aktualisiere die Werte von {4} manuell mit {5}, wenn sich ein Cookie geändert hat.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Legt fest, ob auf Änderungen geachtet und das Cookie aktualisiert werden soll. {0} für tiefes Beobachten, {1} für flaches Beobachten, d. h. nur Änderungen an Eigenschaften der obersten Ebene, {2}, um es zu deaktivieren.{3}**Hinweis:** Aktualisiere die Werte von {4} manuell mit {5}, wenn sich ein Cookie geändert hat."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

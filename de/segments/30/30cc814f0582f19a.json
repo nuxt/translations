@@ -1,0 +1,14 @@
+{
+  "hash": "30cc814f0582f19a",
+  "source": "The server's runtime hooks: renderer hooks such as {0}, and those declared on {1}.",
+  "text": "Die Laufzeit-Hooks des Servers: Renderer-Hooks wie {0} sowie die, die in {1} deklariert sind.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Laufzeit-Hooks des Servers: Renderer-Hooks wie {0} sowie die, die in {1} deklariert sind."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

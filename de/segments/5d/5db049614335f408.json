@@ -1,0 +1,14 @@
+{
+  "hash": "5db049614335f408",
+  "source": "Create Custom Hooks",
+  "text": "Eigene Hooks erstellen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eigene Hooks erstellen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

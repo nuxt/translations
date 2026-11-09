@@ -1,0 +1,14 @@
+{
+  "hash": "f957412c7aadd740",
+  "source": "The module is designed for the {0}new ESLint flat config format{/0} which is the {1}default format since ESLint v9{/1}. If you are using the legacy {2} config, you will need to {3}configure manually with {4}{/3}. We highly recommend you to migrate over the flat config to be future-proof.",
+  "text": "Das Modul ist für das {0}neue ESLint-Flat-Config-Format{/0} ausgelegt, das seit ESLint v9 das {1}Standardformat{/1} ist. Wenn du die veraltete {2}-Konfiguration verwendest, musst du {3}manuell mit {4} konfigurieren{/3}. Wir empfehlen dir dringend, auf die Flat Config umzusteigen, um zukunftssicher zu sein.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Modul ist für das {0}neue ESLint-Flat-Config-Format{/0} ausgelegt, das seit ESLint v9 das {1}Standardformat{/1} ist. Wenn du die veraltete {2}-Konfiguration verwendest, musst du {3}manuell mit {4} konfigurieren{/3}. Wir empfehlen dir dringend, auf die Flat Config umzusteigen, um zukunftssicher zu sein."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

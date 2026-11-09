@@ -1,0 +1,14 @@
+{
+  "hash": "f7e855cdeff4ff05",
+  "source": "Display a progress bar between page navigations.",
+  "text": "Zeigt zwischen Seitenwechseln einen Fortschrittsbalken an.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Zeigt zwischen Seitenwechseln einen Fortschrittsbalken an."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

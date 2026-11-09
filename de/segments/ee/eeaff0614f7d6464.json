@@ -1,0 +1,14 @@
+{
+  "hash": "eeaff0614f7d6464",
+  "source": "Normally, Vue.js composables are bound to the current component instance while plugins are only bound to {0} instance.",
+  "text": "Normalerweise sind Vue.js-Composables an die aktuelle Komponenteninstanz gebunden, während Plugins nur an die Instanz {0} gebunden sind.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Normalerweise sind Vue.js-Composables an die aktuelle Komponenteninstanz gebunden, während Plugins nur an die Instanz {0} gebunden sind."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

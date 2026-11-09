@@ -1,0 +1,14 @@
+{
+  "hash": "3a4d96c519f3710c",
+  "source": "If you get an error message like {0} then it probably means you are calling a Nuxt composable in the wrong place in the Vue or Nuxt lifecycle.",
+  "text": "Wenn du eine Fehlermeldung wie {0} erhältst, bedeutet das wahrscheinlich, dass du ein Nuxt-Composable an der falschen Stelle im Lifecycle von Vue oder Nuxt aufrufst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du eine Fehlermeldung wie {0} erhältst, bedeutet das wahrscheinlich, dass du ein Nuxt-Composable an der falschen Stelle im Lifecycle von Vue oder Nuxt aufrufst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

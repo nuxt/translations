@@ -1,0 +1,14 @@
+{
+  "hash": "b9bc55312b24bb90",
+  "source": "Called during the manifest build by Vite and webpack. This allows customizing the manifest that Nitro will use to render {0} and {1} tags in the final HTML, including each entry's {2} and {3} flags.",
+  "text": "Wird während der Manifest-Erzeugung durch Vite und webpack aufgerufen. Damit lässt sich das Manifest anpassen, das Nitro verwendet, um {0}- und {1}-Tags im finalen HTML zu rendern, einschließlich der Flags {2} und {3} jedes Eintrags.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird während der Manifest-Erzeugung durch Vite und webpack aufgerufen. Damit lässt sich das Manifest anpassen, das Nitro verwendet, um {0}- und {1}-Tags im finalen HTML zu rendern, einschließlich der Flags {2} und {3} jedes Eintrags."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

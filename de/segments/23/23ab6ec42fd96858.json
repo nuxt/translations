@@ -1,0 +1,14 @@
+{
+  "hash": "23ab6ec42fd96858",
+  "source": "**{0}** fires for each chunk produced by the renderer before it is enqueued. Mutate {1} to transform bytes (e.g. nonce injection); read {2} to identify the first chunk vs. subsequent ones.",
+  "text": "**{0}** wird für jeden vom Renderer erzeugten Chunk ausgelöst, bevor er in die Warteschlange gestellt wird. Verändere {1}, um Bytes zu transformieren (z. B. Nonce-Injektion); lies {2}, um den ersten Chunk von den folgenden zu unterscheiden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** wird für jeden vom Renderer erzeugten Chunk ausgelöst, bevor er in die Warteschlange gestellt wird. Verändere {1}, um Bytes zu transformieren (z. B. Nonce-Injektion); lies {2}, um den ersten Chunk von den folgenden zu unterscheiden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

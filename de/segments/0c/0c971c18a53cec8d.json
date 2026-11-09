@@ -1,0 +1,14 @@
+{
+  "hash": "0c971c18a53cec8d",
+  "source": "Please note that the local provider will only attempt to load styles and weights that were configured in the *Font Options*.",
+  "text": "Bitte beachte, dass der lokale Provider nur versucht, Styles und Stärken zu laden, die in den *Font-Optionen* konfiguriert wurden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bitte beachte, dass der lokale Provider nur versucht, Styles und Stärken zu laden, die in den *Font-Optionen* konfiguriert wurden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

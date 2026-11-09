@@ -1,0 +1,14 @@
+{
+  "hash": "6135fc3d5ccbb685",
+  "source": "**route**: A route pattern to match against.{0}**rule**: A route rule configuration to apply to the matched route. {1} is a union of {2} and {3}, so a rule has to be valid for one Nitro major as a whole. A few rules differ between them: Nitro v3 takes {4} where v2 takes {5}, and v3 additionally accepts CORS options on {6} and {7} on {8}/{9} to reset an inherited rule.",
+  "text": "**route**: Ein Routenmuster, auf das geprüft wird.{0}**rule**: Eine Routing-Regel-Konfiguration, die auf die passende Route angewendet wird. {1} ist eine Vereinigung aus {2} und {3}, daher muss eine Regel für eine Nitro-Hauptversion als Ganzes gültig sein. Einige Regeln unterscheiden sich zwischen den Versionen: Nitro v3 erwartet {4}, wo v2 {5} erwartet, und v3 akzeptiert zusätzlich CORS-Optionen bei {6} sowie {7} bei {8}/{9}, um eine geerbte Regel zurückzusetzen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**route**: Ein Routenmuster, auf das geprüft wird.{0}**rule**: Eine Routing-Regel-Konfiguration, die auf die passende Route angewendet wird. {1} ist eine Vereinigung aus {2} und {3}, daher muss eine Regel für eine Nitro-Hauptversion als Ganzes gültig sein. Einige Regeln unterscheiden sich zwischen den Versionen: Nitro v3 erwartet {4}, wo v2 {5} erwartet, und v3 akzeptiert zusätzlich CORS-Optionen bei {6} sowie {7} bei {8}/{9}, um eine geerbte Regel zurückzusetzen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

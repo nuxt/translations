@@ -1,0 +1,14 @@
+{
+  "hash": "5e8580d7d210f9b7",
+  "source": "{0} is for fetching and caching data, not triggering side effects like calling Pinia actions, as this can cause unintended behavior such as repeated executions with nullish values. If you need to trigger side effects, use the {1} utility to do so.",
+  "text": "{0} dient zum Abrufen und Zwischenspeichern von Daten, nicht zum Auslösen von Nebeneffekten wie dem Aufruf von Pinia-Actions, da dies zu unbeabsichtigtem Verhalten führen kann, etwa zu wiederholten Ausführungen mit Nullwerten. Wenn du Nebeneffekte auslösen musst, verwende dafür das Hilfsprogramm {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} dient zum Abrufen und Zwischenspeichern von Daten, nicht zum Auslösen von Nebeneffekten wie dem Aufruf von Pinia-Actions, da dies zu unbeabsichtigtem Verhalten führen kann, etwa zu wiederholten Ausführungen mit Nullwerten. Wenn du Nebeneffekte auslösen musst, verwende dafür das Hilfsprogramm {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

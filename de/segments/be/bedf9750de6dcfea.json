@@ -1,0 +1,14 @@
+{
+  "hash": "bedf9750de6dcfea",
+  "source": "Aliases for the record. Allows defining extra paths that will behave like a copy of the record. Allows having paths shorthands like {0} and {1}. All {2} and {3} values must share the same params.",
+  "text": "Aliase für den Eintrag. Ermöglicht es, zusätzliche Pfade zu definieren, die sich wie eine Kopie des Eintrags verhalten. Damit sind Pfadkürzel wie {0} und {1} möglich. Alle Werte von {2} und {3} müssen dieselben Parameter verwenden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Aliase für den Eintrag. Ermöglicht es, zusätzliche Pfade zu definieren, die sich wie eine Kopie des Eintrags verhalten. Damit sind Pfadkürzel wie {0} und {1} möglich. Alle Werte von {2} und {3} müssen dieselben Parameter verwenden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

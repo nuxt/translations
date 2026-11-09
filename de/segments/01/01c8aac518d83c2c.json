@@ -1,0 +1,14 @@
+{
+  "hash": "01c8aac518d83c2c",
+  "source": "You will also need to update your scripts within your {0} to reflect the fact that Nuxt will now produce a Nitro server as build output.",
+  "text": "Außerdem musst du die Skripte in deiner {0} aktualisieren, da Nuxt nun einen Nitro-Server als Build-Ergebnis erzeugt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Außerdem musst du die Skripte in deiner {0} aktualisieren, da Nuxt nun einen Nitro-Server als Build-Ergebnis erzeugt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

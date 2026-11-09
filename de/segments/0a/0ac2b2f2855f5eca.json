@@ -1,0 +1,14 @@
+{
+  "hash": "0ac2b2f2855f5eca",
+  "source": "{0}: only pick specified keys in this array from the {1} function result",
+  "text": "{0}: übernimmt aus dem Ergebnis der Funktion {1} nur die in diesem Array angegebenen Schlüssel",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: übernimmt aus dem Ergebnis der Funktion {1} nur die in diesem Array angegebenen Schlüssel"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

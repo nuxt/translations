@@ -1,0 +1,14 @@
+{
+  "hash": "ef8743edf84c9b80",
+  "source": "Nuxt relies on native ESM. Please read {0}Native ES Modules{/0} for more information.",
+  "text": "Nuxt setzt auf natives ESM. Weitere Informationen findest du unter {0}Native ES Modules{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt setzt auf natives ESM. Weitere Informationen findest du unter {0}Native ES Modules{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "d8809d8a17361ec0",
+  "source": "islands block on a network round trip during navigation, unless you pass the {0} prop (with a {1} slot) to render them non-blockingly",
+  "text": "Islands blockieren bei der Navigation, bis der Netzwerk-Round-Trip abgeschlossen ist – es sei denn, du übergibst die Prop {0} (mit einem Slot {1}), um sie nicht blockierend zu rendern",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Islands blockieren bei der Navigation, bis der Netzwerk-Round-Trip abgeschlossen ist – es sei denn, du übergibst die Prop {0} (mit einem Slot {1}), um sie nicht blockierend zu rendern"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

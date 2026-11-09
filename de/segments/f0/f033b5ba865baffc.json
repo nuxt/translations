@@ -1,0 +1,14 @@
+{
+  "hash": "f033b5ba865baffc",
+  "source": "The content of the default slot will be tree-shaken out of the server build. (This does mean that any CSS used by components within it may not be inlined when rendering the initial HTML.)",
+  "text": "Der Inhalt des Default-Slots wird beim Server-Build per Tree-Shaking entfernt. (Das bedeutet, dass CSS, das von darin enthaltenen Komponenten verwendet wird, beim Rendern des initialen HTML möglicherweise nicht inline eingebunden wird.)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Inhalt des Default-Slots wird beim Server-Build per Tree-Shaking entfernt. (Das bedeutet, dass CSS, das von darin enthaltenen Komponenten verwendet wird, beim Rendern des initialen HTML möglicherweise nicht inline eingebunden wird.)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

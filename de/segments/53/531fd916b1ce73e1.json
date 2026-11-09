@@ -1,0 +1,14 @@
+{
+  "hash": "531fd916b1ce73e1",
+  "source": "**Avoid side effects in setup**: Move browser-dependent code to {0}",
+  "text": "**Vermeide Seiteneffekte in setup**: Verschiebe browserabhängigen Code nach {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Vermeide Seiteneffekte in setup**: Verschiebe browserabhängigen Code nach {0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

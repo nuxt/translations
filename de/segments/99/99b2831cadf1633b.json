@@ -1,0 +1,14 @@
+{
+  "hash": "99b2831cadf1633b",
+  "source": "Append webpack plugin to the config.",
+  "text": "Hängt ein webpack-Plugin an die Konfiguration an.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Hängt ein webpack-Plugin an die Konfiguration an."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

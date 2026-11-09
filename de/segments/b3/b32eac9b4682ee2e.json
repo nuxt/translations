@@ -1,0 +1,14 @@
+{
+  "hash": "b32eac9b4682ee2e",
+  "source": "Learn about best practices when developing with Nuxt.",
+  "text": "Lerne die Best Practices für die Entwicklung mit Nuxt kennen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lerne die Best Practices für die Entwicklung mit Nuxt kennen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

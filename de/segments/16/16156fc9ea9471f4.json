@@ -1,0 +1,14 @@
+{
+  "hash": "16156fc9ea9471f4",
+  "source": "Will first clear any side effects for previous input.",
+  "text": "Entfernt zuerst alle Nebeneffekte der vorherigen Eingabe.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Entfernt zuerst alle Nebeneffekte der vorherigen Eingabe."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e96de4d97edd7950",
+  "source": "**{0}** is deprecated in favor of {1}.",
+  "text": "**{0}** wird zugunsten von {1} nicht mehr empfohlen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** wird zugunsten von {1} nicht mehr empfohlen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

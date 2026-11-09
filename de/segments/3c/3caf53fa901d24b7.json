@@ -1,0 +1,14 @@
+{
+  "hash": "3caf53fa901d24b7",
+  "source": "This renders it like this:",
+  "text": "Dadurch wird sie wie folgt gerendert:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dadurch wird sie wie folgt gerendert:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

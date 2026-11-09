@@ -1,0 +1,14 @@
+{
+  "hash": "f47fabe8aed23735",
+  "source": "The **function signature** (override mode) is required here so that {0} is called in the setup context (at the composable call site) rather than in the module scope, where no Nuxt instance is available.",
+  "text": "Hier ist die **Funktionssignatur** (Überschreibungsmodus) erforderlich, damit {0} im Setup-Kontext (an der Aufrufstelle des Composables) aufgerufen wird und nicht im Modul-Scope, in dem keine Nuxt-Instanz verfügbar ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Hier ist die **Funktionssignatur** (Überschreibungsmodus) erforderlich, damit {0} im Setup-Kontext (an der Aufrufstelle des Composables) aufgerufen wird und nicht im Modul-Scope, in dem keine Nuxt-Instanz verfügbar ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "efe0b71e4efb7aa1",
+  "source": "See the full Nitro v3 migration guide for all breaking changes.",
+  "text": "Alle inkompatiblen Änderungen findest du in der vollständigen Nitro-v3-Migrationsanleitung.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Alle inkompatiblen Änderungen findest du in der vollständigen Nitro-v3-Migrationsanleitung."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

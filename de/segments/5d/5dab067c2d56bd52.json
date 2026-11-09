@@ -1,0 +1,14 @@
+{
+  "hash": "5dab067c2d56bd52",
+  "source": "The function to run once your app has finished initializing and the browser is idle.",
+  "text": "Die Funktion, die ausgeführt wird, sobald deine App die Initialisierung abgeschlossen hat und der Browser im Leerlauf ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Funktion, die ausgeführt wird, sobald deine App die Initialisierung abgeschlossen hat und der Browser im Leerlauf ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

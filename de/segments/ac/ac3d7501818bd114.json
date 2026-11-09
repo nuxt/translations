@@ -1,0 +1,14 @@
+{
+  "hash": "ac3d7501818bd114",
+  "source": "Nuxt Kit provides composable utilities to make interacting with {0}Nuxt Hooks{/0}, the {1}Nuxt Interface{/1} and developing {2}Nuxt modules{/2} super easy.",
+  "text": "Nuxt Kit stellt Composable-Hilfsfunktionen bereit, mit denen du {0}Nuxt-Hooks{/0} und die {1}Nuxt-Schnittstelle{/1} nutzen und {2}Nuxt-Module{/2} entwickeln kannst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Kit stellt Composable-Hilfsfunktionen bereit, mit denen du {0}Nuxt-Hooks{/0} und die {1}Nuxt-Schnittstelle{/1} nutzen und {2}Nuxt-Module{/2} entwickeln kannst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "86377076ba498877",
+  "source": "If you are using the object-syntax, the properties are statically analyzed to produce a more optimized build. So you should not define them at runtime.{0}For example, setting {1} would defeat any future optimization Nuxt is able to do for your plugins. Nuxt does statically pre-load any hook listeners when using object-syntax, allowing you to define hooks without needing to worry about order of plugin registration.",
+  "text": "Wenn du die Objektsyntax verwendest, werden die Eigenschaften statisch analysiert, um einen stärker optimierten Build zu erzeugen. Du solltest sie daher nicht zur Laufzeit definieren.{0}Wenn du zum Beispiel {1} setzt, würde das jede künftige Optimierung zunichtemachen, die Nuxt für deine Plugins vornehmen kann. Nuxt lädt bei der Objektsyntax alle Hook-Listener statisch vor. So kannst du Hooks definieren, ohne dir Gedanken über die Reihenfolge der Plugin-Registrierung machen zu müssen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du die Objektsyntax verwendest, werden die Eigenschaften statisch analysiert, um einen stärker optimierten Build zu erzeugen. Du solltest sie daher nicht zur Laufzeit definieren.{0}Wenn du zum Beispiel {1} setzt, würde das jede künftige Optimierung zunichtemachen, die Nuxt für deine Plugins vornehmen kann. Nuxt lädt bei der Objektsyntax alle Hook-Listener statisch vor. So kannst du Hooks definieren, ohne dir Gedanken über die Reihenfolge der Plugin-Registrierung machen zu müssen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

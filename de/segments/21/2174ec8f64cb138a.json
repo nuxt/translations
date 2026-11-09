@@ -1,0 +1,14 @@
+{
+  "hash": "2174ec8f64cb138a",
+  "source": "defineUseFetchAddon: Addons for useAsyncData work the same way as useFetch addons",
+  "text": "defineUseFetchAddon: Addons für useAsyncData funktionieren genauso wie Addons für useFetch",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "defineUseFetchAddon: Addons für useAsyncData funktionieren genauso wie Addons für useFetch"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

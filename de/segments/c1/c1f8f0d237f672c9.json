@@ -1,0 +1,14 @@
+{
+  "hash": "c1f8f0d237f672c9",
+  "source": "{0}: An alias for {1}. If used with {2}, {3} will be ignored",
+  "text": "{0}: Ein Alias für {1}. Wenn es zusammen mit {2} verwendet wird, wird {3} ignoriert",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Ein Alias für {1}. Wenn es zusammen mit {2} verwendet wird, wird {3} ignoriert"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

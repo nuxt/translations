@@ -1,0 +1,14 @@
+{
+  "hash": "8bb97b3303413120",
+  "source": "A new Vue app will be created server-side to create the {0}.",
+  "text": "Zum Erstellen des {0} wird serverseitig eine neue Vue-App erzeugt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Zum Erstellen des {0} wird serverseitig eine neue Vue-App erzeugt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

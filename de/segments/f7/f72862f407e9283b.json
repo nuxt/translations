@@ -1,0 +1,14 @@
+{
+  "hash": "f72862f407e9283b",
+  "source": "Remember, this page transition cannot be overridden with {0} on individual pages.",
+  "text": "Beachte, dass sich dieser Seitenübergang auf einzelnen Seiten nicht mit {0} überschreiben lässt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Beachte, dass sich dieser Seitenübergang auf einzelnen Seiten nicht mit {0} überschreiben lässt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

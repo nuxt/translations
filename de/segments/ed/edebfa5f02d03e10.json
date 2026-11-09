@@ -1,0 +1,14 @@
+{
+  "hash": "edebfa5f02d03e10",
+  "source": "The server runtime doesn't know which app builder produced the app. It renders against a fixed set of modules whose bodies only the build knows, and the active app builder provides each of them through {0}. This is the **build output contract**.",
+  "text": "Die Server-Runtime weiß nicht, welcher App-Builder die App erzeugt hat. Sie rendert gegen einen festen Satz von Modulen, deren Inhalt nur der Build kennt, und der aktive App-Builder stellt jedes davon über {0} bereit. Das ist der **Vertrag für die Build-Ausgabe**.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Server-Runtime weiß nicht, welcher App-Builder die App erzeugt hat. Sie rendert gegen einen festen Satz von Modulen, deren Inhalt nur der Build kennt, und der aktive App-Builder stellt jedes davon über {0} bereit. Das ist der **Vertrag für die Build-Ausgabe**."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "9bf524be2b8803c3",
+  "source": "{0} - Server routes, middleware, and utilities",
+  "text": "{0} – Server-Routen, Middleware und Hilfsfunktionen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} – Server-Routen, Middleware und Hilfsfunktionen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b88ae2430b2a52ee",
+  "source": "Transition with NuxtPage",
+  "text": "Übergang mit NuxtPage",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Übergang mit NuxtPage"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

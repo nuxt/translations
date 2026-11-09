@@ -1,0 +1,14 @@
+{
+  "hash": "262503884f4e61fd",
+  "source": "Module body exporting the entry module IDs used for inline style extraction.",
+  "text": "Modulinhalt, der die Entry-Modul-IDs exportiert, die für die Extraktion von Inline-Styles verwendet werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Modulinhalt, der die Entry-Modul-IDs exportiert, die für die Extraktion von Inline-Styles verwendet werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

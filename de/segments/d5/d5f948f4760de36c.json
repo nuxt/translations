@@ -1,0 +1,14 @@
+{
+  "hash": "d5f948f4760de36c",
+  "source": "When using the {0} prop, {1} does not automatically attach prefetch handlers. You can call {2} from the custom slot yourself.",
+  "text": "Bei Verwendung der Prop {0} hängt {1} nicht automatisch Prefetch-Handler an. Du kannst {2} selbst aus dem benutzerdefinierten Slot aufrufen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bei Verwendung der Prop {0} hängt {1} nicht automatisch Prefetch-Handler an. Du kannst {2} selbst aus dem benutzerdefinierten Slot aufrufen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

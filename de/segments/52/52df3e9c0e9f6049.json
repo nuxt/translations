@@ -1,0 +1,14 @@
+{
+  "hash": "52df3e9c0e9f6049",
+  "source": "It is a good place to place any local modules you develop while building your application.",
+  "text": "Hier kannst du alle lokalen Module ablegen, die du bei der Entwicklung deiner Anwendung erstellst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Hier kannst du alle lokalen Module ablegen, die du bei der Entwicklung deiner Anwendung erstellst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "9a55d3f40d59a8dc",
+  "source": "{0} has to be executed during prerendering. If the {1} is used in dynamic pages/routes which are not prerendered, then it will not be executed.",
+  "text": "{0} muss während des Vorab-Renderings ausgeführt werden. Wird {1} in dynamischen Seiten bzw. Routen verwendet, die nicht vorab gerendert werden, wird es nicht ausgeführt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} muss während des Vorab-Renderings ausgeführt werden. Wird {1} in dynamischen Seiten bzw. Routen verwendet, die nicht vorab gerendert werden, wird es nicht ausgeführt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

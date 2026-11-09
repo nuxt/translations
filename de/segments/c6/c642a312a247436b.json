@@ -1,0 +1,14 @@
+{
+  "hash": "c642a312a247436b",
+  "source": "This property can be overwritten (for example, running {0} will set the {1} to the absolute path of {2} from the current/working directory. It is normally not needed to configure this option.",
+  "text": "Diese Eigenschaft kann überschrieben werden (z. B. setzt die Ausführung von {0} den Wert {1} auf den absoluten Pfad von {2} ausgehend vom aktuellen Arbeitsverzeichnis). Normalerweise ist es nicht nötig, diese Option zu konfigurieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese Eigenschaft kann überschrieben werden (z. B. setzt die Ausführung von {0} den Wert {1} auf den absoluten Pfad von {2} ausgehend vom aktuellen Arbeitsverzeichnis). Normalerweise ist es nicht nötig, diese Option zu konfigurieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

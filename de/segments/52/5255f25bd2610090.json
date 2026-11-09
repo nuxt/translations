@@ -1,0 +1,14 @@
+{
+  "hash": "5255f25bd2610090",
+  "source": "Nuxt supports this using lazy (or delayed) hydration, allowing you to control when components become interactive.",
+  "text": "Nuxt unterstützt dies durch Lazy-Hydration (verzögerte Hydration), mit der du steuern kannst, wann Komponenten interaktiv werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt unterstützt dies durch Lazy-Hydration (verzögerte Hydration), mit der du steuern kannst, wann Komponenten interaktiv werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

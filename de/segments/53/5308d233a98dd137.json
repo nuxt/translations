@@ -1,0 +1,14 @@
+{
+  "hash": "5308d233a98dd137",
+  "source": "❌ Won't work - destructured with renaming in a nested scope",
+  "text": "❌ Funktioniert nicht – in einem verschachtelten Scope mit Umbenennung destrukturiert",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "❌ Funktioniert nicht – in einem verschachtelten Scope mit Umbenennung destrukturiert"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

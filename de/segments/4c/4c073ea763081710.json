@@ -1,0 +1,14 @@
+{
+  "hash": "4c073ea763081710",
+  "source": "Re-export the emitted per-component styles map for {0}.",
+  "text": "Die ausgegebene Map der Styles pro Komponente für {0} erneut exportieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die ausgegebene Map der Styles pro Komponente für {0} erneut exportieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

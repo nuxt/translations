@@ -1,0 +1,14 @@
+{
+  "hash": "510e8b8350619a6b",
+  "source": "{0} is a composable meant to be called directly in the {1}Nuxt context{/1}. It returns reactive composables and handles adding responses to the Nuxt payload so they can be passed from server to client **without re-fetching the data on client side** when the page hydrates.",
+  "text": "{0} ist ein Composable, das direkt im {1}Nuxt-Kontext{/1} aufgerufen werden soll. Es gibt reaktive Composables zurück und fügt Antworten zur Nuxt-Payload hinzu, sodass sie vom Server an den Client übergeben werden können, **ohne die Daten auf der Client-Seite erneut abzurufen**, wenn die Seite hydratisiert wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ist ein Composable, das direkt im {1}Nuxt-Kontext{/1} aufgerufen werden soll. Es gibt reaktive Composables zurück und fügt Antworten zur Nuxt-Payload hinzu, sodass sie vom Server an den Client übergeben werden können, **ohne die Daten auf der Client-Seite erneut abzurufen**, wenn die Seite hydratisiert wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

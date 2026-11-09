@@ -1,0 +1,14 @@
+{
+  "hash": "a0563fe4cf64cea4",
+  "source": "Migrating to {0} is the first and most important step for supporting Nuxt 3.",
+  "text": "Die Migration zu {0} ist der erste und wichtigste Schritt, um Nuxt 3 zu unterstützen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Migration zu {0} ist der erste und wichtigste Schritt, um Nuxt 3 zu unterstützen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

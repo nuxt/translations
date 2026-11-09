@@ -1,0 +1,14 @@
+{
+  "hash": "dc12e1caf655f7f5",
+  "source": "Create a new ReadableStream from the response with TextDecoderStream to get the data as text",
+  "text": "Aus der Antwort mit TextDecoderStream einen neuen ReadableStream erstellen, um die Daten als Text zu erhalten",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Aus der Antwort mit TextDecoderStream einen neuen ReadableStream erstellen, um die Daten als Text zu erhalten"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

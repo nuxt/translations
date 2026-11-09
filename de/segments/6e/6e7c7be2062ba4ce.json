@@ -1,0 +1,14 @@
+{
+  "hash": "6e7c7be2062ba4ce",
+  "source": "What a Builder Does",
+  "text": "Was ein Builder tut",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Was ein Builder tut"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

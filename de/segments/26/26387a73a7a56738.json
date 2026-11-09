@@ -1,0 +1,14 @@
+{
+  "hash": "26387a73a7a56738",
+  "source": "You have custom keys under {0}, a namespace Nuxt reserves for internal values (such as {1} and {2}). Custom keys here can collide with Nuxt's own config.",
+  "text": "Du hast benutzerdefinierte Schlüssel unter {0}, einem Namespace, den Nuxt für interne Werte reserviert (z. B. {1} und {2}). Benutzerdefinierte Schlüssel an dieser Stelle können mit der Nuxt-eigenen Konfiguration kollidieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du hast benutzerdefinierte Schlüssel unter {0}, einem Namespace, den Nuxt für interne Werte reserviert (z. B. {1} und {2}). Benutzerdefinierte Schlüssel an dieser Stelle können mit der Nuxt-eigenen Konfiguration kollidieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

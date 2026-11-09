@@ -1,0 +1,14 @@
+{
+  "hash": "4e0badcd63ba424c",
+  "source": "before mounting the application ({0} hook)",
+  "text": "vor dem Mounten der Anwendung ({0}-Hook)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "vor dem Mounten der Anwendung ({0}-Hook)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

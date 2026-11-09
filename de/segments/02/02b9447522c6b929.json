@@ -1,0 +1,14 @@
+{
+  "hash": "02b9447522c6b929",
+  "source": "There are more than 15 presets to build your Nuxt app for different cloud providers and servers, including:",
+  "text": "Es gibt mehr als 15 Presets, um deine Nuxt-Anwendung für verschiedene Cloud-Anbieter und Server zu erzeugen, darunter:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Es gibt mehr als 15 Presets, um deine Nuxt-Anwendung für verschiedene Cloud-Anbieter und Server zu erzeugen, darunter:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

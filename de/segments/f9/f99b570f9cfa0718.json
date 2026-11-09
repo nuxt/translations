@@ -1,0 +1,14 @@
+{
+  "hash": "f99b570f9cfa0718",
+  "source": "On a {0} v2 host, Nuxt prefers the {1} variant, so the {2} variant only runs there if it is the only one registered. Test the {3} variant on Nuxt 5.",
+  "text": "Auf einem {0}-v2-Host bevorzugt Nuxt die {1}-Variante, daher läuft die {2}-Variante dort nur, wenn sie die einzige registrierte ist. Teste die {3}-Variante mit Nuxt 5.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auf einem {0}-v2-Host bevorzugt Nuxt die {1}-Variante, daher läuft die {2}-Variante dort nur, wenn sie die einzige registrierte ist. Teste die {3}-Variante mit Nuxt 5."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

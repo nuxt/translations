@@ -1,0 +1,14 @@
+{
+  "hash": "6f47753706434bc6",
+  "source": "For more details, see {0}Adding MCP servers for GitHub Copilot CLI{/0}.",
+  "text": "Weitere Details findest du unter {0}Adding MCP servers for GitHub Copilot CLI{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Weitere Details findest du unter {0}Adding MCP servers for GitHub Copilot CLI{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

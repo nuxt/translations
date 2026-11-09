@@ -1,0 +1,14 @@
+{
+  "hash": "788b6cb2e3f618a6",
+  "source": "Disable layout for a route",
+  "text": "Layout für eine Route deaktivieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Layout für eine Route deaktivieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

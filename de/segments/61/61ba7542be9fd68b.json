@@ -1,0 +1,14 @@
+{
+  "hash": "61ba7542be9fd68b",
+  "source": "When no server builder contributes an event type, the event resolves to {0}, the web-standard part every server runtime provides:",
+  "text": "Wenn kein Server-Builder einen Event-Typ beisteuert, wird das Event zu {0} aufgelöst – dem Web-Standard-Teil, den jede Server-Laufzeitumgebung bereitstellt:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn kein Server-Builder einen Event-Typ beisteuert, wird das Event zu {0} aufgelöst – dem Web-Standard-Teil, den jede Server-Laufzeitumgebung bereitstellt:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

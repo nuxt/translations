@@ -1,0 +1,14 @@
+{
+  "hash": "15f70e4907a5ced1",
+  "source": "Learn about Nuxt utility functions for navigation, error handling and more.",
+  "text": "Lerne die Hilfsfunktionen von Nuxt für Navigation, Fehlerbehandlung und mehr kennen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lerne die Hilfsfunktionen von Nuxt für Navigation, Fehlerbehandlung und mehr kennen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

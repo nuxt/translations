@@ -1,0 +1,14 @@
+{
+  "hash": "6a880841505f1123",
+  "source": "First, install the Vue plugin dependency:",
+  "text": "Installiere zunächst die Abhängigkeit des Vue-Plugins:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Installiere zunächst die Abhängigkeit des Vue-Plugins:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

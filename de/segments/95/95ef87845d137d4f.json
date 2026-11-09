@@ -1,0 +1,14 @@
+{
+  "hash": "95ef87845d137d4f",
+  "source": "When another server, including {0}, is using the requested port, the preview automatically uses another free port without stopping that server. Pass {1} to exit instead. The requested port comes from {2}, {3}, {4}, or {5}, defaulting to {6}.",
+  "text": "Wenn ein anderer Server, einschließlich {0}, den angeforderten Port verwendet, nutzt die Vorschau automatisch einen anderen freien Port, ohne diesen Server zu beenden. Übergib {1}, um stattdessen abzubrechen. Der angeforderte Port stammt aus {2}, {3}, {4} oder {5}; standardmäßig wird {6} verwendet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn ein anderer Server, einschließlich {0}, den angeforderten Port verwendet, nutzt die Vorschau automatisch einen anderen freien Port, ohne diesen Server zu beenden. Übergib {1}, um stattdessen abzubrechen. Der angeforderte Port stammt aus {2}, {3}, {4} oder {5}; standardmäßig wird {6} verwendet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

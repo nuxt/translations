@@ -1,0 +1,14 @@
+{
+  "hash": "e25a5dd0cad467c0",
+  "source": "Nuxt sets Vue's {0} feature flag to {1}, which compiles Vue's Options API runtime out of the client bundle.",
+  "text": "Nuxt setzt das Feature-Flag {0} von Vue auf {1}. Dadurch wird die Laufzeit der Vue Options API aus dem Client-Bundle herauskompiliert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt setzt das Feature-Flag {0} von Vue auf {1}. Dadurch wird die Laufzeit der Vue Options API aus dem Client-Bundle herauskompiliert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

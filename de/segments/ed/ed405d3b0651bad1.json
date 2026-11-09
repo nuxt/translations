@@ -1,0 +1,14 @@
+{
+  "hash": "ed405d3b0651bad1",
+  "source": "The prepare command creates a .nuxt directory in your application and generates types.",
+  "text": "Der Befehl prepare erstellt ein Verzeichnis .nuxt in deiner Anwendung und generiert Typen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Befehl prepare erstellt ein Verzeichnis .nuxt in deiner Anwendung und generiert Typen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

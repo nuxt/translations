@@ -1,0 +1,14 @@
+{
+  "hash": "5bf4191eec11ab63",
+  "source": "For example, in the below example, the value of {0} will be passed to the {1} component and then to the page components.",
+  "text": "Im folgenden Beispiel wird etwa der Wert von {0} an die Komponente {1} und anschließend an die Seitenkomponenten übergeben.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Im folgenden Beispiel wird etwa der Wert von {0} an die Komponente {1} und anschließend an die Seitenkomponenten übergeben."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

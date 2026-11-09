@@ -1,0 +1,14 @@
+{
+  "hash": "198d2ac7b8124d42",
+  "source": "Before mounting the Vue application, Nuxt calls the {0} hook.",
+  "text": "Bevor die Vue-Anwendung gemountet wird, ruft Nuxt den Hook {0} auf.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bevor die Vue-Anwendung gemountet wird, ruft Nuxt den Hook {0} auf."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

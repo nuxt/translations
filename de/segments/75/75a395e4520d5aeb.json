@@ -1,0 +1,14 @@
+{
+  "hash": "75a395e4520d5aeb",
+  "source": "You will also need to enable it explicitly in your {0}:",
+  "text": "Du musst sie außerdem in deiner {0} explizit aktivieren:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du musst sie außerdem in deiner {0} explizit aktivieren:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

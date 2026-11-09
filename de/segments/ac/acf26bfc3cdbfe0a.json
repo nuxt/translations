@@ -1,0 +1,14 @@
+{
+  "hash": "acf26bfc3cdbfe0a",
+  "source": "Using this pattern means you will support both old (\\<4.6) and new versions of Nuxt (including Nuxt 5).",
+  "text": "Mit diesem Muster unterstützt du sowohl ältere (\\<4.6) als auch neue Versionen von Nuxt (einschließlich Nuxt 5).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit diesem Muster unterstützt du sowohl ältere (\\<4.6) als auch neue Versionen von Nuxt (einschließlich Nuxt 5)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "62447a5a0e6e1e3d",
+  "source": "When multiple layers define the same resource (component, composable, page, etc.), the layer with **higher priority wins**. Layers are sorted alphabetically, with later letters having higher priority (Z > A).",
+  "text": "Wenn mehrere Layer dieselbe Ressource definieren (Komponente, Composable, Seite usw.), setzt sich der Layer mit der **höheren Priorität** durch. Layer werden alphabetisch sortiert, wobei spätere Buchstaben eine höhere Priorität haben (Z > A).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn mehrere Layer dieselbe Ressource definieren (Komponente, Composable, Seite usw.), setzt sich der Layer mit der **höheren Priorität** durch. Layer werden alphabetisch sortiert, wobei spätere Buchstaben eine höhere Priorität haben (Z > A)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

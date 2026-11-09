@@ -1,0 +1,14 @@
+{
+  "hash": "62c1bc2aed54db41",
+  "source": "queue events to be sent when ga loads",
+  "text": "Ereignisse in die Warteschlange stellen, die gesendet werden, sobald ga geladen ist",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ereignisse in die Warteschlange stellen, die gesendet werden, sobald ga geladen ist"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

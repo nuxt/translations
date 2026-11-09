@@ -1,0 +1,14 @@
+{
+  "hash": "bd8d56951dc138bd",
+  "source": "Nuxt supports different rendering modes, {0}universal rendering{/0}, {1}client-side rendering{/1} but also offers {2}hybrid-rendering{/2} and the possibility to render your application on {3}CDN Edge Servers{/3}.",
+  "text": "Nuxt unterstützt verschiedene Rendering-Modi: {0}universelles Rendering{/0} und {1}clientseitiges Rendering{/1}. Außerdem bietet Nuxt {2}Hybrid-Rendering{/2} und die Möglichkeit, deine Anwendung auf {3}CDN-Edge-Servern{/3} zu rendern.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt unterstützt verschiedene Rendering-Modi: {0}universelles Rendering{/0} und {1}clientseitiges Rendering{/1}. Außerdem bietet Nuxt {2}Hybrid-Rendering{/2} und die Möglichkeit, deine Anwendung auf {3}CDN-Edge-Servern{/3} zu rendern."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

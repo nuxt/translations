@@ -1,0 +1,14 @@
+{
+  "hash": "6deed5351e5678e0",
+  "source": "Install Nuxi",
+  "text": "Nuxi installieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxi installieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

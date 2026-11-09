@@ -1,0 +1,14 @@
+{
+  "hash": "f7127475a41fb8fc",
+  "source": "Customize the options of Nuxt's integrated webpack loaders.",
+  "text": "Passt die Optionen der in Nuxt integrierten webpack-Loader an.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Passt die Optionen der in Nuxt integrierten webpack-Loader an."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

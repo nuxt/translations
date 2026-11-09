@@ -1,0 +1,14 @@
+{
+  "hash": "837fae745b671251",
+  "source": "Watch a video from Vue School on all 3 kinds of middleware",
+  "text": "Sieh dir ein Video von Vue School zu allen 3 Arten von Middleware an",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sieh dir ein Video von Vue School zu allen 3 Arten von Middleware an"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

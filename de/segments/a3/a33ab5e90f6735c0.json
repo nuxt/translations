@@ -1,0 +1,14 @@
+{
+  "hash": "a33ab5e90f6735c0",
+  "source": "Lazy Loading Components",
+  "text": "Komponenten verzögert laden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Komponenten verzögert laden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "33023aa97c3dcbcf",
+  "source": "{0} - Vue composables (auto-imported)",
+  "text": "{0} – Vue-Composables (automatisch importiert)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} – Vue-Composables (automatisch importiert)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

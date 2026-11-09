@@ -1,0 +1,14 @@
+{
+  "hash": "7d4db2625e8650c2",
+  "source": "The build fails if a constraint matches an upper-case letter but not its lower-case form, such as {0}, {1} or {2}, or is a negated class that excludes only one of them, such as {3}. Use {4} instead.",
+  "text": "Der Build schlägt fehl, wenn eine Einschränkung einen Großbuchstaben, nicht aber den entsprechenden Kleinbuchstaben erfasst, wie {0}, {1} oder {2}, oder eine negierte Zeichenklasse ist, die nur einen von beiden ausschließt, wie {3}. Verwende stattdessen {4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Build schlägt fehl, wenn eine Einschränkung einen Großbuchstaben, nicht aber den entsprechenden Kleinbuchstaben erfasst, wie {0}, {1} oder {2}, oder eine negierte Zeichenklasse ist, die nur einen von beiden ausschließt, wie {3}. Verwende stattdessen {4}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

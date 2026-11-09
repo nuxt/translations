@@ -1,0 +1,14 @@
+{
+  "hash": "46aaf8adc4778e35",
+  "source": "Import {0} from {1} in one module only: the one that is your server entry. Anywhere else, including modules your entry can reach such as an island handler or a route-rule helper, import from the narrower {2} paths. Importing the barrel from a shared module creates a cycle between chunks, and some bundlers turn that into an entry that exports nothing.",
+  "text": "Importiere {0} aus {1} nur in einem einzigen Modul: dem, das dein Server-Einstiegspunkt ist. Importiere überall sonst, auch in Modulen, die dein Einstiegspunkt erreichen kann, etwa einem Island-Handler oder einem Route-Rule-Hilfsprogramm, aus den spezifischeren {2}-Pfaden. Das Importieren des Barrels aus einem gemeinsam genutzten Modul erzeugt einen Zyklus zwischen Chunks, und manche Bundler machen daraus einen Einstiegspunkt, der nichts exportiert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Importiere {0} aus {1} nur in einem einzigen Modul: dem, das dein Server-Einstiegspunkt ist. Importiere überall sonst, auch in Modulen, die dein Einstiegspunkt erreichen kann, etwa einem Island-Handler oder einem Route-Rule-Hilfsprogramm, aus den spezifischeren {2}-Pfaden. Das Importieren des Barrels aus einem gemeinsam genutzten Modul erzeugt einen Zyklus zwischen Chunks, und manche Bundler machen daraus einen Einstiegspunkt, der nichts exportiert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

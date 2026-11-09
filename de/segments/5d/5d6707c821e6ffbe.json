@@ -1,0 +1,14 @@
+{
+  "hash": "5d6707c821e6ffbe",
+  "source": "Replace the {0} hook with {1} or {2} in your page/component.",
+  "text": "Ersetze den {0}-Hook in deiner Seite bzw. Komponente durch {1} oder {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ersetze den {0}-Hook in deiner Seite bzw. Komponente durch {1} oder {2}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

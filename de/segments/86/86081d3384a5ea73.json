@@ -1,0 +1,14 @@
+{
+  "hash": "86081d3384a5ea73",
+  "source": "The {0} option (on {1} and on individual {2}) now accepts {3} or a filter function, so you can preload just the subsets your app needs.",
+  "text": "Die Option {0} (bei {1} und bei einzelnen {2}) akzeptiert jetzt {3} oder eine Filterfunktion, sodass du nur die Subsets vorladen kannst, die deine App benötigt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Option {0} (bei {1} und bei einzelnen {2}) akzeptiert jetzt {3} oder eine Filterfunktion, sodass du nur die Subsets vorladen kannst, die deine App benötigt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

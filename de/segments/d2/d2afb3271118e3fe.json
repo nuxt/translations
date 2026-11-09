@@ -1,0 +1,14 @@
+{
+  "hash": "d2afb3271118e3fe",
+  "source": "Nuxt provides a <NuxtPicture> component to handle automatic image optimization.",
+  "text": "Nuxt stellt eine <NuxtPicture>-Komponente für die automatische Bildoptimierung bereit.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt stellt eine <NuxtPicture>-Komponente für die automatische Bildoptimierung bereit."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

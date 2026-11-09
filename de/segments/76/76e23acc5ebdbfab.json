@@ -1,0 +1,14 @@
+{
+  "hash": "76e23acc5ebdbfab",
+  "source": "Plug-and-play web font optimization and configuration for Nuxt apps.",
+  "text": "Plug-and-play-Optimierung und Konfiguration von Web-Schriftarten für Nuxt-Apps.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Plug-and-play-Optimierung und Konfiguration von Web-Schriftarten für Nuxt-Apps."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "2006403b0627f8f1",
+  "source": "In addition to {0} options, {1} accepts an {2} array. Addons are reusable units of behavior defined with {3}. They can declare custom call-site options, run middleware around the handler, extend the returned object, and attach custom logic to the composable.",
+  "text": "Zusätzlich zu den {0}-Optionen akzeptiert {1} ein {2}-Array. Addons sind wiederverwendbare Verhaltenseinheiten, die mit {3} definiert werden. Sie können eigene Optionen für den Aufrufort deklarieren, Middleware um den Handler herum ausführen, das zurückgegebene Objekt erweitern und eigene Logik an das Composable anhängen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Zusätzlich zu den {0}-Optionen akzeptiert {1} ein {2}-Array. Addons sind wiederverwendbare Verhaltenseinheiten, die mit {3} definiert werden. Sie können eigene Optionen für den Aufrufort deklarieren, Middleware um den Handler herum ausführen, das zurückgegebene Objekt erweitern und eigene Logik an das Composable anhängen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

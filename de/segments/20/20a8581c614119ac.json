@@ -1,0 +1,14 @@
+{
+  "hash": "20a8581c614119ac",
+  "source": "This registers the components using the same strategy as used in Nuxt 2. For example, {0} will be usable as {1} and not {2}.",
+  "text": "Dadurch werden die Komponenten mit derselben Strategie registriert wie in Nuxt 2. Zum Beispiel ist {0} als {1} und nicht als {2} verwendbar.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dadurch werden die Komponenten mit derselben Strategie registriert wie in Nuxt 2. Zum Beispiel ist {0} als {1} und nicht als {2} verwendbar."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

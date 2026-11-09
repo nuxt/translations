@@ -1,0 +1,14 @@
+{
+  "hash": "a7d0abf8e8c8fc91",
+  "source": "You can also use {0} to proxy headers to the call automatically.",
+  "text": "Du kannst außerdem {0} verwenden, um Header automatisch an den Aufruf weiterzuleiten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst außerdem {0} verwenden, um Header automatisch an den Aufruf weiterzuleiten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

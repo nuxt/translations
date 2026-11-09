@@ -1,0 +1,14 @@
+{
+  "hash": "7ea563fd585f7d34",
+  "source": "Open VS Code and access the Command Palette (Ctrl/Cmd + Shift + P)",
+  "text": "Öffne VS Code und rufe die Befehlspalette auf (Strg/Cmd + Umschalt + P)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Öffne VS Code und rufe die Befehlspalette auf (Strg/Cmd + Umschalt + P)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

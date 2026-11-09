@@ -1,0 +1,14 @@
+{
+  "hash": "48ac1c8d795e46cf",
+  "source": "Hover to view descriptions of existing attributes.",
+  "text": "Fahre mit der Maus darüber, um die Beschreibungen vorhandener Attribute anzuzeigen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fahre mit der Maus darüber, um die Beschreibungen vorhandener Attribute anzuzeigen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

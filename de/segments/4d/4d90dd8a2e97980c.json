@@ -1,0 +1,14 @@
+{
+  "hash": "4d90dd8a2e97980c",
+  "source": "Consider multiple layers defining the same component:",
+  "text": "Angenommen, mehrere Layers definieren dieselbe Komponente:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Angenommen, mehrere Layers definieren dieselbe Komponente:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "754a3347181c40e2",
+  "source": "rendering your Vue app into HTML",
+  "text": "deine Vue-App zu HTML gerendert wird",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "deine Vue-App zu HTML gerendert wird"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "6c0ab623b17b7157",
+  "source": "The {0} method accepts a promise that will be awaited before the handler terminates, ensuring the task is completed even if the server would otherwise terminate the handler right after the response is sent. This integrates with runtime providers to leverage their native capabilities for handling asynchronous operations after the response is sent.",
+  "text": "Die Methode {0} akzeptiert ein Promise, auf das gewartet wird, bevor der Handler beendet wird. So wird die Aufgabe auch dann abgeschlossen, wenn der Server den Handler sonst direkt nach dem Senden der Antwort beenden würde. Dies ist in die Runtime-Anbieter integriert, um deren native Fähigkeiten für die Verarbeitung asynchroner Vorgänge nach dem Senden der Antwort zu nutzen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Methode {0} akzeptiert ein Promise, auf das gewartet wird, bevor der Handler beendet wird. So wird die Aufgabe auch dann abgeschlossen, wenn der Server den Handler sonst direkt nach dem Senden der Antwort beenden würde. Dies ist in die Runtime-Anbieter integriert, um deren native Fähigkeiten für die Verarbeitung asynchroner Vorgänge nach dem Senden der Antwort zu nutzen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

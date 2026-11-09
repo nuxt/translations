@@ -1,0 +1,14 @@
+{
+  "hash": "22a621979970d5d4",
+  "source": "Cluster Mode",
+  "text": "Cluster-Modus",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cluster-Modus"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

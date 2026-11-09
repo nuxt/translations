@@ -1,0 +1,14 @@
+{
+  "hash": "cf346cd2e8352cd4",
+  "source": "Modifier flags: {0}, or {1} / {2}",
+  "text": "Modifikator-Flags: {0} oder {1} / {2}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Modifikator-Flags: {0} oder {1} / {2}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

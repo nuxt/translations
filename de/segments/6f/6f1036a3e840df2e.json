@@ -1,0 +1,14 @@
+{
+  "hash": "6f1036a3e840df2e",
+  "source": "Auto-import from Third-Party Packages",
+  "text": "Automatischer Import aus Drittanbieter-Paketen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Automatischer Import aus Drittanbieter-Paketen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

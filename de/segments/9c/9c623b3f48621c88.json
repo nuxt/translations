@@ -1,0 +1,14 @@
+{
+  "hash": "9c623b3f48621c88",
+  "source": "Make sure each default has the type you read it as. A value that defaults to {0} but is set to {1} is now the string {2}. Give it a numeric default, or a schema:",
+  "text": "Stelle sicher, dass jeder Standardwert den Typ hat, als den du ihn liest. Ein Wert mit dem Standardwert {0}, der aber auf {1} gesetzt wird, ist jetzt der String {2}. Gib ihm einen numerischen Standardwert oder ein Schema:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Stelle sicher, dass jeder Standardwert den Typ hat, als den du ihn liest. Ein Wert mit dem Standardwert {0}, der aber auf {1} gesetzt wird, ist jetzt der String {2}. Gib ihm einen numerischen Standardwert oder ein Schema:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "0ef8db515a0fc07b",
+  "source": "Why is it important to fix them?",
+  "text": "Warum ist es wichtig, sie zu beheben?",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Warum ist es wichtig, sie zu beheben?"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

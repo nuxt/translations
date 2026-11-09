@@ -1,0 +1,14 @@
+{
+  "hash": "d5ae2387caac70e3",
+  "source": "As your app gets bigger and more complex, your routing might require more flexibility. For this reason, Nuxt directly exposes the router, routes and router options for customization in different ways.",
+  "text": "Wenn deine App größer und komplexer wird, braucht dein Routing möglicherweise mehr Flexibilität. Deshalb stellt Nuxt den Router, die Routen und die Router-Optionen direkt bereit, damit du sie auf verschiedene Weise anpassen kannst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn deine App größer und komplexer wird, braucht dein Routing möglicherweise mehr Flexibilität. Deshalb stellt Nuxt den Router, die Routen und die Router-Optionen direkt bereit, damit du sie auf verschiedene Weise anpassen kannst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

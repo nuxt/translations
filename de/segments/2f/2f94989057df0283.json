@@ -1,0 +1,14 @@
+{
+  "hash": "2f94989057df0283",
+  "source": "The {0} directory allows you to organize and share reusable code, components, composables, and configurations across your Nuxt application. Any layers within your project in the {1} directory will be automatically registered.",
+  "text": "Mit dem Verzeichnis {0} kannst du wiederverwendbaren Code, Komponenten, Composables und Konfigurationen in deiner Nuxt-Anwendung organisieren und teilen. Alle Layer deines Projekts im Verzeichnis {1} werden automatisch registriert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit dem Verzeichnis {0} kannst du wiederverwendbaren Code, Komponenten, Composables und Konfigurationen in deiner Nuxt-Anwendung organisieren und teilen. Alle Layer deines Projekts im Verzeichnis {1} werden automatisch registriert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

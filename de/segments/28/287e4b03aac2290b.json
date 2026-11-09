@@ -1,0 +1,14 @@
+{
+  "hash": "287e4b03aac2290b",
+  "source": "Running the linter ({0})",
+  "text": "Ausführen des Linters ({0})",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ausführen des Linters ({0})"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

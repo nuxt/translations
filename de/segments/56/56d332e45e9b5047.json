@@ -1,0 +1,14 @@
+{
+  "hash": "56d332e45e9b5047",
+  "source": "You can also use {0} in Nuxt Bridge.",
+  "text": "Du kannst {0} auch in Nuxt Bridge verwenden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst {0} auch in Nuxt Bridge verwenden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

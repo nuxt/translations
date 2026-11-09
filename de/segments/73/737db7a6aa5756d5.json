@@ -1,0 +1,14 @@
+{
+  "hash": "737db7a6aa5756d5",
+  "source": "For anything else that points at server code, such as an alias, a type template or an app plugin that reads the server event, you can use {0} to resolve the variant that is appropriate for this version of Nuxt, or {1} if it runs none of them.",
+  "text": "Für alles andere, das auf Servercode verweist, etwa einen Alias, eine Typvorlage oder ein App-Plugin, das das Server-Event liest, kannst du {0} verwenden, um die Variante aufzulösen, die zu dieser Nuxt-Version passt, oder {1}, falls keine davon ausgeführt wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Für alles andere, das auf Servercode verweist, etwa einen Alias, eine Typvorlage oder ein App-Plugin, das das Server-Event liest, kannst du {0} verwenden, um die Variante aufzulösen, die zu dieser Nuxt-Version passt, oder {1}, falls keine davon ausgeführt wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

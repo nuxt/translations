@@ -1,0 +1,14 @@
+{
+  "hash": "55ed2faa227bd5cd",
+  "source": "Custom function to encode the cookie value. Since the value of a cookie has a limited character set (and must be a simple string), this function can be used to encode a value into a string suited for a cookie's value.",
+  "text": "Benutzerdefinierte Funktion zum Kodieren des Cookie-Werts. Da der Wert eines Cookies nur einen begrenzten Zeichensatz verwenden darf (und ein einfacher String sein muss), kann diese Funktion genutzt werden, um einen Wert in einen String umzuwandeln, der sich als Cookie-Wert eignet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Benutzerdefinierte Funktion zum Kodieren des Cookie-Werts. Da der Wert eines Cookies nur einen begrenzten Zeichensatz verwenden darf (und ein einfacher String sein muss), kann diese Funktion genutzt werden, um einen Wert in einen String umzuwandeln, der sich als Cookie-Wert eignet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

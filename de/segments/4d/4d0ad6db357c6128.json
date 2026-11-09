@@ -1,0 +1,14 @@
+{
+  "hash": "4d0ad6db357c6128",
+  "source": "Set this only where your routing is enumerable. An app with a catch-all page under {0} matches every path, which is correct but means the option constrains nothing.",
+  "text": "Aktiviere dies nur, wenn sich dein Routing vollständig aufzählen lässt. Eine App mit einer Catch-all-Seite unter {0} passt auf jeden Pfad. Das ist zwar korrekt, bedeutet aber, dass die Option nichts einschränkt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Aktiviere dies nur, wenn sich dein Routing vollständig aufzählen lässt. Eine App mit einer Catch-all-Seite unter {0} passt auf jeden Pfad. Das ist zwar korrekt, bedeutet aber, dass die Option nichts einschränkt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

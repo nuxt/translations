@@ -1,0 +1,14 @@
+{
+  "hash": "622a80fb61350d6c",
+  "source": "The {0}{1} provider{/0} matches {2} to both {3} and {4}.",
+  "text": "Der {0}{1}-Provider{/0} ordnet {2} sowohl {3} als auch {4} zu.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der {0}{1}-Provider{/0} ordnet {2} sowohl {3} als auch {4} zu."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

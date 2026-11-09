@@ -1,0 +1,14 @@
+{
+  "hash": "55f8eadb27471e23",
+  "source": "To learn more about various techniques for improving performance, take a look at the following resources:",
+  "text": "Weitere Techniken zur Verbesserung der Performance findest du in den folgenden Ressourcen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Weitere Techniken zur Verbesserung der Performance findest du in den folgenden Ressourcen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

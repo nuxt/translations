@@ -1,0 +1,14 @@
+{
+  "hash": "4eaa60d4ad5a898c",
+  "source": "{0}: One or an array of keys that are used in {1} to delete their cached data. If no keys are provided, **all data** will be invalidated.",
+  "text": "{0}: Ein Schlüssel oder ein Array von Schlüsseln, die in {1} verwendet werden, um die zugehörigen zwischengespeicherten Daten zu löschen. Wenn keine Schlüssel angegeben sind, werden **alle Daten** ungültig gemacht.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Ein Schlüssel oder ein Array von Schlüsseln, die in {1} verwendet werden, um die zugehörigen zwischengespeicherten Daten zu löschen. Wenn keine Schlüssel angegeben sind, werden **alle Daten** ungültig gemacht."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

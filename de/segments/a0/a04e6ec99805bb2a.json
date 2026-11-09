@@ -1,0 +1,14 @@
+{
+  "hash": "a04e6ec99805bb2a",
+  "source": "Set default configuration for {0} on every page.",
+  "text": "Lege die Standardkonfiguration für {0} auf jeder Seite fest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lege die Standardkonfiguration für {0} auf jeder Seite fest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

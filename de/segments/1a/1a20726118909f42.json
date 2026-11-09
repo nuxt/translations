@@ -1,0 +1,14 @@
+{
+  "hash": "1a20726118909f42",
+  "source": "On {0}Suspense{/0} resolved event.",
+  "text": "Beim {0}Suspense{/0}-Event „resolved“.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Beim {0}Suspense{/0}-Event „resolved“."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

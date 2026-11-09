@@ -1,0 +1,14 @@
+{
+  "hash": "e91b22e4794dadf9",
+  "source": "Any redirection on the server will result in a {0} header being sent to the browser; the browser then makes a fresh request to this new location. All application state will be reset when this happens, unless persisted in a cookie.",
+  "text": "Jede Weiterleitung auf dem Server führt dazu, dass ein {0}-Header an den Browser gesendet wird. Der Browser stellt daraufhin eine neue Anfrage an die neue Adresse. Dabei wird der gesamte Anwendungszustand zurückgesetzt, sofern er nicht in einem Cookie gespeichert ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Jede Weiterleitung auf dem Server führt dazu, dass ein {0}-Header an den Browser gesendet wird. Der Browser stellt daraufhin eine neue Anfrage an die neue Adresse. Dabei wird der gesamte Anwendungszustand zurückgesetzt, sofern er nicht in einem Cookie gespeichert ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

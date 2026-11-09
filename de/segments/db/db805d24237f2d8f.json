@@ -1,0 +1,14 @@
+{
+  "hash": "db805d24237f2d8f",
+  "source": "Wrap the following in backticks so they render as inline code:",
+  "text": "Setze Folgendes in Backticks, damit es als Inline-Code dargestellt wird:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Setze Folgendes in Backticks, damit es als Inline-Code dargestellt wird:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "ba4081970e538b69",
+  "source": "Disabling Auto-imports",
+  "text": "Automatische Importe deaktivieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Automatische Importe deaktivieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

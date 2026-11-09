@@ -1,0 +1,14 @@
+{
+  "hash": "e3efb101334a88e5",
+  "source": "If {0}, prepends middleware before existing middlewares.",
+  "text": "Wenn {0}, wird die Middleware vor bestehenden Middleware-Einträgen eingefügt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn {0}, wird die Middleware vor bestehenden Middleware-Einträgen eingefügt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

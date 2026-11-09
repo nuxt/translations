@@ -1,0 +1,14 @@
+{
+  "hash": "3de190e5c3a2f519",
+  "source": "be sure to test these using {0}",
+  "text": "teste diesen unbedingt mit {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "teste diesen unbedingt mit {0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

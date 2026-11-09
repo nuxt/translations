@@ -1,0 +1,14 @@
+{
+  "hash": "17a32dd57d5ec79f",
+  "source": "Plugins are self-contained code that usually add app-level functionality to Vue. In Nuxt, plugins are automatically imported from the {0} directory. However, if you need to ship a plugin with your module, Nuxt Kit provides the {1} and {2} methods. These utils allow you to customize the plugin configuration to better suit your needs.",
+  "text": "Plugins sind in sich geschlossener Code, der Vue in der Regel um Funktionalität auf App-Ebene erweitert. In Nuxt werden Plugins automatisch aus dem Verzeichnis {0} importiert. Wenn du jedoch ein Plugin mit deinem Modul ausliefern möchtest, stellt Nuxt Kit die Methoden {1} und {2} bereit. Mit diesen Hilfsfunktionen kannst du die Plugin-Konfiguration an deine Anforderungen anpassen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Plugins sind in sich geschlossener Code, der Vue in der Regel um Funktionalität auf App-Ebene erweitert. In Nuxt werden Plugins automatisch aus dem Verzeichnis {0} importiert. Wenn du jedoch ein Plugin mit deinem Modul ausliefern möchtest, stellt Nuxt Kit die Methoden {1} und {2} bereit. Mit diesen Hilfsfunktionen kannst du die Plugin-Konfiguration an deine Anforderungen anpassen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

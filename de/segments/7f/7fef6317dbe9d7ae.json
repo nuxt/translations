@@ -1,0 +1,14 @@
+{
+  "hash": "7fef6317dbe9d7ae",
+  "source": "By default, Nuxt renders the {0} hints for lazily imported chunks with {1} in place of {2}, and activates them once the app is ready (see {3}). This keeps them from competing with the page's own resources while it loads.",
+  "text": "Standardmäßig rendert Nuxt die {0}-Hinweise für lazy importierte Chunks mit {1} statt {2} und aktiviert sie, sobald die App bereit ist (siehe {3}). So konkurrieren sie beim Laden nicht mit den eigenen Ressourcen der Seite.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardmäßig rendert Nuxt die {0}-Hinweise für lazy importierte Chunks mit {1} statt {2} und aktiviert sie, sobald die App bereit ist (siehe {3}). So konkurrieren sie beim Laden nicht mit den eigenen Ressourcen der Seite."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

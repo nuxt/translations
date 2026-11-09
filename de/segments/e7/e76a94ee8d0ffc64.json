@@ -1,0 +1,14 @@
+{
+  "hash": "e76a94ee8d0ffc64",
+  "source": "1\\. Migrate to use Vite plugins",
+  "text": "1\\. Zu Vite-Plugins migrieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "1\\. Zu Vite-Plugins migrieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

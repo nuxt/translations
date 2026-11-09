@@ -1,0 +1,14 @@
+{
+  "hash": "4c468062d62ef9b5",
+  "source": "Include Vue compiler in runtime bundle.",
+  "text": "Bindet den Vue-Compiler in das Runtime-Bundle ein.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bindet den Vue-Compiler in das Runtime-Bundle ein."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

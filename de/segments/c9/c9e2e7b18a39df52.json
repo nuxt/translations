@@ -1,0 +1,14 @@
+{
+  "hash": "c9e2e7b18a39df52",
+  "source": "{0} may be passed before the command name as well as after it, which is useful in a monorepo:",
+  "text": "{0} kann sowohl vor als auch nach dem Befehlsnamen angegeben werden, was in einem Monorepo nützlich ist:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} kann sowohl vor als auch nach dem Befehlsnamen angegeben werden, was in einem Monorepo nützlich ist:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

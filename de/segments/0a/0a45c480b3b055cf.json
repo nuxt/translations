@@ -1,0 +1,14 @@
+{
+  "hash": "0a45c480b3b055cf",
+  "source": "When pointing to a different application on the same domain, using the {0} prop ensures the correct behavior.",
+  "text": "Wenn du auf eine andere Anwendung auf derselben Domain verweist, sorgt die Prop {0} für das richtige Verhalten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du auf eine andere Anwendung auf derselben Domain verweist, sorgt die Prop {0} für das richtige Verhalten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

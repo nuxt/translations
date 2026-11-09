@@ -1,0 +1,14 @@
+{
+  "hash": "0bfd5473efc208c4",
+  "source": "Watch a video from Alexander Lichter to dig deeper into the difference between useFetch and useAsyncData",
+  "text": "Sieh dir ein Video von Alexander Lichter an, um den Unterschied zwischen useFetch und useAsyncData genauer zu verstehen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sieh dir ein Video von Alexander Lichter an, um den Unterschied zwischen useFetch und useAsyncData genauer zu verstehen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

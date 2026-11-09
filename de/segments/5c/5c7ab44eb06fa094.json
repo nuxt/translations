@@ -1,0 +1,14 @@
+{
+  "hash": "5c7ab44eb06fa094",
+  "source": "Read more about {0} util.",
+  "text": "Lies mehr über die Hilfsfunktion {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lies mehr über die Hilfsfunktion {0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

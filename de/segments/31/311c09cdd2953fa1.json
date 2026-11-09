@@ -1,0 +1,14 @@
+{
+  "hash": "311c09cdd2953fa1",
+  "source": "When building more complex Nuxt applications, you will probably encounter some of the problems listed below. Understanding these problems and fixing them will help you improve performance of your website.",
+  "text": "Beim Entwickeln komplexerer Nuxt-Anwendungen stößt du wahrscheinlich auf einige der unten aufgeführten Probleme. Wenn du diese Probleme verstehst und behebst, verbesserst du die Performance deiner Website.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Beim Entwickeln komplexerer Nuxt-Anwendungen stößt du wahrscheinlich auf einige der unten aufgeführten Probleme. Wenn du diese Probleme verstehst und behebst, verbesserst du die Performance deiner Website."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

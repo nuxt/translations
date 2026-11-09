@@ -1,0 +1,14 @@
+{
+  "hash": "2b0bc283c457bbf0",
+  "source": "This is useful for updating the {0} ref when we know the new cookie value has been set in the browser.",
+  "text": "Das ist nützlich, um die Ref {0} zu aktualisieren, wenn der neue Cookie-Wert bereits im Browser gesetzt wurde.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das ist nützlich, um die Ref {0} zu aktualisieren, wenn der neue Cookie-Wert bereits im Browser gesetzt wurde."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

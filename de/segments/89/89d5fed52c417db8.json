@@ -1,0 +1,14 @@
+{
+  "hash": "89d5fed52c417db8",
+  "source": "**{0}** - Use for external dependencies (npm packages, remote repositories) or layers outside your project directory",
+  "text": "**{0}** – Verwende es für externe Abhängigkeiten (npm-Pakete, Remote-Repositorys) oder Layer außerhalb deines Projektverzeichnisses",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** – Verwende es für externe Abhängigkeiten (npm-Pakete, Remote-Repositorys) oder Layer außerhalb deines Projektverzeichnisses"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

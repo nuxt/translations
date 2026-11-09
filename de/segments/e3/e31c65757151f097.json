@@ -1,0 +1,14 @@
+{
+  "hash": "e31c65757151f097",
+  "source": "Files marked as variable without a range ({0}, {1}, or a camel-cased {2} / {3}) are treated as covering the full {4} to {5} range. The marker is also treated as part of the family name, so {6} matches both {7} and {8}, and {9} matches both {10} and {11}.",
+  "text": "Dateien, die ohne Bereich als variabel gekennzeichnet sind ({0}, {1} oder ein in Camel Case geschriebenes {2} / {3}), werden so behandelt, als deckten sie den gesamten Bereich von {4} bis {5} ab. Die Kennzeichnung gilt außerdem als Teil des Familiennamens, sodass {6} sowohl zu {7} als auch zu {8} passt und {9} sowohl zu {10} als auch zu {11}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dateien, die ohne Bereich als variabel gekennzeichnet sind ({0}, {1} oder ein in Camel Case geschriebenes {2} / {3}), werden so behandelt, als deckten sie den gesamten Bereich von {4} bis {5} ab. Die Kennzeichnung gilt außerdem als Teil des Familiennamens, sodass {6} sowohl zu {7} als auch zu {8} passt und {9} sowohl zu {10} als auch zu {11}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

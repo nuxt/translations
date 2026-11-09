@@ -1,0 +1,14 @@
+{
+  "hash": "8c7e585623a6fb1b",
+  "source": "You can manually specify routes that Nuxt will fetch and pre-render during the build or ignore routes that you don't want to pre-render like {0} in the {1} file:",
+  "text": "Du kannst manuell Routen angeben, die Nuxt während des Builds abruft und vorab rendert, oder Routen ausschließen, die nicht vorab gerendert werden sollen, wie {0} in der Datei {1}:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst manuell Routen angeben, die Nuxt während des Builds abruft und vorab rendert, oder Routen ausschließen, die nicht vorab gerendert werden sollen, wie {0} in der Datei {1}:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "f86856a03fcc54b4",
+  "source": "If you need more control or map over several objects, you can use the {0} function to alter the result of the query.",
+  "text": "Wenn du mehr Kontrolle brauchst oder über mehrere Objekte iterieren möchtest, kannst du die Funktion {0} verwenden, um das Ergebnis der Abfrage zu verändern.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du mehr Kontrolle brauchst oder über mehrere Objekte iterieren möchtest, kannst du die Funktion {0} verwenden, um das Ergebnis der Abfrage zu verändern."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

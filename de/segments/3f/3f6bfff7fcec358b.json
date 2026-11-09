@@ -1,0 +1,14 @@
+{
+  "hash": "3f6bfff7fcec358b",
+  "source": "Read more about dev containers",
+  "text": "Mehr über Dev Containers erfahren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mehr über Dev Containers erfahren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

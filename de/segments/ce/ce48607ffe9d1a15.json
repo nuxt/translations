@@ -1,0 +1,14 @@
+{
+  "hash": "ce48607ffe9d1a15",
+  "source": "Skip installing dependencies",
+  "text": "Installation der Abhängigkeiten überspringen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Installation der Abhängigkeiten überspringen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

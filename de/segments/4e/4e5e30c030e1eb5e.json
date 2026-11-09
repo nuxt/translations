@@ -1,0 +1,14 @@
+{
+  "hash": "4e5e30c030e1eb5e",
+  "source": "The example below creates a cookie called {0}. If the cookie doesn't exist, it is initially set to a random value. Whenever we update the {1} variable, the cookie will be updated accordingly.",
+  "text": "Das folgende Beispiel erstellt ein Cookie namens {0}. Existiert das Cookie noch nicht, wird es zunächst auf einen zufälligen Wert gesetzt. Sobald die Variable {1} aktualisiert wird, wird auch das Cookie entsprechend aktualisiert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das folgende Beispiel erstellt ein Cookie namens {0}. Existiert das Cookie noch nicht, wird es zunächst auf einen zufälligen Wert gesetzt. Sobald die Variable {1} aktualisiert wird, wird auch das Cookie entsprechend aktualisiert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

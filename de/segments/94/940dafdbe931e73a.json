@@ -1,0 +1,14 @@
+{
+  "hash": "940dafdbe931e73a",
+  "source": "If you prefer to use {0} on its own for unit testing in Nuxt, and you are only testing components which do not rely on Nuxt composables, auto-imports or context, you can follow these steps to set it up.",
+  "text": "Wenn du {0} in Nuxt eigenständig für Unit-Tests verwenden möchtest und nur Komponenten testest, die nicht auf Nuxt-Composables, automatische Importe oder den Nuxt-Kontext angewiesen sind, kannst du es mit den folgenden Schritten einrichten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du {0} in Nuxt eigenständig für Unit-Tests verwenden möchtest und nur Komponenten testest, die nicht auf Nuxt-Composables, automatische Importe oder den Nuxt-Kontext angewiesen sind, kannst du es mit den folgenden Schritten einrichten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

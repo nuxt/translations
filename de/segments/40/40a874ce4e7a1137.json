@@ -1,0 +1,14 @@
+{
+  "hash": "40a874ce4e7a1137",
+  "source": "Browser-only APIs in Server Context",
+  "text": "Nur im Browser verfügbare APIs im Server-Kontext",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nur im Browser verfügbare APIs im Server-Kontext"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

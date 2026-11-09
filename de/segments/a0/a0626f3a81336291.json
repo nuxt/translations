@@ -1,0 +1,14 @@
+{
+  "hash": "a0626f3a81336291",
+  "source": "**Downsides of client-side rendering:**",
+  "text": "**Nachteile des clientseitigen Renderings:**",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Nachteile des clientseitigen Renderings:**"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "dcf71e6e3565b45c",
+  "source": "Log level when building logs.",
+  "text": "Protokollierungsstufe für Protokolle beim Erstellen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Protokollierungsstufe für Protokolle beim Erstellen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

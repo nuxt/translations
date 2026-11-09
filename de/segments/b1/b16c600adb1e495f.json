@@ -1,0 +1,14 @@
+{
+  "hash": "b16c600adb1e495f",
+  "source": "Access the base layer",
+  "text": "Auf den Base-Layer zugreifen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auf den Base-Layer zugreifen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

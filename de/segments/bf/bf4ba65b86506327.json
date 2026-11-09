@@ -1,0 +1,14 @@
+{
+  "hash": "bf4ba65b86506327",
+  "source": "Because props come from the request (URL query or body), treat them as untrusted input. Nuxt rejects the props most likely to leak through unintentionally: a top-level {0} that the island does not declare (an undeclared prop falls through as an attribute onto the island's root), and, with {1} enabled, a {2} anywhere in the props. Beyond that, avoid feeding props you have not validated into dynamic component resolution ({3}, {4}, {5}, or a polymorphic {6} / {7} prop), since a string can resolve to any registered component or HTML element.",
+  "text": "Da Props aus der Anfrage stammen (URL-Query oder Body), behandle sie als nicht vertrauenswürdige Eingabe. Nuxt weist die Props zurück, die am ehesten unbeabsichtigt durchsickern: ein {0} auf oberster Ebene, das das Island nicht deklariert (eine nicht deklarierte Prop fällt als Attribut auf das Wurzelelement des Islands durch), und, wenn {1} aktiviert ist, ein {2} an beliebiger Stelle in den Props. Darüber hinaus solltest du keine nicht validierten Props in die dynamische Komponentenauflösung ({3}, {4}, {5} oder eine polymorphe {6}-/{7}-Prop) einspeisen, da ein String zu jeder registrierten Komponente oder jedem HTML-Element aufgelöst werden kann.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Da Props aus der Anfrage stammen (URL-Query oder Body), behandle sie als nicht vertrauenswürdige Eingabe. Nuxt weist die Props zurück, die am ehesten unbeabsichtigt durchsickern: ein {0} auf oberster Ebene, das das Island nicht deklariert (eine nicht deklarierte Prop fällt als Attribut auf das Wurzelelement des Islands durch), und, wenn {1} aktiviert ist, ein {2} an beliebiger Stelle in den Props. Darüber hinaus solltest du keine nicht validierten Props in die dynamische Komponentenauflösung ({3}, {4}, {5} oder eine polymorphe {6}-/{7}-Prop) einspeisen, da ein String zu jeder registrierten Komponente oder jedem HTML-Element aufgelöst werden kann."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

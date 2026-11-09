@@ -1,0 +1,14 @@
+{
+  "hash": "92448a0a4fe66b97",
+  "source": "Replace legacy checks in your app code, modules, and libraries:",
+  "text": "Ersetze veraltete Prüfungen in deinem App-Code, in Modulen und in Bibliotheken:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ersetze veraltete Prüfungen in deinem App-Code, in Modulen und in Bibliotheken:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

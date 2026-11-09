@@ -1,0 +1,14 @@
+{
+  "hash": "3de23d0fe7997965",
+  "source": "There are some cases when using the {0} composable is not appropriate, for example when a CMS or a third-party provides their own query layer. In this case, you can use {1} to wrap your calls and still keep the benefits provided by the composable.",
+  "text": "In manchen Fällen ist das Composable {0} nicht geeignet, zum Beispiel wenn ein CMS oder ein Drittanbieter eine eigene Abfrageschicht mitbringt. In diesem Fall kannst du {1} verwenden, um deine Aufrufe zu kapseln und trotzdem die Vorteile des Composables zu behalten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In manchen Fällen ist das Composable {0} nicht geeignet, zum Beispiel wenn ein CMS oder ein Drittanbieter eine eigene Abfrageschicht mitbringt. In diesem Fall kannst du {1} verwenden, um deine Aufrufe zu kapseln und trotzdem die Vorteile des Composables zu behalten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

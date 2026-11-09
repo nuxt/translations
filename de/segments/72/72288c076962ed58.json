@@ -1,0 +1,14 @@
+{
+  "hash": "72288c076962ed58",
+  "source": "The generated {0} files inside the {1} directory include **recommended basic TypeScript configuration** for your project, references to {2}auto-imports{/2}, {3}API route types{/3}, path aliases like {4}, {5}, or {6}, and more.",
+  "text": "Die generierten Dateien {0} im Verzeichnis {1} enthalten eine **empfohlene grundlegende TypeScript-Konfiguration** für dein Projekt, Verweise auf {2}automatische Importe{/2}, {3}Typen von API-Routen{/3}, Pfad-Aliasse wie {4}, {5} oder {6} und mehr.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die generierten Dateien {0} im Verzeichnis {1} enthalten eine **empfohlene grundlegende TypeScript-Konfiguration** für dein Projekt, Verweise auf {2}automatische Importe{/2}, {3}Typen von API-Routen{/3}, Pfad-Aliasse wie {4}, {5} oder {6} und mehr."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

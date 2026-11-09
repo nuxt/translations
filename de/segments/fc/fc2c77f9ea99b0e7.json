@@ -1,0 +1,14 @@
+{
+  "hash": "fc2c77f9ea99b0e7",
+  "source": "Update calls affected by the {0}differences from h3 v1{/0}, whether the helpers are imported or auto-imported.",
+  "text": "Passe Aufrufe an, die von den {0}Unterschieden zu h3 v1{/0} betroffen sind – unabhängig davon, ob die Hilfsfunktionen importiert oder automatisch importiert werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Passe Aufrufe an, die von den {0}Unterschieden zu h3 v1{/0} betroffen sind – unabhängig davon, ob die Hilfsfunktionen importiert oder automatisch importiert werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

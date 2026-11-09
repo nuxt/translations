@@ -1,0 +1,14 @@
+{
+  "hash": "e532599a4790917f",
+  "source": "{0} is a built-in component that comes with Nuxt. It lets you display top-level or nested pages located in the {1} directory.",
+  "text": "{0} ist eine in Nuxt integrierte Komponente. Mit ihr kannst du Seiten der obersten Ebene oder verschachtelte Seiten aus dem Verzeichnis {1} anzeigen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ist eine in Nuxt integrierte Komponente. Mit ihr kannst du Seiten der obersten Ebene oder verschachtelte Seiten aus dem Verzeichnis {1} anzeigen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

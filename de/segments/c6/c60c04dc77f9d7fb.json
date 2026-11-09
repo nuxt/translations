@@ -1,0 +1,14 @@
+{
+  "hash": "c60c04dc77f9d7fb",
+  "source": "Feature Flags",
+  "text": "Feature-Flags",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Feature-Flags"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

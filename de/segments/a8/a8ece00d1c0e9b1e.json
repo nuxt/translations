@@ -1,0 +1,14 @@
+{
+  "hash": "a8ece00d1c0e9b1e",
+  "source": "If you do not have a {0} folder, then {1} will return a universal router instance with similar helper methods, but be aware that not all features may be supported or behave in exactly the same way as with {2}.",
+  "text": "Wenn du kein Verzeichnis {0} hast, gibt {1} eine universelle Router-Instanz mit ähnlichen Hilfsmethoden zurück. Beachte jedoch, dass möglicherweise nicht alle Funktionen unterstützt werden oder sich nicht exakt so verhalten wie mit {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du kein Verzeichnis {0} hast, gibt {1} eine universelle Router-Instanz mit ähnlichen Hilfsmethoden zurück. Beachte jedoch, dass möglicherweise nicht alle Funktionen unterstützt werden oder sich nicht exakt so verhalten wie mit {2}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

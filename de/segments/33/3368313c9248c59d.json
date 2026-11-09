@@ -1,0 +1,14 @@
+{
+  "hash": "3368313c9248c59d",
+  "source": "We provide built-in support using Playwright within {0}, either programmatically or via the Playwright test runner.",
+  "text": "Wir bieten in {0} integrierte Unterstützung für Playwright, entweder programmatisch oder über den Playwright-Test-Runner.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wir bieten in {0} integrierte Unterstützung für Playwright, entweder programmatisch oder über den Playwright-Test-Runner."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

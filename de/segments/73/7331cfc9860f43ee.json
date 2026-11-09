@@ -1,0 +1,14 @@
+{
+  "hash": "7331cfc9860f43ee",
+  "source": "Server only components use {0} under the hood",
+  "text": "Serverkomponenten verwenden intern {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Serverkomponenten verwenden intern {0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

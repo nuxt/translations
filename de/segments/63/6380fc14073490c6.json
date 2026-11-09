@@ -1,0 +1,14 @@
+{
+  "hash": "6380fc14073490c6",
+  "source": "Configure browser mode in your {0}:",
+  "text": "Konfiguriere den Browser-Modus in deiner {0}:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Konfiguriere den Browser-Modus in deiner {0}:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

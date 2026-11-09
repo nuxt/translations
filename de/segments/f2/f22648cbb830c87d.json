@@ -1,0 +1,14 @@
+{
+  "hash": "f22648cbb830c87d",
+  "source": "Enables auto import for this export",
+  "text": "Aktiviert den automatischen Import für diesen Export",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Aktiviert den automatischen Import für diesen Export"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

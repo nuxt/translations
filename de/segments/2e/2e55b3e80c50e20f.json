@@ -1,0 +1,14 @@
+{
+  "hash": "2e55b3e80c50e20f",
+  "source": "Called when an error occurs at build time.",
+  "text": "Wird aufgerufen, wenn zur Build-Zeit ein Fehler auftritt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird aufgerufen, wenn zur Build-Zeit ein Fehler auftritt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

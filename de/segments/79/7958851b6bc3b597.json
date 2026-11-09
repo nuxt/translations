@@ -1,0 +1,14 @@
+{
+  "hash": "7958851b6bc3b597",
+  "source": "Per-request state, including Nuxt's own state under {0}.",
+  "text": "Zustand pro Anfrage, einschließlich des Nuxt-eigenen Zustands unter {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Zustand pro Anfrage, einschließlich des Nuxt-eigenen Zustands unter {0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

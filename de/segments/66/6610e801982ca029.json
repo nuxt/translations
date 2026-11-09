@@ -1,0 +1,14 @@
+{
+  "hash": "6610e801982ca029",
+  "source": "By default, data fetching composables will perform their asynchronous function on both client and server environments. Set the {0} option to {1} to only perform the call on the client-side. On initial load, the data will not be fetched before hydration is complete so you have to handle a pending state, though on subsequent client-side navigation the data will be awaited before loading the page.",
+  "text": "Standardmäßig führen Datenabruf-Composables ihre asynchrone Funktion sowohl auf dem Client als auch auf dem Server aus. Setze die Option {0} auf {1}, um den Aufruf nur auf dem Client auszuführen. Beim ersten Laden werden die Daten erst nach Abschluss der Hydration abgerufen, sodass du einen Pending-Zustand behandeln musst. Bei der anschließenden Navigation auf dem Client wird jedoch auf die Daten gewartet, bevor die Seite geladen wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardmäßig führen Datenabruf-Composables ihre asynchrone Funktion sowohl auf dem Client als auch auf dem Server aus. Setze die Option {0} auf {1}, um den Aufruf nur auf dem Client auszuführen. Beim ersten Laden werden die Daten erst nach Abschluss der Hydration abgerufen, sodass du einen Pending-Zustand behandeln musst. Bei der anschließenden Navigation auf dem Client wird jedoch auf die Daten gewartet, bevor die Seite geladen wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

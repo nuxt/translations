@@ -1,0 +1,14 @@
+{
+  "hash": "8bb7efe755f9f406",
+  "source": "It's important to be able to reproduce the bug reliably - in a minimal way and apart from the rest of your project. This narrows down what could be causing the issue and makes it possible for someone not only to find the cause, but also to test a potential solution.",
+  "text": "Es ist wichtig, den Fehler zuverlässig reproduzieren zu können – auf minimale Weise und getrennt vom Rest deines Projekts. Das grenzt ein, was das Problem verursachen könnte, und macht es möglich, nicht nur die Ursache zu finden, sondern auch eine mögliche Lösung zu testen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Es ist wichtig, den Fehler zuverlässig reproduzieren zu können – auf minimale Weise und getrennt vom Rest deines Projekts. Das grenzt ein, was das Problem verursachen könnte, und macht es möglich, nicht nur die Ursache zu finden, sondern auch eine mögliche Lösung zu testen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "07b95fb80cdb51dd",
+  "source": "{0} provides some built-in mocks for the DOM environment.",
+  "text": "{0} bietet einige integrierte Mocks für die DOM-Umgebung.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} bietet einige integrierte Mocks für die DOM-Umgebung."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

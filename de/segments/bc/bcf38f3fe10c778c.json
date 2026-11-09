@@ -1,0 +1,14 @@
+{
+  "hash": "bcf38f3fe10c778c",
+  "source": "To enable it explicitly:",
+  "text": "So aktivierst du sie explizit:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "So aktivierst du sie explizit:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

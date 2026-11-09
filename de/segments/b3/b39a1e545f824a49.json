@@ -1,0 +1,14 @@
+{
+  "hash": "b39a1e545f824a49",
+  "source": "{0}postcss-url{/0}: Transforms {1} statements",
+  "text": "{0}postcss-url{/0}: Transformiert {1}-Anweisungen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}postcss-url{/0}: Transformiert {1}-Anweisungen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

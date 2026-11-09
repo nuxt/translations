@@ -1,0 +1,14 @@
+{
+  "hash": "fb7cfeaf8719077b",
+  "source": "Not awaiting has a similar user-visible effect to the {0} option (navigation is not blocked and you handle loading state yourself), but the two are not identical: {1} is an explicit flag that defers the request until the component mounts, whereas simply not awaiting starts the request during setup. Prefer {2} (or {3} / {4}) when you want non-blocking behavior, since it makes the intent explicit.",
+  "text": "Nicht zu warten hat eine ähnliche für Nutzende sichtbare Wirkung wie die Option {0} (die Navigation wird nicht blockiert und du kümmerst dich selbst um den Ladezustand), aber beide sind nicht identisch: {1} ist ein explizites Flag, das die Anfrage aufschiebt, bis die Komponente gemountet ist, während die Anfrage ohne Warten bereits während des Setups startet. Bevorzuge {2} (oder {3} / {4}), wenn du ein nicht blockierendes Verhalten möchtest, da es die Absicht explizit macht.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nicht zu warten hat eine ähnliche für Nutzende sichtbare Wirkung wie die Option {0} (die Navigation wird nicht blockiert und du kümmerst dich selbst um den Ladezustand), aber beide sind nicht identisch: {1} ist ein explizites Flag, das die Anfrage aufschiebt, bis die Komponente gemountet ist, während die Anfrage ohne Warten bereits während des Setups startet. Bevorzuge {2} (oder {3} / {4}), wenn du ein nicht blockierendes Verhalten möchtest, da es die Absicht explizit macht."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

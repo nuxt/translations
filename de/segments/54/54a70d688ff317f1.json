@@ -1,0 +1,14 @@
+{
+  "hash": "54a70d688ff317f1",
+  "source": "Generated {0} declarations were previously minified with esbuild unless you had opted into {1}. They are now minified with lightningcss, so the exact serialisation of the CSS we inject may differ (for example {2} rather than {3}). This is cosmetic, but it will show up in snapshot tests.",
+  "text": "Erzeugte {0}-Deklarationen wurden bisher mit esbuild minifiziert, sofern du dich nicht für {1} entschieden hattest. Jetzt werden sie mit lightningcss minifiziert, sodass sich die genaue Serialisierung des eingefügten CSS unterscheiden kann (z. B. {2} statt {3}). Das ist rein kosmetisch, zeigt sich aber in Snapshot-Tests.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erzeugte {0}-Deklarationen wurden bisher mit esbuild minifiziert, sofern du dich nicht für {1} entschieden hattest. Jetzt werden sie mit lightningcss minifiziert, sodass sich die genaue Serialisierung des eingefügten CSS unterscheiden kann (z. B. {2} statt {3}). Das ist rein kosmetisch, zeigt sich aber in Snapshot-Tests."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

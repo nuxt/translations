@@ -1,0 +1,14 @@
+{
+  "hash": "90037d70c3865de9",
+  "source": "Accessing {0} and {1} in script",
+  "text": "Auf {0} und {1} im Skript zugreifen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auf {0} und {1} im Skript zugreifen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

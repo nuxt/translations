@@ -1,0 +1,14 @@
+{
+  "hash": "036c25a50ec9659d",
+  "source": "Type-check from scratch, without reusing type information from previous runs",
+  "text": "Typprüfung von Grund auf, ohne Typinformationen aus vorherigen Durchläufen wiederzuverwenden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Typprüfung von Grund auf, ohne Typinformationen aus vorherigen Durchläufen wiederzuverwenden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

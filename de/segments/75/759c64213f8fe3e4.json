@@ -1,0 +1,14 @@
+{
+  "hash": "759c64213f8fe3e4",
+  "source": "{0}: An object or an array of objects with the following properties:",
+  "text": "{0}: Ein Objekt oder ein Array von Objekten mit den folgenden Eigenschaften:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Ein Objekt oder ein Array von Objekten mit den folgenden Eigenschaften:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

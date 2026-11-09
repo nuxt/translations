@@ -1,0 +1,14 @@
+{
+  "hash": "7d5ec6ba2c2e2c46",
+  "source": "Bundlers like webpack and Rollup support this syntax and allow you to use modules written in CommonJS in the browser.",
+  "text": "Bundler wie webpack und Rollup unterstützen diese Syntax und ermöglichen es dir, in CommonJS geschriebene Module im Browser zu verwenden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bundler wie webpack und Rollup unterstützen diese Syntax und ermöglichen es dir, in CommonJS geschriebene Module im Browser zu verwenden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

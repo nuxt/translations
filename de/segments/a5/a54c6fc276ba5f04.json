@@ -1,0 +1,14 @@
+{
+  "hash": "a54c6fc276ba5f04",
+  "source": "The {0} command logs information about the current or specified Nuxt project.",
+  "text": "Der Befehl {0} protokolliert Informationen zum aktuellen oder angegebenen Nuxt-Projekt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Befehl {0} protokolliert Informationen zum aktuellen oder angegebenen Nuxt-Projekt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

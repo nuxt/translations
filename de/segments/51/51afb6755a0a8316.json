@@ -1,0 +1,14 @@
+{
+  "hash": "51afb6755a0a8316",
+  "source": "Registration Order",
+  "text": "Reihenfolge der Registrierung",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Reihenfolge der Registrierung"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

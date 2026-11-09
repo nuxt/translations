@@ -1,0 +1,14 @@
+{
+  "hash": "bdfbb47b59883cac",
+  "source": "After initializing plugins and before executing middleware, Nuxt calls the {0} method if it is defined in the {1} function. The {2} method, which can be synchronous or asynchronous, is often used to validate dynamic route parameters.",
+  "text": "Nach der Initialisierung der Plugins und vor der Ausführung der Middleware ruft Nuxt die Methode {0} auf, sofern sie in der Funktion {1} definiert ist. Die Methode {2} kann synchron oder asynchron sein und wird häufig verwendet, um dynamische Routenparameter zu validieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nach der Initialisierung der Plugins und vor der Ausführung der Middleware ruft Nuxt die Methode {0} auf, sofern sie in der Funktion {1} definiert ist. Die Methode {2} kann synchron oder asynchron sein und wird häufig verwendet, um dynamische Routenparameter zu validieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

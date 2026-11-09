@@ -1,0 +1,14 @@
+{
+  "hash": "f81a6caf07dae19a",
+  "source": "Metadata of the module. It defines the module name, version, config key and compatibility.",
+  "text": "Metadaten des Moduls. Sie legen Modulnamen, Version, Konfigurationsschlüssel und Kompatibilität fest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Metadaten des Moduls. Sie legen Modulnamen, Version, Konfigurationsschlüssel und Kompatibilität fest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

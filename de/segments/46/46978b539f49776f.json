@@ -1,0 +1,14 @@
+{
+  "hash": "46978b539f49776f",
+  "source": "useLazyFetch lets navigation continue before the fetch completes.",
+  "text": "useLazyFetch lässt die Navigation fortfahren, bevor der Abruf abgeschlossen ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "useLazyFetch lässt die Navigation fortfahren, bevor der Abruf abgeschlossen ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

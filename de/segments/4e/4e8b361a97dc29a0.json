@@ -1,0 +1,14 @@
+{
+  "hash": "4e8b361a97dc29a0",
+  "source": "Benefits of Project References",
+  "text": "Vorteile von Projektreferenzen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vorteile von Projektreferenzen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

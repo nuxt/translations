@@ -1,0 +1,14 @@
+{
+  "hash": "e75aa3e7b859c38e",
+  "source": "Powered by Nitro",
+  "text": "Angetrieben von Nitro",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Angetrieben von Nitro"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "924563757f36b5a0",
+  "source": "Given the example above, fetching {0} with:",
+  "text": "Beim Abruf von {0} im obigen Beispiel gilt mit:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Beim Abruf von {0} im obigen Beispiel gilt mit:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

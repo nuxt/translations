@@ -1,0 +1,14 @@
+{
+  "hash": "1e9b1f6b3727fbd5",
+  "source": "Called immediately after each individual module has been set up, including how long it took.",
+  "text": "Wird unmittelbar nach der Einrichtung jedes einzelnen Moduls aufgerufen, einschließlich der dafür benötigten Zeit.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird unmittelbar nach der Einrichtung jedes einzelnen Moduls aufgerufen, einschließlich der dafür benötigten Zeit."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

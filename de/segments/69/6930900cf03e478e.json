@@ -1,0 +1,14 @@
+{
+  "hash": "6930900cf03e478e",
+  "source": "These files are optimized for AI consumption and contain structured information about concepts, APIs, usage patterns, and best practices.",
+  "text": "Diese Dateien sind für die Verarbeitung durch KI optimiert und enthalten strukturierte Informationen zu Konzepten, APIs, Nutzungsmustern und Best Practices.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese Dateien sind für die Verarbeitung durch KI optimiert und enthalten strukturierte Informationen zu Konzepten, APIs, Nutzungsmustern und Best Practices."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

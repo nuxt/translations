@@ -1,0 +1,14 @@
+{
+  "hash": "a86117cdaa43e67f",
+  "source": "Returns the Nitro instance, or {0} when there is none.",
+  "text": "Gibt die Nitro-Instanz zurück oder {0}, wenn keine vorhanden ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gibt die Nitro-Instanz zurück oder {0}, wenn keine vorhanden ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

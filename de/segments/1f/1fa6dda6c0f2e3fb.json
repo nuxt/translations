@@ -1,0 +1,14 @@
+{
+  "hash": "1fa6dda6c0f2e3fb",
+  "source": "We highly recommend {0}creating a module{/0} first to test out big new features and gain community adoption.",
+  "text": "Wir empfehlen dringend, zuerst {0}ein Modul zu erstellen{/0}, um große neue Funktionen zu testen und Akzeptanz in der Community zu gewinnen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wir empfehlen dringend, zuerst {0}ein Modul zu erstellen{/0}, um große neue Funktionen zu testen und Akzeptanz in der Community zu gewinnen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

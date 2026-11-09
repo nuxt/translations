@@ -1,0 +1,14 @@
+{
+  "hash": "919c491a05af0706",
+  "source": "Called when a font family is resolved, with the {0} data generated for it. This covers families found in your CSS and families declared with {1} in {2}, so modules that render fonts outside the browser (e.g., OG image generation) can reuse them instead of resolving them again.",
+  "text": "Wird aufgerufen, wenn eine Schriftfamilie aufgelöst wurde, zusammen mit den dafür erzeugten {0}-Daten. Das umfasst Familien, die in deinem CSS gefunden wurden, sowie Familien, die mit {1} in {2} deklariert sind. So können Module, die Schriftarten außerhalb des Browsers rendern (z. B. die Erzeugung von OG-Bildern), sie wiederverwenden, anstatt sie erneut aufzulösen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird aufgerufen, wenn eine Schriftfamilie aufgelöst wurde, zusammen mit den dafür erzeugten {0}-Daten. Das umfasst Familien, die in deinem CSS gefunden wurden, sowie Familien, die mit {1} in {2} deklariert sind. So können Module, die Schriftarten außerhalb des Browsers rendern (z. B. die Erzeugung von OG-Bildern), sie wiederverwenden, anstatt sie erneut aufzulösen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

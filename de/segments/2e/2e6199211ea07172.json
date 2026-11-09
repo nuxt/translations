@@ -1,0 +1,14 @@
+{
+  "hash": "2e6199211ea07172",
+  "source": "You will not have access to the router or other Nuxt-injected properties.",
+  "text": "Du hast keinen Zugriff auf den Router oder andere von Nuxt injizierte Eigenschaften.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du hast keinen Zugriff auf den Router oder andere von Nuxt injizierte Eigenschaften."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

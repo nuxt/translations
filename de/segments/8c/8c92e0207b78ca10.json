@@ -1,0 +1,14 @@
+{
+  "hash": "8c92e0207b78ca10",
+  "source": "The two builders talk to each other through the {0}build output contract{/0}: the app builder provides artifacts by key, and the server builder resolves them into modules the renderer can import. Neither one names the other, so in theory any app builder should work with any server builder.",
+  "text": "Die beiden Builder kommunizieren über den {0}Build-Output-Vertrag{/0} miteinander: Der App-Builder stellt Artefakte unter einem Schlüssel bereit, und der Server-Builder löst sie in Module auf, die der Renderer importieren kann. Keiner der beiden kennt den anderen namentlich, daher sollte theoretisch jeder App-Builder mit jedem Server-Builder funktionieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die beiden Builder kommunizieren über den {0}Build-Output-Vertrag{/0} miteinander: Der App-Builder stellt Artefakte unter einem Schlüssel bereit, und der Server-Builder löst sie in Module auf, die der Renderer importieren kann. Keiner der beiden kennt den anderen namentlich, daher sollte theoretisch jeder App-Builder mit jedem Server-Builder funktionieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

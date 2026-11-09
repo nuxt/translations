@@ -1,0 +1,14 @@
+{
+  "hash": "708205d018291cb7",
+  "source": "**{0}** runs each time the module version increases (using semver comparison) — but only once for each version bump.",
+  "text": "**{0}** wird jedes Mal ausgeführt, wenn sich die Modulversion erhöht (per Semver-Vergleich) – aber nur einmal pro Versionssprung.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** wird jedes Mal ausgeführt, wenn sich die Modulversion erhöht (per Semver-Vergleich) – aber nur einmal pro Versionssprung."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "a073a25d39c658b5",
+  "source": "The {0} composable allows you to manage your head tags in a programmatic and reactive way, powered by {1}Unhead{/1}. It lets you customize the meta tags, links, scripts, and other elements in the {2} section of your HTML document.",
+  "text": "Mit dem Composable {0} verwaltest du deine Head-Tags programmatisch und reaktiv, angetrieben von {1}Unhead{/1}. Du kannst damit Meta-Tags, Links, Skripte und weitere Elemente im Bereich {2} deines HTML-Dokuments anpassen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit dem Composable {0} verwaltest du deine Head-Tags programmatisch und reaktiv, angetrieben von {1}Unhead{/1}. Du kannst damit Meta-Tags, Links, Skripte und weitere Elemente im Bereich {2} deines HTML-Dokuments anpassen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

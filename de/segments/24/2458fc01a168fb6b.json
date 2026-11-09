@@ -1,0 +1,14 @@
+{
+  "hash": "2458fc01a168fb6b",
+  "source": "Now, {0} and {1} behave consistently - by only fetch data when the key changes if the data has already been fetched once.",
+  "text": "Jetzt verhalten sich {0} und {1} einheitlich: Bei einer Schlüsseländerung laden sie nur dann Daten, wenn diese bereits einmal geladen wurden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Jetzt verhalten sich {0} und {1} einheitlich: Bei einer Schlüsseländerung laden sie nur dann Daten, wenn diese bereits einmal geladen wurden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

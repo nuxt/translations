@@ -1,0 +1,14 @@
+{
+  "hash": "389d8daa5169e2a3",
+  "source": "**Deprecated:** Use the {0} option in {1} instead. The {2} function will be removed (or may become non-blocking) in a future version.",
+  "text": "**Nicht mehr empfohlen:** Verwende stattdessen die Option {0} in {1}. Die Funktion {2} wird in einer zukünftigen Version entfernt (oder wird möglicherweise nicht mehr blockierend).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Nicht mehr empfohlen:** Verwende stattdessen die Option {0} in {1}. Die Funktion {2} wird in einer zukünftigen Version entfernt (oder wird möglicherweise nicht mehr blockierend)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

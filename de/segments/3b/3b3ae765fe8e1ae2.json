@@ -1,0 +1,14 @@
+{
+  "hash": "3b3ae765fe8e1ae2",
+  "source": "default values",
+  "text": "Standardwerte",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardwerte"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

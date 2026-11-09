@@ -1,0 +1,14 @@
+{
+  "hash": "e66e4f93e740cca4",
+  "source": "If it is a path, it is resolved relative to {0}.",
+  "text": "Wenn der Wert ein Pfad ist, wird er relativ zu {0} aufgelöst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn der Wert ein Pfad ist, wird er relativ zu {0} aufgelöst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "9534a59942bcbacb",
+  "source": "When you run {0}, {1} or {2}, Nuxt will generate multiple {3} files for different parts of your application.",
+  "text": "Wenn du {0}, {1} oder {2} ausführst, generiert Nuxt mehrere {3}-Dateien für verschiedene Teile deiner Anwendung.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du {0}, {1} oder {2} ausführst, generiert Nuxt mehrere {3}-Dateien für verschiedene Teile deiner Anwendung."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

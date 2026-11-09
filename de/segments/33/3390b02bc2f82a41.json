@@ -1,0 +1,14 @@
+{
+  "hash": "3390b02bc2f82a41",
+  "source": "The components/ directory is where you put all your Vue components.",
+  "text": "Im Verzeichnis components/ legst du alle deine Vue-Komponenten ab.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Im Verzeichnis components/ legst du alle deine Vue-Komponenten ab."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

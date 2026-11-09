@@ -1,0 +1,14 @@
+{
+  "hash": "d982d2c75da7ab44",
+  "source": "Vue and Nuxt Composables",
+  "text": "Vue- und Nuxt-Composables",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vue- und Nuxt-Composables"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

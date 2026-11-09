@@ -1,0 +1,14 @@
+{
+  "hash": "acb6a079d8d28ce8",
+  "source": "Discover all the Nuxt lifecycle hooks.",
+  "text": "Entdecke alle Lifecycle-Hooks von Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Entdecke alle Lifecycle-Hooks von Nuxt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

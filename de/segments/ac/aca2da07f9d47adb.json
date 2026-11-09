@@ -1,0 +1,14 @@
+{
+  "hash": "aca2da07f9d47adb",
+  "source": "Vue lifecycle",
+  "text": "Vue-Lifecycle",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vue-Lifecycle"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

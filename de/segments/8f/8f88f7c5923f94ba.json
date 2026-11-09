@@ -1,0 +1,14 @@
+{
+  "hash": "8f88f7c5923f94ba",
+  "source": "Skip serving the analysis results",
+  "text": "Die Analyseergebnisse nicht bereitstellen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Analyseergebnisse nicht bereitstellen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

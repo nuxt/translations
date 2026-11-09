@@ -1,0 +1,14 @@
+{
+  "hash": "46d0f8c4b87d69e2",
+  "source": "Augmenting {0} or {1} from {2} changes the types only. Values without a schema are still cast with {3}, so an augmented type can describe a value your app never receives.",
+  "text": "Das Erweitern von {0} oder {1} aus {2} ändert nur die Typen. Werte ohne Schema werden weiterhin mit {3} umgewandelt, sodass ein erweiterter Typ einen Wert beschreiben kann, den deine App nie erhält.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Erweitern von {0} oder {1} aus {2} ändert nur die Typen. Werte ohne Schema werden weiterhin mit {3} umgewandelt, sodass ein erweiterter Typ einen Wert beschreiben kann, den deine App nie erhält."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

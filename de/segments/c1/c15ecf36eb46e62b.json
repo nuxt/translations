@@ -1,0 +1,14 @@
+{
+  "hash": "c15ecf36eb46e62b",
+  "source": "Nuxt will automatically read in any file in the {0} to create server middleware for your project.",
+  "text": "Nuxt liest automatisch jede Datei im Verzeichnis {0} ein, um Server-Middleware für dein Projekt zu erstellen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt liest automatisch jede Datei im Verzeichnis {0} ein, um Server-Middleware für dein Projekt zu erstellen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

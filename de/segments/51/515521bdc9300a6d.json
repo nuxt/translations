@@ -1,0 +1,14 @@
+{
+  "hash": "515521bdc9300a6d",
+  "source": "If the value is not always needed, give it a default or make it optional in {0}:",
+  "text": "Wenn der Wert nicht immer benötigt wird, gib ihm in {0} einen Standardwert oder mache ihn optional:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn der Wert nicht immer benötigt wird, gib ihm in {0} einen Standardwert oder mache ihn optional:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

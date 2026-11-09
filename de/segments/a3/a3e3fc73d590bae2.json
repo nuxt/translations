@@ -1,0 +1,14 @@
+{
+  "hash": "a3e3fc73d590bae2",
+  "source": "If the API responds with a {0} status code, we redirect the user to the {1} page",
+  "text": "Wenn die API mit dem Statuscode {0} antwortet, werden die Nutzenden auf die Seite {1} weitergeleitet",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn die API mit dem Statuscode {0} antwortet, werden die Nutzenden auf die Seite {1} weitergeleitet"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

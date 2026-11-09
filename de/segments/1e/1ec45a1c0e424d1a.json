@@ -1,0 +1,14 @@
+{
+  "hash": "1ec45a1c0e424d1a",
+  "source": "The {0} and {1} are independent, and on the client awaiting a {2} function won't have the effect you expect. If you {3} a {4} call (for example {5} or {6}), it still blocks server rendering as usual, but on **client-side navigation** the {7} resolves immediately without waiting for the request. {8} will still be at its default value right after the {9}, and you must handle the loading state via {10}. If you actually want the navigation to wait for the data, drop the {11} option rather than relying on {12}.",
+  "text": "{0} und {1} sind voneinander unabhängig, und im Client hat das Warten auf eine {2}-Funktion nicht die erwartete Wirkung. Wenn du {3} auf einen {4}-Aufruf anwendest (zum Beispiel {5} oder {6}), blockiert er das Server-Rendering weiterhin wie gewohnt, aber bei der **clientseitigen Navigation** wird {7} sofort aufgelöst, ohne auf die Anfrage zu warten. {8} hat direkt nach {9} noch seinen Standardwert, und du musst den Ladezustand über {10} behandeln. Wenn die Navigation tatsächlich auf die Daten warten soll, entferne die Option {11}, anstatt dich auf {12} zu verlassen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} und {1} sind voneinander unabhängig, und im Client hat das Warten auf eine {2}-Funktion nicht die erwartete Wirkung. Wenn du {3} auf einen {4}-Aufruf anwendest (zum Beispiel {5} oder {6}), blockiert er das Server-Rendering weiterhin wie gewohnt, aber bei der **clientseitigen Navigation** wird {7} sofort aufgelöst, ohne auf die Anfrage zu warten. {8} hat direkt nach {9} noch seinen Standardwert, und du musst den Ladezustand über {10} behandeln. Wenn die Navigation tatsächlich auf die Daten warten soll, entferne die Option {11}, anstatt dich auf {12} zu verlassen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

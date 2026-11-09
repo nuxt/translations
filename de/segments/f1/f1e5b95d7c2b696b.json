@@ -1,0 +1,14 @@
+{
+  "hash": "f1e5b95d7c2b696b",
+  "source": "When reactive fetch options are provided, they'll be automatically watched and trigger refetches. In some cases, it can be useful to opt-out of this behavior by specifying {0}.",
+  "text": "Wenn reaktive Abrufoptionen angegeben werden, werden sie automatisch beobachtet und lösen erneute Abrufe aus. In manchen Fällen kann es sinnvoll sein, dieses Verhalten durch Angabe von {0} zu deaktivieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn reaktive Abrufoptionen angegeben werden, werden sie automatisch beobachtet und lösen erneute Abrufe aus. In manchen Fällen kann es sinnvoll sein, dieses Verhalten durch Angabe von {0} zu deaktivieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

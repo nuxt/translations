@@ -1,0 +1,14 @@
+{
+  "hash": "a906d3e85b0cce57",
+  "source": "The route URL path. If not set, Nuxt will infer it from the file location.",
+  "text": "Der URL-Pfad der Route. Wenn er nicht gesetzt ist, leitet Nuxt ihn aus dem Speicherort der Datei ab.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der URL-Pfad der Route. Wenn er nicht gesetzt ist, leitet Nuxt ihn aus dem Speicherort der Datei ab."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "171dd5751b21bbf4",
+  "source": "Adds a Nitro server handler to be used only in development mode. This handler will be excluded from production build.",
+  "text": "Fügt einen Nitro-Server-Handler hinzu, der nur im Entwicklungsmodus verwendet wird. Dieser Handler wird vom Build für die Produktion ausgeschlossen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fügt einen Nitro-Server-Handler hinzu, der nur im Entwicklungsmodus verwendet wird. Dieser Handler wird vom Build für die Produktion ausgeschlossen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

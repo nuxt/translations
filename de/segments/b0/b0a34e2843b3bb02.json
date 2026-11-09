@@ -1,0 +1,14 @@
+{
+  "hash": "b0a34e2843b3bb02",
+  "source": "This function works exactly the same as {0}, but returns {1} if context is unavailable instead of throwing an exception.",
+  "text": "Diese Funktion arbeitet genau wie {0}, gibt aber {1} zurück, wenn kein Kontext verfügbar ist, anstatt eine Exception auszulösen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese Funktion arbeitet genau wie {0}, gibt aber {1} zurück, wenn kein Kontext verfügbar ist, anstatt eine Exception auszulösen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e35415649d73335b",
+  "source": "{0}: The deprecated {1}Rspack{/1} bundler for Nuxt (superseded by {2}), published as {3}.",
+  "text": "{0}: Der nicht mehr empfohlene {1}Rspack{/1}-Bundler für Nuxt (abgelöst durch {2}), veröffentlicht als {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Der nicht mehr empfohlene {1}Rspack{/1}-Bundler für Nuxt (abgelöst durch {2}), veröffentlicht als {3}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

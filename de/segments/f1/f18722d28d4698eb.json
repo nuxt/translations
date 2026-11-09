@@ -1,0 +1,14 @@
+{
+  "hash": "f18722d28d4698eb",
+  "source": "{0} - redirects to the given path and will set the redirect code to {1}{2} Found{/1} if the redirect happens on the server side",
+  "text": "{0} – leitet auf den angegebenen Pfad um und setzt den Umleitungscode auf {1}{2} Found{/1}, wenn die Umleitung serverseitig erfolgt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} – leitet auf den angegebenen Pfad um und setzt den Umleitungscode auf {1}{2} Found{/1}, wenn die Umleitung serverseitig erfolgt"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

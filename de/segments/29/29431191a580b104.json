@@ -1,0 +1,14 @@
+{
+  "hash": "29431191a580b104",
+  "source": "Note that we use {0} to extend the public runtime configuration the user provides instead of overwriting it.",
+  "text": "Beachte, dass wir {0} verwenden, um die öffentliche Laufzeitkonfiguration der Nutzenden zu erweitern, statt sie zu überschreiben.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Beachte, dass wir {0} verwenden, um die öffentliche Laufzeitkonfiguration der Nutzenden zu erweitern, statt sie zu überschreiben."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

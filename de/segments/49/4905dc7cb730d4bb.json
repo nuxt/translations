@@ -1,0 +1,14 @@
+{
+  "hash": "4905dc7cb730d4bb",
+  "source": "{0}Fontshare{/0} is a free font service with 100+ professional-grade fonts from the Indian Type Foundry (ITF).",
+  "text": "{0}Fontshare{/0} ist ein kostenloser Schriftdienst mit über 100 professionellen Schriften der Indian Type Foundry (ITF).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}Fontshare{/0} ist ein kostenloser Schriftdienst mit über 100 professionellen Schriften der Indian Type Foundry (ITF)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "199ff7fdfd257510",
+  "source": "This composable provides a convenient wrapper around {0} and {1}. It automatically generates a key for the request, provides type hints for request url based on server routes, and infers API response type.",
+  "text": "Dieses Composable bietet einen praktischen Wrapper um {0} und {1}. Es generiert automatisch einen Schlüssel für die Anfrage, liefert Typhinweise für die Anfrage-URL auf Basis von Server-Routen und leitet den Typ der API-Antwort ab.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dieses Composable bietet einen praktischen Wrapper um {0} und {1}. Es generiert automatisch einen Schlüssel für die Anfrage, liefert Typhinweise für die Anfrage-URL auf Basis von Server-Routen und leitet den Typ der API-Antwort ab."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

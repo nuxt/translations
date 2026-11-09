@@ -1,0 +1,14 @@
+{
+  "hash": "3b27624c6cc088ed",
+  "source": "If you structure your project with layers, you will need to explicitly import the composables from each layer, rather than relying on auto-imports.",
+  "text": "Wenn du dein Projekt mit Layern strukturierst, musst du die Composables aus jedem Layer explizit importieren, anstatt dich auf automatische Importe zu verlassen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du dein Projekt mit Layern strukturierst, musst du die Composables aus jedem Layer explizit importieren, anstatt dich auf automatische Importe zu verlassen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

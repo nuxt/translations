@@ -1,0 +1,14 @@
+{
+  "hash": "ef8ae3757c96cc37",
+  "source": "Use ESM Syntax and Default to {0}",
+  "text": "ESM-Syntax verwenden und {0} als Standard nutzen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "ESM-Syntax verwenden und {0} als Standard nutzen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

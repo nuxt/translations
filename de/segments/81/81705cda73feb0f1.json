@@ -1,0 +1,14 @@
+{
+  "hash": "81705cda73feb0f1",
+  "source": "{0}Nuxt Content{/0} reads the {1} directory in your project and parses {2}, {3}, {4} and {5} files to create a file-based CMS for your application.",
+  "text": "{0}Nuxt Content{/0} liest das Verzeichnis {1} in deinem Projekt und parst {2}-, {3}-, {4}- und {5}-Dateien, um ein dateibasiertes CMS für deine Anwendung zu erstellen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}Nuxt Content{/0} liest das Verzeichnis {1} in deinem Projekt und parst {2}-, {3}-, {4}- und {5}-Dateien, um ein dateibasiertes CMS für deine Anwendung zu erstellen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

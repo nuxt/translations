@@ -1,0 +1,14 @@
+{
+  "hash": "381eb7b68b5afccf",
+  "source": "... test without Nuxt environment!",
+  "text": "... Test ohne Nuxt-Umgebung!",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "... Test ohne Nuxt-Umgebung!"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

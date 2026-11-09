@@ -1,0 +1,14 @@
+{
+  "hash": "2d05539fedd72d81",
+  "source": "Open Cursor and go to \"Settings\" > \"Tools & MCP\"",
+  "text": "Öffne Cursor und gehe zu „Settings“ > „Tools & MCP“",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Öffne Cursor und gehe zu „Settings“ > „Tools & MCP“"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

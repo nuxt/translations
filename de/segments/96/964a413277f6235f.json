@@ -1,0 +1,14 @@
+{
+  "hash": "964a413277f6235f",
+  "source": "Defines whether to inject {0} regardless of usage in project. This is the escape hatch for fonts Nuxt Fonts can't detect by scanning your CSS: see {1}when a font isn't picked up{/1}.",
+  "text": "Legt fest, ob {0} unabhängig von der Verwendung im Projekt eingebunden werden soll. Das ist der Ausweg für Schriften, die Nuxt Fonts beim Durchsuchen deines CSS nicht erkennen kann: siehe {1}Wenn eine Schrift nicht erkannt wird{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Legt fest, ob {0} unabhängig von der Verwendung im Projekt eingebunden werden soll. Das ist der Ausweg für Schriften, die Nuxt Fonts beim Durchsuchen deines CSS nicht erkennen kann: siehe {1}Wenn eine Schrift nicht erkannt wird{/1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

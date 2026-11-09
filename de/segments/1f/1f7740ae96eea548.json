@@ -1,0 +1,14 @@
+{
+  "hash": "1f7740ae96eea548",
+  "source": "The example below adds the {0} request header to an isomorphic {1} call.",
+  "text": "Das folgende Beispiel fügt den Anfrage-Header {0} zu einem isomorphen {1}-Aufruf hinzu.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das folgende Beispiel fügt den Anfrage-Header {0} zu einem isomorphen {1}-Aufruf hinzu."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "71057d30f35c2432",
+  "source": "In Nuxt, you can access runtime app context within composables, components and plugins.",
+  "text": "In Nuxt kannst du in Composables, Komponenten und Plugins auf den Laufzeitkontext der App zugreifen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In Nuxt kannst du in Composables, Komponenten und Plugins auf den Laufzeitkontext der App zugreifen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

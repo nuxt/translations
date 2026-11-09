@@ -1,0 +1,14 @@
+{
+  "hash": "b26acfc153e17201",
+  "source": "You can also disable scripts more granularly within {0}.",
+  "text": "Du kannst Skripte auch detaillierter in {0} deaktivieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst Skripte auch detaillierter in {0} deaktivieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

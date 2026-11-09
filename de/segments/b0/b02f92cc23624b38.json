@@ -1,0 +1,14 @@
+{
+  "hash": "b02f92cc23624b38",
+  "source": "Function to transform the result after resolving.",
+  "text": "Funktion, um das Ergebnis nach dem Auflösen zu transformieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Funktion, um das Ergebnis nach dem Auflösen zu transformieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

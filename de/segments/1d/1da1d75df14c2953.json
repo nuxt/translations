@@ -1,0 +1,14 @@
+{
+  "hash": "1da1d75df14c2953",
+  "source": "When {0} applies to a rendered page, the following are omitted from the HTML:",
+  "text": "Wenn {0} auf eine gerenderte Seite angewendet wird, werden folgende Elemente aus dem HTML weggelassen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn {0} auf eine gerenderte Seite angewendet wird, werden folgende Elemente aus dem HTML weggelassen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

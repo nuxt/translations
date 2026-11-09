@@ -1,0 +1,14 @@
+{
+  "hash": "f7ae70183a44b1d9",
+  "source": "Plugins also receive {0} as the first argument for convenience.",
+  "text": "Der Einfachheit halber erhalten Plugins {0} außerdem als erstes Argument.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Einfachheit halber erhalten Plugins {0} außerdem als erstes Argument."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

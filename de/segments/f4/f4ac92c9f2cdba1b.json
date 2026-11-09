@@ -1,0 +1,14 @@
+{
+  "hash": "f4ac92c9f2cdba1b",
+  "source": "**Template refs** on a Vapor component do not expose {0}.",
+  "text": "**Template-Refs** auf einer Vapor-Komponente stellen {0} nicht bereit.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Template-Refs** auf einer Vapor-Komponente stellen {0} nicht bereit."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

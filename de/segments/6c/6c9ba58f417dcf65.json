@@ -1,0 +1,14 @@
+{
+  "hash": "6c9ba58f417dcf65",
+  "source": "GitHub Remote Source from dev branch",
+  "text": "GitHub-Remote-Quelle aus dem Branch dev",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "GitHub-Remote-Quelle aus dem Branch dev"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

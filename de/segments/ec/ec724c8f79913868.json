@@ -1,0 +1,14 @@
+{
+  "hash": "ec724c8f79913868",
+  "source": "Nuxt has first-class TypeScript integration for the best developer experience.",
+  "text": "Nuxt bietet eine erstklassige TypeScript-Integration für die bestmögliche Developer Experience.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt bietet eine erstklassige TypeScript-Integration für die bestmögliche Developer Experience."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

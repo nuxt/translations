@@ -1,0 +1,14 @@
+{
+  "hash": "7b5b7569f77a16d6",
+  "source": "useFetch request URL starts with \"//\".",
+  "text": "Die Anfrage-URL von useFetch beginnt mit \"//\".",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Anfrage-URL von useFetch beginnt mit \"//\"."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

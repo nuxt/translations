@@ -1,0 +1,14 @@
+{
+  "hash": "bd674d679cd7628c",
+  "source": "**{0}**: An object of aliases. If not provided, it will be read from {1}.",
+  "text": "**{0}**: Ein Objekt mit Aliassen. Wird es nicht angegeben, wird es aus {1} gelesen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}**: Ein Objekt mit Aliassen. Wird es nicht angegeben, wird es aus {1} gelesen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

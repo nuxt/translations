@@ -1,0 +1,14 @@
+{
+  "hash": "d4e2ae4025d3e938",
+  "source": "**description**: The current message to announce",
+  "text": "**description**: Die aktuelle Meldung, die angekündigt werden soll",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**description**: Die aktuelle Meldung, die angekündigt werden soll"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

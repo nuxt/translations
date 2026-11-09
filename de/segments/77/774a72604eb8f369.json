@@ -1,0 +1,14 @@
+{
+  "hash": "774a72604eb8f369",
+  "source": "**Note**: Be careful when using non-hashed based filenames in production as most browsers will cache the asset and not detect the changes on first load.",
+  "text": "**Hinweis**: Sei vorsichtig bei der Verwendung von Dateinamen ohne Hash in der Produktion, da die meisten Browser das Asset cachen und Änderungen beim ersten Laden nicht erkennen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Hinweis**: Sei vorsichtig bei der Verwendung von Dateinamen ohne Hash in der Produktion, da die meisten Browser das Asset cachen und Änderungen beim ersten Laden nicht erkennen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

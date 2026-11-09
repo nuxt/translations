@@ -1,0 +1,14 @@
+{
+  "hash": "080875aa5640a750",
+  "source": "**CSP nonce.** The streaming renderer emits several inline scripts and styles that bypass unhead: the bootstrap queue, the IIFE, suspense head pushes, island-teleport relocation, and route {0} blocks. If a {1} is present on the rendered head scripts, the renderer reuses it on all of them automatically, so a strict {2}/{3} policy does not block streaming. A module only needs to put the nonce on the head scripts (as above); the {4} hook remains available for stamping scripts that components render into the body.",
+  "text": "**CSP-Nonce.** Der Streaming-Renderer gibt mehrere Inline-Skripte und -Styles aus, die unhead umgehen: die Bootstrap-Warteschlange, die IIFE, Suspense-Head-Pushes, die Verschiebung von Island-Teleports und {0}-Blöcke der Route. Ist an den gerenderten Head-Skripten ein {1} vorhanden, verwendet der Renderer ihn automatisch für alle diese Elemente, sodass eine strikte {2}-/{3}-Richtlinie das Streaming nicht blockiert. Ein Modul muss die Nonce nur an den Head-Skripten setzen (wie oben); der {4}-Hook steht weiterhin zur Verfügung, um Skripte zu versehen, die Komponenten in den Body rendern.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**CSP-Nonce.** Der Streaming-Renderer gibt mehrere Inline-Skripte und -Styles aus, die unhead umgehen: die Bootstrap-Warteschlange, die IIFE, Suspense-Head-Pushes, die Verschiebung von Island-Teleports und {0}-Blöcke der Route. Ist an den gerenderten Head-Skripten ein {1} vorhanden, verwendet der Renderer ihn automatisch für alle diese Elemente, sodass eine strikte {2}-/{3}-Richtlinie das Streaming nicht blockiert. Ein Modul muss die Nonce nur an den Head-Skripten setzen (wie oben); der {4}-Hook steht weiterhin zur Verfügung, um Skripte zu versehen, die Komponenten in den Body rendern."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

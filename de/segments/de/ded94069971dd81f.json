@@ -1,0 +1,14 @@
+{
+  "hash": "ded94069971dd81f",
+  "source": "Redirection to avoid 404",
+  "text": "Weiterleitung, um einen 404-Fehler zu vermeiden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Weiterleitung, um einen 404-Fehler zu vermeiden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

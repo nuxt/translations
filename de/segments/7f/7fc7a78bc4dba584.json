@@ -1,0 +1,14 @@
+{
+  "hash": "7fc7a78bc4dba584",
+  "source": "Conventions Across Ecosystem",
+  "text": "Konventionen im gesamten Ökosystem",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Konventionen im gesamten Ökosystem"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

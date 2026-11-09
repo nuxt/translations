@@ -1,0 +1,14 @@
+{
+  "hash": "6dfe9dd86d8f75f5",
+  "source": "Within an island component, you can access its island context through {0}. Note that while island components are still marked as experimental, the format of this context may change.",
+  "text": "Innerhalb einer Island-Komponente kannst du über {0} auf ihren Island-Kontext zugreifen. Beachte, dass sich das Format dieses Kontexts ändern kann, solange Island-Komponenten noch als experimentell gekennzeichnet sind.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Innerhalb einer Island-Komponente kannst du über {0} auf ihren Island-Kontext zugreifen. Beachte, dass sich das Format dieses Kontexts ändern kann, solange Island-Komponenten noch als experimentell gekennzeichnet sind."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

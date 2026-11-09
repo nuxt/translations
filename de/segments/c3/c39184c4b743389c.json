@@ -1,0 +1,14 @@
+{
+  "hash": "c39184c4b743389c",
+  "source": "Called when Nuxt instance is gracefully closing.",
+  "text": "Wird aufgerufen, wenn die Nuxt-Instanz ordnungsgemäß heruntergefahren wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird aufgerufen, wenn die Nuxt-Instanz ordnungsgemäß heruntergefahren wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

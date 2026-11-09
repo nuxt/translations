@@ -1,0 +1,14 @@
+{
+  "hash": "246453ef7c4938d2",
+  "source": "You can pass either a string or an object to the {0} function. If you pass a string, it will be used as the error {1}, and the {2} will default to {3}. If you pass an object, you can set multiple properties of the error, such as {4}, {5}, and other error properties.",
+  "text": "Du kannst der Funktion {0} entweder einen String oder ein Objekt übergeben. Wenn du einen String übergibst, wird er als Fehler-{1} verwendet und der {2} ist standardmäßig {3}. Wenn du ein Objekt übergibst, kannst du mehrere Eigenschaften des Fehlers festlegen, z. B. {4}, {5} und weitere Fehlereigenschaften.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst der Funktion {0} entweder einen String oder ein Objekt übergeben. Wenn du einen String übergibst, wird er als Fehler-{1} verwendet und der {2} ist standardmäßig {3}. Wenn du ein Objekt übergibst, kannst du mehrere Eigenschaften des Fehlers festlegen, z. B. {4}, {5} und weitere Fehlereigenschaften."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

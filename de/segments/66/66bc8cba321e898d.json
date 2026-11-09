@@ -1,0 +1,14 @@
+{
+  "hash": "66bc8cba321e898d",
+  "source": "Any other method: Returns 405 error",
+  "text": "Jeder anderen Methode: Gibt den Fehler 405 zurück",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Jeder anderen Methode: Gibt den Fehler 405 zurück"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

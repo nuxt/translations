@@ -1,0 +1,14 @@
+{
+  "hash": "d0c321923fd2452b",
+  "source": "Nuxt scrolls to the top on a new route, restores the previous position when the user goes back, and scrolls to hash targets. If you need something different, such as smooth scrolling or a different offset, configure {0} or write your own {1} in {2}. Bear in mind that smooth scrolling should respect the user's {3} setting.",
+  "text": "Nuxt scrollt bei einer neuen Route nach oben, stellt beim Zurückgehen die vorherige Position wieder her und scrollt zu Hash-Zielen. Wenn du etwas anderes brauchst, etwa sanftes Scrollen oder einen anderen Versatz, konfiguriere {0} oder schreibe in {2} dein eigenes {1}. Beachte, dass sanftes Scrollen die Einstellung {3} der Nutzenden berücksichtigen sollte.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt scrollt bei einer neuen Route nach oben, stellt beim Zurückgehen die vorherige Position wieder her und scrollt zu Hash-Zielen. Wenn du etwas anderes brauchst, etwa sanftes Scrollen oder einen anderen Versatz, konfiguriere {0} oder schreibe in {2} dein eigenes {1}. Beachte, dass sanftes Scrollen die Einstellung {3} der Nutzenden berücksichtigen sollte."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

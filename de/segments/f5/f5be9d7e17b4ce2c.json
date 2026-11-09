@@ -1,0 +1,14 @@
+{
+  "hash": "f5be9d7e17b4ce2c",
+  "source": "The {0}route rules{/0} matched for the request, or for another path.",
+  "text": "Die {0}Route-Rules{/0}, die auf die Anfrage oder auf einen anderen Pfad zutreffen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die {0}Route-Rules{/0}, die auf die Anfrage oder auf einen anderen Pfad zutreffen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

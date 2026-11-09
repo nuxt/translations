@@ -1,0 +1,14 @@
+{
+  "hash": "50c967bd5760d127",
+  "source": "Process the response data",
+  "text": "Antwortdaten verarbeiten",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Antwortdaten verarbeiten"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

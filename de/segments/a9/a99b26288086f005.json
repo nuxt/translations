@@ -1,0 +1,14 @@
+{
+  "hash": "a99b26288086f005",
+  "source": "Value should be a string pointing to source directory or config path relative to current config. You can use {0}, {1}, {2} or {3} to extend from a remote git repository.",
+  "text": "Der Wert sollte ein String sein, der auf ein Quellverzeichnis oder einen Konfigurationspfad relativ zur aktuellen Konfiguration verweist. Mit {0}, {1}, {2} oder {3} kannst du ein entferntes Git-Repository als Basis verwenden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Wert sollte ein String sein, der auf ein Quellverzeichnis oder einen Konfigurationspfad relativ zur aktuellen Konfiguration verweist. Mit {0}, {1}, {2} oder {3} kannst du ein entferntes Git-Repository als Basis verwenden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "3332d6500168c2db",
+  "source": "Set layout for multiple routes",
+  "text": "Layout für mehrere Routen festlegen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Layout für mehrere Routen festlegen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "ffc269e2ee196f18",
+  "source": "If set to {0}, this will type check in development and at build time. Set to {1} to type check only when building, or {2} to type check only in the dev server. Requires installing {3} and {4} as dev dependencies.",
+  "text": "Wenn auf {0} gesetzt, wird die Typprüfung in der Entwicklung und zur Build-Zeit durchgeführt. Setze den Wert auf {1}, um nur beim Erzeugen zu prüfen, oder auf {2}, um nur im Entwicklungsserver zu prüfen. Dafür müssen {3} und {4} als Entwicklungsabhängigkeiten installiert sein.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn auf {0} gesetzt, wird die Typprüfung in der Entwicklung und zur Build-Zeit durchgeführt. Setze den Wert auf {1}, um nur beim Erzeugen zu prüfen, oder auf {2}, um nur im Entwicklungsserver zu prüfen. Dafür müssen {3} und {4} als Entwicklungsabhängigkeiten installiert sein."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

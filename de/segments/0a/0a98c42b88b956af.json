@@ -1,0 +1,14 @@
+{
+  "hash": "0a98c42b88b956af",
+  "source": "**More control over {0}**: The {1} function is now called every time data is fetched, even if this is caused by a watcher or calling {2}. (Previously, new data was always fetched and this function was not called in these cases.) To allow more control over when to use cached data and when to refetch, the function now receives a context object with the cause of the request.",
+  "text": "**Mehr Kontrolle über {0}**: Die Funktion {1} wird jetzt bei jedem Datenabruf aufgerufen, auch wenn dieser durch einen Watcher oder durch den Aufruf von {2} ausgelöst wird. (Zuvor wurden immer neue Daten abgerufen und diese Funktion wurde in diesen Fällen nicht aufgerufen.) Damit du besser steuern kannst, wann zwischengespeicherte Daten verwendet und wann neu abgerufen werden, erhält die Funktion jetzt ein Kontextobjekt mit der Ursache der Anfrage.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Mehr Kontrolle über {0}**: Die Funktion {1} wird jetzt bei jedem Datenabruf aufgerufen, auch wenn dieser durch einen Watcher oder durch den Aufruf von {2} ausgelöst wird. (Zuvor wurden immer neue Daten abgerufen und diese Funktion wurde in diesen Fällen nicht aufgerufen.) Damit du besser steuern kannst, wann zwischengespeicherte Daten verwendet und wann neu abgerufen werden, erhält die Funktion jetzt ein Kontextobjekt mit der Ursache der Anfrage."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

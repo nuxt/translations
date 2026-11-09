@@ -1,0 +1,14 @@
+{
+  "hash": "8d7fec259472b2cf",
+  "source": "Errors with JS Chunks",
+  "text": "Fehler bei JS-Chunks",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fehler bei JS-Chunks"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

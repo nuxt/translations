@@ -1,0 +1,14 @@
+{
+  "hash": "60d4d666f04747d3",
+  "source": "Nuxt reads the imports of each registered file, and of the files it imports, to decide which API it uses, so you don't need to declare your compatibility. Type-only imports ({0}) are ignored, as are files in your runtime directory that no registered file imports. But if this isn't sufficient, you can set {1}:",
+  "text": "Nuxt liest die Importe jeder registrierten Datei und der von ihr importierten Dateien, um zu bestimmen, welche API verwendet wird, daher musst du deine Kompatibilität nicht deklarieren. Reine Typ-Importe ({0}) werden ignoriert, ebenso Dateien in deinem Runtime-Verzeichnis, die keine registrierte Datei importiert. Reicht das nicht aus, kannst du {1} setzen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt liest die Importe jeder registrierten Datei und der von ihr importierten Dateien, um zu bestimmen, welche API verwendet wird, daher musst du deine Kompatibilität nicht deklarieren. Reine Typ-Importe ({0}) werden ignoriert, ebenso Dateien in deinem Runtime-Verzeichnis, die keine registrierte Datei importiert. Reicht das nicht aus, kannst du {1} setzen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

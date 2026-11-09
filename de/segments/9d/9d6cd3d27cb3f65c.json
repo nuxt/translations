@@ -1,0 +1,14 @@
+{
+  "hash": "9d6cd3d27cb3f65c",
+  "source": "On top of customizing options for {0}, Nuxt offers {1}additional options{/1} to customize the router.",
+  "text": "Zusätzlich zum Anpassen der Optionen für {0} bietet Nuxt {1}weitere Optionen{/1}, um den Router anzupassen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Zusätzlich zum Anpassen der Optionen für {0} bietet Nuxt {1}weitere Optionen{/1}, um den Router anzupassen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "82ac950def164266",
+  "source": "{0} is installed in every Nuxt application, so {1} resolves with no alias and no added dependency. A module importing from it needs no peer dependency on h3 or Nitro.",
+  "text": "{0} ist in jeder Nuxt-Anwendung installiert, sodass {1} ohne Alias und ohne zusätzliche Abhängigkeit aufgelöst wird. Ein Modul, das daraus importiert, benötigt keine Peer-Abhängigkeit zu h3 oder Nitro.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ist in jeder Nuxt-Anwendung installiert, sodass {1} ohne Alias und ohne zusätzliche Abhängigkeit aufgelöst wird. Ein Modul, das daraus importiert, benötigt keine Peer-Abhängigkeit zu h3 oder Nitro."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

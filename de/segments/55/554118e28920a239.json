@@ -1,0 +1,14 @@
+{
+  "hash": "554118e28920a239",
+  "source": "Vite has made available an {0}experimental option{/0} which can speed up using preprocessors.",
+  "text": "Vite bietet eine {0}experimentelle Option{/0}, mit der sich die Verwendung von Preprocessors beschleunigen lässt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vite bietet eine {0}experimentelle Option{/0}, mit der sich die Verwendung von Preprocessors beschleunigen lässt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

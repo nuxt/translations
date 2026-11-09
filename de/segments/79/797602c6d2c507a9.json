@@ -1,0 +1,14 @@
+{
+  "hash": "797602c6d2c507a9",
+  "source": "Use the {0} helper from {1}:",
+  "text": "Verwende das Hilfsprogramm {0} aus {1}:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwende das Hilfsprogramm {0} aus {1}:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

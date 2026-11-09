@@ -1,0 +1,14 @@
+{
+  "hash": "a827358508cdc027",
+  "source": "The {0} command runs tests using {1}. This command sets {2} to {3} if not already set.",
+  "text": "Der Befehl {0} führt Tests mit {1} aus. Dieser Befehl setzt {2} auf {3}, sofern die Variable nicht bereits gesetzt ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Befehl {0} führt Tests mit {1} aus. Dieser Befehl setzt {2} auf {3}, sofern die Variable nicht bereits gesetzt ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

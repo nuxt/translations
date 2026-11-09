@@ -1,0 +1,14 @@
+{
+  "hash": "79a9a84e5ad1c8aa",
+  "source": "If you're using the Wind4 (Tailwind4) preset, set {0} instead of {1}.",
+  "text": "Wenn du das Preset Wind4 (Tailwind4) verwendest, setze {0} statt {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du das Preset Wind4 (Tailwind4) verwendest, setze {0} statt {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b9565702ba9d8c99",
+  "source": "In your project root, create {0}",
+  "text": "Erstelle in deinem Projektstammverzeichnis {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erstelle in deinem Projektstammverzeichnis {0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "3f0435670b99033e",
+  "source": "Nuxt no longer depends on {0}. Files loaded outside the bundler ({1}, files in {2}, and layer configs) are now imported by the runtime itself.",
+  "text": "Nuxt hängt nicht mehr von {0} ab. Dateien, die außerhalb des Bundlers geladen werden ({1}, Dateien in {2} und Layer-Konfigurationen), importiert jetzt die Runtime selbst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt hängt nicht mehr von {0} ab. Dateien, die außerhalb des Bundlers geladen werden ({1}, Dateien in {2} und Layer-Konfigurationen), importiert jetzt die Runtime selbst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

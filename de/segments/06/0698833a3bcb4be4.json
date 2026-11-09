@@ -1,0 +1,14 @@
+{
+  "hash": "0698833a3bcb4be4",
+  "source": "You can start migration by renaming {0} files, to {1}. TypeScript is designed to be progressive!",
+  "text": "Du kannst die Migration beginnen, indem du {0}-Dateien in {1} umbenennst. TypeScript ist auf schrittweise Einführung ausgelegt!",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst die Migration beginnen, indem du {0}-Dateien in {1} umbenennst. TypeScript ist auf schrittweise Einführung ausgelegt!"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

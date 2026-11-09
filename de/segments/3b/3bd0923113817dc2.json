@@ -1,0 +1,14 @@
+{
+  "hash": "3bd0923113817dc2",
+  "source": "Serializable Page Meta Extracted at Build Time",
+  "text": "Serialisierbare Seiten-Metadaten werden zur Build-Zeit extrahiert",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Serialisierbare Seiten-Metadaten werden zur Build-Zeit extrahiert"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

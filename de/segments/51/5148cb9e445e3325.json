@@ -1,0 +1,14 @@
+{
+  "hash": "5148cb9e445e3325",
+  "source": "If you encounter any issues, please report them to the Codemod team with {0} 🙏",
+  "text": "Wenn du auf Probleme stößt, melde sie bitte mit {0} dem Codemod-Team 🙏",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du auf Probleme stößt, melde sie bitte mit {0} dem Codemod-Team 🙏"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

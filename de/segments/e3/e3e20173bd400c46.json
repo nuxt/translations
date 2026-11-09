@@ -1,0 +1,14 @@
+{
+  "hash": "e3e20173bd400c46",
+  "source": "Because posts might start out null, you won't have access",
+  "text": "Da posts anfangs null sein kann, hast du keinen Zugriff",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Da posts anfangs null sein kann, hast du keinen Zugriff"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

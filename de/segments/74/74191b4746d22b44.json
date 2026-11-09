@@ -1,0 +1,14 @@
+{
+  "hash": "74191b4746d22b44",
+  "source": "App hooks can be mainly used by {0}Nuxt Plugins{/0} to hook into rendering lifecycle but could also be used in Vue composables.",
+  "text": "App-Hooks werden hauptsächlich von {0}Nuxt-Plugins{/0} genutzt, um sich in den Rendering-Lifecycle einzuklinken, lassen sich aber auch in Vue-Composables verwenden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "App-Hooks werden hauptsächlich von {0}Nuxt-Plugins{/0} genutzt, um sich in den Rendering-Lifecycle einzuklinken, lassen sich aber auch in Vue-Composables verwenden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

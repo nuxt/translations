@@ -1,0 +1,14 @@
+{
+  "hash": "a4215a9812201714",
+  "source": "{0} was called outside a route middleware. It can only cancel navigation from within a middleware handler, so calling it from a component, plugin, composable, or a callback that lost the middleware context fails.",
+  "text": "{0} wurde außerhalb einer Routen-Middleware aufgerufen. Die Funktion kann die Navigation nur innerhalb eines Middleware-Handlers abbrechen. Ein Aufruf aus einer Komponente, einem Plugin, einem Composable oder einem Callback, der den Middleware-Kontext verloren hat, schlägt daher fehl.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} wurde außerhalb einer Routen-Middleware aufgerufen. Die Funktion kann die Navigation nur innerhalb eines Middleware-Handlers abbrechen. Ein Aufruf aus einer Komponente, einem Plugin, einem Composable oder einem Callback, der den Middleware-Kontext verloren hat, schlägt daher fehl."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

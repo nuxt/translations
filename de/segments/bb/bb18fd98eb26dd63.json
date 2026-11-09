@@ -1,0 +1,14 @@
+{
+  "hash": "bb18fd98eb26dd63",
+  "source": "Extended layers have lower priority than the consuming project",
+  "text": "Erweiterte Layer eine niedrigere Priorität haben als das nutzende Projekt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erweiterte Layer eine niedrigere Priorität haben als das nutzende Projekt"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

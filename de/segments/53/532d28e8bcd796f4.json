@@ -1,0 +1,14 @@
+{
+  "hash": "532d28e8bcd796f4",
+  "source": "**Solution**: Initialise libraries after hydration has completed:",
+  "text": "**Lösung**: Initialisiere Bibliotheken erst, nachdem die Hydration abgeschlossen ist:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Lösung**: Initialisiere Bibliotheken erst, nachdem die Hydration abgeschlossen ist:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

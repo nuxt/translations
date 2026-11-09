@@ -1,0 +1,14 @@
+{
+  "hash": "da181a62e12c8c54",
+  "source": "As next steps, you can:",
+  "text": "Als nächste Schritte kannst du:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Als nächste Schritte kannst du:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

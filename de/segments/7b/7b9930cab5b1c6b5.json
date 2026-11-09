@@ -1,0 +1,14 @@
+{
+  "hash": "7b9930cab5b1c6b5",
+  "source": "By default page metadata is only scanned after all routes have been registered in {0}. Then another hook, {1} will be called.",
+  "text": "Standardmäßig werden die Seiten-Metadaten erst gescannt, nachdem alle Routen in {0} registriert wurden. Anschließend wird ein weiterer Hook, {1}, aufgerufen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardmäßig werden die Seiten-Metadaten erst gescannt, nachdem alle Routen in {0} registriert wurden. Anschließend wird ein weiterer Hook, {1}, aufgerufen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "4a4a9aad35c39282",
+  "source": "**Proxies and caches font requests.** Rather than using the original source URLs (to remote servers), we generate rewrites under our own asset directory. When accessed by your browser, we download the font from the remote server and cache it locally.",
+  "text": "**Leitet Schriftart-Anfragen über einen Proxy und speichert sie im Cache.** Anstatt die ursprünglichen Quell-URLs (auf entfernten Servern) zu verwenden, erzeugen wir Umschreibungen unter unserem eigenen asset-Verzeichnis. Greift dein Browser darauf zu, laden wir die Schriftart vom entfernten Server herunter und speichern sie lokal im Cache.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Leitet Schriftart-Anfragen über einen Proxy und speichert sie im Cache.** Anstatt die ursprünglichen Quell-URLs (auf entfernten Servern) zu verwenden, erzeugen wir Umschreibungen unter unserem eigenen asset-Verzeichnis. Greift dein Browser darauf zu, laden wir die Schriftart vom entfernten Server herunter und speichern sie lokal im Cache."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

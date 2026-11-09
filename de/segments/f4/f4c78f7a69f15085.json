@@ -1,0 +1,14 @@
+{
+  "hash": "f4c78f7a69f15085",
+  "source": "A string or an array of strings with the path to the directory to import from.",
+  "text": "Ein String oder ein Array von Strings mit dem Pfad zum Verzeichnis, aus dem importiert werden soll.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein String oder ein Array von Strings mit dem Pfad zum Verzeichnis, aus dem importiert werden soll."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

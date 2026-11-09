@@ -1,0 +1,14 @@
+{
+  "hash": "e6b1adbbe7642e0d",
+  "source": "Watch Daniel Roe's short video about resolveComponent()",
+  "text": "Sieh dir Daniel Roes kurzes Video über resolveComponent() an",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sieh dir Daniel Roes kurzes Video über resolveComponent() an"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

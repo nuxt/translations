@@ -1,0 +1,14 @@
+{
+  "hash": "da52f155928be542",
+  "source": "Consider documenting module usage in the readme file:",
+  "text": "Beschreibe die Verwendung des Moduls am besten in der README-Datei:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Beschreibe die Verwendung des Moduls am besten in der README-Datei:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

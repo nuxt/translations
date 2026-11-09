@@ -1,0 +1,14 @@
+{
+  "hash": "fe3e4acac91dbd9c",
+  "source": "By migrating from {0} to the Nuxt 3 compatible API, there will be less rewriting when migrating to Nuxt 3.",
+  "text": "Wenn du von {0} auf die Nuxt-3-kompatible API migrierst, musst du bei der späteren Migration zu Nuxt 3 weniger neu schreiben.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du von {0} auf die Nuxt-3-kompatible API migrierst, musst du bei der späteren Migration zu Nuxt 3 weniger neu schreiben."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

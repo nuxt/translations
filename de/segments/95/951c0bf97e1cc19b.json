@@ -1,0 +1,14 @@
+{
+  "hash": "951c0bf97e1cc19b",
+  "source": "Breaking Changes",
+  "text": "Inkompatible Änderungen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Inkompatible Änderungen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

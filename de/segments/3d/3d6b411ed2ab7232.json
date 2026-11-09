@@ -1,0 +1,14 @@
+{
+  "hash": "3d6b411ed2ab7232",
+  "source": "As a shorthand, you can also configure this in a page file using {0}.",
+  "text": "Alternativ kannst du dies auch kurz und knapp in einer Seitendatei mit {0} konfigurieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Alternativ kannst du dies auch kurz und knapp in einer Seitendatei mit {0} konfigurieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

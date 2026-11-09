@@ -1,0 +1,14 @@
+{
+  "hash": "431ef6b26f39b8cb",
+  "source": "URL of the Nuxt server to talk to (default: the running dev server)",
+  "text": "URL des Nuxt-Servers, mit dem kommuniziert werden soll (Standard: der laufende Entwicklungsserver)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "URL des Nuxt-Servers, mit dem kommuniziert werden soll (Standard: der laufende Entwicklungsserver)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

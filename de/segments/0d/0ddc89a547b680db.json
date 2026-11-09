@@ -1,0 +1,14 @@
+{
+  "hash": "0ddc89a547b680db",
+  "source": "Known Limitations",
+  "text": "Bekannte Einschränkungen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bekannte Einschränkungen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

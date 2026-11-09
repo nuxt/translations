@@ -1,0 +1,14 @@
+{
+  "hash": "d4b54024cc4e9fad",
+  "source": "Use the layers/ directory to organize and auto-register local layers within your application.",
+  "text": "Nutze das Verzeichnis layers/, um lokale Layer in deiner Anwendung zu organisieren und automatisch zu registrieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nutze das Verzeichnis layers/, um lokale Layer in deiner Anwendung zu organisieren und automatisch zu registrieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

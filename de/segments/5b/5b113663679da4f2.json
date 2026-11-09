@@ -1,0 +1,14 @@
+{
+  "hash": "5b113663679da4f2",
+  "source": "Preload a route when using {0}.",
+  "text": "Eine Route vorladen, wenn {0} verwendet wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine Route vorladen, wenn {0} verwendet wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

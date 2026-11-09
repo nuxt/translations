@@ -1,0 +1,14 @@
+{
+  "hash": "2e64905bf6abbc57",
+  "source": "Pass {0} to always stop it and start in its place, or {1} to never do so. Choosing \"Start anyway\" at the prompt, or passing a different {2}, runs a second preview alongside it instead.",
+  "text": "Übergib {0}, um die laufende Vorschau immer zu beenden und an ihrer Stelle zu starten, oder {1}, um das nie zu tun. Wählst du an der Eingabeaufforderung „Trotzdem starten“ oder übergibst du einen anderen {2}, läuft stattdessen eine zweite Vorschau parallel dazu.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Übergib {0}, um die laufende Vorschau immer zu beenden und an ihrer Stelle zu starten, oder {1}, um das nie zu tun. Wählst du an der Eingabeaufforderung „Trotzdem starten“ oder übergibst du einen anderen {2}, läuft stattdessen eine zweite Vorschau parallel dazu."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

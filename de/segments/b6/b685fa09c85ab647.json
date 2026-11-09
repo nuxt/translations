@@ -1,0 +1,14 @@
+{
+  "hash": "b685fa09c85ab647",
+  "source": "Then target these types in your CSS:",
+  "text": "Spreche diese Typen anschließend in deinem CSS an:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Spreche diese Typen anschließend in deinem CSS an:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "f3cd7aaec687e91d",
+  "source": "**Update any CI/build scripts** that run TypeScript checking to ensure they use the new project references approach.",
+  "text": "**Aktualisiere alle CI-/Build-Skripte**, die die TypeScript-Prüfung ausführen, damit sie den neuen Ansatz mit Project References verwenden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Aktualisiere alle CI-/Build-Skripte**, die die TypeScript-Prüfung ausführen, damit sie den neuen Ansatz mit Project References verwenden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "6c2017ef857768d5",
+  "source": "Default values for layout transitions.",
+  "text": "Standardwerte für Layout-Übergänge.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardwerte für Layout-Übergänge."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

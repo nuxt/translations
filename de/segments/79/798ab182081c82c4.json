@@ -1,0 +1,14 @@
+{
+  "hash": "798ab182081c82c4",
+  "source": "The CLI runs on Node v22.21+, v24.11+ or v26+, and imports TypeScript configuration natively on those versions. Nuxt 2 and {0} are not supported.",
+  "text": "Die Kommandozeilenschnittstelle läuft auf Node v22.21+, v24.11+ oder v26+ und importiert auf diesen Versionen die TypeScript-Konfiguration nativ. Nuxt 2 und {0} werden nicht unterstützt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Kommandozeilenschnittstelle läuft auf Node v22.21+, v24.11+ oder v26+ und importiert auf diesen Versionen die TypeScript-Konfiguration nativ. Nuxt 2 und {0} werden nicht unterstützt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

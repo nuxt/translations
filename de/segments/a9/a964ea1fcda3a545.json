@@ -1,0 +1,14 @@
+{
+  "hash": "a964ea1fcda3a545",
+  "source": "{0} - Payload is inlined in HTML for the initial server render, and extracted to {1} files for client-side navigation.",
+  "text": "{0} – Die Payload wird für das initiale Rendering auf dem Server inline im HTML eingebettet und für die clientseitige Navigation in {1}-Dateien extrahiert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} – Die Payload wird für das initiale Rendering auf dem Server inline im HTML eingebettet und für die clientseitige Navigation in {1}-Dateien extrahiert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

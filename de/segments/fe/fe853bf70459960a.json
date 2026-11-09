@@ -1,0 +1,14 @@
+{
+  "hash": "fe853bf70459960a",
+  "source": "Remember that {0} acts as the main component of your Nuxt application. Anything you add to it (JS and CSS) will be global and included in every page.",
+  "text": "Denke daran, dass {0} als Hauptkomponente deiner Nuxt-Anwendung fungiert. Alles, was du dort hinzufügst (JS und CSS), gilt global und wird auf jeder Seite eingebunden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Denke daran, dass {0} als Hauptkomponente deiner Nuxt-Anwendung fungiert. Alles, was du dort hinzufügst (JS und CSS), gilt global und wird auf jeder Seite eingebunden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

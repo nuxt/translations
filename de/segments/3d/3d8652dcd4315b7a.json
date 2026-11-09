@@ -1,0 +1,14 @@
+{
+  "hash": "3d8652dcd4315b7a",
+  "source": "Terminal commands: {0}",
+  "text": "Terminal-Befehle: {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Terminal-Befehle: {0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

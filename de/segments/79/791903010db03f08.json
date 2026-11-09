@@ -1,0 +1,14 @@
+{
+  "hash": "791903010db03f08",
+  "source": "Load the HTML of your application's root route ({0}), any non-dynamic pages in your {1} directory, and any other routes in the {2} array.",
+  "text": "Er lädt das HTML der Root-Route deiner Anwendung ({0}), aller nicht dynamischen Seiten in deinem Verzeichnis {1} und aller weiteren Routen im Array {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Er lädt das HTML der Root-Route deiner Anwendung ({0}), aller nicht dynamischen Seiten in deinem Verzeichnis {1} und aller weiteren Routen im Array {2}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

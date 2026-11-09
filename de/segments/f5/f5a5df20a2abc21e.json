@@ -1,0 +1,14 @@
+{
+  "hash": "f5a5df20a2abc21e",
+  "source": "Shortcut for {0}. Triggers a lifecycle hook manually and runs all registered callbacks.",
+  "text": "Kurzform für {0}. Löst einen Lifecycle-Hook manuell aus und führt alle registrierten Callbacks aus.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Kurzform für {0}. Löst einen Lifecycle-Hook manuell aus und führt alle registrierten Callbacks aus."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

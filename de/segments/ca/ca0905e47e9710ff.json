@@ -1,0 +1,14 @@
+{
+  "hash": "ca0905e47e9710ff",
+  "source": "When you see a large block in the visualization, it often signals an opportunity for optimization—whether by splitting it into smaller parts, implementing lazy loading, or replacing it with a more efficient alternative, especially for third-party libraries.",
+  "text": "Ein großer Block in der Visualisierung weist oft auf Optimierungspotenzial hin – sei es durch Aufteilen in kleinere Teile, verzögertes Laden oder den Austausch gegen eine effizientere Alternative, insbesondere bei Bibliotheken von Drittanbietern.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein großer Block in der Visualisierung weist oft auf Optimierungspotenzial hin – sei es durch Aufteilen in kleinere Teile, verzögertes Laden oder den Austausch gegen eine effizientere Alternative, insbesondere bei Bibliotheken von Drittanbietern."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

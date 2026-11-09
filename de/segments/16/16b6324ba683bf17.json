@@ -1,0 +1,14 @@
+{
+  "hash": "16b6324ba683bf17",
+  "source": "The {0}{1} provider{/0} also accepts named weights, in either the hyphenated or unhyphenated spelling, so {2} is equivalent to {3}. Remote providers expect numeric weights.",
+  "text": "Der {0}{1}-Provider{/0} akzeptiert auch benannte Schriftstärken, sowohl mit als auch ohne Bindestrich geschrieben, sodass {2} gleichbedeutend mit {3} ist. Remote-Provider erwarten numerische Schriftstärken.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der {0}{1}-Provider{/0} akzeptiert auch benannte Schriftstärken, sowohl mit als auch ohne Bindestrich geschrieben, sodass {2} gleichbedeutend mit {3} ist. Remote-Provider erwarten numerische Schriftstärken."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

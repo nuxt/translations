@@ -1,0 +1,14 @@
+{
+  "hash": "6d602082aad1de46",
+  "source": "Nuxt creates the .output/ directory when building your application for production.",
+  "text": "Nuxt erstellt das Verzeichnis .output/, wenn du deine Anwendung für die Produktion erzeugst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt erstellt das Verzeichnis .output/, wenn du deine Anwendung für die Produktion erzeugst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

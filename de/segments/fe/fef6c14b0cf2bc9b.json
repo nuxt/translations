@@ -1,0 +1,14 @@
+{
+  "hash": "fef6c14b0cf2bc9b",
+  "source": "Going Deeper",
+  "text": "Tiefer eintauchen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Tiefer eintauchen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

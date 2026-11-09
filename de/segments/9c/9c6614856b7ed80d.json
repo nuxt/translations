@@ -1,0 +1,14 @@
+{
+  "hash": "9c6614856b7ed80d",
+  "source": "By default, all plugins loads synchronously. When defining asynchronous plugins, setting {0} allows multiple plugins to load concurrently, improving performance by preventing blocking operations.",
+  "text": "Standardmäßig werden alle Plugins synchron geladen. Wenn du asynchrone Plugins definierst, ermöglicht die Einstellung {0}, dass mehrere Plugins gleichzeitig geladen werden. Das verbessert die Leistung, da blockierende Vorgänge vermieden werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardmäßig werden alle Plugins synchron geladen. Wenn du asynchrone Plugins definierst, ermöglicht die Einstellung {0}, dass mehrere Plugins gleichzeitig geladen werden. Das verbessert die Leistung, da blockierende Vorgänge vermieden werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

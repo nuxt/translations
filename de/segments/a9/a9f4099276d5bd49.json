@@ -1,0 +1,14 @@
+{
+  "hash": "a9f4099276d5bd49",
+  "source": "If you depend on watching files the builder ignores, name a watcher explicitly:",
+  "text": "Wenn du dich darauf verlässt, dass Dateien überwacht werden, die der Builder ignoriert, gib explizit einen Watcher an:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du dich darauf verlässt, dass Dateien überwacht werden, die der Builder ignoriert, gib explizit einen Watcher an:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

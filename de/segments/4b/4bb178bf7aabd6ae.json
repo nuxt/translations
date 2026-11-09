@@ -1,0 +1,14 @@
+{
+  "hash": "4bb178bf7aabd6ae",
+  "source": "Be TypeScript Friendly",
+  "text": "TypeScript-freundlich sein",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "TypeScript-freundlich sein"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "8d7807201f0ba935",
+  "source": "Commands that take a {0} positional treat an explicit {1} as an override of it. {2} on any command prints its arguments and options, and {3} prints the CLI version.",
+  "text": "Befehle mit einem positionalen Argument {0} behandeln ein explizit angegebenes {1} als Überschreibung davon. {2} gibt bei jedem Befehl dessen Argumente und Optionen aus, und {3} gibt die Version der Kommandozeilenschnittstelle aus.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Befehle mit einem positionalen Argument {0} behandeln ein explizit angegebenes {1} als Überschreibung davon. {2} gibt bei jedem Befehl dessen Argumente und Optionen aus, und {3} gibt die Version der Kommandozeilenschnittstelle aus."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

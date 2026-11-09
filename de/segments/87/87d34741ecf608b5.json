@@ -1,0 +1,14 @@
+{
+  "hash": "87d34741ecf608b5",
+  "source": "These names, except {0}, are {1}auto-imported{/1} in server code, so the import statement above is optional. Writing it keeps the file working in a project with server auto-imports off, and is what a module should do.",
+  "text": "Diese Namen sind – mit Ausnahme von {0} – im Servercode {1}automatisch importiert{/1}, die obige Import-Anweisung ist also optional. Schreibst du sie trotzdem, funktioniert die Datei auch in einem Projekt, in dem automatische Server-Importe deaktiviert sind. Genau das sollte ein Modul tun.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese Namen sind – mit Ausnahme von {0} – im Servercode {1}automatisch importiert{/1}, die obige Import-Anweisung ist also optional. Schreibst du sie trotzdem, funktioniert die Datei auch in einem Projekt, in dem automatische Server-Importe deaktiviert sind. Genau das sollte ein Modul tun."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

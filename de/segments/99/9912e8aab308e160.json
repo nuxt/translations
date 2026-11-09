@@ -1,0 +1,14 @@
+{
+  "hash": "9912e8aab308e160",
+  "source": "Always use the {0} and {1} parameters in your middleware to access the next and previous routes. Avoid using the {2} composable in this context altogether. There is **no concept of a \"current route\" in middleware**, as middleware can abort a navigation or redirect to a different route. The {3} composable will always be inaccurate in this context.",
+  "text": "Verwende in deiner Middleware immer die Parameter {0} und {1}, um auf die nächste und die vorherige Route zuzugreifen. Vermeide in diesem Kontext die Verwendung des Composables {2} vollständig. In Middleware gibt es **kein Konzept einer „aktuellen Route“**, da Middleware eine Navigation abbrechen oder auf eine andere Route umleiten kann. Das Composable {3} liefert in diesem Kontext immer ungenaue Werte.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwende in deiner Middleware immer die Parameter {0} und {1}, um auf die nächste und die vorherige Route zuzugreifen. Vermeide in diesem Kontext die Verwendung des Composables {2} vollständig. In Middleware gibt es **kein Konzept einer „aktuellen Route“**, da Middleware eine Navigation abbrechen oder auf eine andere Route umleiten kann. Das Composable {3} liefert in diesem Kontext immer ungenaue Werte."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

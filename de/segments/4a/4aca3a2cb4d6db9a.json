@@ -1,0 +1,14 @@
+{
+  "hash": "4aca3a2cb4d6db9a",
+  "source": "Navigate around your app with the keyboard alone. Tabbing from the skip link into {0} after a couple of navigations will surface most focus problems quickly.",
+  "text": "Navigiere ausschließlich per Tastatur durch deine App. Wenn du nach ein paar Navigationen vom Skip-Link in {0} tabbst, treten die meisten Fokusprobleme schnell zutage.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Navigiere ausschließlich per Tastatur durch deine App. Wenn du nach ein paar Navigationen vom Skip-Link in {0} tabbst, treten die meisten Fokusprobleme schnell zutage."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

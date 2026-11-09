@@ -1,0 +1,14 @@
+{
+  "hash": "1af2a6c9a0dec8aa",
+  "source": "Watch Vue School video about adding route rules and route middelwares.",
+  "text": "Sieh dir das Vue-School-Video zum Hinzufügen von Routing-Regeln und Routen-Middleware an.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sieh dir das Vue-School-Video zum Hinzufügen von Routing-Regeln und Routen-Middleware an."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

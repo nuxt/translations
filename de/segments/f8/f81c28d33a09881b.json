@@ -1,0 +1,14 @@
+{
+  "hash": "f81c28d33a09881b",
+  "source": "Defining Module Compatibility Requirements",
+  "text": "Kompatibilitätsanforderungen des Moduls definieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Kompatibilitätsanforderungen des Moduls definieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

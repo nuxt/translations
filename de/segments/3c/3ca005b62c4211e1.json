@@ -1,0 +1,14 @@
+{
+  "hash": "3ca005b62c4211e1",
+  "source": "Respect Defaults When Clearing {0}",
+  "text": "Standardwerte beim Leeren von {0} berücksichtigen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardwerte beim Leeren von {0} berücksichtigen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

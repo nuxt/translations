@@ -1,0 +1,14 @@
+{
+  "hash": "df33526e5af526d1",
+  "source": "Initializing State",
+  "text": "Zustand initialisieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Zustand initialisieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

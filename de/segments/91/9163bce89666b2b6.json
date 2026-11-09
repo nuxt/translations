@@ -1,0 +1,14 @@
+{
+  "hash": "9163bce89666b2b6",
+  "source": "Environment variable values are converted to the type of the value they replace:",
+  "text": "Die Werte von Umgebungsvariablen werden in den Typ des Werts umgewandelt, den sie ersetzen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Werte von Umgebungsvariablen werden in den Typ des Werts umgewandelt, den sie ersetzen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

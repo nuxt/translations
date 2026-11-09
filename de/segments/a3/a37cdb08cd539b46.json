@@ -1,0 +1,14 @@
+{
+  "hash": "a37cdb08cd539b46",
+  "source": "Works for both streaming (pre-shell) and buffered (post-render) paths.",
+  "text": "Funktioniert sowohl für Streaming (vor der Shell) als auch für gepufferte Pfade (nach dem Rendering).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Funktioniert sowohl für Streaming (vor der Shell) als auch für gepufferte Pfade (nach dem Rendering)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

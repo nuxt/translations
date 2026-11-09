@@ -1,0 +1,14 @@
+{
+  "hash": "0b4de1ab81bc8a03",
+  "source": "This composable does not take any parameters.",
+  "text": "Dieses Composable akzeptiert keine Parameter.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dieses Composable akzeptiert keine Parameter."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e0eb9cf054422d2d",
+  "source": "The {0} component is used for purposely rendering a component only on client side.",
+  "text": "Die Komponente {0} dient dazu, eine Komponente gezielt nur auf der Client-Seite zu rendern.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Komponente {0} dient dazu, eine Komponente gezielt nur auf der Client-Seite zu rendern."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

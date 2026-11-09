@@ -1,0 +1,14 @@
+{
+  "hash": "f254f20789fd67bb",
+  "source": "Or using a catch all route",
+  "text": "Oder mit einer Catch-all-Route",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Oder mit einer Catch-all-Route"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

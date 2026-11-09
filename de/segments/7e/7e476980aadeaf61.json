@@ -1,0 +1,14 @@
+{
+  "hash": "7e476980aadeaf61",
+  "source": "the SSR entry the app build emitted",
+  "text": "der vom App-Build ausgegebene SSR-Einstiegspunkt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "der vom App-Build ausgegebene SSR-Einstiegspunkt"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

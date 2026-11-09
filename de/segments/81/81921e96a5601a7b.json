@@ -1,0 +1,14 @@
+{
+  "hash": "81921e96a5601a7b",
+  "source": "A Deeper Explanation of Context",
+  "text": "Eine ausführlichere Erklärung des Kontexts",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine ausführlichere Erklärung des Kontexts"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

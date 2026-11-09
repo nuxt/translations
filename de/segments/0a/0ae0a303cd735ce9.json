@@ -1,0 +1,14 @@
+{
+  "hash": "0ae0a303cd735ce9",
+  "source": "{0} v2 directly, Nitro v3 through the compatibility layer",
+  "text": "{0} v2 direkt, Nitro v3 über die Kompatibilitätsschicht",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} v2 direkt, Nitro v3 über die Kompatibilitätsschicht"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

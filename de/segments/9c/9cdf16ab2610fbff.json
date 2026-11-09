@@ -1,0 +1,14 @@
+{
+  "hash": "9cdf16ab2610fbff",
+  "source": "Only use reactive meta tags outside the condition when necessary",
+  "text": "Verwende reaktive Meta-Tags nur dann außerhalb der Bedingung, wenn es nötig ist",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwende reaktive Meta-Tags nur dann außerhalb der Bedingung, wenn es nötig ist"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

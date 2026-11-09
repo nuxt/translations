@@ -1,0 +1,14 @@
+{
+  "hash": "4d729fa5a93e4396",
+  "source": "They seal a {0} cookie, by default with a secret derived from {1}. A session one issues does not unseal with the other, so users get a new session once. See {2}Sessions Come From {3}{/2}.",
+  "text": "Sie versiegeln einen {0}-Cookie, standardmäßig mit einem Geheimnis, das aus {1} abgeleitet wird. Eine Sitzung, die eine Variante ausstellt, lässt sich mit der anderen nicht entsiegeln, daher erhalten Nutzende einmalig eine neue Sitzung. Siehe {2}Sitzungen stammen aus {3}{/2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sie versiegeln einen {0}-Cookie, standardmäßig mit einem Geheimnis, das aus {1} abgeleitet wird. Eine Sitzung, die eine Variante ausstellt, lässt sich mit der anderen nicht entsiegeln, daher erhalten Nutzende einmalig eine neue Sitzung. Siehe {2}Sitzungen stammen aus {3}{/2}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

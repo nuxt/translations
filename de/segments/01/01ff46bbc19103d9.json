@@ -1,0 +1,14 @@
+{
+  "hash": "01ff46bbc19103d9",
+  "source": "**Solution**: Inspect your {0} for unused dependencies and analyze your code for unused utils/composables/functions.",
+  "text": "**Lösung**: Prüfe deine {0} auf ungenutzte Abhängigkeiten und analysiere deinen Code auf ungenutzte Hilfsfunktionen, Composables und Funktionen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Lösung**: Prüfe deine {0} auf ungenutzte Abhängigkeiten und analysiere deinen Code auf ungenutzte Hilfsfunktionen, Composables und Funktionen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

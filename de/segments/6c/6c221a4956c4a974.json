@@ -1,0 +1,14 @@
+{
+  "hash": "6c221a4956c4a974",
+  "source": "Add imports to the Nuxt application. It makes your imports available in the Nuxt app context without the need to import them manually.",
+  "text": "Fügt der Nuxt-Anwendung Importe hinzu. So stehen deine Importe im Kontext der Nuxt-App zur Verfügung, ohne dass du sie manuell importieren musst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fügt der Nuxt-Anwendung Importe hinzu. So stehen deine Importe im Kontext der Nuxt-App zur Verfügung, ohne dass du sie manuell importieren musst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

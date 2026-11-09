@@ -1,0 +1,14 @@
+{
+  "hash": "7dbb6a2c15043fdd",
+  "source": "Giving Deploy Targets a Handler",
+  "text": "Deploy-Targets einen Handler geben",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Deploy-Targets einen Handler geben"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

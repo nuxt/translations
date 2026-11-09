@@ -1,0 +1,14 @@
+{
+  "hash": "8f2a43e38bf2053f",
+  "source": "A nested page cannot be displayed because its parent page does not render <NuxtPage />.",
+  "text": "Eine verschachtelte Seite kann nicht angezeigt werden, weil ihre übergeordnete Seite <NuxtPage /> nicht rendert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine verschachtelte Seite kann nicht angezeigt werden, weil ihre übergeordnete Seite <NuxtPage /> nicht rendert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

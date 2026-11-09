@@ -1,0 +1,14 @@
+{
+  "hash": "afb604226f6214b0",
+  "source": "The early return only happens when the navigation succeeds (that is, when {0} resolves to {1}). If the navigation is aborted or fails (for example, blocked by a navigation guard, or navigating to the current route), the rest of your setup code continues to run. On a successful navigation, nothing after the {2} call runs: this includes {3} and any lifecycle hook registrations later in {4}.",
+  "text": "Das vorzeitige Return erfolgt nur, wenn die Navigation erfolgreich ist (d. h., wenn {0} zu {1} aufgelöst wird). Wird die Navigation abgebrochen oder schlägt sie fehl (z. B. weil ein Navigation Guard sie blockiert oder weil auf die aktuelle Route navigiert wird), läuft der restliche Setup-Code weiter. Bei einer erfolgreichen Navigation wird nach dem {2}-Aufruf nichts mehr ausgeführt: Das betrifft auch {3} und alle Registrierungen von Lifecycle-Hooks weiter unten in {4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das vorzeitige Return erfolgt nur, wenn die Navigation erfolgreich ist (d. h., wenn {0} zu {1} aufgelöst wird). Wird die Navigation abgebrochen oder schlägt sie fehl (z. B. weil ein Navigation Guard sie blockiert oder weil auf die aktuelle Route navigiert wird), läuft der restliche Setup-Code weiter. Bei einer erfolgreichen Navigation wird nach dem {2}-Aufruf nichts mehr ausgeführt: Das betrifft auch {3} und alle Registrierungen von Lifecycle-Hooks weiter unten in {4}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

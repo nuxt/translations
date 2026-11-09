@@ -1,0 +1,14 @@
+{
+  "hash": "ca8a97321bfa81b5",
+  "source": "Route Rules: Regex Constraints Can't Match Encoded Characters",
+  "text": "Route-Rules: Regex-Einschränkungen können keine kodierten Zeichen erfassen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Route-Rules: Regex-Einschränkungen können keine kodierten Zeichen erfassen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

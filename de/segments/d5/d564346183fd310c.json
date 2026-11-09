@@ -1,0 +1,14 @@
+{
+  "hash": "d564346183fd310c",
+  "source": "An app that never calls {0} no longer ships {1} to the browser.",
+  "text": "Eine App, die {0} nie aufruft, liefert {1} nicht mehr an den Browser aus.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine App, die {0} nie aufruft, liefert {1} nicht mehr an den Browser aus."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

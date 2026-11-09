@@ -1,0 +1,14 @@
+{
+  "hash": "8f283c7a1f00ba4d",
+  "source": "If you want to provide a utility that works in both server and client contexts and is usable in the {0} directory, the function must be imported from the same source file for both {1} and {2} and should have identical signature. That source file should not import anything context-specific (i.e., Nitro context, Nuxt app context) or else it might cause errors during type-checking.",
+  "text": "Wenn du eine Hilfsfunktion bereitstellen möchtest, die sowohl im Server- als auch im Client-Kontext funktioniert und im Verzeichnis {0} verwendbar ist, muss die Funktion für {1} und {2} aus derselben Quelldatei importiert werden und dieselbe Signatur haben. Diese Quelldatei sollte nichts kontextspezifisch Abhängiges importieren (z. B. Nitro-Kontext oder Nuxt-App-Kontext), da dies bei der Typprüfung zu Fehlern führen kann.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du eine Hilfsfunktion bereitstellen möchtest, die sowohl im Server- als auch im Client-Kontext funktioniert und im Verzeichnis {0} verwendbar ist, muss die Funktion für {1} und {2} aus derselben Quelldatei importiert werden und dieselbe Signatur haben. Diese Quelldatei sollte nichts kontextspezifisch Abhängiges importieren (z. B. Nitro-Kontext oder Nuxt-App-Kontext), da dies bei der Typprüfung zu Fehlern führen kann."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

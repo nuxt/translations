@@ -1,0 +1,14 @@
+{
+  "hash": "319c00ab8521bbf3",
+  "source": "Using PostCSS",
+  "text": "PostCSS verwenden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "PostCSS verwenden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

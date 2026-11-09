@@ -1,0 +1,14 @@
+{
+  "hash": "2a4d393fd3f294ff",
+  "source": "A .gitignore file specifies intentionally untracked files that git should ignore.",
+  "text": "Eine .gitignore-Datei legt fest, welche bewusst nicht versionierten Dateien Git ignorieren soll.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine .gitignore-Datei legt fest, welche bewusst nicht versionierten Dateien Git ignorieren soll."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

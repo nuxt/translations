@@ -1,0 +1,14 @@
+{
+  "hash": "bbe6ecb76f1a8365",
+  "source": "{0} - Utility functions (auto-imported)",
+  "text": "{0} – Hilfsfunktionen (automatisch importiert)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} – Hilfsfunktionen (automatisch importiert)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

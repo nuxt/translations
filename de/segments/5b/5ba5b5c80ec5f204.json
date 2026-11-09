@@ -1,0 +1,14 @@
+{
+  "hash": "5ba5b5c80ec5f204",
+  "source": "It is also possible to run on every navigation while still avoiding the initial server/client double load. For this, it is possible to use the {0} mode:",
+  "text": "Du kannst den Code auch bei jeder Navigation ausführen und trotzdem das doppelte Laden auf Server und Client beim ersten Mal vermeiden. Verwende dafür den Modus {0}:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst den Code auch bei jeder Navigation ausführen und trotzdem das doppelte Laden auf Server und Client beim ersten Mal vermeiden. Verwende dafür den Modus {0}:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

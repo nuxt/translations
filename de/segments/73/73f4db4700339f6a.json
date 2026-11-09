@@ -1,0 +1,14 @@
+{
+  "hash": "73f4db4700339f6a",
+  "source": "Neither approach is universally better; the right choice depends on the experience you want for that route.",
+  "text": "Keiner der beiden Ansätze ist grundsätzlich besser; die richtige Wahl hängt davon ab, welche Erfahrung du für diese Route bieten möchtest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Keiner der beiden Ansätze ist grundsätzlich besser; die richtige Wahl hängt davon ab, welche Erfahrung du für diese Route bieten möchtest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

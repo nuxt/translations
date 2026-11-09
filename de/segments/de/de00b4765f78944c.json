@@ -1,0 +1,14 @@
+{
+  "hash": "de00b4765f78944c",
+  "source": "Finding the App Build's Output",
+  "text": "Die Ausgabe des App-Builds finden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Ausgabe des App-Builds finden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

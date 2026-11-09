@@ -1,0 +1,14 @@
+{
+  "hash": "5c207fc432858c73",
+  "source": "Called at the end of a request cycle with an array of server-side logs.",
+  "text": "Wird am Ende eines Anfragezyklus mit einem Array serverseitiger Protokolle aufgerufen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird am Ende eines Anfragezyklus mit einem Array serverseitiger Protokolle aufgerufen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

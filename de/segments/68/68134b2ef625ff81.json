@@ -1,0 +1,14 @@
+{
+  "hash": "68134b2ef625ff81",
+  "source": "Nuxt 3 reached end of life on 31 July 2026 and no longer receives bug fixes or security patches. If you are still on Nuxt 3, follow the {0}upgrade guide{/0} to move to Nuxt 4.",
+  "text": "Nuxt 3 hat am 31. Juli 2026 das Ende seines Lebenszyklus erreicht und erhält keine Fehlerbehebungen oder Sicherheitspatches mehr. Wenn du noch Nuxt 3 verwendest, folge der {0}Upgrade-Anleitung{/0}, um auf Nuxt 4 umzusteigen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt 3 hat am 31. Juli 2026 das Ende seines Lebenszyklus erreicht und erhält keine Fehlerbehebungen oder Sicherheitspatches mehr. Wenn du noch Nuxt 3 verwendest, folge der {0}Upgrade-Anleitung{/0}, um auf Nuxt 4 umzusteigen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

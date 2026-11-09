@@ -1,0 +1,14 @@
+{
+  "hash": "f3707c8583ce765a",
+  "source": "A unique identifier matching the build. This may contain the hash of the current state of the project.",
+  "text": "Ein eindeutiger Bezeichner für den Build. Er kann den Hash des aktuellen Projektzustands enthalten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein eindeutiger Bezeichner für den Build. Er kann den Hash des aktuellen Projektzustands enthalten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "da97a2622dd4fed8",
+  "source": "Smaller Bundle",
+  "text": "Kleineres Bundle",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Kleineres Bundle"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

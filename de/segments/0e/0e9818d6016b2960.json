@@ -1,0 +1,14 @@
+{
+  "hash": "0e9818d6016b2960",
+  "source": "If your site is server-rendered or generated, middleware for the initial page will be executed both when the page is rendered and then again on the client. This might be needed if your middleware needs a browser environment, such as if you have a generated site, aggressively cache responses, or want to read a value from local storage.",
+  "text": "Wenn deine Website auf dem Server gerendert oder generiert wird, wird die Middleware für die erste Seite sowohl beim Rendern der Seite als auch anschließend erneut auf dem Client ausgeführt. Das kann erforderlich sein, wenn deine Middleware eine Browser-Umgebung benötigt, etwa bei einer generierten Website, bei aggressivem Caching von Antworten oder wenn du einen Wert aus dem Local Storage lesen möchtest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn deine Website auf dem Server gerendert oder generiert wird, wird die Middleware für die erste Seite sowohl beim Rendern der Seite als auch anschließend erneut auf dem Client ausgeführt. Das kann erforderlich sein, wenn deine Middleware eine Browser-Umgebung benötigt, etwa bei einer generierten Website, bei aggressivem Caching von Antworten oder wenn du einen Wert aus dem Local Storage lesen möchtest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

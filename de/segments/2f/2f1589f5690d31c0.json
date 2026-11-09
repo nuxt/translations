@@ -1,0 +1,14 @@
+{
+  "hash": "2f1589f5690d31c0",
+  "source": "Under the hood, this uses Vue's built-in {0}{1} strategy{/0}.",
+  "text": "Intern verwendet dies die in Vue integrierte {0}{1}-Strategie{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Intern verwendet dies die in Vue integrierte {0}{1}-Strategie{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

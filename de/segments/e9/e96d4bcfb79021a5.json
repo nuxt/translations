@@ -1,0 +1,14 @@
+{
+  "hash": "e96d4bcfb79021a5",
+  "source": "Lastly, you can manually configure this using routeRules.",
+  "text": "Schließlich kannst du dies auch manuell mit routeRules konfigurieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Schließlich kannst du dies auch manuell mit routeRules konfigurieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

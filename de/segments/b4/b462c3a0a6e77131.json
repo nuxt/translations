@@ -1,0 +1,14 @@
+{
+  "hash": "b462c3a0a6e77131",
+  "source": "Font format resolution",
+  "text": "Auflösung des Schriftformats",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auflösung des Schriftformats"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

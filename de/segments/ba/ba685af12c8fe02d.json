@@ -1,0 +1,14 @@
+{
+  "hash": "ba685af12c8fe02d",
+  "source": "Create a server route in the API directory",
+  "text": "Erstellt eine Server-Route im API-Verzeichnis",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erstellt eine Server-Route im API-Verzeichnis"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

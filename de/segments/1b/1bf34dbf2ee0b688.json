@@ -1,0 +1,14 @@
+{
+  "hash": "1bf34dbf2ee0b688",
+  "source": "In ESM Modules, unlike CJS, {0}, {1}, {2} and {3} globals are not available and should be replaced with {4} and {5}.",
+  "text": "In ESM-Modulen sind die globalen Variablen {0}, {1}, {2} und {3} im Gegensatz zu CJS nicht verfügbar und sollten durch {4} und {5} ersetzt werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In ESM-Modulen sind die globalen Variablen {0}, {1}, {2} und {3} im Gegensatz zu CJS nicht verfügbar und sollten durch {4} und {5} ersetzt werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

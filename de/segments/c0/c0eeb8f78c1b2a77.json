@@ -1,0 +1,14 @@
+{
+  "hash": "c0eeb8f78c1b2a77",
+  "source": "Set the time interval (in ms) to check for new builds. Disabled when {0} is {1}.",
+  "text": "Legt das Zeitintervall (in ms) fest, in dem nach neuen Builds gesucht wird. Deaktiviert, wenn {0} den Wert {1} hat.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Legt das Zeitintervall (in ms) fest, in dem nach neuen Builds gesucht wird. Deaktiviert, wenn {0} den Wert {1} hat."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

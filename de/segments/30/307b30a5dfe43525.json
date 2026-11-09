@@ -1,0 +1,14 @@
+{
+  "hash": "307b30a5dfe43525",
+  "source": "❌ Won't work - passed as a callback",
+  "text": "❌ Funktioniert nicht – als Callback übergeben",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "❌ Funktioniert nicht – als Callback übergeben"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

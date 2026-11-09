@@ -1,0 +1,14 @@
+{
+  "hash": "35ef3e412dcadb0e",
+  "source": "Read more about Nitro tasks.",
+  "text": "Mehr über Nitro-Tasks erfährst du in der Dokumentation.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mehr über Nitro-Tasks erfährst du in der Dokumentation."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

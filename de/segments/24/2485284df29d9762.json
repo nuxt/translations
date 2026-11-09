@@ -1,0 +1,14 @@
+{
+  "hash": "2485284df29d9762",
+  "source": "Alternatively, for now, you can disable this behaviour with:",
+  "text": "Alternativ kannst du dieses Verhalten vorerst deaktivieren mit:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Alternativ kannst du dieses Verhalten vorerst deaktivieren mit:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

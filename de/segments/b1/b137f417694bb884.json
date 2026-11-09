@@ -1,0 +1,14 @@
+{
+  "hash": "b137f417694bb884",
+  "source": "Use **server components** for widgets that need server rendering but no interactivity.",
+  "text": "Verwende **Server-Komponenten** für Widgets, die serverseitig gerendert werden müssen, aber keine Interaktivität benötigen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwende **Server-Komponenten** für Widgets, die serverseitig gerendert werden müssen, aber keine Interaktivität benötigen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

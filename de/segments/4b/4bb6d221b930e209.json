@@ -1,0 +1,14 @@
+{
+  "hash": "4bb6d221b930e209",
+  "source": "A target may also want the render inside its own source, as with a worker entry that answers some routes itself and renders the rest. {0} handles this by resolving {1} to the render, as a module that the target's own bundler builds. The app is then compiled with that environment's export conditions, which is what lets it run on a worker runtime, and nothing has to hard-code a path inside the build directory:",
+  "text": "Ein Target möchte das Rendering unter Umständen auch in seinem eigenen Quellcode haben, etwa bei einem Worker-Entry, der einige Routen selbst beantwortet und den Rest rendert. {0} löst das, indem {1} zum Rendering aufgelöst wird, und zwar als Modul, das der Bundler des Targets erzeugt. Die App wird dann mit den Export-Bedingungen dieser Umgebung kompiliert, wodurch sie in einer Worker-Laufzeitumgebung laufen kann, und kein Pfad innerhalb des Build-Verzeichnisses muss fest eincodiert werden:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein Target möchte das Rendering unter Umständen auch in seinem eigenen Quellcode haben, etwa bei einem Worker-Entry, der einige Routen selbst beantwortet und den Rest rendert. {0} löst das, indem {1} zum Rendering aufgelöst wird, und zwar als Modul, das der Bundler des Targets erzeugt. Die App wird dann mit den Export-Bedingungen dieser Umgebung kompiliert, wodurch sie in einer Worker-Laufzeitumgebung laufen kann, und kein Pfad innerhalb des Build-Verzeichnisses muss fest eincodiert werden:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

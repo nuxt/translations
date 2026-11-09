@@ -1,0 +1,14 @@
+{
+  "hash": "bda22406042cba15",
+  "source": "To navigate between pages of your app, you should use the {0} component.",
+  "text": "Um zwischen den Seiten deiner App zu navigieren, solltest du die Komponente {0} verwenden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um zwischen den Seiten deiner App zu navigieren, solltest du die Komponente {0} verwenden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

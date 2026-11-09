@@ -1,0 +1,14 @@
+{
+  "hash": "7f4c642f5159598b",
+  "source": "You can also pass in computed values or refs, and the meta values will be updated reactively:",
+  "text": "Du kannst auch berechnete Werte oder Refs übergeben, dann werden die Meta-Werte reaktiv aktualisiert:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst auch berechnete Werte oder Refs übergeben, dann werden die Meta-Werte reaktiv aktualisiert:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

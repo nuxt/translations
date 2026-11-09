@@ -1,0 +1,14 @@
+{
+  "hash": "c68d1fa827c6c260",
+  "source": "Quick Start",
+  "text": "Schnellstart",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Schnellstart"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

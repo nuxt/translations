@@ -1,0 +1,14 @@
+{
+  "hash": "e4b73efe9ea8d2cf",
+  "source": "Nuxt allows visualizing your bundles and how to optimize them.",
+  "text": "Nuxt ermöglicht es, deine Bundles zu visualisieren und zu sehen, wie du sie optimieren kannst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt ermöglicht es, deine Bundles zu visualisieren und zu sehen, wie du sie optimieren kannst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

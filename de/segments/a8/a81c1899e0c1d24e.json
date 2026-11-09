@@ -1,0 +1,14 @@
+{
+  "hash": "a81c1899e0c1d24e",
+  "source": "Migrate your plugins to use the {0} helper function.",
+  "text": "Migriere deine Plugins so, dass sie die Hilfsfunktion {0} verwenden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Migriere deine Plugins so, dass sie die Hilfsfunktion {0} verwenden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "86fbfaf6dce5e52c",
+  "source": "{0}: Returns a Promise that resolves when the router has completed the initial navigation.",
+  "text": "{0}: Gibt ein Promise zurück, das aufgelöst wird, sobald der Router die initiale Navigation abgeschlossen hat.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Gibt ein Promise zurück, das aufgelöst wird, sobald der Router die initiale Navigation abgeschlossen hat."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

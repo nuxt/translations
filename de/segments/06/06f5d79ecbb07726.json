@@ -1,0 +1,14 @@
+{
+  "hash": "06f5d79ecbb07726",
+  "source": "Check the code style with {0}",
+  "text": "Prüfe den Code-Style mit {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Prüfe den Code-Style mit {0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

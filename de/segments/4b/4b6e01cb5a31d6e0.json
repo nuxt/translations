@@ -1,0 +1,14 @@
+{
+  "hash": "4b6e01cb5a31d6e0",
+  "source": "**{0}**. Serve this for unmatched paths when you want the client router to handle the URL.",
+  "text": "**{0}**. Liefere diese Datei für nicht zugeordnete Pfade aus, wenn der Client-Router die URL verarbeiten soll.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}**. Liefere diese Datei für nicht zugeordnete Pfade aus, wenn der Client-Router die URL verarbeiten soll."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

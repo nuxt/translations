@@ -1,0 +1,14 @@
+{
+  "hash": "d627b4e012e122dd",
+  "source": "The top level {0} configuration was a holdover from Nuxt 2. We've supported {1} for a while now, and it is the preferred way to configure prerendering in Nuxt 3+.",
+  "text": "Die {0}-Konfiguration auf oberster Ebene war ein Überbleibsel aus Nuxt 2. Wir unterstützen {1} bereits seit einiger Zeit, und es ist der bevorzugte Weg, das Vorab-Rendering in Nuxt 3+ zu konfigurieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die {0}-Konfiguration auf oberster Ebene war ein Überbleibsel aus Nuxt 2. Wir unterstützen {1} bereits seit einiger Zeit, und es ist der bevorzugte Weg, das Vorab-Rendering in Nuxt 3+ zu konfigurieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

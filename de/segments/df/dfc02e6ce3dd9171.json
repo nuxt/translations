@@ -1,0 +1,14 @@
+{
+  "hash": "dfc02e6ce3dd9171",
+  "source": "Here are some examples to illustrate what a page with a single root element looks like:",
+  "text": "Die folgenden Beispiele zeigen, wie eine Seite mit nur einem Wurzelelement aussieht:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die folgenden Beispiele zeigen, wie eine Seite mit nur einem Wurzelelement aussieht:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "8487cd166d13e584",
+  "source": "Or globally in your Nuxt config",
+  "text": "Oder global in deiner Nuxt-Konfiguration",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Oder global in deiner Nuxt-Konfiguration"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "d2bca8108ef3f5c1",
+  "source": "Applying an axis is a subsetting pass, so it modifies the font files you ship. Check that the licence of each font allows it.",
+  "text": "Das Anwenden einer Achse ist ein Durchlauf zur Subset-Erzeugung und verändert daher die Schriftdateien, die du auslieferst. Prüfe, ob die Lizenz der jeweiligen Schrift das erlaubt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Anwenden einer Achse ist ein Durchlauf zur Subset-Erzeugung und verändert daher die Schriftdateien, die du auslieferst. Prüfe, ob die Lizenz der jeweiligen Schrift das erlaubt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

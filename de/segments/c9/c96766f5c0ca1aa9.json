@@ -1,0 +1,14 @@
+{
+  "hash": "c96766f5c0ca1aa9",
+  "source": "The {0} can either be a string, where {1} is replaced with the title, or a function.",
+  "text": "{0} kann entweder ein String sein, in dem {1} durch den Titel ersetzt wird, oder eine Funktion.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} kann entweder ein String sein, in dem {1} durch den Titel ersetzt wird, oder eine Funktion."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "f89e8b785d0e7ed6",
+  "source": "Learn about all the route rules available to customize the rendering mode of your routes.",
+  "text": "Erfahre mehr über alle verfügbaren Route-Rules, mit denen du den Rendering-Modus deiner Routen anpassen kannst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erfahre mehr über alle verfügbaren Route-Rules, mit denen du den Rendering-Modus deiner Routen anpassen kannst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

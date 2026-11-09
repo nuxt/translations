@@ -1,0 +1,14 @@
+{
+  "hash": "4ff82791e34cf440",
+  "source": "Access the current cached value of data fetching composables.",
+  "text": "Greife auf den aktuell zwischengespeicherten Wert von Composables für den Datenabruf zu.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Greife auf den aktuell zwischengespeicherten Wert von Composables für den Datenabruf zu."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

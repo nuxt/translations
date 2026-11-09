@@ -1,0 +1,14 @@
+{
+  "hash": "a8fe035e66170124",
+  "source": "User configuration merged across all layers, with no schema defaults applied and with {0}, {1} and {2} excluded, so repeated loads of an unchanged project produce an unchanged snapshot.",
+  "text": "Über alle Layer hinweg zusammengeführte Nutzendenkonfiguration, ohne angewendete Schema-Standardwerte und ohne {0}, {1} und {2}, sodass wiederholtes Laden eines unveränderten Projekts einen unveränderten Snapshot erzeugt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Über alle Layer hinweg zusammengeführte Nutzendenkonfiguration, ohne angewendete Schema-Standardwerte und ohne {0}, {1} und {2}, sodass wiederholtes Laden eines unveränderten Projekts einen unveränderten Snapshot erzeugt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

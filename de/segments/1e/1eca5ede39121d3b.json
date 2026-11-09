@@ -1,0 +1,14 @@
+{
+  "hash": "1eca5ede39121d3b",
+  "source": "Resolves to '/modules/my-module/components/MyModuleComponent.vue'",
+  "text": "Wird aufgelöst zu '/modules/my-module/components/MyModuleComponent.vue'",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird aufgelöst zu '/modules/my-module/components/MyModuleComponent.vue'"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

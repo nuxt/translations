@@ -1,0 +1,14 @@
+{
+  "hash": "42d2759f5e2fb302",
+  "source": "Add a config file from each layer that has one",
+  "text": "Eine Konfigurationsdatei aus jedem Layer hinzufügen, der eine besitzt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine Konfigurationsdatei aus jedem Layer hinzufügen, der eine besitzt"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

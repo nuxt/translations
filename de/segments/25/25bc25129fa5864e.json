@@ -1,0 +1,14 @@
+{
+  "hash": "25bc25129fa5864e",
+  "source": "This diagnostic is reported when that recovery itself fails: the head tags registered after the shell, or the closing tags, could not be rendered. The browser then receives a blank or partially rendered page rather than your error page.",
+  "text": "Diese Diagnose wird gemeldet, wenn diese Wiederherstellung selbst fehlschlägt: Die nach der Shell registrierten Head-Tags oder die schließenden Tags konnten nicht gerendert werden. Der Browser erhält dann statt deiner Fehlerseite eine leere oder nur teilweise gerenderte Seite.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese Diagnose wird gemeldet, wenn diese Wiederherstellung selbst fehlschlägt: Die nach der Shell registrierten Head-Tags oder die schließenden Tags konnten nicht gerendert werden. Der Browser erhält dann statt deiner Fehlerseite eine leere oder nur teilweise gerenderte Seite."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "ea6aeb2c1456613c",
+  "source": "The client build no longer sets {0}. Code that calls {1} receives it as an import from {2}, including code that does not use auto-imports, such as module runtime files. On the server, {3} is still set.",
+  "text": "Der Client-Build setzt {0} nicht mehr. Code, der {1} aufruft, erhält es als Import aus {2}. Das gilt auch für Code, der keine automatischen Importe verwendet, etwa Laufzeitdateien von Modulen. Auf dem Server ist {3} weiterhin gesetzt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Client-Build setzt {0} nicht mehr. Code, der {1} aufruft, erhält es als Import aus {2}. Das gilt auch für Code, der keine automatischen Importe verwendet, etwa Laufzeitdateien von Modulen. Auf dem Server ist {3} weiterhin gesetzt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

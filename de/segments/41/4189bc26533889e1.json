@@ -1,0 +1,14 @@
+{
+  "hash": "4189bc26533889e1",
+  "source": "The base path of your Nuxt application.",
+  "text": "Der Basispfad deiner Nuxt-Anwendung.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Basispfad deiner Nuxt-Anwendung."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

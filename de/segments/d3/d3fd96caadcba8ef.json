@@ -1,0 +1,14 @@
+{
+  "hash": "d3fd96caadcba8ef",
+  "source": "Need a custom {0} with pre-defined defaults (like {1} or auth headers)? Use {2} to create a fully typed custom composable.",
+  "text": "Du brauchst ein eigenes {0} mit vordefinierten Standardwerten (wie {1} oder Auth-Headern)? Verwende {2}, um ein vollständig typisiertes eigenes Composable zu erstellen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du brauchst ein eigenes {0} mit vordefinierten Standardwerten (wie {1} oder Auth-Headern)? Verwende {2}, um ein vollständig typisiertes eigenes Composable zu erstellen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

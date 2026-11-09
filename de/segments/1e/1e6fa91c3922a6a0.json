@@ -1,0 +1,14 @@
+{
+  "hash": "1e6fa91c3922a6a0",
+  "source": "When no file covers the whole of a requested range, the endpoints of that range are looked up as static weights instead, so a project shipping {0} and {1} resolves the default {2} as two separate {3} rules.",
+  "text": "Wenn keine Datei den gesamten angeforderten Bereich abdeckt, werden stattdessen die Endpunkte dieses Bereichs als statische Stärken gesucht. So löst ein Projekt, das {0} und {1} enthält, den Standardwert {2} als zwei separate {3}-Regeln auf.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn keine Datei den gesamten angeforderten Bereich abdeckt, werden stattdessen die Endpunkte dieses Bereichs als statische Stärken gesucht. So löst ein Projekt, das {0} und {1} enthält, den Standardwert {2} als zwei separate {3}-Regeln auf."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

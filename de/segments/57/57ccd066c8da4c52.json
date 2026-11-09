@@ -1,0 +1,14 @@
+{
+  "hash": "57ccd066c8da4c52",
+  "source": "For content and marketing sites that need little or no client-side interactivity, you can go further and combine prerendering, the {0} route rule, {1}server components{/1} and lazy hydration to ship near-zero JavaScript.",
+  "text": "Für Content- und Marketing-Websites, die wenig oder keine clientseitige Interaktivität benötigen, kannst du noch weiter gehen und Vorab-Rendering, die Route Rule {0}, {1}Server-Komponenten{/1} und Lazy Hydration kombinieren, um nahezu kein JavaScript auszuliefern.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Für Content- und Marketing-Websites, die wenig oder keine clientseitige Interaktivität benötigen, kannst du noch weiter gehen und Vorab-Rendering, die Route Rule {0}, {1}Server-Komponenten{/1} und Lazy Hydration kombinieren, um nahezu kein JavaScript auszuliefern."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

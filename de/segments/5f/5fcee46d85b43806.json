@@ -1,0 +1,14 @@
+{
+  "hash": "5fcee46d85b43806",
+  "source": "**Removed options**: {0}Several experimental options{/0} are gone, because the behavior they controlled is now unconditional",
+  "text": "**Entfernte Optionen**: {0}Mehrere experimentelle Optionen{/0} entfallen, weil das Verhalten, das sie steuerten, jetzt immer gilt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Entfernte Optionen**: {0}Mehrere experimentelle Optionen{/0} entfallen, weil das Verhalten, das sie steuerten, jetzt immer gilt"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

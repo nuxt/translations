@@ -1,0 +1,14 @@
+{
+  "hash": "d3ebd5a11568e7d8",
+  "source": "The {0} field is a convention used by bundlers like webpack and Rollup, but is not recognized by Node.js itself. Node.js only uses the {1} and {2} fields for module resolution.",
+  "text": "Das Feld {0} ist eine Konvention von Bundlern wie webpack und Rollup, wird aber von Node.js selbst nicht erkannt. Node.js verwendet für die Modulauflösung nur die Felder {1} und {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Feld {0} ist eine Konvention von Bundlern wie webpack und Rollup, wird aber von Node.js selbst nicht erkannt. Node.js verwendet für die Modulauflösung nur die Felder {1} und {2}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

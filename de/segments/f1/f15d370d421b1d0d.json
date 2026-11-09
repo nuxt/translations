@@ -1,0 +1,14 @@
+{
+  "hash": "f15d370d421b1d0d",
+  "source": "Pages **must have a single root element** to allow {0}route transitions{/0} between pages. HTML comments are considered elements as well.",
+  "text": "Seiten **müssen ein einziges Wurzelelement haben**, damit {0}Routenübergänge{/0} zwischen Seiten möglich sind. HTML-Kommentare gelten ebenfalls als Elemente.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Seiten **müssen ein einziges Wurzelelement haben**, damit {0}Routenübergänge{/0} zwischen Seiten möglich sind. HTML-Kommentare gelten ebenfalls als Elemente."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

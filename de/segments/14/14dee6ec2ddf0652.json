@@ -1,0 +1,14 @@
+{
+  "hash": "14dee6ec2ddf0652",
+  "source": "With {0}, every environment variable value is converted to the type of the value it replaces rather than cast with {1}:",
+  "text": "Mit {0} wird jeder Wert einer Umgebungsvariable in den Typ des Werts konvertiert, den er ersetzt, statt mit {1} umgewandelt zu werden:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit {0} wird jeder Wert einer Umgebungsvariable in den Typ des Werts konvertiert, den er ersetzt, statt mit {1} umgewandelt zu werden:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

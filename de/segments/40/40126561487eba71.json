@@ -1,0 +1,14 @@
+{
+  "hash": "40126561487eba71",
+  "source": "{0} follows standard module resolution and does not search dependencies nested inside other packages. To resolve a dependency declared by your Nuxt module, use {1}. This makes resolution independent of whether the package manager hoists the dependency.",
+  "text": "{0} folgt der Standardauflösung von Modulen und durchsucht keine Abhängigkeiten, die in anderen Paketen verschachtelt sind. Um eine Abhängigkeit aufzulösen, die dein Nuxt-Modul deklariert, verwende {1}. Dadurch ist die Auflösung unabhängig davon, ob der Paketmanager die Abhängigkeit hochzieht.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} folgt der Standardauflösung von Modulen und durchsucht keine Abhängigkeiten, die in anderen Paketen verschachtelt sind. Um eine Abhängigkeit aufzulösen, die dein Nuxt-Modul deklariert, verwende {1}. Dadurch ist die Auflösung unabhängig davon, ob der Paketmanager die Abhängigkeit hochzieht."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

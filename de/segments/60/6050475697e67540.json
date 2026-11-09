@@ -1,0 +1,14 @@
+{
+  "hash": "6050475697e67540",
+  "source": "or preload one upright font face near weight 400 in the first configured subset (or Basic Latin)",
+  "text": "oder einen aufrechten Schriftschnitt mit einer Stärke nahe 400 im ersten konfigurierten Subset (oder in Basic Latin) vorladen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "oder einen aufrechten Schriftschnitt mit einer Stärke nahe 400 im ersten konfigurierten Subset (oder in Basic Latin) vorladen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

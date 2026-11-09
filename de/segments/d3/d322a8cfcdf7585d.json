@@ -1,0 +1,14 @@
+{
+  "hash": "d322a8cfcdf7585d",
+  "source": "You can read the {0}Vue documentation on SSR hydration mismatch{/0} for a better understanding of hydration.",
+  "text": "Für ein besseres Verständnis von Hydration kannst du die {0}Vue-Dokumentation zu SSR-Hydration-Mismatches{/0} lesen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Für ein besseres Verständnis von Hydration kannst du die {0}Vue-Dokumentation zu SSR-Hydration-Mismatches{/0} lesen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

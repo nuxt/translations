@@ -1,0 +1,14 @@
+{
+  "hash": "865c1a55df91a3a5",
+  "source": "the component uses the name we specified and is auto-imported",
+  "text": "Die Komponente verwendet den von uns angegebenen Namen und wird automatisch importiert",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Komponente verwendet den von uns angegebenen Namen und wird automatisch importiert"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

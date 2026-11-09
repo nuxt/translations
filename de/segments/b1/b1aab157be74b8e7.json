@@ -1,0 +1,14 @@
+{
+  "hash": "b1aab157be74b8e7",
+  "source": "**Non-async {0}**: {1} may return {2} instead of always returning a {3}",
+  "text": "**Nicht asynchrones {0}**: {1} kann {2} zurückgeben, statt immer ein {3} zurückzugeben",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Nicht asynchrones {0}**: {1} kann {2} zurückgeben, statt immer ein {3} zurückzugeben"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

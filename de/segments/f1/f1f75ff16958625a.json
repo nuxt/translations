@@ -1,0 +1,14 @@
+{
+  "hash": "f1f75ff16958625a",
+  "source": "{0} lets you define your site's SEO meta tags as a flat object with full TypeScript support, exactly like {1}, but it only runs server-side and is tree-shaken from the client bundle.",
+  "text": "Mit {0} definierst du die SEO-Meta-Tags deiner Website als flaches Objekt mit vollständiger TypeScript-Unterstützung, genau wie mit {1}. Es wird jedoch nur serverseitig ausgeführt und per Tree-Shaking aus dem Client-Bundle entfernt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit {0} definierst du die SEO-Meta-Tags deiner Website als flaches Objekt mit vollständiger TypeScript-Unterstützung, genau wie mit {1}. Es wird jedoch nur serverseitig ausgeführt und per Tree-Shaking aus dem Client-Bundle entfernt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "1ba83d655cf037ac",
+  "source": "To try the latest version of {0}nuxt/cli{/0}:",
+  "text": "So probierst du die neueste Version von {0}nuxt/cli{/0} aus:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "So probierst du die neueste Version von {0}nuxt/cli{/0} aus:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

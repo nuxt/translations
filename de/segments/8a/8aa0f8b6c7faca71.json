@@ -1,0 +1,14 @@
+{
+  "hash": "8aa0f8b6c7faca71",
+  "source": "Remove the {0} wrapper:",
+  "text": "Entferne den {0}-Wrapper:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Entferne den {0}-Wrapper:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

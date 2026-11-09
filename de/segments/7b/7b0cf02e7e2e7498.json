@@ -1,0 +1,14 @@
+{
+  "hash": "7b0cf02e7e2e7498",
+  "source": "Enable Nuxt experimental features to unlock new possibilities.",
+  "text": "Aktiviere experimentelle Nuxt-Funktionen, um neue Möglichkeiten zu erschließen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Aktiviere experimentelle Nuxt-Funktionen, um neue Möglichkeiten zu erschließen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

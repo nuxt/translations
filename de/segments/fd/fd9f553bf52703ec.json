@@ -1,0 +1,14 @@
+{
+  "hash": "fd9f553bf52703ec",
+  "source": "If you need to control the order of auto-scanned layers, you can prefix them with numbers: {0}, {1}. This way {2} will have higher priority than {3}.",
+  "text": "Wenn du die Reihenfolge automatisch gescannter Layer steuern möchtest, kannst du ihnen Zahlen voranstellen: {0}, {1}. So hat {2} eine höhere Priorität als {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du die Reihenfolge automatisch gescannter Layer steuern möchtest, kannst du ihnen Zahlen voranstellen: {0}, {1}. So hat {2} eine höhere Priorität als {3}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

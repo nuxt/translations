@@ -1,0 +1,14 @@
+{
+  "hash": "3df6a8b9a163f3e1",
+  "source": "Updates the entry with new input.",
+  "text": "Aktualisiert den Eintrag mit neuen Eingaben.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Aktualisiert den Eintrag mit neuen Eingaben."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

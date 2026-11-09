@@ -1,0 +1,14 @@
+{
+  "hash": "07f0a93f0949d9b7",
+  "source": "Then, modules found in the {0} directory are executed, and they load in alphabetical order.",
+  "text": "Danach werden die im Verzeichnis {0} gefundenen Module ausgeführt; sie werden in alphabetischer Reihenfolge geladen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Danach werden die im Verzeichnis {0} gefundenen Module ausgeführt; sie werden in alphabetischer Reihenfolge geladen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

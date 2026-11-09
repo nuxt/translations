@@ -1,0 +1,14 @@
+{
+  "hash": "2dde157f924702ae",
+  "source": "Sets the message to announce with its urgency level.",
+  "text": "Legt die anzukündigende Meldung mit ihrer Dringlichkeitsstufe fest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Legt die anzukündigende Meldung mit ihrer Dringlichkeitsstufe fest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

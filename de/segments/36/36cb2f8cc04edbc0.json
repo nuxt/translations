@@ -1,0 +1,14 @@
+{
+  "hash": "36cb2f8cc04edbc0",
+  "source": "We also added a logout button to clear the session and redirect the user to the login page.",
+  "text": "Außerdem haben wir eine Abmelde-Schaltfläche hinzugefügt, die die Sitzung löscht und die nutzende Person auf die Anmeldeseite umleitet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Außerdem haben wir eine Abmelde-Schaltfläche hinzugefügt, die die Sitzung löscht und die nutzende Person auf die Anmeldeseite umleitet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

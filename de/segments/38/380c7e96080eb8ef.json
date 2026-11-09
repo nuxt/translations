@@ -1,0 +1,14 @@
+{
+  "hash": "380c7e96080eb8ef",
+  "source": "**Typed {0}**: {1} types {2} and {3} from the generated route types",
+  "text": "**Typisiertes {0}**: {1} typisiert {2} und {3} anhand der generierten Routentypen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Typisiertes {0}**: {1} typisiert {2} und {3} anhand der generierten Routentypen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "019112c0a90a57fc",
+  "source": "What Is MCP?",
+  "text": "Was ist MCP?",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Was ist MCP?"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "16a059946d2ea5e0",
+  "source": "If you were setting {0} directly (which was never a public API), use {1} instead. The Nuxt router composable already uses the new property, so no changes are needed if you're going through {2} or route middleware.",
+  "text": "Wenn du {0} direkt gesetzt hast (was nie eine öffentliche API war), verwende stattdessen {1}. Das Router-Composable von Nuxt nutzt bereits die neue Eigenschaft, daher sind keine Änderungen nötig, wenn du {2} oder Routen-Middleware verwendest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du {0} direkt gesetzt hast (was nie eine öffentliche API war), verwende stattdessen {1}. Das Router-Composable von Nuxt nutzt bereits die neue Eigenschaft, daher sind keine Änderungen nötig, wenn du {2} oder Routen-Middleware verwendest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

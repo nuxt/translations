@@ -1,0 +1,14 @@
+{
+  "hash": "1f12e4c54e3450f8",
+  "source": "No {0} is set in your Nuxt configuration. Nuxt uses this date to decide which behavior defaults to apply, so your project stays stable across Nuxt and Nitro updates instead of silently picking up new defaults.",
+  "text": "In deiner Nuxt-Konfiguration ist kein {0} gesetzt. Nuxt verwendet dieses Datum, um zu entscheiden, welche Standardverhalten angewendet werden. So bleibt dein Projekt auch bei Updates von Nuxt und Nitro stabil, statt unbemerkt neue Standardwerte zu übernehmen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In deiner Nuxt-Konfiguration ist kein {0} gesetzt. Nuxt verwendet dieses Datum, um zu entscheiden, welche Standardverhalten angewendet werden. So bleibt dein Projekt auch bei Updates von Nuxt und Nitro stabil, statt unbemerkt neue Standardwerte zu übernehmen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

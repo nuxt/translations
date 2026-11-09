@@ -1,0 +1,14 @@
+{
+  "hash": "ff91169eaea6743e",
+  "source": "{0} is particularly useful on content sites: the component's HTML is server-rendered, but it is never hydrated, so its JavaScript is never executed (though prop changes will still trigger hydration).",
+  "text": "{0} ist auf Inhalts-Websites besonders nützlich: Das HTML der Komponente wird auf dem Server gerendert, aber nie hydratisiert, sodass ihr JavaScript nie ausgeführt wird (Änderungen an Props lösen allerdings weiterhin eine Hydration aus).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ist auf Inhalts-Websites besonders nützlich: Das HTML der Komponente wird auf dem Server gerendert, aber nie hydratisiert, sodass ihr JavaScript nie ausgeführt wird (Änderungen an Props lösen allerdings weiterhin eine Hydration aus)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

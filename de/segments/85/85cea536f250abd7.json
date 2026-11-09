@@ -1,0 +1,14 @@
+{
+  "hash": "85cea536f250abd7",
+  "source": "**{0}**: Version and builder constraints to check against. Refer to the {1}constraints table in {2}{/1} for details.",
+  "text": "**{0}**: Versions- und Builder-Einschränkungen, gegen die geprüft wird. Details findest du in der {1}Tabelle der Einschränkungen in {2}{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}**: Versions- und Builder-Einschränkungen, gegen die geprüft wird. Details findest du in der {1}Tabelle der Einschränkungen in {2}{/1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

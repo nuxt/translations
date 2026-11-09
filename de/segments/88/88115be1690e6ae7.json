@@ -1,0 +1,14 @@
+{
+  "hash": "88115be1690e6ae7",
+  "source": "Watch Vue School video about Nuxt private modules.",
+  "text": "Sieh dir das Vue-School-Video über private Nuxt-Module an.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sieh dir das Vue-School-Video über private Nuxt-Module an."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

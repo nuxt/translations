@@ -1,0 +1,14 @@
+{
+  "hash": "fe71848481eac056",
+  "source": "It will be much easier to migrate your application if you use Nuxt's TypeScript integration. This does not mean you need to write your application in TypeScript, just that Nuxt will provide automatic type hints for your editor.",
+  "text": "Die Migration deiner Anwendung fällt deutlich leichter, wenn du die TypeScript-Integration von Nuxt verwendest. Das bedeutet nicht, dass du deine Anwendung in TypeScript schreiben musst, sondern nur, dass Nuxt automatische Typhinweise für deinen Editor bereitstellt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Migration deiner Anwendung fällt deutlich leichter, wenn du die TypeScript-Integration von Nuxt verwendest. Das bedeutet nicht, dass du deine Anwendung in TypeScript schreiben musst, sondern nur, dass Nuxt automatische Typhinweise für deinen Editor bereitstellt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

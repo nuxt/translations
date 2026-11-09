@@ -1,0 +1,14 @@
+{
+  "hash": "4f316b6ef457dd26",
+  "source": "{0} is erased at compile time and does not pull runtime code into the other bundle, so importing only types across the boundary may appear to work. Even so, keep shared types (such as API response types) in {1}, where they are auto-imported in both contexts. This keeps the boundary clear, avoids accidentally turning a type import into a value import later, and matches Nuxt's separate {2}type contexts{/2} for app, server, and shared code.",
+  "text": "{0} wird bei der Kompilierung entfernt und zieht keinen Laufzeitcode in das andere Bundle. Daher kann es so aussehen, als würde es funktionieren, wenn du über die Grenze hinweg nur Typen importierst. Lege gemeinsam genutzte Typen (etwa Typen für API-Antworten) dennoch in {1} ab, wo sie in beiden Kontexten automatisch importiert werden. So bleibt die Grenze klar, du vermeidest, dass aus einem Typ-Import später versehentlich ein Wert-Import wird, und es entspricht den getrennten {2}Typkontexten{/2} von Nuxt für App, Server und Shared-Code.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} wird bei der Kompilierung entfernt und zieht keinen Laufzeitcode in das andere Bundle. Daher kann es so aussehen, als würde es funktionieren, wenn du über die Grenze hinweg nur Typen importierst. Lege gemeinsam genutzte Typen (etwa Typen für API-Antworten) dennoch in {1} ab, wo sie in beiden Kontexten automatisch importiert werden. So bleibt die Grenze klar, du vermeidest, dass aus einem Typ-Import später versehentlich ein Wert-Import wird, und es entspricht den getrennten {2}Typkontexten{/2} von Nuxt für App, Server und Shared-Code."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

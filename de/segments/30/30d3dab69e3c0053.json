@@ -1,0 +1,14 @@
+{
+  "hash": "30d3dab69e3c0053",
+  "source": "Get the cookies from the response",
+  "text": "Cookies aus der Antwort abrufen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cookies aus der Antwort abrufen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

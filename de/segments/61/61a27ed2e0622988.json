@@ -1,0 +1,14 @@
+{
+  "hash": "61a27ed2e0622988",
+  "source": "with the flag enabled, this only runs if the navigation did not happen",
+  "text": "Bei aktiviertem Flag wird das nur ausgeführt, wenn die Navigation nicht stattgefunden hat",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bei aktiviertem Flag wird das nur ausgeführt, wenn die Navigation nicht stattgefunden hat"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

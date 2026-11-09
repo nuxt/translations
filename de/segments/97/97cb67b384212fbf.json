@@ -1,0 +1,14 @@
+{
+  "hash": "97cb67b384212fbf",
+  "source": "CSS is unaffected: stylesheet links and inlined styles are still rendered, so the page looks identical. The page simply never hydrates, which means nothing on it is interactive.",
+  "text": "CSS ist davon nicht betroffen: Stylesheet-Links und inline eingebettete Styles werden weiterhin gerendert, sodass die Seite identisch aussieht. Die Seite wird lediglich nie hydratisiert, das heißt, nichts darauf ist interaktiv.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "CSS ist davon nicht betroffen: Stylesheet-Links und inline eingebettete Styles werden weiterhin gerendert, sodass die Seite identisch aussieht. Die Seite wird lediglich nie hydratisiert, das heißt, nichts darauf ist interaktiv."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

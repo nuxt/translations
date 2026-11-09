@@ -1,0 +1,14 @@
+{
+  "hash": "4960ffc0879dbecf",
+  "source": "Nuxt scans a number of folders automatically, including {0} and {1}.",
+  "text": "Nuxt durchsucht automatisch eine Reihe von Verzeichnissen, darunter {0} und {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt durchsucht automatisch eine Reihe von Verzeichnissen, darunter {0} und {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

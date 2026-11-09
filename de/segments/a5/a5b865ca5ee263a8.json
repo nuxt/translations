@@ -1,0 +1,14 @@
+{
+  "hash": "a5b865ca5ee263a8",
+  "source": "If no layout is specified, {0} will be used.",
+  "text": "Wenn kein Layout angegeben ist, wird {0} verwendet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn kein Layout angegeben ist, wird {0} verwendet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

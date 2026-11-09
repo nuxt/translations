@@ -1,0 +1,14 @@
+{
+  "hash": "ca48b31a8de05a39",
+  "source": "Routes using {0}ISR or SWR caching{/0} generate their payload file when the route is first rendered, even on a hybrid (non-static) site.",
+  "text": "Routen mit {0}ISR- oder SWR-Caching{/0} erzeugen ihre Payload-Datei, wenn die Route zum ersten Mal gerendert wird, auch auf einer hybriden (nicht statischen) Website.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Routen mit {0}ISR- oder SWR-Caching{/0} erzeugen ihre Payload-Datei, wenn die Route zum ersten Mal gerendert wird, auch auf einer hybriden (nicht statischen) Website."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "db8b952bc258973e",
+  "source": "{0}: Path to a directory with a Nuxt app to be put under test.",
+  "text": "{0}: Pfad zu einem Verzeichnis mit einer Nuxt-App, die getestet werden soll.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Pfad zu einem Verzeichnis mit einer Nuxt-App, die getestet werden soll."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

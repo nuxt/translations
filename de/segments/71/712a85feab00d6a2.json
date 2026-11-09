@@ -1,0 +1,14 @@
+{
+  "hash": "712a85feab00d6a2",
+  "source": "{0} - Extend the default utils",
+  "text": "{0} – Erweitert die Standard-Utilities",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} – Erweitert die Standard-Utilities"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

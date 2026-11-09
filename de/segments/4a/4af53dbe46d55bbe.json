@@ -1,0 +1,14 @@
+{
+  "hash": "4af53dbe46d55bbe",
+  "source": "The {0} composable is a great way to wrap and wait for multiple {1} requests to be completed, and then process the results.",
+  "text": "Das Composable {0} eignet sich gut, um mehrere {1}-Anfragen zu bündeln, auf deren Abschluss zu warten und anschließend die Ergebnisse zu verarbeiten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Composable {0} eignet sich gut, um mehrere {1}-Anfragen zu bündeln, auf deren Abschluss zu warten und anschließend die Ergebnisse zu verarbeiten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

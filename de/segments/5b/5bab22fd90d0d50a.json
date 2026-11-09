@@ -1,0 +1,14 @@
+{
+  "hash": "5bab22fd90d0d50a",
+  "source": "Enable HTTPS with a locally-trusted development certificate",
+  "text": "Aktiviert HTTPS mit einem lokal vertrauenswürdigen Entwicklungszertifikat",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Aktiviert HTTPS mit einem lokal vertrauenswürdigen Entwicklungszertifikat"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e798631096951782",
+  "source": "Nested keys of an object can also be set individually, such as {0} for {1}. An empty variable is ignored for a key that cannot be an empty string.",
+  "text": "Verschachtelte Schlüssel eines Objekts lassen sich auch einzeln setzen, etwa {0} für {1}. Eine leere Variable wird für einen Schlüssel ignoriert, der kein leerer String sein kann.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verschachtelte Schlüssel eines Objekts lassen sich auch einzeln setzen, etwa {0} für {1}. Eine leere Variable wird für einen Schlüssel ignoriert, der kein leerer String sein kann."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

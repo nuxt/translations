@@ -1,0 +1,14 @@
+{
+  "hash": "87b55971120c2a72",
+  "source": "You can do whatever you like here..",
+  "text": "Hier kannst du machen, was du willst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Hier kannst du machen, was du willst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "4423e56d5c111668",
+  "source": "You can run all the codemods mentioned in this guide using the following {0} recipe:",
+  "text": "Du kannst alle in dieser Anleitung erwähnten Codemods mit dem folgenden {0}-Rezept ausführen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst alle in dieser Anleitung erwähnten Codemods mit dem folgenden {0}-Rezept ausführen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

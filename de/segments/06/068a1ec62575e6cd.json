@@ -1,0 +1,14 @@
+{
+  "hash": "068a1ec62575e6cd",
+  "source": "{0}: whether to fetch the data on the server (defaults to {1})",
+  "text": "{0}: legt fest, ob die Daten auf dem Server abgerufen werden (Standardwert: {1})",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: legt fest, ob die Daten auf dem Server abgerufen werden (Standardwert: {1})"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

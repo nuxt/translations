@@ -1,0 +1,14 @@
+{
+  "hash": "648ca3aeea8a02f4",
+  "source": "Nuxt is constantly evolving, with new features and modules being added all the time.",
+  "text": "Nuxt entwickelt sich ständig weiter, und es kommen laufend neue Funktionen und Module hinzu.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt entwickelt sich ständig weiter, und es kommen laufend neue Funktionen und Module hinzu."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

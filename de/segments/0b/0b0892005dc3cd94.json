@@ -1,0 +1,14 @@
+{
+  "hash": "0b0892005dc3cd94",
+  "source": "Nuxt provides the {0} component to render its content on the client if any of its children trigger an error in SSR.",
+  "text": "Nuxt stellt die Komponente {0} bereit, die ihren Inhalt auf dem Client rendert, falls eines ihrer Kindelemente beim SSR einen Fehler auslöst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt stellt die Komponente {0} bereit, die ihren Inhalt auf dem Client rendert, falls eines ihrer Kindelemente beim SSR einen Fehler auslöst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

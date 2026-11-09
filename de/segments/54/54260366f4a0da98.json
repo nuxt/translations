@@ -1,0 +1,14 @@
+{
+  "hash": "54260366f4a0da98",
+  "source": "**See**: {0}Vue documentation{/0}",
+  "text": "**Siehe**: {0}Vue-Dokumentation{/0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Siehe**: {0}Vue-Dokumentation{/0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

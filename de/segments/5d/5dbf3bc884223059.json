@@ -1,0 +1,14 @@
+{
+  "hash": "5dbf3bc884223059",
+  "source": "Products page generated on demand, revalidates in background, cached until API response changes",
+  "text": "Produktseite wird bei Bedarf generiert, im Hintergrund erneut validiert und im Cache gehalten, bis sich die API-Antwort ändert",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Produktseite wird bei Bedarf generiert, im Hintergrund erneut validiert und im Cache gehalten, bis sich die API-Antwort ändert"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

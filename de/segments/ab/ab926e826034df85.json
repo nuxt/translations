@@ -1,0 +1,14 @@
+{
+  "hash": "ab926e826034df85",
+  "source": "{0} Type Augmentation Removed",
+  "text": "Typerweiterung für {0} entfernt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Typerweiterung für {0} entfernt"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

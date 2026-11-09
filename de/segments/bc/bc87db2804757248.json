@@ -1,0 +1,14 @@
+{
+  "hash": "bc87db2804757248",
+  "source": "Attach each cookie to our incoming Request",
+  "text": "Jeden Cookie an unsere eingehende Anfrage anhängen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Jeden Cookie an unsere eingehende Anfrage anhängen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

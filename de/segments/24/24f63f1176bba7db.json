@@ -1,0 +1,14 @@
+{
+  "hash": "24f63f1176bba7db",
+  "source": "**Nitro plugin imports**: Use {0}, which is now required by default. See {1}Server Auto-Imports Are Now Opt-In{/1}.",
+  "text": "**Nitro-Plugin-Importe**: Verwende {0}, das jetzt standardmäßig erforderlich ist. Siehe {1}Automatische Server-Importe sind jetzt optional{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Nitro-Plugin-Importe**: Verwende {0}, das jetzt standardmäßig erforderlich ist. Siehe {1}Automatische Server-Importe sind jetzt optional{/1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

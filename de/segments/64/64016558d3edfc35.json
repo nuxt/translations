@@ -1,0 +1,14 @@
+{
+  "hash": "64016558d3edfc35",
+  "source": "Types applied only when navigating TO this page",
+  "text": "Typen, die nur bei der Navigation ZU dieser Seite angewendet werden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Typen, die nur bei der Navigation ZU dieser Seite angewendet werden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "f123a98ecb9f2281",
+  "source": "{0} and {1} are typed from the routes Nuxt's server builder reports, rather than from nitro's {2} interface. As well as response types, a {3}, {4} or {5} the matching handler validates are now enforced on the call, and a method the route does not handle is rejected.",
+  "text": "{0} und {1} werden anhand der Routen typisiert, die der Server-Builder von Nuxt meldet, und nicht mehr anhand der Schnittstelle {2} von Nitro. Neben den Antworttypen werden jetzt auch {3}, {4} oder {5}, die der passende Handler validiert, beim Aufruf erzwungen, und eine Methode, die die Route nicht behandelt, wird abgelehnt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} und {1} werden anhand der Routen typisiert, die der Server-Builder von Nuxt meldet, und nicht mehr anhand der Schnittstelle {2} von Nitro. Neben den Antworttypen werden jetzt auch {3}, {4} oder {5}, die der passende Handler validiert, beim Aufruf erzwungen, und eine Methode, die die Route nicht behandelt, wird abgelehnt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

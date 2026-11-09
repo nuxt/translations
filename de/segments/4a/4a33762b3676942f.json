@@ -1,0 +1,14 @@
+{
+  "hash": "4a33762b3676942f",
+  "source": "The dev command starts a development server with hot module replacement at http://localhost:3000",
+  "text": "Der Befehl dev startet einen Entwicklungsserver mit hot module replacement unter http://localhost:3000",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Befehl dev startet einen Entwicklungsserver mit hot module replacement unter http://localhost:3000"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

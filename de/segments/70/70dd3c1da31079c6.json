@@ -1,0 +1,14 @@
+{
+  "hash": "70dd3c1da31079c6",
+  "source": "Exposed to the frontend as well.",
+  "text": "Wird ebenfalls im Frontend offengelegt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird ebenfalls im Frontend offengelegt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

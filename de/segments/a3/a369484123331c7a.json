@@ -1,0 +1,14 @@
+{
+  "hash": "a369484123331c7a",
+  "source": "To avoid fetching same data twice (once on the server and once on client) Nuxt provides {0} and {1}. They ensure that if an API call is made on the server, the data is forwarded to the client in the payload instead of being fetched again.",
+  "text": "Um zu vermeiden, dass dieselben Daten zweimal abgerufen werden (einmal auf dem Server und einmal auf dem Client), stellt Nuxt {0} und {1} bereit. Sie stellen sicher, dass bei einem API-Aufruf auf dem Server die Daten im Payload an den Client weitergegeben werden, anstatt erneut abgerufen zu werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um zu vermeiden, dass dieselben Daten zweimal abgerufen werden (einmal auf dem Server und einmal auf dem Client), stellt Nuxt {0} und {1} bereit. Sie stellen sicher, dass bei einem API-Aufruf auf dem Server die Daten im Payload an den Client weitergegeben werden, anstatt erneut abgerufen zu werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

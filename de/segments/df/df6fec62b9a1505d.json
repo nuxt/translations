@@ -1,0 +1,14 @@
+{
+  "hash": "df6fec62b9a1505d",
+  "source": "Nuxt modules allow you to enhance Nuxt's capabilities. They offer a structured way to keep your code organized and modular. If you're looking to break down your module into smaller components, Nuxt offers the {0} and {1} functions. These functions enable you to conveniently access the Nuxt instance from the context without having to pass it as an argument.",
+  "text": "Nuxt-Module erweitern die Möglichkeiten von Nuxt. Sie bieten eine strukturierte Möglichkeit, deinen Code organisiert und modular zu halten. Wenn du dein Modul in kleinere Komponenten aufteilen möchtest, stellt Nuxt die Funktionen {0} und {1} bereit. Mit ihnen kannst du bequem auf die Nuxt-Instanz aus dem Kontext zugreifen, ohne sie als Argument übergeben zu müssen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt-Module erweitern die Möglichkeiten von Nuxt. Sie bieten eine strukturierte Möglichkeit, deinen Code organisiert und modular zu halten. Wenn du dein Modul in kleinere Komponenten aufteilen möchtest, stellt Nuxt die Funktionen {0} und {1} bereit. Mit ihnen kannst du bequem auf die Nuxt-Instanz aus dem Kontext zugreifen, ohne sie als Argument übergeben zu müssen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

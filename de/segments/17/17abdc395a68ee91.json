@@ -1,0 +1,14 @@
+{
+  "hash": "17abdc395a68ee91",
+  "source": "Open Zed and go to \"Settings\" > \"Open Settings\"",
+  "text": "Öffne Zed und gehe zu „Settings“ > „Open Settings“",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Öffne Zed und gehe zu „Settings“ > „Open Settings“"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

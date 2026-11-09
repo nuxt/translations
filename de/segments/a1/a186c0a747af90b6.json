@@ -1,0 +1,14 @@
+{
+  "hash": "a186c0a747af90b6",
+  "source": "Alternatively, you can create a storage mount point using a server plugin and runtime config:",
+  "text": "Alternativ kannst du einen Speicher-Mountpunkt mit einem Server-Plugin und der Laufzeitkonfiguration erstellen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Alternativ kannst du einen Speicher-Mountpunkt mit einem Server-Plugin und der Laufzeitkonfiguration erstellen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

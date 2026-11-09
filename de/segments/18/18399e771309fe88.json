@@ -1,0 +1,14 @@
+{
+  "hash": "18399e771309fe88",
+  "source": "or wait until ga is loaded",
+  "text": "oder warten, bis ga geladen ist",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "oder warten, bis ga geladen ist"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

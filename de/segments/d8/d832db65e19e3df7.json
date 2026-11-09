@@ -1,0 +1,14 @@
+{
+  "hash": "d832db65e19e3df7",
+  "source": "To reduce your application's bundle size, this directory is **optional**, meaning that {0} won't be included if you only use {1}. To force the pages system, set {2} in {3} or have a {4}.",
+  "text": "Um die Bundle-Größe deiner Anwendung zu reduzieren, ist dieses Verzeichnis **optional**. Das bedeutet, dass {0} nicht eingebunden wird, wenn du nur {1} verwendest. Um das Seitensystem zu erzwingen, setze {2} in {3} oder lege eine {4} an.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um die Bundle-Größe deiner Anwendung zu reduzieren, ist dieses Verzeichnis **optional**. Das bedeutet, dass {0} nicht eingebunden wird, wenn du nur {1} verwendest. Um das Seitensystem zu erzwingen, setze {2} in {3} oder lege eine {4} an."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

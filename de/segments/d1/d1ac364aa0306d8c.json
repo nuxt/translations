@@ -1,0 +1,14 @@
+{
+  "hash": "d1ac364aa0306d8c",
+  "source": "Base for resolving paths from. Default is Nuxt rootDir.",
+  "text": "Basis, von der aus Pfade aufgelöst werden. Standardmäßig das rootDir von Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Basis, von der aus Pfade aufgelöst werden. Standardmäßig das rootDir von Nuxt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

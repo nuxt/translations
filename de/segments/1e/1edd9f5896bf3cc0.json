@@ -1,0 +1,14 @@
+{
+  "hash": "1edd9f5896bf3cc0",
+  "source": "If runtime context is unavailable in your scope, {0} will throw an exception when called. You can use {1} instead for composables that do not require {2}, or to simply check if context is available or not without an exception.",
+  "text": "Ist der Laufzeitkontext in deinem Gültigkeitsbereich nicht verfügbar, wirft {0} beim Aufruf eine Exception. Verwende stattdessen {1} für Composables, die {2} nicht benötigen, oder um einfach zu prüfen, ob ein Kontext verfügbar ist, ohne dass eine Exception auftritt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ist der Laufzeitkontext in deinem Gültigkeitsbereich nicht verfügbar, wirft {0} beim Aufruf eine Exception. Verwende stattdessen {1} für Composables, die {2} nicht benötigen, oder um einfach zu prüfen, ob ein Kontext verfügbar ist, ohne dass eine Exception auftritt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

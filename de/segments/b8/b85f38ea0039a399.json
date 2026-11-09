@@ -1,0 +1,14 @@
+{
+  "hash": "b85f38ea0039a399",
+  "source": "that means you do not need to add {0} to your project's dependencies",
+  "text": "das heißt, du musst {0} nicht zu den Abhängigkeiten deines Projekts hinzufügen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "das heißt, du musst {0} nicht zu den Abhängigkeiten deines Projekts hinzufügen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

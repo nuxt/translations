@@ -1,0 +1,14 @@
+{
+  "hash": "e32a8e09618c2a99",
+  "source": "Read the Nitro v3 beta announcement for a full overview.",
+  "text": "Lies die Ankündigung der Nitro-v3-Beta für einen vollständigen Überblick.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lies die Ankündigung der Nitro-v3-Beta für einen vollständigen Überblick."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "ad3661d0e38dda53",
+  "source": "A head composable such as {0} was called without an active Unhead instance. This happens when it runs outside a valid Nuxt context, for example in a detached async callback after the Nuxt instance is no longer available.",
+  "text": "Ein Head-Composable wie {0} wurde ohne aktive Unhead-Instanz aufgerufen. Das passiert, wenn es außerhalb eines gültigen Nuxt-Kontexts ausgeführt wird, z. B. in einem losgelösten asynchronen Callback, nachdem die Nuxt-Instanz nicht mehr verfügbar ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein Head-Composable wie {0} wurde ohne aktive Unhead-Instanz aufgerufen. Das passiert, wenn es außerhalb eines gültigen Nuxt-Kontexts ausgeführt wird, z. B. in einem losgelösten asynchronen Callback, nachdem die Nuxt-Instanz nicht mehr verfügbar ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

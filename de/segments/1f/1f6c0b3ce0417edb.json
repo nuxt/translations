@@ -1,0 +1,14 @@
+{
+  "hash": "1f6c0b3ce0417edb",
+  "source": "Read more about writing portable server code with {0}.",
+  "text": "Mehr zum Schreiben von portablem Servercode mit {0} erfährst du hier.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mehr zum Schreiben von portablem Servercode mit {0} erfährst du hier."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

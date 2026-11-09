@@ -1,0 +1,14 @@
+{
+  "hash": "2e40abc9ab458913",
+  "source": "Set a custom response header",
+  "text": "Einen benutzerdefinierten Antwort-Header setzen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Einen benutzerdefinierten Antwort-Header setzen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

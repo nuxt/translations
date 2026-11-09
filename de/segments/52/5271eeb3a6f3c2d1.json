@@ -1,0 +1,14 @@
+{
+  "hash": "5271eeb3a6f3c2d1",
+  "source": "This is known as the {0} directory in Nuxt 2.",
+  "text": "In Nuxt 2 hieß dieses Verzeichnis {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In Nuxt 2 hieß dieses Verzeichnis {0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

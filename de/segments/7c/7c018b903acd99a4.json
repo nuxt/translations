@@ -1,0 +1,14 @@
+{
+  "hash": "7c018b903acd99a4",
+  "source": "When a route is streamed, the response has already started being written to the browser by the time a page error is thrown. Nuxt cannot switch to a fresh error response at that point, so it finishes the stream in a state the client can recover from: it sets {0}, flushes the payload script and the remaining head tags, and closes the document so the browser renders {1} during hydration.",
+  "text": "Wenn eine Route gestreamt wird, hat Nuxt bereits begonnen, die Antwort an den Browser zu schreiben, sobald ein Seitenfehler ausgelöst wird. Zu diesem Zeitpunkt kann Nuxt nicht mehr auf eine neue Fehlerantwort umschalten und beendet den Stream daher in einem Zustand, von dem sich der Client erholen kann: Es setzt {0}, überträgt das Payload-Skript und die restlichen Head-Tags und schließt das Dokument, sodass der Browser {1} während der Hydration rendert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn eine Route gestreamt wird, hat Nuxt bereits begonnen, die Antwort an den Browser zu schreiben, sobald ein Seitenfehler ausgelöst wird. Zu diesem Zeitpunkt kann Nuxt nicht mehr auf eine neue Fehlerantwort umschalten und beendet den Stream daher in einem Zustand, von dem sich der Client erholen kann: Es setzt {0}, überträgt das Payload-Skript und die restlichen Head-Tags und schließt das Dokument, sodass der Browser {1} während der Hydration rendert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "4cd23c2b294a7758",
+  "source": "Migrate to Nuxt 3",
+  "text": "Migration zu Nuxt 3",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Migration zu Nuxt 3"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "c15077a561dbade4",
+  "source": "On server, {0} will have no effect.",
+  "text": "Auf dem Server hat {0} keine Wirkung.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auf dem Server hat {0} keine Wirkung."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

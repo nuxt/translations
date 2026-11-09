@@ -1,0 +1,14 @@
+{
+  "hash": "5f1b7b0b78592c3f",
+  "source": "The {0} option controls whether {1} resets state to its initial value (provided by the {2} function of {3}) instead of setting it to {4}. This defaults to {5}.",
+  "text": "Die Option {0} steuert, ob {1} den Status auf seinen Anfangswert zurücksetzt (bereitgestellt durch die Funktion {2} von {3}), anstatt ihn auf {4} zu setzen. Der Standardwert ist {5}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Option {0} steuert, ob {1} den Status auf seinen Anfangswert zurücksetzt (bereitgestellt durch die Funktion {2} von {3}), anstatt ihn auf {4} zu setzen. Der Standardwert ist {5}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

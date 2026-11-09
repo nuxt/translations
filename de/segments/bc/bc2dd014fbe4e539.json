@@ -1,0 +1,14 @@
+{
+  "hash": "bc2dd014fbe4e539",
+  "source": "mounting your app if the error was not handled with {0} or {1} hook",
+  "text": "beim Mounten deiner App, wenn der Fehler nicht mit dem Hook {0} oder {1} behandelt wurde",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "beim Mounten deiner App, wenn der Fehler nicht mit dem Hook {0} oder {1} behandelt wurde"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

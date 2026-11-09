@@ -1,0 +1,14 @@
+{
+  "hash": "92ab5880b93ee623",
+  "source": "Error Format Depends on Where the Error Is Thrown",
+  "text": "Das Fehlerformat hängt davon ab, wo der Fehler ausgelöst wird",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Fehlerformat hängt davon ab, wo der Fehler ausgelöst wird"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

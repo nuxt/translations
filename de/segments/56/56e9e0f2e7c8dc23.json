@@ -1,0 +1,14 @@
+{
+  "hash": "56e9e0f2e7c8dc23",
+  "source": "Unresolved side-effect imports were silently ignored, so a typo or a deleted file could pass type-checking. Flagging them catches these mistakes and matches the TypeScript 7 default.",
+  "text": "Nicht auflösbare Side-Effect-Importe wurden bisher stillschweigend ignoriert, sodass ein Tippfehler oder eine gelöschte Datei die Typprüfung bestehen konnte. Durch die Kennzeichnung werden solche Fehler erkannt, und es entspricht dem Standard von TypeScript 7.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nicht auflösbare Side-Effect-Importe wurden bisher stillschweigend ignoriert, sodass ein Tippfehler oder eine gelöschte Datei die Typprüfung bestehen konnte. Durch die Kennzeichnung werden solche Fehler erkannt, und es entspricht dem Standard von TypeScript 7."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

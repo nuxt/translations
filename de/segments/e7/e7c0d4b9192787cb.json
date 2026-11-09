@@ -1,0 +1,14 @@
+{
+  "hash": "e7c0d4b9192787cb",
+  "source": "This function will clear the currently handled Nuxt error. It also takes an optional path to redirect to (for example, if you want to navigate to a 'safe' page).",
+  "text": "Diese Funktion setzt den aktuell behandelten Nuxt-Fehler zurück. Sie nimmt außerdem optional einen Pfad für eine Weiterleitung entgegen (z. B. wenn du zu einer „sicheren“ Seite navigieren möchtest).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese Funktion setzt den aktuell behandelten Nuxt-Fehler zurück. Sie nimmt außerdem optional einen Pfad für eine Weiterleitung entgegen (z. B. wenn du zu einer „sicheren“ Seite navigieren möchtest)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

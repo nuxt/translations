@@ -1,0 +1,14 @@
+{
+  "hash": "15e777456dabced8",
+  "source": "Unique key for de-duplication. If not provided, generated from URL and options.",
+  "text": "Eindeutiger Schlüssel zur Deduplizierung. Wenn er nicht angegeben ist, wird er aus URL und Optionen erzeugt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eindeutiger Schlüssel zur Deduplizierung. Wenn er nicht angegeben ist, wird er aus URL und Optionen erzeugt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

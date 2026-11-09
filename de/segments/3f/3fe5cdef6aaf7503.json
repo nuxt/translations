@@ -1,0 +1,14 @@
+{
+  "hash": "3fe5cdef6aaf7503",
+  "source": "Order of the plugin. This allows more granular control over plugin order and should only be used by advanced users. Lower numbers run first, and user plugins default to {0}. It's recommended to set {1} to a number between {2} for {3}-plugins (plugins that run before Nuxt plugins) and {4} for {5}-plugins (plugins that run after Nuxt plugins).",
+  "text": "Reihenfolge des Plugins. Sie ermöglicht eine genauere Steuerung der Plugin-Reihenfolge und sollte nur von fortgeschrittenen Nutzenden verwendet werden. Niedrigere Zahlen werden zuerst ausgeführt, und Plugins von Nutzenden haben standardmäßig den Wert {0}. Es wird empfohlen, {1} auf eine Zahl zwischen {2} für {3}-Plugins (Plugins, die vor den Nuxt-Plugins laufen) und {4} für {5}-Plugins (Plugins, die nach den Nuxt-Plugins laufen) zu setzen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Reihenfolge des Plugins. Sie ermöglicht eine genauere Steuerung der Plugin-Reihenfolge und sollte nur von fortgeschrittenen Nutzenden verwendet werden. Niedrigere Zahlen werden zuerst ausgeführt, und Plugins von Nutzenden haben standardmäßig den Wert {0}. Es wird empfohlen, {1} auf eine Zahl zwischen {2} für {3}-Plugins (Plugins, die vor den Nuxt-Plugins laufen) und {4} für {5}-Plugins (Plugins, die nach den Nuxt-Plugins laufen) zu setzen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

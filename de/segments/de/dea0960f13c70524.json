@@ -1,0 +1,14 @@
+{
+  "hash": "dea0960f13c70524",
+  "source": "The {0}{1} provider{/0} can scan directories beyond {2}, and reports the filenames it looked for when a family cannot be resolved.",
+  "text": "Der {0}{1}-Provider{/0} kann auch Verzeichnisse außerhalb von {2} durchsuchen und meldet die gesuchten Dateinamen, wenn eine Schriftfamilie nicht aufgelöst werden kann.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der {0}{1}-Provider{/0} kann auch Verzeichnisse außerhalb von {2} durchsuchen und meldet die gesuchten Dateinamen, wenn eine Schriftfamilie nicht aufgelöst werden kann."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

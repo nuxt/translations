@@ -1,0 +1,14 @@
+{
+  "hash": "d9ffa44da980801e",
+  "source": "Deploying a Static Client-Rendered App",
+  "text": "Eine statische clientseitig gerenderte App bereitstellen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine statische clientseitig gerenderte App bereitstellen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "c0f0a41d7ab06fdb",
+  "source": "The {0} option is deprecated and forced on. Setting it to {1} logs a warning and is otherwise ignored, so {2} on the error page is always the value you passed to {3}. There is no switch for this.",
+  "text": "Die Option {0} wird nicht mehr empfohlen und ist fest aktiviert. Wenn du sie auf {1} setzt, wird eine Warnung protokolliert und die Einstellung ansonsten ignoriert, sodass {2} auf der Fehlerseite immer der Wert ist, den du an {3} übergeben hast. Es gibt dafür keinen Schalter.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Option {0} wird nicht mehr empfohlen und ist fest aktiviert. Wenn du sie auf {1} setzt, wird eine Warnung protokolliert und die Einstellung ansonsten ignoriert, sodass {2} auf der Fehlerseite immer der Wert ist, den du an {3} übergeben hast. Es gibt dafür keinen Schalter."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

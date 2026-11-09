@@ -1,0 +1,14 @@
+{
+  "hash": "a71b2b85e3b7c6f5",
+  "source": "Nuxt will not augment any new routes you return from the {0} function with metadata defined in {1} of the component you provide. If you want that to happen, you should use the {2} hook which is {3}called at build-time{/3}.",
+  "text": "Nuxt ergänzt neue Routen, die du aus der Funktion {0} zurückgibst, nicht um Metadaten, die in {1} der von dir angegebenen Komponente definiert sind. Möchtest du das, verwende den Hook {2}, der {3}zur Build-Zeit aufgerufen wird{/3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt ergänzt neue Routen, die du aus der Funktion {0} zurückgibst, nicht um Metadaten, die in {1} der von dir angegebenen Komponente definiert sind. Möchtest du das, verwende den Hook {2}, der {3}zur Build-Zeit aufgerufen wird{/3}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

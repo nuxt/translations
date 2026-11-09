@@ -1,0 +1,14 @@
+{
+  "hash": "8aab76dcd750c10a",
+  "source": "By default, Nuxt server-renders a page and then hydrates all of it. For a page that is 95% static text and images, that hydration JavaScript is mostly overhead: it delays interactivity and competes with your content for bandwidth and CPU, which can hurt metrics like mobile PageSpeed scores.",
+  "text": "Standardmäßig rendert Nuxt eine Seite auf dem Server und hydratisiert sie anschließend vollständig. Bei einer Seite, die zu 95 % aus statischem Text und Bildern besteht, ist dieses Hydration-JavaScript größtenteils Overhead: Es verzögert die Interaktivität und konkurriert mit deinen Inhalten um Bandbreite und CPU. Das kann sich negativ auf Metriken wie mobile PageSpeed-Werte auswirken.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardmäßig rendert Nuxt eine Seite auf dem Server und hydratisiert sie anschließend vollständig. Bei einer Seite, die zu 95 % aus statischem Text und Bildern besteht, ist dieses Hydration-JavaScript größtenteils Overhead: Es verzögert die Interaktivität und konkurriert mit deinen Inhalten um Bandbreite und CPU. Das kann sich negativ auf Metriken wie mobile PageSpeed-Werte auswirken."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "a05846958948551a",
+  "source": "The goal of Nuxt is to provide a great developer experience around the Composition API.",
+  "text": "Das Ziel von Nuxt ist es, eine hervorragende Developer Experience rund um die Composition API zu bieten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Ziel von Nuxt ist es, eine hervorragende Developer Experience rund um die Composition API zu bieten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

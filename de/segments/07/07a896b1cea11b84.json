@@ -1,0 +1,14 @@
+{
+  "hash": "07a896b1cea11b84",
+  "source": "Typed Pages Enabled by Default",
+  "text": "Typisierte Seiten standardmäßig aktiviert",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Typisierte Seiten standardmäßig aktiviert"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

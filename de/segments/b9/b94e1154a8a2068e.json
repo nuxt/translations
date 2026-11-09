@@ -1,0 +1,14 @@
+{
+  "hash": "b94e1154a8a2068e",
+  "source": "Islands play well with static and cached rendering:",
+  "text": "Islands arbeiten gut mit statischem und zwischengespeichertem Rendering zusammen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Islands arbeiten gut mit statischem und zwischengespeichertem Rendering zusammen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

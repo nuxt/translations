@@ -1,0 +1,14 @@
+{
+  "hash": "188cef8d81ea70e4",
+  "source": "Type-check without TypeScript project references",
+  "text": "Typprüfung ohne TypeScript-Projektreferenzen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Typprüfung ohne TypeScript-Projektreferenzen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

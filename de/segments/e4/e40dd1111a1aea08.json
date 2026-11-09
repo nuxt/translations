@@ -1,0 +1,14 @@
+{
+  "hash": "e40dd1111a1aea08",
+  "source": "Then Nuxt fonts will add declarations that look like this at the beginning of the CSS file:",
+  "text": "Dann fügt Nuxt Fonts am Anfang der CSS-Datei Deklarationen wie diese hinzu:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dann fügt Nuxt Fonts am Anfang der CSS-Datei Deklarationen wie diese hinzu:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

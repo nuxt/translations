@@ -1,0 +1,14 @@
+{
+  "hash": "24a6c128ccf819d8",
+  "source": "Expose to useNuxtApp().$api",
+  "text": "Für useNuxtApp().$api bereitstellen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Für useNuxtApp().$api bereitstellen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

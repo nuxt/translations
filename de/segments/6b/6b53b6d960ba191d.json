@@ -1,0 +1,14 @@
+{
+  "hash": "6b53b6d960ba191d",
+  "source": "How to contribute to the docs",
+  "text": "So trägst du zur Dokumentation bei",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "So trägst du zur Dokumentation bei"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

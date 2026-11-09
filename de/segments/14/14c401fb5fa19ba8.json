@@ -1,0 +1,14 @@
+{
+  "hash": "14c401fb5fa19ba8",
+  "source": "default fallback title",
+  "text": "Standard-Fallback-Titel",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standard-Fallback-Titel"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

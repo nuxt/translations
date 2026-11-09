@@ -1,0 +1,14 @@
+{
+  "hash": "deca3945ec086fbb",
+  "source": "{0}. There is no per-request form.",
+  "text": "{0}. Es gibt keine Variante pro Anfrage.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}. Es gibt keine Variante pro Anfrage."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

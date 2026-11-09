@@ -1,0 +1,14 @@
+{
+  "hash": "1fa891a27b30151e",
+  "source": "This normally works well if we {0} such dependency:",
+  "text": "Das funktioniert in der Regel gut, wenn eine solche Abhängigkeit mit {0} importiert wird:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das funktioniert in der Regel gut, wenn eine solche Abhängigkeit mit {0} importiert wird:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

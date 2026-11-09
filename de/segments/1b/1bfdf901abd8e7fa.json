@@ -1,0 +1,14 @@
+{
+  "hash": "1bfdf901abd8e7fa",
+  "source": "**Early return from {0}**: {1} stops a middleware continuing after it redirects",
+  "text": "**Früher Rücksprung aus {0}**: {1} verhindert, dass eine Middleware nach einer Weiterleitung weiterläuft",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Früher Rücksprung aus {0}**: {1} verhindert, dass eine Middleware nach einer Weiterleitung weiterläuft"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

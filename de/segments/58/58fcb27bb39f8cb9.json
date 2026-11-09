@@ -1,0 +1,14 @@
+{
+  "hash": "58fcb27bb39f8cb9",
+  "source": "This breaks the layer system’s override feature. If you use {0}, ensure you understand this side-effect and adjust your architecture accordingly.",
+  "text": "Dadurch funktioniert das Überschreiben im Layer-System nicht mehr. Wenn du {0} verwendest, stelle sicher, dass du diesen Nebeneffekt verstehst, und passe deine Architektur entsprechend an.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dadurch funktioniert das Überschreiben im Layer-System nicht mehr. Wenn du {0} verwendest, stelle sicher, dass du diesen Nebeneffekt verstehst, und passe deine Architektur entsprechend an."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

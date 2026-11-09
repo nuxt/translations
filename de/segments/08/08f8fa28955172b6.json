@@ -1,0 +1,14 @@
+{
+  "hash": "08f8fa28955172b6",
+  "source": "{0} chooses the values a variable font is shipped at, for any OpenType axis rather than just {1}. Pin an axis to a single value, or narrow it to a range.",
+  "text": "{0} legt fest, mit welchen Werten eine variable Schrift ausgeliefert wird, und zwar für jede OpenType-Achse statt nur für {1}. Du kannst eine Achse auf einen einzelnen Wert festlegen oder auf einen Bereich eingrenzen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} legt fest, mit welchen Werten eine variable Schrift ausgeliefert wird, und zwar für jede OpenType-Achse statt nur für {1}. Du kannst eine Achse auf einen einzelnen Wert festlegen oder auf einen Bereich eingrenzen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

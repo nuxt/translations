@@ -1,0 +1,14 @@
+{
+  "hash": "affb60caf7d55a5b",
+  "source": "The server runtime ({0}) does not know which builder produced the app. It imports each build artifact through a stable {1} subpath, and the active builder populates those subpaths with {2}. This is the **build output contract**.",
+  "text": "Die Server-Runtime ({0}) weiß nicht, welcher Builder die App erzeugt hat. Sie importiert jedes Build-Artefakt über einen stabilen {1}-Subpath, und der aktive Builder befüllt diese Subpaths mit {2}. Das ist der **Build-Output-Vertrag**.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Server-Runtime ({0}) weiß nicht, welcher Builder die App erzeugt hat. Sie importiert jedes Build-Artefakt über einen stabilen {1}-Subpath, und der aktive Builder befüllt diese Subpaths mit {2}. Das ist der **Build-Output-Vertrag**."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

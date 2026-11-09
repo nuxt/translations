@@ -1,0 +1,14 @@
+{
+  "hash": "2f9587a0ad02ab91",
+  "source": "{0} and {1} are key dependencies for Nuxt. If you are installing it separately, make sure that the versions of {2} and {3} are equal to or greater than your {4} version to avoid any unexpected behavior.",
+  "text": "{0} und {1} sind wichtige Abhängigkeiten für Nuxt. Wenn du sie separat installierst, achte darauf, dass die Versionen von {2} und {3} mindestens deiner {4}-Version entsprechen, um unerwartetes Verhalten zu vermeiden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} und {1} sind wichtige Abhängigkeiten für Nuxt. Wenn du sie separat installierst, achte darauf, dass die Versionen von {2} und {3} mindestens deiner {4}-Version entsprechen, um unerwartetes Verhalten zu vermeiden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

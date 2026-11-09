@@ -1,0 +1,14 @@
+{
+  "hash": "585fc39951fc5594",
+  "source": "This addon attaches custom logic: a watcher that refreshes the data whenever the window regains focus and gates it behind a custom {0} option:",
+  "text": "Dieses Addon fügt eigene Logik hinzu: einen Watcher, der die Daten aktualisiert, sobald das Fenster den Fokus zurückerhält, und diese Funktion über eine benutzerdefinierte Option {0} steuert:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dieses Addon fügt eigene Logik hinzu: einen Watcher, der die Daten aktualisiert, sobald das Fenster den Fokus zurückerhält, und diese Funktion über eine benutzerdefinierte Option {0} steuert:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

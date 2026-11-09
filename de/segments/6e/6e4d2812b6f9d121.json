@@ -1,0 +1,14 @@
+{
+  "hash": "6e4d2812b6f9d121",
+  "source": "Nuxt is a community project - and so we love contributions of all kinds! ❤️",
+  "text": "Nuxt ist ein Community-Projekt – deshalb freuen wir uns über Beiträge jeder Art! ❤️",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt ist ein Community-Projekt – deshalb freuen wir uns über Beiträge jeder Art! ❤️"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

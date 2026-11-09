@@ -1,0 +1,14 @@
+{
+  "hash": "e8c59955a841cc51",
+  "source": "Custom options are **not** part of the auto-generated key by default. If a custom option affects the response, provide a {0} resolver so calls with different values do not share a cached entry. Return a serializable value, or {1} to contribute nothing:",
+  "text": "Benutzerdefinierte Optionen sind standardmäßig **nicht** Teil des automatisch generierten Schlüssels. Wenn eine benutzerdefinierte Option die Antwort beeinflusst, gib einen Resolver {0} an, damit Aufrufe mit unterschiedlichen Werten sich keinen zwischengespeicherten Eintrag teilen. Gib einen serialisierbaren Wert zurück oder {1}, um nichts beizutragen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Benutzerdefinierte Optionen sind standardmäßig **nicht** Teil des automatisch generierten Schlüssels. Wenn eine benutzerdefinierte Option die Antwort beeinflusst, gib einen Resolver {0} an, damit Aufrufe mit unterschiedlichen Werten sich keinen zwischengespeicherten Eintrag teilen. Gib einen serialisierbaren Wert zurück oder {1}, um nichts beizutragen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

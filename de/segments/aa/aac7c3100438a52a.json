@@ -1,0 +1,14 @@
+{
+  "hash": "aac7c3100438a52a",
+  "source": "Add or modify font providers after all modules have loaded.",
+  "text": "Schriftanbieter hinzufügen oder ändern, nachdem alle Module geladen wurden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Schriftanbieter hinzufügen oder ändern, nachdem alle Module geladen wurden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

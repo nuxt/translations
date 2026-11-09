@@ -1,0 +1,14 @@
+{
+  "hash": "18a711a3a0c87f23",
+  "source": "The objective of the Nuxt Expert is to provide support to the Vue ecosystem, while also creating freelance opportunities for those contributing to open-source solutions, thus helping to maintain the sustainability of the ecosystem.",
+  "text": "Das Ziel der Nuxt Experts ist es, das Vue-Ökosystem zu unterstützen und gleichzeitig Freelance-Möglichkeiten für Personen zu schaffen, die zu Open-Source-Lösungen beitragen. So trägt das Programm dazu bei, die Nachhaltigkeit des Ökosystems zu sichern.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Ziel der Nuxt Experts ist es, das Vue-Ökosystem zu unterstützen und gleichzeitig Freelance-Möglichkeiten für Personen zu schaffen, die zu Open-Source-Lösungen beitragen. So trägt das Programm dazu bei, die Nachhaltigkeit des Ökosystems zu sichern."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

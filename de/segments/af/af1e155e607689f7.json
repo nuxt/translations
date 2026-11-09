@@ -1,0 +1,14 @@
+{
+  "hash": "af1e155e607689f7",
+  "source": "Will be translated to:",
+  "text": "Wird übersetzt in:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird übersetzt in:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

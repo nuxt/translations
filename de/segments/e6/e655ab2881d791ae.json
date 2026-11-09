@@ -1,0 +1,14 @@
+{
+  "hash": "e655ab2881d791ae",
+  "source": "{0}: Move forward or backward through the history without the hierarchical restrictions enforced in {1} and {2}.",
+  "text": "{0}: Bewegt sich im Verlauf vorwärts oder rückwärts, ohne die hierarchischen Einschränkungen, die bei {1} und {2} gelten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Bewegt sich im Verlauf vorwärts oder rückwärts, ohne die hierarchischen Einschränkungen, die bei {1} und {2} gelten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "c91075094fb53464",
+  "source": "{0} is an array in Nuxt Fonts, with one entry per family. Weights are listed in {1} and italics are enabled with {2}, and a variable weight range uses the CSS syntax {3} rather than {4}. Set {5} to keep resolving each family from Google Fonts rather than from the first {6}provider{/6} that has it.",
+  "text": "{0} ist in Nuxt Fonts ein Array mit je einem Eintrag pro Schriftfamilie. Schriftstärken werden in {1} aufgelistet, Kursivschrift wird mit {2} aktiviert, und ein variabler Schriftstärkenbereich verwendet die CSS-Syntax {3} statt {4}. Setze {5}, damit jede Schriftfamilie weiterhin über Google Fonts aufgelöst wird und nicht über den ersten {6}Anbieter{/6}, der sie bereitstellt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ist in Nuxt Fonts ein Array mit je einem Eintrag pro Schriftfamilie. Schriftstärken werden in {1} aufgelistet, Kursivschrift wird mit {2} aktiviert, und ein variabler Schriftstärkenbereich verwendet die CSS-Syntax {3} statt {4}. Setze {5}, damit jede Schriftfamilie weiterhin über Google Fonts aufgelöst wird und nicht über den ersten {6}Anbieter{/6}, der sie bereitstellt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

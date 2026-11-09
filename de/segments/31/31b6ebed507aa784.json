@@ -1,0 +1,14 @@
+{
+  "hash": "31b6ebed507aa784",
+  "source": "To extend from an npm package, you need to make sure that the module is published to npm and installed in the user's project as a devDependency. Then you can use the module name to extend the current nuxt config:",
+  "text": "Um von einem npm-Paket zu erweitern, musst du sicherstellen, dass das Modul auf npm veröffentlicht und im Projekt der Nutzenden als devDependency installiert ist. Dann kannst du den Modulnamen verwenden, um die aktuelle Nuxt-Konfiguration zu erweitern:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um von einem npm-Paket zu erweitern, musst du sicherstellen, dass das Modul auf npm veröffentlicht und im Projekt der Nutzenden als devDependency installiert ist. Dann kannst du den Modulnamen verwenden, um die aktuelle Nuxt-Konfiguration zu erweitern:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

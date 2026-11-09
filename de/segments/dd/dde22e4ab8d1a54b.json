@@ -1,0 +1,14 @@
+{
+  "hash": "dde22e4ab8d1a54b",
+  "source": "Relative Paths and Aliases",
+  "text": "Relative Pfade und Aliase",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Relative Pfade und Aliase"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "bff1b58d7e68f736",
+  "source": "**{0}**: Major version to check against.",
+  "text": "**{0}**: Hauptversion, gegen die geprüft wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}**: Hauptversion, gegen die geprüft wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

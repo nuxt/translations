@@ -1,0 +1,14 @@
+{
+  "hash": "189c903f7959cbea",
+  "source": "The {0} provider only scans layer {1} directories",
+  "text": "Der {0}-Provider durchsucht nur {1}-Verzeichnisse von Layern",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der {0}-Provider durchsucht nur {1}-Verzeichnisse von Layern"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

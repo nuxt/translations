@@ -1,0 +1,14 @@
+{
+  "hash": "33281ae1247674ec",
+  "source": "**{0}**: Borrows the terminal for the duration of {1}, suspending any host UI and releasing {2}. Use it when you need to write to the terminal or read from {3} directly. Concurrent callers are serialized, and a nested call from within a borrow runs immediately.",
+  "text": "**{0}**: Leiht sich das Terminal für die Dauer von {1} aus, setzt dabei jede Host-Benutzeroberfläche aus und gibt {2} frei. Verwende es, wenn du direkt in das Terminal schreiben oder direkt von {3} lesen musst. Gleichzeitige Aufrufe werden nacheinander abgearbeitet, und ein verschachtelter Aufruf innerhalb einer Ausleihe wird sofort ausgeführt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}**: Leiht sich das Terminal für die Dauer von {1} aus, setzt dabei jede Host-Benutzeroberfläche aus und gibt {2} frei. Verwende es, wenn du direkt in das Terminal schreiben oder direkt von {3} lesen musst. Gleichzeitige Aufrufe werden nacheinander abgearbeitet, und ein verschachtelter Aufruf innerhalb einer Ausleihe wird sofort ausgeführt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

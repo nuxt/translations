@@ -1,0 +1,14 @@
+{
+  "hash": "82a4e12d7e0e4d1d",
+  "source": "Specify a channel to install from (default: stable)",
+  "text": "Kanal angeben, aus dem installiert werden soll (Standard: stable)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Kanal angeben, aus dem installiert werden soll (Standard: stable)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

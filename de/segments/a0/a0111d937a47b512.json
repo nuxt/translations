@@ -1,0 +1,14 @@
+{
+  "hash": "a0111d937a47b512",
+  "source": "Admin dashboard renders only on client-side",
+  "text": "Admin-Dashboard wird nur clientseitig gerendert",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Admin-Dashboard wird nur clientseitig gerendert"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

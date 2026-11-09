@@ -1,0 +1,14 @@
+{
+  "hash": "6e5d056813410754",
+  "source": "**description**: The message to announce",
+  "text": "**description**: Die Nachricht, die angesagt werden soll",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**description**: Die Nachricht, die angesagt werden soll"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

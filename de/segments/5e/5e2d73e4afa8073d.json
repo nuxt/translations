@@ -1,0 +1,14 @@
+{
+  "hash": "5e2d73e4afa8073d",
+  "source": "**context**: An optional context object can be passed to control where the type is added. If omitted, the type will only be added to the Nuxt context. This object supports the following properties:",
+  "text": "**context**: Optional kann ein Kontextobjekt übergeben werden, um festzulegen, wo der Typ hinzugefügt wird. Wird es weggelassen, wird der Typ nur dem Nuxt-Kontext hinzugefügt. Dieses Objekt unterstützt die folgenden Eigenschaften:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**context**: Optional kann ein Kontextobjekt übergeben werden, um festzulegen, wo der Typ hinzugefügt wird. Wird es weggelassen, wird der Typ nur dem Nuxt-Kontext hinzugefügt. Dieses Objekt unterstützt die folgenden Eigenschaften:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

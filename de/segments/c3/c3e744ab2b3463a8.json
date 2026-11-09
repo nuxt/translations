@@ -1,0 +1,14 @@
+{
+  "hash": "c3e744ab2b3463a8",
+  "source": "A schema was assigned to the runtime config directly.",
+  "text": "Ein Schema wurde direkt der Laufzeitkonfiguration zugewiesen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein Schema wurde direkt der Laufzeitkonfiguration zugewiesen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

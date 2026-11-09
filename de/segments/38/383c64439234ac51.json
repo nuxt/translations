@@ -1,0 +1,14 @@
+{
+  "hash": "383c64439234ac51",
+  "source": "Avoid fetching same key more than once at a time.",
+  "text": "Verhindert, dass derselbe Schlüssel mehrfach gleichzeitig abgerufen wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verhindert, dass derselbe Schlüssel mehrfach gleichzeitig abgerufen wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

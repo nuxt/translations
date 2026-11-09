@@ -1,0 +1,14 @@
+{
+  "hash": "512fafb6fcecfa6d",
+  "source": "If you prefer a simpler setup and want all tests to run in the Nuxt environment, you can use the basic configuration:",
+  "text": "Wenn du eine einfachere Einrichtung bevorzugst und alle Tests in der Nuxt-Umgebung ausführen möchtest, kannst du die grundlegende Konfiguration verwenden:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du eine einfachere Einrichtung bevorzugst und alle Tests in der Nuxt-Umgebung ausführen möchtest, kannst du die grundlegende Konfiguration verwenden:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "40b9b1762e7b21ec",
+  "source": "**See**: {0}Nuxt View Transition API docs{/0}",
+  "text": "**Siehe**: {0}Dokumentation zur Nuxt View Transition API{/0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Siehe**: {0}Dokumentation zur Nuxt View Transition API{/0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

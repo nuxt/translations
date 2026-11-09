@@ -1,0 +1,14 @@
+{
+  "hash": "e30ac4ee36e09ce7",
+  "source": "A strategy for ordering PostCSS plugins.",
+  "text": "Eine Strategie zur Sortierung von PostCSS-Plugins.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine Strategie zur Sortierung von PostCSS-Plugins."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

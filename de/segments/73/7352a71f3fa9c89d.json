@@ -1,0 +1,14 @@
+{
+  "hash": "7352a71f3fa9c89d",
+  "source": "Dynamic Expiration with a Getter",
+  "text": "Dynamischer Ablaufzeitpunkt mit einem Getter",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dynamischer Ablaufzeitpunkt mit einem Getter"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

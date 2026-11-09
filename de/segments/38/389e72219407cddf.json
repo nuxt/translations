@@ -1,0 +1,14 @@
+{
+  "hash": "389e72219407cddf",
+  "source": "**Third-party and other community modules** are modules (often) prefixed with {0}. Anyone can make them, using this prefix allows these modules to be discoverable on npm. This is the best starting point to draft and try an idea!",
+  "text": "**Drittanbieter- und andere Community-Module** sind Module, die (häufig) das Präfix {0} tragen. Jede Person kann sie erstellen, und durch dieses Präfix sind die Module auf npm auffindbar. Das ist der beste Ausgangspunkt, um eine Idee zu entwerfen und auszuprobieren!",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Drittanbieter- und andere Community-Module** sind Module, die (häufig) das Präfix {0} tragen. Jede Person kann sie erstellen, und durch dieses Präfix sind die Module auf npm auffindbar. Das ist der beste Ausgangspunkt, um eine Idee zu entwerfen und auszuprobieren!"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

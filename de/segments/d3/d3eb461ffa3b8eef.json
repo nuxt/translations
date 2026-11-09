@@ -1,0 +1,14 @@
+{
+  "hash": "d3eb461ffa3b8eef",
+  "source": "The {0} composable is a wrapper around the identically named composable from {1}, providing access to the current route in a Nuxt application.",
+  "text": "Das Composable {0} ist ein Wrapper um das gleichnamige Composable aus {1} und ermöglicht in einer Nuxt-Anwendung den Zugriff auf die aktuelle Route.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Composable {0} ist ein Wrapper um das gleichnamige Composable aus {1} und ermöglicht in einer Nuxt-Anwendung den Zugriff auf die aktuelle Route."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "cd8017762cf5e2dc",
+  "source": "If you throw an error created with {0}:",
+  "text": "Wenn du einen mit {0} erstellten Fehler wirfst:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du einen mit {0} erstellten Fehler wirfst:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

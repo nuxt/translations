@@ -1,0 +1,14 @@
+{
+  "hash": "b0d17368cc0e091f",
+  "source": "Disable the Nuxt DevTools integration",
+  "text": "Die Nuxt-DevTools-Integration deaktivieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Nuxt-DevTools-Integration deaktivieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

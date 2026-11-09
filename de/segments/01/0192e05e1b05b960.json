@@ -1,0 +1,14 @@
+{
+  "hash": "0192e05e1b05b960",
+  "source": "Learn how to test your Nuxt module with unit, integration and E2E tests.",
+  "text": "Erfahre, wie du dein Nuxt-Modul mit Unit-, Integrations- und E2E-Tests testest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erfahre, wie du dein Nuxt-Modul mit Unit-, Integrations- und E2E-Tests testest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

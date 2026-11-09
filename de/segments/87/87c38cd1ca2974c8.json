@@ -1,0 +1,14 @@
+{
+  "hash": "87c38cd1ca2974c8",
+  "source": "You can pass props to the layout by providing an object as the second argument:",
+  "text": "Du kannst Props an das Layout übergeben, indem du ein Objekt als zweites Argument angibst:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst Props an das Layout übergeben, indem du ein Objekt als zweites Argument angibst:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

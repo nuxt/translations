@@ -1,0 +1,14 @@
+{
+  "hash": "9ffde14c668f393f",
+  "source": "Component islands are controlled by {0}. The default value is {1}, which enables the feature automatically as soon as your app contains a server component or island, so in most cases you do not need any configuration.",
+  "text": "Komponenten-Islands werden über {0} gesteuert. Der Standardwert ist {1}; damit wird das Feature automatisch aktiviert, sobald deine App eine Serverkomponente oder ein Island enthält. In den meisten Fällen brauchst du also keine Konfiguration.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Komponenten-Islands werden über {0} gesteuert. Der Standardwert ist {1}; damit wird das Feature automatisch aktiviert, sobald deine App eine Serverkomponente oder ein Island enthält. In den meisten Fällen brauchst du also keine Konfiguration."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

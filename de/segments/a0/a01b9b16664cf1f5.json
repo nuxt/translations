@@ -1,0 +1,14 @@
+{
+  "hash": "a01b9b16664cf1f5",
+  "source": "Local modules directory ({0} by default)",
+  "text": "Verzeichnis für lokale Module (standardmäßig {0})",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verzeichnis für lokale Module (standardmäßig {0})"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

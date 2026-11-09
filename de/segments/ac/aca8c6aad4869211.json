@@ -1,0 +1,14 @@
+{
+  "hash": "aca8c6aad4869211",
+  "source": "However, you can use {0}Nuxt Layers{/0} to create groupings of your app's pages:",
+  "text": "Du kannst jedoch {0}Nuxt Layers{/0} verwenden, um die Seiten deiner App in Gruppen zu gliedern:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst jedoch {0}Nuxt Layers{/0} verwenden, um die Seiten deiner App in Gruppen zu gliedern:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

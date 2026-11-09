@@ -1,0 +1,14 @@
+{
+  "hash": "e1c1401ffed455a8",
+  "source": "Protect App Routes",
+  "text": "App-Routen schützen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "App-Routen schützen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

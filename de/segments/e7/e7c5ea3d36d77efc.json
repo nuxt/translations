@@ -1,0 +1,14 @@
+{
+  "hash": "e7c5ea3d36d77efc",
+  "source": "Basic Meta Tags",
+  "text": "Einfache Meta-Tags",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Einfache Meta-Tags"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

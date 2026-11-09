@@ -1,0 +1,14 @@
+{
+  "hash": "a083c5333a086b8a",
+  "source": "If an error occurs during installation:",
+  "text": "Wenn bei der Installation ein Fehler auftritt:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn bei der Installation ein Fehler auftritt:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

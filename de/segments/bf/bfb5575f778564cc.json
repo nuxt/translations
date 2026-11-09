@@ -1,0 +1,14 @@
+{
+  "hash": "bfb5575f778564cc",
+  "source": "The server's {0}runtime configuration{/0}.",
+  "text": "Die {0}Laufzeitkonfiguration{/0} des Servers.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die {0}Laufzeitkonfiguration{/0} des Servers."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

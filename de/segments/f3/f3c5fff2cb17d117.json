@@ -1,0 +1,14 @@
+{
+  "hash": "f3c5fff2cb17d117",
+  "source": "**Keyed composables require {0}**: a {1} entry without a string {2} is no longer matched through its auto-import",
+  "text": "**Composables mit Schlüssel erfordern {0}**: Ein {1}-Eintrag ohne einen String-{2} wird nicht mehr über seinen automatischen Import zugeordnet",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Composables mit Schlüssel erfordern {0}**: Ein {1}-Eintrag ohne einen String-{2} wird nicht mehr über seinen automatischen Import zugeordnet"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "c3f8b962a37c464c",
+  "source": "ISR/SWR routes (on first request)",
+  "text": "ISR-/SWR-Routen (bei der ersten Anfrage)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "ISR-/SWR-Routen (bei der ersten Anfrage)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

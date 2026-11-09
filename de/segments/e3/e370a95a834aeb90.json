@@ -1,0 +1,14 @@
+{
+  "hash": "e370a95a834aeb90",
+  "source": "Read more about {0}, which adds modules and layers to your application.",
+  "text": "Mehr über {0}, das deiner Anwendung Module und Layer hinzufügt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mehr über {0}, das deiner Anwendung Module und Layer hinzufügt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

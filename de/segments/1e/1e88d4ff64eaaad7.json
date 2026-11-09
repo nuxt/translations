@@ -1,0 +1,14 @@
+{
+  "hash": "1e88d4ff64eaaad7",
+  "source": "The goal of this chapter is to provide a high-level overview of the different parts of the framework, their execution order, and how they work together.",
+  "text": "Dieses Kapitel gibt einen Überblick über die verschiedenen Teile des Frameworks, ihre Ausführungsreihenfolge und ihr Zusammenspiel.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dieses Kapitel gibt einen Überblick über die verschiedenen Teile des Frameworks, ihre Ausführungsreihenfolge und ihr Zusammenspiel."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

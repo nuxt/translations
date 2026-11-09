@@ -1,0 +1,14 @@
+{
+  "hash": "fed4aa844e137b77",
+  "source": "To use a layout:",
+  "text": "So verwendest du ein Layout:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "So verwendest du ein Layout:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

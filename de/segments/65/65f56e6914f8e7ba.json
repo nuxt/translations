@@ -1,0 +1,14 @@
+{
+  "hash": "65f56e6914f8e7ba",
+  "source": "Fonts are only loaded where they're used",
+  "text": "Schriftarten werden nur dort geladen, wo sie verwendet werden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Schriftarten werden nur dort geladen, wo sie verwendet werden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

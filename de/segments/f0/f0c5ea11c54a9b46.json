@@ -1,0 +1,14 @@
+{
+  "hash": "f0c5ea11c54a9b46",
+  "source": "However, if you are a module author using the {0} hook and wishing to remain backwards/forwards compatible, you can use the following code to ensure that your code works the same in both Nuxt v3 and Nuxt v4:",
+  "text": "Wenn du jedoch Modulautor bzw. Modulautorin bist, den Hook {0} verwendest und abwärts- sowie aufwärtskompatibel bleiben möchtest, kannst du den folgenden Code verwenden, damit dein Code sowohl in Nuxt v3 als auch in Nuxt v4 gleich funktioniert:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du jedoch Modulautor bzw. Modulautorin bist, den Hook {0} verwendest und abwärts- sowie aufwärtskompatibel bleiben möchtest, kannst du den folgenden Code verwenden, damit dein Code sowohl in Nuxt v3 als auch in Nuxt v4 gleich funktioniert:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

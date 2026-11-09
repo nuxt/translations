@@ -1,0 +1,14 @@
+{
+  "hash": "69f37d2a5b72554b",
+  "source": "the import map for the entry chunk",
+  "text": "die Import Map für den Entry-Chunk",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "die Import Map für den Entry-Chunk"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

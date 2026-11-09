@@ -1,0 +1,14 @@
+{
+  "hash": "e6e5c5bc7ad1c12c",
+  "source": "Nitro App Hooks (runtime, server-side)",
+  "text": "Nitro-App-Hooks (Laufzeit, serverseitig)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nitro-App-Hooks (Laufzeit, serverseitig)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

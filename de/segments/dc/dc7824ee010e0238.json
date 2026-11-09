@@ -1,0 +1,14 @@
+{
+  "hash": "dc7824ee010e0238",
+  "source": "The following names are recognised, both in filenames and in the {0} you configure. Hyphenated and unhyphenated spellings are equivalent, so {1} and {2} both resolve to {3}.",
+  "text": "Die folgenden Namen werden erkannt, sowohl in Dateinamen als auch in den {0}, die du konfigurierst. Schreibweisen mit und ohne Bindestrich sind gleichwertig, daher werden {1} und {2} beide zu {3} aufgelöst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die folgenden Namen werden erkannt, sowohl in Dateinamen als auch in den {0}, die du konfigurierst. Schreibweisen mit und ohne Bindestrich sind gleichwertig, daher werden {1} und {2} beide zu {3} aufgelöst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

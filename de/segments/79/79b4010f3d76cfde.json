@@ -1,0 +1,14 @@
+{
+  "hash": "79b4010f3d76cfde",
+  "source": "Whether Nuxt is running in development mode.",
+  "text": "Gibt an, ob Nuxt im Entwicklungsmodus läuft.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gibt an, ob Nuxt im Entwicklungsmodus läuft."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

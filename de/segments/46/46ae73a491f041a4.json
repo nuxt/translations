@@ -1,0 +1,14 @@
+{
+  "hash": "46ae73a491f041a4",
+  "source": "If set to {0}, the callback function will be prepended to the array with {1} instead of {2}.",
+  "text": "Wenn der Wert auf {0} gesetzt ist, wird die Callback-Funktion mit {1} statt mit {2} am Anfang des Arrays eingefügt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn der Wert auf {0} gesetzt ist, wird die Callback-Funktion mit {1} statt mit {2} am Anfang des Arrays eingefügt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

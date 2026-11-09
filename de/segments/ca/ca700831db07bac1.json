@@ -1,0 +1,14 @@
+{
+  "hash": "ca700831db07bac1",
+  "source": "When you open the project in VS Code, you should see a notification in the bottom right corner:",
+  "text": "Wenn du das Projekt in VS Code öffnest, solltest du unten rechts eine Benachrichtigung sehen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du das Projekt in VS Code öffnest, solltest du unten rechts eine Benachrichtigung sehen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b8166e5683e8cf6b",
+  "source": "**Shared refs for the same key**: All calls to {0} or {1} with the same key now share the same {2}, {3} and {4} refs. This means that it is important that all calls with an explicit key must not have conflicting {5}, {6}, {7}, {8} or {9} options.",
+  "text": "**Gemeinsame Refs für denselben Schlüssel**: Alle Aufrufe von {0} oder {1} mit demselben Schlüssel teilen sich jetzt dieselben Refs {2}, {3} und {4}. Das bedeutet, dass alle Aufrufe mit explizitem Schlüssel keine widersprüchlichen Optionen {5}, {6}, {7}, {8} oder {9} haben dürfen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Gemeinsame Refs für denselben Schlüssel**: Alle Aufrufe von {0} oder {1} mit demselben Schlüssel teilen sich jetzt dieselben Refs {2}, {3} und {4}. Das bedeutet, dass alle Aufrufe mit explizitem Schlüssel keine widersprüchlichen Optionen {5}, {6}, {7}, {8} oder {9} haben dürfen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

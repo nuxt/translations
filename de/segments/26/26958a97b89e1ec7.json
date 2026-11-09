@@ -1,0 +1,14 @@
+{
+  "hash": "26958a97b89e1ec7",
+  "source": "Result in development",
+  "text": "Ergebnis in der Entwicklung",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ergebnis in der Entwicklung"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

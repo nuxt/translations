@@ -1,0 +1,14 @@
+{
+  "hash": "88fda5375e73a113",
+  "source": "You can enable client-side only rendering with Nuxt in your {0}:",
+  "text": "Du kannst das ausschließlich clientseitige Rendering mit Nuxt in deiner {0} aktivieren:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst das ausschließlich clientseitige Rendering mit Nuxt in deiner {0} aktivieren:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "957d93e973c6835f",
+  "source": "**See**: {0}Nitro server routes documentation{/0}",
+  "text": "**Siehe**: {0}Dokumentation zu Nitro-Server-Routen{/0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Siehe**: {0}Dokumentation zu Nitro-Server-Routen{/0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

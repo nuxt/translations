@@ -1,0 +1,14 @@
+{
+  "hash": "8e79fd9d688970b9",
+  "source": "{0} is now enabled by default. Every JSON-serializable {1} property is written into the generated route record, rather than only a fixed list of keys (plus {2}) with the rest resolved at runtime from a per-page meta module.",
+  "text": "{0} ist jetzt standardmäßig aktiviert. Jede JSON-serialisierbare {1}-Eigenschaft wird in den generierten Route-Eintrag geschrieben, statt nur eine feste Liste von Schlüsseln (plus {2}), während der Rest zur Laufzeit aus einem Meta-Modul pro Seite aufgelöst wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ist jetzt standardmäßig aktiviert. Jede JSON-serialisierbare {1}-Eigenschaft wird in den generierten Route-Eintrag geschrieben, statt nur eine feste Liste von Schlüsseln (plus {2}), während der Rest zur Laufzeit aus einem Meta-Modul pro Seite aufgelöst wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

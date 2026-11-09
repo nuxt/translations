@@ -1,0 +1,14 @@
+{
+  "hash": "ae5312922c9d4bdd",
+  "source": "You can also debug your Nuxt app in JetBrains IDEs such as IntelliJ IDEA, WebStorm, or PhpStorm.",
+  "text": "Du kannst deine Nuxt-App auch in JetBrains-IDEs wie IntelliJ IDEA, WebStorm oder PhpStorm debuggen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst deine Nuxt-App auch in JetBrains-IDEs wie IntelliJ IDEA, WebStorm oder PhpStorm debuggen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

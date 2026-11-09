@@ -1,0 +1,14 @@
+{
+  "hash": "21a06b66266f0d05",
+  "source": "Also when using relative paths in {0} file of a layer, (with exception of nested {1}) they are resolved relative to user's project instead of the layer. As a workaround, use full resolved paths in {2}:",
+  "text": "Auch relative Pfade in der Datei {0} eines Layers (mit Ausnahme von verschachtelten {1}) werden relativ zum Projekt der Nutzenden statt zum Layer aufgelöst. Als Workaround verwendest du in {2} vollständig aufgelöste Pfade:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auch relative Pfade in der Datei {0} eines Layers (mit Ausnahme von verschachtelten {1}) werden relativ zum Projekt der Nutzenden statt zum Layer aufgelöst. Als Workaround verwendest du in {2} vollständig aufgelöste Pfade:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

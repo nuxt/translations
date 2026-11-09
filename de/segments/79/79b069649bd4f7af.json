@@ -1,0 +1,14 @@
+{
+  "hash": "79b069649bd4f7af",
+  "source": "{0}- Extend the default nuxt config",
+  "text": "{0} – Erweitert die Standard-Nuxt-Konfiguration",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} – Erweitert die Standard-Nuxt-Konfiguration"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

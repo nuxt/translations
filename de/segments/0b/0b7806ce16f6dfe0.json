@@ -1,0 +1,14 @@
+{
+  "hash": "0b7806ce16f6dfe0",
+  "source": "When linking to other documentation pages, use relative paths without the domain or a version segment: {0} rather than {1}. {2}nuxt.com{/2} inserts the version segment of the branch the page was built from, so the same link resolves correctly on every version and docs changes can be cherry-picked between branches unchanged. Only write a version segment when you deliberately mean *another* version's docs, and in that case use the full URL, {3}, so the intent is obvious in review.",
+  "text": "Wenn du auf andere Seiten der Dokumentation verlinkst, verwende relative Pfade ohne Domain und ohne Versionssegment: {0} statt {1}. {2}nuxt.com{/2} fügt das Versionssegment des Branches ein, aus dem die Seite erstellt wurde. So funktioniert derselbe Link in jeder Version, und Änderungen an der Dokumentation lassen sich unverändert zwischen Branches per Cherry-Pick übernehmen. Schreibe nur dann ein Versionssegment, wenn du bewusst die Dokumentation einer *anderen* Version meinst, und verwende dann die vollständige URL {3}, damit die Absicht im Review klar erkennbar ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du auf andere Seiten der Dokumentation verlinkst, verwende relative Pfade ohne Domain und ohne Versionssegment: {0} statt {1}. {2}nuxt.com{/2} fügt das Versionssegment des Branches ein, aus dem die Seite erstellt wurde. So funktioniert derselbe Link in jeder Version, und Änderungen an der Dokumentation lassen sich unverändert zwischen Branches per Cherry-Pick übernehmen. Schreibe nur dann ein Versionssegment, wenn du bewusst die Dokumentation einer *anderen* Version meinst, und verwende dann die vollständige URL {3}, damit die Absicht im Review klar erkennbar ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

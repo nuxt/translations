@@ -1,0 +1,14 @@
+{
+  "hash": "24b1fa69c1582fe7",
+  "source": "Previously, Nuxt used separate client and server Vite configurations. Now, Nuxt uses a shared Vite configuration with environment-specific plugins that use the {0} method to target specific environments.",
+  "text": "Bisher verwendete Nuxt getrennte Vite-Konfigurationen für Client und Server. Jetzt nutzt Nuxt eine gemeinsame Vite-Konfiguration mit umgebungsspezifischen Plugins, die über die Methode {0} bestimmte Umgebungen ansprechen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bisher verwendete Nuxt getrennte Vite-Konfigurationen für Client und Server. Jetzt nutzt Nuxt eine gemeinsame Vite-Konfiguration mit umgebungsspezifischen Plugins, die über die Methode {0} bestimmte Umgebungen ansprechen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

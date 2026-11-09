@@ -1,0 +1,14 @@
+{
+  "hash": "90af58250761622d",
+  "source": "useRoute called within middleware.",
+  "text": "useRoute wurde innerhalb einer Middleware aufgerufen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "useRoute wurde innerhalb einer Middleware aufgerufen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

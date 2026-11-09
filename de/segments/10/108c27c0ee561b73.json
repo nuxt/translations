@@ -1,0 +1,14 @@
+{
+  "hash": "108c27c0ee561b73",
+  "source": "Check if the id is made up of digits",
+  "text": "Prüfen, ob die ID nur aus Ziffern besteht",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Prüfen, ob die ID nur aus Ziffern besteht"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

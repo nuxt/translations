@@ -1,0 +1,14 @@
+{
+  "hash": "94961678a1c6644e",
+  "source": "Here are a few key steps.",
+  "text": "Hier sind ein paar wichtige Schritte.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Hier sind ein paar wichtige Schritte."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "00d6c6714efe9879",
+  "source": "Reindent and syntax-highlight output (default: on for a terminal, off when piped). Use {0}/{1} to force reindenting.",
+  "text": "Ausgabe neu einrücken und mit Syntaxhervorhebung darstellen (Standard: an in einem Terminal, aus bei Weiterleitung per Pipe). Mit {0}/{1} wird das Einrücken erzwungen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ausgabe neu einrücken und mit Syntaxhervorhebung darstellen (Standard: an in einem Terminal, aus bei Weiterleitung per Pipe). Mit {0}/{1} wird das Einrücken erzwungen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "22dc337e8ad88a66",
+  "source": "Read the dedicated guide to server components and islands.",
+  "text": "Lies die Anleitung zu Serverkomponenten und Islands.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lies die Anleitung zu Serverkomponenten und Islands."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

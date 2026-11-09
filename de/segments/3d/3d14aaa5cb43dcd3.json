@@ -1,0 +1,14 @@
+{
+  "hash": "3d14aaa5cb43dcd3",
+  "source": "Controls how payload data is delivered for prerendered and cached (ISR/SWR) pages.",
+  "text": "Steuert, wie die Payload-Daten für vorab gerenderte und zwischengespeicherte (ISR/SWR) Seiten bereitgestellt werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Steuert, wie die Payload-Daten für vorab gerenderte und zwischengespeicherte (ISR/SWR) Seiten bereitgestellt werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "d100c82a46219fad",
+  "source": "Set to {0} to disable.",
+  "text": "Auf {0} setzen, um die Funktion zu deaktivieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auf {0} setzen, um die Funktion zu deaktivieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

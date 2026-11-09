@@ -1,0 +1,14 @@
+{
+  "hash": "e9432bac5b877f96",
+  "source": "Computed URL",
+  "text": "Berechnete URL",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Berechnete URL"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

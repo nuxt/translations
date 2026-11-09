@@ -1,0 +1,14 @@
+{
+  "hash": "f331ea60b22e8a1d",
+  "source": "In Nuxt 5+, plugins registered with {0} or {1} options will not have their {2} or {3} hooks called. Instead, use the {4} method instead for environment-specific plugins.",
+  "text": "In Nuxt 5+ werden bei plugins, die mit den Optionen {0} oder {1} registriert wurden, die hooks {2} oder {3} nicht aufgerufen. Verwende für umgebungsspezifische plugins stattdessen die Methode {4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In Nuxt 5+ werden bei plugins, die mit den Optionen {0} oder {1} registriert wurden, die hooks {2} oder {3} nicht aufgerufen. Verwende für umgebungsspezifische plugins stattdessen die Methode {4}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

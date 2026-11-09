@@ -1,0 +1,14 @@
+{
+  "hash": "03bbe91343ed94b4",
+  "source": "Nuxt Kit provides a set of utilities to help you check the compatibility of your modules with different Nuxt versions.",
+  "text": "Nuxt Kit stellt eine Reihe von Hilfsfunktionen bereit, mit denen du die Kompatibilität deiner Module mit verschiedenen Nuxt-Versionen prüfen kannst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Kit stellt eine Reihe von Hilfsfunktionen bereit, mit denen du die Kompatibilität deiner Module mit verschiedenen Nuxt-Versionen prüfen kannst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

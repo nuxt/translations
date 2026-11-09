@@ -1,0 +1,14 @@
+{
+  "hash": "a917fa21901bc4ba",
+  "source": "Adds a **Fonts** panel to {0}Nuxt DevTools{/0}, listing every family resolved for your app: the provider that served it, the faces generated for it, where each is used, and any warnings raised while resolving it.",
+  "text": "Fügt {0}Nuxt DevTools{/0} ein Panel **Fonts** hinzu. Es listet jede für deine App aufgelöste Schriftfamilie auf: den Provider, der sie bereitgestellt hat, die dafür erzeugten Schnitte, wo jeder davon verwendet wird, und alle Warnungen, die beim Auflösen aufgetreten sind.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fügt {0}Nuxt DevTools{/0} ein Panel **Fonts** hinzu. Es listet jede für deine App aufgelöste Schriftfamilie auf: den Provider, der sie bereitgestellt hat, die dafür erzeugten Schnitte, wo jeder davon verwendet wird, und alle Warnungen, die beim Auflösen aufgetreten sind."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

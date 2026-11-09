@@ -1,0 +1,14 @@
+{
+  "hash": "fa0a3fa3a5946e62",
+  "source": "Enables extraction of payloads of pages generated with {0}.",
+  "text": "Aktiviert die Extraktion von Payloads für Seiten, die mit {0} generiert wurden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Aktiviert die Extraktion von Payloads für Seiten, die mit {0} generiert wurden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

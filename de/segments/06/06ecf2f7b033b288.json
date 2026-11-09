@@ -1,0 +1,14 @@
+{
+  "hash": "06ecf2f7b033b288",
+  "source": "Congratulations, you're all set to start unit testing with {0} in Nuxt! Happy testing!",
+  "text": "Glückwunsch, du bist bereit, mit {0} in Nuxt Unit-Tests zu schreiben! Viel Spaß beim Testen!",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Glückwunsch, du bist bereit, mit {0} in Nuxt Unit-Tests zu schreiben! Viel Spaß beim Testen!"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

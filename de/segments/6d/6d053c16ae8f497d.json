@@ -1,0 +1,14 @@
+{
+  "hash": "6d053c16ae8f497d",
+  "source": "This means:",
+  "text": "Das bedeutet:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das bedeutet:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

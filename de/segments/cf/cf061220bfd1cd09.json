@@ -1,0 +1,14 @@
+{
+  "hash": "cf061220bfd1cd09",
+  "source": "{0} is typed as {1}, and {2} as {3}. The {4} request requires a body with a {5} string.",
+  "text": "{0} wird als {1} typisiert und {2} als {3}. Die {4}-Anfrage erfordert einen Body mit einem {5}-String.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} wird als {1} typisiert und {2} als {3}. Die {4}-Anfrage erfordert einen Body mit einem {5}-String."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

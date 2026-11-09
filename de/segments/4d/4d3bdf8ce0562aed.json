@@ -1,0 +1,14 @@
+{
+  "hash": "4d3bdf8ce0562aed",
+  "source": "Given the example above, you can access group/id within your component via the {0} object:",
+  "text": "Beim obigen Beispiel kannst du in deiner Komponente über das Objekt {0} auf group/id zugreifen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Beim obigen Beispiel kannst du in deiner Komponente über das Objekt {0} auf group/id zugreifen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

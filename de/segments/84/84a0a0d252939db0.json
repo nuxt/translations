@@ -1,0 +1,14 @@
+{
+  "hash": "84a0a0d252939db0",
+  "source": "Sets the {0}{1} {2} attribute{/0}. By default, no domain is set, and most clients will consider applying the cookie only to the current domain.",
+  "text": "Setzt das {0}{1}-{2}-Attribut{/0}. Standardmäßig ist keine Domain festgelegt, und die meisten Clients wenden das Cookie dann nur auf die aktuelle Domain an.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Setzt das {0}{1}-{2}-Attribut{/0}. Standardmäßig ist keine Domain festgelegt, und die meisten Clients wenden das Cookie dann nur auf die aktuelle Domain an."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

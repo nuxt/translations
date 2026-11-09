@@ -1,0 +1,14 @@
+{
+  "hash": "af1dac1c283f02cb",
+  "source": "Tree shake composables from the server or client builds.",
+  "text": "Composables per Tree Shaking aus den Server- oder Client-Builds entfernen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Composables per Tree Shaking aus den Server- oder Client-Builds entfernen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

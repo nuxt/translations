@@ -1,0 +1,14 @@
+{
+  "hash": "7f9e78db1516a4b8",
+  "source": "This only caches data when {0} in {1} is enabled.",
+  "text": "Daten werden nur dann zwischengespeichert, wenn {0} in {1} aktiviert ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Daten werden nur dann zwischengespeichert, wenn {0} in {1} aktiviert ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

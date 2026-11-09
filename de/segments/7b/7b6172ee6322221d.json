@@ -1,0 +1,14 @@
+{
+  "hash": "7b6172ee6322221d",
+  "source": "Specify one or more modules to remove by name, separated by spaces",
+  "text": "Gib ein oder mehrere Module an, die entfernt werden sollen, jeweils per Namen und durch Leerzeichen getrennt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gib ein oder mehrere Module an, die entfernt werden sollen, jeweils per Namen und durch Leerzeichen getrennt"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

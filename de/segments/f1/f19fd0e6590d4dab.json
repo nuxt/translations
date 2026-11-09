@@ -1,0 +1,14 @@
+{
+  "hash": "f19fd0e6590d4dab",
+  "source": "{0} was given a URL using a dangerous protocol ({1}, {2}, {3}). Nuxt blocks these to prevent XSS. This almost always means unsanitized user input reached {4}.",
+  "text": "{0} hat eine URL mit einem gefährlichen Protokoll ({1}, {2}, {3}) erhalten. Nuxt blockiert diese, um XSS zu verhindern. Das bedeutet fast immer, dass nicht bereinigte Eingaben von Nutzenden an {4} übergeben wurden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} hat eine URL mit einem gefährlichen Protokoll ({1}, {2}, {3}) erhalten. Nuxt blockiert diese, um XSS zu verhindern. Das bedeutet fast immer, dass nicht bereinigte Eingaben von Nutzenden an {4} übergeben wurden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

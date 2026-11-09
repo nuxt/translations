@@ -1,0 +1,14 @@
+{
+  "hash": "173ee01cc709438c",
+  "source": "Enable Cross-origin Prefetch",
+  "text": "Cross-Origin-Prefetch aktivieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cross-Origin-Prefetch aktivieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

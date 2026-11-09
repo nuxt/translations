@@ -1,0 +1,14 @@
+{
+  "hash": "ab092702c7d6a031",
+  "source": "JSON imports need an import attribute:",
+  "text": "JSON-Importe benötigen ein Import-Attribut:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "JSON-Importe benötigen ein Import-Attribut:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

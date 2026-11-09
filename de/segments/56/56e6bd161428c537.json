@@ -1,0 +1,14 @@
+{
+  "hash": "56e6bd161428c537",
+  "source": "The key differences are that you must provide a *key* for this state (which Nuxt generated automatically for {0} and {1}), and that it can only be called within a Nuxt 3 plugin (which is defined by {2}) or a component instance. (In other words, you cannot use {3} with a global/ambient context, because of the danger of shared state across requests.)",
+  "text": "Die wichtigsten Unterschiede sind, dass du für diesen State einen *Schlüssel* angeben musst (den Nuxt für {0} und {1} automatisch generiert hat) und dass das Composable nur innerhalb eines Nuxt-3-plugins (definiert mit {2}) oder einer Komponenteninstanz aufgerufen werden kann. (Mit anderen Worten: Du kannst {3} nicht in einem globalen bzw. Ambient-Kontext verwenden, da die Gefahr eines geteilten States über mehrere Anfragen hinweg besteht.)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die wichtigsten Unterschiede sind, dass du für diesen State einen *Schlüssel* angeben musst (den Nuxt für {0} und {1} automatisch generiert hat) und dass das Composable nur innerhalb eines Nuxt-3-plugins (definiert mit {2}) oder einer Komponenteninstanz aufgerufen werden kann. (Mit anderen Worten: Du kannst {3} nicht in einem globalen bzw. Ambient-Kontext verwenden, da die Gefahr eines geteilten States über mehrere Anfragen hinweg besteht.)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

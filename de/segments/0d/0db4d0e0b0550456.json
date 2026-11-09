@@ -1,0 +1,14 @@
+{
+  "hash": "0db4d0e0b0550456",
+  "source": "will redirect successfully with the 'external' parameter set to 'true'",
+  "text": "leitet erfolgreich weiter, wenn der Parameter 'external' auf 'true' gesetzt ist",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "leitet erfolgreich weiter, wenn der Parameter 'external' auf 'true' gesetzt ist"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

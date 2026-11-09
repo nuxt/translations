@@ -1,0 +1,14 @@
+{
+  "hash": "7b3708a02786b337",
+  "source": "Read more about the {0} file.",
+  "text": "Lies mehr über die Datei {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lies mehr über die Datei {0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

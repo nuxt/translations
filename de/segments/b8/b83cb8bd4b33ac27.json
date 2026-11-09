@@ -1,0 +1,14 @@
+{
+  "hash": "b83cb8bd4b33ac27",
+  "source": "When rendering a client-only page (with {0}), we optionally render a loading screen (from {1} - note that this has also changed to {2} in Nuxt 4), within the Nuxt app root:",
+  "text": "Beim Rendern einer Seite, die nur auf dem Client läuft (mit {0}), wird optional ein Ladebildschirm (aus {1} – beachte, dass sich dies in Nuxt 4 ebenfalls zu {2} geändert hat) innerhalb des Nuxt-App-Roots gerendert:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Beim Rendern einer Seite, die nur auf dem Client läuft (mit {0}), wird optional ein Ladebildschirm (aus {1} – beachte, dass sich dies in Nuxt 4 ebenfalls zu {2} geändert hat) innerhalb des Nuxt-App-Roots gerendert:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

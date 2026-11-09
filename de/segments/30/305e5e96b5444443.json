@@ -1,0 +1,14 @@
+{
+  "hash": "305e5e96b5444443",
+  "source": "Enables experimental component islands support with {0} and {1} files.",
+  "text": "Aktiviert die experimentelle Unterstützung für Komponenten-Islands mit {0}- und {1}-Dateien.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Aktiviert die experimentelle Unterstützung für Komponenten-Islands mit {0}- und {1}-Dateien."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

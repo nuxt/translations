@@ -1,0 +1,14 @@
+{
+  "hash": "cf16e82c8e922ebf",
+  "source": "Set a static or dynamic name of the layout for each route. This can be set to {0} in case the default layout needs to be disabled.",
+  "text": "Lege einen statischen oder dynamischen Namen des Layouts für jede Route fest. Der Wert kann auf {0} gesetzt werden, falls das Standard-Layout deaktiviert werden soll.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lege einen statischen oder dynamischen Namen des Layouts für jede Route fest. Der Wert kann auf {0} gesetzt werden, falls das Standard-Layout deaktiviert werden soll."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

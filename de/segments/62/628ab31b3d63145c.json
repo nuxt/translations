@@ -1,0 +1,14 @@
+{
+  "hash": "628ab31b3d63145c",
+  "source": "**{0}**: An object containing the resolved directory paths for a layer.",
+  "text": "**{0}**: Ein Objekt mit den aufgelösten Verzeichnispfaden eines Layers.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}**: Ein Objekt mit den aufgelösten Verzeichnispfaden eines Layers."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

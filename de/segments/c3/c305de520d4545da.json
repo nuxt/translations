@@ -1,0 +1,14 @@
+{
+  "hash": "c305de520d4545da",
+  "source": "If you need a catch-all route, you create it by using a file named like {0}. This will match *all* routes under that path.",
+  "text": "Wenn du eine Catch-all-Route benötigst, erstellst du sie mit einer Datei, die etwa so benannt ist: {0}. Sie passt auf *alle* Routen unterhalb dieses Pfads.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du eine Catch-all-Route benötigst, erstellst du sie mit einer Datei, die etwa so benannt ist: {0}. Sie passt auf *alle* Routen unterhalb dieses Pfads."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

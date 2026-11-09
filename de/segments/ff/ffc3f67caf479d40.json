@@ -1,0 +1,14 @@
+{
+  "hash": "ffc3f67caf479d40",
+  "source": "Using {0} is the recommended way of declaring Vue components in Nuxt.",
+  "text": "Mit {0} deklarierst du Vue-Komponenten in Nuxt am besten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit {0} deklarierst du Vue-Komponenten in Nuxt am besten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

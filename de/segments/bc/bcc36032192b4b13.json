@@ -1,0 +1,14 @@
+{
+  "hash": "bcc36032192b4b13",
+  "source": "Alias for {0}.",
+  "text": "Alias für {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Alias für {0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

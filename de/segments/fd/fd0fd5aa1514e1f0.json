@@ -1,0 +1,14 @@
+{
+  "hash": "fd0fd5aa1514e1f0",
+  "source": "By default, the {0} is set to {1}.",
+  "text": "Standardmäßig ist {0} auf {1} gesetzt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardmäßig ist {0} auf {1} gesetzt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

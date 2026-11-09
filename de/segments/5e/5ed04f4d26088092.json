@@ -1,0 +1,14 @@
+{
+  "hash": "5ed04f4d26088092",
+  "source": "Set layout for specific route",
+  "text": "Layout für eine bestimmte Route festlegen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Layout für eine bestimmte Route festlegen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

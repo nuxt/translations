@@ -1,0 +1,14 @@
+{
+  "hash": "78d263fc47bad26e",
+  "source": "both client & server",
+  "text": "sowohl Client als auch Server",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "sowohl Client als auch Server"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

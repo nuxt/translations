@@ -1,0 +1,14 @@
+{
+  "hash": "0235432e4615fa75",
+  "source": "Some of the modules the renderer imports can only be written by an app builder: the client manifest, the SSR entry, the renderer's settings, and so on. You don't have to know what any of them are. {0} will return gives you the whole list, and you simply need to make each specifier resolve when imported:",
+  "text": "Einige der Module, die der Renderer importiert, kann nur ein App-Builder schreiben: das Client-Manifest, den SSR-Einstiegspunkt, die Einstellungen des Renderers und so weiter. Du musst nicht wissen, was sie im Einzelnen sind. {0} gibt dir die vollständige Liste zurück, und du musst lediglich dafür sorgen, dass sich jeder Specifier beim Import auflösen lässt:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Einige der Module, die der Renderer importiert, kann nur ein App-Builder schreiben: das Client-Manifest, den SSR-Einstiegspunkt, die Einstellungen des Renderers und so weiter. Du musst nicht wissen, was sie im Einzelnen sind. {0} gibt dir die vollständige Liste zurück, und du musst lediglich dafür sorgen, dass sich jeder Specifier beim Import auflösen lässt:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

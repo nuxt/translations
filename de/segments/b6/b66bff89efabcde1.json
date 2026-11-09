@@ -1,0 +1,14 @@
+{
+  "hash": "b66bff89efabcde1",
+  "source": "If your titles come from route metadata rather than from the page itself, you can read {0} values from {1} in a layout.",
+  "text": "Wenn deine Titel aus den Routen-Metadaten statt aus der Seite selbst stammen, kannst du in einem Layout die {0}-Werte aus {1} auslesen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn deine Titel aus den Routen-Metadaten statt aus der Seite selbst stammen, kannst du in einem Layout die {0}-Werte aus {1} auslesen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

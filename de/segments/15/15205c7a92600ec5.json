@@ -1,0 +1,14 @@
+{
+  "hash": "15205c7a92600ec5",
+  "source": "Global families are injected into a single stylesheet loaded on every page, so keep the list short: every visitor downloads the CSS for each one.",
+  "text": "Globale Schriftfamilien werden in ein einziges Stylesheet eingefügt, das auf jeder Seite geladen wird. Halte die Liste daher kurz: Alle Besuchenden laden das CSS für jede einzelne Familie herunter.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Globale Schriftfamilien werden in ein einziges Stylesheet eingefügt, das auf jeder Seite geladen wird. Halte die Liste daher kurz: Alle Besuchenden laden das CSS für jede einzelne Familie herunter."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

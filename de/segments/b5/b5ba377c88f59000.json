@@ -1,0 +1,14 @@
+{
+  "hash": "b5ba377c88f59000",
+  "source": "{0} - Registers a global component if passing both a name string and a component definition, or retrieves an already registered one if only the name is passed.",
+  "text": "{0} – Registriert eine globale Komponente, wenn sowohl ein Namensstring als auch eine Komponentendefinition übergeben werden, oder gibt eine bereits registrierte Komponente zurück, wenn nur der Name übergeben wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} – Registriert eine globale Komponente, wenn sowohl ein Namensstring als auch eine Komponentendefinition übergeben werden, oder gibt eine bereits registrierte Komponente zurück, wenn nur der Name übergeben wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

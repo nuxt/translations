@@ -1,0 +1,14 @@
+{
+  "hash": "8c92ca7cc6a900ae",
+  "source": "{0} - Payload is extracted to a separate {1} file for both the initial server render and client-side navigation.",
+  "text": "{0} – Die Payload wird sowohl für das initiale Rendering auf dem Server als auch für die clientseitige Navigation in eine separate {1}-Datei extrahiert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} – Die Payload wird sowohl für das initiale Rendering auf dem Server als auch für die clientseitige Navigation in eine separate {1}-Datei extrahiert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

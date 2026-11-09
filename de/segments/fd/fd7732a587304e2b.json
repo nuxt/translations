@@ -1,0 +1,14 @@
+{
+  "hash": "fd7732a587304e2b",
+  "source": "{0} Composables",
+  "text": "{0}-Composables",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}-Composables"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

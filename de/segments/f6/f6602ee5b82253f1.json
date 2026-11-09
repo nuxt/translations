@@ -1,0 +1,14 @@
+{
+  "hash": "f6602ee5b82253f1",
+  "source": "There is no switch for this: Nuxt 5 requires Vite 8. If you want to test Vite 8 compatibility on Nuxt 4 first, you can add a {0} resolution override in your {1}.",
+  "text": "Dafür gibt es keinen Schalter: Nuxt 5 setzt Vite 8 voraus. Wenn du die Kompatibilität mit Vite 8 vorab unter Nuxt 4 testen möchtest, kannst du in deiner {1} eine {0}-Resolution-Überschreibung hinzufügen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dafür gibt es keinen Schalter: Nuxt 5 setzt Vite 8 voraus. Wenn du die Kompatibilität mit Vite 8 vorab unter Nuxt 4 testen möchtest, kannst du in deiner {1} eine {0}-Resolution-Überschreibung hinzufügen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

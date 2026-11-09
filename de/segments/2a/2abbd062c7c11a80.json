@@ -1,0 +1,14 @@
+{
+  "hash": "2abbd062c7c11a80",
+  "source": "Nuxt generates types for your runtime config from the type of each value, or from its schema. Environment variables are converted to the same types when the server starts, so the generated types describe the values your app receives.",
+  "text": "Nuxt generiert Typen für deine Laufzeitkonfiguration aus dem Typ jedes Werts oder aus seinem Schema. Umgebungsvariablen werden beim Start des Servers in dieselben Typen konvertiert, sodass die generierten Typen die Werte beschreiben, die deine App erhält.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt generiert Typen für deine Laufzeitkonfiguration aus dem Typ jedes Werts oder aus seinem Schema. Umgebungsvariablen werden beim Start des Servers in dieselben Typen konvertiert, sodass die generierten Typen die Werte beschreiben, die deine App erhält."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "4a96e7c72cab94d4",
+  "source": "If you're using the Composition API, you can also migrate {0} and {1} to use {2} and {3} composables.",
+  "text": "Wenn du die Composition API verwendest, kannst du außerdem {0} und {1} auf die Composables {2} und {3} umstellen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du die Composition API verwendest, kannst du außerdem {0} und {1} auf die Composables {2} und {3} umstellen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

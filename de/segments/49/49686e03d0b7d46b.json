@@ -1,0 +1,14 @@
+{
+  "hash": "49686e03d0b7d46b",
+  "source": "The layouts directory for Vue layout components",
+  "text": "Das layouts-Verzeichnis für Vue-Layout-Komponenten",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das layouts-Verzeichnis für Vue-Layout-Komponenten"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

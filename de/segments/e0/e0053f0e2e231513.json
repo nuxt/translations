@@ -1,0 +1,14 @@
+{
+  "hash": "e0053f0e2e231513",
+  "source": "**SEO problems**: Search engines may index different content than what users actually see",
+  "text": "**SEO-Probleme**: Suchmaschinen indexieren möglicherweise andere Inhalte als die, die Nutzende tatsächlich sehen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**SEO-Probleme**: Suchmaschinen indexieren möglicherweise andere Inhalte als die, die Nutzende tatsächlich sehen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

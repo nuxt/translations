@@ -1,0 +1,14 @@
+{
+  "hash": "10ff894cc76a8d96",
+  "source": "Then use the {0} composable anywhere in your app to announce messages:",
+  "text": "Verwende anschließend das Composable {0} an beliebiger Stelle in deiner App, um Meldungen anzukündigen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwende anschließend das Composable {0} an beliebiger Stelle in deiner App, um Meldungen anzukündigen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

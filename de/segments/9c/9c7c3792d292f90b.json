@@ -1,0 +1,14 @@
+{
+  "hash": "9c7c3792d292f90b",
+  "source": "Note that **Hybrid Rendering** can be used when using Edge-Side Rendering with route rules.",
+  "text": "Beachte, dass **hybrides Rendering** zusammen mit Edge-Side Rendering über Route-Rules verwendet werden kann.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Beachte, dass **hybrides Rendering** zusammen mit Edge-Side Rendering über Route-Rules verwendet werden kann."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

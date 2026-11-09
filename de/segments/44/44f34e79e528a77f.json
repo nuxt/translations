@@ -1,0 +1,14 @@
+{
+  "hash": "44f34e79e528a77f",
+  "source": "Vue SSR on StackBlitz",
+  "text": "Vue SSR auf StackBlitz",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vue SSR auf StackBlitz"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "a2f3d773112ff021",
+  "source": "Return data in a deep ref object. Defaults to {0} for improved performance (shallow ref object).",
+  "text": "Gibt die Daten in einem tiefen Ref-Objekt zurück. Der Standardwert ist {0}, was die Performance verbessert (flaches Ref-Objekt).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gibt die Daten in einem tiefen Ref-Objekt zurück. Der Standardwert ist {0}, was die Performance verbessert (flaches Ref-Objekt)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "cbabc7aa5fcc96d4",
+  "source": "Renders given template during build into the project buildDir, then registers it as types.",
+  "text": "Rendert die angegebene Vorlage während des Builds in das buildDir des Projekts und registriert sie anschließend als Typen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Rendert die angegebene Vorlage während des Builds in das buildDir des Projekts und registriert sie anschließend als Typen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

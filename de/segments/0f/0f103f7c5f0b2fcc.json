@@ -1,0 +1,14 @@
+{
+  "hash": "0f103f7c5f0b2fcc",
+  "source": "Router method matcher. If handler name contains method name, it will be used as a default value.",
+  "text": "Matcher für die Router-Methode. Enthält der Handler-Name den Namen der Methode, wird dieser als Standardwert verwendet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Matcher für die Router-Methode. Enthält der Handler-Name den Namen der Methode, wird dieser als Standardwert verwendet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

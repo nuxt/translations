@@ -1,0 +1,14 @@
+{
+  "hash": "4512b9c8ef095be0",
+  "source": "This error occurs when you try to store a non-serializable payload with {0}, such as class instances.",
+  "text": "Dieser Fehler tritt auf, wenn du versuchst, mit {0} eine nicht serialisierbare Payload zu speichern, zum Beispiel Klasseninstanzen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dieser Fehler tritt auf, wenn du versuchst, mit {0} eine nicht serialisierbare Payload zu speichern, zum Beispiel Klasseninstanzen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

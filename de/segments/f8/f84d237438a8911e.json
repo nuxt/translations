@@ -1,0 +1,14 @@
+{
+  "hash": "f84d237438a8911e",
+  "source": "🚀 Fastest",
+  "text": "🚀 Am schnellsten",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "🚀 Am schnellsten"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

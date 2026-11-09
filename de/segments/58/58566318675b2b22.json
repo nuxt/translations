@@ -1,0 +1,14 @@
+{
+  "hash": "58566318675b2b22",
+  "source": "Never define {0} outside of {1} or {2} function.{3}For example, doing {4} would result in state shared across requests on the server and can lead to memory leaks.",
+  "text": "Definiere {0} niemals außerhalb von {1} oder der Funktion {2}.{3}Wenn du zum Beispiel {4} verwendest, wird der Zustand auf dem Server über Anfragen hinweg geteilt, was zu Speicherlecks führen kann.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Definiere {0} niemals außerhalb von {1} oder der Funktion {2}.{3}Wenn du zum Beispiel {4} verwendest, wird der Zustand auf dem Server über Anfragen hinweg geteilt, was zu Speicherlecks führen kann."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

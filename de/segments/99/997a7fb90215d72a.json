@@ -1,0 +1,14 @@
+{
+  "hash": "997a7fb90215d72a",
+  "source": "Types are set on the {0} and can be targeted in CSS using the {1} pseudo-class selector.",
+  "text": "Typen werden auf {0} gesetzt und lassen sich in CSS mit dem Pseudoklassen-Selektor {1} ansprechen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Typen werden auf {0} gesetzt und lassen sich in CSS mit dem Pseudoklassen-Selektor {1} ansprechen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "f22d2f128be926b9",
+  "source": "Command to run (options: \\<enable\\|disable>)",
+  "text": "Auszuführender Befehl (Optionen: \\<enable\\|disable>)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auszuführender Befehl (Optionen: \\<enable\\|disable>)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

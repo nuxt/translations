@@ -1,0 +1,14 @@
+{
+  "hash": "52a22cb7a274b08b",
+  "source": "{0}. Downloaded fonts are cached between builds by default.",
+  "text": "{0}. Heruntergeladene Schriftarten werden standardmäßig zwischen Builds zwischengespeichert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}. Heruntergeladene Schriftarten werden standardmäßig zwischen Builds zwischengespeichert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

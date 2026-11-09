@@ -1,0 +1,14 @@
+{
+  "hash": "badb53ea69e49177",
+  "source": "The only way to provide data and logic to components in Vue 2 was through the Options API, which allows you to return data and methods to a template with pre-defined properties like {0} and {1}:",
+  "text": "In Vue 2 war die Options API der einzige Weg, Komponenten Daten und Logik bereitzustellen. Mit ihr gibst du Daten und Methoden über vordefinierte Eigenschaften wie {0} und {1} an eine Vorlage zurück:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In Vue 2 war die Options API der einzige Weg, Komponenten Daten und Logik bereitzustellen. Mit ihr gibst du Daten und Methoden über vordefinierte Eigenschaften wie {0} und {1} an eine Vorlage zurück:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b7ad9588f6a0cef2",
+  "source": "When starting Nuxt, the {0} module will be registered and the {1} route will be available.",
+  "text": "Beim Start von Nuxt wird das Modul {0} registriert und die Route {1} steht zur Verfügung.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Beim Start von Nuxt wird das Modul {0} registriert und die Route {1} steht zur Verfügung."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

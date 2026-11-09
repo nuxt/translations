@@ -1,0 +1,14 @@
+{
+  "hash": "9630dc6553a2e487",
+  "source": "Apply your changes",
+  "text": "Nimm deine Änderungen vor",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nimm deine Änderungen vor"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

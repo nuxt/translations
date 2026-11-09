@@ -1,0 +1,14 @@
+{
+  "hash": "c3187575f6270dc2",
+  "source": "Nuxt Image releases.",
+  "text": "Releases von Nuxt Image.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Releases von Nuxt Image."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

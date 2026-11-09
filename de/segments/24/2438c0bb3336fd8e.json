@@ -1,0 +1,14 @@
+{
+  "hash": "2438c0bb3336fd8e",
+  "source": "see signature below for more",
+  "text": "weitere Details siehe Signatur unten",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "weitere Details siehe Signatur unten"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

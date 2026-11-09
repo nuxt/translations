@@ -1,0 +1,14 @@
+{
+  "hash": "77204e53585fe36e",
+  "source": "The polyfill library to load to provide URL and URLSearchParams.",
+  "text": "Die Polyfill-Bibliothek, die geladen wird, um URL und URLSearchParams bereitzustellen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Polyfill-Bibliothek, die geladen wird, um URL und URLSearchParams bereitzustellen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

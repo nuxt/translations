@@ -1,0 +1,14 @@
+{
+  "hash": "12cb533a4cb1264d",
+  "source": "Examples of Nuxt Kit utilities in use.",
+  "text": "Beispiele für die Verwendung von Nuxt-Kit-Hilfsfunktionen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Beispiele für die Verwendung von Nuxt-Kit-Hilfsfunktionen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

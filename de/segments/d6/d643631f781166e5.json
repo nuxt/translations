@@ -1,0 +1,14 @@
+{
+  "hash": "d643631f781166e5",
+  "source": "See PR #30555 for implementation details.",
+  "text": "Details zur Implementierung findest du in PR #30555.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Details zur Implementierung findest du in PR #30555."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

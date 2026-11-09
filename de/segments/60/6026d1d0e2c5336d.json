@@ -1,0 +1,14 @@
+{
+  "hash": "6026d1d0e2c5336d",
+  "source": "The defaults are also different. {0} loaded weight 400 in the normal style only, while Nuxt Fonts loads the {1}{2} weight range{/1} in both normal and italic styles. To load a single weight and style, set them on the family or for every family with {3}:",
+  "text": "Auch die Standardwerte unterscheiden sich. {0} hat nur die Stärke 400 im normalen Stil geladen, während Nuxt Fonts den {1}{2}-Schriftstärkenbereich{/1} sowohl im normalen als auch im kursiven Stil lädt. Um eine einzelne Stärke und einen einzelnen Stil zu laden, lege sie an der Schriftfamilie oder für alle Schriftfamilien mit {3} fest:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auch die Standardwerte unterscheiden sich. {0} hat nur die Stärke 400 im normalen Stil geladen, während Nuxt Fonts den {1}{2}-Schriftstärkenbereich{/1} sowohl im normalen als auch im kursiven Stil lädt. Um eine einzelne Stärke und einen einzelnen Stil zu laden, lege sie an der Schriftfamilie oder für alle Schriftfamilien mit {3} fest:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

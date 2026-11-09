@@ -1,0 +1,14 @@
+{
+  "hash": "60348793dfc6a7ca",
+  "source": "can be overridden by NUXT_PUBLIC_API_BASE environment variable",
+  "text": "kann durch die Umgebungsvariable NUXT_PUBLIC_API_BASE überschrieben werden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "kann durch die Umgebungsvariable NUXT_PUBLIC_API_BASE überschrieben werden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

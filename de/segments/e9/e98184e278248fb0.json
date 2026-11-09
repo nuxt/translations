@@ -1,0 +1,14 @@
+{
+  "hash": "e98184e278248fb0",
+  "source": "{0} file is the main configuration file for the Nuxt application.",
+  "text": "Die Datei {0} ist die Hauptkonfigurationsdatei der Nuxt-Anwendung.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Datei {0} ist die Hauptkonfigurationsdatei der Nuxt-Anwendung."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "a67283276587971f",
+  "source": "By default the route object returned by the auto-imported {0} composable is kept in sync with the current page in view in {1}. This is not true for {2}'s exported {3} or for the default {4} object available in your Vue templates.",
+  "text": "Standardmäßig wird das Route-Objekt, das vom automatisch importierten Composable {0} zurückgegeben wird, mit der aktuell in {1} angezeigten Seite synchron gehalten. Das gilt nicht für das exportierte {3} von {2} oder für das standardmäßige {4}-Objekt, das in deinen Vue-Vorlagen verfügbar ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardmäßig wird das Route-Objekt, das vom automatisch importierten Composable {0} zurückgegeben wird, mit der aktuell in {1} angezeigten Seite synchron gehalten. Das gilt nicht für das exportierte {3} von {2} oder für das standardmäßige {4}-Objekt, das in deinen Vue-Vorlagen verfügbar ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

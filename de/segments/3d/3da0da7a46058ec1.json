@@ -1,0 +1,14 @@
+{
+  "hash": "3da0da7a46058ec1",
+  "source": "Removal of deprecated {0} values for {1} option when calling {2} in {3} and {4}",
+  "text": "Entfernung der nicht mehr empfohlenen {0}-Werte für die Option {1} beim Aufruf von {2} in {3} und {4}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Entfernung der nicht mehr empfohlenen {0}-Werte für die Option {1} beim Aufruf von {2} in {3} und {4}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

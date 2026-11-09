@@ -1,0 +1,14 @@
+{
+  "hash": "d46817a5dbf8aa48",
+  "source": "Only files at the top level of the directory (or index files within any subdirectories) will be auto-registered as plugins.",
+  "text": "Nur Dateien auf der obersten Ebene des Verzeichnisses (oder index-Dateien in Unterverzeichnissen) werden automatisch als Plugins registriert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nur Dateien auf der obersten Ebene des Verzeichnisses (oder index-Dateien in Unterverzeichnissen) werden automatisch als Plugins registriert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

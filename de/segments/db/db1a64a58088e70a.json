@@ -1,0 +1,14 @@
+{
+  "hash": "db1a64a58088e70a",
+  "source": "Start shell after installation in project directory",
+  "text": "Nach der Installation eine Shell im Projektverzeichnis starten",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nach der Installation eine Shell im Projektverzeichnis starten"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

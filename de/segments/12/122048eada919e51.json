@@ -1,0 +1,14 @@
+{
+  "hash": "122048eada919e51",
+  "source": "Watch Vue School video about extendPages.",
+  "text": "Sieh dir das Vue-School-Video zu extendPages an.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sieh dir das Vue-School-Video zu extendPages an."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

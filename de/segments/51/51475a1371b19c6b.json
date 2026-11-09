@@ -1,0 +1,14 @@
+{
+  "hash": "51475a1371b19c6b",
+  "source": "allow rendering islands from a remote source",
+  "text": "Rendern von Islands aus einer entfernten Quelle erlauben",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Rendern von Islands aus einer entfernten Quelle erlauben"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

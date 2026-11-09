@@ -1,0 +1,14 @@
+{
+  "hash": "3a4eb3840a6d53bc",
+  "source": "{0}: {1} - enable/disable the transition",
+  "text": "{0}: {1} – aktiviert oder deaktiviert den Übergang",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: {1} – aktiviert oder deaktiviert den Übergang"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

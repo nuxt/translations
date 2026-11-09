@@ -1,0 +1,14 @@
+{
+  "hash": "d88c4b403730a099",
+  "source": "Write the client and server bundle analysis as JSON instead of HTML (implies --no-serve)",
+  "text": "Die Analyse des Client- und Server-Bundles als JSON statt als HTML schreiben (impliziert --no-serve)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Analyse des Client- und Server-Bundles als JSON statt als HTML schreiben (impliziert --no-serve)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "c5c9a9ce23c91a2f",
+  "source": "**{0}**: A factory function that returns an object with {1} and/or {2} properties. These properties must be functions that return a Vite plugin instance or an array of Vite plugin instances and/or a webpack plugin instance or an array of webpack plugin instances.",
+  "text": "**{0}**: Eine Factory-Funktion, die ein Objekt mit den Eigenschaften {1} und/oder {2} zurückgibt. Diese Eigenschaften müssen Funktionen sein, die eine Vite-Plugin-Instanz oder ein Array von Vite-Plugin-Instanzen und/oder eine webpack-Plugin-Instanz oder ein Array von webpack-Plugin-Instanzen zurückgeben.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}**: Eine Factory-Funktion, die ein Objekt mit den Eigenschaften {1} und/oder {2} zurückgibt. Diese Eigenschaften müssen Funktionen sein, die eine Vite-Plugin-Instanz oder ein Array von Vite-Plugin-Instanzen und/oder eine webpack-Plugin-Instanz oder ein Array von webpack-Plugin-Instanzen zurückgeben."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b34ae851c7e2ed55",
+  "source": "Words to search the documentation for",
+  "text": "Suchbegriffe, nach denen die Dokumentation durchsucht wird",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Suchbegriffe, nach denen die Dokumentation durchsucht wird"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

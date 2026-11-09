@@ -1,0 +1,14 @@
+{
+  "hash": "8b7e954a47688795",
+  "source": "augment the call-site options for the custom useAsyncData instance 👇",
+  "text": "die Optionen am Aufrufort der benutzerdefinierten useAsyncData-Instanz erweitern 👇",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "die Optionen am Aufrufort der benutzerdefinierten useAsyncData-Instanz erweitern 👇"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

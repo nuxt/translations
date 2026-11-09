@@ -1,0 +1,14 @@
+{
+  "hash": "523865c0aae298ec",
+  "source": "The public/ directory is used to serve your website's static assets.",
+  "text": "Das Verzeichnis public/ stellt die statischen Assets deiner Website bereit.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Verzeichnis public/ stellt die statischen Assets deiner Website bereit."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

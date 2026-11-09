@@ -1,0 +1,14 @@
+{
+  "hash": "31cee7a2eebb6431",
+  "source": "It was possible to throw an error with a {0} property, but this was not parsed. Now, it is parsed and made available in the {1} object. Although a fix, this is technically a breaking change if you were relying on the previous behavior and parsing it manually.",
+  "text": "Es war möglich, einen Fehler mit einer {0}-Eigenschaft auszulösen, diese wurde jedoch nicht ausgewertet. Jetzt wird sie ausgewertet und im {1}-Objekt bereitgestellt. Obwohl es sich um eine Korrektur handelt, ist das technisch gesehen eine inkompatible Änderung, falls du dich auf das bisherige Verhalten verlassen und die Eigenschaft manuell ausgewertet hast.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Es war möglich, einen Fehler mit einer {0}-Eigenschaft auszulösen, diese wurde jedoch nicht ausgewertet. Jetzt wird sie ausgewertet und im {1}-Objekt bereitgestellt. Obwohl es sich um eine Korrektur handelt, ist das technisch gesehen eine inkompatible Änderung, falls du dich auf das bisherige Verhalten verlassen und die Eigenschaft manuell ausgewertet hast."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

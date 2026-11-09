@@ -1,0 +1,14 @@
+{
+  "hash": "a4be34f1d113779a",
+  "source": "It is possible to set environment variables for testing by using the {0} file.",
+  "text": "Du kannst Umgebungsvariablen für Tests mit der Datei {0} festlegen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst Umgebungsvariablen für Tests mit der Datei {0} festlegen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

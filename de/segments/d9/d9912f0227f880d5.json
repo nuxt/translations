@@ -1,0 +1,14 @@
+{
+  "hash": "d9912f0227f880d5",
+  "source": "or, to add a vite plugin to only one environment",
+  "text": "oder, um ein Vite-Plugin nur zu einer Umgebung hinzuzufügen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "oder, um ein Vite-Plugin nur zu einer Umgebung hinzuzufügen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

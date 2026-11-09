@@ -1,0 +1,14 @@
+{
+  "hash": "0dacdfacc6e297ed",
+  "source": "the entry module IDs for style extraction",
+  "text": "die Modul-IDs der Einstiegspunkte für die Style-Extraktion",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "die Modul-IDs der Einstiegspunkte für die Style-Extraktion"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

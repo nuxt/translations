@@ -1,0 +1,14 @@
+{
+  "hash": "9ebf44b3af49cf3a",
+  "source": "Universal Rendering",
+  "text": "Universelles Rendering",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Universelles Rendering"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

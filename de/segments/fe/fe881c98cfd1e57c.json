@@ -1,0 +1,14 @@
+{
+  "hash": "fe881c98cfd1e57c",
+  "source": "Learn more about Nuxt's built-in hooks and how to extend them",
+  "text": "Mehr über die in Nuxt integrierten Hooks erfahren und wie du sie erweiterst",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mehr über die in Nuxt integrierten Hooks erfahren und wie du sie erweiterst"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

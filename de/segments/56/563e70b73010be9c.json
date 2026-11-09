@@ -1,0 +1,14 @@
+{
+  "hash": "563e70b73010be9c",
+  "source": "Node dependencies",
+  "text": "Node-Abhängigkeiten",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Node-Abhängigkeiten"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "67474f6cf61b235a",
+  "source": "Runtime config values are automatically replaced by matching environment variables at runtime",
+  "text": "Werte der Laufzeitkonfiguration werden zur Laufzeit automatisch durch passende Umgebungsvariablen ersetzt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Werte der Laufzeitkonfiguration werden zur Laufzeit automatisch durch passende Umgebungsvariablen ersetzt"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

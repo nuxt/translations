@@ -1,0 +1,14 @@
+{
+  "hash": "bd4985127e4ecec7",
+  "source": "You can now migrate to the Nuxt 3 plugins API, which is slightly different in format from Nuxt 2.",
+  "text": "Du kannst jetzt auf die Plugin-API von Nuxt 3 migrieren, deren Format sich leicht von dem in Nuxt 2 unterscheidet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst jetzt auf die Plugin-API von Nuxt 3 migrieren, deren Format sich leicht von dem in Nuxt 2 unterscheidet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

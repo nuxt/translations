@@ -1,0 +1,14 @@
+{
+  "hash": "6ba7172d594c1af8",
+  "source": "The {0} command removes common generated Nuxt files and caches, including:",
+  "text": "Der Befehl {0} entfernt gängige generierte Nuxt-Dateien und Caches, darunter:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Befehl {0} entfernt gängige generierte Nuxt-Dateien und Caches, darunter:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

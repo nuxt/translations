@@ -1,0 +1,14 @@
+{
+  "hash": "194adcaf71e2f356",
+  "source": "Called after page routes have been augmented with scanned metadata.",
+  "text": "Wird aufgerufen, nachdem die Seitenrouten um gescannte Metadaten ergänzt wurden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird aufgerufen, nachdem die Seitenrouten um gescannte Metadaten ergänzt wurden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

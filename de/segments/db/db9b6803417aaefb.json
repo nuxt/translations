@@ -1,0 +1,14 @@
+{
+  "hash": "db9b6803417aaefb",
+  "source": "Turn on {0} only if you need to ship before you've finished. Then set one switch to {1} at a time and fix what breaks, until you can remove the option.",
+  "text": "Aktiviere {0} nur, wenn du veröffentlichen musst, bevor du fertig bist. Setze dann einen Schalter nach dem anderen auf {1} und behebe, was dabei kaputtgeht, bis du die Option entfernen kannst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Aktiviere {0} nur, wenn du veröffentlichen musst, bevor du fertig bist. Setze dann einen Schalter nach dem anderen auf {1} und behebe, was dabei kaputtgeht, bis du die Option entfernen kannst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

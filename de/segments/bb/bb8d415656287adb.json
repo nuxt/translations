@@ -1,0 +1,14 @@
+{
+  "hash": "bb8d415656287adb",
+  "source": "Value should be either a string or array of strings pointing to source directories or config path relative to current config. You can use {0}, {1} {2} or {3}",
+  "text": "Der Wert sollte entweder ein String oder ein Array von Strings sein, die auf Quellverzeichnisse oder auf Konfigurationspfade relativ zur aktuellen Konfiguration verweisen. Du kannst {0}, {1} {2} oder {3} verwenden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Wert sollte entweder ein String oder ein Array von Strings sein, die auf Quellverzeichnisse oder auf Konfigurationspfade relativ zur aktuellen Konfiguration verweisen. Du kannst {0}, {1} {2} oder {3} verwenden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

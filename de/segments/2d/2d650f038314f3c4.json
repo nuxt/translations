@@ -1,0 +1,14 @@
+{
+  "hash": "2d650f038314f3c4",
+  "source": "The interface above is the shape {0} uses. A module can generate one from an API description, such as an OpenAPI document, with {1} from {2}, and pass the emitted interface to {3}.",
+  "text": "Die obige Schnittstelle hat die Form, die {0} verwendet. Ein Modul kann aus einer API-Beschreibung, etwa einem OpenAPI-Dokument, mit {1} aus {2} eine solche Schnittstelle generieren und die ausgegebene Schnittstelle an {3} übergeben.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die obige Schnittstelle hat die Form, die {0} verwendet. Ein Modul kann aus einer API-Beschreibung, etwa einem OpenAPI-Dokument, mit {1} aus {2} eine solche Schnittstelle generieren und die ausgegebene Schnittstelle an {3} übergeben."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

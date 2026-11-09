@@ -1,0 +1,14 @@
+{
+  "hash": "382c1eea5f5c0c22",
+  "source": "You can also use a function to dynamically determine dependencies based on the Nuxt configuration:",
+  "text": "Du kannst auch eine Funktion verwenden, um Abhängigkeiten dynamisch anhand der Nuxt-Konfiguration zu bestimmen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst auch eine Funktion verwenden, um Abhängigkeiten dynamisch anhand der Nuxt-Konfiguration zu bestimmen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

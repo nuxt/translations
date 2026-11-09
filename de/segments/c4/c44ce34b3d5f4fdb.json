@@ -1,0 +1,14 @@
+{
+  "hash": "c44ce34b3d5f4fdb",
+  "source": "Read more about the **Speculation Rules API**.",
+  "text": "Mehr zur **Speculation Rules API**.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mehr zur **Speculation Rules API**."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

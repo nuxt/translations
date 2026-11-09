@@ -1,0 +1,14 @@
+{
+  "hash": "6f01e10860972430",
+  "source": "{0} is still accepted as another name for {1}. When neither is passed, the {2} and {3} environment variables are used, in that order.",
+  "text": "{0} wird weiterhin als alternativer Name für {1} akzeptiert. Wird keines von beiden übergeben, werden die Umgebungsvariablen {2} und {3} in dieser Reihenfolge verwendet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} wird weiterhin als alternativer Name für {1} akzeptiert. Wird keines von beiden übergeben, werden die Umgebungsvariablen {2} und {3} in dieser Reihenfolge verwendet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

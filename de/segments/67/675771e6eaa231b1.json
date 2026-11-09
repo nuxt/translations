@@ -1,0 +1,14 @@
+{
+  "hash": "675771e6eaa231b1",
+  "source": "Discover the latest releases of Nuxt & Nuxt official modules.",
+  "text": "Entdecke die neuesten Releases von Nuxt und den offiziellen Nuxt-Modulen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Entdecke die neuesten Releases von Nuxt und den offiziellen Nuxt-Modulen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

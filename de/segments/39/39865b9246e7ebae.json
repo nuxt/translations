@@ -1,0 +1,14 @@
+{
+  "hash": "39865b9246e7ebae",
+  "source": "However, be careful with asynchronous behaviors as Nuxt will wait for your module to setup before going to the next module and starting the development server, build process, etc. Prefer deferring time-consuming logic to Nuxt hooks.",
+  "text": "Sei jedoch vorsichtig mit asynchronem Verhalten, da Nuxt wartet, bis dein Modul eingerichtet ist, bevor es mit dem nächsten Modul fortfährt und den Entwicklungsserver, den Erstellungsprozess usw. startet. Verlagere zeitaufwendige Logik besser in Nuxt-Hooks.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sei jedoch vorsichtig mit asynchronem Verhalten, da Nuxt wartet, bis dein Modul eingerichtet ist, bevor es mit dem nächsten Modul fortfährt und den Entwicklungsserver, den Erstellungsprozess usw. startet. Verlagere zeitaufwendige Logik besser in Nuxt-Hooks."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

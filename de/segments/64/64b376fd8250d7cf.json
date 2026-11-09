@@ -1,0 +1,14 @@
+{
+  "hash": "64b376fd8250d7cf",
+  "source": "{0}: website's assets that the build tool (Vite or webpack) will process",
+  "text": "{0}: Assets der Website, die das Build-Tool (Vite oder webpack) verarbeitet",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Assets der Website, die das Build-Tool (Vite oder webpack) verarbeitet"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

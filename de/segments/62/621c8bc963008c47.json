@@ -1,0 +1,14 @@
+{
+  "hash": "621c8bc963008c47",
+  "source": "You can access injected helpers using {0}.",
+  "text": "Auf injizierte Hilfsprogramme kannst du mit {0} zugreifen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auf injizierte Hilfsprogramme kannst du mit {0} zugreifen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

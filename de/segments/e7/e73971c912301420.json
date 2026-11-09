@@ -1,0 +1,14 @@
+{
+  "hash": "e73971c912301420",
+  "source": "hydrate only when scrolled into view",
+  "text": "nur hydratisieren, wenn die Komponente in den sichtbaren Bereich gescrollt wird",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "nur hydratisieren, wenn die Komponente in den sichtbaren Bereich gescrollt wird"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

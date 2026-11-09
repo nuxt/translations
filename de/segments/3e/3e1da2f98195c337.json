@@ -1,0 +1,14 @@
+{
+  "hash": "3e1da2f98195c337",
+  "source": "Overriding view transitions on a per-page basis will only have an effect if you have enabled the {0} option.",
+  "text": "Das Überschreiben von View Transitions pro Seite hat nur dann eine Wirkung, wenn du die Option {0} aktiviert hast.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Überschreiben von View Transitions pro Seite hat nur dann eine Wirkung, wenn du die Option {0} aktiviert hast."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

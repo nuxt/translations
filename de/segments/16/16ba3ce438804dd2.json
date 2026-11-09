@@ -1,0 +1,14 @@
+{
+  "hash": "16ba3ce438804dd2",
+  "source": "Corrected Module Loading Order in Layers",
+  "text": "Korrigierte Lade-Reihenfolge von Modulen in Layern",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Korrigierte Lade-Reihenfolge von Modulen in Layern"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

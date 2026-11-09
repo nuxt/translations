@@ -1,0 +1,14 @@
+{
+  "hash": "dbdcb33c0bd689d3",
+  "source": "instead of process.env you will now access config.public.apiBase",
+  "text": "Anstelle von process.env greifst du jetzt auf config.public.apiBase zu",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Anstelle von process.env greifst du jetzt auf config.public.apiBase zu"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

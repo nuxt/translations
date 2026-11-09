@@ -1,0 +1,14 @@
+{
+  "hash": "a5ea01d84f0b0eaa",
+  "source": "Your setup logic runs after all dependencies are initialized",
+  "text": "Deine Setup-Logik wird ausgeführt, nachdem alle Abhängigkeiten initialisiert wurden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Deine Setup-Logik wird ausgeführt, nachdem alle Abhängigkeiten initialisiert wurden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

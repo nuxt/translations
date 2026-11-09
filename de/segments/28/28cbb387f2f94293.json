@@ -1,0 +1,14 @@
+{
+  "hash": "28cbb387f2f94293",
+  "source": "If you interact with the page, it also captures **Interaction to Next Paint (INP)**, giving you a full view of your Core Web Vitals based on your device and network.",
+  "text": "Wenn du mit der Seite interagierst, erfasst es außerdem **Interaction to Next Paint (INP)**. So erhältst du auf Basis deines Geräts und Netzwerks einen vollständigen Überblick über deine Core Web Vitals.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du mit der Seite interagierst, erfasst es außerdem **Interaction to Next Paint (INP)**. So erhältst du auf Basis deines Geräts und Netzwerks einen vollständigen Überblick über deine Core Web Vitals."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

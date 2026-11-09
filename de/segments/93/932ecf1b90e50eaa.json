@@ -1,0 +1,14 @@
+{
+  "hash": "932ecf1b90e50eaa",
+  "source": "If set to {0}, applies middleware to all routes.",
+  "text": "Wenn auf {0} gesetzt, wird die Middleware auf alle Routen angewendet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn auf {0} gesetzt, wird die Middleware auf alle Routen angewendet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

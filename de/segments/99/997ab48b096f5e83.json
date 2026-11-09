@@ -1,0 +1,14 @@
+{
+  "hash": "997ab48b096f5e83",
+  "source": "Server Bundle Size with {0}",
+  "text": "Größe des Server-Bundles mit {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Größe des Server-Bundles mit {0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

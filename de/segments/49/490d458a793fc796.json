@@ -1,0 +1,14 @@
+{
+  "hash": "490d458a793fc796",
+  "source": "Called before SSR redirection.",
+  "text": "Wird vor der SSR-Weiterleitung aufgerufen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird vor der SSR-Weiterleitung aufgerufen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

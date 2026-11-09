@@ -1,0 +1,14 @@
+{
+  "hash": "ba04f85359e7fd0b",
+  "source": "Server Components",
+  "text": "Server-Komponenten",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Server-Komponenten"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

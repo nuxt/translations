@@ -1,0 +1,14 @@
+{
+  "hash": "d94c628952ceff07",
+  "source": "Linking to a Cross-App URL",
+  "text": "Auf eine URL einer anderen Anwendung verlinken",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auf eine URL einer anderen Anwendung verlinken"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

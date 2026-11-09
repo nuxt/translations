@@ -1,0 +1,14 @@
+{
+  "hash": "b7c37be93e88a77f",
+  "source": "Standalone Server",
+  "text": "Eigenständiger Server",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eigenständiger Server"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

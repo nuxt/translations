@@ -1,0 +1,14 @@
+{
+  "hash": "0d3b074591d8cd5f",
+  "source": "{0} is relative to {1} in Vite builds",
+  "text": "{0} ist in Vite-Builds relativ zu {1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ist in Vite-Builds relativ zu {1}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

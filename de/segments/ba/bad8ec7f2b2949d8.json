@@ -1,0 +1,14 @@
+{
+  "hash": "bad8ec7f2b2949d8",
+  "source": "Then, reinstall your dependencies:",
+  "text": "Installiere anschließend deine Abhängigkeiten erneut:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Installiere anschließend deine Abhängigkeiten erneut:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

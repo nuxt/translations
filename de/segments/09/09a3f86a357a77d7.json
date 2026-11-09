@@ -1,0 +1,14 @@
+{
+  "hash": "09a3f86a357a77d7",
+  "source": "This feature is fully configurable and you can revert to the previous behavior by setting {0} to inline global CSS as well as per-component CSS.",
+  "text": "Dieses Feature ist vollständig konfigurierbar. Du kannst zum bisherigen Verhalten zurückkehren, indem du {0} setzt, sodass sowohl globales CSS als auch CSS pro Komponente inline eingebunden wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dieses Feature ist vollständig konfigurierbar. Du kannst zum bisherigen Verhalten zurückkehren, indem du {0} setzt, sodass sowohl globales CSS als auch CSS pro Komponente inline eingebunden wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

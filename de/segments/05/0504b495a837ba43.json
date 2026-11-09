@@ -1,0 +1,14 @@
+{
+  "hash": "0504b495a837ba43",
+  "source": "In Nuxt 2, the {0} component is used within a layout to render the current page. In Nuxt 3, layouts use slots instead, so you will have to replace that component with a {1}. This also allows advanced use cases with named and scoped slots. {2}Read more about layouts{/2}.",
+  "text": "In Nuxt 2 wird die Komponente {0} innerhalb eines Layouts verwendet, um die aktuelle Seite zu rendern. In Nuxt 3 verwenden Layouts stattdessen Slots, daher musst du diese Komponente durch {1} ersetzen. Das ermöglicht auch fortgeschrittene Anwendungsfälle mit benannten Slots und Scoped Slots. {2}Mehr über Layouts erfährst du hier{/2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In Nuxt 2 wird die Komponente {0} innerhalb eines Layouts verwendet, um die aktuelle Seite zu rendern. In Nuxt 3 verwenden Layouts stattdessen Slots, daher musst du diese Komponente durch {1} ersetzen. Das ermöglicht auch fortgeschrittene Anwendungsfälle mit benannten Slots und Scoped Slots. {2}Mehr über Layouts erfährst du hier{/2}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

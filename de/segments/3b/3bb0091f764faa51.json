@@ -1,0 +1,14 @@
+{
+  "hash": "3bb0091f764faa51",
+  "source": "this component will only be rendered during development",
+  "text": "Diese Komponente wird nur während der Entwicklung gerendert",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese Komponente wird nur während der Entwicklung gerendert"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

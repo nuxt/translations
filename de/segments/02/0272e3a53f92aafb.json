@@ -1,0 +1,14 @@
+{
+  "hash": "0272e3a53f92aafb",
+  "source": "Prerendering",
+  "text": "Vorab-Rendering",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vorab-Rendering"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "73f363dfecb2cfb6",
+  "source": "If needed, you can opt out of this behavior using {0}:",
+  "text": "Bei Bedarf kannst du dieses Verhalten mit {0} deaktivieren:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bei Bedarf kannst du dieses Verhalten mit {0} deaktivieren:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

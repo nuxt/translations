@@ -1,0 +1,14 @@
+{
+  "hash": "a9c3e633c5f7e88b",
+  "source": "App Directory",
+  "text": "App-Verzeichnis",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "App-Verzeichnis"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

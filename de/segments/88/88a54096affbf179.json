@@ -1,0 +1,14 @@
+{
+  "hash": "88a54096affbf179",
+  "source": "only pick the fields used in your template",
+  "text": "nur die Felder auswählen, die in deiner Vorlage verwendet werden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "nur die Felder auswählen, die in deiner Vorlage verwendet werden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

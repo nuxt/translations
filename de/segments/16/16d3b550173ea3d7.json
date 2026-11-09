@@ -1,0 +1,14 @@
+{
+  "hash": "16d3b550173ea3d7",
+  "source": "Directory the configuration was loaded from.",
+  "text": "Verzeichnis, aus dem die Konfiguration geladen wurde.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verzeichnis, aus dem die Konfiguration geladen wurde."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

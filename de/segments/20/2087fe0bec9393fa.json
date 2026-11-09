@@ -1,0 +1,14 @@
+{
+  "hash": "2087fe0bec9393fa",
+  "source": "Of course, you are welcome to define metadata for your own use throughout your app. But some metadata defined with {0} has a particular purpose:",
+  "text": "Natürlich kannst du Metadaten für eigene Zwecke in deiner App definieren. Einige mit {0} definierte Metadaten haben jedoch einen besonderen Zweck:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Natürlich kannst du Metadaten für eigene Zwecke in deiner App definieren. Einige mit {0} definierte Metadaten haben jedoch einen besonderen Zweck:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "224b9e2cb27f14f2",
+  "source": "If you want to use Vue plugins, like {0}vue-gtag{/0} to add Google Analytics tags, you can use a Nuxt plugin to do so.",
+  "text": "Wenn du Vue-Plugins wie {0}vue-gtag{/0} verwenden möchtest, um Google-Analytics-Tags hinzuzufügen, kannst du dafür ein Nuxt-Plugin nutzen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du Vue-Plugins wie {0}vue-gtag{/0} verwenden möchtest, um Google-Analytics-Tags hinzuzufügen, kannst du dafür ein Nuxt-Plugin nutzen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

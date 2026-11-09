@@ -1,0 +1,14 @@
+{
+  "hash": "16dcaa923f16b449",
+  "source": "Returns",
+  "text": "Rückgabewerte",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Rückgabewerte"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "9873ea282b8c0834",
+  "source": "Because count might start out null, you won't have access",
+  "text": "Da count zunächst null sein kann, hast du nicht sofort Zugriff",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Da count zunächst null sein kann, hast du nicht sofort Zugriff"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

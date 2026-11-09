@@ -1,0 +1,14 @@
+{
+  "hash": "232798c4fcdbbf50",
+  "source": "Set {0} explicitly to go back to a single weight:",
+  "text": "Setze {0} explizit, um wieder nur ein einzelnes Gewicht zu verwenden:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Setze {0} explizit, um wieder nur ein einzelnes Gewicht zu verwenden:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

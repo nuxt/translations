@@ -1,0 +1,14 @@
+{
+  "hash": "85f407da8e9fea10",
+  "source": "the client manifest the renderer renders against",
+  "text": "das Client-Manifest, gegen das der Renderer rendert",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "das Client-Manifest, gegen das der Renderer rendert"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

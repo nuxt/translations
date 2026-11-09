@@ -1,0 +1,14 @@
+{
+  "hash": "c4b848aa5054135e",
+  "source": "Runtime Context vs. Build Context",
+  "text": "Laufzeitkontext vs. Build-Kontext",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Laufzeitkontext vs. Build-Kontext"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

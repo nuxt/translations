@@ -1,0 +1,14 @@
+{
+  "hash": "e93bdf6adf1cf3da",
+  "source": "The {0} composable uses {1} under-the-hood to make SSR-safe network calls in the setup function.",
+  "text": "Das Composable {0} verwendet intern {1}, um SSR-sichere Netzwerkaufrufe in der Setup-Funktion auszuführen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Composable {0} verwendet intern {1}, um SSR-sichere Netzwerkaufrufe in der Setup-Funktion auszuführen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

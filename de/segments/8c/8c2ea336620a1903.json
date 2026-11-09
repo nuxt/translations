@@ -1,0 +1,14 @@
+{
+  "hash": "8c2ea336620a1903",
+  "source": "**CommonJS interop behavior** has changed. If you import CJS modules, review the {0}Vite 8 migration guide{/0} for details.",
+  "text": "Das **CommonJS-Interop-Verhalten** hat sich geändert. Wenn du CJS-Module importierst, findest du Details in der {0}Migrationsanleitung für Vite 8{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das **CommonJS-Interop-Verhalten** hat sich geändert. Wenn du CJS-Module importierst, findest du Details in der {0}Migrationsanleitung für Vite 8{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

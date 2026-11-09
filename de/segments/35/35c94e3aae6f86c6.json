@@ -1,0 +1,14 @@
+{
+  "hash": "35c94e3aae6f86c6",
+  "source": "If your Vitest browser mode tests live outside {0} (such as in {1}), see {2}Adding other test directories{/2} to add them to the TypeScript context.",
+  "text": "Wenn deine Vitest-Browser-Modus-Tests außerhalb von {0} liegen (zum Beispiel in {1}), findest du unter {2}Weitere Testverzeichnisse hinzufügen{/2}, wie du sie zum TypeScript-Kontext hinzufügst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn deine Vitest-Browser-Modus-Tests außerhalb von {0} liegen (zum Beispiel in {1}), findest du unter {2}Weitere Testverzeichnisse hinzufügen{/2}, wie du sie zum TypeScript-Kontext hinzufügst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "bf86433f37f9d7f2",
+  "source": "TODO: Fetch some stats based on the user",
+  "text": "TODO: Statistiken auf Basis der nutzenden Person abrufen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "TODO: Statistiken auf Basis der nutzenden Person abrufen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

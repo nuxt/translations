@@ -1,0 +1,14 @@
+{
+  "hash": "e7345201f61ef622",
+  "source": "Contributions should reflect your own reasoning and problem-solving",
+  "text": "Beiträge sollten dein eigenes Denken und deine eigene Problemlösung widerspiegeln",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Beiträge sollten dein eigenes Denken und deine eigene Problemlösung widerspiegeln"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

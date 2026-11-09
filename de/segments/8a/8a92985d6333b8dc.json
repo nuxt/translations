@@ -1,0 +1,14 @@
+{
+  "hash": "8a92985d6333b8dc",
+  "source": "If set to {0}, the plugin will be prepended to the array with {1} instead of {2}.",
+  "text": "Bei {0} wird das Plugin mit {1} statt mit {2} an den Anfang des Arrays gestellt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bei {0} wird das Plugin mit {1} statt mit {2} an den Anfang des Arrays gestellt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

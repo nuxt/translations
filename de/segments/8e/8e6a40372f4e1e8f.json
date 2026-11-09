@@ -1,0 +1,14 @@
+{
+  "hash": "8e6a40372f4e1e8f",
+  "source": "Access plugin injections",
+  "text": "Auf plugin-Injektionen zugreifen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auf plugin-Injektionen zugreifen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

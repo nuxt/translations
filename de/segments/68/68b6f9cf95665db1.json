@@ -1,0 +1,14 @@
+{
+  "hash": "68b6f9cf95665db1",
+  "source": "Update Runtime Config",
+  "text": "Laufzeitkonfiguration aktualisieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Laufzeitkonfiguration aktualisieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

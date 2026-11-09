@@ -1,0 +1,14 @@
+{
+  "hash": "9b03e707ca31b520",
+  "source": "TS Signature",
+  "text": "TS-Signatur",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "TS-Signatur"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

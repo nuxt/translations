@@ -1,0 +1,14 @@
+{
+  "hash": "3abc81c64b85e104",
+  "source": "You can also pass an object with {0} and {1} to pass typed props to your layout component. When your layout defines props with {2}, they will be fully typed in {3}.",
+  "text": "Du kannst auch ein Objekt mit {0} und {1} übergeben, um typisierte Props an deine Layout-Komponente weiterzugeben. Wenn dein Layout Props mit {2} definiert, sind sie in {3} vollständig typisiert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst auch ein Objekt mit {0} und {1} übergeben, um typisierte Props an deine Layout-Komponente weiterzugeben. Wenn dein Layout Props mit {2} definiert, sind sie in {3} vollständig typisiert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

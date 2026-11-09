@@ -1,0 +1,14 @@
+{
+  "hash": "296609699b234828",
+  "source": "{0}: The color of the loading bar. It can be set to {1} to turn off explicit color styling.",
+  "text": "{0}: Die Farbe des Ladebalkens. Mit {1} kannst du die explizite Farbgestaltung deaktivieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Die Farbe des Ladebalkens. Mit {1} kannst du die explizite Farbgestaltung deaktivieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

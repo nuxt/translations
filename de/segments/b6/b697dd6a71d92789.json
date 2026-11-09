@@ -1,0 +1,14 @@
+{
+  "hash": "b697dd6a71d92789",
+  "source": "Use Cases",
+  "text": "Anwendungsfälle",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Anwendungsfälle"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

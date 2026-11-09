@@ -1,0 +1,14 @@
+{
+  "hash": "292fd1d16c81cbda",
+  "source": "Shows something like \"5 minutes ago\"",
+  "text": "Zeigt etwa „vor 5 Minuten“ an",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Zeigt etwa „vor 5 Minuten“ an"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

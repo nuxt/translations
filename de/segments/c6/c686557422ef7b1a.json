@@ -1,0 +1,14 @@
+{
+  "hash": "c686557422ef7b1a",
+  "source": "Prefer named exports rather than default export. This helps reduce CJS conflicts. (see {0}Default exports{/0} section)",
+  "text": "Verwende benannte Exporte statt eines Default-Exports. Das hilft, CJS-Konflikte zu reduzieren. (siehe Abschnitt {0}Default-Exporte{/0})",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwende benannte Exporte statt eines Default-Exports. Das hilft, CJS-Konflikte zu reduzieren. (siehe Abschnitt {0}Default-Exporte{/0})"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

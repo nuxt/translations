@@ -1,0 +1,14 @@
+{
+  "hash": "0a69eb7310d168fa",
+  "source": "It can reduce INP when navigating on prerendered routes.",
+  "text": "Das kann den INP bei der Navigation auf vorab gerenderten Routen verringern.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das kann den INP bei der Navigation auf vorab gerenderten Routen verringern."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

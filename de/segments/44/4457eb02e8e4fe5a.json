@@ -1,0 +1,14 @@
+{
+  "hash": "4457eb02e8e4fe5a",
+  "source": "If you have an already published and working module, and want to transfer it to {0}, {1}open an issue in nuxt/modules{/1}.",
+  "text": "Wenn du bereits ein veröffentlichtes, funktionierendes Modul hast und es zu {0} übertragen möchtest, {1}öffne ein Issue in nuxt/modules{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du bereits ein veröffentlichtes, funktionierendes Modul hast und es zu {0} übertragen möchtest, {1}öffne ein Issue in nuxt/modules{/1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "2ac1c6ccfd20d27e",
+  "source": "This is true even if you throw an error in your middleware on the server, and an error page is rendered. The middleware will still run again in the browser.",
+  "text": "Das gilt auch dann, wenn du in deiner Middleware auf dem Server einen Fehler auslöst und eine Fehlerseite gerendert wird. Die Middleware wird im Browser trotzdem erneut ausgeführt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das gilt auch dann, wenn du in deiner Middleware auf dem Server einen Fehler auslöst und eine Fehlerseite gerendert wird. Die Middleware wird im Browser trotzdem erneut ausgeführt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

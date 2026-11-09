@@ -1,0 +1,14 @@
+{
+  "hash": "98b11cfd8c70e82e",
+  "source": "Authoring a builder is an advanced topic. Most apps never need a custom builder; if you only want to influence the bundle, a {0}module{/0} that registers bundler plugins is usually the right tool.",
+  "text": "Einen Builder zu entwickeln ist ein fortgeschrittenes Thema. Die meisten Apps brauchen keinen eigenen Builder; wenn du nur das Bundle beeinflussen möchtest, ist ein {0}Modul{/0}, das Bundler-Plugins registriert, in der Regel das richtige Werkzeug.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Einen Builder zu entwickeln ist ein fortgeschrittenes Thema. Die meisten Apps brauchen keinen eigenen Builder; wenn du nur das Bundle beeinflussen möchtest, ist ein {0}Modul{/0}, das Bundler-Plugins registriert, in der Regel das richtige Werkzeug."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

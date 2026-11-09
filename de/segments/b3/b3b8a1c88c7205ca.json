@@ -1,0 +1,14 @@
+{
+  "hash": "b3b8a1c88c7205ca",
+  "source": "In addition, named layer aliases to the {0} of each of these layers will automatically be created. For example, you will be able to access the {1} layer via {2}.",
+  "text": "Zusätzlich werden benannte Layer-Aliase für das Verzeichnis {0} jedes dieser Layers automatisch erstellt. So kannst du beispielsweise über {2} auf den Layer {1} zugreifen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Zusätzlich werden benannte Layer-Aliase für das Verzeichnis {0} jedes dieser Layers automatisch erstellt. So kannst du beispielsweise über {2} auf den Layer {1} zugreifen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b9cd0b0804a9781a",
+  "source": "Remove {0} and {1}: Nuxt 2 has built-in runtime support",
+  "text": "{0} und {1} entfernen: Nuxt 2 bietet integrierte Runtime-Unterstützung",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} und {1} entfernen: Nuxt 2 bietet integrierte Runtime-Unterstützung"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

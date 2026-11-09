@@ -1,0 +1,14 @@
+{
+  "hash": "5bf81d214b6ffc61",
+  "source": "This page correctly has only one single root element",
+  "text": "Diese Seite hat korrekterweise nur ein einziges Wurzelelement",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese Seite hat korrekterweise nur ein einziges Wurzelelement"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

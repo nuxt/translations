@@ -1,0 +1,14 @@
+{
+  "hash": "db9631b89876b8bf",
+  "source": "By default both fallbacks are empty shells. Set {0} to server-render your {1} into {2} at build time.",
+  "text": "Standardmäßig sind beide Fallbacks leere Hüllen. Setze {0}, um deine {1} zur Build-Zeit serverseitig nach {2} zu rendern.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardmäßig sind beide Fallbacks leere Hüllen. Setze {0}, um deine {1} zur Build-Zeit serverseitig nach {2} zu rendern."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

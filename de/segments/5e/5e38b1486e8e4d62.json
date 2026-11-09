@@ -1,0 +1,14 @@
+{
+  "hash": "5e38b1486e8e4d62",
+  "source": "Now you can generate your site and serve it:",
+  "text": "Jetzt kannst du deine Website generieren und bereitstellen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Jetzt kannst du deine Website generieren und bereitstellen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "93a26e2029afea48",
+  "source": "Refer to the {0}documentation{/0} for more detailed information on the **windowFeatures** properties.",
+  "text": "Weitere Informationen zu den **windowFeatures**-Eigenschaften findest du in der {0}Dokumentation{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Weitere Informationen zu den **windowFeatures**-Eigenschaften findest du in der {0}Dokumentation{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

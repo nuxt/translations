@@ -1,0 +1,14 @@
+{
+  "hash": "f58e95adcd08d69d",
+  "source": "**See**: {0}Nitro route rules documentation{/0}",
+  "text": "**Siehe**: {0}Dokumentation zu Nitro-Routenregeln{/0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Siehe**: {0}Dokumentation zu Nitro-Routenregeln{/0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "1efa3e8b834cb03a",
+  "source": "Resolves the app builder and calls {0}. **This is where your app builder runs.**",
+  "text": "Es löst den App-Builder auf und ruft {0} auf. **Hier läuft dein App-Builder.**",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Es löst den App-Builder auf und ruft {0} auf. **Hier läuft dein App-Builder.**"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

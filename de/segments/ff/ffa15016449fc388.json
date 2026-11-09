@@ -1,0 +1,14 @@
+{
+  "hash": "ffa15016449fc388",
+  "source": "Once you've made a pull request, we'll do our best to review it promptly.",
+  "text": "Sobald du einen Pull Request erstellt hast, bemühen wir uns, ihn zeitnah zu prüfen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sobald du einen Pull Request erstellt hast, bemühen wir uns, ihn zeitnah zu prüfen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

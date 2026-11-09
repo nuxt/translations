@@ -1,0 +1,14 @@
+{
+  "hash": "8027c73e0d06b02d",
+  "source": "Subsetting modifies the font files you ship. Check that the licence of each font allows it.",
+  "text": "Das Erstellen von Subsets verändert die Schriftdateien, die du auslieferst. Prüfe, ob die Lizenz der jeweiligen Schrift das erlaubt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Erstellen von Subsets verändert die Schriftdateien, die du auslieferst. Prüfe, ob die Lizenz der jeweiligen Schrift das erlaubt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

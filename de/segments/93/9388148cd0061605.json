@@ -1,0 +1,14 @@
+{
+  "hash": "9388148cd0061605",
+  "source": "In addition, Nuxt provides a {0} hook that will be called if any errors propagate up to the top level.",
+  "text": "Zusätzlich stellt Nuxt einen {0}-Hook bereit, der aufgerufen wird, wenn Fehler bis zur obersten Ebene weitergereicht werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Zusätzlich stellt Nuxt einen {0}-Hook bereit, der aufgerufen wird, wenn Fehler bis zur obersten Ebene weitergereicht werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

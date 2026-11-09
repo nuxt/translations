@@ -1,0 +1,14 @@
+{
+  "hash": "7ee5edb838d11b21",
+  "source": "Due to the lack of support for virtual {0} files by {1}, you can work around this limitation by passing {2} to the first argument of {3}.",
+  "text": "Da {1} virtuelle {0}-Dateien nicht unterstützt, kannst du diese Einschränkung umgehen, indem du {2} als erstes Argument von {3} übergibst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Da {1} virtuelle {0}-Dateien nicht unterstützt, kannst du diese Einschränkung umgehen, indem du {2} als erstes Argument von {3} übergibst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

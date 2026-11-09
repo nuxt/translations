@@ -1,0 +1,14 @@
+{
+  "hash": "dd27e3267ab3f473",
+  "source": "Configurable cache",
+  "text": "Konfigurierbarer Cache",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Konfigurierbarer Cache"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

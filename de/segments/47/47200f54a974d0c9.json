@@ -1,0 +1,14 @@
+{
+  "hash": "47200f54a974d0c9",
+  "source": "{0}: Whether to run a separate build step.",
+  "text": "{0}: Gibt an, ob ein separater Build-Schritt ausgeführt werden soll.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Gibt an, ob ein separater Build-Schritt ausgeführt werden soll."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

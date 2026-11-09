@@ -1,0 +1,14 @@
+{
+  "hash": "4ed6c832a59cc37f",
+  "source": "{0}: An option to either add or remove trailing slashes in the {1}. If unset or not matching the valid values {2} or {3}, it will be ignored.",
+  "text": "{0}: Eine Option, um abschließende Schrägstriche im {1} entweder hinzuzufügen oder zu entfernen. Wenn sie nicht gesetzt ist oder nicht den gültigen Werten {2} oder {3} entspricht, wird sie ignoriert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Eine Option, um abschließende Schrägstriche im {1} entweder hinzuzufügen oder zu entfernen. Wenn sie nicht gesetzt ist oder nicht den gültigen Werten {2} oder {3} entspricht, wird sie ignoriert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

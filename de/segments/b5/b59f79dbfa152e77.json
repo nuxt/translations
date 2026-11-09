@@ -1,0 +1,14 @@
+{
+  "hash": "b59f79dbfa152e77",
+  "source": "Accessibility",
+  "text": "Barrierefreiheit",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Barrierefreiheit"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "6f973530bef93a1e",
+  "source": "Component props and context are sent as GET query parameters to enable caching. Query parameters may be visible in server access logs, CDN caches, and HTTP {0} headers.",
+  "text": "Props und Kontext der Komponente werden als GET-Query-Parameter gesendet, um Caching zu ermöglichen. Query-Parameter können in Zugriffsprotokollen des Servers, in CDN-Caches und in den HTTP-{0}-Headern sichtbar sein.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Props und Kontext der Komponente werden als GET-Query-Parameter gesendet, um Caching zu ermöglichen. Query-Parameter können in Zugriffsprotokollen des Servers, in CDN-Caches und in den HTTP-{0}-Headern sichtbar sein."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "58715c947e187f1b",
+  "source": "When we call {0} in the browser, user headers like {1} will be directly sent to the API.",
+  "text": "Wenn wir {0} im Browser aufrufen, werden Header der Nutzenden wie {1} direkt an die API gesendet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn wir {0} im Browser aufrufen, werden Header der Nutzenden wie {1} direkt an die API gesendet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

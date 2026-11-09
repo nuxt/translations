@@ -1,0 +1,14 @@
+{
+  "hash": "37bc622ea06c93a1",
+  "source": "{0} exposes data and state variables from server side to client side. The following keys will be available on the client after they have been passed from the server side:",
+  "text": "{0} stellt Daten und Zustandsvariablen von der Serverseite für die Clientseite bereit. Die folgenden Schlüssel stehen auf dem Client zur Verfügung, nachdem sie von der Serverseite übergeben wurden:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} stellt Daten und Zustandsvariablen von der Serverseite für die Clientseite bereit. Die folgenden Schlüssel stehen auf dem Client zur Verfügung, nachdem sie von der Serverseite übergeben wurden:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

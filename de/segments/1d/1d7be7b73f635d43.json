@@ -1,0 +1,14 @@
+{
+  "hash": "1d7be7b73f635d43",
+  "source": "To use a variable font, refer to it by its plain family name and request a weight range. The variable version of a family doesn't have a separate name, so {0} resolves to a variable font from any provider that has one:",
+  "text": "Um eine variable Schriftart zu verwenden, verweise auf sie über ihren einfachen Familiennamen und fordere einen Schriftstärkenbereich an. Die variable Version einer Schriftfamilie hat keinen eigenen Namen, daher wird {0} bei jedem Provider, der eine variable Version anbietet, zu einer variablen Schriftart aufgelöst:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um eine variable Schriftart zu verwenden, verweise auf sie über ihren einfachen Familiennamen und fordere einen Schriftstärkenbereich an. Die variable Version einer Schriftfamilie hat keinen eigenen Namen, daher wird {0} bei jedem Provider, der eine variable Version anbietet, zu einer variablen Schriftart aufgelöst:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "f06bb44b0aaf9846",
+  "source": "These areas mean reaching outside {0}, because Nuxt can't provide them for every builder:",
+  "text": "In diesen Bereichen musst du auf {0} zurückgreifen, weil Nuxt sie nicht für jeden Builder bereitstellen kann:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In diesen Bereichen musst du auf {0} zurückgreifen, weil Nuxt sie nicht für jeden Builder bereitstellen kann:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

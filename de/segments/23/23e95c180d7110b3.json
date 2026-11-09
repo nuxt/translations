@@ -1,0 +1,14 @@
+{
+  "hash": "23e95c180d7110b3",
+  "source": "Rename any pages with dynamic parameters to match the new format.",
+  "text": "Benenne alle Seiten mit dynamischen Parametern passend zum neuen Format um.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Benenne alle Seiten mit dynamischen Parametern passend zum neuen Format um."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

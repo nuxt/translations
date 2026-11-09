@@ -1,0 +1,14 @@
+{
+  "hash": "308902e664eee253",
+  "source": "Plugins added with {0} apply to the app's environments ({1} and {2}), never to the {3} environment, even if their {4} accepts it. To transform server code when {5}Nitro builds as a Vite environment{/5}, add the plugin to {6} with {7}.",
+  "text": "Mit {0} hinzugefügte plugins gelten für die Umgebungen der App ({1} und {2}), nie für die Umgebung {3} – auch dann nicht, wenn ihr {4} sie akzeptiert. Um Servercode zu transformieren, wenn {5}Nitro als Vite-Umgebung erzeugt wird{/5}, füge das plugin mit {7} zu {6} hinzu.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit {0} hinzugefügte plugins gelten für die Umgebungen der App ({1} und {2}), nie für die Umgebung {3} – auch dann nicht, wenn ihr {4} sie akzeptiert. Um Servercode zu transformieren, wenn {5}Nitro als Vite-Umgebung erzeugt wird{/5}, füge das plugin mit {7} zu {6} hinzu."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

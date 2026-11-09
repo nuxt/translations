@@ -1,0 +1,14 @@
+{
+  "hash": "1887043ebec5c919",
+  "source": "Populated during vite build",
+  "text": "Wird während des Vite-Builds befüllt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird während des Vite-Builds befüllt"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

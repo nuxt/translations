@@ -1,0 +1,14 @@
+{
+  "hash": "12689977a5742201",
+  "source": "Nuxt MCP Server",
+  "text": "Nuxt-MCP-Server",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt-MCP-Server"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

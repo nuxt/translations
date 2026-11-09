@@ -1,0 +1,14 @@
+{
+  "hash": "57f68330f1033115",
+  "source": "Usage with Pages",
+  "text": "Verwendung mit Seiten",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwendung mit Seiten"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

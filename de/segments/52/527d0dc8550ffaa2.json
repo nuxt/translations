@@ -1,0 +1,14 @@
+{
+  "hash": "527d0dc8550ffaa2",
+  "source": "Add Composables",
+  "text": "Composables hinzufügen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Composables hinzufügen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

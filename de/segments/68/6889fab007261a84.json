@@ -1,0 +1,14 @@
+{
+  "hash": "6889fab007261a84",
+  "source": "You can now point the font cache at a directory of your choice, pass your own {0}unstorage{/0} instance, or disable persistent caching with {1}.",
+  "text": "Du kannst den Schrift-Cache jetzt auf ein Verzeichnis deiner Wahl legen, eine eigene {0}unstorage{/0}-Instanz übergeben oder das persistente Caching mit {1} deaktivieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst den Schrift-Cache jetzt auf ein Verzeichnis deiner Wahl legen, eine eigene {0}unstorage{/0}-Instanz übergeben oder das persistente Caching mit {1} deaktivieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "ae44dd4e9da81598",
+  "source": "Type \"Preferences: Open Workspace Settings (JSON)\" and select it",
+  "text": "Gib „Preferences: Open Workspace Settings (JSON)“ ein und wähle den Eintrag aus",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gib „Preferences: Open Workspace Settings (JSON)“ ein und wähle den Eintrag aus"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "77e7c9acd76cc6ef",
+  "source": "The {0} slot will receive {1} as a prop. (If you set {2} it will trigger re-rendering the default slot; you'll need to ensure that the error is fully resolved first or the error slot will just be rendered a second time.)",
+  "text": "Der Slot {0} erhält {1} als Prop. (Wenn du {2} setzt, wird der Default-Slot erneut gerendert. Du musst daher zuerst sicherstellen, dass der Fehler vollständig behoben ist, sonst wird der Error-Slot einfach ein zweites Mal gerendert.)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Slot {0} erhält {1} als Prop. (Wenn du {2} setzt, wird der Default-Slot erneut gerendert. Du musst daher zuerst sicherstellen, dass der Fehler vollständig behoben ist, sonst wird der Error-Slot einfach ein zweites Mal gerendert.)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

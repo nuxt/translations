@@ -1,0 +1,14 @@
+{
+  "hash": "8a47c36589187d73",
+  "source": "Remove {0} from your configuration:",
+  "text": "Entferne {0} aus deiner Konfiguration:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Entferne {0} aus deiner Konfiguration:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

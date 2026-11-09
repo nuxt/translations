@@ -1,0 +1,14 @@
+{
+  "hash": "9dddd0e9ddd47724",
+  "source": "Package Manager",
+  "text": "Paketmanager",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Paketmanager"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

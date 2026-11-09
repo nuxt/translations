@@ -1,0 +1,14 @@
+{
+  "hash": "8a6aac54a257ba88",
+  "source": "You can pass Nuxt-specific options to a {0} project with {1}:",
+  "text": "Du kannst einem {0}-Projekt mit {1} Nuxt-spezifische Optionen übergeben:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst einem {0}-Projekt mit {1} Nuxt-spezifische Optionen übergeben:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

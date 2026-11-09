@@ -1,0 +1,14 @@
+{
+  "hash": "6fd58246d76e3eac",
+  "source": "For more information, see the {0}Route Validation documentation{/0}.",
+  "text": "Weitere Informationen findest du in der {0}Dokumentation zur Routenvalidierung{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Weitere Informationen findest du in der {0}Dokumentation zur Routenvalidierung{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

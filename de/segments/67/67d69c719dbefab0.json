@@ -1,0 +1,14 @@
+{
+  "hash": "67d69c719dbefab0",
+  "source": "{0}, {1} and {2} are Vue refs accessible with {3} in {4}",
+  "text": "{0}, {1} und {2} sind Vue-Refs, auf die du in {4} mit {3} zugreifen kannst",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}, {1} und {2} sind Vue-Refs, auf die du in {4} mit {3} zugreifen kannst"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "f02a0a7955b8a09d",
+  "source": "other static meta tags...",
+  "text": "weitere statische Meta-Tags ...",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "weitere statische Meta-Tags ..."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

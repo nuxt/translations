@@ -1,0 +1,14 @@
+{
+  "hash": "08ac6c76c6ea3663",
+  "source": "Render components only during development with the <DevOnly> component.",
+  "text": "Rendere Komponenten nur während der Entwicklung mit der Komponente <DevOnly>.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Rendere Komponenten nur während der Entwicklung mit der Komponente <DevOnly>."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

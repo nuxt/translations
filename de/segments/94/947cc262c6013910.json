@@ -1,0 +1,14 @@
+{
+  "hash": "947cc262c6013910",
+  "source": "Nuxt executes all global middleware on the initial page load (both on server and client) and then again before any client-side navigation. Named and anonymous middleware are executed only on the routes specified in the middleware property of the page(route) meta defined in the corresponding page components.",
+  "text": "Nuxt führt alle globalen Middleware beim initialen Laden der Seite aus (sowohl auf dem Server als auch auf dem Client) und anschließend erneut vor jeder clientseitigen Navigation. Benannte und anonyme Middleware werden nur auf den Routen ausgeführt, die in der Eigenschaft middleware der Seiten-(Routen-)Meta in den zugehörigen Seitenkomponenten angegeben sind.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt führt alle globalen Middleware beim initialen Laden der Seite aus (sowohl auf dem Server als auch auf dem Client) und anschließend erneut vor jeder clientseitigen Navigation. Benannte und anonyme Middleware werden nur auf den Routen ausgeführt, die in der Eigenschaft middleware der Seiten-(Routen-)Meta in den zugehörigen Seitenkomponenten angegeben sind."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "167e2f1ac4ee17ee",
+  "source": "Set the {0} property in route rules.",
+  "text": "Setze die Eigenschaft {0} in den Route-Rules.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Setze die Eigenschaft {0} in den Route-Rules."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

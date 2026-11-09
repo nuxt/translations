@@ -1,0 +1,14 @@
+{
+  "hash": "28f135ef7fc63b5e",
+  "source": "Skip module installation prompt",
+  "text": "Abfrage zur Modulinstallation überspringen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Abfrage zur Modulinstallation überspringen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

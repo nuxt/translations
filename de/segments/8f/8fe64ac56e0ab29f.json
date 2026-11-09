@@ -1,0 +1,14 @@
+{
+  "hash": "8fe64ac56e0ab29f",
+  "source": "Server Auto-Imports Are Now Opt-In",
+  "text": "Automatische Importe im Server sind jetzt optional",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Automatische Importe im Server sind jetzt optional"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "9f877e25507a6bcf",
+  "source": "Migration to Nitro v3",
+  "text": "Migration zu Nitro v3",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Migration zu Nitro v3"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

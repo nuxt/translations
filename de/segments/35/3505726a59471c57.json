@@ -1,0 +1,14 @@
+{
+  "hash": "3505726a59471c57",
+  "source": "You can also pass props when changing the layout dynamically with {0}:",
+  "text": "Du kannst Props auch übergeben, wenn du das Layout dynamisch mit {0} änderst:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst Props auch übergeben, wenn du das Layout dynamisch mit {0} änderst:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "f458e18446a0dde6",
+  "source": "Template Params",
+  "text": "Vorlagenparameter",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vorlagenparameter"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

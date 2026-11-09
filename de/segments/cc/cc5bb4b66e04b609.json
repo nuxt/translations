@@ -1,0 +1,14 @@
+{
+  "hash": "cc5bb4b66e04b609",
+  "source": "This directory should be added to your {0} file to avoid pushing the build output to your repository.",
+  "text": "Füge dieses Verzeichnis zu deiner Datei {0} hinzu, damit die Build-Ausgabe nicht in dein Repository gepusht wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Füge dieses Verzeichnis zu deiner Datei {0} hinzu, damit die Build-Ausgabe nicht in dein Repository gepusht wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

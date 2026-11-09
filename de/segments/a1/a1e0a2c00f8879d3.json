@@ -1,0 +1,14 @@
+{
+  "hash": "a1e0a2c00f8879d3",
+  "source": "You can now universally call this API in your pages and components:",
+  "text": "Du kannst diese API jetzt universell in deinen Seiten und Komponenten aufrufen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst diese API jetzt universell in deinen Seiten und Komponenten aufrufen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

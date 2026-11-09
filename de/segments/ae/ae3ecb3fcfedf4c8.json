@@ -1,0 +1,14 @@
+{
+  "hash": "ae3ecb3fcfedf4c8",
+  "source": "We recommend using {0}VS Code{/0} along with the {1}ESLint extension{/1}. If you would like, you can enable auto-fix and formatting when you save the code you are editing:",
+  "text": "Wir empfehlen {0}VS Code{/0} zusammen mit der {1}ESLint-Erweiterung{/1}. Wenn du möchtest, kannst du automatische Korrekturen und Formatierung beim Speichern des Codes aktivieren, den du gerade bearbeitest:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wir empfehlen {0}VS Code{/0} zusammen mit der {1}ESLint-Erweiterung{/1}. Wenn du möchtest, kannst du automatische Korrekturen und Formatierung beim Speichern des Codes aktivieren, den du gerade bearbeitest:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

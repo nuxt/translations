@@ -1,0 +1,14 @@
+{
+  "hash": "04694293866b112c",
+  "source": "A number in milliseconds to wait before timing out the request (defaults to {0}, which means no timeout)",
+  "text": "Eine Zahl in Millisekunden, nach der die Anfrage wegen Zeitüberschreitung abgebrochen wird (Standard: {0}, d. h. kein Timeout)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine Zahl in Millisekunden, nach der die Anfrage wegen Zeitüberschreitung abgebrochen wird (Standard: {0}, d. h. kein Timeout)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

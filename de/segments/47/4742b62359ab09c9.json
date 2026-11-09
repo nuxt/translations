@@ -1,0 +1,14 @@
+{
+  "hash": "4742b62359ab09c9",
+  "source": "A filename can declare a variable weight range as two CSS weights, separated by a space, hyphen or dot: {0}, {1} or {2} are all read as covering {3} to {4}. Both bounds have to be recognised weights (a multiple of 100 between 100 and 900) in ascending order, so {5} is still read as a single {6} weight.",
+  "text": "Ein Dateiname kann einen variablen Stärkenbereich als zwei CSS-Stärken angeben, getrennt durch ein Leerzeichen, einen Bindestrich oder einen Punkt: {0}, {1} oder {2} werden alle als Bereich von {3} bis {4} gelesen. Beide Grenzen müssen erkannte Stärken sein (ein Vielfaches von 100 zwischen 100 und 900) und in aufsteigender Reihenfolge stehen, daher wird {5} weiterhin als einzelne Stärke {6} gelesen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein Dateiname kann einen variablen Stärkenbereich als zwei CSS-Stärken angeben, getrennt durch ein Leerzeichen, einen Bindestrich oder einen Punkt: {0}, {1} oder {2} werden alle als Bereich von {3} bis {4} gelesen. Beide Grenzen müssen erkannte Stärken sein (ein Vielfaches von 100 zwischen 100 und 900) und in aufsteigender Reihenfolge stehen, daher wird {5} weiterhin als einzelne Stärke {6} gelesen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

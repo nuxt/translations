@@ -1,0 +1,14 @@
+{
+  "hash": "6a53a7b1428f8f8c",
+  "source": "Alternative: Simple Setup",
+  "text": "Alternative: einfache Einrichtung",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Alternative: einfache Einrichtung"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "a4c2cf58fd481c9b",
+  "source": "{0} still resolves when your server code runs, so an unmigrated project keeps working, but it is no longer typed: TypeScript reports it as unresolved until you move to {1}.",
+  "text": "{0} wird beim Ausführen deines Server-Codes weiterhin aufgelöst, sodass ein nicht migriertes Projekt weiter funktioniert. Es ist jedoch nicht mehr typisiert: TypeScript meldet es als nicht aufgelöst, bis du auf {1} umgestiegen bist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} wird beim Ausführen deines Server-Codes weiterhin aufgelöst, sodass ein nicht migriertes Projekt weiter funktioniert. Es ist jedoch nicht mehr typisiert: TypeScript meldet es als nicht aufgelöst, bis du auf {1} umgestiegen bist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "a51019b2eb0ac88b",
+  "source": "The {0} command upgrades Nuxt to the latest version. It updates the version in your {1}, reinstalls dependencies with your package manager and removes the build cache.",
+  "text": "Der Befehl {0} führt ein Upgrade von Nuxt auf die neueste Version durch. Er aktualisiert die Version in deiner {1}, installiert die Abhängigkeiten mit deinem Paketmanager neu und entfernt den Build-Cache.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Befehl {0} führt ein Upgrade von Nuxt auf die neueste Version durch. Er aktualisiert die Version in deiner {1}, installiert die Abhängigkeiten mit deinem Paketmanager neu und entfernt den Build-Cache."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

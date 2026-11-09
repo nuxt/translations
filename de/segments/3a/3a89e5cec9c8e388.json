@@ -1,0 +1,14 @@
+{
+  "hash": "3a89e5cec9c8e388",
+  "source": "A dev handler's route doesn't match the same paths on every server API. The {0} and {1} variants match the route exactly. A {2} handler matches it as a path prefix, as Nitro v2 does, so {3} also matches {4}. Nuxt treats a single function as a {5} handler.",
+  "text": "Die Route eines Handlers für den Entwicklungsserver passt nicht bei jeder Server-API auf dieselben Pfade. Die Varianten {0} und {1} passen exakt auf die Route. Ein {2}-Handler passt darauf als Pfadpräfix, wie in Nitro v2, sodass {3} auch {4} abdeckt. Nuxt behandelt eine einzelne Funktion als {5}-Handler.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Route eines Handlers für den Entwicklungsserver passt nicht bei jeder Server-API auf dieselben Pfade. Die Varianten {0} und {1} passen exakt auf die Route. Ein {2}-Handler passt darauf als Pfadpräfix, wie in Nitro v2, sodass {3} auch {4} abdeckt. Nuxt behandelt eine einzelne Funktion als {5}-Handler."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

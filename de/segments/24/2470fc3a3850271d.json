@@ -1,0 +1,14 @@
+{
+  "hash": "2470fc3a3850271d",
+  "source": "Avoid depending on Node.js built-ins and CommonJS or Node.js-only dependencies as much as possible to make your library usable in Browsers and Edge Workers without needing Nitro polyfills.",
+  "text": "Vermeide es so weit wie möglich, von Node.js-Built-ins sowie von CommonJS- oder reinen Node.js-Abhängigkeiten abzuhängen, damit sich deine Bibliothek in Browsern und Edge Workern ohne Nitro-Polyfills verwenden lässt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vermeide es so weit wie möglich, von Node.js-Built-ins sowie von CommonJS- oder reinen Node.js-Abhängigkeiten abzuhängen, damit sich deine Bibliothek in Browsern und Edge Workern ohne Nitro-Polyfills verwenden lässt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

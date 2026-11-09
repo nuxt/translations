@@ -1,0 +1,14 @@
+{
+  "hash": "2f96fcc37b437fb2",
+  "source": "Functions from the {0} ({1}, {2}, and {3}) can safely be destructured, if you did not await the return value.",
+  "text": "Funktionen aus {0} ({1}, {2} und {3}) können bedenkenlos destrukturiert werden, wenn du nicht auf den Rückgabewert gewartet hast.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Funktionen aus {0} ({1}, {2} und {3}) können bedenkenlos destrukturiert werden, wenn du nicht auf den Rückgabewert gewartet hast."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

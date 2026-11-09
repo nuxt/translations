@@ -1,0 +1,14 @@
+{
+  "hash": "8447c65e90eb28cd",
+  "source": "When calling {0} on the server, Nuxt will use {1} to proxy client headers and cookies (with the exception of headers not meant to be forwarded, like {2}).",
+  "text": "Wenn du {0} auf dem Server aufrufst, verwendet Nuxt {1}, um die Header und Cookies des Clients weiterzureichen (mit Ausnahme von Headern, die nicht weitergeleitet werden sollen, wie {2}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du {0} auf dem Server aufrufst, verwendet Nuxt {1}, um die Header und Cookies des Clients weiterzureichen (mit Ausnahme von Headern, die nicht weitergeleitet werden sollen, wie {2})."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "fbbe5f2e60049606",
+  "source": "To extend the {0} interface and hook into different stages or access contexts, we can use {1}Nuxt Plugins{/1}.",
+  "text": "Um die {0}-Schnittstelle zu erweitern und dich in verschiedene Phasen einzuklinken oder auf Kontexte zuzugreifen, kannst du {1}Nuxt-Plugins{/1} verwenden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um die {0}-Schnittstelle zu erweitern und dich in verschiedene Phasen einzuklinken oder auf Kontexte zuzugreifen, kannst du {1}Nuxt-Plugins{/1} verwenden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

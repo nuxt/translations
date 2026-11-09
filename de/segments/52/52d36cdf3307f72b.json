@@ -1,0 +1,14 @@
+{
+  "hash": "52d36cdf3307f72b",
+  "source": "{0} - for excluding routes from prerendering",
+  "text": "{0} – zum Ausschließen von Routen vom Vorab-Rendering",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} – zum Ausschließen von Routen vom Vorab-Rendering"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

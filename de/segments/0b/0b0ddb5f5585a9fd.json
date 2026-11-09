@@ -1,0 +1,14 @@
+{
+  "hash": "0b0ddb5f5585a9fd",
+  "source": "In most cases, Nuxt can work with third-party content that is not generated or created by Nuxt itself. But sometimes such content can cause problems, especially Cloudflare's \"Minification and Security Options\".",
+  "text": "In den meisten Fällen kann Nuxt mit Inhalten von Drittanbietern arbeiten, die nicht von Nuxt selbst generiert oder erstellt wurden. Manchmal können solche Inhalte jedoch Probleme verursachen, insbesondere die „Minification and Security Options“ von Cloudflare.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In den meisten Fällen kann Nuxt mit Inhalten von Drittanbietern arbeiten, die nicht von Nuxt selbst generiert oder erstellt wurden. Manchmal können solche Inhalte jedoch Probleme verursachen, insbesondere die „Minification and Security Options“ von Cloudflare."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

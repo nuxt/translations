@@ -1,0 +1,14 @@
+{
+  "hash": "b765e82ab741439c",
+  "source": "Nuxt configuration will be loaded using {0} and {1}.",
+  "text": "Die Nuxt-Konfiguration wird mit {0} und {1} geladen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Nuxt-Konfiguration wird mit {0} und {1} geladen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

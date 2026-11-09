@@ -1,0 +1,14 @@
+{
+  "hash": "cf841158ee9410de",
+  "source": "A template uses {0} (or {1}) or {2} on a server component. Server components render on the server only and ship no JavaScript for themselves, so they never emit events and cannot update a {3} binding. The listener is never called.",
+  "text": "Eine Vorlage verwendet {0} (oder {1}) oder {2} auf einer Serverkomponente. Serverkomponenten werden nur auf dem Server gerendert und liefern kein eigenes JavaScript aus. Daher senden sie nie Events und können eine {3}-Bindung nicht aktualisieren. Der Listener wird nie aufgerufen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine Vorlage verwendet {0} (oder {1}) oder {2} auf einer Serverkomponente. Serverkomponenten werden nur auf dem Server gerendert und liefern kein eigenes JavaScript aus. Daher senden sie nie Events und können eine {3}-Bindung nicht aktualisieren. Der Listener wird nie aufgerufen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

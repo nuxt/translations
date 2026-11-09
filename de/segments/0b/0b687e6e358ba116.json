@@ -1,0 +1,14 @@
+{
+  "hash": "0b687e6e358ba116",
+  "source": "Legacy Handler or Middleware",
+  "text": "Legacy-Handler oder -Middleware",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Legacy-Handler oder -Middleware"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "aac4e6dffc06517d",
+  "source": "A template contains a {0} with a static {1} (or {2}) that does not match any page route, so following the link would show a 404 page.",
+  "text": "Eine Vorlage enthält einen {0} mit einem statischen {1} (oder {2}), der zu keiner Seitenroute passt. Ein Klick auf den Link würde daher eine 404-Seite anzeigen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine Vorlage enthält einen {0} mit einem statischen {1} (oder {2}), der zu keiner Seitenroute passt. Ein Klick auf den Link würde daher eine 404-Seite anzeigen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

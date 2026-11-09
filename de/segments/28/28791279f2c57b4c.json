@@ -1,0 +1,14 @@
+{
+  "hash": "28791279f2c57b4c",
+  "source": "Font Advanced Optimization",
+  "text": "Erweiterte Optimierung von Schriften",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erweiterte Optimierung von Schriften"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

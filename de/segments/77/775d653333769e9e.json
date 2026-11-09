@@ -1,0 +1,14 @@
+{
+  "hash": "775d653333769e9e",
+  "source": "Delayed (or Lazy) Hydration",
+  "text": "Verzögerte (oder Lazy-)Hydration",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verzögerte (oder Lazy-)Hydration"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

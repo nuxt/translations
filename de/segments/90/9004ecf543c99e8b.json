@@ -1,0 +1,14 @@
+{
+  "hash": "9004ecf543c99e8b",
+  "source": "A test file can only run in one of these environments, so {0} and {1} cannot be used in the same file. With Vitest, you can use {2}projects{/2} to make sure that each test file runs in the right environment, as shown in the {3}setup{/3} below.",
+  "text": "Eine Testdatei kann nur in einer dieser Umgebungen laufen, daher können {0} und {1} nicht in derselben Datei verwendet werden. Mit Vitest kannst du {2}Projekte{/2} nutzen, damit jede Testdatei in der richtigen Umgebung läuft, wie in der folgenden {3}Einrichtung{/3} gezeigt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine Testdatei kann nur in einer dieser Umgebungen laufen, daher können {0} und {1} nicht in derselben Datei verwendet werden. Mit Vitest kannst du {2}Projekte{/2} nutzen, damit jede Testdatei in der richtigen Umgebung läuft, wie in der folgenden {3}Einrichtung{/3} gezeigt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

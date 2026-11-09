@@ -1,0 +1,14 @@
+{
+  "hash": "2d3afae9aa7db051",
+  "source": "The two routes \"/test-category\" and \"/1234-post\" match both {0} and {1} page routes.",
+  "text": "Die beiden Routen „/test-category“ und „/1234-post“ passen sowohl auf die Seitenrouten {0} als auch auf {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die beiden Routen „/test-category“ und „/1234-post“ passen sowohl auf die Seitenrouten {0} als auch auf {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

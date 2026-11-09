@@ -1,0 +1,14 @@
+{
+  "hash": "b9b4879741277a12",
+  "source": "Matching route rules will be created, based on the page's {0}.",
+  "text": "Passende Routen-Regeln werden auf Grundlage von {0} der Seite erstellt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Passende Routen-Regeln werden auf Grundlage von {0} der Seite erstellt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

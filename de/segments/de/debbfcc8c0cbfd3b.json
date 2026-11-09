@@ -1,0 +1,14 @@
+{
+  "hash": "debbfcc8c0cbfd3b",
+  "source": "Nuxt only scans files at the top level of the {0}{1} directory{/0}, e.g.:",
+  "text": "Nuxt scannt nur Dateien auf der obersten Ebene des {0}{1}-Verzeichnisses{/0}, z. B.:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt scannt nur Dateien auf der obersten Ebene des {0}{1}-Verzeichnisses{/0}, z. B.:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e772c5f3adadbba1",
+  "source": "It is possible to add global or named route middleware manually using the {0} helper function, such as from within a plugin.",
+  "text": "Du kannst globale oder benannte Routen-Middleware auch manuell mit der Hilfsfunktion {0} hinzufügen, etwa innerhalb eines Plugins.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst globale oder benannte Routen-Middleware auch manuell mit der Hilfsfunktion {0} hinzufügen, etwa innerhalb eines Plugins."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

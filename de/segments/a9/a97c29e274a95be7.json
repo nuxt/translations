@@ -1,0 +1,14 @@
+{
+  "hash": "a97c29e274a95be7",
+  "source": "By always mocking these compiler dependencies, the default server bundle size is reduced by approximately 860KB (\\~59%).",
+  "text": "Dadurch, dass diese Compiler-Abhängigkeiten immer gemockt werden, verringert sich die Größe des Standard-Server-Bundles um etwa 860 KB (\\~59 %).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dadurch, dass diese Compiler-Abhängigkeiten immer gemockt werden, verringert sich die Größe des Standard-Server-Bundles um etwa 860 KB (\\~59 %)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

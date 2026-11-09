@@ -1,0 +1,14 @@
+{
+  "hash": "08b90434eb362b32",
+  "source": "Instead of using {0} with {1} or {2}, you can instead use the new {3} hook within your plugin.",
+  "text": "Anstatt {0} mit {1} oder {2} zu verwenden, kannst du stattdessen den neuen {3}-Hook in deinem Plugin nutzen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Anstatt {0} mit {1} oder {2} zu verwenden, kannst du stattdessen den neuen {3}-Hook in deinem Plugin nutzen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

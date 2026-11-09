@@ -1,0 +1,14 @@
+{
+  "hash": "38a6553cdc172ff4",
+  "source": "Learn how to upgrade to the latest Nuxt version.",
+  "text": "Erfahre, wie du auf die neueste Nuxt-Version aktualisierst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erfahre, wie du auf die neueste Nuxt-Version aktualisierst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

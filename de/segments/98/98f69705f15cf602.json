@@ -1,0 +1,14 @@
+{
+  "hash": "98f69705f15cf602",
+  "source": "**PostCSS plugins**: {0} and {1} are {2}no longer installed or configured by default{/2}",
+  "text": "**PostCSS-Plugins**: {0} und {1} werden {2}standardmäßig nicht mehr installiert oder konfiguriert{/2}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**PostCSS-Plugins**: {0} und {1} werden {2}standardmäßig nicht mehr installiert oder konfiguriert{/2}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

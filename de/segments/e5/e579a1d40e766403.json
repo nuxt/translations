@@ -1,0 +1,14 @@
+{
+  "hash": "e579a1d40e766403",
+  "source": "**Drop the scripts** on those routes with the {0} route rule.",
+  "text": "**Entferne die Skripte** auf diesen Routen mit der Route-Rule {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Entferne die Skripte** auf diesen Routen mit der Route-Rule {0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

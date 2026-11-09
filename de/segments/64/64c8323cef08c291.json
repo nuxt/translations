@@ -1,0 +1,14 @@
+{
+  "hash": "64c8323cef08c291",
+  "source": "Find solutions to common problems and learn how to implement them in your Nuxt project.",
+  "text": "Finde Lösungen für häufige Probleme und erfahre, wie du sie in deinem Nuxt-Projekt umsetzt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Finde Lösungen für häufige Probleme und erfahre, wie du sie in deinem Nuxt-Projekt umsetzt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

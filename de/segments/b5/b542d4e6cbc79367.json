@@ -1,0 +1,14 @@
+{
+  "hash": "b542d4e6cbc79367",
+  "source": "Nuxt uses {0}unjs/c12{/0} and {1}unjs/giget{/1} for extending remote layers. Check the documentation for more information and all available options.",
+  "text": "Nuxt verwendet {0}unjs/c12{/0} und {1}unjs/giget{/1}, um Remote-Layers zu erweitern. Weitere Informationen und alle verfügbaren Optionen findest du in der Dokumentation.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt verwendet {0}unjs/c12{/0} und {1}unjs/giget{/1}, um Remote-Layers zu erweitern. Weitere Informationen und alle verfügbaren Optionen findest du in der Dokumentation."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

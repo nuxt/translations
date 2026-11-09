@@ -1,0 +1,14 @@
+{
+  "hash": "a76f8c01a5040644",
+  "source": "This composable does not return any value.",
+  "text": "Dieses Composable gibt keinen Wert zurück.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dieses Composable gibt keinen Wert zurück."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "d1bb2c38e0732e7f",
+  "source": "Nuxt updates auto-generated Vue component names to match the full component name you would use to auto-import the component.",
+  "text": "Nuxt aktualisiert automatisch generierte Vue-Komponentennamen so, dass sie dem vollständigen Komponentennamen entsprechen, den du für den automatischen Import der Komponente verwenden würdest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt aktualisiert automatisch generierte Vue-Komponentennamen so, dass sie dem vollständigen Komponentennamen entsprechen, den du für den automatischen Import der Komponente verwenden würdest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

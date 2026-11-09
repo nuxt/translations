@@ -1,0 +1,14 @@
+{
+  "hash": "6cc3130a4d806afc",
+  "source": "To set, read, append or remove a response header, use {0} directly: it is a standard {1} object.",
+  "text": "Um einen Antwort-Header zu setzen, zu lesen, anzuhängen oder zu entfernen, verwende direkt {0}: Es ist ein Standard-{1}-Objekt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um einen Antwort-Header zu setzen, zu lesen, anzuhängen oder zu entfernen, verwende direkt {0}: Es ist ein Standard-{1}-Objekt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

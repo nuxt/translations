@@ -1,0 +1,14 @@
+{
+  "hash": "0f1048a435a54f1a",
+  "source": "This is the recommended way to add meta tags to your site as it is XSS safe and has full TypeScript support.",
+  "text": "Dies ist der empfohlene Weg, Meta-Tags zu deiner Website hinzuzufügen, da er vor XSS geschützt ist und volle TypeScript-Unterstützung bietet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dies ist der empfohlene Weg, Meta-Tags zu deiner Website hinzuzufügen, da er vor XSS geschützt ist und volle TypeScript-Unterstützung bietet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

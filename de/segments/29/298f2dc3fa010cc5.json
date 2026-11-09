@@ -1,0 +1,14 @@
+{
+  "hash": "298f2dc3fa010cc5",
+  "source": "We currently can't provide non-latin subsets for Adobe Fonts as they do not have a public API for that. Please use other providers in such cases.",
+  "text": "Für Adobe Fonts können wir derzeit keine nicht-lateinischen Subsets bereitstellen, da dafür keine öffentliche API existiert. Verwende in solchen Fällen bitte andere Provider.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Für Adobe Fonts können wir derzeit keine nicht-lateinischen Subsets bereitstellen, da dafür keine öffentliche API existiert. Verwende in solchen Fällen bitte andere Provider."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

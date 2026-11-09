@@ -1,0 +1,14 @@
+{
+  "hash": "32a91a5ac641d277",
+  "source": "What Nuxt Fonts is built on",
+  "text": "Worauf Nuxt Fonts aufbaut",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Worauf Nuxt Fonts aufbaut"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

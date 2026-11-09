@@ -1,0 +1,14 @@
+{
+  "hash": "953460569b38d8e6",
+  "source": "In the browser, {0} will have no effect.",
+  "text": "Im Browser hat {0} keine Wirkung.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Im Browser hat {0} keine Wirkung."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

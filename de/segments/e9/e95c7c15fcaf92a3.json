@@ -1,0 +1,14 @@
+{
+  "hash": "e95c7c15fcaf92a3",
+  "source": "In the example below, we use {0}superjson{/0} as our serializer.",
+  "text": "Im folgenden Beispiel verwenden wir {0}superjson{/0} als Serialisierer.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Im folgenden Beispiel verwenden wir {0}superjson{/0} als Serialisierer."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

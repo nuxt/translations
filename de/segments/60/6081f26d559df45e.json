@@ -1,0 +1,14 @@
+{
+  "hash": "6081f26d559df45e",
+  "source": "Locate your Gemini CLI configuration file (usually {0} or as specified in your environment).",
+  "text": "Suche die Konfigurationsdatei deiner Gemini CLI (normalerweise {0} oder wie in deiner Umgebung angegeben).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Suche die Konfigurationsdatei deiner Gemini CLI (normalerweise {0} oder wie in deiner Umgebung angegeben)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

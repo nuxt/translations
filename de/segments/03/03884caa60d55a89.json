@@ -1,0 +1,14 @@
+{
+  "hash": "03884caa60d55a89",
+  "source": "Allows accessing the route {0} as props passed to the page component.",
+  "text": "Ermöglicht den Zugriff auf die Route {0} als Props, die an die Seitenkomponente übergeben werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ermöglicht den Zugriff auf die Route {0} als Props, die an die Seitenkomponente übergeben werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

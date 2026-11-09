@@ -1,0 +1,14 @@
+{
+  "hash": "0e0e2837cdc61aed",
+  "source": "Because the data inside {0} will be serialized to JSON, it is important that it does not contain anything that cannot be serialized, such as classes, functions or symbols.",
+  "text": "Da die Daten in {0} in JSON serialisiert werden, ist es wichtig, dass sie nichts enthalten, was sich nicht serialisieren lässt, etwa Klassen, Funktionen oder Symbole.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Da die Daten in {0} in JSON serialisiert werden, ist es wichtig, dass sie nichts enthalten, was sich nicht serialisieren lässt, etwa Klassen, Funktionen oder Symbole."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

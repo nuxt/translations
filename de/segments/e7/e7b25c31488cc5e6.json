@@ -1,0 +1,14 @@
+{
+  "hash": "e7b25c31488cc5e6",
+  "source": "Access the root element",
+  "text": "Auf das Root-Element zugreifen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auf das Root-Element zugreifen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

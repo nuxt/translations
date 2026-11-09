@@ -1,0 +1,14 @@
+{
+  "hash": "acea662b6283072d",
+  "source": "When {0} sets state to {1}, composables that depend on that state can crash because they expect the state to always have a valid shape (e.g., accessing properties on {2}). Resetting to the {3} value ensures state always has a usable default.",
+  "text": "Wenn {0} den State auf {1} setzt, können Composables, die von diesem State abhängen, abstürzen, weil sie erwarten, dass der State immer eine gültige Form hat (z. B. beim Zugriff auf Eigenschaften von {2}). Das Zurücksetzen auf den {3}-Wert stellt sicher, dass der State immer einen verwendbaren Standardwert hat.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn {0} den State auf {1} setzt, können Composables, die von diesem State abhängen, abstürzen, weil sie erwarten, dass der State immer eine gültige Form hat (z. B. beim Zugriff auf Eigenschaften von {2}). Das Zurücksetzen auf den {3}-Wert stellt sicher, dass der State immer einen verwendbaren Standardwert hat."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

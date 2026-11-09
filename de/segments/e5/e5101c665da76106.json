@@ -1,0 +1,14 @@
+{
+  "hash": "e5101c665da76106",
+  "source": "Add a new command for test in your {0}",
+  "text": "Füge in deiner {0} einen neuen Befehl für Tests hinzu",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Füge in deiner {0} einen neuen Befehl für Tests hinzu"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

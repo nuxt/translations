@@ -1,0 +1,14 @@
+{
+  "hash": "f49d9408acbf29fb",
+  "source": "or 'deep', to enable {0}",
+  "text": "oder 'deep', um {0} zu aktivieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "oder 'deep', um {0} zu aktivieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

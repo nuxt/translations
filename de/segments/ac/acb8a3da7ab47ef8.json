@@ -1,0 +1,14 @@
+{
+  "hash": "acb8a3da7ab47ef8",
+  "source": "**options**: Options to pass to the template. This object can have the following property:",
+  "text": "**options**: Optionen, die an die Vorlage übergeben werden. Dieses Objekt kann die folgende Eigenschaft haben:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**options**: Optionen, die an die Vorlage übergeben werden. Dieses Objekt kann die folgende Eigenschaft haben:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

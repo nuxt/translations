@@ -1,0 +1,14 @@
+{
+  "hash": "54a48ba91bb6f1ac",
+  "source": "Props are passed to server components via URL query parameters, and are therefore limited by the possible length of a URL, so be careful not to pass enormous amounts of data to server components via props.",
+  "text": "Props werden über URL-Query-Parameter an Serverkomponenten übergeben und sind daher durch die mögliche Länge einer URL begrenzt. Übergib deshalb keine enormen Datenmengen per Props an Serverkomponenten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Props werden über URL-Query-Parameter an Serverkomponenten übergeben und sind daher durch die mögliche Länge einer URL begrenzt. Übergib deshalb keine enormen Datenmengen per Props an Serverkomponenten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

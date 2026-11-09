@@ -1,0 +1,14 @@
+{
+  "hash": "081204521476516f",
+  "source": "Dynamic Components",
+  "text": "Dynamische Komponenten",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dynamische Komponenten"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

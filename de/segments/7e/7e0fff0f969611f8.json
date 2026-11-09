@@ -1,0 +1,14 @@
+{
+  "hash": "7e0fff0f969611f8",
+  "source": "Other AI Tools",
+  "text": "Weitere KI-Tools",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Weitere KI-Tools"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

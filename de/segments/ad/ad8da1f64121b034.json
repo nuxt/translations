@@ -1,0 +1,14 @@
+{
+  "hash": "ad8da1f64121b034",
+  "source": "Nuxt core and your modules generate the virtual application: the entrypoints, route table, plugins, component registry, and the rest of the {0}virtual file system{/0} under {1}. The builder turns that virtual application into real JavaScript and CSS bundles, and in development runs a dev server that serves and hot-reloads them.",
+  "text": "Der Nuxt-Kern und deine Module generieren die virtuelle Anwendung: die Einstiegspunkte, die Routentabelle, die Plugins, die Komponentenregistrierung und den Rest des {0}virtuellen Dateisystems{/0} unter {1}. Der Builder macht aus dieser virtuellen Anwendung echte JavaScript- und CSS-Bundles und führt in der Entwicklung einen Entwicklungsserver aus, der sie ausliefert und per Hot Reloading aktualisiert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Nuxt-Kern und deine Module generieren die virtuelle Anwendung: die Einstiegspunkte, die Routentabelle, die Plugins, die Komponentenregistrierung und den Rest des {0}virtuellen Dateisystems{/0} unter {1}. Der Builder macht aus dieser virtuellen Anwendung echte JavaScript- und CSS-Bundles und führt in der Entwicklung einen Entwicklungsserver aus, der sie ausliefert und per Hot Reloading aktualisiert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

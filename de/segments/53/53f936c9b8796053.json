@@ -1,0 +1,14 @@
+{
+  "hash": "53f936c9b8796053",
+  "source": "Disable prefetch globally",
+  "text": "Prefetch global deaktivieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Prefetch global deaktivieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

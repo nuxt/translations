@@ -1,0 +1,14 @@
+{
+  "hash": "9971995d582dbcfe",
+  "source": "**Data cleanup**: When the last component using data fetched with {0} is unmounted, Nuxt will remove that data to avoid ever-growing memory usage.",
+  "text": "**Datenbereinigung**: Wenn die letzte Komponente, die mit {0} abgerufene Daten verwendet, unmountet wird, entfernt Nuxt diese Daten, um ständig wachsenden Speicherverbrauch zu vermeiden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Datenbereinigung**: Wenn die letzte Komponente, die mit {0} abgerufene Daten verwendet, unmountet wird, entfernt Nuxt diese Daten, um ständig wachsenden Speicherverbrauch zu vermeiden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b179bc541ebb30a3",
+  "source": "Module setups (automatically added by Nuxt)",
+  "text": "Modul-Setups (automatisch von Nuxt hinzugefügt)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Modul-Setups (automatisch von Nuxt hinzugefügt)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

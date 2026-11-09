@@ -1,0 +1,14 @@
+{
+  "hash": "56561d9b68304b72",
+  "source": "Alignment of {0} value in {1} and {2}",
+  "text": "Angleichung des {0}-Werts in {1} und {2}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Angleichung des {0}-Werts in {1} und {2}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

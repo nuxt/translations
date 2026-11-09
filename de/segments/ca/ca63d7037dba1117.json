@@ -1,0 +1,14 @@
+{
+  "hash": "ca63d7037dba1117",
+  "source": "Refresh Specific Data",
+  "text": "Bestimmte Daten aktualisieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bestimmte Daten aktualisieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

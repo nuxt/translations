@@ -1,0 +1,14 @@
+{
+  "hash": "787f6d878410bac3",
+  "source": "pages with an interactive widget: prerendered, scripts kept",
+  "text": "Seiten mit interaktivem Widget: vorab gerendert, Skripte bleiben erhalten",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Seiten mit interaktivem Widget: vorab gerendert, Skripte bleiben erhalten"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

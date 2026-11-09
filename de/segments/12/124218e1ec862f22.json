@@ -1,0 +1,14 @@
+{
+  "hash": "124218e1ec862f22",
+  "source": "Without a terminal to prompt in, the answers it would have asked for have to be passed as arguments: the directory, {0}, {1} and {2}. Anything missing is reported along with the available templates, and the command exits with {3}.",
+  "text": "Ohne Terminal, in dem Eingaben abgefragt werden können, müssen die Antworten, nach denen der Befehl sonst fragen würde, als Argumente übergeben werden: das Verzeichnis, {0}, {1} und {2}. Fehlende Angaben werden zusammen mit den verfügbaren Vorlagen gemeldet, und der Befehl wird mit {3} beendet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ohne Terminal, in dem Eingaben abgefragt werden können, müssen die Antworten, nach denen der Befehl sonst fragen würde, als Argumente übergeben werden: das Verzeichnis, {0}, {1} und {2}. Fehlende Angaben werden zusammen mit den verfügbaren Vorlagen gemeldet, und der Befehl wird mit {3} beendet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

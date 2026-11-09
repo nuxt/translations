@@ -1,0 +1,14 @@
+{
+  "hash": "127daf1be880cac0",
+  "source": "**For module authors**, type augmentations must target the new module path:",
+  "text": "**Für Entwickelnde von Modulen** müssen Typerweiterungen auf den neuen Modulpfad zielen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Für Entwickelnde von Modulen** müssen Typerweiterungen auf den neuen Modulpfad zielen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "d109cb0bdba18264",
+  "source": "For backward compatibility, Nuxt still generates {0}. However, we recommend using {1}TypeScript project references{/1} with the new configuration files ({2}, {3}, etc.) for better type safety and performance. This legacy file will be removed in a future version of Nuxt.",
+  "text": "Aus Gründen der Abwärtskompatibilität generiert Nuxt weiterhin {0}. Wir empfehlen jedoch, {1}TypeScript-Projektreferenzen{/1} mit den neuen Konfigurationsdateien ({2}, {3} usw.) zu verwenden, um bessere Typsicherheit und Performance zu erreichen. Diese Legacy-Datei wird in einer zukünftigen Version von Nuxt entfernt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Aus Gründen der Abwärtskompatibilität generiert Nuxt weiterhin {0}. Wir empfehlen jedoch, {1}TypeScript-Projektreferenzen{/1} mit den neuen Konfigurationsdateien ({2}, {3} usw.) zu verwenden, um bessere Typsicherheit und Performance zu erreichen. Diese Legacy-Datei wird in einer zukünftigen Version von Nuxt entfernt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

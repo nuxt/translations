@@ -1,0 +1,14 @@
+{
+  "hash": "1a3f44e9afddc47c",
+  "source": "{0} - as {1}, and your pages are included as {2} routes returning {3}, so {4} is typed by the route the Vue router serves rather than rejected.",
+  "text": "{0} – als {1}, und deine Seiten werden als {2}-Routen eingebunden, die {3} zurückgeben. So wird {4} anhand der Route typisiert, die der Vue Router bereitstellt, statt abgelehnt zu werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} – als {1}, und deine Seiten werden als {2}-Routen eingebunden, die {3} zurückgeben. So wird {4} anhand der Route typisiert, die der Vue Router bereitstellt, statt abgelehnt zu werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

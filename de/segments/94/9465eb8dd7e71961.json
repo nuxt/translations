@@ -1,0 +1,14 @@
+{
+  "hash": "9465eb8dd7e71961",
+  "source": "When a request for a page is made, instead of going all the way to the original server, it's intercepted by the nearest edge server. This server generates the HTML for the page and sends it back to the user. This process minimizes the physical distance the data has to travel, **reducing latency and loading the page faster**.",
+  "text": "Wird eine Seite angefragt, geht die Anfrage nicht bis zum Ursprungsserver, sondern wird vom nächstgelegenen Edge-Server abgefangen. Dieser Server generiert das HTML der Seite und sendet es an die Nutzenden zurück. So verkürzt sich die Strecke, die die Daten zurücklegen müssen, und es **verringert sich die Latenz, sodass die Seite schneller lädt**.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird eine Seite angefragt, geht die Anfrage nicht bis zum Ursprungsserver, sondern wird vom nächstgelegenen Edge-Server abgefangen. Dieser Server generiert das HTML der Seite und sendet es an die Nutzenden zurück. So verkürzt sich die Strecke, die die Daten zurücklegen müssen, und es **verringert sich die Latenz, sodass die Seite schneller lädt**."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

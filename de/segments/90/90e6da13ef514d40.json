@@ -1,0 +1,14 @@
+{
+  "hash": "90e6da13ef514d40",
+  "source": "Route Synchronization Issues",
+  "text": "Probleme bei der Routensynchronisierung",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Probleme bei der Routensynchronisierung"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

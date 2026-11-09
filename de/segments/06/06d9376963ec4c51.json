@@ -1,0 +1,14 @@
+{
+  "hash": "06d9376963ec4c51",
+  "source": "Metadata of the import.",
+  "text": "Metadaten des Imports.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Metadaten des Imports."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

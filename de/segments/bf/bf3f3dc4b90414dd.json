@@ -1,0 +1,14 @@
+{
+  "hash": "bf3f3dc4b90414dd",
+  "source": "{0} - Add cache headers to the server response and cache it on the server or reverse proxy for a configurable TTL (time to live). The {1} preset of Nitro is able to cache the full response. When the TTL expired, the cached response will be sent while the page will be regenerated in the background. If true is used, a {2} header is added without a MaxAge.",
+  "text": "{0} – Fügt der Server-Antwort Cache-Header hinzu und speichert sie für eine konfigurierbare TTL (Time to Live) auf dem Server oder Reverse-Proxy im Cache. Das {1}-Preset von Nitro kann die vollständige Antwort cachen. Nach Ablauf der TTL wird die zwischengespeicherte Antwort ausgeliefert, während die Seite im Hintergrund neu generiert wird. Bei der Verwendung von true wird ein {2}-Header ohne MaxAge hinzugefügt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} – Fügt der Server-Antwort Cache-Header hinzu und speichert sie für eine konfigurierbare TTL (Time to Live) auf dem Server oder Reverse-Proxy im Cache. Das {1}-Preset von Nitro kann die vollständige Antwort cachen. Nach Ablauf der TTL wird die zwischengespeicherte Antwort ausgeliefert, während die Seite im Hintergrund neu generiert wird. Bei der Verwendung von true wird ein {2}-Header ohne MaxAge hinzugefügt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

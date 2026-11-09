@@ -1,0 +1,14 @@
+{
+  "hash": "e36129f929b4682a",
+  "source": "**Custom connectors using MCP are available on ChatGPT for Pro and Plus accounts** on the web.",
+  "text": "**Benutzerdefinierte Konnektoren mit MCP sind in ChatGPT für Pro- und Plus-Konten verfügbar**, und zwar im Web.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Benutzerdefinierte Konnektoren mit MCP sind in ChatGPT für Pro- und Plus-Konten verfügbar**, und zwar im Web."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

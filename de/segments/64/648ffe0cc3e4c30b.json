@@ -1,0 +1,14 @@
+{
+  "hash": "648ffe0cc3e4c30b",
+  "source": "If you want to keep using Vuex, you can manually migrate to Vuex 4 following {0}these steps{/0}.",
+  "text": "Wenn du Vuex weiterhin verwenden möchtest, kannst du mit {0}diesen Schritten{/0} manuell auf Vuex 4 migrieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du Vuex weiterhin verwenden möchtest, kannst du mit {0}diesen Schritten{/0} manuell auf Vuex 4 migrieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

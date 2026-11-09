@@ -1,0 +1,14 @@
+{
+  "hash": "76ee622ed2db0dc2",
+  "source": "Nuxt modules to install (comma separated without spaces)",
+  "text": "Zu installierende Nuxt-Module (durch Kommas getrennt, ohne Leerzeichen)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Zu installierende Nuxt-Module (durch Kommas getrennt, ohne Leerzeichen)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

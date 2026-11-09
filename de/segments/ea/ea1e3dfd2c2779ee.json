@@ -1,0 +1,14 @@
+{
+  "hash": "ea1e3dfd2c2779ee",
+  "source": "If your composable does not always need {0} or you simply want to check if it is present or not, since {1} throws an exception, you can use {2} instead.",
+  "text": "Wenn dein Composable {0} nicht immer benötigt oder du einfach prüfen möchtest, ob es vorhanden ist, kannst du stattdessen {2} verwenden, da {1} eine Exception auslöst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn dein Composable {0} nicht immer benötigt oder du einfach prüfen möchtest, ob es vorhanden ist, kannst du stattdessen {2} verwenden, da {1} eine Exception auslöst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

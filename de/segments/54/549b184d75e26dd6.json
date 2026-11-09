@@ -1,0 +1,14 @@
+{
+  "hash": "549b184d75e26dd6",
+  "source": "You can define the layout used to render the route. This can be either false (to disable any layout), a string or a ref/computed, if you want to make it reactive in some way. {0}More about layouts{/0}.",
+  "text": "Du kannst festlegen, welches Layout zum Rendern der Route verwendet wird. Das kann entweder false (um jegliches Layout zu deaktivieren), ein String oder eine Ref bzw. Computed-Property sein, wenn du das Layout auf irgendeine Weise reaktiv machen möchtest. {0}Mehr zu Layouts{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst festlegen, welches Layout zum Rendern der Route verwendet wird. Das kann entweder false (um jegliches Layout zu deaktivieren), ein String oder eine Ref bzw. Computed-Property sein, wenn du das Layout auf irgendeine Weise reaktiv machen möchtest. {0}Mehr zu Layouts{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

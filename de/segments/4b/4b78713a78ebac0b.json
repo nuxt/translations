@@ -1,0 +1,14 @@
+{
+  "hash": "4b78713a78ebac0b",
+  "source": "Watch a video from Vue School on caching data with the key option",
+  "text": "Sieh dir ein Video von Vue School zum Caching von Daten mit der Option key an",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sieh dir ein Video von Vue School zum Caching von Daten mit der Option key an"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

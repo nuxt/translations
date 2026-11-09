@@ -1,0 +1,14 @@
+{
+  "hash": "ad4f1e0ecadf1116",
+  "source": "Using the {0} prop or relying on automatic handling ensures proper navigation, avoids unexpected routing issues, and improves compatibility with static resources or cross-application scenarios.",
+  "text": "Mit der Prop {0} oder der automatischen Erkennung stellst du eine korrekte Navigation sicher, vermeidest unerwartete Routing-Probleme und verbesserst die Kompatibilität mit statischen Ressourcen oder anwendungsübergreifenden Szenarien.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit der Prop {0} oder der automatischen Erkennung stellst du eine korrekte Navigation sicher, vermeidest unerwartete Routing-Probleme und verbesserst die Kompatibilität mit statischen Ressourcen oder anwendungsübergreifenden Szenarien."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "f1698c2dc8a31192",
+  "source": "Nuxt Kit utilities can be used in Nuxt 3, Nuxt 2 with Bridge and even Nuxt 2 without Bridge. To make sure your module is compatible with all versions, you can use the {0}, {1} and {2} functions. They will check if the current Nuxt version meets the constraints you provide. Also you can use {3}, {4} and {5} functions for more granular checks.",
+  "text": "Die Hilfsfunktionen von Nuxt Kit lassen sich in Nuxt 3, in Nuxt 2 mit Bridge und sogar in Nuxt 2 ohne Bridge verwenden. Damit dein Modul mit allen Versionen kompatibel ist, kannst du die Funktionen {0}, {1} und {2} nutzen. Sie prüfen, ob die aktuelle Nuxt-Version die von dir angegebenen Einschränkungen erfüllt. Für detailliertere Prüfungen kannst du außerdem die Funktionen {3}, {4} und {5} verwenden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Hilfsfunktionen von Nuxt Kit lassen sich in Nuxt 3, in Nuxt 2 mit Bridge und sogar in Nuxt 2 ohne Bridge verwenden. Damit dein Modul mit allen Versionen kompatibel ist, kannst du die Funktionen {0}, {1} und {2} nutzen. Sie prüfen, ob die aktuelle Nuxt-Version die von dir angegebenen Einschränkungen erfüllt. Für detailliertere Prüfungen kannst du außerdem die Funktionen {3}, {4} und {5} verwenden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

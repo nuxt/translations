@@ -1,0 +1,14 @@
+{
+  "hash": "42ca9e838569a0f6",
+  "source": "Use a function for {0} when you want a fresh expiration date every time the cookie is written (for example, sliding sessions or tokens):",
+  "text": "Verwende eine Funktion für {0}, wenn du bei jedem Schreiben des Cookies einen neuen Ablaufzeitpunkt festlegen möchtest (z. B. bei gleitenden Sitzungen oder Tokens):",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwende eine Funktion für {0}, wenn du bei jedem Schreiben des Cookies einen neuen Ablaufzeitpunkt festlegen möchtest (z. B. bei gleitenden Sitzungen oder Tokens):"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

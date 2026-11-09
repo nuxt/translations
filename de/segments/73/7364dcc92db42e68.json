@@ -1,0 +1,14 @@
+{
+  "hash": "7364dcc92db42e68",
+  "source": "You can alternatively configure your Nuxt server directly within your test file:",
+  "text": "Alternativ kannst du deinen Nuxt-Server direkt in deiner Testdatei konfigurieren:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Alternativ kannst du deinen Nuxt-Server direkt in deiner Testdatei konfigurieren:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "af03bd5532c90cec",
+  "source": "**Note**: If your requests in a component go to an external API, you can use {0} and then make it empty using {1}Nuxt Environment Override Config{/1} ({2}) so all your requests will go to Nitro server.",
+  "text": "**Hinweis**: Wenn die Anfragen in einer Komponente an eine externe API gehen, kannst du {0} verwenden und den Wert anschließend mit {1}Nuxt Environment Override Config{/1} ({2}) leeren, sodass alle deine Anfragen an den Nitro-Server gehen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Hinweis**: Wenn die Anfragen in einer Komponente an eine externe API gehen, kannst du {0} verwenden und den Wert anschließend mit {1}Nuxt Environment Override Config{/1} ({2}) leeren, sodass alle deine Anfragen an den Nitro-Server gehen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

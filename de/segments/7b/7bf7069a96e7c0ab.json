@@ -1,0 +1,14 @@
+{
+  "hash": "7bf7069a96e7c0ab",
+  "source": "If you provide a generic family (like serif or sans-serif), we will use a system font from that family.",
+  "text": "Wenn du eine generische Schriftfamilie angibst (wie serif oder sans-serif), verwenden wir eine Systemschriftart aus dieser Familie.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du eine generische Schriftfamilie angibst (wie serif oder sans-serif), verwenden wir eine Systemschriftart aus dieser Familie."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

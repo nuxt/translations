@@ -1,0 +1,14 @@
+{
+  "hash": "a8972cee9a94f9b3",
+  "source": "Uses the default baseURL",
+  "text": "Verwendet die Standard-baseURL",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwendet die Standard-baseURL"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

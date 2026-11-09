@@ -1,0 +1,14 @@
+{
+  "hash": "df8988d3f1568232",
+  "source": "A common use-case for end-to-end testing is running the tests against a deployed application running in the same environment typically used for Production.",
+  "text": "Ein häufiger Anwendungsfall für End-to-End-Tests ist, die Tests gegen eine bereitgestellte Anwendung auszuführen, die in derselben Umgebung läuft, die typischerweise für die Produktion verwendet wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein häufiger Anwendungsfall für End-to-End-Tests ist, die Tests gegen eine bereitgestellte Anwendung auszuführen, die in derselben Umgebung läuft, die typischerweise für die Produktion verwendet wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "1418a104f38be846",
+  "source": "{0}: Array of link tag objects (stylesheets, icons, etc.)",
+  "text": "{0}: Array von Link-Tag-Objekten (Stylesheets, Icons usw.)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Array von Link-Tag-Objekten (Stylesheets, Icons usw.)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

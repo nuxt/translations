@@ -1,0 +1,14 @@
+{
+  "hash": "7006c8bccb65c290",
+  "source": "New preview is started",
+  "text": "Neue Vorschau wird gestartet",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Neue Vorschau wird gestartet"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "550d73d2c3a9b973",
+  "source": "You can use this at runtime within a {0}Nuxt context{/0} to add more routes for Nitro to prerender.",
+  "text": "Du kannst dies zur Laufzeit innerhalb eines {0}Nuxt-Kontexts{/0} verwenden, um weitere Routen für das Vorab-Rendering durch Nitro hinzuzufügen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst dies zur Laufzeit innerhalb eines {0}Nuxt-Kontexts{/0} verwenden, um weitere Routen für das Vorab-Rendering durch Nitro hinzuzufügen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

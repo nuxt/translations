@@ -1,0 +1,14 @@
+{
+  "hash": "125794a90122038f",
+  "source": "An error thrown while rendering a page returns the HTML error page. An error thrown in a server route or server middleware returns JSON. The {0}, {1}, and {2} request headers and the {3} path prefix no longer affect the format.",
+  "text": "Ein Fehler, der beim Rendern einer Seite ausgelöst wird, liefert die HTML-Fehlerseite. Ein Fehler, der in einer Server-Route oder Server-Middleware ausgelöst wird, liefert JSON. Die Anfrage-Header {0}, {1} und {2} sowie das Pfadpräfix {3} beeinflussen das Format nicht mehr.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein Fehler, der beim Rendern einer Seite ausgelöst wird, liefert die HTML-Fehlerseite. Ein Fehler, der in einer Server-Route oder Server-Middleware ausgelöst wird, liefert JSON. Die Anfrage-Header {0}, {1} und {2} sowie das Pfadpräfix {3} beeinflussen das Format nicht mehr."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

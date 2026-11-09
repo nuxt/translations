@@ -1,0 +1,14 @@
+{
+  "hash": "2e52c6fbdef593e7",
+  "source": "Handle loading and error states in the template.",
+  "text": "Lade- und Fehlerzustände in der Vorlage behandeln.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lade- und Fehlerzustände in der Vorlage behandeln."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

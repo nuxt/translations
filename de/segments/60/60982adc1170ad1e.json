@@ -1,0 +1,14 @@
+{
+  "hash": "60982adc1170ad1e",
+  "source": "If you previously set {0} explicitly, you should now remove it.",
+  "text": "Wenn du {0} bisher explizit gesetzt hast, solltest du es jetzt entfernen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du {0} bisher explizit gesetzt hast, solltest du es jetzt entfernen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

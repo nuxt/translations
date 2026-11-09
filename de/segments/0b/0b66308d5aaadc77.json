@@ -1,0 +1,14 @@
+{
+  "hash": "0b66308d5aaadc77",
+  "source": "Not using Vue Performance tips",
+  "text": "Vue-Performance-Tipps werden nicht beachtet",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vue-Performance-Tipps werden nicht beachtet"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

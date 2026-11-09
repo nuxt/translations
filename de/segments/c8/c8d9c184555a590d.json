@@ -1,0 +1,14 @@
+{
+  "hash": "c8d9c184555a590d",
+  "source": "Where a provider can subset server-side the characters are passed through to it, so the full file is never downloaded. Every other file is subsetted after download, which needs the {0} package; we will offer to install it the first time you run Nuxt with {1} set, or warn where we cannot ask, such as in CI, and fail the build before downloading any font that needs subsetting locally.",
+  "text": "Wenn ein Anbieter die Reduzierung serverseitig durchführen kann, werden die Zeichen an ihn weitergereicht, sodass die vollständige Datei nie heruntergeladen wird. Jede andere Datei wird nach dem Download reduziert, wofür das Paket {0} benötigt wird. Wir bieten an, es beim ersten Start von Nuxt mit gesetztem {1} zu installieren. Wo wir nicht nachfragen können, etwa in CI, warnen wir und lassen den Build fehlschlagen, bevor eine Schrift heruntergeladen wird, die lokal reduziert werden müsste.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn ein Anbieter die Reduzierung serverseitig durchführen kann, werden die Zeichen an ihn weitergereicht, sodass die vollständige Datei nie heruntergeladen wird. Jede andere Datei wird nach dem Download reduziert, wofür das Paket {0} benötigt wird. Wir bieten an, es beim ersten Start von Nuxt mit gesetztem {1} zu installieren. Wo wir nicht nachfragen können, etwa in CI, warnen wir und lassen den Build fehlschlagen, bevor eine Schrift heruntergeladen wird, die lokal reduziert werden müsste."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

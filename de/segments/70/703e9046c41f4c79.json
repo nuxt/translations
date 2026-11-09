@@ -1,0 +1,14 @@
+{
+  "hash": "703e9046c41f4c79",
+  "source": "Prefix component name by its path.",
+  "text": "Stellt dem Komponentennamen seinen Pfad als Präfix voran.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Stellt dem Komponentennamen seinen Pfad als Präfix voran."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

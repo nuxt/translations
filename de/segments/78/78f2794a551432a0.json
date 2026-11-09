@@ -1,0 +1,14 @@
+{
+  "hash": "78f2794a551432a0",
+  "source": "{0} provides a wrapper around {1} that triggers navigation before the handler is resolved by setting the {2} option to {3}.",
+  "text": "{0} stellt einen Wrapper um {1} bereit, der die Navigation auslöst, bevor der Handler aufgelöst ist, indem die Option {2} auf {3} gesetzt wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} stellt einen Wrapper um {1} bereit, der die Navigation auslöst, bevor der Handler aufgelöst ist, indem die Option {2} auf {3} gesetzt wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

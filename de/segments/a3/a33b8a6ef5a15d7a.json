@@ -1,0 +1,14 @@
+{
+  "hash": "a33b8a6ef5a15d7a",
+  "source": "{0} recreates the lockfile and {1} from scratch, and {2} deduplicates dependencies afterwards where the package manager supports it.",
+  "text": "{0} erstellt die Lock-Datei und {1} von Grund auf neu, und {2} dedupliziert anschließend die Abhängigkeiten, sofern der Paketmanager dies unterstützt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} erstellt die Lock-Datei und {1} von Grund auf neu, und {2} dedupliziert anschließend die Abhängigkeiten, sofern der Paketmanager dies unterstützt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

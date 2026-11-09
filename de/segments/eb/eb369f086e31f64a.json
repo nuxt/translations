@@ -1,0 +1,14 @@
+{
+  "hash": "eb369f086e31f64a",
+  "source": "{0} uses its first argument as a key if it is a string. If the first argument is the handler function that performs the query, then a key that is unique to the location of the {1} call in your source code will be generated for you.",
+  "text": "{0} verwendet sein erstes Argument als Schlüssel, wenn es ein String ist. Ist das erste Argument die Handler-Funktion, die die Abfrage ausführt, wird automatisch ein Schlüssel erzeugt, der für die Position des {1}-Aufrufs in deinem Quellcode eindeutig ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} verwendet sein erstes Argument als Schlüssel, wenn es ein String ist. Ist das erste Argument die Handler-Funktion, die die Abfrage ausführt, wird automatisch ein Schlüssel erzeugt, der für die Position des {1}-Aufrufs in deinem Quellcode eindeutig ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

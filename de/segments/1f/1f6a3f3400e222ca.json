@@ -1,0 +1,14 @@
+{
+  "hash": "1f6a3f3400e222ca",
+  "source": "JSON, HTML, XML and other textual responses are reindented and syntax-highlighted when the output is a terminal, and passed through byte for byte when it is piped. Use {0} to opt out, or {1} to force it on when piping.",
+  "text": "JSON, HTML, XML und andere textbasierte Antworten werden neu eingerückt und mit Syntaxhervorhebung dargestellt, wenn die Ausgabe in einem Terminal erfolgt. Bei Weiterleitung per Pipe werden sie Byte für Byte unverändert durchgereicht. Mit {0} schaltest du das ab, mit {1} erzwingst du es auch bei Pipe-Nutzung.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "JSON, HTML, XML und andere textbasierte Antworten werden neu eingerückt und mit Syntaxhervorhebung dargestellt, wenn die Ausgabe in einem Terminal erfolgt. Bei Weiterleitung per Pipe werden sie Byte für Byte unverändert durchgereicht. Mit {0} schaltest du das ab, mit {1} erzwingst du es auch bei Pipe-Nutzung."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

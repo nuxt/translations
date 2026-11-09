@@ -1,0 +1,14 @@
+{
+  "hash": "54dddf295854c2e3",
+  "source": "A **builder** is the part of Nuxt responsible for bundling your application. Nuxt ships with three official builders, {0}Vite{/0} (the default), {1}webpack{/1} and {2}Rspack{/2}, and you can select one with the {3} option or supply your own.",
+  "text": "Ein **Builder** ist der Teil von Nuxt, der für das Bündeln deiner Anwendung zuständig ist. Nuxt liefert drei offizielle Builder mit: {0}Vite{/0} (Standard), {1}webpack{/1} und {2}Rspack{/2}. Du kannst einen davon mit der Option {3} auswählen oder einen eigenen angeben.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein **Builder** ist der Teil von Nuxt, der für das Bündeln deiner Anwendung zuständig ist. Nuxt liefert drei offizielle Builder mit: {0}Vite{/0} (Standard), {1}webpack{/1} und {2}Rspack{/2}. Du kannst einen davon mit der Option {3} auswählen oder einen eigenen angeben."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

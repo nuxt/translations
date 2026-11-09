@@ -1,0 +1,14 @@
+{
+  "hash": "f7883acbb6049178",
+  "source": "Prompts Examples",
+  "text": "Beispiele für Prompts",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Beispiele für Prompts"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

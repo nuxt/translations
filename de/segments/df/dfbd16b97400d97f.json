@@ -1,0 +1,14 @@
+{
+  "hash": "dfbd16b97400d97f",
+  "source": "Regenerate templates that match the filter. If no filter is provided, all templates will be regenerated.",
+  "text": "Generiert Vorlagen neu, die dem Filter entsprechen. Wird kein Filter angegeben, werden alle Vorlagen neu generiert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Generiert Vorlagen neu, die dem Filter entsprechen. Wird kein Filter angegeben, werden alle Vorlagen neu generiert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

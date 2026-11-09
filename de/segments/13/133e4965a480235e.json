@@ -1,0 +1,14 @@
+{
+  "hash": "133e4965a480235e",
+  "source": "In your {0}, rename {1} to {2}. (Note that objects no longer have a {3} key for deduplication.)",
+  "text": "Benenne in deiner {0} {1} in {2} um. (Beachte, dass Objekte zur Deduplizierung keinen {3}-Schlüssel mehr haben.)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Benenne in deiner {0} {1} in {2} um. (Beachte, dass Objekte zur Deduplizierung keinen {3}-Schlüssel mehr haben.)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

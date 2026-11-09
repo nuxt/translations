@@ -1,0 +1,14 @@
+{
+  "hash": "dc542a56d657f51c",
+  "source": "{0}: Sets the urgency for screen reader announcements: {1} (disable the announcement), {2} (waits for silence), or {3} (interrupts immediately). (default {4}).",
+  "text": "{0}: Legt die Dringlichkeit von Screenreader-Ansagen fest: {1} (deaktiviert die Ansage), {2} (wartet auf eine Sprechpause) oder {3} (unterbricht sofort). (Standard: {4}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Legt die Dringlichkeit von Screenreader-Ansagen fest: {1} (deaktiviert die Ansage), {2} (wartet auf eine Sprechpause) oder {3} (unterbricht sofort). (Standard: {4})."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

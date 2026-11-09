@@ -1,0 +1,14 @@
+{
+  "hash": "d16fbd4a4d92e997",
+  "source": "Or using a Nuxt alias",
+  "text": "Oder mit einem Nuxt-Alias",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Oder mit einem Nuxt-Alias"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "c0b8e847df620217",
+  "source": "To publish a layer directory as an npm package, you want to make sure that the {0} has the correct properties filled out. This will make sure that the files are included when the package is published.",
+  "text": "Um ein Layer-Verzeichnis als npm-Paket zu veröffentlichen, musst du sicherstellen, dass in der {0} die richtigen Eigenschaften angegeben sind. Dadurch werden die Dateien beim Veröffentlichen des Pakets berücksichtigt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um ein Layer-Verzeichnis als npm-Paket zu veröffentlichen, musst du sicherstellen, dass in der {0} die richtigen Eigenschaften angegeben sind. Dadurch werden die Dateien beim Veröffentlichen des Pakets berücksichtigt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

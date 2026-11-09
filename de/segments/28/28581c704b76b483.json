@@ -1,0 +1,14 @@
+{
+  "hash": "28581c704b76b483",
+  "source": "The nudge is not shown for prereleases, and not for a patch release within the same minor unless you are at least five patches behind. The check is skipped in CI, on StackBlitz, and when the output is not a terminal.",
+  "text": "Der Hinweis wird weder für Vorabversionen angezeigt noch für ein Patch-Release innerhalb derselben Minor-Version, es sei denn, du liegst mindestens fünf Patches zurück. Die Prüfung wird in CI, auf StackBlitz und dann übersprungen, wenn die Ausgabe kein Terminal ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Hinweis wird weder für Vorabversionen angezeigt noch für ein Patch-Release innerhalb derselben Minor-Version, es sei denn, du liegst mindestens fünf Patches zurück. Die Prüfung wird in CI, auf StackBlitz und dann übersprungen, wenn die Ausgabe kein Terminal ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

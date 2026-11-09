@@ -1,0 +1,14 @@
+{
+  "hash": "dcc6d82290b93c02",
+  "source": "Where you previously used {0} to define a catch-all route, you now use {1}.",
+  "text": "Wo du zuvor {0} verwendet hast, um eine Catch-all-Route zu definieren, verwendest du jetzt {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wo du zuvor {0} verwendet hast, um eine Catch-all-Route zu definieren, verwendest du jetzt {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

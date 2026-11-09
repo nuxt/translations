@@ -1,0 +1,14 @@
+{
+  "hash": "7383e96653bb0f62",
+  "source": "The function holding your module logic, it can be asynchronous",
+  "text": "Die Funktion mit der Logik deines Moduls; sie kann asynchron sein",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Funktion mit der Logik deines Moduls; sie kann asynchron sein"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

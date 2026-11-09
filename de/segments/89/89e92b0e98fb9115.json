@@ -1,0 +1,14 @@
+{
+  "hash": "89e92b0e98fb9115",
+  "source": "{0}: Attributes to add to the {1} tag",
+  "text": "{0}: Attribute, die dem {1}-Tag hinzugefügt werden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Attribute, die dem {1}-Tag hinzugefügt werden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

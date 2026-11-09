@@ -1,0 +1,14 @@
+{
+  "hash": "9fbd45de579bff22",
+  "source": "Hydrates the component when the window matches a media query.",
+  "text": "Hydratisiert die Komponente, wenn das Fenster zu einer media query passt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Hydratisiert die Komponente, wenn das Fenster zu einer media query passt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

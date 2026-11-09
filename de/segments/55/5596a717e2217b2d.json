@@ -1,0 +1,14 @@
+{
+  "hash": "5596a717e2217b2d",
+  "source": "In the module above, we generate a virtual file named {0}. In the runtime plugin, we can import it using the {1} alias:",
+  "text": "Im obigen Modul generieren wir eine virtuelle Datei mit dem Namen {0}. Im Runtime-plugin können wir sie über den Alias {1} importieren:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Im obigen Modul generieren wir eine virtuelle Datei mit dem Namen {0}. Im Runtime-plugin können wir sie über den Alias {1} importieren:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "dab848d346469eea",
+  "source": "**{0}**: A Vite plugin instance or an array of Vite plugin instances. If a function is provided, it must return a Vite plugin instance or an array of Vite plugin instances. The function can also be async or return a Promise, which is useful for lazy-loading plugins:",
+  "text": "**{0}**: Eine Vite-Plugin-Instanz oder ein Array von Vite-Plugin-Instanzen. Wenn eine Funktion übergeben wird, muss sie eine Vite-Plugin-Instanz oder ein Array von Vite-Plugin-Instanzen zurückgeben. Die Funktion kann auch asynchron sein oder ein Promise zurückgeben, was für das verzögerte Laden von Plugins nützlich ist:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}**: Eine Vite-Plugin-Instanz oder ein Array von Vite-Plugin-Instanzen. Wenn eine Funktion übergeben wird, muss sie eine Vite-Plugin-Instanz oder ein Array von Vite-Plugin-Instanzen zurückgeben. Die Funktion kann auch asynchron sein oder ein Promise zurückgeben, was für das verzögerte Laden von Plugins nützlich ist:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

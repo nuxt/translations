@@ -1,0 +1,14 @@
+{
+  "hash": "b5163c6e53ecc9d3",
+  "source": "Visibility Strategy",
+  "text": "Visibility-Strategie",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Visibility-Strategie"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

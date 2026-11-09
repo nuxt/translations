@@ -1,0 +1,14 @@
+{
+  "hash": "fdb060adab1c2534",
+  "source": "Click the ellipsis button (**...**) at the top right, then click **Copilot** in the sidebar",
+  "text": "Klicke oben rechts auf die Schaltfläche mit den drei Punkten (**...**) und dann in der Seitenleiste auf **Copilot**",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Klicke oben rechts auf die Schaltfläche mit den drei Punkten (**...**) und dann in der Seitenleiste auf **Copilot**"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

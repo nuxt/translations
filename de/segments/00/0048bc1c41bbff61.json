@@ -1,0 +1,14 @@
+{
+  "hash": "0048bc1c41bbff61",
+  "source": "Port selection applies to static previews and preview commands that run directly with Node.js, Bun, or Deno. Other preview commands choose their own port.",
+  "text": "Die Portauswahl gilt für statische Vorschauen und für Preview-Befehle, die direkt mit Node.js, Bun oder Deno ausgeführt werden. Andere Preview-Befehle wählen ihren Port selbst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Portauswahl gilt für statische Vorschauen und für Preview-Befehle, die direkt mit Node.js, Bun oder Deno ausgeführt werden. Andere Preview-Befehle wählen ihren Port selbst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

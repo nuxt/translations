@@ -1,0 +1,14 @@
+{
+  "hash": "0c817863a8869fca",
+  "source": "Nuxt provides a layouts framework to extract common UI patterns into reusable layouts.",
+  "text": "Nuxt bietet ein Layout-Framework, mit dem du wiederkehrende Muster der Benutzeroberfläche in wiederverwendbare Layouts auslagern kannst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt bietet ein Layout-Framework, mit dem du wiederkehrende Muster der Benutzeroberfläche in wiederverwendbare Layouts auslagern kannst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

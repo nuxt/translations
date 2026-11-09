@@ -1,0 +1,14 @@
+{
+  "hash": "6e3b6c3af1a03bcb",
+  "source": "Upgrade, build, and read the notices. {0} is about modules, so it's their authors' work rather than yours. Errors in your own {1} directory are yours.",
+  "text": "Führe das Upgrade durch, erzeuge einen Build und lies die Hinweise. {0} betrifft Module und ist daher Aufgabe ihrer Autorinnen und Autoren, nicht deine. Fehler in deinem eigenen {1}-Verzeichnis musst du selbst beheben.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Führe das Upgrade durch, erzeuge einen Build und lies die Hinweise. {0} betrifft Module und ist daher Aufgabe ihrer Autorinnen und Autoren, nicht deine. Fehler in deinem eigenen {1}-Verzeichnis musst du selbst beheben."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

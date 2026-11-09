@@ -1,0 +1,14 @@
+{
+  "hash": "6a4b4ea3907bf806",
+  "source": "Then, when you use a {0} in your CSS, we check to see whether it matches one of these files. By default, we expect the font file to be the {1} weight, {2} style, and {3} subset. To indicate different weights and styles, please include that information in the filename. For example {4} (400/normal/latin; defaults), {5} (700/italic/cyrillic), or for variable fonts {6} (100 900/normal/latin). Named weights are accepted in place of a weight number: {7}. {8} values with spaces and/or caps will lookup hyphenated lowercase filenames as well, eg {9} will look for {10} as well as {11} on disk.",
+  "text": "Wenn du dann eine {0} in deinem CSS verwendest, prüfen wir, ob sie zu einer dieser Dateien passt. Standardmäßig erwarten wir, dass die Font-Datei die Stärke {1}, den Style {2} und das Subset {3} hat. Um andere Stärken und Styles anzugeben, nimm diese Informationen bitte in den Dateinamen auf. Zum Beispiel {4} (400/normal/latin; Standardwerte), {5} (700/italic/cyrillic) oder, für variable Fonts, {6} (100 900/normal/latin). Anstelle einer Zahl für die Stärke werden auch benannte Stärken akzeptiert: {7}. Bei {8}-Werten mit Leerzeichen und/oder Großbuchstaben wird zusätzlich nach Dateinamen in Kleinbuchstaben mit Bindestrichen gesucht, z. B. sucht {9} sowohl nach {10} als auch nach {11} auf dem Datenträger.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du dann eine {0} in deinem CSS verwendest, prüfen wir, ob sie zu einer dieser Dateien passt. Standardmäßig erwarten wir, dass die Font-Datei die Stärke {1}, den Style {2} und das Subset {3} hat. Um andere Stärken und Styles anzugeben, nimm diese Informationen bitte in den Dateinamen auf. Zum Beispiel {4} (400/normal/latin; Standardwerte), {5} (700/italic/cyrillic) oder, für variable Fonts, {6} (100 900/normal/latin). Anstelle einer Zahl für die Stärke werden auch benannte Stärken akzeptiert: {7}. Bei {8}-Werten mit Leerzeichen und/oder Großbuchstaben wird zusätzlich nach Dateinamen in Kleinbuchstaben mit Bindestrichen gesucht, z. B. sucht {9} sowohl nach {10} als auch nach {11} auf dem Datenträger."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

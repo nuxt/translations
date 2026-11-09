@@ -1,0 +1,14 @@
+{
+  "hash": "25e86b15a5aea2b9",
+  "source": "Now you can register server-only components with the {0} suffix and use them anywhere in your application automatically.",
+  "text": "Jetzt kannst du reine Serverkomponenten mit dem Suffix {0} registrieren und automatisch überall in deiner Anwendung verwenden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Jetzt kannst du reine Serverkomponenten mit dem Suffix {0} registrieren und automatisch überall in deiner Anwendung verwenden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

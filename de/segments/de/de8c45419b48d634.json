@@ -1,0 +1,14 @@
+{
+  "hash": "de8c45419b48d634",
+  "source": "Unit tests should not depend on Nuxt runtime features like auto-imports or composables. Only add TypeScript path alias support if your tests import from your source files (e.g., {0}), not for Nuxt-specific features.",
+  "text": "Unit-Tests sollten nicht von Nuxt-Laufzeitfunktionen wie automatischen Importen oder Composables abhängen. Füge die Unterstützung für TypeScript-Pfadaliase nur hinzu, wenn deine Tests aus deinen Quelldateien importieren (z. B. {0}), nicht für Nuxt-spezifische Funktionen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Unit-Tests sollten nicht von Nuxt-Laufzeitfunktionen wie automatischen Importen oder Composables abhängen. Füge die Unterstützung für TypeScript-Pfadaliase nur hinzu, wenn deine Tests aus deinen Quelldateien importieren (z. B. {0}), nicht für Nuxt-spezifische Funktionen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

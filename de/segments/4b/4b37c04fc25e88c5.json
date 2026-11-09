@@ -1,0 +1,14 @@
+{
+  "hash": "4b37c04fc25e88c5",
+  "source": "This context is globally available to be used with {0}Nuxt Kit{/0} composables. Therefore only one instance of Nuxt is allowed to run per process.",
+  "text": "Dieser Kontext ist global verfügbar und kann mit den Composables des {0}Nuxt Kit{/0} verwendet werden. Deshalb darf pro Prozess nur eine Nuxt-Instanz laufen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dieser Kontext ist global verfügbar und kann mit den Composables des {0}Nuxt Kit{/0} verwendet werden. Deshalb darf pro Prozess nur eine Nuxt-Instanz laufen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

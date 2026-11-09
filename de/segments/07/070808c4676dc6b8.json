@@ -1,0 +1,14 @@
+{
+  "hash": "070808c4676dc6b8",
+  "source": "On Windows, it is located at:",
+  "text": "Unter Windows befindet sie sich hier:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Unter Windows befindet sie sich hier:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

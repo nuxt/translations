@@ -1,0 +1,14 @@
+{
+  "hash": "ba77e6395c7c50a8",
+  "source": "A directory or an array of directories to register to be scanned for by Nitro as server dirs.",
+  "text": "Ein Verzeichnis oder ein Array von Verzeichnissen, die Nitro als Server-Verzeichnisse durchsuchen soll.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein Verzeichnis oder ein Array von Verzeichnissen, die Nitro als Server-Verzeichnisse durchsuchen soll."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

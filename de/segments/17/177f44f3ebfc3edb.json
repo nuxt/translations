@@ -1,0 +1,14 @@
+{
+  "hash": "177f44f3ebfc3edb",
+  "source": "Named font weights",
+  "text": "Benannte Schriftstärken",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Benannte Schriftstärken"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

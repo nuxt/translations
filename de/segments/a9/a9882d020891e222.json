@@ -1,0 +1,14 @@
+{
+  "hash": "a9882d020891e222",
+  "source": "**Automatic fallback to non-streamed rendering.** Streaming commits the response status and headers as soon as the shell is flushed, which is incompatible with features that need to mutate the response after render. Requests matching any of the following are not streamed; they use the buffered renderer, or short-circuit to a redirect or error response:",
+  "text": "**Automatischer Fallback auf nicht gestreamtes Rendering.** Streaming legt Status und Header der Antwort fest, sobald die Hülle ausgeliefert wurde. Das ist mit Features unvereinbar, die die Antwort nach dem Rendern noch ändern müssen. Anfragen, auf die eines der folgenden Kriterien zutrifft, werden nicht gestreamt; sie nutzen den gepufferten Renderer oder führen direkt zu einer Weiterleitung oder Fehlerantwort:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Automatischer Fallback auf nicht gestreamtes Rendering.** Streaming legt Status und Header der Antwort fest, sobald die Hülle ausgeliefert wurde. Das ist mit Features unvereinbar, die die Antwort nach dem Rendern noch ändern müssen. Anfragen, auf die eines der folgenden Kriterien zutrifft, werden nicht gestreamt; sie nutzen den gepufferten Renderer oder führen direkt zu einer Weiterleitung oder Fehlerantwort:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

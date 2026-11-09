@@ -1,0 +1,14 @@
+{
+  "hash": "fd64c164515cf5fd",
+  "source": "Reactive Keys and Shared State",
+  "text": "Reaktive Schlüssel und geteilter State",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Reaktive Schlüssel und geteilter State"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

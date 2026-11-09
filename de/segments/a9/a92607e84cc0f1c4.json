@@ -1,0 +1,14 @@
+{
+  "hash": "a92607e84cc0f1c4",
+  "source": "{0} \\| {1}: specify a tag to be rendered server-side.",
+  "text": "{0} \\| {1}: Gibt ein Tag an, das serverseitig gerendert wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} \\| {1}: Gibt ein Tag an, das serverseitig gerendert wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

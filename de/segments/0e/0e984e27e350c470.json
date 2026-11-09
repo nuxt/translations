@@ -1,0 +1,14 @@
+{
+  "hash": "0e984e27e350c470",
+  "source": "Expose {0} and {1} for internal usage of Nuxt",
+  "text": "Bereitstellen von {0} und {1} für die interne Nutzung durch Nuxt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bereitstellen von {0} und {1} für die interne Nutzung durch Nuxt"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

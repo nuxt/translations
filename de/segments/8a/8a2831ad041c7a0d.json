@@ -1,0 +1,14 @@
+{
+  "hash": "8a2831ad041c7a0d",
+  "source": "For in-page updates that are not navigations, such as form validation or toasts, use {0} with {1} instead.",
+  "text": "Für Aktualisierungen innerhalb einer Seite, die keine Navigationen sind, etwa Formularvalidierung oder Toasts, verwende stattdessen {0} mit {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Für Aktualisierungen innerhalb einer Seite, die keine Navigationen sind, etwa Formularvalidierung oder Toasts, verwende stattdessen {0} mit {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

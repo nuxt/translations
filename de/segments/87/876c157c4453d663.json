@@ -1,0 +1,14 @@
+{
+  "hash": "876c157c4453d663",
+  "source": "Clears the captured server log lines. Useful between requests when you want to assert only on the logs produced by a specific operation.",
+  "text": "Löscht die erfassten Protokollzeilen des Servers. Das ist nützlich zwischen Anfragen, wenn du nur die Protokolle einer bestimmten Operation prüfen möchtest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Löscht die erfassten Protokollzeilen des Servers. Das ist nützlich zwischen Anfragen, wenn du nur die Protokolle einer bestimmten Operation prüfen möchtest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

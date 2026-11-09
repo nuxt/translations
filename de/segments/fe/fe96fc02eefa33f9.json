@@ -1,0 +1,14 @@
+{
+  "hash": "fe96fc02eefa33f9",
+  "source": "If your project uses {0} or {1} files, add {2} as a dev dependency:",
+  "text": "Wenn dein Projekt {0}- oder {1}-Dateien verwendet, füge {2} als Entwicklungsabhängigkeit hinzu:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn dein Projekt {0}- oder {1}-Dateien verwendet, füge {2} als Entwicklungsabhängigkeit hinzu:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

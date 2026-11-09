@@ -1,0 +1,14 @@
+{
+  "hash": "742609c4df86ab10",
+  "source": "Watch a video from Alexander Lichter showcasing the top mistake developers make using runtimeConfig.",
+  "text": "Sieh dir ein Video von Alexander Lichter an, das den häufigsten Fehler zeigt, den Entwickelnde bei der Verwendung von runtimeConfig machen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sieh dir ein Video von Alexander Lichter an, das den häufigsten Fehler zeigt, den Entwickelnde bei der Verwendung von runtimeConfig machen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

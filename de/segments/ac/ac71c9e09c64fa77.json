@@ -1,0 +1,14 @@
+{
+  "hash": "ac71c9e09c64fa77",
+  "source": "The {0} directory allows you to share code that can be used in both the Vue app and the Nitro server.",
+  "text": "Im Verzeichnis {0} kannst du Code ablegen, der sowohl in der Vue-App als auch im Nitro-Server verwendet werden kann.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Im Verzeichnis {0} kannst du Code ablegen, der sowohl in der Vue-App als auch im Nitro-Server verwendet werden kann."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

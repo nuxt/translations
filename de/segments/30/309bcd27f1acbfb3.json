@@ -1,0 +1,14 @@
+{
+  "hash": "309bcd27f1acbfb3",
+  "source": "The {0} command starts a server to preview your Nuxt application after running the {1} command. The {2} command is an alias for {3}. When running your application in production refer to the {4}Deployment section{/4}.",
+  "text": "Der Befehl {0} startet einen Server, um deine Nuxt-Anwendung nach der Ausführung des Befehls {1} in der Vorschau anzuzeigen. Der Befehl {2} ist ein Alias für {3}. Wenn du deine Anwendung in Produktion betreibst, findest du weitere Informationen im {4}Abschnitt „Bereitstellung“{/4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Befehl {0} startet einen Server, um deine Nuxt-Anwendung nach der Ausführung des Befehls {1} in der Vorschau anzuzeigen. Der Befehl {2} ist ein Alias für {3}. Wenn du deine Anwendung in Produktion betreibst, findest du weitere Informationen im {4}Abschnitt „Bereitstellung“{/4}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

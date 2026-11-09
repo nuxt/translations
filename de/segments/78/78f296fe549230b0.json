@@ -1,0 +1,14 @@
+{
+  "hash": "78f296fe549230b0",
+  "source": "Find layers that have a specific custom directory",
+  "text": "Layer finden, die ein bestimmtes benutzerdefiniertes Verzeichnis besitzen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Layer finden, die ein bestimmtes benutzerdefiniertes Verzeichnis besitzen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "40fc36a4cba28064",
+  "source": "To globally refetch or invalidate cached data, see {0} and {1}.",
+  "text": "Informationen dazu, wie du zwischengespeicherte Daten global erneut abrufst oder invalidierst, findest du unter {0} und {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Informationen dazu, wie du zwischengespeicherte Daten global erneut abrufst oder invalidierst, findest du unter {0} und {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

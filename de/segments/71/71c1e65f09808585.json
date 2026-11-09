@@ -1,0 +1,14 @@
+{
+  "hash": "71c1e65f09808585",
+  "source": "might get an infinite redirect loop",
+  "text": "könnte eine endlose Umleitungsschleife entstehen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "könnte eine endlose Umleitungsschleife entstehen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

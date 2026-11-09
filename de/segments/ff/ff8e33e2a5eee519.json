@@ -1,0 +1,14 @@
+{
+  "hash": "ff8e33e2a5eee519",
+  "source": "Ship near-zero JavaScript for content and marketing sites while keeping islands of interactivity.",
+  "text": "Liefere für Inhalts- und Marketing-Websites nahezu kein JavaScript aus und behalte trotzdem Islands für Interaktivität.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Liefere für Inhalts- und Marketing-Websites nahezu kein JavaScript aus und behalte trotzdem Islands für Interaktivität."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

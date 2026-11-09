@@ -1,0 +1,14 @@
+{
+  "hash": "36b3b468223ef6eb",
+  "source": "{0}: The component's internal name, as shown in Vue DevTools. It does not change the name used in templates (that comes from the component's file name). Default is {1}.",
+  "text": "{0}: Der interne Name der Komponente, wie er in den Vue DevTools angezeigt wird. Er ändert nicht den Namen, der in Vorlagen verwendet wird (dieser stammt vom Dateinamen der Komponente). Standard ist {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Der interne Name der Komponente, wie er in den Vue DevTools angezeigt wird. Er ändert nicht den Namen, der in Vorlagen verwendet wird (dieser stammt vom Dateinamen der Komponente). Standard ist {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

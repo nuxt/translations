@@ -1,0 +1,14 @@
+{
+  "hash": "8059a4e7090d85f9",
+  "source": "**Offline:** Because code entirely runs in the browser, it can nicely keep working while the internet is unavailable.",
+  "text": "**Offline:** Da der Code vollständig im Browser läuft, kann er auch bei fehlender Internetverbindung weiterhin gut funktionieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Offline:** Da der Code vollständig im Browser läuft, kann er auch bei fehlender Internetverbindung weiterhin gut funktionieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

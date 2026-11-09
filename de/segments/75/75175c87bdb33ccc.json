@@ -1,0 +1,14 @@
+{
+  "hash": "75175c87bdb33ccc",
+  "source": "spa loading template",
+  "text": "SPA-Ladevorlage",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "SPA-Ladevorlage"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

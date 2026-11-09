@@ -1,0 +1,14 @@
+{
+  "hash": "bdcf0b5010fe56d7",
+  "source": "The options object accepts {0} mount options (use {1} instead of {2}) and the following properties:",
+  "text": "Das Optionsobjekt akzeptiert die {0}-Mount-Optionen (verwende {1} statt {2}) und die folgenden Eigenschaften:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Optionsobjekt akzeptiert die {0}-Mount-Optionen (verwende {1} statt {2}) und die folgenden Eigenschaften:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

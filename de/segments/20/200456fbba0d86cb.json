@@ -1,0 +1,14 @@
+{
+  "hash": "200456fbba0d86cb",
+  "source": "In Nuxt 4, the request headers determined the error format, so one URL could return a different error response to each kind of client. Caches had to vary on those headers. A {0} call to a page also returned JSON, while navigating to the same page returned HTML. Each URL now has a single error response.",
+  "text": "In Nuxt 4 bestimmten die Anfrage-Header das Fehlerformat, sodass eine URL je nach Client eine andere Fehlerantwort liefern konnte. Caches mussten anhand dieser Header variieren. Ein {0}-Aufruf an eine Seite lieferte außerdem JSON, während die Navigation zur selben Seite HTML lieferte. Jetzt hat jede URL genau eine Fehlerantwort.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In Nuxt 4 bestimmten die Anfrage-Header das Fehlerformat, sodass eine URL je nach Client eine andere Fehlerantwort liefern konnte. Caches mussten anhand dieser Header variieren. Ein {0}-Aufruf an eine Seite lieferte außerdem JSON, während die Navigation zur selben Seite HTML lieferte. Jetzt hat jede URL genau eine Fehlerantwort."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

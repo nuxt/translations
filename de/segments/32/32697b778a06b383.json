@@ -1,0 +1,14 @@
+{
+  "hash": "32697b778a06b383",
+  "source": "**Error response format**: {0} is enabled, so page errors return the error page and server route errors return JSON, {1}regardless of the request headers{/1}",
+  "text": "**Format von Fehlerantworten**: {0} ist aktiviert, sodass Seitenfehler die Fehlerseite und Fehler von Server-Routen JSON zurückgeben, {1}unabhängig von den Anfrage-Headern{/1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Format von Fehlerantworten**: {0} ist aktiviert, sodass Seitenfehler die Fehlerseite und Fehler von Server-Routen JSON zurückgeben, {1}unabhängig von den Anfrage-Headern{/1}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

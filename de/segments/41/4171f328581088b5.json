@@ -1,0 +1,14 @@
+{
+  "hash": "4171f328581088b5",
+  "source": "In production builds, the Vue runtime is bundled and emitted as the {0} and {1} packages in the server output.",
+  "text": "In Produktions-Builds wird die Vue-Laufzeit gebündelt und in der Server-Ausgabe als die Pakete {0} und {1} ausgegeben.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In Produktions-Builds wird die Vue-Laufzeit gebündelt und in der Server-Ausgabe als die Pakete {0} und {1} ausgegeben."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

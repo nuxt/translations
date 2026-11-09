@@ -1,0 +1,14 @@
+{
+  "hash": "36afebe4bba7c945",
+  "source": "The same lock file is how {0} and {1} find the server to talk to.",
+  "text": "Über dieselbe Lock-Datei finden {0} und {1} den Server, mit dem sie kommunizieren sollen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Über dieselbe Lock-Datei finden {0} und {1} den Server, mit dem sie kommunizieren sollen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

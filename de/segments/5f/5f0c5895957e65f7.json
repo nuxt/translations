@@ -1,0 +1,14 @@
+{
+  "hash": "5f0c5895957e65f7",
+  "source": "**State inconsistencies**: Application state can become out of sync between what the user sees and what the application thinks is rendered",
+  "text": "**Inkonsistenter Zustand**: Der Zustand der Anwendung kann von dem abweichen, was Nutzende sehen und was die Anwendung als gerendert annimmt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Inkonsistenter Zustand**: Der Zustand der Anwendung kann von dem abweichen, was Nutzende sehen und was die Anwendung als gerendert annimmt"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

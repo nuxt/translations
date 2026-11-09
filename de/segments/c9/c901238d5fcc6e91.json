@@ -1,0 +1,14 @@
+{
+  "hash": "c901238d5fcc6e91",
+  "source": "Watch mode",
+  "text": "Watch-Modus",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Watch-Modus"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

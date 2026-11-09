@@ -1,0 +1,14 @@
+{
+  "hash": "97dfe6f5c0b50c26",
+  "source": "Redirect rule for the route. Supports named routes, objects, or string paths.",
+  "text": "Weiterleitungsregel für die Route. Unterstützt benannte Routen, Objekte oder Zeichenketten-Pfade.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Weiterleitungsregel für die Route. Unterstützt benannte Routen, Objekte oder Zeichenketten-Pfade."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

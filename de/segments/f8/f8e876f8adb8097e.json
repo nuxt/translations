@@ -1,0 +1,14 @@
+{
+  "hash": "f8e876f8adb8097e",
+  "source": "this plugin will wait for the end of {0}'s execution before it runs",
+  "text": "dieses Plugin wartet das Ende der Ausführung von {0} ab, bevor es selbst läuft",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "dieses Plugin wartet das Ende der Ausführung von {0} ab, bevor es selbst läuft"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

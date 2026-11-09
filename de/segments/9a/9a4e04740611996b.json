@@ -1,0 +1,14 @@
+{
+  "hash": "9a4e04740611996b",
+  "source": "Nuxt exposes the following properties through {0}:",
+  "text": "Nuxt stellt über {0} die folgenden Eigenschaften bereit:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt stellt über {0} die folgenden Eigenschaften bereit:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

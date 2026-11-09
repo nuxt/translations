@@ -1,0 +1,14 @@
+{
+  "hash": "b6a344d2973f190b",
+  "source": "The {0} property on {1} was kept as a backward-compatibility fallback after {2} migrated the internal API to {3}. The TODO comments indicated it should be removed in Nuxt v5.",
+  "text": "Die Eigenschaft {0} auf {1} wurde als Fallback zur Abwärtskompatibilität beibehalten, nachdem {2} die interne API auf {3} migriert hatte. Die TODO-Kommentare wiesen darauf hin, dass sie in Nuxt v5 entfernt werden sollte.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Eigenschaft {0} auf {1} wurde als Fallback zur Abwärtskompatibilität beibehalten, nachdem {2} die interne API auf {3} migriert hatte. Die TODO-Kommentare wiesen darauf hin, dass sie in Nuxt v5 entfernt werden sollte."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "6f4021bb6d04ad8b",
+  "source": "Use onPrehydrate to run a callback on the client immediately before Nuxt hydrates the page.",
+  "text": "Mit onPrehydrate führst du einen Callback auf dem Client unmittelbar aus, bevor Nuxt die Seite hydratisiert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit onPrehydrate führst du einen Callback auf dem Client unmittelbar aus, bevor Nuxt die Seite hydratisiert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

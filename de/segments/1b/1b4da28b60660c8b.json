@@ -1,0 +1,14 @@
+{
+  "hash": "1b4da28b60660c8b",
+  "source": "**Nuxt composables called after {0}** in a Vapor {1} may lose the Nuxt context. Call them before the first {2} where possible.",
+  "text": "**Nuxt-Composables, die nach {0}** in einem Vapor-{1} aufgerufen werden, können den Nuxt-Kontext verlieren. Rufe sie, wenn möglich, vor dem ersten {2} auf.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Nuxt-Composables, die nach {0}** in einem Vapor-{1} aufgerufen werden, können den Nuxt-Kontext verlieren. Rufe sie, wenn möglich, vor dem ersten {2} auf."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

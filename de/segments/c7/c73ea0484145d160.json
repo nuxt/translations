@@ -1,0 +1,14 @@
+{
+  "hash": "c73ea0484145d160",
+  "source": "This component is responsible for handling errors that occur within its default slot. On client-side, it will prevent the error from bubbling up to the top level, and will render the {0} slot instead.",
+  "text": "Diese Komponente behandelt Fehler, die in ihrem Default-Slot auftreten. Auf dem Client verhindert sie, dass der Fehler bis auf die oberste Ebene weitergereicht wird, und rendert stattdessen den Slot {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese Komponente behandelt Fehler, die in ihrem Default-Slot auftreten. Auf dem Client verhindert sie, dass der Fehler bis auf die oberste Ebene weitergereicht wird, und rendert stattdessen den Slot {0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

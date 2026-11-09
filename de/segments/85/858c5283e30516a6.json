@@ -1,0 +1,14 @@
+{
+  "hash": "858c5283e30516a6",
+  "source": "{0} and the {1} and {2} helpers are experimental, and are exported from {3}. Their shape will change without a major release while a second server builder is being built out.",
+  "text": "{0} sowie die Hilfsfunktionen {1} und {2} sind experimentell und werden aus {3} exportiert. Ihre Struktur ändert sich ohne Major-Release, solange ein zweiter Server-Builder entwickelt wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} sowie die Hilfsfunktionen {1} und {2} sind experimentell und werden aus {3} exportiert. Ihre Struktur ändert sich ohne Major-Release, solange ein zweiter Server-Builder entwickelt wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

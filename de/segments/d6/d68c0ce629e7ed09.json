@@ -1,0 +1,14 @@
+{
+  "hash": "d68c0ce629e7ed09",
+  "source": "Nitro v3 removed its auto-import support, so utilities such as {0}, {1}, {2} and {3} are no longer global in server code. Nuxt still provides them, but in Nuxt 5 they are off by default. If server code uses one of them without importing it, the build warns with {4} and lists the imports to add.",
+  "text": "Nitro v3 hat die Unterstützung für automatische Importe entfernt, daher sind Utilities wie {0}, {1}, {2} und {3} im Servercode nicht mehr global verfügbar. Nuxt stellt sie weiterhin bereit, in Nuxt 5 sind sie aber standardmäßig deaktiviert. Verwendet Servercode eine davon ohne Import, gibt der Build die Warnung {4} aus und listet die hinzuzufügenden Importe auf.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nitro v3 hat die Unterstützung für automatische Importe entfernt, daher sind Utilities wie {0}, {1}, {2} und {3} im Servercode nicht mehr global verfügbar. Nuxt stellt sie weiterhin bereit, in Nuxt 5 sind sie aber standardmäßig deaktiviert. Verwendet Servercode eine davon ohne Import, gibt der Build die Warnung {4} aus und listet die hinzuzufügenden Importe auf."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

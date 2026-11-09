@@ -1,0 +1,14 @@
+{
+  "hash": "26b4530a552bbb4b",
+  "source": "specify specific font data - this will bypass any providers",
+  "text": "bestimmte Schriftdaten angeben – dadurch werden alle Provider umgangen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "bestimmte Schriftdaten angeben – dadurch werden alle Provider umgangen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

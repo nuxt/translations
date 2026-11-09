@@ -1,0 +1,14 @@
+{
+  "hash": "8f700c74287158ba",
+  "source": "Fetch options can be provided as reactive, supporting {0}, {1} and {2}computed getters{/2}. When a reactive fetch option is updated it will trigger a refetch using the updated resolved reactive value.",
+  "text": "Fetch-Optionen können reaktiv angegeben werden und unterstützen {0}, {1} und {2}Computed Getter{/2}. Wird eine reaktive Fetch-Option aktualisiert, löst dies einen erneuten Abruf mit dem aktualisierten, aufgelösten reaktiven Wert aus.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fetch-Optionen können reaktiv angegeben werden und unterstützen {0}, {1} und {2}Computed Getter{/2}. Wird eine reaktive Fetch-Option aktualisiert, löst dies einen erneuten Abruf mit dem aktualisierten, aufgelösten reaktiven Wert aus."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

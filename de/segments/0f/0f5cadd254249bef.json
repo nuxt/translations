@@ -1,0 +1,14 @@
+{
+  "hash": "0f5cadd254249bef",
+  "source": "Error handling",
+  "text": "Fehlerbehandlung",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fehlerbehandlung"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

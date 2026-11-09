@@ -1,0 +1,14 @@
+{
+  "hash": "afe03e7580b38894",
+  "source": "Only a specially-named environment variable can override a runtime config property. That is, an uppercase environment variable starting with {0} which uses {1} to separate keys and case changes.",
+  "text": "Nur eine speziell benannte Umgebungsvariable kann eine Eigenschaft der Laufzeitkonfiguration überschreiben. Gemeint ist eine Umgebungsvariable in Großbuchstaben, die mit {0} beginnt und {1} verwendet, um Schlüssel und Groß-/Kleinschreibungswechsel zu trennen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nur eine speziell benannte Umgebungsvariable kann eine Eigenschaft der Laufzeitkonfiguration überschreiben. Gemeint ist eine Umgebungsvariable in Großbuchstaben, die mit {0} beginnt und {1} verwendet, um Schlüssel und Groß-/Kleinschreibungswechsel zu trennen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

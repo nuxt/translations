@@ -1,0 +1,14 @@
+{
+  "hash": "4ffb58ef734c9b1b",
+  "source": "While not required it's recommended to update any imports from {0} to {1} or {2}.",
+  "text": "Es ist nicht erforderlich, aber empfehlenswert, alle Importe von {0} auf {1} oder {2} umzustellen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Es ist nicht erforderlich, aber empfehlenswert, alle Importe von {0} auf {1} oder {2} umzustellen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

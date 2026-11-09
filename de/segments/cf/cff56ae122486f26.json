@@ -1,0 +1,14 @@
+{
+  "hash": "cff56ae122486f26",
+  "source": "Path to the plugin. The plugin must export a default function that accepts the Nitro instance as an argument.",
+  "text": "Pfad zum plugin. Das plugin muss eine Standardfunktion exportieren, die die Nitro-Instanz als Argument entgegennimmt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pfad zum plugin. Das plugin muss eine Standardfunktion exportieren, die die Nitro-Instanz als Argument entgegennimmt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

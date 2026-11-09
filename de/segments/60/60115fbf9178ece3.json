@@ -1,0 +1,14 @@
+{
+  "hash": "60115fbf9178ece3",
+  "source": "Full Example with {0}",
+  "text": "Vollständiges Beispiel mit {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vollständiges Beispiel mit {0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

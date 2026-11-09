@@ -1,0 +1,14 @@
+{
+  "hash": "1ad7dec11714afe6",
+  "source": "Nuxt provides <NuxtLink> component to handle any kind of links within your application.",
+  "text": "Nuxt stellt die Komponente <NuxtLink> bereit, um jede Art von Links in deiner Anwendung zu verarbeiten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt stellt die Komponente <NuxtLink> bereit, um jede Art von Links in deiner Anwendung zu verarbeiten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

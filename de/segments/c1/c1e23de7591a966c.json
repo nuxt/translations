@@ -1,0 +1,14 @@
+{
+  "hash": "c1e23de7591a966c",
+  "source": "Expiration date for the cookie. By default, no expiration is set. Most clients will consider this a \"non-persistent cookie\" and will delete it on a condition like exiting a web browser application.{0}**Note:** The {1}cookie storage model specification{/1} states that if both {2} and {3} is set, then {4} takes precedence, but not all clients may obey this, so if both are set, they should point to the same date and time!{5}If neither of {6} and {7} is set, the cookie will be session-only and removed when the user closes their browser.",
+  "text": "Ablaufdatum des Cookies. Standardmäßig ist kein Ablaufdatum festgelegt. Die meisten Clients behandeln dies als „nicht persistentes Cookie“ und löschen es, sobald z. B. die Browseranwendung beendet wird.{0}**Hinweis:** Laut der {1}Spezifikation des Cookie-Speichermodells{/1} hat {3} Vorrang, wenn sowohl {2} als auch {4} gesetzt sind. Nicht alle Clients halten sich jedoch daran. Wenn beide gesetzt sind, sollten sie daher auf dasselbe Datum und dieselbe Uhrzeit verweisen!{5}Wenn weder {6} noch {7} gesetzt ist, gilt das Cookie nur für die Sitzung und wird entfernt, sobald die nutzende Person den Browser schließt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ablaufdatum des Cookies. Standardmäßig ist kein Ablaufdatum festgelegt. Die meisten Clients behandeln dies als „nicht persistentes Cookie“ und löschen es, sobald z. B. die Browseranwendung beendet wird.{0}**Hinweis:** Laut der {1}Spezifikation des Cookie-Speichermodells{/1} hat {3} Vorrang, wenn sowohl {2} als auch {4} gesetzt sind. Nicht alle Clients halten sich jedoch daran. Wenn beide gesetzt sind, sollten sie daher auf dasselbe Datum und dieselbe Uhrzeit verweisen!{5}Wenn weder {6} noch {7} gesetzt ist, gilt das Cookie nur für die Sitzung und wird entfernt, sobald die nutzende Person den Browser schließt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

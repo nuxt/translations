@@ -1,0 +1,14 @@
+{
+  "hash": "ae156c9bdf1a65ec",
+  "source": "{0} - The payload is inlined in the HTML for the initial render and extracted to {1} files for client-side navigation. There is no extra network request on first load.",
+  "text": "{0} – Die Payload wird für das initiale Rendering in das HTML eingebettet und für die clientseitige Navigation in {1}-Dateien extrahiert. Beim ersten Laden gibt es keine zusätzliche Netzwerkanfrage.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} – Die Payload wird für das initiale Rendering in das HTML eingebettet und für die clientseitige Navigation in {1}-Dateien extrahiert. Beim ersten Laden gibt es keine zusätzliche Netzwerkanfrage."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "5945865b429d1d40",
+  "source": "An array of event types, which, when received, will cause the watcher to restart.",
+  "text": "Ein Array von Ereignistypen, bei deren Empfang der Watcher neu gestartet wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein Array von Ereignistypen, bei deren Empfang der Watcher neu gestartet wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

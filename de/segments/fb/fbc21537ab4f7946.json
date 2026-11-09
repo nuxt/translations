@@ -1,0 +1,14 @@
+{
+  "hash": "fbc21537ab4f7946",
+  "source": "A dependency with CommonJS format, can use {0} or {1} to provide a default export:",
+  "text": "Eine Abhängigkeit im CommonJS-Format kann {0} oder {1} verwenden, um einen Default-Export bereitzustellen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine Abhängigkeit im CommonJS-Format kann {0} oder {1} verwenden, um einen Default-Export bereitzustellen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

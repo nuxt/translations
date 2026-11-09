@@ -1,0 +1,14 @@
+{
+  "hash": "69f3e64030507465",
+  "source": "{0}Fontsource{/0} is a collection of open-source fonts that are designed for self-hosting in web applications.",
+  "text": "{0}Fontsource{/0} ist eine Sammlung von Open-Source-Schriften, die für das Self-Hosting in Web-Anwendungen gedacht sind.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}Fontsource{/0} ist eine Sammlung von Open-Source-Schriften, die für das Self-Hosting in Web-Anwendungen gedacht sind."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

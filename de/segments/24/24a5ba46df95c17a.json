@@ -1,0 +1,14 @@
+{
+  "hash": "24a5ba46df95c17a",
+  "source": "Best practices when using Nuxt plugins.",
+  "text": "Best Practices für die Verwendung von Nuxt-Plugins.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Best Practices für die Verwendung von Nuxt-Plugins."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

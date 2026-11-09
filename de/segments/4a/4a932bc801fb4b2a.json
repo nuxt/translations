@@ -1,0 +1,14 @@
+{
+  "hash": "4a932bc801fb4b2a",
+  "source": "Error object if the data fetching failed.",
+  "text": "Fehlerobjekt, falls der Datenabruf fehlgeschlagen ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fehlerobjekt, falls der Datenabruf fehlgeschlagen ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

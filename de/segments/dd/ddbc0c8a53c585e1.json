@@ -1,0 +1,14 @@
+{
+  "hash": "ddbc0c8a53c585e1",
+  "source": "Creating Events and Listeners",
+  "text": "Events und Listener erstellen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Events und Listener erstellen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "a493c29d28fb0a56",
+  "source": "Unless {0} is {1}, Nuxt matches {2}route rules{/2} by lower-casing both the request path and the rule pattern. Regex constraints in the pattern are kept as written, so they must be written for lower-case letters: {3} matches {4}.",
+  "text": "Sofern {0} nicht {1} ist, gleicht Nuxt {2}Routenregeln{/2} ab, indem es sowohl den Anfragepfad als auch das Regelmuster in Kleinbuchstaben umwandelt. Reguläre Ausdrücke im Muster bleiben unverändert und müssen daher für Kleinbuchstaben geschrieben sein: {3} trifft auf {4} zu.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sofern {0} nicht {1} ist, gleicht Nuxt {2}Routenregeln{/2} ab, indem es sowohl den Anfragepfad als auch das Regelmuster in Kleinbuchstaben umwandelt. Reguläre Ausdrücke im Muster bleiben unverändert und müssen daher für Kleinbuchstaben geschrieben sein: {3} trifft auf {4} zu."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

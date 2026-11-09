@@ -1,0 +1,14 @@
+{
+  "hash": "81ff87a2e7c5245f",
+  "source": "Path or URL to open instead of the dev server root",
+  "text": "Pfad oder URL, der bzw. die statt des Stammverzeichnisses des Entwicklungsservers geöffnet werden soll",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pfad oder URL, der bzw. die statt des Stammverzeichnisses des Entwicklungsservers geöffnet werden soll"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "dbe50900e2160c1b",
+  "source": "If you use {0}, the real compiler packages are still included as before.",
+  "text": "Wenn du {0} verwendest, sind die echten Compiler-Pakete weiterhin wie bisher enthalten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du {0} verwendest, sind die echten Compiler-Pakete weiterhin wie bisher enthalten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

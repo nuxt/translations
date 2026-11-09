@@ -1,0 +1,14 @@
+{
+  "hash": "e26ba85e12d65afb",
+  "source": "**{0}** - Provides comprehensive documentation including getting started guides, API references, blog posts, and deployment guides (\\~1M+ tokens)",
+  "text": "**{0}** – Bietet eine umfassende Dokumentation einschließlich Einstiegsanleitungen, API-Referenzen, Blogbeiträgen und Anleitungen zur Bereitstellung (\\~1M+ Token)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** – Bietet eine umfassende Dokumentation einschließlich Einstiegsanleitungen, API-Referenzen, Blogbeiträgen und Anleitungen zur Bereitstellung (\\~1M+ Token)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

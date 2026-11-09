@@ -1,0 +1,14 @@
+{
+  "hash": "3eb9756f5bc80ff8",
+  "source": "{0} reserves the {1} slot to specify content rendered before the island loads (when {2} is set) or when fetching the island fails.",
+  "text": "{0} reserviert den Slot {1}, um Inhalte festzulegen, die vor dem Laden des Islands (wenn {2} gesetzt ist) oder bei einem fehlgeschlagenen Abruf des Islands gerendert werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} reserviert den Slot {1}, um Inhalte festzulegen, die vor dem Laden des Islands (wenn {2} gesetzt ist) oder bei einem fehlgeschlagenen Abruf des Islands gerendert werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

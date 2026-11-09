@@ -1,0 +1,14 @@
+{
+  "hash": "ccc5faa66c9dc9f2",
+  "source": "{0} is for components that can be hydrated when the browser is idle.",
+  "text": "{0} ist für Komponenten gedacht, die hydratisiert werden können, wenn der Browser inaktiv ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ist für Komponenten gedacht, die hydratisiert werden können, wenn der Browser inaktiv ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

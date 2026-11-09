@@ -1,0 +1,14 @@
+{
+  "hash": "85e30a2c4e6028c5",
+  "source": "Any global middleware (such as in your {0}) can be placed in your {1} folder with a {2} extension, for example {3}.",
+  "text": "Jede globale Middleware (etwa in deiner {0}) kann in deinem {1}-Verzeichnis mit der Endung {2} abgelegt werden, zum Beispiel {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Jede globale Middleware (etwa in deiner {0}) kann in deinem {1}-Verzeichnis mit der Endung {2} abgelegt werden, zum Beispiel {3}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

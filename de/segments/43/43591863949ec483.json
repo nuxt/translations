@@ -1,0 +1,14 @@
+{
+  "hash": "43591863949ec483",
+  "source": "**{0}**: A webpack plugin instance or an array of webpack plugin instances. If a function is provided, it must return a webpack plugin instance or an array of webpack plugin instances. The function can also be async or return a Promise, enabling lazy-loading of plugins.",
+  "text": "**{0}**: Eine webpack-Plugin-Instanz oder ein Array von webpack-Plugin-Instanzen. Wenn eine Funktion übergeben wird, muss sie eine webpack-Plugin-Instanz oder ein Array von webpack-Plugin-Instanzen zurückgeben. Die Funktion kann auch asynchron sein oder ein Promise zurückgeben, wodurch Plugins verzögert geladen werden können.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}**: Eine webpack-Plugin-Instanz oder ein Array von webpack-Plugin-Instanzen. Wenn eine Funktion übergeben wird, muss sie eine webpack-Plugin-Instanz oder ein Array von webpack-Plugin-Instanzen zurückgeben. Die Funktion kann auch asynchron sein oder ein Promise zurückgeben, wodurch Plugins verzögert geladen werden können."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

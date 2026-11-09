@@ -1,0 +1,14 @@
+{
+  "hash": "50874c7beaa1efb8",
+  "source": "Putting It Together",
+  "text": "Alles zusammenführen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Alles zusammenführen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "3c25e3ce7b92bf21",
+  "source": "**Types.** If you augment {0}, update it to the new module paths. See {1}Route Rule Types Move to {2}{/1}. The layer changes how your server code runs, not how it type-checks. {3} in a server route is still reported, because typed {4} responses check route files alongside your app code, and an {5} imported from a project dependency on h3 v1 does not match Nitro v3's event.",
+  "text": "**Typen.** Wenn du {0} erweiterst, aktualisiere es auf die neuen Modulpfade. Siehe {1}Typen für Route-Rules wechseln zu {2}{/1}. Der Layer ändert, wie dein Servercode ausgeführt wird, nicht, wie er typgeprüft wird. {3} in einer Server-Route wird weiterhin gemeldet, da typisierte {4}-Antworten Route-Dateien zusammen mit deinem App-Code prüfen und ein {5}, der aus einer Projektabhängigkeit auf h3 v1 importiert wird, nicht zum Event von Nitro v3 passt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Typen.** Wenn du {0} erweiterst, aktualisiere es auf die neuen Modulpfade. Siehe {1}Typen für Route-Rules wechseln zu {2}{/1}. Der Layer ändert, wie dein Servercode ausgeführt wird, nicht, wie er typgeprüft wird. {3} in einer Server-Route wird weiterhin gemeldet, da typisierte {4}-Antworten Route-Dateien zusammen mit deinem App-Code prüfen und ein {5}, der aus einer Projektabhängigkeit auf h3 v1 importiert wird, nicht zum Event von Nitro v3 passt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e0339b2986b2459a",
+  "source": "It is recommended instead to use {0}.",
+  "text": "Stattdessen wird empfohlen, {0} zu verwenden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Stattdessen wird empfohlen, {0} zu verwenden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

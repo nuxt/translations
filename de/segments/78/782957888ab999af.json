@@ -1,0 +1,14 @@
+{
+  "hash": "782957888ab999af",
+  "source": "Screenshot of Vue hydration mismatch warning in the browser console",
+  "text": "Screenshot einer Vue-Warnung zu einem Hydration-Mismatch in der Browser-Konsole",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Screenshot einer Vue-Warnung zu einem Hydration-Mismatch in der Browser-Konsole"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

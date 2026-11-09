@@ -1,0 +1,14 @@
+{
+  "hash": "ede29e8f92e0efd2",
+  "source": "Register hooks for request lifecycle events, such as modifying responses.",
+  "text": "Hooks für Ereignisse im Lebenszyklus einer Anfrage registrieren, etwa um Antworten zu ändern.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Hooks für Ereignisse im Lebenszyklus einer Anfrage registrieren, etwa um Antworten zu ändern."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "d0879411ee9cf47b",
+  "source": "Middleware handlers will run on every request before any other server route to add or check headers, log requests, or extend the event's request object.",
+  "text": "Middleware-Handler laufen bei jeder Anfrage vor allen anderen Server-Routen, um Header hinzuzufügen oder zu prüfen, Anfragen zu protokollieren oder das Anfrageobjekt des Events zu erweitern.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Middleware-Handler laufen bei jeder Anfrage vor allen anderen Server-Routen, um Header hinzuzufügen oder zu prüfen, Anfragen zu protokollieren oder das Anfrageobjekt des Events zu erweitern."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

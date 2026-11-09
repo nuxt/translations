@@ -1,0 +1,14 @@
+{
+  "hash": "69512e1d9b33777f",
+  "source": "{0}Vue’s single-file components{/0} (SFC or {1} files) encapsulate the markup ({2}), logic ({3}) and styling ({4}) of a Vue component. Nuxt provides a zero-config experience for SFCs with {5}Hot Module Replacement{/5} that offers a seamless developer experience.",
+  "text": "{0}Single-File-Komponenten von Vue{/0} (SFC oder {1}-Dateien) kapseln das Markup ({2}), die Logik ({3}) und das Styling ({4}) einer Vue-Komponente. Nuxt bietet für SFCs eine Erfahrung ohne Konfiguration mit {5}Hot Module Replacement{/5}, die eine nahtlose Developer Experience ermöglicht.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}Single-File-Komponenten von Vue{/0} (SFC oder {1}-Dateien) kapseln das Markup ({2}), die Logik ({3}) und das Styling ({4}) einer Vue-Komponente. Nuxt bietet für SFCs eine Erfahrung ohne Konfiguration mit {5}Hot Module Replacement{/5}, die eine nahtlose Developer Experience ermöglicht."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

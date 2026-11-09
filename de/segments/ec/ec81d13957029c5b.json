@@ -1,0 +1,14 @@
+{
+  "hash": "ec81d13957029c5b",
+  "source": "Nuxt does not currently support an alternative serializer to {0}. However, you can return your payload as a normal string and utilize the {1} method to maintain type safety.",
+  "text": "Nuxt unterstützt derzeit keinen alternativen Serialisierer zu {0}. Du kannst deine Payload jedoch als normalen String zurückgeben und die Methode {1} nutzen, um die Typsicherheit zu wahren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt unterstützt derzeit keinen alternativen Serialisierer zu {0}. Du kannst deine Payload jedoch als normalen String zurückgeben und die Methode {1} nutzen, um die Typsicherheit zu wahren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

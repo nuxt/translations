@@ -1,0 +1,14 @@
+{
+  "hash": "50ffde731001f86f",
+  "source": "In the case of more complex URL construction, you may use a callback as a {0}computed getter{/0} that returns the URL string.",
+  "text": "Bei einer komplexeren URL-Erstellung kannst du eine Callback-Funktion als {0}berechneten Getter{/0} verwenden, die den URL-String zurückgibt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bei einer komplexeren URL-Erstellung kannst du eine Callback-Funktion als {0}berechneten Getter{/0} verwenden, die den URL-String zurückgibt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

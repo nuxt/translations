@@ -1,0 +1,14 @@
+{
+  "hash": "463aebd6fa9d3a68",
+  "source": "See how to register one handler per server API.",
+  "text": "Erfahre, wie du pro Server-API einen Handler registrierst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erfahre, wie du pro Server-API einen Handler registrierst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

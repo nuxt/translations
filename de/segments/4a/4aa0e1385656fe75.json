@@ -1,0 +1,14 @@
+{
+  "hash": "4aa0e1385656fe75",
+  "source": "Each module is either a string (which can refer to a package, or be a path to a file), a tuple with the module as first string and the options as a second object, or an inline module function. Nuxt tries to resolve each item in the modules array using node require path (in {0}) and then will be resolved from project {1} if {2} alias is used.",
+  "text": "Jedes Modul ist entweder ein String (der auf ein Paket verweisen oder ein Dateipfad sein kann), ein Tupel mit dem Modul als erstem String und den Optionen als zweitem Objekt oder eine Inline-Modulfunktion. Nuxt versucht, jeden Eintrag im Array modules über den Node-require-Pfad (in {0}) aufzulösen. Wird der Alias {2} verwendet, erfolgt die Auflösung anschließend ausgehend vom Projektverzeichnis {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Jedes Modul ist entweder ein String (der auf ein Paket verweisen oder ein Dateipfad sein kann), ein Tupel mit dem Modul als erstem String und den Optionen als zweitem Objekt oder eine Inline-Modulfunktion. Nuxt versucht, jeden Eintrag im Array modules über den Node-require-Pfad (in {0}) aufzulösen. Wird der Alias {2} verwendet, erfolgt die Auflösung anschließend ausgehend vom Projektverzeichnis {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

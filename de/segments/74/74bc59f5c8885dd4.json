@@ -1,0 +1,14 @@
+{
+  "hash": "74bc59f5c8885dd4",
+  "source": "To keep Nitro's own build pass:",
+  "text": "So behältst du Nitros eigenen Build-Durchlauf bei:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "So behältst du Nitros eigenen Build-Durchlauf bei:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

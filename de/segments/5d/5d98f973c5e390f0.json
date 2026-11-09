@@ -1,0 +1,14 @@
+{
+  "hash": "5d98f973c5e390f0",
+  "source": "Vue SSR Template on GitHub",
+  "text": "Vue-SSR-Vorlage auf GitHub",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vue-SSR-Vorlage auf GitHub"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

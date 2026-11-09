@@ -1,0 +1,14 @@
+{
+  "hash": "0165da690304016c",
+  "source": "Migrating Using Codemods",
+  "text": "Migration mit Codemods",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Migration mit Codemods"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

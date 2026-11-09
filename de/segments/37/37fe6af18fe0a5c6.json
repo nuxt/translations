@@ -1,0 +1,14 @@
+{
+  "hash": "37fe6af18fe0a5c6",
+  "source": "Testing helps ensure your module works as expected given various setups. Find in this section how to perform various kinds of tests against your module.",
+  "text": "Tests stellen sicher, dass dein Modul in unterschiedlichen Setups wie erwartet funktioniert. In diesem Abschnitt erfährst du, wie du verschiedene Arten von Tests für dein Modul durchführst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Tests stellen sicher, dass dein Modul in unterschiedlichen Setups wie erwartet funktioniert. In diesem Abschnitt erfährst du, wie du verschiedene Arten von Tests für dein Modul durchführst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

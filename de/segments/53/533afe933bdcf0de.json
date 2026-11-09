@@ -1,0 +1,14 @@
+{
+  "hash": "533afe933bdcf0de",
+  "source": "You can also provide any of the keys listed below in {0}Types{/0}.",
+  "text": "Du kannst auch alle Schlüssel angeben, die unten unter {0}Typen{/0} aufgeführt sind.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst auch alle Schlüssel angeben, die unten unter {0}Typen{/0} aufgeführt sind."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

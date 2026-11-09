@@ -1,0 +1,14 @@
+{
+  "hash": "69d69c084d3fc93f",
+  "source": "Using Nightly {0}",
+  "text": "Nightly-Version von {0} verwenden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nightly-Version von {0} verwenden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

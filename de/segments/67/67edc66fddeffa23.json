@@ -1,0 +1,14 @@
+{
+  "hash": "67edc66fddeffa23",
+  "source": "If set to a single boolean, that value applies to both server and client. Additionally, the {0} and {1} options are also available for both server and client.",
+  "text": "Wenn ein einzelner boolescher Wert gesetzt wird, gilt dieser sowohl für den Server als auch für den Client. Zusätzlich stehen die Optionen {0} und {1} ebenfalls für Server und Client zur Verfügung.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn ein einzelner boolescher Wert gesetzt wird, gilt dieser sowohl für den Server als auch für den Client. Zusätzlich stehen die Optionen {0} und {1} ebenfalls für Server und Client zur Verfügung."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

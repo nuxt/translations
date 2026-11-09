@@ -1,0 +1,14 @@
+{
+  "hash": "e4f417debb200952",
+  "source": "Nuxt provides a module system to extend the framework core and simplify integrations.",
+  "text": "Nuxt bietet ein Modulsystem, mit dem du den Kern des Frameworks erweitern und Integrationen vereinfachen kannst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt bietet ein Modulsystem, mit dem du den Kern des Frameworks erweitern und Integrationen vereinfachen kannst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

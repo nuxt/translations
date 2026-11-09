@@ -1,0 +1,14 @@
+{
+  "hash": "9e86248cf2351e38",
+  "source": "Milestone",
+  "text": "Meilenstein",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Meilenstein"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

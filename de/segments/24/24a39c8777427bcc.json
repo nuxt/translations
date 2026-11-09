@@ -1,0 +1,14 @@
+{
+  "hash": "24a39c8777427bcc",
+  "source": "By default, Nuxt improves chunk stability by using an import map to resolve the entry chunk of the bundle.",
+  "text": "Standardmäßig verbessert Nuxt die Stabilität von Chunks, indem es eine Import Map verwendet, um den Entry-Chunk des Bundles aufzulösen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardmäßig verbessert Nuxt die Stabilität von Chunks, indem es eine Import Map verwendet, um den Entry-Chunk des Bundles aufzulösen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

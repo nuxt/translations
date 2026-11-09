@@ -1,0 +1,14 @@
+{
+  "hash": "ee2642127278c2ca",
+  "source": "Use Nuxt documentation in your AI assistants with Model Context Protocol support.",
+  "text": "Nutze die Nuxt-Dokumentation in deinen KI-Assistenten mit Unterstützung für das Model Context Protocol.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nutze die Nuxt-Dokumentation in deinen KI-Assistenten mit Unterstützung für das Model Context Protocol."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

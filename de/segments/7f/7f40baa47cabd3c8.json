@@ -1,0 +1,14 @@
+{
+  "hash": "7f40baa47cabd3c8",
+  "source": "Sets the {0}{1} {2} attribute{/0}.{3}**Note:** Be careful when setting this to {4}, as compliant clients will not send the cookie back to the server in the future if the browser does not have an HTTPS connection. This can lead to hydration errors.",
+  "text": "Setzt das {0}{1}-{2}-Attribut{/0}.{3}**Hinweis:** Sei vorsichtig, wenn du dies auf {4} setzt, da konforme Clients das Cookie künftig nicht mehr an den Server zurücksenden, wenn der Browser keine HTTPS-Verbindung hat. Das kann zu Hydration-Fehlern führen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Setzt das {0}{1}-{2}-Attribut{/0}.{3}**Hinweis:** Sei vorsichtig, wenn du dies auf {4} setzt, da konforme Clients das Cookie künftig nicht mehr an den Server zurücksenden, wenn der Browser keine HTTPS-Verbindung hat. Das kann zu Hydration-Fehlern führen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

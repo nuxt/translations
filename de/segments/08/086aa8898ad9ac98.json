@@ -1,0 +1,14 @@
+{
+  "hash": "086aa8898ad9ac98",
+  "source": "Deriving Secrets",
+  "text": "Secrets ableiten",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Secrets ableiten"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

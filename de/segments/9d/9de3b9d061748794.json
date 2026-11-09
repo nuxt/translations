@@ -1,0 +1,14 @@
+{
+  "hash": "9de3b9d061748794",
+  "source": "Called when a request is received.",
+  "text": "Wird aufgerufen, wenn eine Anfrage eingeht.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird aufgerufen, wenn eine Anfrage eingeht."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

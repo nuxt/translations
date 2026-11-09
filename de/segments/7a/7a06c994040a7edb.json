@@ -1,0 +1,14 @@
+{
+  "hash": "7a06c994040a7edb",
+  "source": "If you encounter these errors, the issue is almost certainly with the upstream library. They need to {0}fix their library{/0} to support being imported by Node.",
+  "text": "Wenn diese Fehler auftreten, liegt das Problem mit hoher Wahrscheinlichkeit an der vorgelagerten Bibliothek. Sie muss {0}repariert werden{/0}, damit sie von Node importiert werden kann.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn diese Fehler auftreten, liegt das Problem mit hoher Wahrscheinlichkeit an der vorgelagerten Bibliothek. Sie muss {0}repariert werden{/0}, damit sie von Node importiert werden kann."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

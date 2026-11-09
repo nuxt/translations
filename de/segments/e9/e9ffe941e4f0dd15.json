@@ -1,0 +1,14 @@
+{
+  "hash": "e9ffe941e4f0dd15",
+  "source": "Route middleware has a different format.",
+  "text": "Routen-Middleware hat ein anderes Format.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Routen-Middleware hat ein anderes Format."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

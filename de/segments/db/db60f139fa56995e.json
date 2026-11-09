@@ -1,0 +1,14 @@
+{
+  "hash": "db60f139fa56995e",
+  "source": "In **production**, it runs the client and (if {0}) server builds to completion, writing artifacts to {1} and registering them as build outputs.",
+  "text": "In der **Produktion** führt sie die Client- und (falls {0}) die Server-Builds vollständig aus, schreibt die Artefakte nach {1} und registriert sie als Build-Outputs.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In der **Produktion** führt sie die Client- und (falls {0}) die Server-Builds vollständig aus, schreibt die Artefakte nach {1} und registriert sie als Build-Outputs."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

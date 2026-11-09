@@ -1,0 +1,14 @@
+{
+  "hash": "a35ae3fdb2af8971",
+  "source": "When using the starter, the runtime directory is {0}.",
+  "text": "Wenn du das Starter-Template verwendest, lautet das Runtime-Verzeichnis {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du das Starter-Template verwendest, lautet das Runtime-Verzeichnis {0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

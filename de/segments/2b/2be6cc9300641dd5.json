@@ -1,0 +1,14 @@
+{
+  "hash": "2be6cc9300641dd5",
+  "source": "The current Nuxt environment name, including custom values passed via {0}.",
+  "text": "Der Name der aktuellen Nuxt-Umgebung, einschließlich benutzerdefinierter Werte, die über {0} übergeben werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Name der aktuellen Nuxt-Umgebung, einschließlich benutzerdefinierter Werte, die über {0} übergeben werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

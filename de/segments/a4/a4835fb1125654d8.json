@@ -1,0 +1,14 @@
+{
+  "hash": "a4835fb1125654d8",
+  "source": "Edge-Side Rendering",
+  "text": "Edge-Side Rendering",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Edge-Side Rendering"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

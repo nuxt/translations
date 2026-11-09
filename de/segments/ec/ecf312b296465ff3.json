@@ -1,0 +1,14 @@
+{
+  "hash": "ecf312b296465ff3",
+  "source": "Read and parse the request body, optionally {0}validated{/0}.",
+  "text": "Liest den Anfrage-Body und parst ihn, optional {0}validiert{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Liest den Anfrage-Body und parst ihn, optional {0}validiert{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

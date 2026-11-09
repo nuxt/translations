@@ -1,0 +1,14 @@
+{
+  "hash": "21ce8b0e8ab0812a",
+  "source": "**Lazy handlers.** {0} comes from {1}.",
+  "text": "**Lazy Handler.** {0} stammt aus {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Lazy Handler.** {0} stammt aus {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

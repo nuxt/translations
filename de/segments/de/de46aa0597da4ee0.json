@@ -1,0 +1,14 @@
+{
+  "hash": "de46aa0597da4ee0",
+  "source": "Do something with Nitro instance",
+  "text": "Etwas mit der Nitro-Instanz tun",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Etwas mit der Nitro-Instanz tun"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

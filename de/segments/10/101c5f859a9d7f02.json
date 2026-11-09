@@ -1,0 +1,14 @@
+{
+  "hash": "101c5f859a9d7f02",
+  "source": "Unlike {0}navigation guards{/0} from {1}, a third {2} argument is not passed, and **redirect or route cancellation is handled by returning a value from the middleware**.",
+  "text": "Anders als bei {0}Navigation Guards{/0} von {1} wird kein drittes Argument {2} übergeben. **Umleitungen oder das Abbrechen der Route werden durch die Rückgabe eines Werts aus der Middleware gesteuert**.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Anders als bei {0}Navigation Guards{/0} von {1} wird kein drittes Argument {2} übergeben. **Umleitungen oder das Abbrechen der Route werden durch die Rückgabe eines Werts aus der Middleware gesteuert**."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

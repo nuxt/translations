@@ -1,0 +1,14 @@
+{
+  "hash": "6df8c7f56edc19c5",
+  "source": "Default font format is now {0} only",
+  "text": "Das Standard-Schriftformat ist jetzt nur noch {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Standard-Schriftformat ist jetzt nur noch {0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

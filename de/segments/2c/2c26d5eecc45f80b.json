@@ -1,0 +1,14 @@
+{
+  "hash": "2c26d5eecc45f80b",
+  "source": "{0} components are rendered only after being mounted. To access the rendered template using {1}, add {2} in the callback of the {3} hook.",
+  "text": "{0}-Komponenten werden erst nach dem Einhängen gerendert. Um mit {1} auf die gerenderte Vorlage zuzugreifen, füge {2} im Callback des {3}-Hooks hinzu.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}-Komponenten werden erst nach dem Einhängen gerendert. Um mit {1} auf die gerenderte Vorlage zuzugreifen, füge {2} im Callback des {3}-Hooks hinzu."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

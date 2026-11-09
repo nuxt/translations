@@ -1,0 +1,14 @@
+{
+  "hash": "60b81322d503207b",
+  "source": "If {0} is specified, the {1} option has no effect, so make sure your pattern matches the file extensions you want to scan.",
+  "text": "Wenn {0} angegeben ist, hat die Option {1} keine Wirkung. Stelle daher sicher, dass dein Muster zu den Dateiendungen passt, die durchsucht werden sollen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn {0} angegeben ist, hat die Option {1} keine Wirkung. Stelle daher sicher, dass dein Muster zu den Dateiendungen passt, die durchsucht werden sollen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

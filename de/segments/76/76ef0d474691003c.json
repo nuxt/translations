@@ -1,0 +1,14 @@
+{
+  "hash": "76ef0d474691003c",
+  "source": "A {0} prop can be used to prevent the default {1} attribute from being added to the absolute links.",
+  "text": "Mit der Prop {0} lässt sich verhindern, dass das Standardattribut {1} zu absoluten Links hinzugefügt wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit der Prop {0} lässt sich verhindern, dass das Standardattribut {1} zu absoluten Links hinzugefügt wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "a80035dccca0da0f",
+  "source": "If you want to use a function (for full control), then this cannot be set in your nuxt.config, and it is recommended instead to set it within your {0} directory.",
+  "text": "Wenn du eine Funktion verwenden möchtest (für vollständige Kontrolle), kann diese nicht in deiner nuxt.config festgelegt werden. Stattdessen empfiehlt es sich, sie in deinem {0}-Verzeichnis zu setzen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du eine Funktion verwenden möchtest (für vollständige Kontrolle), kann diese nicht in deiner nuxt.config festgelegt werden. Stattdessen empfiehlt es sich, sie in deinem {0}-Verzeichnis zu setzen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

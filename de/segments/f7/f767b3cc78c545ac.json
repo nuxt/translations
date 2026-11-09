@@ -1,0 +1,14 @@
+{
+  "hash": "f767b3cc78c545ac",
+  "source": "Module Dependencies",
+  "text": "Modulabhängigkeiten",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Modulabhängigkeiten"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

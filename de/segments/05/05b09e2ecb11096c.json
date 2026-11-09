@@ -1,0 +1,14 @@
+{
+  "hash": "05b09e2ecb11096c",
+  "source": "If the component needs a function from its parent, render it on the client instead of as a server component.",
+  "text": "Wenn die Komponente eine Funktion ihrer übergeordneten Komponente benötigt, rendere sie auf dem Client statt als Serverkomponente.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn die Komponente eine Funktion ihrer übergeordneten Komponente benötigt, rendere sie auf dem Client statt als Serverkomponente."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

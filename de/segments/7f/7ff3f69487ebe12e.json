@@ -1,0 +1,14 @@
+{
+  "hash": "7ff3f69487ebe12e",
+  "source": "Each audit has a reference document explaining why the audit is important, as well as how to fix it.",
+  "text": "Zu jeder Prüfung gibt es ein Referenzdokument, das erklärt, warum die Prüfung wichtig ist und wie du das Problem behebst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Zu jeder Prüfung gibt es ein Referenzdokument, das erklärt, warum die Prüfung wichtig ist und wie du das Problem behebst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

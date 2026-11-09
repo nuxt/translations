@@ -1,0 +1,14 @@
+{
+  "hash": "916ea726ebf5f707",
+  "source": "When you are using the built-in Composition API composables provided by Vue and Nuxt, be aware that many of them rely on being called in the right *context*.",
+  "text": "Wenn du die von Vue und Nuxt bereitgestellten, integrierten Composables der Composition API verwendest, beachte, dass viele von ihnen darauf angewiesen sind, im richtigen *Kontext* aufgerufen zu werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du die von Vue und Nuxt bereitgestellten, integrierten Composables der Composition API verwendest, beachte, dass viele von ihnen darauf angewiesen sind, im richtigen *Kontext* aufgerufen zu werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

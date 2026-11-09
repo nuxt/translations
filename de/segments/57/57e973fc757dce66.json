@@ -1,0 +1,14 @@
+{
+  "hash": "57e973fc757dce66",
+  "source": "For a normal subpath deployment, set {0} or the {1} environment variable.",
+  "text": "Für eine normale Bereitstellung unter einem Unterpfad setzt du {0} oder die Umgebungsvariable {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Für eine normale Bereitstellung unter einem Unterpfad setzt du {0} oder die Umgebungsvariable {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "69cbc69fa5291d8d",
+  "source": "Search through the {0}open issues{/0} and {1}discussions{/1} first. If you find anything that seems like the same bug, it's much better to comment on an existing thread than create a duplicate.",
+  "text": "Durchsuche zuerst die {0}offenen Issues{/0} und {1}Diskussionen{/1}. Wenn du etwas findest, das nach demselben Fehler aussieht, ist es viel besser, einen bestehenden Thread zu kommentieren, als ein Duplikat zu erstellen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Durchsuche zuerst die {0}offenen Issues{/0} und {1}Diskussionen{/1}. Wenn du etwas findest, das nach demselben Fehler aussieht, ist es viel besser, einen bestehenden Thread zu kommentieren, als ein Duplikat zu erstellen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

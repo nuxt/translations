@@ -1,0 +1,14 @@
+{
+  "hash": "47605bac54023e5b",
+  "source": "Example: Nested Routes and {0}",
+  "text": "Beispiel: Verschachtelte Routen und {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Beispiel: Verschachtelte Routen und {0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

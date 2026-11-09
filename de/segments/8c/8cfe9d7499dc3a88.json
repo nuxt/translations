@@ -1,0 +1,14 @@
+{
+  "hash": "8cfe9d7499dc3a88",
+  "source": "Nitro's own APIs mostly take no event at all: {0}, {1}, {2}, {3} and tasks.",
+  "text": "Die eigenen APIs von Nitro benötigen meist gar kein Event: {0}, {1}, {2}, {3} und Tasks.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die eigenen APIs von Nitro benötigen meist gar kein Event: {0}, {1}, {2}, {3} und Tasks."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "87c8ebca72015e38",
+  "source": "If you need the browser to start prefetching these chunks as soon as the HTML is parsed, you can disable this feature:",
+  "text": "Wenn der Browser diese Chunks bereits mit dem Parsen des HTML vorab laden soll, kannst du diese Funktion deaktivieren:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn der Browser diese Chunks bereits mit dem Parsen des HTML vorab laden soll, kannst du diese Funktion deaktivieren:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

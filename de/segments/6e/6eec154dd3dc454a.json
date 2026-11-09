@@ -1,0 +1,14 @@
+{
+  "hash": "6eec154dd3dc454a",
+  "source": "Phone Numbers on iOS Safari",
+  "text": "Telefonnummern in iOS Safari",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Telefonnummern in iOS Safari"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

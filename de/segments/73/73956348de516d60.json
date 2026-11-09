@@ -1,0 +1,14 @@
+{
+  "hash": "73956348de516d60",
+  "source": "Watch a video from Alexander Lichter about the Object Syntax for Nuxt plugins",
+  "text": "Sieh dir ein Video von Alexander Lichter über die Objektsyntax für Nuxt-Plugins an",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sieh dir ein Video von Alexander Lichter über die Objektsyntax für Nuxt-Plugins an"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

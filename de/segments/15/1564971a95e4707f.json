@@ -1,0 +1,14 @@
+{
+  "hash": "1564971a95e4707f",
+  "source": "Global Route Middleware",
+  "text": "Globale Routen-Middleware",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Globale Routen-Middleware"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

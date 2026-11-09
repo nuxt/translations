@@ -1,0 +1,14 @@
+{
+  "hash": "39da07e8fc1fde3a",
+  "source": "You should read their terms in full before using a font through {0}.",
+  "text": "Lies die Nutzungsbedingungen vollständig, bevor du eine Schrift über {0} verwendest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lies die Nutzungsbedingungen vollständig, bevor du eine Schrift über {0} verwendest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

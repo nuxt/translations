@@ -1,0 +1,14 @@
+{
+  "hash": "dfbaa63490bf77a8",
+  "source": "Since January 2023, we've adopted a consistent release cycle for Nuxt, following {0}semver{/0}. We aim for major framework releases every year, with an expectation of patch releases every week or so and minor releases every month or so. They should never contain breaking changes except within options clearly marked as {1}.",
+  "text": "Seit Januar 2023 verfolgen wir für Nuxt einen konsistenten Release-Zyklus nach {0}Semver{/0}. Unser Ziel sind jährliche Major-Releases des Frameworks, wöchentliche Patch-Releases und monatliche Minor-Releases. Sie sollten nie inkompatible Änderungen enthalten, außer in Optionen, die eindeutig mit {1} gekennzeichnet sind.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Seit Januar 2023 verfolgen wir für Nuxt einen konsistenten Release-Zyklus nach {0}Semver{/0}. Unser Ziel sind jährliche Major-Releases des Frameworks, wöchentliche Patch-Releases und monatliche Minor-Releases. Sie sollten nie inkompatible Änderungen enthalten, außer in Optionen, die eindeutig mit {1} gekennzeichnet sind."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

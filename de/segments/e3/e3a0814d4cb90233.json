@@ -1,0 +1,14 @@
+{
+  "hash": "e3a0814d4cb90233",
+  "source": "Open the URL in the browser",
+  "text": "URL im Browser öffnen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "URL im Browser öffnen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

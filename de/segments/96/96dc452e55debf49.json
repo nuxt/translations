@@ -1,0 +1,14 @@
+{
+  "hash": "96dc452e55debf49",
+  "source": "If the underlying error is expected (for example an upstream request that can fail), handle it in the page rather than letting it reach the renderer, so a proper error response can be sent before the stream is committed:",
+  "text": "Wenn der zugrunde liegende Fehler erwartbar ist (zum Beispiel eine Anfrage an einen vorgelagerten Dienst, die fehlschlagen kann), behandle ihn in der Seite, statt ihn den Renderer erreichen zu lassen. So kann eine passende Fehlerantwort gesendet werden, bevor der Stream festgeschrieben wird:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn der zugrunde liegende Fehler erwartbar ist (zum Beispiel eine Anfrage an einen vorgelagerten Dienst, die fehlschlagen kann), behandle ihn in der Seite, statt ihn den Renderer erreichen zu lassen. So kann eine passende Fehlerantwort gesendet werden, bevor der Stream festgeschrieben wird:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

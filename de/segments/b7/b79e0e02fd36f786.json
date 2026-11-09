@@ -1,0 +1,14 @@
+{
+  "hash": "b79e0e02fd36f786",
+  "source": "The name of the route. Useful for programmatic navigation and identifying routes.",
+  "text": "Der Name der Route. Nützlich für programmatische Navigation und zur Identifizierung von Routen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Name der Route. Nützlich für programmatische Navigation und zur Identifizierung von Routen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

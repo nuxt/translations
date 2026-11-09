@@ -1,0 +1,14 @@
+{
+  "hash": "61bc569c2603f4d8",
+  "source": "Promise and Error Handling",
+  "text": "Promises und Fehlerbehandlung",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Promises und Fehlerbehandlung"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

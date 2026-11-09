@@ -1,0 +1,14 @@
+{
+  "hash": "d4488048539bf88e",
+  "source": "If a relative path is specified, it will be relative to the {0}.",
+  "text": "Wenn ein relativer Pfad angegeben wird, ist er relativ zu {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn ein relativer Pfad angegeben wird, ist er relativ zu {0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

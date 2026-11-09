@@ -1,0 +1,14 @@
+{
+  "hash": "204e463aa61e84e4",
+  "source": "The method decides which handler responds, so {0} fetched with {1} is typed by {2} rather than by the {3} handler above.",
+  "text": "Die Methode bestimmt, welcher Handler antwortet. Daher wird {0}, das mit {1} abgerufen wird, durch {2} typisiert und nicht durch den oben gezeigten {3}-Handler.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Methode bestimmt, welcher Handler antwortet. Daher wird {0}, das mit {1} abgerufen wird, durch {2} typisiert und nicht durch den oben gezeigten {3}-Handler."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

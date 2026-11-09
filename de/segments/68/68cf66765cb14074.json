@@ -1,0 +1,14 @@
+{
+  "hash": "68cf66765cb14074",
+  "source": "Typing Runtime Config and Events",
+  "text": "Laufzeitkonfiguration und Events typisieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Laufzeitkonfiguration und Events typisieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

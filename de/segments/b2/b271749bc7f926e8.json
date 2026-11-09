@@ -1,0 +1,14 @@
+{
+  "hash": "b271749bc7f926e8",
+  "source": "{0}: The core of Nuxt, published as {1}.",
+  "text": "{0}: Der Kern von Nuxt, veröffentlicht als {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Der Kern von Nuxt, veröffentlicht als {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

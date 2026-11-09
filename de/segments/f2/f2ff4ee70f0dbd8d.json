@@ -1,0 +1,14 @@
+{
+  "hash": "f2ff4ee70f0dbd8d",
+  "source": "Generated Router File",
+  "text": "Generierte Router-Datei",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Generierte Router-Datei"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

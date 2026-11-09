@@ -1,0 +1,14 @@
+{
+  "hash": "016e9b1015d5cdbd",
+  "source": "Absolute Watch Paths in {0}",
+  "text": "Absolute Überwachungspfade in {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Absolute Überwachungspfade in {0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

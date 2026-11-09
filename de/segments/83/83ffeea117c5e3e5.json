@@ -1,0 +1,14 @@
+{
+  "hash": "83ffeea117c5e3e5",
+  "source": "Move a Nuxt app from the deprecated @nuxtjs/google-fonts module to @nuxt/fonts.",
+  "text": "Eine Nuxt-App vom nicht mehr empfohlenen Modul @nuxtjs/google-fonts auf @nuxt/fonts umstellen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine Nuxt-App vom nicht mehr empfohlenen Modul @nuxtjs/google-fonts auf @nuxt/fonts umstellen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

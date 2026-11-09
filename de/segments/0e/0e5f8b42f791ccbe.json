@@ -1,0 +1,14 @@
+{
+  "hash": "0e5f8b42f791ccbe",
+  "source": "Ensure that page component names match their route names. This sets the {0} property on page components so that Vue's {1} can correctly identify them by name.",
+  "text": "Stellt sicher, dass die Namen von Seitenkomponenten mit ihren Routennamen übereinstimmen. Dadurch wird die Eigenschaft {0} für Seitenkomponenten gesetzt, sodass {1} von Vue sie korrekt anhand des Namens identifizieren kann.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Stellt sicher, dass die Namen von Seitenkomponenten mit ihren Routennamen übereinstimmen. Dadurch wird die Eigenschaft {0} für Seitenkomponenten gesetzt, sodass {1} von Vue sie korrekt anhand des Namens identifizieren kann."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

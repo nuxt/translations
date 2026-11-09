@@ -1,0 +1,14 @@
+{
+  "hash": "d21a52f72b979ab3",
+  "source": "When {0} is set to {1} (or {2} is enabled), page component names match their route names instead of using the filename. For example, {3} will have the component name {4} instead of {5}.",
+  "text": "Wenn {0} auf {1} gesetzt ist (oder {2} aktiviert ist), entsprechen die Namen der Seitenkomponenten ihren Routennamen statt dem Dateinamen. Zum Beispiel erhält {3} den Komponentennamen {4} statt {5}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn {0} auf {1} gesetzt ist (oder {2} aktiviert ist), entsprechen die Namen der Seitenkomponenten ihren Routennamen statt dem Dateinamen. Zum Beispiel erhält {3} den Komponentennamen {4} statt {5}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

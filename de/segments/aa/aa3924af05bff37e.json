@@ -1,0 +1,14 @@
+{
+  "hash": "aa3924af05bff37e",
+  "source": "{0} \\| {1}: Specify fallback content to be rendered if the slot fails to render.",
+  "text": "{0} \\| {1}: Legt Fallback-Inhalt fest, der gerendert wird, wenn der Slot nicht gerendert werden kann.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} \\| {1}: Legt Fallback-Inhalt fest, der gerendert wird, wenn der Slot nicht gerendert werden kann."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

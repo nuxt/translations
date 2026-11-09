@@ -1,0 +1,14 @@
+{
+  "hash": "16131b31be0eccbe",
+  "source": "As you need to, you can customize the contents of this file. However, it is recommended that you don't overwrite {0}, {1} and {2}.",
+  "text": "Bei Bedarf kannst du den Inhalt dieser Datei anpassen. Es wird jedoch empfohlen, {0}, {1} und {2} nicht zu überschreiben.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bei Bedarf kannst du den Inhalt dieser Datei anpassen. Es wird jedoch empfohlen, {0}, {1} und {2} nicht zu überschreiben."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

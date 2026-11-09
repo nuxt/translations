@@ -1,0 +1,14 @@
+{
+  "hash": "eb087380f686173a",
+  "source": "Learn when to register one path per server API, and which key to write your handler against.",
+  "text": "Erfahre, wann du einen Pfad pro Server-API registrieren solltest und gegen welchen Schlüssel du deinen Handler schreibst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erfahre, wann du einen Pfad pro Server-API registrieren solltest und gegen welchen Schlüssel du deinen Handler schreibst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

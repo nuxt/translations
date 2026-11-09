@@ -1,0 +1,14 @@
+{
+  "hash": "daf41ffc1c9bba43",
+  "source": "{0}: a string indicating the status of the data request ({1}, {2}, {3}, {4}).",
+  "text": "{0}: ein String, der den Status der Datenanfrage angibt ({1}, {2}, {3}, {4}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: ein String, der den Status der Datenanfrage angibt ({1}, {2}, {3}, {4})."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

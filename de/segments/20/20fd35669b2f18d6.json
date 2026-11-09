@@ -1,0 +1,14 @@
+{
+  "hash": "20fd35669b2f18d6",
+  "source": "Layout's Ref",
+  "text": "Ref des Layouts",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ref des Layouts"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

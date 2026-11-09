@@ -1,0 +1,14 @@
+{
+  "hash": "b2828720197075b8",
+  "source": "The watched inputs the output of the template can depend on, beyond {0} and the resolved structure of the app. Set to {1} if the template never reads the contents of a watched file, so that Nuxt can skip recompiling it in dev mode when a file changes without any file being added or removed. List well-known keys if the template reads those sources, or pass a function to decide per change. A template that declares nothing is regenerated on every change, unless it has a {2}, in which case it is regenerated only when that source file changes.",
+  "text": "Die überwachten Eingaben, von denen die Ausgabe der Vorlage abhängen kann, zusätzlich zu {0} und der aufgelösten Struktur der App. Setze den Wert auf {1}, wenn die Vorlage nie den Inhalt einer überwachten Datei liest. So kann Nuxt im Entwicklungsmodus auf das erneute Kompilieren verzichten, wenn sich eine Datei ändert, ohne dass eine Datei hinzugefügt oder entfernt wird. Gib bekannte Schlüssel an, wenn die Vorlage diese Quellen liest, oder übergib eine Funktion, die pro Änderung entscheidet. Eine Vorlage, die nichts deklariert, wird bei jeder Änderung neu generiert – es sei denn, sie hat ein {2}. In diesem Fall wird sie nur neu generiert, wenn sich diese Quelldatei ändert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die überwachten Eingaben, von denen die Ausgabe der Vorlage abhängen kann, zusätzlich zu {0} und der aufgelösten Struktur der App. Setze den Wert auf {1}, wenn die Vorlage nie den Inhalt einer überwachten Datei liest. So kann Nuxt im Entwicklungsmodus auf das erneute Kompilieren verzichten, wenn sich eine Datei ändert, ohne dass eine Datei hinzugefügt oder entfernt wird. Gib bekannte Schlüssel an, wenn die Vorlage diese Quellen liest, oder übergib eine Funktion, die pro Änderung entscheidet. Eine Vorlage, die nichts deklariert, wird bei jeder Änderung neu generiert – es sei denn, sie hat ein {2}. In diesem Fall wird sie nur neu generiert, wenn sich diese Quelldatei ändert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

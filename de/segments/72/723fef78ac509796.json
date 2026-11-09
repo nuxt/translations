@@ -1,0 +1,14 @@
+{
+  "hash": "723fef78ac509796",
+  "source": "Modifier flags: {0} to write the route under {1} instead of {2}",
+  "text": "Modifikator-Flags: {0}, um die Route unter {1} statt unter {2} zu schreiben",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Modifikator-Flags: {0}, um die Route unter {1} statt unter {2} zu schreiben"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

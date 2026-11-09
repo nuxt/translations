@@ -1,0 +1,14 @@
+{
+  "hash": "4091b66929ccf7d0",
+  "source": "The module automatically loads and parses them.",
+  "text": "Das Modul lädt und parst sie automatisch.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Modul lädt und parst sie automatisch."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

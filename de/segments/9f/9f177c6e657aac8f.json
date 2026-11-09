@@ -1,0 +1,14 @@
+{
+  "hash": "9f177c6e657aac8f",
+  "source": "Expected date",
+  "text": "Voraussichtliches Datum",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Voraussichtliches Datum"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

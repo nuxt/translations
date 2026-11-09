@@ -1,0 +1,14 @@
+{
+  "hash": "4aff7da02a98775d",
+  "source": "Layout Props from Page Meta",
+  "text": "Layout-Props aus den Seiten-Metadaten",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Layout-Props aus den Seiten-Metadaten"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

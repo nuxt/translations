@@ -1,0 +1,14 @@
+{
+  "hash": "d929ef68ff0c9858",
+  "source": "Filling in What Only You Know",
+  "text": "Angaben ergänzen, die nur du kennst",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Angaben ergänzen, die nur du kennst"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "7a76f5e3200f9510",
+  "source": "You can combine this with the {0} option to pre-render a set of routes that the crawler can't discover like your {1} or {2}:",
+  "text": "Du kannst dies mit der Option {0} kombinieren, um eine Reihe von Routen vorab zu rendern, die der Crawler nicht finden kann, wie {1} oder {2}:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst dies mit der Option {0} kombinieren, um eine Reihe von Routen vorab zu rendern, die der Crawler nicht finden kann, wie {1} oder {2}:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

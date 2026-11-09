@@ -1,0 +1,14 @@
+{
+  "hash": "c1703557b1c0d9d7",
+  "source": "Quick Setup",
+  "text": "Schnelleinrichtung",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Schnelleinrichtung"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

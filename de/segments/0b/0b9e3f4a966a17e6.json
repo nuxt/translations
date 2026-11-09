@@ -1,0 +1,14 @@
+{
+  "hash": "0b9e3f4a966a17e6",
+  "source": "this will return 'decorated'",
+  "text": "dies gibt 'decorated' zurück",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "dies gibt 'decorated' zurück"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

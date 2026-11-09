@@ -1,0 +1,14 @@
+{
+  "hash": "a2ab9c4342e1182d",
+  "source": "If your code checks for {0} after clearing state, check for the initial value instead. To keep the previous behavior:",
+  "text": "Wenn dein Code nach dem Leeren des Zustands auf {0} prüft, prüfe stattdessen auf den Anfangswert. So behältst du das bisherige Verhalten bei:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn dein Code nach dem Leeren des Zustands auf {0} prüft, prüfe stattdessen auf den Anfangswert. So behältst du das bisherige Verhalten bei:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

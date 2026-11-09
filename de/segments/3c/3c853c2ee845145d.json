@@ -1,0 +1,14 @@
+{
+  "hash": "3c853c2ee845145d",
+  "source": "skip middleware on server",
+  "text": "Middleware auf dem Server überspringen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Middleware auf dem Server überspringen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

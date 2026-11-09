@@ -1,0 +1,14 @@
+{
+  "hash": "3d3457aad48ce533",
+  "source": "the few interactive routes keep scripts, with {0} / {1} / {2} limiting how much work the browser does up front",
+  "text": "die wenigen interaktiven Routen behalten ihre Skripte, wobei {0} / {1} / {2} begrenzen, wie viel Arbeit der Browser im Voraus erledigt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "die wenigen interaktiven Routen behalten ihre Skripte, wobei {0} / {1} / {2} begrenzen, wie viel Arbeit der Browser im Voraus erledigt"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

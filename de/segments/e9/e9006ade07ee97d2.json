@@ -1,0 +1,14 @@
+{
+  "hash": "e9006ade07ee97d2",
+  "source": "When prerendering, you can hint that additional paths should be prerendered, even if their URLs do not show up in the HTML of the generated page. Nuxt collects the hints and passes them to your server builder's prerenderer (Nitro by default).",
+  "text": "Beim Vorab-Rendering kannst du darauf hinweisen, dass zusätzliche Pfade vorab gerendert werden sollen, auch wenn ihre URLs nicht im HTML der generierten Seite auftauchen. Nuxt sammelt diese Hinweise und übergibt sie an den Prerenderer deines Server-Builders (standardmäßig Nitro).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Beim Vorab-Rendering kannst du darauf hinweisen, dass zusätzliche Pfade vorab gerendert werden sollen, auch wenn ihre URLs nicht im HTML der generierten Seite auftauchen. Nuxt sammelt diese Hinweise und übergibt sie an den Prerenderer deines Server-Builders (standardmäßig Nitro)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

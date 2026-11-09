@@ -1,0 +1,14 @@
+{
+  "hash": "1b8664c2436da509",
+  "source": "In this example, we create a virtual file that can be used within the Nuxt Nitro server build.",
+  "text": "In diesem Beispiel erstellen wir eine virtuelle Datei, die im Build des Nuxt-Nitro-Servers verwendet werden kann.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In diesem Beispiel erstellen wir eine virtuelle Datei, die im Build des Nuxt-Nitro-Servers verwendet werden kann."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "3e445dbbb4608868",
+  "source": "Each issue names the runtime config key and the environment variable that sets it.",
+  "text": "Jedes Problem nennt den Schlüssel der Laufzeitkonfiguration und die Umgebungsvariable, die ihn setzt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Jedes Problem nennt den Schlüssel der Laufzeitkonfiguration und die Umgebungsvariable, die ihn setzt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

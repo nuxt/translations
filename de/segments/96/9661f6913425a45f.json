@@ -1,0 +1,14 @@
+{
+  "hash": "9661f6913425a45f",
+  "source": "You can define the layout that matches the layout's file name located (by default) in the {0}{1} directory{/0}. You can also disable the layout by setting the {2} to {3}:",
+  "text": "Du kannst das Layout definieren, das dem Dateinamen des Layouts entspricht, das sich (standardmäßig) im {0}Verzeichnis {1}{/0} befindet. Du kannst das Layout auch deaktivieren, indem du {2} auf {3} setzt:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst das Layout definieren, das dem Dateinamen des Layouts entspricht, das sich (standardmäßig) im {0}Verzeichnis {1}{/0} befindet. Du kannst das Layout auch deaktivieren, indem du {2} auf {3} setzt:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

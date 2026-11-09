@@ -1,0 +1,14 @@
+{
+  "hash": "9fec2e52330d8f3c",
+  "source": "The nightly release channel {0} tag is currently tracking the Nuxt v4 branch, meaning that it is particularly likely to have breaking changes right now — be careful! You can opt in to the 3.x branch nightly releases with {1}.",
+  "text": "Der Tag {0} des Nightly-Release-Kanals verfolgt derzeit den Branch von Nuxt v4. Das bedeutet, dass hier besonders wahrscheinlich inkompatible Änderungen auftreten – sei vorsichtig! Mit {1} kannst du dich für die Nightly-Releases des 3.x-Branchs entscheiden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Tag {0} des Nightly-Release-Kanals verfolgt derzeit den Branch von Nuxt v4. Das bedeutet, dass hier besonders wahrscheinlich inkompatible Änderungen auftreten – sei vorsichtig! Mit {1} kannst du dich für die Nightly-Releases des 3.x-Branchs entscheiden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

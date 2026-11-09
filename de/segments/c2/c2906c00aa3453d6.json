@@ -1,0 +1,14 @@
+{
+  "hash": "c2906c00aa3453d6",
+  "source": "Directory paths returned by this function always include a trailing slash for consistency.",
+  "text": "Verzeichnispfade, die diese Funktion zurückgibt, enthalten aus Konsistenzgründen immer einen abschließenden Schrägstrich.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verzeichnispfade, die diese Funktion zurückgibt, enthalten aus Konsistenzgründen immer einen abschließenden Schrägstrich."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

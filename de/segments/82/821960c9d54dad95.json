@@ -1,0 +1,14 @@
+{
+  "hash": "821960c9d54dad95",
+  "source": "Path to event handler.",
+  "text": "Pfad zum Event-Handler.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pfad zum Event-Handler."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

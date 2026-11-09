@@ -1,0 +1,14 @@
+{
+  "hash": "cf16713cc76871cc",
+  "source": "Create persistent rules referencing these URLs in your workspace",
+  "text": "Erstelle dauerhafte Regeln, die in deinem Workspace auf diese URLs verweisen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erstelle dauerhafte Regeln, die in deinem Workspace auf diese URLs verweisen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

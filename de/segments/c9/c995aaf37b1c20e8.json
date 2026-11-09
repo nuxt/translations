@@ -1,0 +1,14 @@
+{
+  "hash": "c995aaf37b1c20e8",
+  "source": "event.context.params._ to get the route segment: 'bar/baz'",
+  "text": "event.context.params._ liefert das Routensegment: 'bar/baz'",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "event.context.params._ liefert das Routensegment: 'bar/baz'"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

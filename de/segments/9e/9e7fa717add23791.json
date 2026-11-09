@@ -1,0 +1,14 @@
+{
+  "hash": "9e7fa717add23791",
+  "source": "Dynamic Routes",
+  "text": "Dynamische Routen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dynamische Routen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

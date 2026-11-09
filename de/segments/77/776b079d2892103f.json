@@ -1,0 +1,14 @@
+{
+  "hash": "776b079d2892103f",
+  "source": "When to Use Each",
+  "text": "Wann was verwenden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wann was verwenden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "8b0d60e18af3c8d0",
+  "source": "Layer Content",
+  "text": "Inhalt eines Layers",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Inhalt eines Layers"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

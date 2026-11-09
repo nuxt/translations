@@ -1,0 +1,14 @@
+{
+  "hash": "d2e7200c2b4a8eed",
+  "source": "you can set global vite configuration here",
+  "text": "hier kannst du die globale Vite-Konfiguration festlegen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "hier kannst du die globale Vite-Konfiguration festlegen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "6d46302c07e0a771",
+  "source": "Watch the talk by Daniel Roe about the idea behind Nuxt Fonts",
+  "text": "Sieh dir den Vortrag von Daniel Roe über die Idee hinter Nuxt Fonts an",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sieh dir den Vortrag von Daniel Roe über die Idee hinter Nuxt Fonts an"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

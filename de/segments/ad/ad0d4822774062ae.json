@@ -1,0 +1,14 @@
+{
+  "hash": "ad0d4822774062ae",
+  "source": "Search the Issues",
+  "text": "Issues durchsuchen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Issues durchsuchen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "467eac1ec95e2298",
+  "source": "Before You Start",
+  "text": "Bevor du anfängst",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bevor du anfängst"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

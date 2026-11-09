@@ -1,0 +1,14 @@
+{
+  "hash": "1f8a38387466515e",
+  "source": "Never let an LLM think for you",
+  "text": "Lass niemals ein LLM für dich denken",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lass niemals ein LLM für dich denken"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

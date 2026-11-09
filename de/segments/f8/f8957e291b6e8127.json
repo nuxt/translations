@@ -1,0 +1,14 @@
+{
+  "hash": "f8957e291b6e8127",
+  "source": "At a low level, a Nuxt module definition is a simple, potentially asynchronous, function accepting inline user options and a {0} object to interact with Nuxt.",
+  "text": "Auf niedriger Ebene ist eine Nuxt-Moduldefinition eine einfache, gegebenenfalls asynchrone Funktion, die Inline-Optionen der Nutzenden und ein {0}-Objekt für die Interaktion mit Nuxt entgegennimmt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auf niedriger Ebene ist eine Nuxt-Moduldefinition eine einfache, gegebenenfalls asynchrone Funktion, die Inline-Optionen der Nutzenden und ein {0}-Objekt für die Interaktion mit Nuxt entgegennimmt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

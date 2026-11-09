@@ -1,0 +1,14 @@
+{
+  "hash": "3060bcc75dbf89b4",
+  "source": "If validation fails, it should return {0} or an object containing a {1} and/or {2} to terminate the request.",
+  "text": "Schlägt die Validierung fehl, sollte sie {0} oder ein Objekt mit {1} und/oder {2} zurückgeben, um die Anfrage zu beenden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Schlägt die Validierung fehl, sollte sie {0} oder ein Objekt mit {1} und/oder {2} zurückgeben, um die Anfrage zu beenden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

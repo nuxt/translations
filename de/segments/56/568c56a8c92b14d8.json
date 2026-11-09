@@ -1,0 +1,14 @@
+{
+  "hash": "568c56a8c92b14d8",
+  "source": "Uses comment nodes ({0}) instead of {1} elements as placeholders for client-only components during server-side rendering.",
+  "text": "Verwendet beim serverseitigen Rendering Kommentarknoten ({0}) statt {1}-Elementen als Platzhalter für reine Client-Komponenten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwendet beim serverseitigen Rendering Kommentarknoten ({0}) statt {1}-Elementen als Platzhalter für reine Client-Komponenten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

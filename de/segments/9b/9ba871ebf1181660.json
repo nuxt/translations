@@ -1,0 +1,14 @@
+{
+  "hash": "9ba871ebf1181660",
+  "source": "This utility is available since {0}Nuxt v3.10{/0}.",
+  "text": "Dieses Utility ist seit {0}Nuxt v3.10{/0} verfügbar.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dieses Utility ist seit {0}Nuxt v3.10{/0} verfügbar."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

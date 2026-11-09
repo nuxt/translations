@@ -1,0 +1,14 @@
+{
+  "hash": "676000f2df6afddb",
+  "source": "Links to files in your {0} directory, or to another app on the same origin, are not routes that Vue Router knows about. Mark them as {1} so the browser performs a real navigation instead of failing to match a route.",
+  "text": "Links auf Dateien in deinem Verzeichnis {0} oder auf eine andere App mit demselben Ursprung sind keine Routen, die Vue Router kennt. Markiere sie als {1}, damit der Browser eine echte Navigation durchführt, statt vergeblich eine Route zu suchen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Links auf Dateien in deinem Verzeichnis {0} oder auf eine andere App mit demselben Ursprung sind keine Routen, die Vue Router kennt. Markiere sie als {1}, damit der Browser eine echte Navigation durchführt, statt vergeblich eine Route zu suchen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

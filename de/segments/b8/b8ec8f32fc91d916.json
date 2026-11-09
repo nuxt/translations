@@ -1,0 +1,14 @@
+{
+  "hash": "b8ec8f32fc91d916",
+  "source": "Use this directory to deploy your Nuxt application to production.",
+  "text": "Verwende dieses Verzeichnis, um deine Nuxt-Anwendung in der Produktion bereitzustellen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwende dieses Verzeichnis, um deine Nuxt-Anwendung in der Produktion bereitzustellen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

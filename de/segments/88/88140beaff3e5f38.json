@@ -1,0 +1,14 @@
+{
+  "hash": "88140beaff3e5f38",
+  "source": "Read more about typed routes, including how to declare a route Nuxt cannot see and how to reject a path no route answers.",
+  "text": "Mehr zu typisierten Routen, unter anderem dazu, wie du eine Route deklarierst, die Nuxt nicht sehen kann, und wie du einen Pfad ablehnst, auf den keine Route antwortet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mehr zu typisierten Routen, unter anderem dazu, wie du eine Route deklarierst, die Nuxt nicht sehen kann, und wie du einen Pfad ablehnst, auf den keine Route antwortet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

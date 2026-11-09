@@ -1,0 +1,14 @@
+{
+  "hash": "ac68ceb8d8114e9d",
+  "source": "When multiple {0} calls use the same key, they share the same {1}, {2}, {3}, and {4} refs. Keep the options listed below consistent across these calls.",
+  "text": "Wenn mehrere {0}-Aufrufe denselben Schlüssel verwenden, teilen sie sich dieselben Refs {1}, {2}, {3} und {4}. Halte die unten aufgeführten Optionen in diesen Aufrufen konsistent.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn mehrere {0}-Aufrufe denselben Schlüssel verwenden, teilen sie sich dieselben Refs {1}, {2}, {3} und {4}. Halte die unten aufgeführten Optionen in diesen Aufrufen konsistent."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

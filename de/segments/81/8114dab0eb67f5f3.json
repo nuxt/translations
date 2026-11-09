@@ -1,0 +1,14 @@
+{
+  "hash": "8114dab0eb67f5f3",
+  "source": "Vue.js Composition API (and Nuxt composables similarly) work by depending on an implicit context. During the lifecycle, Vue sets the temporary instance of the current component (and Nuxt temporary instance of nuxtApp) to a global variable and unsets it in same tick. When rendering on the server side, there are multiple requests from different users and nuxtApp running in a same global context. Because of this, Nuxt and Vue immediately unset this global instance to avoid leaking a shared reference between two users or components.",
+  "text": "Die Vue.js Composition API (und ebenso Nuxt-Composables) funktioniert über einen impliziten Kontext. Während des Lebenszyklus setzt Vue die temporäre Instanz der aktuellen Komponente (und Nuxt die temporäre Instanz von nuxtApp) in eine globale Variable und hebt diese im selben Tick wieder auf. Beim Rendern auf dem Server laufen mehrere Anfragen verschiedener Nutzender und mehrere nuxtApp-Instanzen im selben globalen Kontext. Deshalb heben Nuxt und Vue diese globale Instanz sofort wieder auf, um zu vermeiden, dass eine gemeinsame Referenz zwischen zwei Nutzenden oder Komponenten durchsickert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Vue.js Composition API (und ebenso Nuxt-Composables) funktioniert über einen impliziten Kontext. Während des Lebenszyklus setzt Vue die temporäre Instanz der aktuellen Komponente (und Nuxt die temporäre Instanz von nuxtApp) in eine globale Variable und hebt diese im selben Tick wieder auf. Beim Rendern auf dem Server laufen mehrere Anfragen verschiedener Nutzender und mehrere nuxtApp-Instanzen im selben globalen Kontext. Deshalb heben Nuxt und Vue diese globale Instanz sofort wieder auf, um zu vermeiden, dass eine gemeinsame Referenz zwischen zwei Nutzenden oder Komponenten durchsickert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

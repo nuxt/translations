@@ -1,0 +1,14 @@
+{
+  "hash": "85f80d4adacb099f",
+  "source": "Nuxt modules come with their own builder provided by {0}. This builder doesn't require any configuration on your end, supports TypeScript, and makes sure your assets are properly bundled to be distributed to other Nuxt applications.",
+  "text": "Nuxt-Module bringen einen eigenen Builder mit, der von {0} bereitgestellt wird. Dieser Builder erfordert keine Konfiguration, unterstützt TypeScript und stellt sicher, dass deine assets korrekt gebündelt werden, damit sie an andere Nuxt-Anwendungen verteilt werden können.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt-Module bringen einen eigenen Builder mit, der von {0} bereitgestellt wird. Dieser Builder erfordert keine Konfiguration, unterstützt TypeScript und stellt sicher, dass deine assets korrekt gebündelt werden, damit sie an andere Nuxt-Anwendungen verteilt werden können."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

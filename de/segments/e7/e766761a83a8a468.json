@@ -1,0 +1,14 @@
+{
+  "hash": "e766761a83a8a468",
+  "source": "If {0} exists in your project, it overrides all layers",
+  "text": "Wenn {0} in deinem Projekt existiert, überschreibt es alle Layer",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn {0} in deinem Projekt existiert, überschreibt es alle Layer"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

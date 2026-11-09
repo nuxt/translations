@@ -1,0 +1,14 @@
+{
+  "hash": "e9c722a8f92f82b9",
+  "source": "What are 200.html and 404.html?",
+  "text": "Was sind 200.html und 404.html?",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Was sind 200.html und 404.html?"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

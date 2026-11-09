@@ -1,0 +1,14 @@
+{
+  "hash": "47b8fb870fab09b1",
+  "source": "The app.vue file is the main component of your Nuxt application.",
+  "text": "Die Datei app.vue ist die Hauptkomponente deiner Nuxt-Anwendung.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Datei app.vue ist die Hauptkomponente deiner Nuxt-Anwendung."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

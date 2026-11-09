@@ -1,0 +1,14 @@
+{
+  "hash": "22ed94e188fc8605",
+  "source": "Awaiting {0} initializes the call but does not wait for the data. During client-side navigation, check {1} and {2} in your component's template before using the result.",
+  "text": "Das Awaiten von {0} initialisiert den Aufruf, wartet aber nicht auf die Daten. Prüfe bei der clientseitigen Navigation {1} und {2} in der Vorlage deiner Komponente, bevor du das Ergebnis verwendest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Awaiten von {0} initialisiert den Aufruf, wartet aber nicht auf die Daten. Prüfe bei der clientseitigen Navigation {1} und {2} in der Vorlage deiner Komponente, bevor du das Ergebnis verwendest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

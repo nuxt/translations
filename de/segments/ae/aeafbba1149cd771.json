@@ -1,0 +1,14 @@
+{
+  "hash": "aeafbba1149cd771",
+  "source": "**See**: {0}Rsbuild configuration docs{/0} for more information. Please note that not all Rsbuild options are supported in Nuxt.",
+  "text": "**Siehe**: {0}Rsbuild-Konfigurationsdokumentation{/0} für weitere Informationen. Beachte, dass in Nuxt nicht alle Rsbuild-Optionen unterstützt werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Siehe**: {0}Rsbuild-Konfigurationsdokumentation{/0} für weitere Informationen. Beachte, dass in Nuxt nicht alle Rsbuild-Optionen unterstützt werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

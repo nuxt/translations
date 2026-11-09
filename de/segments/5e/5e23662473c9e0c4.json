@@ -1,0 +1,14 @@
+{
+  "hash": "5e23662473c9e0c4",
+  "source": "Use {0} instead. This may be removed in @nuxt/kit v5 or a future major version.",
+  "text": "Verwende stattdessen {0}. Dies wird möglicherweise in @nuxt/kit v5 oder einer zukünftigen Hauptversion entfernt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwende stattdessen {0}. Dies wird möglicherweise in @nuxt/kit v5 oder einer zukünftigen Hauptversion entfernt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

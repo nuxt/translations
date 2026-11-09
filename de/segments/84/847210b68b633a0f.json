@@ -1,0 +1,14 @@
+{
+  "hash": "847210b68b633a0f",
+  "source": "This method is useful if you want to invalidate the state of {0}. You can also reset the state to its initial value by passing {1} as the second parameter.",
+  "text": "Diese Methode ist nützlich, wenn du den Zustand von {0} ungültig machen möchtest. Du kannst den Zustand auch auf seinen Anfangswert zurücksetzen, indem du {1} als zweiten Parameter übergibst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese Methode ist nützlich, wenn du den Zustand von {0} ungültig machen möchtest. Du kannst den Zustand auch auf seinen Anfangswert zurücksetzen, indem du {1} als zweiten Parameter übergibst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

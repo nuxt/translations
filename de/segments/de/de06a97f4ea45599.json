@@ -1,0 +1,14 @@
+{
+  "hash": "de06a97f4ea45599",
+  "source": "Project button (overrides all layers)",
+  "text": "Projekt-Button (überschreibt alle Layer)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Projekt-Button (überschreibt alle Layer)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

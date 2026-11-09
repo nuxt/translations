@@ -1,0 +1,14 @@
+{
+  "hash": "54370fd65d4248c7",
+  "source": "You can explicitly import {0} from {1} if you prefer:",
+  "text": "Wenn du möchtest, kannst du {0} explizit aus {1} importieren:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du möchtest, kannst du {0} explizit aus {1} importieren:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

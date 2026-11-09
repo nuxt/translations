@@ -1,0 +1,14 @@
+{
+  "hash": "53344b574c1997af",
+  "source": "{0} written as a property accessor, for display or for matching against a known key, such as {1} or {2}.",
+  "text": "{0} als Property-Accessor geschrieben, zur Anzeige oder zum Abgleich mit einem bekannten Schlüssel, z. B. {1} oder {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} als Property-Accessor geschrieben, zur Anzeige oder zum Abgleich mit einem bekannten Schlüssel, z. B. {1} oder {2}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

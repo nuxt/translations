@@ -1,0 +1,14 @@
+{
+  "hash": "5458bf285ab896d0",
+  "source": "Nuxt supports ESLint out of the box",
+  "text": "Nuxt unterstützt ESLint standardmäßig",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt unterstützt ESLint standardmäßig"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "1013ed17c82b2ac2",
+  "source": "External CSS",
+  "text": "Externes CSS",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Externes CSS"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "257ca7e8b7689f18",
+  "source": "There are two approaches:",
+  "text": "Es gibt zwei Vorgehensweisen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Es gibt zwei Vorgehensweisen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

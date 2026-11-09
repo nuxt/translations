@@ -1,0 +1,14 @@
+{
+  "hash": "c5cadd5333c2bb57",
+  "source": "Configuration applied above every layer, including the root project's own {0}.",
+  "text": "Konfiguration, die oberhalb aller Layer angewendet wird, einschließlich der eigenen {0} des Root-Projekts.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Konfiguration, die oberhalb aller Layer angewendet wird, einschließlich der eigenen {0} des Root-Projekts."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

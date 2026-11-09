@@ -1,0 +1,14 @@
+{
+  "hash": "6f697c8cb9404476",
+  "source": "{0} mode is available since {1}Nuxt v3.15{/1}.",
+  "text": "Der Modus {0} ist seit {1}Nuxt v3.15{/1} verfügbar.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Modus {0} ist seit {1}Nuxt v3.15{/1} verfügbar."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

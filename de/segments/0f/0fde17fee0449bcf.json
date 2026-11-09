@@ -1,0 +1,14 @@
+{
+  "hash": "0fde17fee0449bcf",
+  "source": "This can be overridden with {0} on an individual page. Only JSON-serializable values are allowed.",
+  "text": "Dies kann auf einer einzelnen Seite mit {0} überschrieben werden. Es sind nur JSON-serialisierbare Werte erlaubt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dies kann auf einer einzelnen Seite mit {0} überschrieben werden. Es sind nur JSON-serialisierbare Werte erlaubt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "f4d81cd595339902",
+  "source": "Specify name of the generated file",
+  "text": "Legt den Namen der generierten Datei fest",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Legt den Namen der generierten Datei fest"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

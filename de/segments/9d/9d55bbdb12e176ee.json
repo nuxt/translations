@@ -1,0 +1,14 @@
+{
+  "hash": "9d55bbdb12e176ee",
+  "source": "Config within public will be also exposed to the client",
+  "text": "Konfiguration innerhalb von public wird ebenfalls dem Client zur Verfügung gestellt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Konfiguration innerhalb von public wird ebenfalls dem Client zur Verfügung gestellt"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "521ef38558cffb01",
+  "source": "If an error occurs during streaming after the HTTP status is already committed, {0} is set and the closing tags are still emitted as a well-formed document so the client picks up the error during hydration and renders the error page. Errors thrown before the shell flushes fall through to the buffered error renderer with the correct status code.",
+  "text": "Tritt während des Streamings ein Fehler auf, nachdem der HTTP-Status bereits festgelegt wurde, wird {0} gesetzt und die schließenden Tags werden weiterhin als wohlgeformtes Dokument ausgegeben. So erkennt der Client den Fehler während der Hydration und rendert die Fehlerseite. Fehler, die ausgelöst werden, bevor die Shell gesendet wird, gehen an den gepufferten Fehler-Renderer mit dem korrekten Statuscode über.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Tritt während des Streamings ein Fehler auf, nachdem der HTTP-Status bereits festgelegt wurde, wird {0} gesetzt und die schließenden Tags werden weiterhin als wohlgeformtes Dokument ausgegeben. So erkennt der Client den Fehler während der Hydration und rendert die Fehlerseite. Fehler, die ausgelöst werden, bevor die Shell gesendet wird, gehen an den gepufferten Fehler-Renderer mit dem korrekten Statuscode über."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

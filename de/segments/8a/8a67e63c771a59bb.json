@@ -1,0 +1,14 @@
+{
+  "hash": "8a67e63c771a59bb",
+  "source": "Find the first (highest priority) layer that has a specific config file",
+  "text": "Den ersten Layer (mit der höchsten Priorität) finden, der eine bestimmte Konfigurationsdatei besitzt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Den ersten Layer (mit der höchsten Priorität) finden, der eine bestimmte Konfigurationsdatei besitzt"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "7ae205f090e6c357",
+  "source": "When making a client-side fetch request, the browser automatically sends the necessary headers. However, when making a request during server-side rendering, due to security considerations, we need to forward the headers manually.",
+  "text": "Bei einer clientseitigen Fetch-Anfrage sendet der Browser die erforderlichen Header automatisch mit. Bei einer Anfrage während des serverseitigen Renderings müssen wir die Header aus Sicherheitsgründen jedoch manuell weiterleiten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bei einer clientseitigen Fetch-Anfrage sendet der Browser die erforderlichen Header automatisch mit. Bei einer Anfrage während des serverseitigen Renderings müssen wir die Header aus Sicherheitsgründen jedoch manuell weiterleiten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

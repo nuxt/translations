@@ -1,0 +1,14 @@
+{
+  "hash": "66658f90f5047ec6",
+  "source": "Configure Nuxt component auto-registration.",
+  "text": "Konfiguriere die automatische Registrierung von Nuxt-Komponenten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Konfiguriere die automatische Registrierung von Nuxt-Komponenten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

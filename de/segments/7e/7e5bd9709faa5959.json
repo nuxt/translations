@@ -1,0 +1,14 @@
+{
+  "hash": "7e5bd9709faa5959",
+  "source": "Force offline mode",
+  "text": "Offline-Modus erzwingen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Offline-Modus erzwingen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

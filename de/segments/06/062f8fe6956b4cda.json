@@ -1,0 +1,14 @@
+{
+  "hash": "062f8fe6956b4cda",
+  "source": "Serialize the output to string, using superjson",
+  "text": "Die Ausgabe mit superjson in einen String serialisieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Ausgabe mit superjson in einen String serialisieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

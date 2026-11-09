@@ -1,0 +1,14 @@
+{
+  "hash": "b5e3580e481fc2ab",
+  "source": "Outside a project, or installed globally, {0} runs the same commands. It hands each one over to the {1} installed in the project when there is one, so the code that runs matches the version of Nuxt it sits alongside rather than whatever is on your machine. It falls back to its own bundled commands when there is no project CLI, when the project's copy predates v3.26, or when the project's copy does not know the command, so a project pinned to an older release still gets newer commands.",
+  "text": "Außerhalb eines Projekts oder bei globaler Installation führt {0} dieselben Befehle aus. Es übergibt jeden Befehl an die {1}, die im Projekt installiert ist, sofern vorhanden. So passt der ausgeführte Code zur Nuxt-Version, neben der er liegt, und nicht zu dem, was auf deinem Rechner installiert ist. Es greift auf die eigenen mitgelieferten Befehle zurück, wenn es keine Projekt-Kommandozeilenschnittstelle gibt, wenn die Version im Projekt älter als v3.26 ist oder wenn die Version im Projekt den Befehl nicht kennt. So erhält auch ein auf ein älteres Release festgelegtes Projekt neuere Befehle.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Außerhalb eines Projekts oder bei globaler Installation führt {0} dieselben Befehle aus. Es übergibt jeden Befehl an die {1}, die im Projekt installiert ist, sofern vorhanden. So passt der ausgeführte Code zur Nuxt-Version, neben der er liegt, und nicht zu dem, was auf deinem Rechner installiert ist. Es greift auf die eigenen mitgelieferten Befehle zurück, wenn es keine Projekt-Kommandozeilenschnittstelle gibt, wenn die Version im Projekt älter als v3.26 ist oder wenn die Version im Projekt den Befehl nicht kennt. So erhält auch ein auf ein älteres Release festgelegtes Projekt neuere Befehle."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

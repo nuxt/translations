@@ -1,0 +1,14 @@
+{
+  "hash": "309614e2b4c028ab",
+  "source": "Only packages that ship a CSS entrypoint (such as {0} or {1}) can be used with this provider. Packages that ship bare font files are handled by the {2}{3} provider{/2} instead.",
+  "text": "Mit diesem Provider lassen sich nur Pakete verwenden, die einen CSS-Einstiegspunkt mitliefern (wie {0} oder {1}). Pakete, die nur reine Schriftdateien enthalten, werden stattdessen vom {2}{3}-Provider{/2} verarbeitet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit diesem Provider lassen sich nur Pakete verwenden, die einen CSS-Einstiegspunkt mitliefern (wie {0} oder {1}). Pakete, die nur reine Schriftdateien enthalten, werden stattdessen vom {2}{3}-Provider{/2} verarbeitet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "449b25ab845a5dc6",
+  "source": "Library Author Guide",
+  "text": "Anleitung für Bibliotheksautorinnen und -autoren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Anleitung für Bibliotheksautorinnen und -autoren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "fbc7aa3f13dcdf36",
+  "source": "Boolean flag indicating whether the current request is in progress.",
+  "text": "Boolean-Flag, das anzeigt, ob die aktuelle Anfrage gerade läuft.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Boolean-Flag, das anzeigt, ob die aktuelle Anfrage gerade läuft."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

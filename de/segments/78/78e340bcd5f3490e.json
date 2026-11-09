@@ -1,0 +1,14 @@
+{
+  "hash": "78e340bcd5f3490e",
+  "source": "Update {0} and {1} to be {2}.",
+  "text": "Aktualisiere {0} und {1} zu {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Aktualisiere {0} und {1} zu {2}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

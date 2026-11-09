@@ -1,0 +1,14 @@
+{
+  "hash": "a32d7450171a3a85",
+  "source": "Whether to prompt before installing. {0} always prompts, {1} never prompts (and installs automatically on StackBlitz), and leaving it unset prompts everywhere except StackBlitz.",
+  "text": "Gibt an, ob vor der Installation nachgefragt wird. {0} fragt immer nach, {1} fragt nie nach (und installiert auf StackBlitz automatisch). Ist die Option nicht gesetzt, wird überall außer auf StackBlitz nachgefragt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gibt an, ob vor der Installation nachgefragt wird. {0} fragt immer nach, {1} fragt nie nach (und installiert auf StackBlitz automatisch). Ist die Option nicht gesetzt, wird überall außer auf StackBlitz nachgefragt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

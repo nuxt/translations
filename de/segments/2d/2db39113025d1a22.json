@@ -1,0 +1,14 @@
+{
+  "hash": "2db39113025d1a22",
+  "source": "Use **lazy hydration** on routes that keep their scripts, so interactivity is paid for only when needed.",
+  "text": "Verwende **Lazy Hydration** auf Routen, die ihre Skripte behalten, damit der Aufwand für Interaktivität nur dann anfällt, wenn sie gebraucht wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwende **Lazy Hydration** auf Routen, die ihre Skripte behalten, damit der Aufwand für Interaktivität nur dann anfällt, wenn sie gebraucht wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

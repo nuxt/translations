@@ -1,0 +1,14 @@
+{
+  "hash": "8f5bdc54cb0e78b9",
+  "source": "Providers can have their own options. These options are passed directly to different font providers. Please refer to the {0}provider documentation{/0} for more information.",
+  "text": "Provider können eigene Optionen haben. Diese Optionen werden direkt an die jeweiligen Schriftarten-Provider weitergereicht. Weitere Informationen findest du in der {0}Dokumentation des Providers{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Provider können eigene Optionen haben. Diese Optionen werden direkt an die jeweiligen Schriftarten-Provider weitergereicht. Weitere Informationen findest du in der {0}Dokumentation des Providers{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "929a333eb64124ef",
+  "source": "These options have been set to their current values for some time and we do not have a reason to believe that they need to remain configurable.",
+  "text": "Diese Optionen sind schon seit einiger Zeit auf ihre aktuellen Werte gesetzt, und wir sehen keinen Grund, sie weiterhin konfigurierbar zu halten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese Optionen sind schon seit einiger Zeit auf ihre aktuellen Werte gesetzt, und wir sehen keinen Grund, sie weiterhin konfigurierbar zu halten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

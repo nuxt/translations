@@ -1,0 +1,14 @@
+{
+  "hash": "07b6d3fb02c806ce",
+  "source": "List Your Module",
+  "text": "Dein Modul listen lassen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dein Modul listen lassen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

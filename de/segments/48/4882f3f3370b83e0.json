@@ -1,0 +1,14 @@
+{
+  "hash": "4882f3f3370b83e0",
+  "source": "Called after templates are compiled into the {0}virtual file system{/0} (vfs).",
+  "text": "Wird aufgerufen, nachdem Vorlagen in das {0}virtuelle Dateisystem{/0} (vfs) kompiliert wurden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird aufgerufen, nachdem Vorlagen in das {0}virtuelle Dateisystem{/0} (vfs) kompiliert wurden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

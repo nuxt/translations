@@ -1,0 +1,14 @@
+{
+  "hash": "4f602199baae3e7e",
+  "source": "This means you should take particular care not to mutate the global state in your tests (or, if you need to, to reset it afterwards).",
+  "text": "Das bedeutet, dass du besonders darauf achten solltest, den globalen Zustand in deinen Tests nicht zu verändern (oder ihn danach zurückzusetzen, falls du ihn ändern musst).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das bedeutet, dass du besonders darauf achten solltest, den globalen Zustand in deinen Tests nicht zu verändern (oder ihn danach zurückzusetzen, falls du ihn ändern musst)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "abcbfe8ac59ef550",
+  "source": "Fires {0}, and in production closes the {1} instance.",
+  "text": "Es löst {0} aus und schließt in der Produktion die {1}-Instanz.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Es löst {0} aus und schließt in der Produktion die {1}-Instanz."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

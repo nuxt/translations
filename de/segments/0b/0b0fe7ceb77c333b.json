@@ -1,0 +1,14 @@
+{
+  "hash": "0b0fe7ceb77c333b",
+  "source": "The error.vue file is the error page in your Nuxt application.",
+  "text": "Die Datei error.vue ist die Fehlerseite in deiner Nuxt-Anwendung.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Datei error.vue ist die Fehlerseite in deiner Nuxt-Anwendung."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

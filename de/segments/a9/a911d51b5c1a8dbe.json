@@ -1,0 +1,14 @@
+{
+  "hash": "a911d51b5c1a8dbe",
+  "source": "{0} - for specifying routes to prerender",
+  "text": "{0} – zum Festlegen von Routen für das Vorab-Rendering",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} – zum Festlegen von Routen für das Vorab-Rendering"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

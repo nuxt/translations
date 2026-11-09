@@ -1,0 +1,14 @@
+{
+  "hash": "d328273d39f60600",
+  "source": "Errors take the same shape as the ones the Vue part of your app constructs:",
+  "text": "Fehler haben dieselbe Form wie diejenigen, die der Vue-Teil deiner App erzeugt:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fehler haben dieselbe Form wie diejenigen, die der Vue-Teil deiner App erzeugt:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

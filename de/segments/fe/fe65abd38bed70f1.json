@@ -1,0 +1,14 @@
+{
+  "hash": "fe65abd38bed70f1",
+  "source": "The event the renderer takes is described in web standards only (a {0}, a {1}, a response to influence, and a context), matching the {2} shape in {3}. Set {4} on it to name the event the application should see, and {5} and the render hooks receive that instead. {6} is passed the event too, for a runtime that resolves it per request. Everything the renderer can't learn from the platform (route rules, hooks, response and error construction, early hints, island rendering, and the prerender caches) is passed in, so the renderer itself imports no server runtime.",
+  "text": "Das Event, das der Renderer entgegennimmt, wird ausschließlich mit Webstandards beschrieben (ein {0}, ein {1}, eine zu beeinflussende Antwort und ein Kontext) und entspricht der Struktur von {2} in {3}. Setze darauf {4}, um das Event zu benennen, das die Anwendung sehen soll; {5} und die Render-Hooks erhalten dann dieses. {6} bekommt das Event ebenfalls übergeben, für eine Laufzeitumgebung, die es pro Anfrage auflöst. Alles, was der Renderer nicht von der Plattform erfahren kann (Route-Rules, Hooks, Erzeugung von Antworten und Fehlern, Early Hints, Island-Rendering und die Vorab-Rendering-Caches), wird übergeben, sodass der Renderer selbst keine Server-Laufzeit importiert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Event, das der Renderer entgegennimmt, wird ausschließlich mit Webstandards beschrieben (ein {0}, ein {1}, eine zu beeinflussende Antwort und ein Kontext) und entspricht der Struktur von {2} in {3}. Setze darauf {4}, um das Event zu benennen, das die Anwendung sehen soll; {5} und die Render-Hooks erhalten dann dieses. {6} bekommt das Event ebenfalls übergeben, für eine Laufzeitumgebung, die es pro Anfrage auflöst. Alles, was der Renderer nicht von der Plattform erfahren kann (Route-Rules, Hooks, Erzeugung von Antworten und Fehlern, Early Hints, Island-Rendering und die Vorab-Rendering-Caches), wird übergeben, sodass der Renderer selbst keine Server-Laufzeit importiert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "85d403d1680bb85d",
+  "source": "When Nuxt renders a page on the server, it serializes the results of your data fetching ({0} and {1}) and app state ({2}) into a payload so the client can hydrate without re-fetching. With payload extraction enabled, Nuxt also writes this payload to a {3} file alongside the route's HTML:",
+  "text": "Wenn Nuxt eine Seite auf dem Server rendert, serialisiert es die Ergebnisse deines Datenabrufs ({0} und {1}) sowie den App-Zustand ({2}) in eine Payload, damit der Client ohne erneuten Abruf hydratisieren kann. Ist die Payload-Extraktion aktiviert, schreibt Nuxt diese Payload zusätzlich in eine {3}-Datei neben dem HTML der Route:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn Nuxt eine Seite auf dem Server rendert, serialisiert es die Ergebnisse deines Datenabrufs ({0} und {1}) sowie den App-Zustand ({2}) in eine Payload, damit der Client ohne erneuten Abruf hydratisieren kann. Ist die Payload-Extraktion aktiviert, schreibt Nuxt diese Payload zusätzlich in eine {3}-Datei neben dem HTML der Route:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

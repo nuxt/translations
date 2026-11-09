@@ -1,0 +1,14 @@
+{
+  "hash": "88ccdb82a968f716",
+  "source": "Normally, during server-side-rendering, due to security considerations, the {0} wouldn't include the user's browser cookies, nor pass on cookies from the fetch response.",
+  "text": "Normalerweise enthält {0} beim Server-Side-Rendering aus Sicherheitsgründen weder die Browser-Cookies der Nutzenden noch gibt es Cookies aus der Antwort des Abrufs weiter.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Normalerweise enthält {0} beim Server-Side-Rendering aus Sicherheitsgründen weder die Browser-Cookies der Nutzenden noch gibt es Cookies aus der Antwort des Abrufs weiter."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

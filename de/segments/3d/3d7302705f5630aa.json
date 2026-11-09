@@ -1,0 +1,14 @@
+{
+  "hash": "3d7302705f5630aa",
+  "source": "Command to run",
+  "text": "Auszuführender Befehl",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auszuführender Befehl"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

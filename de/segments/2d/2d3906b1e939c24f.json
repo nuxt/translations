@@ -1,0 +1,14 @@
+{
+  "hash": "2d3906b1e939c24f",
+  "source": "**Anonymous (or inline) route middleware**",
+  "text": "**Anonyme (oder Inline-)Routen-Middleware**",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Anonyme (oder Inline-)Routen-Middleware**"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

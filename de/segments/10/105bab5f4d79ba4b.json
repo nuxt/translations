@@ -1,0 +1,14 @@
+{
+  "hash": "105bab5f4d79ba4b",
+  "source": "See which h3 helpers work with the portable event, and which need Nitro-specific utilities.",
+  "text": "Hier siehst du, welche h3-Hilfsfunktionen mit dem portablen Event funktionieren und welche Nitro-spezifische Hilfsprogramme benötigen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Hier siehst du, welche h3-Hilfsfunktionen mit dem portablen Event funktionieren und welche Nitro-spezifische Hilfsprogramme benötigen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

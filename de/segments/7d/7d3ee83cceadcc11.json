@@ -1,0 +1,14 @@
+{
+  "hash": "7d3ee83cceadcc11",
+  "source": "aborts the ongoing refresh request",
+  "text": "bricht die laufende Aktualisierungsanfrage ab",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "bricht die laufende Aktualisierungsanfrage ab"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

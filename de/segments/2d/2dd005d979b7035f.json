@@ -1,0 +1,14 @@
+{
+  "hash": "2dd005d979b7035f",
+  "source": "For all other situations, you can use the {0} command.",
+  "text": "In allen anderen Fällen kannst du den Befehl {0} verwenden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In allen anderen Fällen kannst du den Befehl {0} verwenden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

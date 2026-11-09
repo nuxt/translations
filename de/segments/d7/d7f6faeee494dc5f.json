@@ -1,0 +1,14 @@
+{
+  "hash": "d7f6faeee494dc5f",
+  "source": "Define the directory where your built Nuxt files will be placed.",
+  "text": "Lege das Verzeichnis fest, in dem deine erzeugten Nuxt-Dateien abgelegt werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lege das Verzeichnis fest, in dem deine erzeugten Nuxt-Dateien abgelegt werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

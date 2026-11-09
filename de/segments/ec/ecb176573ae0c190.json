@@ -1,0 +1,14 @@
+{
+  "hash": "ecb176573ae0c190",
+  "source": "The layer covers the specifiers your own code imports. It does not supply packages that {0} v2 happened to hoist into the server bundle, like {1} or similar. Always declare your module's dependencies in {2}.",
+  "text": "Die Schicht deckt die Specifier ab, die dein eigener Code importiert. Sie stellt keine Pakete bereit, die {0} v2 zufällig in das Server-Bundle gehoistet hat, wie {1} oder ähnliche. Deklariere die Abhängigkeiten deines Moduls immer in {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Schicht deckt die Specifier ab, die dein eigener Code importiert. Sie stellt keine Pakete bereit, die {0} v2 zufällig in das Server-Bundle gehoistet hat, wie {1} oder ähnliche. Deklariere die Abhängigkeiten deines Moduls immer in {2}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

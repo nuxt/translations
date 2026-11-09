@@ -1,0 +1,14 @@
+{
+  "hash": "a1a2cb24d236d6cc",
+  "source": "For example, to mock {0}, you can:",
+  "text": "Um zum Beispiel {0} zu mocken, kannst du Folgendes tun:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um zum Beispiel {0} zu mocken, kannst du Folgendes tun:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

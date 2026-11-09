@@ -1,0 +1,14 @@
+{
+  "hash": "8cbd8fd68f541bb1",
+  "source": "add it to your {0} file",
+  "text": "es zu deiner Datei {0} hinzufügen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "es zu deiner Datei {0} hinzufügen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

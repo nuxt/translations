@@ -1,0 +1,14 @@
+{
+  "hash": "5318276c9aeb4618",
+  "source": "Add Nuxt modules",
+  "text": "Nuxt-Module hinzufügen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt-Module hinzufügen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "de11ee51197d39a4",
+  "source": "The {0} composable lets you define your site's SEO meta tags as an object with full type safety.",
+  "text": "Mit dem Composable {0} definierst du die SEO-Meta-Tags deiner Website als Objekt mit voller Typsicherheit.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit dem Composable {0} definierst du die SEO-Meta-Tags deiner Website als Objekt mit voller Typsicherheit."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

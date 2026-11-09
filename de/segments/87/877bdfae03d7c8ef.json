@@ -1,0 +1,14 @@
+{
+  "hash": "877bdfae03d7c8ef",
+  "source": "{0} picks what to upgrade to: {1} for the latest release, {2} to stay on a major, and {3}, {4} or {5} for the nightly release channel.",
+  "text": "{0} legt fest, auf welche Version das Upgrade erfolgt: {1} für das neueste Release, {2}, um bei einer Major-Version zu bleiben, sowie {3}, {4} oder {5} für den Nightly-Release-Kanal.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} legt fest, auf welche Version das Upgrade erfolgt: {1} für das neueste Release, {2}, um bei einer Major-Version zu bleiben, sowie {3}, {4} oder {5} für den Nightly-Release-Kanal."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

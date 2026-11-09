@@ -1,0 +1,14 @@
+{
+  "hash": "4e10d15694f4f0db",
+  "source": "Allows navigating to an external URL when set to {0}. Otherwise, {1} will throw an error, as external navigation is not allowed by default.",
+  "text": "Erlaubt die Navigation zu einer externen URL, wenn der Wert {0} ist. Andernfalls wirft {1} einen Fehler, da externe Navigation standardmäßig nicht erlaubt ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erlaubt die Navigation zu einer externen URL, wenn der Wert {0} ist. Andernfalls wirft {1} einen Fehler, da externe Navigation standardmäßig nicht erlaubt ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

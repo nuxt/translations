@@ -1,0 +1,14 @@
+{
+  "hash": "f1fda8c308763aa8",
+  "source": "Private keys are only available on the server",
+  "text": "Private Schlüssel sind nur auf dem Server verfügbar",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Private Schlüssel sind nur auf dem Server verfügbar"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

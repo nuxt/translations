@@ -1,0 +1,14 @@
+{
+  "hash": "bb848dced2ff60ea",
+  "source": "{0}Nuxt Fonts{/0} will automatically optimize your fonts (including custom fonts) and remove external network requests for improved privacy and performance.",
+  "text": "{0}Nuxt Fonts{/0} optimiert deine Schriften (auch benutzerdefinierte) automatisch und entfernt externe Netzwerkanfragen, um Datenschutz und Performance zu verbessern.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}Nuxt Fonts{/0} optimiert deine Schriften (auch benutzerdefinierte) automatisch und entfernt externe Netzwerkanfragen, um Datenschutz und Performance zu verbessern."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

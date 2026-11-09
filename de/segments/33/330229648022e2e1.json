@@ -1,0 +1,14 @@
+{
+  "hash": "330229648022e2e1",
+  "source": "Nuxt uses {0}TypeScript project references{/0} to improve type-checking performance and provide better IDE support. This feature allows TypeScript to break up your codebase into smaller, more manageable pieces.",
+  "text": "Nuxt verwendet {0}TypeScript-Projektreferenzen{/0}, um die Performance der Typprüfung zu verbessern und eine bessere IDE-Unterstützung zu bieten. Mit diesem Feature kann TypeScript deine Codebasis in kleinere, besser handhabbare Teile aufteilen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt verwendet {0}TypeScript-Projektreferenzen{/0}, um die Performance der Typprüfung zu verbessern und eine bessere IDE-Unterstützung zu bieten. Mit diesem Feature kann TypeScript deine Codebasis in kleinere, besser handhabbare Teile aufteilen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

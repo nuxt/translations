@@ -1,0 +1,14 @@
+{
+  "hash": "3ca197762871c6bd",
+  "source": "The reason for this data request",
+  "text": "Der Grund für diese Datenanfrage",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Grund für diese Datenanfrage"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

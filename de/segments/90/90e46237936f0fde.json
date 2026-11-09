@@ -1,0 +1,14 @@
+{
+  "hash": "90e46237936f0fde",
+  "source": "By default, this is enabled in development (when test mode is not active).",
+  "text": "Standardmäßig ist diese Option in der Entwicklung aktiviert (sofern der Testmodus nicht aktiv ist).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardmäßig ist diese Option in der Entwicklung aktiviert (sofern der Testmodus nicht aktiv ist)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

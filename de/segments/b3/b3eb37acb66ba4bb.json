@@ -1,0 +1,14 @@
+{
+  "hash": "b3eb37acb66ba4bb",
+  "source": "Quit",
+  "text": "Beenden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Beenden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

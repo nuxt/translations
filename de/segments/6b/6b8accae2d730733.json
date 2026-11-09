@@ -1,0 +1,14 @@
+{
+  "hash": "6b8accae2d730733",
+  "source": "These functions are designed for registering your own utils, composables and Vue APIs. For pages, components and plugins, please refer to the specific sections: {0}Pages{/0}, {1}Components{/1}, {2}Plugins{/2}.",
+  "text": "Diese Funktionen dienen dazu, eigene Utilities, Composables und Vue-APIs zu registrieren. Informationen zu Seiten, Komponenten und Plugins findest du in den jeweiligen Abschnitten: {0}Seiten{/0}, {1}Komponenten{/1}, {2}Plugins{/2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese Funktionen dienen dazu, eigene Utilities, Composables und Vue-APIs zu registrieren. Informationen zu Seiten, Komponenten und Plugins findest du in den jeweiligen Abschnitten: {0}Seiten{/0}, {1}Komponenten{/1}, {2}Plugins{/2}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

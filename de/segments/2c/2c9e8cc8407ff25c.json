@@ -1,0 +1,14 @@
+{
+  "hash": "2c9e8cc8407ff25c",
+  "source": "Default values for page transitions.",
+  "text": "Standardwerte für Seitenübergänge.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardwerte für Seitenübergänge."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

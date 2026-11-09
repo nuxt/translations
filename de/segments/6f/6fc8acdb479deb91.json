@@ -1,0 +1,14 @@
+{
+  "hash": "6fc8acdb479deb91",
+  "source": "The {0} plugin pulls in a significant dependency tree (Babel, {1}, etc.) that is unnecessary for projects that don't use JSX. Making it optional reduces the default install size and speeds up dependency resolution for the majority of Nuxt projects.",
+  "text": "Das {0}-Plugin zieht einen umfangreichen Abhängigkeitsbaum nach sich (Babel, {1} usw.), der für Projekte ohne JSX unnötig ist. Dass es nun optional ist, verringert die Standardinstallationsgröße und beschleunigt die Auflösung der Abhängigkeiten für die Mehrheit der Nuxt-Projekte.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das {0}-Plugin zieht einen umfangreichen Abhängigkeitsbaum nach sich (Babel, {1} usw.), der für Projekte ohne JSX unnötig ist. Dass es nun optional ist, verringert die Standardinstallationsgröße und beschleunigt die Auflösung der Abhängigkeiten für die Mehrheit der Nuxt-Projekte."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

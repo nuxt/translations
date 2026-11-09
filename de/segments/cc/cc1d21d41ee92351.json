@@ -1,0 +1,14 @@
+{
+  "hash": "cc1d21d41ee92351",
+  "source": "**{0}**: A path or an array of paths to resolve.",
+  "text": "**{0}**: Ein Pfad oder ein Array von Pfaden, die aufgelöst werden sollen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}**: Ein Pfad oder ein Array von Pfaden, die aufgelöst werden sollen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

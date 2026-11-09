@@ -1,0 +1,14 @@
+{
+  "hash": "25afbbf209a1aded",
+  "source": "Remote islands need {0} to be {1} in your {2}.",
+  "text": "Für externe Islands muss {0} in deiner {2} auf {1} gesetzt sein.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Für externe Islands muss {0} in deiner {2} auf {1} gesetzt sein."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

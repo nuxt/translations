@@ -1,0 +1,14 @@
+{
+  "hash": "71430fc5f1be4f30",
+  "source": "Within your methods and templates, you could use the {0} variable similar how you'd use any other piece of data provided by your component.",
+  "text": "In deinen Methoden und Vorlagen konntest du die Variable {0} ähnlich verwenden wie alle anderen Daten, die deine Komponente bereitstellt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In deinen Methoden und Vorlagen konntest du die Variable {0} ähnlich verwenden wie alle anderen Daten, die deine Komponente bereitstellt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

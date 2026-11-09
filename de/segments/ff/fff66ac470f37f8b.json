@@ -1,0 +1,14 @@
+{
+  "hash": "fff66ac470f37f8b",
+  "source": "Use {0} (a drop-in replacement for lodash template), as a dependency of *your* project rather than Nuxt:",
+  "text": "Verwende {0} (ein direkter Ersatz für das lodash-Template) als Abhängigkeit *deines* Projekts statt von Nuxt:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwende {0} (ein direkter Ersatz für das lodash-Template) als Abhängigkeit *deines* Projekts statt von Nuxt:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

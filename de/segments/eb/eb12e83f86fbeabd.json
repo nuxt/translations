@@ -1,0 +1,14 @@
+{
+  "hash": "eb12e83f86fbeabd",
+  "source": "Pass Client Headers to the API",
+  "text": "Header des Clients an die API weitergeben",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Header des Clients an die API weitergeben"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

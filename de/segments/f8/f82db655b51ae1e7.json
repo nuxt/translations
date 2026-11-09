@@ -1,0 +1,14 @@
+{
+  "hash": "f82db655b51ae1e7",
+  "source": "Add the folder {0} to the {1} file.",
+  "text": "Füge den Ordner {0} zur Datei {1} hinzu.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Füge den Ordner {0} zur Datei {1} hinzu."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

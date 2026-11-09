@@ -1,0 +1,14 @@
+{
+  "hash": "7fe07a9ab96fa288",
+  "source": "To give a value a type that its default does not describe, such as a value without a default, an enum or a union, declare it {0}with a schema{/0} rather than by augmenting the {1} interface:",
+  "text": "Um einem Wert einen Typ zu geben, den sein Standardwert nicht beschreibt, etwa einem Wert ohne Standardwert, einem Enum oder einer Union, deklarierst du ihn {0}mit einem Schema{/0}, statt das Interface {1} zu erweitern:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um einem Wert einen Typ zu geben, den sein Standardwert nicht beschreibt, etwa einem Wert ohne Standardwert, einem Enum oder einer Union, deklarierst du ihn {0}mit einem Schema{/0}, statt das Interface {1} zu erweitern:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

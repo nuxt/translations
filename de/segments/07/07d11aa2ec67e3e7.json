@@ -1,0 +1,14 @@
+{
+  "hash": "07d11aa2ec67e3e7",
+  "source": "There's nothing to change on your side, but a build that silently shipped no web fonts now downloads them and serves them from {0}. See {1}builder support{/1}.",
+  "text": "Auf deiner Seite ist nichts zu ändern. Ein Build, der bisher stillschweigend keine Webfonts ausgeliefert hat, lädt sie jetzt jedoch herunter und stellt sie über {0} bereit. Siehe {1}Builder-Unterstützung{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auf deiner Seite ist nichts zu ändern. Ein Build, der bisher stillschweigend keine Webfonts ausgeliefert hat, lädt sie jetzt jedoch herunter und stellt sie über {0} bereit. Siehe {1}Builder-Unterstützung{/1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

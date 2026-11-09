@@ -1,0 +1,14 @@
+{
+  "hash": "ee7c2e848ac888ac",
+  "source": "True when running in a test context.",
+  "text": "True, wenn der Code in einem Testkontext läuft.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "True, wenn der Code in einem Testkontext läuft."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

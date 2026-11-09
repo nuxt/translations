@@ -1,0 +1,14 @@
+{
+  "hash": "34dec6dd2461db0d",
+  "source": "Add these specific URLs to your project context using {0}",
+  "text": "Füge diese URLs mit {0} zu deinem Projektkontext hinzu",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Füge diese URLs mit {0} zu deinem Projektkontext hinzu"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

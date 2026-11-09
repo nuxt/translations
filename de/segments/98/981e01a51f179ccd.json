@@ -1,0 +1,14 @@
+{
+  "hash": "981e01a51f179ccd",
+  "source": "This pattern prevents unnecessary work on every build and provides a better developer experience. See the {0}lifecycle hooks documentation{/0} for more details.",
+  "text": "Dieses Muster vermeidet unnötige Arbeit bei jedem Build und sorgt für eine bessere Developer Experience. Weitere Details findest du in der {0}Dokumentation zu den Lifecycle-Hooks{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dieses Muster vermeidet unnötige Arbeit bei jedem Build und sorgt für eine bessere Developer Experience. Weitere Details findest du in der {0}Dokumentation zu den Lifecycle-Hooks{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

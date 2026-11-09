@@ -1,0 +1,14 @@
+{
+  "hash": "0b12dc3234ceb6ba",
+  "source": "Force upgrade to recreate lockfile and node\\_modules",
+  "text": "Upgrade erzwingen, um Lockfile und node\\_modules neu zu erstellen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Upgrade erzwingen, um Lockfile und node\\_modules neu zu erstellen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

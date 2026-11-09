@@ -1,0 +1,14 @@
+{
+  "hash": "7a72f78a92e775bc",
+  "source": "{0}: The color of the loading bar once loading has finished. Defaults to {1}.",
+  "text": "{0}: Die Farbe des Ladebalkens nach Abschluss des Ladevorgangs. Standardmäßig {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Die Farbe des Ladebalkens nach Abschluss des Ladevorgangs. Standardmäßig {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

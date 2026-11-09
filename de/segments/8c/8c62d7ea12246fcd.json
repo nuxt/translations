@@ -1,0 +1,14 @@
+{
+  "hash": "8c62d7ea12246fcd",
+  "source": "**Problem**: The more people are currently working on the project, the more difficult it will be to maintain the stable codebase. Developers have a tendency to introduce new concepts they've seen in another project which can cause conflicts and problems with performance.",
+  "text": "**Problem**: Je mehr Personen gleichzeitig am Projekt arbeiten, desto schwieriger wird es, eine stabile Codebasis zu pflegen. Entwickelnde neigen dazu, neue Konzepte einzuführen, die sie aus einem anderen Projekt kennen. Das kann zu Konflikten und Performance-Problemen führen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Problem**: Je mehr Personen gleichzeitig am Projekt arbeiten, desto schwieriger wird es, eine stabile Codebasis zu pflegen. Entwickelnde neigen dazu, neue Konzepte einzuführen, die sie aus einem anderen Projekt kennen. Das kann zu Konflikten und Performance-Problemen führen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

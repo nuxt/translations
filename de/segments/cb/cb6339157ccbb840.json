@@ -1,0 +1,14 @@
+{
+  "hash": "cb6339157ccbb840",
+  "source": "Disabling Modules from Layers",
+  "text": "Module aus Layern deaktivieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Module aus Layern deaktivieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

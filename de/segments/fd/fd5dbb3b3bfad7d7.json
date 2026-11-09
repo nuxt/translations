@@ -1,0 +1,14 @@
+{
+  "hash": "fd5dbb3b3bfad7d7",
+  "source": "Check for Nuxt 3 compatibility of modules.",
+  "text": "Prüfe die Module auf Kompatibilität mit Nuxt 3.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Prüfe die Module auf Kompatibilität mit Nuxt 3."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

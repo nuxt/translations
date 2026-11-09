@@ -1,0 +1,14 @@
+{
+  "hash": "afa1e79372d37f2b",
+  "source": "**Full Vapor apps are not yet supported.** The application root stays Virtual DOM and you opt in per component; we may support a full Vapor app later on.",
+  "text": "**Vollständige Vapor-Apps werden noch nicht unterstützt.** Die Wurzel der Anwendung bleibt Virtual DOM, und du aktivierst Vapor pro Komponente; eine vollständige Vapor-App unterstützen wir möglicherweise später.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Vollständige Vapor-Apps werden noch nicht unterstützt.** Die Wurzel der Anwendung bleibt Virtual DOM, und du aktivierst Vapor pro Komponente; eine vollständige Vapor-App unterstützen wir möglicherweise später."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

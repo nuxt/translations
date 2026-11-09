@@ -1,0 +1,14 @@
+{
+  "hash": "0c287df6e1d71dbd",
+  "source": "Options to pass to the import. If {0} is set to {1}, the imports will be prepended to the list of imports.",
+  "text": "Optionen, die an den Import übergeben werden. Wenn {0} auf {1} gesetzt ist, werden die Importe der Importliste vorangestellt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Optionen, die an den Import übergeben werden. Wenn {0} auf {1} gesetzt ist, werden die Importe der Importliste vorangestellt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

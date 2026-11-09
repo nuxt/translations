@@ -1,0 +1,14 @@
+{
+  "hash": "197cc0471a9551cb",
+  "source": "Use Composition whenever possible",
+  "text": "Wenn möglich, Composition verwenden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn möglich, Composition verwenden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

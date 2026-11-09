@@ -1,0 +1,14 @@
+{
+  "hash": "9a12d087c81b006c",
+  "source": "If it suits your app, you can go further and move focus to the main region from a plugin whenever navigation changes the path. A script can only focus {0} once it has {1}. Use {2} rather than a positive value, which would move the element in the tab order and surprise everyone else:",
+  "text": "Wenn es zu deiner App passt, kannst du noch weiter gehen und den Fokus aus einem plugin auf den Hauptbereich verschieben, sobald eine Navigation den Pfad ändert. Ein Skript kann {0} erst fokussieren, nachdem es {1} hat. Verwende {2} statt eines positiven Werts, der das Element in der Tab-Reihenfolge verschieben und alle anderen überraschen würde:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn es zu deiner App passt, kannst du noch weiter gehen und den Fokus aus einem plugin auf den Hauptbereich verschieben, sobald eine Navigation den Pfad ändert. Ein Skript kann {0} erst fokussieren, nachdem es {1} hat. Verwende {2} statt eines positiven Werts, der das Element in der Tab-Reihenfolge verschieben und alle anderen überraschen würde:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

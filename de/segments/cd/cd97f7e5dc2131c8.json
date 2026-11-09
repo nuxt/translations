@@ -1,0 +1,14 @@
+{
+  "hash": "cd97f7e5dc2131c8",
+  "source": "You might choose this based on an API call or logged-in status",
+  "text": "Du könntest das anhand eines API-Aufrufs oder des Anmeldestatus entscheiden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du könntest das anhand eines API-Aufrufs oder des Anmeldestatus entscheiden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

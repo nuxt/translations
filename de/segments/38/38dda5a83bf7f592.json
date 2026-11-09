@@ -1,0 +1,14 @@
+{
+  "hash": "38dda5a83bf7f592",
+  "source": "Type of {0} is inferred as",
+  "text": "Der Typ von {0} wird abgeleitet als",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Typ von {0} wird abgeleitet als"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

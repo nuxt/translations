@@ -1,0 +1,14 @@
+{
+  "hash": "2073c529153d2f84",
+  "source": "**Using a custom builder object:**",
+  "text": "**Ein eigenes Builder-Objekt verwenden:**",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Ein eigenes Builder-Objekt verwenden:**"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

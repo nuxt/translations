@@ -1,0 +1,14 @@
+{
+  "hash": "66ef88fc8b20bdd5",
+  "source": "Once you have installed the modules you can add them to your {0} file under the {1} property. Module developers usually provide additional steps and details for usage.",
+  "text": "Sobald du die Module installiert hast, kannst du sie in deiner Datei {0} unter der Eigenschaft {1} hinzufügen. Die Entwickelnden der Module stellen in der Regel zusätzliche Schritte und Details zur Verwendung bereit.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sobald du die Module installiert hast, kannst du sie in deiner Datei {0} unter der Eigenschaft {1} hinzufügen. Die Entwickelnden der Module stellen in der Regel zusätzliche Schritte und Details zur Verwendung bereit."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

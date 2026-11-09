@@ -1,0 +1,14 @@
+{
+  "hash": "c46b2f9aa3372c9e",
+  "source": "**Function Plugin**: A function that receives the {0} instance and can return a promise with a potential object with a {1} property if you want to provide a helper on {2} instance.",
+  "text": "**Funktions-Plugin**: Eine Funktion, die die {0}-Instanz erhält und ein Promise zurückgeben kann, das optional ein Objekt mit einer {1}-Eigenschaft enthält, wenn du ein Hilfsprogramm auf der {2}-Instanz bereitstellen möchtest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Funktions-Plugin**: Eine Funktion, die die {0}-Instanz erhält und ein Promise zurückgeben kann, das optional ein Objekt mit einer {1}-Eigenschaft enthält, wenn du ein Hilfsprogramm auf der {2}-Instanz bereitstellen möchtest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

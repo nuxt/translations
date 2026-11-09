@@ -1,0 +1,14 @@
+{
+  "hash": "c84f71a847ba8167",
+  "source": "Get only cookie request header",
+  "text": "Nur den Cookie-Anfrage-Header abrufen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nur den Cookie-Anfrage-Header abrufen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

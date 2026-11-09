@@ -1,0 +1,14 @@
+{
+  "hash": "4e0cda9b1abc7981",
+  "source": "Support Status",
+  "text": "Support-Status",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Support-Status"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

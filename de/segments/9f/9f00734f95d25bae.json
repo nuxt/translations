@@ -1,0 +1,14 @@
+{
+  "hash": "9f00734f95d25bae",
+  "source": "Returns the current Nuxt version.",
+  "text": "Gibt die aktuelle Nuxt-Version zurück.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gibt die aktuelle Nuxt-Version zurück."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

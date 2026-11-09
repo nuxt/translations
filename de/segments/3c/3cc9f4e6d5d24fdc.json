@@ -1,0 +1,14 @@
+{
+  "hash": "3cc9f4e6d5d24fdc",
+  "source": "These values are statically injected and can be used for tree-shaking your runtime code.",
+  "text": "Diese Werte werden statisch eingefügt und können für Tree-Shaking deines Laufzeitcodes verwendet werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese Werte werden statisch eingefügt und können für Tree-Shaking deines Laufzeitcodes verwendet werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

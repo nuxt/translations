@@ -1,0 +1,14 @@
+{
+  "hash": "d84bc174d01c8c74",
+  "source": "When the server starts, Nuxt checks the runtime config against a compact description of each schema: the type of each value, which values are required, and the allowed values of enums and unions. In development and while building, Nuxt also warns about values that do not match with the environment variables in use at the time.",
+  "text": "Beim Start des Servers prüft Nuxt die Laufzeitkonfiguration anhand einer kompakten Beschreibung jedes Schemas: den Typ jedes Werts, welche Werte erforderlich sind und welche Werte für Enums und Unions zulässig sind. In der Entwicklung und beim Erzeugen warnt Nuxt außerdem vor Werten, die nicht zu den jeweils verwendeten Umgebungsvariablen passen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Beim Start des Servers prüft Nuxt die Laufzeitkonfiguration anhand einer kompakten Beschreibung jedes Schemas: den Typ jedes Werts, welche Werte erforderlich sind und welche Werte für Enums und Unions zulässig sind. In der Entwicklung und beim Erzeugen warnt Nuxt außerdem vor Werten, die nicht zu den jeweils verwendeten Umgebungsvariablen passen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

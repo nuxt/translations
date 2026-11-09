@@ -1,0 +1,14 @@
+{
+  "hash": "7b19ef2c9d121374",
+  "source": "Overriding Tailwind's default font family works too, including via {0}, which compiles {1} down to {2}:",
+  "text": "Das Überschreiben der Standard-Schriftfamilie von Tailwind funktioniert ebenfalls, auch über {0}, das {1} zu {2} kompiliert:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Überschreiben der Standard-Schriftfamilie von Tailwind funktioniert ebenfalls, auch über {0}, das {1} zu {2} kompiliert:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

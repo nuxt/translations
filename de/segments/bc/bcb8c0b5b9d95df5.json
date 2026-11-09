@@ -1,0 +1,14 @@
+{
+  "hash": "bcb8c0b5b9d95df5",
+  "source": "**Nitro as a Vite environment**: With {0}, server and client are {1}built by one Vite build{/1}",
+  "text": "**Nitro als Vite-Umgebung**: Mit {0} werden Server und Client {1}in einem einzigen Vite-Build erzeugt{/1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Nitro als Vite-Umgebung**: Mit {0} werden Server und Client {1}in einem einzigen Vite-Build erzeugt{/1}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "311557b7c44940ae",
+  "source": "Page Keys and Keep-alive Props",
+  "text": "Seitenschlüssel und Keep-alive-Props",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Seitenschlüssel und Keep-alive-Props"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "33f3e1bfff854cde",
+  "source": "If you provide a custom {0} value for {1}, this will now be used when calling {2} or {3} and it will be reset to its default value rather than simply unset.",
+  "text": "Wenn du einen benutzerdefinierten {0}-Wert für {1} angibst, wird dieser jetzt beim Aufruf von {2} oder {3} verwendet, und die Daten werden auf ihren Standardwert zurückgesetzt, statt einfach nicht gesetzt zu werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du einen benutzerdefinierten {0}-Wert für {1} angibst, wird dieser jetzt beim Aufruf von {2} oder {3} verwendet, und die Daten werden auf ihren Standardwert zurückgesetzt, statt einfach nicht gesetzt zu werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "ee393c612897878d",
+  "source": "Converting {0}",
+  "text": "{0} umwandeln",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} umwandeln"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

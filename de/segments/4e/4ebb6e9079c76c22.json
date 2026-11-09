@@ -1,0 +1,14 @@
+{
+  "hash": "4ebb6e9079c76c22",
+  "source": "Prerendered routes generate their payload file at build time.",
+  "text": "Vorab gerenderte Routen erzeugen ihre Payload-Datei zur Build-Zeit.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vorab gerenderte Routen erzeugen ihre Payload-Datei zur Build-Zeit."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

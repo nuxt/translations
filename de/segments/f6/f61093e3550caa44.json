@@ -1,0 +1,14 @@
+{
+  "hash": "f61093e3550caa44",
+  "source": "do something for Nuxt 3",
+  "text": "etwas für Nuxt 3 tun",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "etwas für Nuxt 3 tun"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

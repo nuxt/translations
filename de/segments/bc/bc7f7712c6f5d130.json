@@ -1,0 +1,14 @@
+{
+  "hash": "bc7f7712c6f5d130",
+  "source": "Nuxt reads the type and default value of a {0}runtime config schema{/0} from its {1}Standard JSON Schema{/1} when the configuration is loaded. The schema itself is not included in your server bundle.",
+  "text": "Nuxt liest den Typ und den Standardwert eines {0}Schemas der Laufzeitkonfiguration{/0} aus dessen {1}Standard JSON Schema{/1}, wenn die Konfiguration geladen wird. Das Schema selbst ist nicht in deinem Server-Bundle enthalten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt liest den Typ und den Standardwert eines {0}Schemas der Laufzeitkonfiguration{/0} aus dessen {1}Standard JSON Schema{/1}, wenn die Konfiguration geladen wird. Das Schema selbst ist nicht in deinem Server-Bundle enthalten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

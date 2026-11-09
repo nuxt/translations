@@ -1,0 +1,14 @@
+{
+  "hash": "483173b6ce43126d",
+  "source": "**{0} type augmentation removed**: TypeScript no longer exposes {1}deprecated {2} flags{/1} on {3}",
+  "text": "**Typerweiterung für {0} entfernt**: TypeScript stellt keine {1}nicht mehr empfohlenen {2}-Flags{/1} mehr für {3} bereit",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Typerweiterung für {0} entfernt**: TypeScript stellt keine {1}nicht mehr empfohlenen {2}-Flags{/1} mehr für {3} bereit"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

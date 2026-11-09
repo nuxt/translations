@@ -1,0 +1,14 @@
+{
+  "hash": "0864568449252422",
+  "source": "you could also pass an array of keys to refresh multiple data",
+  "text": "du könntest auch ein Array von Schlüsseln übergeben, um mehrere Daten zu aktualisieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "du könntest auch ein Array von Schlüsseln übergeben, um mehrere Daten zu aktualisieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

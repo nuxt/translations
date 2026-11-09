@@ -1,0 +1,14 @@
+{
+  "hash": "7e881a5a4f27f2c1",
+  "source": "handle POST requests for the {0} endpoint",
+  "text": "POST-Anfragen für den Endpunkt {0} verarbeiten",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "POST-Anfragen für den Endpunkt {0} verarbeiten"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

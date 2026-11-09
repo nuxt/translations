@@ -1,0 +1,14 @@
+{
+  "hash": "8c0c1b3728c15c4c",
+  "source": "The Nuxt event system is powered by {0}unjs/hookable{/0}, which is the same library that powers the Nuxt hooks system.",
+  "text": "Das Nuxt-Event-System basiert auf {0}unjs/hookable{/0}. Dieselbe Bibliothek steckt auch hinter dem Hook-System von Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Nuxt-Event-System basiert auf {0}unjs/hookable{/0}. Dieselbe Bibliothek steckt auch hinter dem Hook-System von Nuxt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

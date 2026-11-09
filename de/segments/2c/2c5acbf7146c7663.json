@@ -1,0 +1,14 @@
+{
+  "hash": "2c5acbf7146c7663",
+  "source": "External URLs throw an error.",
+  "text": "Externe URLs lösen einen Fehler aus.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Externe URLs lösen einen Fehler aus."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

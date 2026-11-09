@@ -1,0 +1,14 @@
+{
+  "hash": "6e26305da1cde110",
+  "source": "Enable Nuxt DevTools for development.",
+  "text": "Aktiviert Nuxt DevTools für die Entwicklung.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Aktiviert Nuxt DevTools für die Entwicklung."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

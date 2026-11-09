@@ -1,0 +1,14 @@
+{
+  "hash": "31f1f6ee9de3fdb7",
+  "source": "Characters outside the downloaded subsets render in a fallback font. If your content uses another script, such as Arabic, Hebrew, or Devanagari, add its subset here or for a single font in {0}:",
+  "text": "Zeichen außerhalb der heruntergeladenen Subsets werden in einer Fallback-Schrift dargestellt. Wenn dein Inhalt eine andere Schrift verwendet, etwa Arabisch, Hebräisch oder Devanagari, füge das entsprechende Subset hier oder für eine einzelne Schrift in {0} hinzu:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Zeichen außerhalb der heruntergeladenen Subsets werden in einer Fallback-Schrift dargestellt. Wenn dein Inhalt eine andere Schrift verwendet, etwa Arabisch, Hebräisch oder Devanagari, füge das entsprechende Subset hier oder für eine einzelne Schrift in {0} hinzu:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

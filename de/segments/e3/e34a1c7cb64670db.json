@@ -1,0 +1,14 @@
+{
+  "hash": "e34a1c7cb64670db",
+  "source": "Any configuration that should override {0}",
+  "text": "Jede Konfiguration, die {0} überschreiben soll",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Jede Konfiguration, die {0} überschreiben soll"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

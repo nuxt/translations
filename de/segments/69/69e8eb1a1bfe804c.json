@@ -1,0 +1,14 @@
+{
+  "hash": "69e8eb1a1bfe804c",
+  "source": "Generate a secret that contains at least 32 random bytes:",
+  "text": "Erzeuge ein Geheimnis mit mindestens 32 zufälligen Bytes:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erzeuge ein Geheimnis mit mindestens 32 zufälligen Bytes:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

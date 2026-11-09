@@ -1,0 +1,14 @@
+{
+  "hash": "f6d6b792cba9fe53",
+  "source": "Print project info as JSON",
+  "text": "Projektinformationen als JSON ausgeben",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Projektinformationen als JSON ausgeben"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "d8d1c8f41eb1da6b",
+  "source": "**Render Tree** – Shows connections between Vue components, scripts, and styles to optimize dynamic loading.",
+  "text": "**Render Tree** – Zeigt die Verbindungen zwischen Vue-Komponenten, Skripten und Styles, um dynamisches Laden zu optimieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Render Tree** – Zeigt die Verbindungen zwischen Vue-Komponenten, Skripten und Styles, um dynamisches Laden zu optimieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

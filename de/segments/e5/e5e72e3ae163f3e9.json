@@ -1,0 +1,14 @@
+{
+  "hash": "e5e72e3ae163f3e9",
+  "source": "An array of entries, which can be import names, import objects or nested presets.",
+  "text": "Ein Array von Einträgen, bei denen es sich um Importnamen, Importobjekte oder verschachtelte Presets handeln kann.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein Array von Einträgen, bei denen es sich um Importnamen, Importobjekte oder verschachtelte Presets handeln kann."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

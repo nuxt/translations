@@ -1,0 +1,14 @@
+{
+  "hash": "2eae2e1d57286a86",
+  "source": "Please make sure to avoid any CommonJS syntax such as {0}, {1} or {2} in your config file. It will soon be deprecated and unsupported.",
+  "text": "Vermeide in deiner Konfigurationsdatei unbedingt CommonJS-Syntax wie {0}, {1} oder {2}. Sie wird bald nicht mehr empfohlen und nicht mehr unterstützt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vermeide in deiner Konfigurationsdatei unbedingt CommonJS-Syntax wie {0}, {1} oder {2}. Sie wird bald nicht mehr empfohlen und nicht mehr unterstützt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

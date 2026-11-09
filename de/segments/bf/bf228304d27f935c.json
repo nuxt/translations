@@ -1,0 +1,14 @@
+{
+  "hash": "bf228304d27f935c",
+  "source": "Each active version has its own nightly releases which are generated automatically. For more about enabling the Nuxt nightly release channel, see {0}the nightly release channel docs{/0}.",
+  "text": "Jede aktive Version hat eigene Nightly-Releases, die automatisch erzeugt werden. Mehr dazu, wie du den Nightly-Release-Kanal von Nuxt aktivierst, findest du in {0}der Dokumentation zum Nightly-Release-Kanal{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Jede aktive Version hat eigene Nightly-Releases, die automatisch erzeugt werden. Mehr dazu, wie du den Nightly-Release-Kanal von Nuxt aktivierst, findest du in {0}der Dokumentation zum Nightly-Release-Kanal{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

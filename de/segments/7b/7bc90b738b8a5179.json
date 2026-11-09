@@ -1,0 +1,14 @@
+{
+  "hash": "7bc90b738b8a5179",
+  "source": "Trying it out",
+  "text": "Ausprobieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ausprobieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

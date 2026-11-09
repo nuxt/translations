@@ -1,0 +1,14 @@
+{
+  "hash": "c7fbc8efaa2ee513",
+  "source": "{0} returns the address the server runtime reports for the connection, or {1} if it reports none. No forwarded header is trusted by default, because a client can send any value in one.",
+  "text": "{0} gibt die Adresse zurück, die die Server-Laufzeitumgebung für die Verbindung meldet, oder {1}, falls sie keine meldet. Standardmäßig wird kein Weiterleitungs-Header als vertrauenswürdig behandelt, da ein Client darin beliebige Werte senden kann.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} gibt die Adresse zurück, die die Server-Laufzeitumgebung für die Verbindung meldet, oder {1}, falls sie keine meldet. Standardmäßig wird kein Weiterleitungs-Header als vertrauenswürdig behandelt, da ein Client darin beliebige Werte senden kann."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

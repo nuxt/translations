@@ -1,0 +1,14 @@
+{
+  "hash": "b088ca192daa794e",
+  "source": "Requests without an {0} header (API clients, most scanners) receive a JSON error without loading the app at all, unless {1} is {2}. HTML requests still server-render the error page. A {3}{4} route rule{/3} covering the path advertises its {5} as {6} on GET/HEAD misses too, letting a CDN absorb repeat requests for unknown paths.",
+  "text": "Anfragen ohne {0}-Header (API-Clients, die meisten Scanner) erhalten einen JSON-Fehler, ohne dass die App überhaupt geladen wird, es sei denn, {1} ist {2}. HTML-Anfragen rendern die Fehlerseite weiterhin serverseitig. Eine {3}{4}-Routenregel{/3}, die den Pfad abdeckt, gibt auch bei GET-/HEAD-Fehltreffern ihren {5} als {6} an, sodass ein CDN wiederholte Anfragen für unbekannte Pfade abfangen kann.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Anfragen ohne {0}-Header (API-Clients, die meisten Scanner) erhalten einen JSON-Fehler, ohne dass die App überhaupt geladen wird, es sei denn, {1} ist {2}. HTML-Anfragen rendern die Fehlerseite weiterhin serverseitig. Eine {3}{4}-Routenregel{/3}, die den Pfad abdeckt, gibt auch bei GET-/HEAD-Fehltreffern ihren {5} als {6} an, sodass ein CDN wiederholte Anfragen für unbekannte Pfade abfangen kann."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

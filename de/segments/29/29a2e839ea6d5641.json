@@ -1,0 +1,14 @@
+{
+  "hash": "29a2e839ea6d5641",
+  "source": "you can use this when {0} is resolved",
+  "text": "du kannst dies verwenden, wenn {0} aufgelöst ist",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "du kannst dies verwenden, wenn {0} aufgelöst ist"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

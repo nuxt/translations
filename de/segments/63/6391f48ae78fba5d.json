@@ -1,0 +1,14 @@
+{
+  "hash": "6391f48ae78fba5d",
+  "source": "A pattern can contain only one {0} or {1}, so a key such as {2} fails the build. Replace all but one of them with named parameters, for example {3}.",
+  "text": "Ein Muster darf nur ein {0} oder {1} enthalten, sodass ein Schlüssel wie {2} den Build fehlschlagen lässt. Ersetze alle bis auf eines durch benannte Parameter, zum Beispiel {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein Muster darf nur ein {0} oder {1} enthalten, sodass ein Schlüssel wie {2} den Build fehlschlagen lässt. Ersetze alle bis auf eines durch benannte Parameter, zum Beispiel {3}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

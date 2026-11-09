@@ -1,0 +1,14 @@
+{
+  "hash": "aef919a7157356a2",
+  "source": "You create the renderer with {0}, which returns a web-standard handler. {1} is experimental, and both the specifier and the options it takes will change without a major release:",
+  "text": "Du erstellst den Renderer mit {0}, was einen webstandardkonformen Handler zurückgibt. {1} ist experimentell, und sowohl der Specifier als auch die akzeptierten Optionen ändern sich ohne Major-Release:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du erstellst den Renderer mit {0}, was einen webstandardkonformen Handler zurückgibt. {1} ist experimentell, und sowohl der Specifier als auch die akzeptierten Optionen ändern sich ohne Major-Release:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "cf6e216db7f6edf3",
+  "source": "Send JSON",
+  "text": "JSON senden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "JSON senden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

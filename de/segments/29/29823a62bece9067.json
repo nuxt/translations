@@ -1,0 +1,14 @@
+{
+  "hash": "29823a62bece9067",
+  "source": "Bumping your module version and generating a changelog according to your Conventional Commits",
+  "text": "Erhöhen der Modulversion und Erzeugen eines Changelogs gemäß deinen Conventional Commits",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erhöhen der Modulversion und Erzeugen eines Changelogs gemäß deinen Conventional Commits"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

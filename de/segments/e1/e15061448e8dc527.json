@@ -1,0 +1,14 @@
+{
+  "hash": "e15061448e8dc527",
+  "source": "If your runtime can implement some of these better than the shipped versions, point Nuxt at your own module:",
+  "text": "Wenn deine Laufzeitumgebung einige davon besser umsetzen kann als die mitgelieferten Versionen, verweise Nuxt auf dein eigenes Modul:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn deine Laufzeitumgebung einige davon besser umsetzen kann als die mitgelieferten Versionen, verweise Nuxt auf dein eigenes Modul:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

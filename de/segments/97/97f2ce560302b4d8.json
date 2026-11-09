@@ -1,0 +1,14 @@
+{
+  "hash": "97f2ce560302b4d8",
+  "source": "If your component is cached by {0} and enters a deactivated state, the {1} inside the component will still be refetched until the component is unmounted.",
+  "text": "Wenn deine Komponente von {0} zwischengespeichert wird und in einen deaktivierten Zustand wechselt, werden die {1} innerhalb der Komponente weiterhin neu geladen, bis die Komponente ausgehängt wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn deine Komponente von {0} zwischengespeichert wird und in einen deaktivierten Zustand wechselt, werden die {1} innerhalb der Komponente weiterhin neu geladen, bis die Komponente ausgehängt wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "0ea8be1b2eb798ce",
+  "source": "Only pick specified keys from the result.",
+  "text": "Wählt nur die angegebenen Schlüssel aus dem Ergebnis aus.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wählt nur die angegebenen Schlüssel aus dem Ergebnis aus."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

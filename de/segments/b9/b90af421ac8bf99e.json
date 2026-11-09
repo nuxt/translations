@@ -1,0 +1,14 @@
+{
+  "hash": "b90af421ac8bf99e",
+  "source": "If you need more granular control, you can use the {0} hook to register a callback that will inject your types.",
+  "text": "Wenn du eine genauere Kontrolle benötigst, kannst du den {0}-Hook verwenden, um einen Callback zu registrieren, der deine Typen einfügt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du eine genauere Kontrolle benötigst, kannst du den {0}-Hook verwenden, um einen Callback zu registrieren, der deine Typen einfügt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

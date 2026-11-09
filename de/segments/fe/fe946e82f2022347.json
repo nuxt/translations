@@ -1,0 +1,14 @@
+{
+  "hash": "fe946e82f2022347",
+  "source": "**Ensure Claude Code is installed** - Visit {0}Anthropic's documentation{/0} for installation instructions.",
+  "text": "**Stelle sicher, dass Claude Code installiert ist** – Anleitungen zur Installation findest du in der {0}Dokumentation von Anthropic{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Stelle sicher, dass Claude Code installiert ist** – Anleitungen zur Installation findest du in der {0}Dokumentation von Anthropic{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

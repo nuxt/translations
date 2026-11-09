@@ -1,0 +1,14 @@
+{
+  "hash": "41319956abd5fc6b",
+  "source": "Font metadata and downloaded font files are cached on disk in {0}, relative to your project root. If you restore that directory in CI, no fonts are downloaded and no provider requests are made at all.",
+  "text": "Schriftart-Metadaten und heruntergeladene Schriftdateien werden auf dem Datenträger in {0} zwischengespeichert, relativ zu deinem Projektstammverzeichnis. Wenn du dieses Verzeichnis in der CI wiederherstellst, werden keine Schriftarten heruntergeladen und es werden überhaupt keine Anfragen an Anbieter gestellt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Schriftart-Metadaten und heruntergeladene Schriftdateien werden auf dem Datenträger in {0} zwischengespeichert, relativ zu deinem Projektstammverzeichnis. Wenn du dieses Verzeichnis in der CI wiederherstellst, werden keine Schriftarten heruntergeladen und es werden überhaupt keine Anfragen an Anbieter gestellt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

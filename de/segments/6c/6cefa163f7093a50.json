@@ -1,0 +1,14 @@
+{
+  "hash": "6cefa163f7093a50",
+  "source": "Use Vite as the bundler instead of webpack 4",
+  "text": "Vite statt webpack 4 als Bundler verwenden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vite statt webpack 4 als Bundler verwenden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

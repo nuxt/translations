@@ -1,0 +1,14 @@
+{
+  "hash": "f528180e6c73c5da",
+  "source": "Caching fonts between builds",
+  "text": "Schriftarten zwischen Builds zwischenspeichern",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Schriftarten zwischen Builds zwischenspeichern"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

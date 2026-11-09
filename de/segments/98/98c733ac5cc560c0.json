@@ -1,0 +1,14 @@
+{
+  "hash": "98c733ac5cc560c0",
+  "source": "**Named route middleware**",
+  "text": "**Benannte Routen-Middleware**",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Benannte Routen-Middleware**"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

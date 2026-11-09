@@ -1,0 +1,14 @@
+{
+  "hash": "5b4e328f0c95d300",
+  "source": "Named Views",
+  "text": "Benannte Views",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Benannte Views"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

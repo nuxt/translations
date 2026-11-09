@@ -1,0 +1,14 @@
+{
+  "hash": "045f4e2e10b618e7",
+  "source": "**Open ChatGPT settings**",
+  "text": "**ChatGPT-Einstellungen öffnen**",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**ChatGPT-Einstellungen öffnen**"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

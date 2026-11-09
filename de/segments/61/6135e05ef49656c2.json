@@ -1,0 +1,14 @@
+{
+  "hash": "6135e05ef49656c2",
+  "source": "**Default:** {0} (Nuxt 4), {1} (Nuxt 3 with {2})",
+  "text": "**Standard:** {0} (Nuxt 4), {1} (Nuxt 3 mit {2})",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Standard:** {0} (Nuxt 4), {1} (Nuxt 3 mit {2})"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

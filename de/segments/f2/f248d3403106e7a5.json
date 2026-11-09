@@ -1,0 +1,14 @@
+{
+  "hash": "f248d3403106e7a5",
+  "source": "{0}: Any function that requires the context of the current Nuxt application. This context will be correctly applied automatically.",
+  "text": "{0}: Eine beliebige Funktion, die den Kontext der aktuellen Nuxt-Anwendung benötigt. Dieser Kontext wird automatisch korrekt angewendet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Eine beliebige Funktion, die den Kontext der aktuellen Nuxt-Anwendung benötigt. Dieser Kontext wird automatisch korrekt angewendet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

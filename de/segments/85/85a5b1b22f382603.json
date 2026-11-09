@@ -1,0 +1,14 @@
+{
+  "hash": "85a5b1b22f382603",
+  "source": "This would mean setting {0} in your {1} and ensuring that your built library uses ESM syntax. However, you may face issues with your dependencies - and this approach means your library can *only* be consumed in an ESM context.",
+  "text": "Dafür musst du {0} in deiner {1} setzen und sicherstellen, dass deine erzeugte Bibliothek ESM-Syntax verwendet. Dabei kann es jedoch zu Problemen mit deinen Abhängigkeiten kommen – und dieser Ansatz bedeutet, dass sich deine Bibliothek *nur* in einem ESM-Kontext verwenden lässt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dafür musst du {0} in deiner {1} setzen und sicherstellen, dass deine erzeugte Bibliothek ESM-Syntax verwendet. Dabei kann es jedoch zu Problemen mit deinen Abhängigkeiten kommen – und dieser Ansatz bedeutet, dass sich deine Bibliothek *nur* in einem ESM-Kontext verwenden lässt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

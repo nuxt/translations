@@ -1,0 +1,14 @@
+{
+  "hash": "950b7f5d6bfc007e",
+  "source": "Hosting Providers",
+  "text": "Hosting-Anbieter",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Hosting-Anbieter"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "a743e106fa3eac63",
+  "source": "You can even prerender API routes which is particularly useful for full statically generated sites (SSG) because you can then {0} data as if you have an available server!",
+  "text": "Du kannst sogar API-Routen vorab rendern. Das ist besonders für vollständig statisch generierte Websites (SSG) nützlich, da du dann Daten mit {0} abrufen kannst, als stünde ein Server zur Verfügung!",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst sogar API-Routen vorab rendern. Das ist besonders für vollständig statisch generierte Websites (SSG) nützlich, da du dann Daten mit {0} abrufen kannst, als stünde ein Server zur Verfügung!"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

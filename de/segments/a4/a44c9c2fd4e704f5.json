@@ -1,0 +1,14 @@
+{
+  "hash": "a44c9c2fd4e704f5",
+  "source": "the {0} signature",
+  "text": "die Signatur von {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "die Signatur von {0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

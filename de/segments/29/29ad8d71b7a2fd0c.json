@@ -1,0 +1,14 @@
+{
+  "hash": "29ad8d71b7a2fd0c",
+  "source": "Such a file will be used for any weight or weight range inside the declared range, so {0} matches {1}, {2} and {3} alike.",
+  "text": "Eine solche Datei wird für jede Stärke und jeden Stärkenbereich innerhalb des angegebenen Bereichs verwendet, sodass {0} gleichermaßen zu {1}, {2} und {3} passt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine solche Datei wird für jede Stärke und jeden Stärkenbereich innerhalb des angegebenen Bereichs verwendet, sodass {0} gleichermaßen zu {1}, {2} und {3} passt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "9d1a466e4b17760e",
+  "source": "Define the root directory of your application.",
+  "text": "Legt das Stammverzeichnis deiner Anwendung fest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Legt das Stammverzeichnis deiner Anwendung fest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "81f191b3d7399b64",
+  "source": "Pure CSS",
+  "text": "Reines CSS",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Reines CSS"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

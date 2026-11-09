@@ -1,0 +1,14 @@
+{
+  "hash": "973e347d9b0b26e9",
+  "source": "*This is the recommended and simplest approach.* You may have to sort out issues with your library's dependencies and possibly with your build system, but in most cases, this should fix the problem for you. It's also recommended to rename your CJS files to end with {0}, for the greatest explicitness.",
+  "text": "*Das ist der empfohlene und unkomplizierteste Ansatz.* Möglicherweise musst du Probleme mit den Abhängigkeiten deiner Bibliothek und eventuell mit deinem Build-System beheben, aber in den meisten Fällen sollte das das Problem lösen. Für größtmögliche Eindeutigkeit empfiehlt es sich außerdem, deine CJS-Dateien so umzubenennen, dass sie auf {0} enden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "*Das ist der empfohlene und unkomplizierteste Ansatz.* Möglicherweise musst du Probleme mit den Abhängigkeiten deiner Bibliothek und eventuell mit deinem Build-System beheben, aber in den meisten Fällen sollte das das Problem lösen. Für größtmögliche Eindeutigkeit empfiehlt es sich außerdem, deine CJS-Dateien so umzubenennen, dass sie auf {0} enden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

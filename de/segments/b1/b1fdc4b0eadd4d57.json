@@ -1,0 +1,14 @@
+{
+  "hash": "b1fdc4b0eadd4d57",
+  "source": "The passed in component will be rendered inside a {0}.",
+  "text": "Die übergebene Komponente wird innerhalb eines {0} gerendert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die übergebene Komponente wird innerhalb eines {0} gerendert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

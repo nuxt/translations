@@ -1,0 +1,14 @@
+{
+  "hash": "402d0ae7df601fd4",
+  "source": "For custom errors we highly recommend using {0} composable that can be called in a page/component setup function or {1} runtime nuxt hook that can be configured in a nuxt plugin.",
+  "text": "Für benutzerdefinierte Fehler empfehlen wir dringend das Composable {0}, das in einer Setup-Funktion einer Seite oder Komponente aufgerufen werden kann, oder den Runtime-Hook {1} von Nuxt, der in einem Nuxt-Plugin konfiguriert werden kann.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Für benutzerdefinierte Fehler empfehlen wir dringend das Composable {0}, das in einer Setup-Funktion einer Seite oder Komponente aufgerufen werden kann, oder den Runtime-Hook {1} von Nuxt, der in einem Nuxt-Plugin konfiguriert werden kann."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

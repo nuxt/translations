@@ -1,0 +1,14 @@
+{
+  "hash": "b48560c187ecd831",
+  "source": "Nuxt CLI has built-in {0} support via {1}c12{/1} in development mode and when running {2} and {3}.",
+  "text": "Die Nuxt-Kommandozeilenschnittstelle (CLI) unterstützt {0} im Entwicklungsmodus und beim Ausführen von {2} und {3} über {1}c12{/1} von Haus aus.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Nuxt-Kommandozeilenschnittstelle (CLI) unterstützt {0} im Entwicklungsmodus und beim Ausführen von {2} und {3} über {1}c12{/1} von Haus aus."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

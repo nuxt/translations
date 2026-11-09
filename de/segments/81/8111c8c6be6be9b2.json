@@ -1,0 +1,14 @@
+{
+  "hash": "8111c8c6be6be9b2",
+  "source": "Re-export the built SSR entry by absolute specifier.",
+  "text": "Den erzeugten SSR-Einstiegspunkt über den absoluten Specifier erneut exportieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Den erzeugten SSR-Einstiegspunkt über den absoluten Specifier erneut exportieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

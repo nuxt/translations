@@ -1,0 +1,14 @@
+{
+  "hash": "edcb7da9de7d4733",
+  "source": "You are asked, defaulting to taking it over.",
+  "text": "Du wirst gefragt, wobei standardmäßig die Übernahme gewählt ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du wirst gefragt, wobei standardmäßig die Übernahme gewählt ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

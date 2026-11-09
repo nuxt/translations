@@ -1,0 +1,14 @@
+{
+  "hash": "5e1268b54675f447",
+  "source": "Performance Impact",
+  "text": "Auswirkungen auf die Performance",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auswirkungen auf die Performance"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

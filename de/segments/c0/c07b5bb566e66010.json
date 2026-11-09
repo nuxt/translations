@@ -1,0 +1,14 @@
+{
+  "hash": "c07b5bb566e66010",
+  "source": "The maximum number of milliseconds to wait for the browser to become idle once your app is ready. It is passed to {0}. Without it, the callback may be delayed for several seconds if the browser does not schedule an idle period, which can happen in headless browsers.",
+  "text": "Die maximale Anzahl an Millisekunden, die nach dem Bereitwerden deiner App auf den Leerlauf des Browsers gewartet wird. Der Wert wird an {0} übergeben. Ohne ihn kann sich der Callback um mehrere Sekunden verzögern, wenn der Browser keine Leerlaufphase einplant, was in Headless-Browsern vorkommen kann.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die maximale Anzahl an Millisekunden, die nach dem Bereitwerden deiner App auf den Leerlauf des Browsers gewartet wird. Der Wert wird an {0} übergeben. Ohne ihn kann sich der Callback um mehrere Sekunden verzögern, wenn der Browser keine Leerlaufphase einplant, was in Headless-Browsern vorkommen kann."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

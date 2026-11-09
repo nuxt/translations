@@ -1,0 +1,14 @@
+{
+  "hash": "0afc6c49bb6f58e0",
+  "source": "The {0} command initializes a fresh Nuxt project using {1}unjs/giget{/1}. It asks which template to start from, whether to install modules, and which package manager to use, then installs dependencies and prints the commands to run next.",
+  "text": "Der Befehl {0} initialisiert mit {1}unjs/giget{/1} ein neues Nuxt-Projekt. Er fragt, mit welcher Vorlage du starten möchtest, ob Module installiert werden sollen und welcher Paketmanager verwendet werden soll. Anschließend installiert er die Abhängigkeiten und gibt die Befehle aus, die du als Nächstes ausführen kannst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Befehl {0} initialisiert mit {1}unjs/giget{/1} ein neues Nuxt-Projekt. Er fragt, mit welcher Vorlage du starten möchtest, ob Module installiert werden sollen und welcher Paketmanager verwendet werden soll. Anschließend installiert er die Abhängigkeiten und gibt die Befehle aus, die du als Nächstes ausführen kannst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

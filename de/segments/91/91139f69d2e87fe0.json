@@ -1,0 +1,14 @@
+{
+  "hash": "91139f69d2e87fe0",
+  "source": "Stream server logs to the client as you are developing. These logs can be handled in the {0} hook.",
+  "text": "Streamt Server-Protokolle während der Entwicklung an den Client. Diese Protokolle kannst du im {0}-Hook verarbeiten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Streamt Server-Protokolle während der Entwicklung an den Client. Diese Protokolle kannst du im {0}-Hook verarbeiten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "fb0224c0433bbdb3",
+  "source": "Fully interactive widgets inside islands (components marked with {0}, or interactive island slots) do **not** work on a {1} route. Island teleports are relocated into place by a small inline script before hydration; with scripts disabled, that relocation cannot run and nothing hydrates. If a page needs even one interactive widget, keep scripts on that route and use lazy hydration instead.",
+  "text": "Vollständig interaktive Widgets innerhalb von Islands (Komponenten, die mit {0} markiert sind, oder interaktive Island-Slots) funktionieren auf einer {1}-Route **nicht**. Island-Teleports werden vor der Hydration von einem kleinen Inline-Skript an die richtige Stelle verschoben. Sind Skripte deaktiviert, kann diese Verschiebung nicht ausgeführt werden und nichts wird hydratisiert. Wenn eine Seite auch nur ein interaktives Widget benötigt, behalte die Skripte auf dieser Route und verwende stattdessen Lazy Hydration.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vollständig interaktive Widgets innerhalb von Islands (Komponenten, die mit {0} markiert sind, oder interaktive Island-Slots) funktionieren auf einer {1}-Route **nicht**. Island-Teleports werden vor der Hydration von einem kleinen Inline-Skript an die richtige Stelle verschoben. Sind Skripte deaktiviert, kann diese Verschiebung nicht ausgeführt werden und nichts wird hydratisiert. Wenn eine Seite auch nur ein interaktives Widget benötigt, behalte die Skripte auf dieser Route und verwende stattdessen Lazy Hydration."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

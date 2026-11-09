@@ -1,0 +1,14 @@
+{
+  "hash": "9197719bc6a611ca",
+  "source": "... or scan composables nested one level deep with a specific name and file extension",
+  "text": "... oder Composables scannen, die eine Ebene tief verschachtelt sind, mit einem bestimmten Namen und einer bestimmten Dateierweiterung",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "... oder Composables scannen, die eine Ebene tief verschachtelt sind, mit einem bestimmten Namen und einer bestimmten Dateierweiterung"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

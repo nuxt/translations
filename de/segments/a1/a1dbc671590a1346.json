@@ -1,0 +1,14 @@
+{
+  "hash": "a1dbc671590a1346",
+  "source": "**{0}**: Find the best Nuxt documentation for a specific topic or feature",
+  "text": "**{0}**: Die beste Nuxt-Dokumentation zu einem bestimmten Thema oder Feature finden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}**: Die beste Nuxt-Dokumentation zu einem bestimmten Thema oder Feature finden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

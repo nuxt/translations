@@ -1,0 +1,14 @@
+{
+  "hash": "9feee2a3051cd4ea",
+  "source": "You can place these components anywhere in your template for your page.",
+  "text": "Du kannst diese Komponenten an beliebiger Stelle in der Vorlage deiner Seite platzieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst diese Komponenten an beliebiger Stelle in der Vorlage deiner Seite platzieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

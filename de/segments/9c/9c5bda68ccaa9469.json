@@ -1,0 +1,14 @@
+{
+  "hash": "9c5bda68ccaa9469",
+  "source": "Dev, Build and Generate Time",
+  "text": "Entwicklungs-, Build- und Generierungszeit",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Entwicklungs-, Build- und Generierungszeit"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

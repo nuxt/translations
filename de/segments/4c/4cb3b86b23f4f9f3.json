@@ -1,0 +1,14 @@
+{
+  "hash": "4cb3b86b23f4f9f3",
+  "source": "This directory should be added to your {0} file to avoid pushing the dependencies to your repository.",
+  "text": "Du solltest dieses Verzeichnis zu deiner {0}-Datei hinzufügen, damit die Abhängigkeiten nicht in dein Repository gepusht werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du solltest dieses Verzeichnis zu deiner {0}-Datei hinzufügen, damit die Abhängigkeiten nicht in dein Repository gepusht werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "adc8d9927dc7dcb6",
+  "source": "{0} is only {1} while the page is being generated, so the same {2} still server-renders its data when the app is deployed with a server.",
+  "text": "{0} ist nur {1}, während die Seite generiert wird. Dieselbe {2} rendert ihre Daten daher weiterhin serverseitig, wenn die App mit einem Server bereitgestellt wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ist nur {1}, während die Seite generiert wird. Dieselbe {2} rendert ihre Daten daher weiterhin serverseitig, wenn die App mit einem Server bereitgestellt wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

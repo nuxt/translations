@@ -1,0 +1,14 @@
+{
+  "hash": "72c598075482e241",
+  "source": "{0} and {1} are no longer configured by default, and are no longer dependencies of {2}. They are optional peer dependencies, applied only when you name them in {3}. Vite minifies CSS as part of the build, so {4} is not needed for that.",
+  "text": "{0} und {1} sind nicht mehr standardmäßig konfiguriert und auch keine Abhängigkeiten von {2} mehr. Sie sind optionale Peer-Abhängigkeiten, die nur angewendet werden, wenn du sie in {3} angibst. Vite minimiert CSS als Teil des Builds, daher ist {4} dafür nicht nötig.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} und {1} sind nicht mehr standardmäßig konfiguriert und auch keine Abhängigkeiten von {2} mehr. Sie sind optionale Peer-Abhängigkeiten, die nur angewendet werden, wenn du sie in {3} angibst. Vite minimiert CSS als Teil des Builds, daher ist {4} dafür nicht nötig."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

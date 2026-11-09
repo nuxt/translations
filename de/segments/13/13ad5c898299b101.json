@@ -1,0 +1,14 @@
+{
+  "hash": "13ad5c898299b101",
+  "source": "If you need to access the route query parameters (for example {0} in the path {1}), then you can use {2} instead of {3}.",
+  "text": "Wenn du auf die Query-Parameter der Route zugreifen möchtest (zum Beispiel {0} im Pfad {1}), kannst du stattdessen {2} anstelle von {3} verwenden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du auf die Query-Parameter der Route zugreifen möchtest (zum Beispiel {0} im Pfad {1}), kannst du stattdessen {2} anstelle von {3} verwenden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "69e4ae129f54b27d",
+  "source": "Nuxt already automatically preloads the necessary routes if you're using the {0} component.",
+  "text": "Nuxt lädt die benötigten Routen bereits automatisch vor, wenn du die Komponente {0} verwendest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt lädt die benötigten Routen bereits automatisch vor, wenn du die Komponente {0} verwendest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

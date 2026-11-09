@@ -1,0 +1,14 @@
+{
+  "hash": "20e3d6990e82a876",
+  "source": "{0} is the simplest way to make a network request.",
+  "text": "{0} ist der einfachste Weg, eine Netzwerkanfrage auszuführen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ist der einfachste Weg, eine Netzwerkanfrage auszuführen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

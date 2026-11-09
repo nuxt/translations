@@ -1,0 +1,14 @@
+{
+  "hash": "8fdbd831cc161329",
+  "source": "Modules can also define and call their own hooks, which is a powerful pattern for making your module extensible.",
+  "text": "Module können auch eigene Hooks definieren und aufrufen. Das ist ein leistungsfähiges Muster, um dein Modul erweiterbar zu machen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Module können auch eigene Hooks definieren und aufrufen. Das ist ein leistungsfähiges Muster, um dein Modul erweiterbar zu machen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

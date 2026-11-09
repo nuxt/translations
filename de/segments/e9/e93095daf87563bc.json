@@ -1,0 +1,14 @@
+{
+  "hash": "e93095daf87563bc",
+  "source": "Navigate to \"Intelligence\" > \"Connectors\"",
+  "text": "Navigiere zu „Intelligence“ > „Connectors“",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Navigiere zu „Intelligence“ > „Connectors“"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "70896b8fc18f02db",
+  "source": "This installs Vue's {0}, which lets Vapor and Virtual DOM components render alongside each other. You can then mark any component or page as Vapor by adding the {1} attribute to {2}:",
+  "text": "Dadurch wird das {0} von Vue installiert, mit dem Vapor- und Virtual-DOM-Komponenten nebeneinander gerendert werden können. Anschließend kannst du jede Komponente oder Seite als Vapor markieren, indem du das Attribut {1} zu {2} hinzufügst:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dadurch wird das {0} von Vue installiert, mit dem Vapor- und Virtual-DOM-Komponenten nebeneinander gerendert werden können. Anschließend kannst du jede Komponente oder Seite als Vapor markieren, indem du das Attribut {1} zu {2} hinzufügst:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

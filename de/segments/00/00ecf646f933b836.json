@@ -1,0 +1,14 @@
+{
+  "hash": "00ecf646f933b836",
+  "source": "Create Nuxt module presets",
+  "text": "Voreinstellungen für Nuxt-Module erstellen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Voreinstellungen für Nuxt-Module erstellen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

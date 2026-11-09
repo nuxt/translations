@@ -1,0 +1,14 @@
+{
+  "hash": "7ec0e165ba919f5c",
+  "source": "If your builds fail intermittently with a {0} from {1}, consider {2}caching font downloads between builds{/2} or switching to a provider with stable URLs, such as {3}.",
+  "text": "Wenn deine Builds sporadisch mit einem {0} von {1} fehlschlagen, ziehe in Betracht, {2}Schriftart-Downloads zwischen Builds zwischenzuspeichern{/2} oder zu einem Provider mit stabilen URLs zu wechseln, etwa {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn deine Builds sporadisch mit einem {0} von {1} fehlschlagen, ziehe in Betracht, {2}Schriftart-Downloads zwischen Builds zwischenzuspeichern{/2} oder zu einem Provider mit stabilen URLs zu wechseln, etwa {3}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

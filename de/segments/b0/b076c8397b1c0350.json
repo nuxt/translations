@@ -1,0 +1,14 @@
+{
+  "hash": "b076c8397b1c0350",
+  "source": "Nuxt Kit utilities are only available for modules and not meant to be imported in runtime (components, Vue composables, pages, plugins, or server routes).",
+  "text": "Die Nuxt-Kit-Hilfsfunktionen sind nur für Module verfügbar und nicht dafür gedacht, zur Laufzeit importiert zu werden (Komponenten, Vue-Composables, Seiten, Plugins oder Server-Routen).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Nuxt-Kit-Hilfsfunktionen sind nur für Module verfügbar und nicht dafür gedacht, zur Laufzeit importiert zu werden (Komponenten, Vue-Composables, Seiten, Plugins oder Server-Routen)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

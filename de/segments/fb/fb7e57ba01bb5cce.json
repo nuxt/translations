@@ -1,0 +1,14 @@
+{
+  "hash": "fb7e57ba01bb5cce",
+  "source": "This file is a great place to put any custom code that needs to be run once when your app starts up, as well as any components that are present on every page of your app. For example, if you only have one layout, you can move this to {0} instead.",
+  "text": "Diese Datei eignet sich hervorragend für benutzerdefinierten Code, der einmal beim Start deiner App ausgeführt werden muss, sowie für Komponenten, die auf jeder Seite deiner App vorhanden sind. Wenn du zum Beispiel nur ein Layout hast, kannst du es stattdessen nach {0} verschieben.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese Datei eignet sich hervorragend für benutzerdefinierten Code, der einmal beim Start deiner App ausgeführt werden muss, sowie für Komponenten, die auf jeder Seite deiner App vorhanden sind. Wenn du zum Beispiel nur ein Layout hast, kannst du es stattdessen nach {0} verschieben."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

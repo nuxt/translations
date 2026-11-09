@@ -1,0 +1,14 @@
+{
+  "hash": "2c2b1f498a12021c",
+  "source": "Auto-imports and other types are different for the {0} directory, as it is running in a different context from the {1} directory.",
+  "text": "Automatische Importe und andere Typen unterscheiden sich im Verzeichnis {0}, da es in einem anderen Kontext läuft als das Verzeichnis {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Automatische Importe und andere Typen unterscheiden sich im Verzeichnis {0}, da es in einem anderen Kontext läuft als das Verzeichnis {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "89704390d8007806",
+  "source": "Navigating to an External URL",
+  "text": "Zu einer externen URL navigieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Zu einer externen URL navigieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

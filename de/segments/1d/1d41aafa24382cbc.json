@@ -1,0 +1,14 @@
+{
+  "hash": "1d41aafa24382cbc",
+  "source": "Any value in {0} can be a {1}Standard Schema{/1} that also implements {2}Standard JSON Schema{/2}, such as a schema from {3}Zod{/3} or {4}ArkType{/4}, or a {5}Valibot{/5} schema wrapped in {6}. The schema sets the type of the value, and its default value (if any) is used as the default.",
+  "text": "Jeder Wert in {0} kann ein {1}Standard Schema{/1} sein, das auch {2}Standard JSON Schema{/2} implementiert, etwa ein Schema von {3}Zod{/3} oder {4}ArkType{/4}, oder ein {5}Valibot{/5}-Schema, das in {6} eingebettet ist. Das Schema legt den Typ des Werts fest, und sein Standardwert (falls vorhanden) wird als Standardwert verwendet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Jeder Wert in {0} kann ein {1}Standard Schema{/1} sein, das auch {2}Standard JSON Schema{/2} implementiert, etwa ein Schema von {3}Zod{/3} oder {4}ArkType{/4}, oder ein {5}Valibot{/5}-Schema, das in {6} eingebettet ist. Das Schema legt den Typ des Werts fest, und sein Standardwert (falls vorhanden) wird als Standardwert verwendet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

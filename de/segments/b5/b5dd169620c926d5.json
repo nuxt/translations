@@ -1,0 +1,14 @@
+{
+  "hash": "b5dd169620c926d5",
+  "source": "{0} · Nuxt Modules Author Guide",
+  "text": "{0} · Anleitung für Autorinnen und Autoren von Nuxt-Modulen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} · Anleitung für Autorinnen und Autoren von Nuxt-Modulen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

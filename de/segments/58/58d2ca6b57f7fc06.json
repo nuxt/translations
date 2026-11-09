@@ -1,0 +1,14 @@
+{
+  "hash": "58d2ca6b57f7fc06",
+  "source": "{0}, {1}, {2}, {3}, and {4} were soft-deprecated in Nuxt 3.12. In Nuxt 5, Nuxt no longer augments {5} with those properties. Prefer the matching {6} flags; build-time {7} defines still exist for compatibility.",
+  "text": "{0}, {1}, {2}, {3} und {4} werden seit Nuxt 3.12 weich nicht mehr empfohlen. In Nuxt 5 ergänzt Nuxt {5} nicht mehr um diese Eigenschaften. Verwende stattdessen die entsprechenden {6}-Flags; die beim Build definierten {7}-Werte existieren aus Kompatibilitätsgründen weiterhin.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}, {1}, {2}, {3} und {4} werden seit Nuxt 3.12 weich nicht mehr empfohlen. In Nuxt 5 ergänzt Nuxt {5} nicht mehr um diese Eigenschaften. Verwende stattdessen die entsprechenden {6}-Flags; die beim Build definierten {7}-Werte existieren aus Kompatibilitätsgründen weiterhin."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

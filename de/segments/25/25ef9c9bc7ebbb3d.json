@@ -1,0 +1,14 @@
+{
+  "hash": "25ef9c9bc7ebbb3d",
+  "source": "Options for the Vue compiler that will be passed at build time.",
+  "text": "Optionen für den Vue-Compiler, die zur Build-Zeit übergeben werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Optionen für den Vue-Compiler, die zur Build-Zeit übergeben werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "091d3162a59fbb0e",
+  "source": "Place your markdown files inside the {0} directory:",
+  "text": "Lege deine Markdown-Dateien im Verzeichnis {0} ab:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lege deine Markdown-Dateien im Verzeichnis {0} ab:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "611664a1c255dce3",
+  "source": "Webpack and rspack have no equivalent asset pipeline for the CSS we generate, so fonts stay on a public path with long-lived cache headers, and only {0} is applied to them.",
+  "text": "Webpack und rspack haben keine vergleichbare asset-Pipeline für das von uns erzeugte CSS. Deshalb bleiben die Schriftarten unter einem öffentlichen Pfad mit langlebigen Cache-Headern, und es wird nur {0} auf sie angewendet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Webpack und rspack haben keine vergleichbare asset-Pipeline für das von uns erzeugte CSS. Deshalb bleiben die Schriftarten unter einem öffentlichen Pfad mit langlebigen Cache-Headern, und es wird nur {0} auf sie angewendet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

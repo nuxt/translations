@@ -1,0 +1,14 @@
+{
+  "hash": "3a35d2101ecef5e0",
+  "source": "If you're starting a fresh Nuxt 3 project, please skip this section and go to {0}Nuxt 3 Installation{/0}.",
+  "text": "Wenn du ein neues Nuxt-3-Projekt startest, überspringe diesen Abschnitt und gehe zur {0}Installation von Nuxt 3{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du ein neues Nuxt-3-Projekt startest, überspringe diesen Abschnitt und gehe zur {0}Installation von Nuxt 3{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

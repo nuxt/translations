@@ -1,0 +1,14 @@
+{
+  "hash": "6c0c6efdb1e1aad5",
+  "source": "a new {0} is added, which is the directory we look for {1} and {2} - this defaults to {3}",
+  "text": "Es gibt ein neues {0}, das Verzeichnis, in dem nach {1} und {2} gesucht wird – standardmäßig {3}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Es gibt ein neues {0}, das Verzeichnis, in dem nach {1} und {2} gesucht wird – standardmäßig {3}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

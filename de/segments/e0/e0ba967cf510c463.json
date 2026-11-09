@@ -1,0 +1,14 @@
+{
+  "hash": "e0ba967cf510c463",
+  "source": "Called before generating the app.",
+  "text": "Wird aufgerufen, bevor die App generiert wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird aufgerufen, bevor die App generiert wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

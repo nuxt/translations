@@ -1,0 +1,14 @@
+{
+  "hash": "fbdad1ee6072bbc5",
+  "source": "{0} and {1} are only read from your configuration. A file is {2} unless its name says otherwise, and a trailing word is dropped when looking for the family, so {3} resolves {4} at {5} regardless.",
+  "text": "{0} und {1} werden nur aus deiner Konfiguration gelesen. Eine Datei hat die Stärke {2}, sofern ihr Name nichts anderes angibt. Ein abschließendes Wort wird bei der Suche nach der Familie weggelassen, sodass {3} {4} unabhängig davon mit {5} auflöst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} und {1} werden nur aus deiner Konfiguration gelesen. Eine Datei hat die Stärke {2}, sofern ihr Name nichts anderes angibt. Ein abschließendes Wort wird bei der Suche nach der Familie weggelassen, sodass {3} {4} unabhängig davon mit {5} auflöst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

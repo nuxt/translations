@@ -1,0 +1,14 @@
+{
+  "hash": "8ff8aac9c073a8bd",
+  "source": "Resolving",
+  "text": "Auflösen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auflösen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

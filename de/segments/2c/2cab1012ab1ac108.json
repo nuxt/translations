@@ -1,0 +1,14 @@
+{
+  "hash": "2cab1012ab1ac108",
+  "source": "{0} namespace",
+  "text": "Namensraum {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Namensraum {0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

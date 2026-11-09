@@ -1,0 +1,14 @@
+{
+  "hash": "90675f2e9144935c",
+  "source": "{0}: Height of the loading bar, in pixels (default {1}).",
+  "text": "{0}: Höhe des Ladebalkens in Pixeln (Standard: {1}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Höhe des Ladebalkens in Pixeln (Standard: {1})."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

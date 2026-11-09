@@ -1,0 +1,14 @@
+{
+  "hash": "779ddf96658b1ae0",
+  "source": "{0}: A {1} attribute value to apply on the link. Defaults to {2} for external links.",
+  "text": "{0}: Ein Wert für das Attribut {1}, der auf den Link angewendet wird. Standardmäßig {2} bei externen Links.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Ein Wert für das Attribut {1}, der auf den Link angewendet wird. Standardmäßig {2} bei externen Links."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

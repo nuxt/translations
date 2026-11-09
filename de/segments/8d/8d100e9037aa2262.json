@@ -1,0 +1,14 @@
+{
+  "hash": "8d100e9037aa2262",
+  "source": "If you are using nested routes, the page metadata from all these routes will be merged into a single object. For more on route meta, see the {0}vue-router docs{/0}.",
+  "text": "Wenn du verschachtelte Routen verwendest, werden die Seiten-Metadaten aller dieser Routen zu einem einzigen Objekt zusammengeführt. Mehr zu Routen-Metadaten findest du in der {0}Dokumentation von vue-router{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du verschachtelte Routen verwendest, werden die Seiten-Metadaten aller dieser Routen zu einem einzigen Objekt zusammengeführt. Mehr zu Routen-Metadaten findest du in der {0}Dokumentation von vue-router{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

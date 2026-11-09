@@ -1,0 +1,14 @@
+{
+  "hash": "9408a8198c83e2f6",
+  "source": "Skip nuxt.config.ts update",
+  "text": "Aktualisierung von nuxt.config.ts überspringen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Aktualisierung von nuxt.config.ts überspringen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

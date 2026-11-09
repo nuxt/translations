@@ -1,0 +1,14 @@
+{
+  "hash": "20920e81756625ab",
+  "source": "Usage with AI Tools",
+  "text": "Verwendung mit KI-Tools",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwendung mit KI-Tools"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

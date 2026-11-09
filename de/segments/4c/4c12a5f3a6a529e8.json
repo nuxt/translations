@@ -1,0 +1,14 @@
+{
+  "hash": "4c12a5f3a6a529e8",
+  "source": "defineNuxtComponent() is a helper function for defining type safe components with Options API.",
+  "text": "defineNuxtComponent() ist eine Hilfsfunktion, um typsichere Komponenten mit der Options API zu definieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "defineNuxtComponent() ist eine Hilfsfunktion, um typsichere Komponenten mit der Options API zu definieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

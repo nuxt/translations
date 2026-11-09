@@ -1,0 +1,14 @@
+{
+  "hash": "f472a4d8543a51b7",
+  "source": "These properties (prefetch/preload) are used in production to configure how components with Lazy prefix are handled by webpack via its magic comments. Learn more on {0}webpack documentation{/0}",
+  "text": "Diese Eigenschaften (prefetch/preload) werden in Produktion verwendet, um über die Magic Comments von webpack zu konfigurieren, wie Komponenten mit dem Präfix Lazy behandelt werden. Mehr dazu findest du in der {0}webpack-Dokumentation{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese Eigenschaften (prefetch/preload) werden in Produktion verwendet, um über die Magic Comments von webpack zu konfigurieren, wie Komponenten mit dem Präfix Lazy behandelt werden. Mehr dazu findest du in der {0}webpack-Dokumentation{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "9c63d178cfa0a443",
+  "source": "By using the Lazy prefix you can delay loading the component code until the right moment, which can be helpful for optimizing your JavaScript bundle size.",
+  "text": "Mit dem Präfix Lazy kannst du das Laden des Komponentencodes bis zum richtigen Zeitpunkt verzögern. Das kann helfen, die Größe deines JavaScript-Bundles zu optimieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit dem Präfix Lazy kannst du das Laden des Komponentencodes bis zum richtigen Zeitpunkt verzögern. Das kann helfen, die Größe deines JavaScript-Bundles zu optimieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "07ba84b77b4ffe76",
+  "source": "**{0}**: Logger options, such as {1}, {2}, {3} and {4}.",
+  "text": "**{0}**: Logger-Optionen, etwa {1}, {2}, {3} und {4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}**: Logger-Optionen, etwa {1}, {2}, {3} und {4}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

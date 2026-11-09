@@ -1,0 +1,14 @@
+{
+  "hash": "d6f02a83e65bf8bf",
+  "source": "Status of the data request. See below for possible values.",
+  "text": "Status der Datenanfrage. Mögliche Werte findest du weiter unten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Status der Datenanfrage. Mögliche Werte findest du weiter unten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

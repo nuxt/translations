@@ -1,0 +1,14 @@
+{
+  "hash": "153d59eb7fcb048d",
+  "source": "Checkout the open source {0}atidone repository{/0} for a full example of a Nuxt app with OAuth authentication, database and CRUD operations.",
+  "text": "Sieh dir das Open-Source-{0}Repository atidone{/0} an, das ein vollständiges Beispiel für eine Nuxt-App mit OAuth-Authentifizierung, Datenbank und CRUD-Operationen enthält.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sieh dir das Open-Source-{0}Repository atidone{/0} an, das ein vollständiges Beispiel für eine Nuxt-App mit OAuth-Authentifizierung, Datenbank und CRUD-Operationen enthält."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

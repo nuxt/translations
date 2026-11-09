@@ -1,0 +1,14 @@
+{
+  "hash": "e3c505ab6db91d3b",
+  "source": "{0} reads the session for the request, sealing a new one into a cookie when there is none to read. The data is sealed with {1}iron{/1}, so it lives in the cookie rather than in server storage, and the cookie defaults to {2}, {3}, {4} and {5}.",
+  "text": "{0} liest die Sitzung der Anfrage und versiegelt eine neue in einem Cookie, wenn keine vorhanden ist. Die Daten werden mit {1}iron{/1} versiegelt, liegen also im Cookie statt im Server-Speicher. Das Cookie verwendet standardmäßig {2}, {3}, {4} und {5}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} liest die Sitzung der Anfrage und versiegelt eine neue in einem Cookie, wenn keine vorhanden ist. Die Daten werden mit {1}iron{/1} versiegelt, liegen also im Cookie statt im Server-Speicher. Das Cookie verwendet standardmäßig {2}, {3}, {4} und {5}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "970f1eb943f69697",
+  "source": "Some route rules ({0}, {1} and {2}) also affect client-side behavior.",
+  "text": "Einige Route-Rules ({0}, {1} und {2}) wirken sich auch auf das clientseitige Verhalten aus.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Einige Route-Rules ({0}, {1} und {2}) wirken sich auch auf das clientseitige Verhalten aus."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

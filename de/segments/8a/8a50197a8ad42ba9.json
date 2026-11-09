@@ -1,0 +1,14 @@
+{
+  "hash": "8a50197a8ad42ba9",
+  "source": "Writing Your Own Wrapper",
+  "text": "Einen eigenen Wrapper schreiben",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Einen eigenen Wrapper schreiben"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

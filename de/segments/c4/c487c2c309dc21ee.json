@@ -1,0 +1,14 @@
+{
+  "hash": "c487c2c309dc21ee",
+  "source": "Use TypeScript (Optional)",
+  "text": "TypeScript verwenden (optional)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "TypeScript verwenden (optional)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

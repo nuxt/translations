@@ -1,0 +1,14 @@
+{
+  "hash": "81ac3b1a71591f19",
+  "source": "By default, Nuxt only reads a fixed list of {0} keys at build time (plus anything in {1}); everything else is resolved at runtime from a separate module generated per page. With this option, Nuxt writes every JSON-serializable property straight into the generated route record instead.",
+  "text": "Standardmäßig liest Nuxt zur Build-Zeit nur eine feste Liste von {0}-Schlüsseln (plus alles in {1}); alles andere wird zur Laufzeit aus einem separaten, pro Seite generierten Modul aufgelöst. Mit dieser Option schreibt Nuxt stattdessen jede JSON-serialisierbare Eigenschaft direkt in den generierten Route-Eintrag.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardmäßig liest Nuxt zur Build-Zeit nur eine feste Liste von {0}-Schlüsseln (plus alles in {1}); alles andere wird zur Laufzeit aus einem separaten, pro Seite generierten Modul aufgelöst. Mit dieser Option schreibt Nuxt stattdessen jede JSON-serialisierbare Eigenschaft direkt in den generierten Route-Eintrag."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

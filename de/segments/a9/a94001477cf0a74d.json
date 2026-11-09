@@ -1,0 +1,14 @@
+{
+  "hash": "a94001477cf0a74d",
+  "source": "End Of Life",
+  "text": "Ende des Lebenszyklus",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ende des Lebenszyklus"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

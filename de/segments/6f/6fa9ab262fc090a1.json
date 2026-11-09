@@ -1,0 +1,14 @@
+{
+  "hash": "6fa9ab262fc090a1",
+  "source": "Server-rendering the Error Page",
+  "text": "Die Fehlerseite serverseitig rendern",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Fehlerseite serverseitig rendern"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

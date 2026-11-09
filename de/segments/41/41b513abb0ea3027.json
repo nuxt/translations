@@ -1,0 +1,14 @@
+{
+  "hash": "41b513abb0ea3027",
+  "source": "The official app builders also call their own hooks (for example {0}, {1}, and {2}) so modules and the server builder can participate in the build. Your app builder can call its own hooks too, but it's the build output contract below that makes it interoperate with the server builder and the Nuxt server runtime.",
+  "text": "Die offiziellen App-Builder rufen außerdem eigene hooks auf (zum Beispiel {0}, {1} und {2}), damit Module und der Server-Builder am Build teilnehmen können. Dein App-Builder kann ebenfalls eigene hooks aufrufen, aber erst der unten beschriebene Vertrag für die Build-Ausgabe sorgt dafür, dass er mit dem Server-Builder und der Nuxt-Server-Runtime zusammenarbeitet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die offiziellen App-Builder rufen außerdem eigene hooks auf (zum Beispiel {0}, {1} und {2}), damit Module und der Server-Builder am Build teilnehmen können. Dein App-Builder kann ebenfalls eigene hooks aufrufen, aber erst der unten beschriebene Vertrag für die Build-Ausgabe sorgt dafür, dass er mit dem Server-Builder und der Nuxt-Server-Runtime zusammenarbeitet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

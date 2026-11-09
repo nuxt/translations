@@ -1,0 +1,14 @@
+{
+  "hash": "1d1a4b5d1bc5ccb1",
+  "source": "Server Utilities",
+  "text": "Server-Hilfsfunktionen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Server-Hilfsfunktionen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "45db4f394fe312fa",
+  "source": "The Nuxt CLI has built-in support for reading your {0} file in development, build and generate. But when you run your built server, **your {1} file will not be read**.",
+  "text": "Die Nuxt-Kommandozeilenschnittstelle (CLI) kann deine {0}-Datei in der Entwicklung, beim Erzeugen des Builds und bei generate integriert lesen. Wenn du jedoch deinen erzeugten Server ausführst, **wird deine {1}-Datei nicht gelesen**.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Nuxt-Kommandozeilenschnittstelle (CLI) kann deine {0}-Datei in der Entwicklung, beim Erzeugen des Builds und bei generate integriert lesen. Wenn du jedoch deinen erzeugten Server ausführst, **wird deine {1}-Datei nicht gelesen**."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

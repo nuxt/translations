@@ -1,0 +1,14 @@
+{
+  "hash": "ef876b566d72ff2e",
+  "source": "Reactive Meta Tags",
+  "text": "Reaktive Meta-Tags",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Reaktive Meta-Tags"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

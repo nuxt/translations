@@ -1,0 +1,14 @@
+{
+  "hash": "f070748a19a6f0e4",
+  "source": "Read or modify types at runtime",
+  "text": "Typen zur Laufzeit lesen oder ändern",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Typen zur Laufzeit lesen oder ändern"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

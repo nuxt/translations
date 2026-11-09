@@ -1,0 +1,14 @@
+{
+  "hash": "bbb9de6ab6014ac1",
+  "source": "For details about each type and examples, see the {0}Middleware documentation{/0}.",
+  "text": "Details zu den einzelnen Typen und Beispiele findest du in der {0}Middleware-Dokumentation{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Details zu den einzelnen Typen und Beispiele findest du in der {0}Middleware-Dokumentation{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

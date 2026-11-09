@@ -1,0 +1,14 @@
+{
+  "hash": "969abc5c00ace2bc",
+  "source": "Options passed directly to the transformer from {0} that preserves async context after {1}.",
+  "text": "Optionen, die direkt an den Transformer von {0} übergeben werden, der den asynchronen Kontext nach {1} beibehält.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Optionen, die direkt an den Transformer von {0} übergeben werden, der den asynchronen Kontext nach {1} beibehält."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

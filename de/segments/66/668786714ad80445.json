@@ -1,0 +1,14 @@
+{
+  "hash": "668786714ad80445",
+  "source": "{0} ships from Nuxt 4.6, so one file can serve Nuxt 4.6 running {1} v2, Nuxt 5 running Nitro v3, and anything a future builder brings.",
+  "text": "{0} wird ab Nuxt 4.6 mitgeliefert. Dadurch kann eine einzelne Datei Nuxt 4.6 mit {1} v2, Nuxt 5 mit Nitro v3 und alles bedienen, was ein zukünftiger Builder mitbringt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} wird ab Nuxt 4.6 mitgeliefert. Dadurch kann eine einzelne Datei Nuxt 4.6 mit {1} v2, Nuxt 5 mit Nitro v3 und alles bedienen, was ein zukünftiger Builder mitbringt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

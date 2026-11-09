@@ -1,0 +1,14 @@
+{
+  "hash": "c8028184e21d64f5",
+  "source": "This flag is enabled by default, but you can disable this feature to resolve template components with a build transform on the compiled output:",
+  "text": "Dieses Flag ist standardmäßig aktiviert, aber du kannst diese Funktion deaktivieren, um Komponenten in Vorlagen stattdessen mit einer Build-Transformation auf der kompilierten Ausgabe aufzulösen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dieses Flag ist standardmäßig aktiviert, aber du kannst diese Funktion deaktivieren, um Komponenten in Vorlagen stattdessen mit einer Build-Transformation auf der kompilierten Ausgabe aufzulösen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

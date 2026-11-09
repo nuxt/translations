@@ -1,0 +1,14 @@
+{
+  "hash": "0854332f2d589f70",
+  "source": "You're able to access these resources with tools like Claude Code by using {0}.",
+  "text": "Auf diese Ressourcen kannst du mit Werkzeugen wie Claude Code zugreifen, indem du {0} verwendest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auf diese Ressourcen kannst du mit Werkzeugen wie Claude Code zugreifen, indem du {0} verwendest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

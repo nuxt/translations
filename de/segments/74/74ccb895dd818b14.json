@@ -1,0 +1,14 @@
+{
+  "hash": "74ccb895dd818b14",
+  "source": "Since {0}Nuxt v3.12.0{/0}, the experimental {1} option is enabled by default. It automatically refreshes the {2} value when cookies change in the browser.",
+  "text": "Seit {0}Nuxt v3.12.0{/0} ist die experimentelle Option {1} standardmäßig aktiviert. Sie aktualisiert den Wert von {2} automatisch, wenn sich Cookies im Browser ändern.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Seit {0}Nuxt v3.12.0{/0} ist die experimentelle Option {1} standardmäßig aktiviert. Sie aktualisiert den Wert von {2} automatisch, wenn sich Cookies im Browser ändern."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

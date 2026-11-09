@@ -1,0 +1,14 @@
+{
+  "hash": "6d84fee9b90ff319",
+  "source": "Sourcemaps are enabled for your server build by default, and for the client build in dev mode, but you can enable them more specifically in your configuration.",
+  "text": "Sourcemaps sind standardmäßig für den Server-Build aktiviert, für den Client-Build im Entwicklungsmodus ebenfalls. Du kannst sie in deiner Konfiguration aber auch gezielter aktivieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sourcemaps sind standardmäßig für den Server-Build aktiviert, für den Client-Build im Entwicklungsmodus ebenfalls. Du kannst sie in deiner Konfiguration aber auch gezielter aktivieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "7342607454a45412",
+  "source": "Built-in plugins, such as Vue Router and {0}.",
+  "text": "Integrierte Plugins, etwa Vue Router und {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Integrierte Plugins, etwa Vue Router und {0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

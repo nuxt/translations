@@ -1,0 +1,14 @@
+{
+  "hash": "b5ad6deefa042b9f",
+  "source": "The {0} option has been removed. Vue compiler dependencies ({1}, {2}, {3}, {4}, {5}) are now always replaced with mock proxies in the server bundle when {6} is not enabled.",
+  "text": "Die Option {0} wurde entfernt. Vue-Compiler-Abhängigkeiten ({1}, {2}, {3}, {4}, {5}) werden im Server-Bundle jetzt immer durch Mock-Proxys ersetzt, wenn {6} nicht aktiviert ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Option {0} wurde entfernt. Vue-Compiler-Abhängigkeiten ({1}, {2}, {3}, {4}, {5}) werden im Server-Bundle jetzt immer durch Mock-Proxys ersetzt, wenn {6} nicht aktiviert ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

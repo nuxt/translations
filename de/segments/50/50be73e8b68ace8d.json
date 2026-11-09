@@ -1,0 +1,14 @@
+{
+  "hash": "50be73e8b68ace8d",
+  "source": "Screen readers announce a full page load by themselves, but they have no way of knowing that a client-side navigation happened. {0} solves this by rendering a hidden live region and writing the new page title into it after every navigation:",
+  "text": "Screenreader kündigen einen vollständigen Seitenaufruf selbstständig an, können aber nicht wissen, dass eine clientseitige Navigation stattgefunden hat. {0} löst das, indem es eine versteckte Live-Region rendert und nach jeder Navigation den neuen Seitentitel hineinschreibt:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Screenreader kündigen einen vollständigen Seitenaufruf selbstständig an, können aber nicht wissen, dass eine clientseitige Navigation stattgefunden hat. {0} löst das, indem es eine versteckte Live-Region rendert und nach jeder Navigation den neuen Seitentitel hineinschreibt:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

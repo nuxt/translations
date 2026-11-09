@@ -1,0 +1,14 @@
+{
+  "hash": "b044a5fbdbeba909",
+  "source": "This is particularly useful for optimizing performance by reusing already-fetched data or implementing features like Optimistic Updates or cascading data updates.",
+  "text": "Das ist besonders nützlich, um die Performance zu optimieren, indem bereits abgerufene Daten wiederverwendet werden, oder um Funktionen wie Optimistic Updates oder kaskadierende Datenaktualisierungen umzusetzen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das ist besonders nützlich, um die Performance zu optimieren, indem bereits abgerufene Daten wiederverwendet werden, oder um Funktionen wie Optimistic Updates oder kaskadierende Datenaktualisierungen umzusetzen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

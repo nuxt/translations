@@ -1,0 +1,14 @@
+{
+  "hash": "8bcd181598d290d1",
+  "source": "**With {0}**, execution pauses until the data is ready, so any code after the call can rely on {1} already being populated. On client-side navigation, this blocks navigation until the data resolves: the user stays on the current page (optionally with a {2}) and then lands on a fully populated page. This is the default behavior.",
+  "text": "**Mit {0}** pausiert die Ausführung, bis die Daten bereitstehen, sodass sich Code nach dem Aufruf darauf verlassen kann, dass {1} bereits befüllt ist. Bei der clientseitigen Navigation blockiert das die Navigation, bis die Daten geladen sind: Die nutzende Person bleibt auf der aktuellen Seite (optional mit {2}) und landet dann auf einer vollständig befüllten Seite. Das ist das Standardverhalten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Mit {0}** pausiert die Ausführung, bis die Daten bereitstehen, sodass sich Code nach dem Aufruf darauf verlassen kann, dass {1} bereits befüllt ist. Bei der clientseitigen Navigation blockiert das die Navigation, bis die Daten geladen sind: Die nutzende Person bleibt auf der aktuellen Seite (optional mit {2}) und landet dann auf einer vollständig befüllten Seite. Das ist das Standardverhalten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

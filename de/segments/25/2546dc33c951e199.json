@@ -1,0 +1,14 @@
+{
+  "hash": "2546dc33c951e199",
+  "source": "A plain default of {0} or {1} is replaced with an empty string, so it is set as a string. To keep a {2} default and still coerce a variable to another type, use a schema such as {3}.",
+  "text": "Ein einfacher Standardwert von {0} oder {1} wird durch einen leeren String ersetzt und daher als String gesetzt. Um einen {2}-Standardwert beizubehalten und eine Variable dennoch in einen anderen Typ umzuwandeln, verwende ein Schema wie {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein einfacher Standardwert von {0} oder {1} wird durch einen leeren String ersetzt und daher als String gesetzt. Um einen {2}-Standardwert beizubehalten und eine Variable dennoch in einen anderen Typ umzuwandeln, verwende ein Schema wie {3}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e0a8a02549f421fd",
+  "source": "Nuxt, Nuxt Kit, and other new toolings are made to have both forward and backward compatibility in mind.",
+  "text": "Nuxt, Nuxt Kit und andere neue Werkzeuge sind darauf ausgelegt, sowohl vorwärts- als auch rückwärtskompatibel zu sein.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt, Nuxt Kit und andere neue Werkzeuge sind darauf ausgelegt, sowohl vorwärts- als auch rückwärtskompatibel zu sein."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "fcd04bdaa7728ca6",
+  "source": "It will be available as useFoo() (camelCase of file name without extension)",
+  "text": "Es ist als useFoo() verfügbar (camelCase des Dateinamens ohne Erweiterung)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Es ist als useFoo() verfügbar (camelCase des Dateinamens ohne Erweiterung)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

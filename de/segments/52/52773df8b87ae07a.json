@@ -1,0 +1,14 @@
+{
+  "hash": "52773df8b87ae07a",
+  "source": "If you need to spy on component setup state, you can set the {0} option to {1} and access the return value of the setup via {2}.",
+  "text": "Wenn du den Setup-Zustand einer Komponente beobachten möchtest, kannst du die Option {0} auf {1} setzen und über {2} auf den Rückgabewert des Setups zugreifen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du den Setup-Zustand einer Komponente beobachten möchtest, kannst du die Option {0} auf {1} setzen und über {2} auf den Rückgabewert des Setups zugreifen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

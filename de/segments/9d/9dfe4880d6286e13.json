@@ -1,0 +1,14 @@
+{
+  "hash": "9dfe4880d6286e13",
+  "source": "{0} - Layer-specific configuration that will be merged with the main config",
+  "text": "{0} – Layer-spezifische Konfiguration, die mit der Hauptkonfiguration zusammengeführt wird",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} – Layer-spezifische Konfiguration, die mit der Hauptkonfiguration zusammengeführt wird"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

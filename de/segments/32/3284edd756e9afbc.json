@@ -1,0 +1,14 @@
+{
+  "hash": "3284edd756e9afbc",
+  "source": "Cookie Encryption Key",
+  "text": "Verschlüsselungsschlüssel für Cookies",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verschlüsselungsschlüssel für Cookies"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "329838375a6ee542",
+  "source": "It's ok to have multiple commits in a single PR; you don't need to rebase or force push for your changes as we will use {0} to squash the commits into one commit when merging.",
+  "text": "Mehrere Commits in einem einzelnen PR sind in Ordnung. Du musst deine Änderungen weder rebasen noch per Force-Push übertragen, da wir {0} verwenden, um die Commits beim Mergen zu einem einzigen Commit zusammenzufassen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mehrere Commits in einem einzelnen PR sind in Ordnung. Du musst deine Änderungen weder rebasen noch per Force-Push übertragen, da wir {0} verwenden, um die Commits beim Mergen zu einem einzigen Commit zusammenzufassen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

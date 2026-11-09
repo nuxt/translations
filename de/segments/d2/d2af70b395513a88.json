@@ -1,0 +1,14 @@
+{
+  "hash": "d2af70b395513a88",
+  "source": "Find all component files across layers",
+  "text": "Alle Komponentendateien über alle Layer hinweg finden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Alle Komponentendateien über alle Layer hinweg finden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

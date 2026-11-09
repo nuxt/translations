@@ -1,0 +1,14 @@
+{
+  "hash": "5e6545421709a02d",
+  "source": "Define route rules for hybrid rendering at the page level.",
+  "text": "Definiere Route-Regeln für hybrides Rendering auf Seitenebene.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Definiere Route-Regeln für hybrides Rendering auf Seitenebene."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

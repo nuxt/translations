@@ -1,0 +1,14 @@
+{
+  "hash": "21ad65eeadb87c01",
+  "source": "{0} and {1} serve static files only: the lightest weight in the range, the weight closest to {2}, and the heaviest.",
+  "text": "{0} und {1} liefern nur statische Dateien aus: die leichteste Schriftstärke im Bereich, die Schriftstärke, die {2} am nächsten kommt, und die schwerste.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} und {1} liefern nur statische Dateien aus: die leichteste Schriftstärke im Bereich, die Schriftstärke, die {2} am nächsten kommt, und die schwerste."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

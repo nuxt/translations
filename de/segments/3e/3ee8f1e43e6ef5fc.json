@@ -1,0 +1,14 @@
+{
+  "hash": "3ee8f1e43e6ef5fc",
+  "source": "A page is kept in the server bundle when any path that reaches it might still be rendered on the server:",
+  "text": "Eine Seite bleibt im Server-Bundle, wenn irgendein Pfad, der zu ihr führt, möglicherweise doch auf dem Server gerendert wird:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine Seite bleibt im Server-Bundle, wenn irgendein Pfad, der zu ihr führt, möglicherweise doch auf dem Server gerendert wird:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

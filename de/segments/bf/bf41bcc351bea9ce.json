@@ -1,0 +1,14 @@
+{
+  "hash": "bf41bcc351bea9ce",
+  "source": "Query/search params to append to the URL. Alias: {0}.",
+  "text": "Query-/Suchparameter, die an die URL angehängt werden. Alias: {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Query-/Suchparameter, die an die URL angehängt werden. Alias: {0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

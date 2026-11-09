@@ -1,0 +1,14 @@
+{
+  "hash": "3fd8d7eaac63a1ef",
+  "source": "You can also import {0} directly from {1}:",
+  "text": "Du kannst {0} auch direkt aus {1} importieren:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst {0} auch direkt aus {1} importieren:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

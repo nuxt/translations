@@ -1,0 +1,14 @@
+{
+  "hash": "2498c7bb330efb8c",
+  "source": "For example, to return {0}",
+  "text": "Um zum Beispiel {0} zurückzugeben:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um zum Beispiel {0} zurückzugeben:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

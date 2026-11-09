@@ -1,0 +1,14 @@
+{
+  "hash": "67090e1f67cb6245",
+  "source": "Clone {0}nuxt/fonts{/0} repository",
+  "text": "Klone das {0}nuxt/fonts{/0}-Repository",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Klone das {0}nuxt/fonts{/0}-Repository"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

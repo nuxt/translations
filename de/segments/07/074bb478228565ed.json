@@ -1,0 +1,14 @@
+{
+  "hash": "074bb478228565ed",
+  "source": "This data can then be accessed throughout the rest of your app from the {0} object.",
+  "text": "Auf diese Daten kannst du anschließend im Rest deiner App über das Objekt {0} zugreifen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auf diese Daten kannst du anschließend im Rest deiner App über das Objekt {0} zugreifen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

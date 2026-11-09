@@ -1,0 +1,14 @@
+{
+  "hash": "3c6c72b8eb69f597",
+  "source": "Differences with Nuxt 2 / Vue 2",
+  "text": "Unterschiede zu Nuxt 2 / Vue 2",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Unterschiede zu Nuxt 2 / Vue 2"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

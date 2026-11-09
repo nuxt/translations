@@ -1,0 +1,14 @@
+{
+  "hash": "19565b0439ad55d8",
+  "source": "You can test your module with other Nuxt applications (applications that are not part of your module repository) locally. To do so, you can use {0} command, or your package manager equivalent, to create a tarball from your module. Then in your test project, you can add your module to {1} packages as: {2}.",
+  "text": "Du kannst dein Modul lokal auch mit anderen Nuxt-Anwendungen testen (Anwendungen, die nicht Teil des Repositorys deines Moduls sind). Verwende dazu den Befehl {0} oder das Äquivalent deines Paketmanagers, um aus deinem Modul ein Tarball zu erstellen. Anschließend kannst du dein Modul in deinem Testprojekt wie folgt zu den {1}-Paketen hinzufügen: {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst dein Modul lokal auch mit anderen Nuxt-Anwendungen testen (Anwendungen, die nicht Teil des Repositorys deines Moduls sind). Verwende dazu den Befehl {0} oder das Äquivalent deines Paketmanagers, um aus deinem Modul ein Tarball zu erstellen. Anschließend kannst du dein Modul in deinem Testprojekt wie folgt zu den {1}-Paketen hinzufügen: {2}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

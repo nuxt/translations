@@ -1,0 +1,14 @@
+{
+  "hash": "14d6c5bd05c61686",
+  "source": "**Page errors** return the HTML error page with the error's status code, even for requests that accept JSON. This includes {0} and {1} calls in the browser, {2}, and requests with an {3} header.",
+  "text": "**Seitenfehler** liefern die HTML-Fehlerseite mit dem Statuscode des Fehlers, selbst bei Anfragen, die JSON akzeptieren. Das betrifft {0}- und {1}-Aufrufe im Browser, {2} sowie Anfragen mit einem {3}-Header.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Seitenfehler** liefern die HTML-Fehlerseite mit dem Statuscode des Fehlers, selbst bei Anfragen, die JSON akzeptieren. Das betrifft {0}- und {1}-Aufrufe im Browser, {2} sowie Anfragen mit einem {3}-Header."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

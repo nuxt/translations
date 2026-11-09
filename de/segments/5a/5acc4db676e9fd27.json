@@ -1,0 +1,14 @@
+{
+  "hash": "5acc4db676e9fd27",
+  "source": "{0} is the import surface for server utilities, and what the server auto-imports resolve to. It is not tied to a particular h3 or Nitro version.",
+  "text": "{0} ist die Importoberfläche für Server-Hilfsfunktionen und das Ziel, auf das die automatischen Importe des Servers verweisen. Es ist nicht an eine bestimmte Version von h3 oder Nitro gebunden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ist die Importoberfläche für Server-Hilfsfunktionen und das Ziel, auf das die automatischen Importe des Servers verweisen. Es ist nicht an eine bestimmte Version von h3 oder Nitro gebunden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

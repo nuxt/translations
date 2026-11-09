@@ -1,0 +1,14 @@
+{
+  "hash": "dea80e27804fc000",
+  "source": "To specify a variable font weight, define the range as you would in plain CSS (for example, {0}). See {1}variable fonts{/1} for how each provider handles a range.",
+  "text": "Um eine variable Schriftstärke anzugeben, definiere den Bereich wie in reinem CSS (zum Beispiel {0}). Wie jeder Provider einen Bereich behandelt, erfährst du unter {1}Variable Schriften{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um eine variable Schriftstärke anzugeben, definiere den Bereich wie in reinem CSS (zum Beispiel {0}). Wie jeder Provider einen Bereich behandelt, erfährst du unter {1}Variable Schriften{/1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

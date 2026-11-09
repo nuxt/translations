@@ -1,0 +1,14 @@
+{
+  "hash": "f7f816c86d2f7979",
+  "source": "Builds for an individual pull request are published by {0}pkg.pr.new{/0} and linked from the pull request itself, which is the quickest way to check whether a fix works before it is released.",
+  "text": "Builds für einzelne Pull Requests werden von {0}pkg.pr.new{/0} veröffentlicht und im Pull Request selbst verlinkt. So lässt sich am schnellsten prüfen, ob eine Korrektur funktioniert, bevor sie veröffentlicht wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Builds für einzelne Pull Requests werden von {0}pkg.pr.new{/0} veröffentlicht und im Pull Request selbst verlinkt. So lässt sich am schnellsten prüfen, ob eine Korrektur funktioniert, bevor sie veröffentlicht wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

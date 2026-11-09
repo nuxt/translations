@@ -1,0 +1,14 @@
+{
+  "hash": "ab264f39c7b94bfe",
+  "source": "Plan for existing sessions ending: users are signed out once, on the deploy that upgrades them.",
+  "text": "Plane das Ende bestehender Sessions ein: Nutzende werden einmalig abgemeldet, und zwar bei der Bereitstellung, mit der das Upgrade ausgerollt wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Plane das Ende bestehender Sessions ein: Nutzende werden einmalig abgemeldet, und zwar bei der Bereitstellung, mit der das Upgrade ausgerollt wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

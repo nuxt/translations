@@ -1,0 +1,14 @@
+{
+  "hash": "46df45693d15e59f",
+  "source": "You can use the {0} utility from Nuxt Kit to support custom multi-layer handling for your modules.",
+  "text": "Mit dem Hilfsprogramm {0} aus dem Nuxt Kit kannst du in deinen Modulen eine benutzerdefinierte Verarbeitung mehrerer Layer unterstützen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit dem Hilfsprogramm {0} aus dem Nuxt Kit kannst du in deinen Modulen eine benutzerdefinierte Verarbeitung mehrerer Layer unterstützen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "0efacc533d59103d",
+  "source": "Passing a custom string processes only the CSS variables matching that prefix, so {0} will process {1} variables and nothing else.",
+  "text": "Wenn du eine benutzerdefinierte Zeichenkette übergibst, werden nur die CSS-Variablen verarbeitet, die zu diesem Präfix passen. {0} verarbeitet also {1}-Variablen und sonst nichts.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du eine benutzerdefinierte Zeichenkette übergibst, werden nur die CSS-Variablen verarbeitet, die zu diesem Präfix passen. {0} verarbeitet also {1}-Variablen und sonst nichts."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

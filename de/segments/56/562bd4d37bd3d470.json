@@ -1,0 +1,14 @@
+{
+  "hash": "562bd4d37bd3d470",
+  "source": "Vapor Mode support is experimental and requires Vue 3.6 or newer. The API may change.",
+  "text": "Die Unterstützung für den Vapor Mode ist experimentell und erfordert Vue 3.6 oder neuer. Die API kann sich ändern.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Unterstützung für den Vapor Mode ist experimentell und erfordert Vue 3.6 oder neuer. Die API kann sich ändern."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

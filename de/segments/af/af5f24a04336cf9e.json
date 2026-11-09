@@ -1,0 +1,14 @@
+{
+  "hash": "af5f24a04336cf9e",
+  "source": "Read more about the **CookieStore**.",
+  "text": "Mehr zum **CookieStore**.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mehr zum **CookieStore**."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

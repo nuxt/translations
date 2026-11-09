@@ -1,0 +1,14 @@
+{
+  "hash": "1b4bcea38eda19e0",
+  "source": "Plugins, Storage and Caching",
+  "text": "Plugins, Storage und Caching",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Plugins, Storage und Caching"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

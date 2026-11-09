@@ -1,0 +1,14 @@
+{
+  "hash": "cf8ed37122265454",
+  "source": "Creating a Builder",
+  "text": "Einen Builder erstellen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Einen Builder erstellen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

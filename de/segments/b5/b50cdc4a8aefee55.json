@@ -1,0 +1,14 @@
+{
+  "hash": "b50cdc4a8aefee55",
+  "source": "Learn how to inject plugins, components, composables and server routes from your module.",
+  "text": "Erfahre, wie du Plugins, Komponenten, Composables und Server-Routen aus deinem Modul einbindest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erfahre, wie du Plugins, Komponenten, Composables und Server-Routen aus deinem Modul einbindest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

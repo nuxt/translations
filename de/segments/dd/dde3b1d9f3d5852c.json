@@ -1,0 +1,14 @@
+{
+  "hash": "dde3b1d9f3d5852c",
+  "source": "This should be used together with utilities from Testing Library, e.g. {0} and {1}. Install {2}@testing-library/vue{/2} in your project to use these.",
+  "text": "Dies sollte zusammen mit Hilfsprogrammen aus der Testing Library verwendet werden, z. B. {0} und {1}. Installiere {2}@testing-library/vue{/2} in deinem Projekt, um sie zu nutzen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dies sollte zusammen mit Hilfsprogrammen aus der Testing Library verwendet werden, z. B. {0} und {1}. Installiere {2}@testing-library/vue{/2} in deinem Projekt, um sie zu nutzen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

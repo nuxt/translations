@@ -1,0 +1,14 @@
+{
+  "hash": "69f0ed30f8babfc1",
+  "source": "Common reasons",
+  "text": "Häufige Ursachen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Häufige Ursachen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

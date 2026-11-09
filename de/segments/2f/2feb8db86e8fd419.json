@@ -1,0 +1,14 @@
+{
+  "hash": "2feb8db86e8fd419",
+  "source": "Array of style objects. Each element is mapped to a {0} tag, where object properties correspond to HTML attributes.",
+  "text": "Array von Style-Objekten. Jedes Element wird einem {0}-Tag zugeordnet, wobei die Objekteigenschaften den HTML-Attributen entsprechen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Array von Style-Objekten. Jedes Element wird einem {0}-Tag zugeordnet, wobei die Objekteigenschaften den HTML-Attributen entsprechen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

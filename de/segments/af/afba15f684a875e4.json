@@ -1,0 +1,14 @@
+{
+  "hash": "afba15f684a875e4",
+  "source": "If a reverse proxy deliberately exposes the same rendered page at multiple public paths, Nuxt may replace the browser URL with the path used for server rendering during hydration. You can keep the browser URL by removing the rendered path from the payload in a server plugin:",
+  "text": "Wenn ein Reverse-Proxy dieselbe gerenderte Seite bewusst unter mehreren öffentlichen Pfaden bereitstellt, ersetzt Nuxt während der Hydration möglicherweise die URL im Browser durch den Pfad, der für das Server-Rendering verwendet wurde. Du kannst die URL im Browser beibehalten, indem du den gerenderten Pfad in einem Server-Plugin aus der Payload entfernst:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn ein Reverse-Proxy dieselbe gerenderte Seite bewusst unter mehreren öffentlichen Pfaden bereitstellt, ersetzt Nuxt während der Hydration möglicherweise die URL im Browser durch den Pfad, der für das Server-Rendering verwendet wurde. Du kannst die URL im Browser beibehalten, indem du den gerenderten Pfad in einem Server-Plugin aus der Payload entfernst:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

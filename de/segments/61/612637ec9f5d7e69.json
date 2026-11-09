@@ -1,0 +1,14 @@
+{
+  "hash": "612637ec9f5d7e69",
+  "source": "Directory to resolve packages from and to install into.",
+  "text": "Verzeichnis, aus dem Pakete aufgelöst und in das sie installiert werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verzeichnis, aus dem Pakete aufgelöst und in das sie installiert werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

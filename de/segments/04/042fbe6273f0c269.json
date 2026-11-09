@@ -1,0 +1,14 @@
+{
+  "hash": "042fbe6273f0c269",
+  "source": "For programmatic usage and type support, you can directly provide app config with this option. It will be merged with {0} file as default value.",
+  "text": "Für die programmatische Verwendung und Typunterstützung kannst du die App-Konfiguration direkt über diese Option angeben. Sie wird mit der Datei {0} als Standardwert zusammengeführt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Für die programmatische Verwendung und Typunterstützung kannst du die App-Konfiguration direkt über diese Option angeben. Sie wird mit der Datei {0} als Standardwert zusammengeführt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

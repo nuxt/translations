@@ -1,0 +1,14 @@
+{
+  "hash": "e4f96dbe2f0ff827",
+  "source": "Whether to fallback to the original path if the resolved path does not exist instead of returning the normalized input path.",
+  "text": "Gibt an, ob auf den ursprünglichen Pfad zurückgegriffen werden soll, wenn der aufgelöste Pfad nicht existiert, anstatt den normalisierten Eingabepfad zurückzugeben.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gibt an, ob auf den ursprünglichen Pfad zurückgegriffen werden soll, wenn der aufgelöste Pfad nicht existiert, anstatt den normalisierten Eingabepfad zurückzugeben."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

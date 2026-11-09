@@ -1,0 +1,14 @@
+{
+  "hash": "0a054c3a2d5aa44f",
+  "source": "Nuxt provides two globally available helpers that can be returned directly from the middleware.",
+  "text": "Nuxt stellt zwei global verfügbare Hilfsfunktionen bereit, die direkt aus der Middleware zurückgegeben werden können.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt stellt zwei global verfügbare Hilfsfunktionen bereit, die direkt aus der Middleware zurückgegeben werden können."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

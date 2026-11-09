@@ -1,0 +1,14 @@
+{
+  "hash": "bceeda1e2714c081",
+  "source": "{0} with {1} (or {2}/{3}) caches the package manager store, not {4}, so it does not cover fonts.",
+  "text": "{0} mit {1} (oder {2}/{3}) speichert den Store des Paketmanagers zwischen, nicht {4}, und deckt Schriftarten daher nicht ab.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} mit {1} (oder {2}/{3}) speichert den Store des Paketmanagers zwischen, nicht {4}, und deckt Schriftarten daher nicht ab."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

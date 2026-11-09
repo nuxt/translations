@@ -1,0 +1,14 @@
+{
+  "hash": "df7b3a6cbb3db61f",
+  "source": "Asserts that constraints are met for the current Nuxt version. If not, throws an error with the list of issues as string.",
+  "text": "Stellt sicher, dass die Einschränkungen für die aktuelle Nuxt-Version erfüllt sind. Ist das nicht der Fall, wird ein Fehler ausgelöst, der die Liste der Probleme als String enthält.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Stellt sicher, dass die Einschränkungen für die aktuelle Nuxt-Version erfüllt sind. Ist das nicht der Fall, wird ein Fehler ausgelöst, der die Liste der Probleme als String enthält."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

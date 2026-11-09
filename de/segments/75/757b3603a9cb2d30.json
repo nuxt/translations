@@ -1,0 +1,14 @@
+{
+  "hash": "757b3603a9cb2d30",
+  "source": "Share reusable configuration presets across projects using {0} and {1}",
+  "text": "Wiederverwendbare Konfigurationsvorlagen projektübergreifend mit {0} und {1} teilen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wiederverwendbare Konfigurationsvorlagen projektübergreifend mit {0} und {1} teilen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

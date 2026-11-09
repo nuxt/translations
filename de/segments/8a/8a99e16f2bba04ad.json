@@ -1,0 +1,14 @@
+{
+  "hash": "8a99e16f2bba04ad",
+  "source": "Le Chat Mistral",
+  "text": "Le Chat von Mistral",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le Chat von Mistral"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

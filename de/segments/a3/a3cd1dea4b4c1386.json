@@ -1,0 +1,14 @@
+{
+  "hash": "a3cd1dea4b4c1386",
+  "source": "{0}: add functions throughout your application that can be used in your components, composables, and pages.",
+  "text": "{0}: Funktionen hinzufügen, die in deiner gesamten Anwendung sowie in deinen Komponenten, Composables und Seiten verwendet werden können.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Funktionen hinzufügen, die in deiner gesamten Anwendung sowie in deinen Komponenten, Composables und Seiten verwendet werden können."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

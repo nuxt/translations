@@ -1,0 +1,14 @@
+{
+  "hash": "7eb0b0b3c624b183",
+  "source": "Registers a Nuxt plugin and adds it to the plugins array.",
+  "text": "Registriert ein Nuxt-Plugin und fügt es dem Plugin-Array hinzu.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Registriert ein Nuxt-Plugin und fügt es dem Plugin-Array hinzu."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

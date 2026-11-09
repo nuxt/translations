@@ -1,0 +1,14 @@
+{
+  "hash": "83c9541f5e171403",
+  "source": "These utilities are powered by {0}, which provides the underlying auto-import mechanism used in Nuxt.",
+  "text": "Diese Hilfsmittel basieren auf {0}, das den zugrunde liegenden Mechanismus für automatische Importe in Nuxt bereitstellt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese Hilfsmittel basieren auf {0}, das den zugrunde liegenden Mechanismus für automatische Importe in Nuxt bereitstellt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

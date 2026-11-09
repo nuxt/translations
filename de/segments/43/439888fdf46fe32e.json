@@ -1,0 +1,14 @@
+{
+  "hash": "439888fdf46fe32e",
+  "source": "Remove any explicit core-js dependencies.",
+  "text": "Entferne alle expliziten core-js-Abhängigkeiten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Entferne alle expliziten core-js-Abhängigkeiten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

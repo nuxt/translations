@@ -1,0 +1,14 @@
+{
+  "hash": "4dc4575ca4485f6f",
+  "source": "👈 run code *before* creating the {0} instance",
+  "text": "👈 Code ausführen, *bevor* die {0}-Instanz erstellt wird",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "👈 Code ausführen, *bevor* die {0}-Instanz erstellt wird"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

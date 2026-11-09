@@ -1,0 +1,14 @@
+{
+  "hash": "5446503d6edbe64a",
+  "source": "Barrier that gates whether the {0} may run. While {1}, every execution is blocked (initial fetch, {2}/{3}, and watch triggers), and switching {4} → {5} cancels any in-flight request without clearing {6}. Re-enabling does not refetch on its own.",
+  "text": "Sperre, die steuert, ob {0} ausgeführt werden darf. Solange {1} gilt, wird jede Ausführung blockiert (erster Abruf, {2}/{3} und Watch-Auslöser). Wechselt {4} zu {5}, wird jede laufende Anfrage abgebrochen, ohne {6} zu leeren. Beim erneuten Aktivieren wird nicht automatisch neu abgerufen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sperre, die steuert, ob {0} ausgeführt werden darf. Solange {1} gilt, wird jede Ausführung blockiert (erster Abruf, {2}/{3} und Watch-Auslöser). Wechselt {4} zu {5}, wird jede laufende Anfrage abgebrochen, ohne {6} zu leeren. Beim erneuten Aktivieren wird nicht automatisch neu abgerufen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "0e8ef905721e21d5",
+  "source": "Instead, you should use a key that uniquely identifies the data fetched.",
+  "text": "Verwende stattdessen einen Schlüssel, der die abgerufenen Daten eindeutig identifiziert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwende stattdessen einen Schlüssel, der die abgerufenen Daten eindeutig identifiziert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

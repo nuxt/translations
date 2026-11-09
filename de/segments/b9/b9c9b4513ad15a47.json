@@ -1,0 +1,14 @@
+{
+  "hash": "b9c9b4513ad15a47",
+  "source": "Define a Nuxt module, automatically merging defaults with user provided options, installing any hooks that are provided, and calling an optional setup function for full control.",
+  "text": "Definiert ein Nuxt-Modul. Dabei werden die Standardwerte automatisch mit den von Nutzenden angegebenen Optionen zusammengeführt, alle bereitgestellten hooks installiert und eine optionale Setup-Funktion für die volle Kontrolle aufgerufen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Definiert ein Nuxt-Modul. Dabei werden die Standardwerte automatisch mit den von Nutzenden angegebenen Optionen zusammengeführt, alle bereitgestellten hooks installiert und eine optionale Setup-Funktion für die volle Kontrolle aufgerufen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

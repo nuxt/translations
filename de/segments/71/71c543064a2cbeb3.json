@@ -1,0 +1,14 @@
+{
+  "hash": "71c543064a2cbeb3",
+  "source": "This is a result of enabling {0} by default, and is a performance optimization.",
+  "text": "Das ist eine Folge davon, dass {0} jetzt standardmäßig aktiviert ist, und dient der Performance-Optimierung.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das ist eine Folge davon, dass {0} jetzt standardmäßig aktiviert ist, und dient der Performance-Optimierung."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

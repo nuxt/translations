@@ -1,0 +1,14 @@
+{
+  "hash": "c7bdd0cefa61cde1",
+  "source": "**{0}**: Nuxt instance to build. It can be retrieved from the context via {1} call.",
+  "text": "**{0}**: Die zu erzeugende Nuxt-Instanz. Du kannst sie über den Aufruf von {1} aus dem Kontext abrufen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}**: Die zu erzeugende Nuxt-Instanz. Du kannst sie über den Aufruf von {1} aus dem Kontext abrufen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

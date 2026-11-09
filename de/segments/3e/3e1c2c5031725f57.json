@@ -1,0 +1,14 @@
+{
+  "hash": "3e1c2c5031725f57",
+  "source": "an environment variable cannot be converted to the type of the value it replaces (for example {0} for a {1} {2})",
+  "text": "sich eine Umgebungsvariable nicht in den Typ des Werts umwandeln lässt, den sie ersetzt (z. B. {0} für ein {1} {2})",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "sich eine Umgebungsvariable nicht in den Typ des Werts umwandeln lässt, den sie ersetzt (z. B. {0} für ein {1} {2})"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

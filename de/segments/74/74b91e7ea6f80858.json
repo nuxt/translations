@@ -1,0 +1,14 @@
+{
+  "hash": "74b91e7ea6f80858",
+  "source": "It is highly recommended to read {0}the Nuxt contribution guide{/0} before making any contributions.",
+  "text": "Es wird dringend empfohlen, {0}die Nuxt-Anleitung zum Mitwirken{/0} zu lesen, bevor du Beiträge leistest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Es wird dringend empfohlen, {0}die Nuxt-Anleitung zum Mitwirken{/0} zu lesen, bevor du Beiträge leistest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

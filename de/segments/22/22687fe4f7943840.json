@@ -1,0 +1,14 @@
+{
+  "hash": "22687fe4f7943840",
+  "source": "**Component islands are compatible with streaming.** Island slot content and selective-client ({0}) components are normally stitched into the HTML in a post-render pass, which is impossible once the body has streamed past the island anchors. Instead, the renderer emits each island teleport as an inert {1} at the end of the document and relocates it into place with an inline script that runs before hydration. This is transparent to app code. The exception is apps built with {2} and island components, which fall back to the buffered renderer since the relocation script cannot run.",
+  "text": "**Komponenten-Islands sind mit Streaming kompatibel.** Island-Slot-Inhalte und selektive Client-Komponenten ({0}) werden normalerweise in einem Durchlauf nach dem Rendering in das HTML eingefügt. Das ist unmöglich, sobald der Body an den Island-Ankern vorbeigestreamt wurde. Stattdessen gibt der Renderer jeden Island-Teleport am Ende des Dokuments als inaktives {1} aus und verschiebt ihn mit einem Inline-Skript, das vor der Hydration läuft, an die richtige Stelle. Für den App-Code ist das transparent. Die Ausnahme sind Apps, die mit {2} und Island-Komponenten erzeugt wurden: Sie greifen auf den gepufferten Renderer zurück, da das Verschiebungsskript nicht ausgeführt werden kann.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Komponenten-Islands sind mit Streaming kompatibel.** Island-Slot-Inhalte und selektive Client-Komponenten ({0}) werden normalerweise in einem Durchlauf nach dem Rendering in das HTML eingefügt. Das ist unmöglich, sobald der Body an den Island-Ankern vorbeigestreamt wurde. Stattdessen gibt der Renderer jeden Island-Teleport am Ende des Dokuments als inaktives {1} aus und verschiebt ihn mit einem Inline-Skript, das vor der Hydration läuft, an die richtige Stelle. Für den App-Code ist das transparent. Die Ausnahme sind Apps, die mit {2} und Island-Komponenten erzeugt wurden: Sie greifen auf den gepufferten Renderer zurück, da das Verschiebungsskript nicht ausgeführt werden kann."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

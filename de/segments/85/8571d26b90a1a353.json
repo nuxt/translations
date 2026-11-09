@@ -1,0 +1,14 @@
+{
+  "hash": "8571d26b90a1a353",
+  "source": "Assigning a schema to {0} directly throws an error.",
+  "text": "Wenn du {0} direkt ein Schema zuweist, wird ein Fehler ausgelöst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du {0} direkt ein Schema zuweist, wird ein Fehler ausgelöst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

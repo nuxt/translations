@@ -1,0 +1,14 @@
+{
+  "hash": "c4548dc76717d58d",
+  "source": "**Repository administrator access required** to configure MCP servers for GitHub Copilot coding agent.",
+  "text": "**Administratorzugriff auf das Repository erforderlich**, um MCP-Server für den GitHub Copilot Coding Agent zu konfigurieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Administratorzugriff auf das Repository erforderlich**, um MCP-Server für den GitHub Copilot Coding Agent zu konfigurieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

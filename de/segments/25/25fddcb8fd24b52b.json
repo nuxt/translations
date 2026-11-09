@@ -1,0 +1,14 @@
+{
+  "hash": "25fddcb8fd24b52b",
+  "source": "Create a simple unit test for this newly created component {0}",
+  "text": "Erstelle einen einfachen Unit-Test für die neu erstellte Komponente {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erstelle einen einfachen Unit-Test für die neu erstellte Komponente {0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

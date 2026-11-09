@@ -1,0 +1,14 @@
+{
+  "hash": "545eddfcbe369a6f",
+  "source": "Prefetching component downloads the code in the background, this is based on the assumption that the component will likely be used for rendering, enabling the component to load instantly if and when the user requests it. The component is downloaded and cached for anticipated future use without the user making an explicit request for it.",
+  "text": "Beim Prefetching einer Komponente wird ihr Code im Hintergrund heruntergeladen. Dahinter steht die Annahme, dass die Komponente wahrscheinlich für das Rendering benötigt wird, sodass sie sofort geladen werden kann, sobald Nutzende sie anfordern. Die Komponente wird für die erwartete spätere Verwendung heruntergeladen und zwischengespeichert, ohne dass Nutzende sie ausdrücklich angefordert haben.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Beim Prefetching einer Komponente wird ihr Code im Hintergrund heruntergeladen. Dahinter steht die Annahme, dass die Komponente wahrscheinlich für das Rendering benötigt wird, sodass sie sofort geladen werden kann, sobald Nutzende sie anfordern. Die Komponente wird für die erwartete spätere Verwendung heruntergeladen und zwischengespeichert, ohne dass Nutzende sie ausdrücklich angefordert haben."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

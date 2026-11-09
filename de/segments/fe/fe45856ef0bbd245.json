@@ -1,0 +1,14 @@
+{
+  "hash": "fe45856ef0bbd245",
+  "source": "The auto-registered files patterns are:",
+  "text": "Die Dateimuster für die automatische Registrierung lauten:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Dateimuster für die automatische Registrierung lauten:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

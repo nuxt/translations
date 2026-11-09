@@ -1,0 +1,14 @@
+{
+  "hash": "9c812a0529c2a763",
+  "source": "This component will never be hydrated by Vue.",
+  "text": "Diese Komponente wird von Vue nie hydratisiert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese Komponente wird von Vue nie hydratisiert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

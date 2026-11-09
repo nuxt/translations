@@ -1,0 +1,14 @@
+{
+  "hash": "d7a03cc47c372732",
+  "source": "update your {0} file",
+  "text": "Deine {0}-Datei wird aktualisiert",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Deine {0}-Datei wird aktualisiert"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

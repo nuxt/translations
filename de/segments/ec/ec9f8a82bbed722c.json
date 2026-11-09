@@ -1,0 +1,14 @@
+{
+  "hash": "ec9f8a82bbed722c",
+  "source": "refreshes the data every 30 seconds",
+  "text": "aktualisiert die Daten alle 30 Sekunden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "aktualisiert die Daten alle 30 Sekunden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

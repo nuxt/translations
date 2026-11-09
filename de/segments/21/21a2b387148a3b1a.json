@@ -1,0 +1,14 @@
+{
+  "hash": "21a2b387148a3b1a",
+  "source": "Nuxt modules should provide an explicit prefix for any exposed configuration, plugin, API, composable, component, or server route to avoid conflicts with other modules, Nuxt internals, or user-defined code.",
+  "text": "Nuxt-Module sollten für jede bereitgestellte Konfiguration, jedes Plugin, jede API, jedes Composable, jede Komponente und jede Server-Route ein eindeutiges Präfix verwenden, um Konflikte mit anderen Modulen, Nuxt-Interna oder selbst definiertem Code zu vermeiden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt-Module sollten für jede bereitgestellte Konfiguration, jedes Plugin, jede API, jedes Composable, jede Komponente und jede Server-Route ein eindeutiges Präfix verwenden, um Konflikte mit anderen Modulen, Nuxt-Interna oder selbst definiertem Code zu vermeiden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

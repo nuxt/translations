@@ -1,0 +1,14 @@
+{
+  "hash": "1aa5f35b9a4f9e61",
+  "source": "Plugins in {0} still run in the {1} environment, but after Vite's own resolution and core transforms. A plugin that has to resolve or transform a module before Vite does needs to be a Vite plugin with {2}.",
+  "text": "Plugins in {0} laufen weiterhin in der Umgebung {1}, aber erst nach der Auflösung und den Kern-Transformationen von Vite. Ein Plugin, das ein Modul vor Vite auflösen oder transformieren muss, muss ein Vite-Plugin mit {2} sein.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Plugins in {0} laufen weiterhin in der Umgebung {1}, aber erst nach der Auflösung und den Kern-Transformationen von Vite. Ein Plugin, das ein Modul vor Vite auflösen oder transformieren muss, muss ein Vite-Plugin mit {2} sein."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

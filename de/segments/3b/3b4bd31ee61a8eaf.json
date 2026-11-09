@@ -1,0 +1,14 @@
+{
+  "hash": "3b4bd31ee61a8eaf",
+  "source": "For axes other than weight, such as {0} or {1}, use {2}.",
+  "text": "Verwende für andere Achsen als die Schriftstärke, etwa {0} oder {1}, {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwende für andere Achsen als die Schriftstärke, etwa {0} oder {1}, {2}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "aeecad2e618a428a",
+  "source": "Remove any unused babel dependencies from your project.",
+  "text": "Entferne alle nicht verwendeten Babel-Abhängigkeiten aus deinem Projekt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Entferne alle nicht verwendeten Babel-Abhängigkeiten aus deinem Projekt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

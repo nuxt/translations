@@ -1,0 +1,14 @@
+{
+  "hash": "6edbefc0423d7701",
+  "source": "Add {0} to the parent page component so the child route can render inside it. If you did not intend to create a nested route, restructure your {1} directory so the page no longer has child routes.",
+  "text": "Füge {0} zur übergeordneten Seitenkomponente hinzu, damit die untergeordnete Route darin gerendert werden kann. Falls du keine verschachtelte Route erstellen wolltest, strukturiere dein {1}-Verzeichnis so um, dass die Seite keine untergeordneten Routen mehr hat.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Füge {0} zur übergeordneten Seitenkomponente hinzu, damit die untergeordnete Route darin gerendert werden kann. Falls du keine verschachtelte Route erstellen wolltest, strukturiere dein {1}-Verzeichnis so um, dass die Seite keine untergeordneten Routen mehr hat."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

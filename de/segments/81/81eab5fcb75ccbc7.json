@@ -1,0 +1,14 @@
+{
+  "hash": "81eab5fcb75ccbc7",
+  "source": "The Client Navigation Round Trip",
+  "text": "Der Round Trip bei der Client-Navigation",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Round Trip bei der Client-Navigation"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

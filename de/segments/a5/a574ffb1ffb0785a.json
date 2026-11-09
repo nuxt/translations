@@ -1,0 +1,14 @@
+{
+  "hash": "a574ffb1ffb0785a",
+  "source": "When adding {0} to {1}, if TypeScript does not automatically recognize the types for {2}, you can add {3} via {4} in your {5}.",
+  "text": "Wenn du {0} zu {1} hinzufügst und TypeScript die Typen für {2} nicht automatisch erkennt, kannst du {3} über {4} in deiner {5} hinzufügen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du {0} zu {1} hinzufügst und TypeScript die Typen für {2} nicht automatisch erkennt, kannst du {3} über {4} in deiner {5} hinzufügen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

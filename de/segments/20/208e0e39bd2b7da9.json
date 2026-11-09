@@ -1,0 +1,14 @@
+{
+  "hash": "208e0e39bd2b7da9",
+  "source": "In API Routes",
+  "text": "In API-Routen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In API-Routen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

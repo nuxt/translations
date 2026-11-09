@@ -1,0 +1,14 @@
+{
+  "hash": "1afb249894846bf3",
+  "source": "**Migrate from Nuxt 2 to Nuxt Bridge**",
+  "text": "**Von Nuxt 2 zu Nuxt Bridge migrieren**",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Von Nuxt 2 zu Nuxt Bridge migrieren**"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

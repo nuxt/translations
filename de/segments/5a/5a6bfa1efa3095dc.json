@@ -1,0 +1,14 @@
+{
+  "hash": "5a6bfa1efa3095dc",
+  "source": "to its contents immediately, but you can watch it.",
+  "text": "auf den Inhalt, kannst ihn aber mit watch beobachten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "auf den Inhalt, kannst ihn aber mit watch beobachten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

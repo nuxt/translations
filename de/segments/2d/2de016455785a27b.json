@@ -1,0 +1,14 @@
+{
+  "hash": "2de016455785a27b",
+  "source": "Make your {0} abortable",
+  "text": "{0} abbrechbar machen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} abbrechbar machen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "2a4ca8c7410cc802",
+  "source": "A composable which observes the page title changes and updates the announcer message accordingly. Used by {0} and controllable. It hooks into Unhead's {1} hook to read the page's title and set it as the announcer message.",
+  "text": "Ein Composable, das Änderungen des Seitentitels beobachtet und die Ansage-Nachricht entsprechend aktualisiert. Es wird von {0} verwendet und ist steuerbar. Es hängt sich in den {1}-Hook von Unhead ein, um den Titel der Seite auszulesen und als Ansage-Nachricht zu setzen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein Composable, das Änderungen des Seitentitels beobachtet und die Ansage-Nachricht entsprechend aktualisiert. Es wird von {0} verwendet und ist steuerbar. Es hängt sich in den {1}-Hook von Unhead ein, um den Titel der Seite auszulesen und als Ansage-Nachricht zu setzen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

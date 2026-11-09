@@ -1,0 +1,14 @@
+{
+  "hash": "0b517f2623310f7d",
+  "source": "{0} was removed from {1}. Use {2}, or the equivalent for your package manager.",
+  "text": "{0} wurde aus {1} entfernt. Verwende {2} oder das Äquivalent für deinen Paketmanager.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} wurde aus {1} entfernt. Verwende {2} oder das Äquivalent für deinen Paketmanager."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

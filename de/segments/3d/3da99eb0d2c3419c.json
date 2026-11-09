@@ -1,0 +1,14 @@
+{
+  "hash": "3da99eb0d2c3419c",
+  "source": "Pass {0} or set {1} to stream logs instead. You can also force the UI *on* by passing {2} (though this doesn't do anything if the output is piped or redirected).",
+  "text": "Übergib {0} oder setze {1}, um stattdessen Protokolle als Stream auszugeben. Du kannst die Benutzeroberfläche auch erzwungen *aktivieren*, indem du {2} übergibst (das bewirkt jedoch nichts, wenn die Ausgabe weitergeleitet oder umgeleitet wird).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Übergib {0} oder setze {1}, um stattdessen Protokolle als Stream auszugeben. Du kannst die Benutzeroberfläche auch erzwungen *aktivieren*, indem du {2} übergibst (das bewirkt jedoch nichts, wenn die Ausgabe weitergeleitet oder umgeleitet wird)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

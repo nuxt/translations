@@ -1,0 +1,14 @@
+{
+  "hash": "ffbbe75163ab26e1",
+  "source": "If you do use {0}, you should also place an HTML file in {1} with some HTML you would like to use to render a loading screen that will be rendered until your app is hydrated.",
+  "text": "Wenn du {0} verwendest, solltest du außerdem eine HTML-Datei in {1} ablegen, die das HTML für einen Ladebildschirm enthält. Dieser wird angezeigt, bis deine App hydratisiert ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du {0} verwendest, solltest du außerdem eine HTML-Datei in {1} ablegen, die das HTML für einen Ladebildschirm enthält. Dieser wird angezeigt, bis deine App hydratisiert ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

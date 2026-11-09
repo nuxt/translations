@@ -1,0 +1,14 @@
+{
+  "hash": "4f14282970c5c849",
+  "source": "The example below reads the {0} request header to find out if a person can access a restricted resource.",
+  "text": "Das folgende Beispiel liest den Anfrage-Header {0}, um herauszufinden, ob eine Person auf eine geschützte Ressource zugreifen darf.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das folgende Beispiel liest den Anfrage-Header {0}, um herauszufinden, ob eine Person auf eine geschützte Ressource zugreifen darf."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

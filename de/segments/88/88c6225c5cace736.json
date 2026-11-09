@@ -1,0 +1,14 @@
+{
+  "hash": "88c6225c5cace736",
+  "source": "Nuxt provides the <NuxtIsland> component to render a non-interactive component without any client JS.",
+  "text": "Nuxt stellt die Komponente <NuxtIsland> bereit, um eine nicht interaktive Komponente ohne clientseitiges JS zu rendern.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt stellt die Komponente <NuxtIsland> bereit, um eine nicht interaktive Komponente ohne clientseitiges JS zu rendern."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

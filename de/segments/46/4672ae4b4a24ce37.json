@@ -1,0 +1,14 @@
+{
+  "hash": "4672ae4b4a24ce37",
+  "source": "Documentation Style Guide",
+  "text": "Style-Anleitung für die Dokumentation",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Style-Anleitung für die Dokumentation"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

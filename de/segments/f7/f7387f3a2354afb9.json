@@ -1,0 +1,14 @@
+{
+  "hash": "f7387f3a2354afb9",
+  "source": "Add Plugins, Components & More",
+  "text": "Plugins, Komponenten und mehr hinzufügen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Plugins, Komponenten und mehr hinzufügen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

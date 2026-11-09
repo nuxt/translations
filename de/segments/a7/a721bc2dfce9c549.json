@@ -1,0 +1,14 @@
+{
+  "hash": "a721bc2dfce9c549",
+  "source": "You can access runtime config within the server routes as well using {0}.",
+  "text": "Mit {0} kannst du die Laufzeitkonfiguration auch in Server-Routen verwenden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit {0} kannst du die Laufzeitkonfiguration auch in Server-Routen verwenden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "57be45ce3caf0ec1",
+  "source": "Start your Nuxt app, a {0} file will be generated under your project root. You can customize it as needed.",
+  "text": "Starte deine Nuxt-App, dann wird in deinem Projektstammverzeichnis eine {0}-Datei erzeugt. Du kannst sie nach Bedarf anpassen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Starte deine Nuxt-App, dann wird in deinem Projektstammverzeichnis eine {0}-Datei erzeugt. Du kannst sie nach Bedarf anpassen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

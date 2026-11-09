@@ -1,0 +1,14 @@
+{
+  "hash": "94a4365371dc13e6",
+  "source": "Injected {0} rules are minified with lightningcss",
+  "text": "Eingefügte {0}-Regeln werden mit lightningcss minifiziert",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eingefügte {0}-Regeln werden mit lightningcss minifiziert"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

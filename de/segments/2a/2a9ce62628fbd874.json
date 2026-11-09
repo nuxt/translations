@@ -1,0 +1,14 @@
+{
+  "hash": "2a9ce62628fbd874",
+  "source": "install the package as a dependency using your package manager, unless you pass {0}",
+  "text": "das Paket mit deinem Paketmanager als Abhängigkeit installieren, es sei denn, du übergibst {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "das Paket mit deinem Paketmanager als Abhängigkeit installieren, es sei denn, du übergibst {0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

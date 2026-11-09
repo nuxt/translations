@@ -1,0 +1,14 @@
+{
+  "hash": "d046ab7a06f1237d",
+  "source": "- Perform initial data migration",
+  "text": "- Erste Datenmigration durchführen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "- Erste Datenmigration durchführen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

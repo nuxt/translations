@@ -1,0 +1,14 @@
+{
+  "hash": "9ac7ec5f8374b749",
+  "source": "Watch a video from Alexander Lichter showing how to opt in to Nuxt 4's breaking changes already",
+  "text": "Sieh dir ein Video von Alexander Lichter an, das zeigt, wie du dich schon jetzt für die inkompatiblen Änderungen von Nuxt 4 entscheiden kannst",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sieh dir ein Video von Alexander Lichter an, das zeigt, wie du dich schon jetzt für die inkompatiblen Änderungen von Nuxt 4 entscheiden kannst"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "08ada6d34c4121e8",
+  "source": "the element(s) is hovered over by the pointer.",
+  "text": "der Mauszeiger über das Element bzw. die Elemente bewegt wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "der Mauszeiger über das Element bzw. die Elemente bewegt wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

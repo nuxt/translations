@@ -1,0 +1,14 @@
+{
+  "hash": "b58bf4ef74306c30",
+  "source": "Filters to hide build warnings.",
+  "text": "Filter, um Warnungen beim Erzeugen auszublenden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Filter, um Warnungen beim Erzeugen auszublenden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

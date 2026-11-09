@@ -1,0 +1,14 @@
+{
+  "hash": "d23019e559c9d52d",
+  "source": "Function to manually refresh the data.",
+  "text": "Funktion, um die Daten manuell zu aktualisieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Funktion, um die Daten manuell zu aktualisieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

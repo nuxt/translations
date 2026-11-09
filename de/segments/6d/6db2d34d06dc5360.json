@@ -1,0 +1,14 @@
+{
+  "hash": "6db2d34d06dc5360",
+  "source": "{0} calls in scripts and {1} calls in JSX/TSX are resolved by a separate build transform.",
+  "text": "{0}-Aufrufe in Skripten und {1}-Aufrufe in JSX/TSX werden durch eine separate Build-Transformation aufgelöst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}-Aufrufe in Skripten und {1}-Aufrufe in JSX/TSX werden durch eine separate Build-Transformation aufgelöst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

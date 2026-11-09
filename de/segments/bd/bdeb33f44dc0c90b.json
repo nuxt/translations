@@ -1,0 +1,14 @@
+{
+  "hash": "bdeb33f44dc0c90b",
+  "source": "When Nuxt renders an error page it fetches {0} internally, passing the error along with the request. That used to spread the error across one query parameter per field, and because query values are always strings, {1} arrived as a string and had to be parsed back. {2} existed to opt out of that parsing.",
+  "text": "Wenn Nuxt eine Fehlerseite rendert, ruft es intern {0} auf und übergibt den Fehler zusammen mit der Anfrage. Früher wurde der Fehler dabei auf je einen Query-Parameter pro Feld verteilt. Da Query-Werte immer Strings sind, kam {1} als String an und musste zurückgeparst werden. {2} gab es, um dieses Parsen abzuschalten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn Nuxt eine Fehlerseite rendert, ruft es intern {0} auf und übergibt den Fehler zusammen mit der Anfrage. Früher wurde der Fehler dabei auf je einen Query-Parameter pro Feld verteilt. Da Query-Werte immer Strings sind, kam {1} als String an und musste zurückgeparst werden. {2} gab es, um dieses Parsen abzuschalten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

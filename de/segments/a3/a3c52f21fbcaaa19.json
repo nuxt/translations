@@ -1,0 +1,14 @@
+{
+  "hash": "a3c52f21fbcaaa19",
+  "source": "Early Return From {0}",
+  "text": "Frühe Rückgabe aus {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Frühe Rückgabe aus {0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

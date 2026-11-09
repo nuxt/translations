@@ -1,0 +1,14 @@
+{
+  "hash": "cdf76f6edfec589e",
+  "source": "Discover Nuxt composable functions for data-fetching, head management and more.",
+  "text": "Entdecke die Composables von Nuxt für Datenabruf, Head-Verwaltung und mehr.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Entdecke die Composables von Nuxt für Datenabruf, Head-Verwaltung und mehr."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

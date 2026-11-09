@@ -1,0 +1,14 @@
+{
+  "hash": "718a35709951635b",
+  "source": "Using an alternative serializer",
+  "text": "Einen alternativen Serialisierer verwenden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Einen alternativen Serialisierer verwenden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

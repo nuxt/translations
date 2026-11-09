@@ -1,0 +1,14 @@
+{
+  "hash": "32273cea9b520b30",
+  "source": "Nuxt automatically adds a {0} section to track module installation and upgrade state. This is used internally for {1}module lifecycle hooks{/1} and should not be modified manually.",
+  "text": "Nuxt fügt automatisch einen Abschnitt {0} hinzu, um den Installations- und Upgrade-Status von Modulen zu verfolgen. Er wird intern für {1}Lifecycle-Hooks von Modulen{/1} verwendet und sollte nicht manuell geändert werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt fügt automatisch einen Abschnitt {0} hinzu, um den Installations- und Upgrade-Status von Modulen zu verfolgen. Er wird intern für {1}Lifecycle-Hooks von Modulen{/1} verwendet und sollte nicht manuell geändert werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

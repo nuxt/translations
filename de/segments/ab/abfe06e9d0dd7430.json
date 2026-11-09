@@ -1,0 +1,14 @@
+{
+  "hash": "abfe06e9d0dd7430",
+  "source": "For a handler that needs h3 or Nitro helpers that {0} does not provide, such as {1}, {2}, {3} or {4}, keep importing {5} and those helpers from {6} (or {7}) for that handler. Code that does this is tied to the server runtime and needs revisiting on Nuxt 5.",
+  "text": "Für einen Handler, der h3- oder Nitro-Hilfsfunktionen benötigt, die {0} nicht bereitstellt, etwa {1}, {2}, {3} oder {4}, importierst du für diesen Handler weiterhin {5} und diese Hilfsfunktionen aus {6} (oder {7}). Code, der das tut, ist an die Server-Runtime gebunden und muss in Nuxt 5 erneut überprüft werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Für einen Handler, der h3- oder Nitro-Hilfsfunktionen benötigt, die {0} nicht bereitstellt, etwa {1}, {2}, {3} oder {4}, importierst du für diesen Handler weiterhin {5} und diese Hilfsfunktionen aus {6} (oder {7}). Code, der das tut, ist an die Server-Runtime gebunden und muss in Nuxt 5 erneut überprüft werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

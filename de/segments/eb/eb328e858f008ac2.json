@@ -1,0 +1,14 @@
+{
+  "hash": "eb328e858f008ac2",
+  "source": "Path to PKCS#12 (.p12/.pfx) keystore",
+  "text": "Pfad zum PKCS#12-Schlüsselspeicher (.p12/.pfx)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pfad zum PKCS#12-Schlüsselspeicher (.p12/.pfx)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

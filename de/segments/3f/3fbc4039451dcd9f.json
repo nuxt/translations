@@ -1,0 +1,14 @@
+{
+  "hash": "3fbc4039451dcd9f",
+  "source": "Server-side {0} redirects from plugins, middleware, or page setup",
+  "text": "Serverseitige {0}-Weiterleitungen aus plugins, middleware oder dem Seiten-Setup",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Serverseitige {0}-Weiterleitungen aus plugins, middleware oder dem Seiten-Setup"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

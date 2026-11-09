@@ -1,0 +1,14 @@
+{
+  "hash": "c36e84af849dbde7",
+  "source": "Using events is a great way to decouple your application and allow for more flexible and modular communication between different parts of your code. Events can have multiple listeners that do not depend on each other. For example, you may wish to send an email to your user each time an order has shipped. Instead of coupling your order processing code to your email code, you can emit an event which a listener can receive and use to dispatch an email.",
+  "text": "Events sind eine gute Möglichkeit, deine Anwendung zu entkoppeln und eine flexiblere, modularere Kommunikation zwischen verschiedenen Teilen deines Codes zu ermöglichen. Events können mehrere Listener haben, die nicht voneinander abhängen. Zum Beispiel möchtest du vielleicht jedes Mal, wenn eine Bestellung versandt wurde, eine E-Mail an deine Nutzenden schicken. Anstatt deinen Code zur Bestellverarbeitung mit dem E-Mail-Code zu koppeln, kannst du ein Event auslösen, das ein Listener empfängt und zum Versand einer E-Mail verwendet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Events sind eine gute Möglichkeit, deine Anwendung zu entkoppeln und eine flexiblere, modularere Kommunikation zwischen verschiedenen Teilen deines Codes zu ermöglichen. Events können mehrere Listener haben, die nicht voneinander abhängen. Zum Beispiel möchtest du vielleicht jedes Mal, wenn eine Bestellung versandt wurde, eine E-Mail an deine Nutzenden schicken. Anstatt deinen Code zur Bestellverarbeitung mit dem E-Mail-Code zu koppeln, kannst du ein Event auslösen, das ein Listener empfängt und zum Versand einer E-Mail verwendet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

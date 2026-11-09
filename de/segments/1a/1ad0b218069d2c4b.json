@@ -1,0 +1,14 @@
+{
+  "hash": "1ad0b218069d2c4b",
+  "source": "The upgrade command upgrades Nuxt to the latest version.",
+  "text": "Der Befehl upgrade führt ein Upgrade von Nuxt auf die neueste Version durch.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Befehl upgrade führt ein Upgrade von Nuxt auf die neueste Version durch."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

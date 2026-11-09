@@ -1,0 +1,14 @@
+{
+  "hash": "45e0bf6be56727d7",
+  "source": "If you prefer to keep tests next to your source files, you can use file suffixes such as {0}, {1} and {2} instead, with matching {3} globs (for example, {4}). See the {5}co-location example{/5} for a full configuration.",
+  "text": "Wenn du Tests lieber neben deinen Quelldateien ablegst, kannst du stattdessen Dateisuffixe wie {0}, {1} und {2} mit passenden {3}-Globs verwenden (zum Beispiel {4}). Eine vollständige Konfiguration findest du im {5}Beispiel zur gemeinsamen Ablage{/5}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du Tests lieber neben deinen Quelldateien ablegst, kannst du stattdessen Dateisuffixe wie {0}, {1} und {2} mit passenden {3}-Globs verwenden (zum Beispiel {4}). Eine vollständige Konfiguration findest du im {5}Beispiel zur gemeinsamen Ablage{/5}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

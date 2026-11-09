@@ -1,0 +1,14 @@
+{
+  "hash": "55085b28dd323d46",
+  "source": "On a large app the prefetched set can grow past what a page actually needs. A public page and the signed-in app often share an entry chunk, so a prerendered public page can prefetch chunks that only the signed-in app uses, spending bandwidth on chunks the visitor never loads.",
+  "text": "Bei einer großen App kann die Menge der vorab geladenen Chunks über das hinauswachsen, was eine Seite tatsächlich benötigt. Eine öffentliche Seite und die App für angemeldete Nutzende teilen sich oft einen Entry-Chunk, sodass eine vorab gerenderte öffentliche Seite Chunks vorab laden kann, die nur die App für angemeldete Nutzende verwendet. Dadurch wird Bandbreite für Chunks verbraucht, die Besuchende nie laden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bei einer großen App kann die Menge der vorab geladenen Chunks über das hinauswachsen, was eine Seite tatsächlich benötigt. Eine öffentliche Seite und die App für angemeldete Nutzende teilen sich oft einen Entry-Chunk, sodass eine vorab gerenderte öffentliche Seite Chunks vorab laden kann, die nur die App für angemeldete Nutzende verwendet. Dadurch wird Bandbreite für Chunks verbraucht, die Besuchende nie laden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

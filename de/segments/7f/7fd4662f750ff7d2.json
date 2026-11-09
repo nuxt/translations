@@ -1,0 +1,14 @@
+{
+  "hash": "7fd4662f750ff7d2",
+  "source": "Inside this compatibility layer, {0} resolves to an h3 v1 helper surface built on h3 v2, the {1} specifiers resolve to their Nitro v3 equivalents, {2} keeps its per-request behavior, and we inject the {3}, {4} and {5} shapes that v1 code might read.",
+  "text": "Innerhalb dieser Kompatibilitätsschicht wird {0} zu einer h3-v1-Hilfsschnittstelle aufgelöst, die auf h3 v2 aufbaut. Die {1}-Specifier werden zu ihren Nitro-v3-Entsprechungen aufgelöst, {2} behält sein Verhalten pro Anfrage bei, und wir injizieren die Strukturen {3}, {4} und {5}, die v1-Code möglicherweise liest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Innerhalb dieser Kompatibilitätsschicht wird {0} zu einer h3-v1-Hilfsschnittstelle aufgelöst, die auf h3 v2 aufbaut. Die {1}-Specifier werden zu ihren Nitro-v3-Entsprechungen aufgelöst, {2} behält sein Verhalten pro Anfrage bei, und wir injizieren die Strukturen {3}, {4} und {5}, die v1-Code möglicherweise liest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

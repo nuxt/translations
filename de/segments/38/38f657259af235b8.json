@@ -1,0 +1,14 @@
+{
+  "hash": "38f657259af235b8",
+  "source": "PostCSS Plugins Are No Longer Installed by Default",
+  "text": "PostCSS-Plugins werden nicht mehr standardmäßig installiert",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "PostCSS-Plugins werden nicht mehr standardmäßig installiert"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

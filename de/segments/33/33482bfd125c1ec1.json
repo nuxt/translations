@@ -1,0 +1,14 @@
+{
+  "hash": "33482bfd125c1ec1",
+  "source": "{0}: The callback function to execute when the hook is triggered. The function signature varies based on the hook name.",
+  "text": "{0}: Die Callback-Funktion, die ausgeführt wird, wenn der Hook ausgelöst wird. Die Signatur der Funktion hängt vom Namen des Hooks ab.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Die Callback-Funktion, die ausgeführt wird, wenn der Hook ausgelöst wird. Die Signatur der Funktion hängt vom Namen des Hooks ab."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

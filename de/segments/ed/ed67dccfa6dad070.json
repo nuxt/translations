@@ -1,0 +1,14 @@
+{
+  "hash": "ed67dccfa6dad070",
+  "source": "TypeScript reports a missing extension as {0}. Note that its quick fix suggests {1}; write the extension the file actually has ({2}), which Node resolves directly.",
+  "text": "TypeScript meldet eine fehlende Erweiterung als {0}. Beachte, dass die Schnelllösung {1} vorschlägt. Schreibe stattdessen die Erweiterung, die die Datei tatsächlich hat ({2}), denn Node löst diese direkt auf.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "TypeScript meldet eine fehlende Erweiterung als {0}. Beachte, dass die Schnelllösung {1} vorschlägt. Schreibe stattdessen die Erweiterung, die die Datei tatsächlich hat ({2}), denn Node löst diese direkt auf."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "0565b31dabed5a4f",
+  "source": "2\\. Command Palette",
+  "text": "2\\. Befehlspalette",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "2\\. Befehlspalette"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

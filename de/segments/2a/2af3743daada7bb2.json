@@ -1,0 +1,14 @@
+{
+  "hash": "2af3743daada7bb2",
+  "source": "**{0}**: Starts a long-running task, rendered on the host's status surface where available. Finish it with {1}, or change its label with {2}.",
+  "text": "**{0}**: Startet eine lang laufende Aufgabe, die, sofern verfügbar, auf der Statusfläche des Hosts dargestellt wird. Beende sie mit {1} oder ändere ihre Beschriftung mit {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}**: Startet eine lang laufende Aufgabe, die, sofern verfügbar, auf der Statusfläche des Hosts dargestellt wird. Beende sie mit {1} oder ändere ihre Beschriftung mit {2}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

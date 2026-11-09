@@ -1,0 +1,14 @@
+{
+  "hash": "9f7963a00dacc349",
+  "source": "You can specify a custom way to enable preview mode. By default the {0} composable will enable preview mode if there is a {1} param in url that is equal to {2} (for example, {3}). You can wrap the {4} into custom composable, to keep options consistent across usages and prevent any errors.",
+  "text": "Du kannst festlegen, wie der Vorschaumodus aktiviert wird. Standardmäßig aktiviert das Composable {0} den Vorschaumodus, wenn die URL einen Parameter {1} mit dem Wert {2} enthält (zum Beispiel {3}). Du kannst {4} in ein eigenes Composable einbetten, um die Optionen bei allen Verwendungen konsistent zu halten und Fehler zu vermeiden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst festlegen, wie der Vorschaumodus aktiviert wird. Standardmäßig aktiviert das Composable {0} den Vorschaumodus, wenn die URL einen Parameter {1} mit dem Wert {2} enthält (zum Beispiel {3}). Du kannst {4} in ein eigenes Composable einbetten, um die Optionen bei allen Verwendungen konsistent zu halten und Fehler zu vermeiden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

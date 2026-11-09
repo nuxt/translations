@@ -1,0 +1,14 @@
+{
+  "hash": "7649cd44679c143c",
+  "source": "Having a playground Nuxt application to test your module when developing it is really useful. {0}The module starter integrates one for that purpose{/0}.",
+  "text": "Eine Nuxt-Playground-Anwendung zum Testen deines Moduls während der Entwicklung ist sehr nützlich. {0}Der Modul-Starter bringt dafür bereits eine mit{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine Nuxt-Playground-Anwendung zum Testen deines Moduls während der Entwicklung ist sehr nützlich. {0}Der Modul-Starter bringt dafür bereits eine mit{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

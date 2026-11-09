@@ -1,0 +1,14 @@
+{
+  "hash": "6e3b72b6701e4be3",
+  "source": "Create a Minimal Reproduction",
+  "text": "Minimales Reproduktionsbeispiel erstellen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Minimales Reproduktionsbeispiel erstellen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

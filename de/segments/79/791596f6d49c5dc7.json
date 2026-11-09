@@ -1,0 +1,14 @@
+{
+  "hash": "791596f6d49c5dc7",
+  "source": "How to contribute?",
+  "text": "Wie kannst du mitwirken?",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wie kannst du mitwirken?"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

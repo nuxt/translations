@@ -1,0 +1,14 @@
+{
+  "hash": "00e3af352e3318c0",
+  "source": "Is It Really a Bug?",
+  "text": "Ist es wirklich ein Fehler?",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ist es wirklich ein Fehler?"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

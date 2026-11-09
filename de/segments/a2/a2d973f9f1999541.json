@@ -1,0 +1,14 @@
+{
+  "hash": "a2d973f9f1999541",
+  "source": "These can be configured in the {0}Nuxt environment options{/0} of your {1} file:",
+  "text": "Diese lassen sich in den {0}Optionen der Nuxt-Umgebung{/0} in deiner Datei {1} konfigurieren:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese lassen sich in den {0}Optionen der Nuxt-Umgebung{/0} in deiner Datei {1} konfigurieren:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

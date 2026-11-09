@@ -1,0 +1,14 @@
+{
+  "hash": "17c85e8207de6812",
+  "source": "Page defined middleware order (if there are multiple middleware declared with the array syntax)",
+  "text": "In der Seite definierte Middleware-Reihenfolge (wenn mehrere Middleware mit der Array-Syntax deklariert sind)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In der Seite definierte Middleware-Reihenfolge (wenn mehrere Middleware mit der Array-Syntax deklariert sind)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

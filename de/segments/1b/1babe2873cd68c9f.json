@@ -1,0 +1,14 @@
+{
+  "hash": "1babe2873cd68c9f",
+  "source": "Automatically generate your navigation.",
+  "text": "Erzeuge deine Navigation automatisch.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erzeuge deine Navigation automatisch."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "4294508427bca83a",
+  "source": "useFetch() is auto-imported",
+  "text": "useFetch() wird automatisch importiert",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "useFetch() wird automatisch importiert"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

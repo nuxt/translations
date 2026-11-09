@@ -1,0 +1,14 @@
+{
+  "hash": "1f062f73ac472b6d",
+  "source": "preload only the matching font faces",
+  "text": "nur die passenden Schriftschnitte vorladen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "nur die passenden Schriftschnitte vorladen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

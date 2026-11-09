@@ -1,0 +1,14 @@
+{
+  "hash": "9086f89dff842bb4",
+  "source": "It is possible to update runtime config values using a matching environment variable name prefixed with {0}.",
+  "text": "Du kannst Werte der Laufzeitkonfiguration aktualisieren, indem du eine passende Umgebungsvariable mit dem Präfix {0} verwendest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst Werte der Laufzeitkonfiguration aktualisieren, indem du eine passende Umgebungsvariable mit dem Präfix {0} verwendest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "7a84f2752717ae08",
+  "source": "Run the handler before route handlers. Return nothing to pass the request to the next handler. A {0} handler always runs as middleware.",
+  "text": "Führt den Handler vor den Route-Handlern aus. Gib nichts zurück, um die Anfrage an den nächsten Handler weiterzureichen. Ein {0}-Handler wird immer als middleware ausgeführt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Führt den Handler vor den Route-Handlern aus. Gib nichts zurück, um die Anfrage an den nächsten Handler weiterzureichen. Ein {0}-Handler wird immer als middleware ausgeführt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "d1449fd509b05208",
+  "source": "Learn how to migrate to Composition API with Nuxt Bridge.",
+  "text": "Erfahre, wie du mit Nuxt Bridge zur Composition API migrierst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erfahre, wie du mit Nuxt Bridge zur Composition API migrierst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

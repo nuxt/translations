@@ -1,0 +1,14 @@
+{
+  "hash": "7bc52d3d4488c812",
+  "source": "The {0} file can be used to configure Nuxt with a flat syntax. It is based on {1}.",
+  "text": "Mit der Datei {0} lässt sich Nuxt in einer flachen Syntax konfigurieren. Sie basiert auf {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit der Datei {0} lässt sich Nuxt in einer flachen Syntax konfigurieren. Sie basiert auf {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "1b93a1a7a8d1d52d",
+  "source": "If it is false, no SPA loading indicator will be loaded.",
+  "text": "Wenn der Wert false ist, wird kein SPA-Ladeindikator geladen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn der Wert false ist, wird kein SPA-Ladeindikator geladen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

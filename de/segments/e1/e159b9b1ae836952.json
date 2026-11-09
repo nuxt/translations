@@ -1,0 +1,14 @@
+{
+  "hash": "e159b9b1ae836952",
+  "source": "If you opt out, regex constraints in your route rules must be written for {0}lower-case letters{/0}.",
+  "text": "Wenn du dich dagegen entscheidest, müssen reguläre Ausdrücke in deinen Route-Rules für {0}Kleinbuchstaben{/0} geschrieben sein.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du dich dagegen entscheidest, müssen reguläre Ausdrücke in deinen Route-Rules für {0}Kleinbuchstaben{/0} geschrieben sein."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

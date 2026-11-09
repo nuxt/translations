@@ -1,0 +1,14 @@
+{
+  "hash": "f7314f2370e174a7",
+  "source": "**Note**: Within a webpack context (image sources, CSS - but not JavaScript) you *must* access your alias by prefixing it with {0}.",
+  "text": "**Hinweis**: In einem webpack-Kontext (Bildquellen, CSS – aber nicht JavaScript) *musst* du beim Zugriff auf deinen Alias {0} voranstellen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Hinweis**: In einem webpack-Kontext (Bildquellen, CSS – aber nicht JavaScript) *musst* du beim Zugriff auf deinen Alias {0} voranstellen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

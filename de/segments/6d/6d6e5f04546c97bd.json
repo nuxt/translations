@@ -1,0 +1,14 @@
+{
+  "hash": "6d6e5f04546c97bd",
+  "source": "Used by {0}. Clear all timers and intervals used by the composable.",
+  "text": "Wird von {0} verwendet. Löscht alle Timer und Intervalle, die das Composable verwendet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird von {0} verwendet. Löscht alle Timer und Intervalle, die das Composable verwendet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

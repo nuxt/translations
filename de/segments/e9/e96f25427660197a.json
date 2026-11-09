@@ -1,0 +1,14 @@
+{
+  "hash": "e96f25427660197a",
+  "source": "**Context-specific type checking**: Each context now has appropriate compiler options and includes/excludes for its specific environment.",
+  "text": "**Kontextspezifische Typprüfung**: Jeder Kontext hat jetzt passende Compiler-Optionen sowie Ein- und Ausschlüsse für seine jeweilige Umgebung.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Kontextspezifische Typprüfung**: Jeder Kontext hat jetzt passende Compiler-Optionen sowie Ein- und Ausschlüsse für seine jeweilige Umgebung."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "51a7414246bada8f",
+  "source": "This enables 'Bundler' module resolution mode for TypeScript, which is the recommended setting for frameworks like Nuxt and {0}Vite{/0}.",
+  "text": "Dies aktiviert den Modulauflösungsmodus „Bundler“ für TypeScript, der für Frameworks wie Nuxt und {0}Vite{/0} empfohlen wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dies aktiviert den Modulauflösungsmodus „Bundler“ für TypeScript, der für Frameworks wie Nuxt und {0}Vite{/0} empfohlen wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

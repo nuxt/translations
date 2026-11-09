@@ -1,0 +1,14 @@
+{
+  "hash": "830d4b9fc34fe6a3",
+  "source": "by Nuxt unless {0} is set.",
+  "text": "Nuxt installiert, es sei denn, {0} ist gesetzt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt installiert, es sei denn, {0} ist gesetzt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

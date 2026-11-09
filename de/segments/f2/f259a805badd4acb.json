@@ -1,0 +1,14 @@
+{
+  "hash": "f259a805badd4acb",
+  "source": "Extend from a Nuxt layer",
+  "text": "Von einem Nuxt-Layer erweitern",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Von einem Nuxt-Layer erweitern"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "46c28f07d05ba462",
+  "source": "To speed up client-side navigation, Nuxt adds resource hints for the JavaScript and CSS chunks a request resolves. {0} (or {1}) marks the chunks the page itself needs, while {2} marks the chunks the entry point and the rendered components lazy-import, so they are warm if the user later navigates to them.",
+  "text": "Um die clientseitige Navigation zu beschleunigen, fügt Nuxt Resource Hints für die JavaScript- und CSS-Chunks hinzu, die eine Anfrage auflöst. {0} (oder {1}) markiert die Chunks, die die Seite selbst benötigt, während {2} die Chunks markiert, die der Einstiegspunkt und die gerenderten Komponenten per Lazy-Import laden, sodass sie bereitstehen, falls Nutzende später dorthin navigieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um die clientseitige Navigation zu beschleunigen, fügt Nuxt Resource Hints für die JavaScript- und CSS-Chunks hinzu, die eine Anfrage auflöst. {0} (oder {1}) markiert die Chunks, die die Seite selbst benötigt, während {2} die Chunks markiert, die der Einstiegspunkt und die gerenderten Komponenten per Lazy-Import laden, sodass sie bereitstehen, falls Nutzende später dorthin navigieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

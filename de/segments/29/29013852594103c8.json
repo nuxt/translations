@@ -1,0 +1,14 @@
+{
+  "hash": "29013852594103c8",
+  "source": "Default TypeScript Configuration Changes",
+  "text": "Änderungen an der TypeScript-Standardkonfiguration",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Änderungen an der TypeScript-Standardkonfiguration"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

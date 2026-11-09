@@ -1,0 +1,14 @@
+{
+  "hash": "75ed4a531f55a123",
+  "source": "Using a Function for Full Reactivity",
+  "text": "Eine Funktion für vollständige Reaktivität verwenden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine Funktion für vollständige Reaktivität verwenden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "4993f0e50299f72d",
+  "source": "Prefix all matched components with this string.",
+  "text": "Stellt allen passenden Komponenten diese Zeichenkette als Präfix voran.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Stellt allen passenden Komponenten diese Zeichenkette als Präfix voran."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

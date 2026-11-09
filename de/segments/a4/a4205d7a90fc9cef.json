@@ -1,0 +1,14 @@
+{
+  "hash": "a4205d7a90fc9cef",
+  "source": "What Are Valid Imports in a Node.js Context?",
+  "text": "Welche Importe sind in einem Node.js-Kontext gültig?",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Welche Importe sind in einem Node.js-Kontext gültig?"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

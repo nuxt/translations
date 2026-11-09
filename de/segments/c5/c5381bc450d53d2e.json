@@ -1,0 +1,14 @@
+{
+  "hash": "c5381bc450d53d2e",
+  "source": "Clear console on restart",
+  "text": "Konsole beim Neustart leeren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Konsole beim Neustart leeren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

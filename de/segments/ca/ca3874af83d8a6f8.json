@@ -1,0 +1,14 @@
+{
+  "hash": "ca3874af83d8a6f8",
+  "source": "Your Own {0} Directory",
+  "text": "Dein eigenes {0}-Verzeichnis",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dein eigenes {0}-Verzeichnis"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

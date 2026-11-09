@@ -1,0 +1,14 @@
+{
+  "hash": "fb27395892a94d69",
+  "source": "Custom metadata for the route. Can be used in layouts, middlewares, or navigation guards.",
+  "text": "Benutzerdefinierte Metadaten für die Route. Sie können in Layouts, Middleware oder Navigation Guards verwendet werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Benutzerdefinierte Metadaten für die Route. Sie können in Layouts, Middleware oder Navigation Guards verwendet werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

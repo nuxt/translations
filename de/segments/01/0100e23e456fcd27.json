@@ -1,0 +1,14 @@
+{
+  "hash": "0100e23e456fcd27",
+  "source": "When you set {0} to {1}, this feature is enabled by default. You can also enable it explicitly for testing:",
+  "text": "Wenn du {0} auf {1} setzt, ist diese Funktion standardmäßig aktiviert. Du kannst sie zum Testen auch explizit aktivieren:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du {0} auf {1} setzt, ist diese Funktion standardmäßig aktiviert. Du kannst sie zum Testen auch explizit aktivieren:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

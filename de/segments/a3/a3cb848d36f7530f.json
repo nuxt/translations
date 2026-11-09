@@ -1,0 +1,14 @@
+{
+  "hash": "a3cb848d36f7530f",
+  "source": "Using the {0} File",
+  "text": "Die Datei {0} verwenden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Datei {0} verwenden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "381bbebfcc7b013f",
+  "source": "By default {0} is an empty shell, so your {1} (and its layout and data) only appear once the client app has booted. You can prerender it instead:",
+  "text": "Standardmäßig ist {0} eine leere Hülle, sodass dein {1} (und dessen Layout und Daten) erst erscheint, sobald die Client-App gestartet ist. Du kannst sie stattdessen vorab rendern:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardmäßig ist {0} eine leere Hülle, sodass dein {1} (und dessen Layout und Daten) erst erscheint, sobald die Client-App gestartet ist. Du kannst sie stattdessen vorab rendern:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "c5655703c848d5cc",
+  "source": "If the type checker is killed, for example because it ran out of memory, {0} reports the signal and exits with {1} plus the signal number ({2} for {3}, {4} for {5}). To raise the heap limit yourself:",
+  "text": "Wird die Typprüfung beendet, zum Beispiel weil ihr der Arbeitsspeicher ausgegangen ist, meldet {0} das Signal und beendet sich mit {1} plus der Signalnummer ({2} für {3}, {4} für {5}). So hebst du das Heap-Limit selbst an:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird die Typprüfung beendet, zum Beispiel weil ihr der Arbeitsspeicher ausgegangen ist, meldet {0} das Signal und beendet sich mit {1} plus der Signalnummer ({2} für {3}, {4} für {5}). So hebst du das Heap-Limit selbst an:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

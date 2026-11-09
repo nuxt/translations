@@ -1,0 +1,14 @@
+{
+  "hash": "4fff8842529fd7aa",
+  "source": "Build full-stack applications with Nuxt's server framework. You can fetch data from your database or another server, create APIs, or even generate static server-side content like a sitemap or a RSS feed - all from a single codebase.",
+  "text": "Erstelle Full-Stack-Anwendungen mit dem Server-Framework von Nuxt. Du kannst Daten aus deiner Datenbank oder von einem anderen Server abrufen, APIs erstellen oder sogar statische serverseitige Inhalte wie eine Sitemap oder einen RSS-Feed generieren – alles in einer einzigen Codebasis.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erstelle Full-Stack-Anwendungen mit dem Server-Framework von Nuxt. Du kannst Daten aus deiner Datenbank oder von einem anderen Server abrufen, APIs erstellen oder sogar statische serverseitige Inhalte wie eine Sitemap oder einen RSS-Feed generieren – alles in einer einzigen Codebasis."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

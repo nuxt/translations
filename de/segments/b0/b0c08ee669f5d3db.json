@@ -1,0 +1,14 @@
+{
+  "hash": "b0c08ee669f5d3db",
+  "source": "Allows rendering of JSON payloads with support for revivifying complex types.",
+  "text": "Ermöglicht das Rendern von JSON-Payloads mit Unterstützung für die Wiederherstellung komplexer Typen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ermöglicht das Rendern von JSON-Payloads mit Unterstützung für die Wiederherstellung komplexer Typen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

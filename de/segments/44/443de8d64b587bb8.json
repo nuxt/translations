@@ -1,0 +1,14 @@
+{
+  "hash": "443de8d64b587bb8",
+  "source": "You can also pass a function that receives the path of a Vue component and returns a boolean indicating whether to inline the styles for that component.",
+  "text": "Du kannst auch eine Funktion übergeben, die den Pfad einer Vue-Komponente erhält und einen booleschen Wert zurückgibt, der angibt, ob die Styles für diese Komponente inline eingebunden werden sollen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst auch eine Funktion übergeben, die den Pfad einer Vue-Komponente erhält und einen booleschen Wert zurückgibt, der angibt, ob die Styles für diese Komponente inline eingebunden werden sollen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

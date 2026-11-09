@@ -1,0 +1,14 @@
+{
+  "hash": "1ec2cb22125e1716",
+  "source": "useAsyncData key must be a non-empty string.",
+  "text": "Der Schlüssel von useAsyncData muss ein nicht leerer String sein.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Schlüssel von useAsyncData muss ein nicht leerer String sein."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

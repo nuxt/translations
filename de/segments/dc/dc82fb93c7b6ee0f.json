@@ -1,0 +1,14 @@
+{
+  "hash": "dc82fb93c7b6ee0f",
+  "source": "Server {0}API endpoints{/0} and {1}Middleware{/1} are added by Nitro that internally uses {2}h3{/2}.",
+  "text": "Server-{0}API-Endpunkte{/0} und {1}Middleware{/1} werden von Nitro hinzugefügt, das intern {2}h3{/2} verwendet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Server-{0}API-Endpunkte{/0} und {1}Middleware{/1} werden von Nitro hinzugefügt, das intern {2}h3{/2} verwendet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

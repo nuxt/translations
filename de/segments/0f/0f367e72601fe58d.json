@@ -1,0 +1,14 @@
+{
+  "hash": "0f367e72601fe58d",
+  "source": "What an App Builder Does",
+  "text": "Was ein App-Builder macht",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Was ein App-Builder macht"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

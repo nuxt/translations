@@ -1,0 +1,14 @@
+{
+  "hash": "30ef6fc01ef1127e",
+  "source": "The {0} target of {1} expects a CSS selector string or an actual DOM node. Nuxt currently has SSR support for teleports to {2} only, with client-side support for other targets using a {3} wrapper.",
+  "text": "Das {0}-Ziel von {1} erwartet einen CSS-Selektor-String oder einen tatsächlichen DOM-Knoten. Nuxt unterstützt SSR für Teleports derzeit nur für {2}. Für andere Ziele gibt es clientseitige Unterstützung mithilfe eines {3}-Wrappers.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das {0}-Ziel von {1} erwartet einen CSS-Selektor-String oder einen tatsächlichen DOM-Knoten. Nuxt unterstützt SSR für Teleports derzeit nur für {2}. Für andere Ziele gibt es clientseitige Unterstützung mithilfe eines {3}-Wrappers."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "4e3bc29209b06bee",
+  "source": "You might want to:",
+  "text": "Mögliche Aufgaben:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mögliche Aufgaben:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

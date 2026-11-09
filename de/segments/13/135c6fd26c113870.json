@@ -1,0 +1,14 @@
+{
+  "hash": "135c6fd26c113870",
+  "source": "We are storing the JWT token in a session with {0}nuxt-auth-utils{/0}",
+  "text": "Das JWT-Token wird mit {0}nuxt-auth-utils{/0} in einer Session gespeichert",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das JWT-Token wird mit {0}nuxt-auth-utils{/0} in einer Session gespeichert"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

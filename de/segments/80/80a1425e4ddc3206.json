@@ -1,0 +1,14 @@
+{
+  "hash": "80a1425e4ddc3206",
+  "source": "Customize Nuxt root element tag.",
+  "text": "Passe das Tag des Nuxt-Wurzelelements an.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Passe das Tag des Nuxt-Wurzelelements an."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

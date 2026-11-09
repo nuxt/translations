@@ -1,0 +1,14 @@
+{
+  "hash": "9a99114233effba9",
+  "source": "The {0} command sends an HTTP request to the {1} server running for your project and prints the response. A path is resolved against that server, so you do not need to know which port it ended up on.",
+  "text": "Der Befehl {0} sendet eine HTTP-Anfrage an den {1}-Server, der für dein Projekt läuft, und gibt die Antwort aus. Ein Pfad wird relativ zu diesem Server aufgelöst, sodass du nicht wissen musst, auf welchem Port er gestartet wurde.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Befehl {0} sendet eine HTTP-Anfrage an den {1}-Server, der für dein Projekt läuft, und gibt die Antwort aus. Ein Pfad wird relativ zu diesem Server aufgelöst, sodass du nicht wissen musst, auf welchem Port er gestartet wurde."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

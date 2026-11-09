@@ -1,0 +1,14 @@
+{
+  "hash": "9560a94d1169fae3",
+  "source": "The {0} object returned from {1}, {2}, {3} and {4} is now a computed property that is {5} only when {6} is also pending.",
+  "text": "Das von {1}, {2}, {3} und {4} zurückgegebene Objekt {0} ist jetzt eine berechnete Eigenschaft, die nur dann {5} ist, wenn auch {6} aussteht.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das von {1}, {2}, {3} und {4} zurückgegebene Objekt {0} ist jetzt eine berechnete Eigenschaft, die nur dann {5} ist, wenn auch {6} aussteht."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

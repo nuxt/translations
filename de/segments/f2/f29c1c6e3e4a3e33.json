@@ -1,0 +1,14 @@
+{
+  "hash": "f29c1c6e3e4a3e33",
+  "source": "Upgrade Nuxt 2",
+  "text": "Nuxt 2 aktualisieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt 2 aktualisieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "698b1e3ee8485a48",
+  "source": "Add {0} to your {1} file (optional). It adds a Vitest integration to your Nuxt DevTools which supports running your unit tests in development.",
+  "text": "Füge {0} zu deiner {1}-Datei hinzu (optional). Das ergänzt deine Nuxt DevTools um eine Vitest-Integration, mit der du deine Unit-Tests während der Entwicklung ausführen kannst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Füge {0} zu deiner {1}-Datei hinzu (optional). Das ergänzt deine Nuxt DevTools um eine Vitest-Integration, mit der du deine Unit-Tests während der Entwicklung ausführen kannst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

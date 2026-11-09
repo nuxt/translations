@@ -1,0 +1,14 @@
+{
+  "hash": "f7270406b3c02eda",
+  "source": "This component is available in Nuxt v3.12+.",
+  "text": "Diese Komponente ist ab Nuxt v3.12 verfügbar.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese Komponente ist ab Nuxt v3.12 verfügbar."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

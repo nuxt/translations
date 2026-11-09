@@ -1,0 +1,14 @@
+{
+  "hash": "7fa147fb02e1e655",
+  "source": "Specifying Module Dependencies",
+  "text": "Modulabhängigkeiten festlegen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Modulabhängigkeiten festlegen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

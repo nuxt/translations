@@ -1,0 +1,14 @@
+{
+  "hash": "2e6760bbe7a85a9b",
+  "source": "Maximum number of arguments the function accepts. When called with fewer arguments, a unique key is injected.",
+  "text": "Maximale Anzahl an Argumenten, die die Funktion akzeptiert. Wird sie mit weniger Argumenten aufgerufen, wird ein eindeutiger Schlüssel eingefügt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Maximale Anzahl an Argumenten, die die Funktion akzeptiert. Wird sie mit weniger Argumenten aufgerufen, wird ein eindeutiger Schlüssel eingefügt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

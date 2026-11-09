@@ -1,0 +1,14 @@
+{
+  "hash": "56c74558450dbb41",
+  "source": "Handlers can return promises, which will be awaited ({0} and {1} are also supported)",
+  "text": "Handler können Promises zurückgeben, auf die gewartet wird ({0} und {1} werden ebenfalls unterstützt)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Handler können Promises zurückgeben, auf die gewartet wird ({0} und {1} werden ebenfalls unterstützt)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

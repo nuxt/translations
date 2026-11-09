@@ -1,0 +1,14 @@
+{
+  "hash": "bd114d987b2ae469",
+  "source": "Running unit, integration, and e2e tests ({0})",
+  "text": "Ausführen von Unit-, Integrations- und E2E-Tests ({0})",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ausführen von Unit-, Integrations- und E2E-Tests ({0})"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

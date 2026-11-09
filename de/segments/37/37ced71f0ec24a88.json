@@ -1,0 +1,14 @@
+{
+  "hash": "37ced71f0ec24a88",
+  "source": "Make sure the name matches a file in {0}. Names are derived from the filename: {1} is referenced as {2}.",
+  "text": "Stell sicher, dass der Name mit einer Datei in {0} übereinstimmt. Die Namen werden aus dem Dateinamen abgeleitet: {1} wird als {2} referenziert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Stell sicher, dass der Name mit einer Datei in {0} übereinstimmt. Die Namen werden aus dem Dateinamen abgeleitet: {1} wird als {2} referenziert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

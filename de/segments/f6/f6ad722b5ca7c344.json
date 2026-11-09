@@ -1,0 +1,14 @@
+{
+  "hash": "f6ad722b5ca7c344",
+  "source": "Example of PR title",
+  "text": "Beispiel für einen PR-Titel",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Beispiel für einen PR-Titel"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "8ecd7bb8ba69e419",
+  "source": "**Inspect** – Lists all files used in the Vue app with their size and evaluation time.",
+  "text": "**Inspect** – Listet alle in der Vue-App verwendeten Dateien mit ihrer Größe und Auswertungszeit auf.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Inspect** – Listet alle in der Vue-App verwendeten Dateien mit ihrer Größe und Auswertungszeit auf."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

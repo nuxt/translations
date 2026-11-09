@@ -1,0 +1,14 @@
+{
+  "hash": "550bea65f583a1b7",
+  "source": "Use {0} instead. It reports each family as it is resolved, with the URL every font file is served from and a {1} to read its contents, so there is no need to reconstruct paths from the asset context. The old hook still works.",
+  "text": "Verwende stattdessen {0}. Der Hook meldet jede Schriftfamilie, sobald sie aufgelöst wurde, mit der URL, unter der jede Schriftdatei bereitgestellt wird, und einem {1}, um den Inhalt zu lesen. Dadurch musst du keine Pfade aus dem Asset-Kontext rekonstruieren. Der alte Hook funktioniert weiterhin.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwende stattdessen {0}. Der Hook meldet jede Schriftfamilie, sobald sie aufgelöst wurde, mit der URL, unter der jede Schriftdatei bereitgestellt wird, und einem {1}, um den Inhalt zu lesen. Dadurch musst du keine Pfade aus dem Asset-Kontext rekonstruieren. Der alte Hook funktioniert weiterhin."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "0a5fff7f3977ef32",
+  "source": "^ no GET route matches '/pats'",
+  "text": "^ keine GET-Route passt zu '/pats'",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "^ keine GET-Route passt zu '/pats'"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

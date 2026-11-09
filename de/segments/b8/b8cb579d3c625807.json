@@ -1,0 +1,14 @@
+{
+  "hash": "b8cb579d3c625807",
+  "source": "Resolve an {0} entry to a layer yourself. Return a nullish value to fall back to the default resolution for that source.",
+  "text": "Löst einen {0}-Eintrag selbst zu einem Layer auf. Gib einen Nullish-Wert zurück, um für diese Quelle auf die Standardauflösung zurückzugreifen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Löst einen {0}-Eintrag selbst zu einem Layer auf. Gib einen Nullish-Wert zurück, um für diese Quelle auf die Standardauflösung zurückzugreifen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

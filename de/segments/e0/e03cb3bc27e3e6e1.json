@@ -1,0 +1,14 @@
+{
+  "hash": "e03cb3bc27e3e6e1",
+  "source": "{0} was called without a valid key. The first argument must be a non-empty string so Nuxt can cache and deduplicate the request across components.",
+  "text": "{0} wurde ohne gültigen Schlüssel aufgerufen. Das erste Argument muss ein nicht leerer String sein, damit Nuxt die Anfrage komponentenübergreifend zwischenspeichern und deduplizieren kann.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} wurde ohne gültigen Schlüssel aufgerufen. Das erste Argument muss ein nicht leerer String sein, damit Nuxt die Anfrage komponentenübergreifend zwischenspeichern und deduplizieren kann."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

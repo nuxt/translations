@@ -1,0 +1,14 @@
+{
+  "hash": "dbcb213ead48563d",
+  "source": "Manage your meta tags, from Nuxt 2 to Nuxt 3.",
+  "text": "Verwalte deine Meta-Tags, von Nuxt 2 bis Nuxt 3.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwalte deine Meta-Tags, von Nuxt 2 bis Nuxt 3."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

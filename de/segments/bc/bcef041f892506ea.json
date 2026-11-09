@@ -1,0 +1,14 @@
+{
+  "hash": "bcef041f892506ea",
+  "source": "On Nuxt 4.6, import {0} and the helpers from {1} explicitly. The auto-imported names of the same spelling are h3 v1's, and h3's {2} passes your handler a different event from the one the {3} helpers read.",
+  "text": "Importiere in Nuxt 4.6 {0} und die Hilfsfunktionen explizit aus {1}. Die automatisch importierten Namen mit derselben Schreibweise stammen aus h3 v1, und {2} von h3 übergibt deinem Handler ein anderes Event als das, das die {3}-Hilfsfunktionen lesen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Importiere in Nuxt 4.6 {0} und die Hilfsfunktionen explizit aus {1}. Die automatisch importierten Namen mit derselben Schreibweise stammen aus h3 v1, und {2} von h3 übergibt deinem Handler ein anderes Event als das, das die {3}-Hilfsfunktionen lesen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

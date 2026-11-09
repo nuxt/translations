@@ -1,0 +1,14 @@
+{
+  "hash": "4d4ef4a109d057cf",
+  "source": "If you are using an error reporting framework, you can provide a global handler through {0}. It will receive all Vue errors, even if they are handled.",
+  "text": "Wenn du ein Framework für Fehlerberichte verwendest, kannst du über {0} einen globalen Handler bereitstellen. Er erhält alle Vue-Fehler, auch wenn diese bereits behandelt wurden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du ein Framework für Fehlerberichte verwendest, kannst du über {0} einen globalen Handler bereitstellen. Er erhält alle Vue-Fehler, auch wenn diese bereits behandelt wurden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

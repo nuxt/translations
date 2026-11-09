@@ -1,0 +1,14 @@
+{
+  "hash": "572639b2c6230130",
+  "source": "Get the authorization request header",
+  "text": "Den Authorization-Header der Anfrage abrufen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Den Authorization-Header der Anfrage abrufen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "cb98d6258c70a4cf",
+  "source": "The configuration path is relative to {0} (default is current working directory). Setting this field may be necessary if your project is organized as a yarn workspace-styled mono-repository.",
+  "text": "Der Konfigurationspfad ist relativ zu {0} (Standard ist das aktuelle Arbeitsverzeichnis). Dieses Feld musst du eventuell setzen, wenn dein Projekt als Mono-Repository im Stil eines Yarn-Workspace organisiert ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Konfigurationspfad ist relativ zu {0} (Standard ist das aktuelle Arbeitsverzeichnis). Dieses Feld musst du eventuell setzen, wenn dein Projekt als Mono-Repository im Stil eines Yarn-Workspace organisiert ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

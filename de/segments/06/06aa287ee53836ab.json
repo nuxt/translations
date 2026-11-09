@@ -1,0 +1,14 @@
+{
+  "hash": "06aa287ee53836ab",
+  "source": "{0} extends {1}. {2} is kept in sync with it but is deprecated, so set {3} instead.",
+  "text": "{0} erweitert {1}. {2} wird synchron dazu gehalten, wird aber nicht mehr empfohlen. Setze daher stattdessen {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} erweitert {1}. {2} wird synchron dazu gehalten, wird aber nicht mehr empfohlen. Setze daher stattdessen {3}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

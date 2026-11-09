@@ -1,0 +1,14 @@
+{
+  "hash": "395b5f2eb3674c70",
+  "source": "Get the command a user should run to add dependencies to their project, using the package manager detected from {0} and falling back to {1}. Use it whenever you print an install instruction, so the command matches the project's package manager.",
+  "text": "Liefert den Befehl, den Nutzende ausführen sollten, um Abhängigkeiten zu ihrem Projekt hinzuzufügen. Dabei wird der anhand von {0} erkannte Paketmanager verwendet, mit {1} als Fallback. Verwende ihn immer, wenn du eine Installationsanweisung ausgibst, damit der Befehl zum Paketmanager des Projekts passt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Liefert den Befehl, den Nutzende ausführen sollten, um Abhängigkeiten zu ihrem Projekt hinzuzufügen. Dabei wird der anhand von {0} erkannte Paketmanager verwendet, mit {1} als Fallback. Verwende ihn immer, wenn du eine Installationsanweisung ausgibst, damit der Befehl zum Paketmanager des Projekts passt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "4c5de32f10b09008",
+  "source": "Absolute URL, or a path resolved against the running dev server",
+  "text": "Absolute URL oder ein Pfad, der relativ zum laufenden Entwicklungsserver aufgelöst wird",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Absolute URL oder ein Pfad, der relativ zum laufenden Entwicklungsserver aufgelöst wird"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

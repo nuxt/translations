@@ -1,0 +1,14 @@
+{
+  "hash": "4ec948cc4f9b3480",
+  "source": "We do not add any commit hooks to allow for quick commits. But before you make a pull request, you should ensure that any lint/test scripts are passing.",
+  "text": "Wir richten keine Commit-Hooks ein, damit schnelle Commits möglich sind. Bevor du einen Pull Request erstellst, solltest du aber sicherstellen, dass alle Lint- und Test-Skripte erfolgreich durchlaufen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wir richten keine Commit-Hooks ein, damit schnelle Commits möglich sind. Bevor du einen Pull Request erstellst, solltest du aber sicherstellen, dass alle Lint- und Test-Skripte erfolgreich durchlaufen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

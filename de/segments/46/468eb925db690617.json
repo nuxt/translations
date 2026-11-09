@@ -1,0 +1,14 @@
+{
+  "hash": "468eb925db690617",
+  "source": "Handle 'pending' and 'error' states directly within your component's template",
+  "text": "Die Zustände 'pending' und 'error' direkt in der Vorlage deiner Komponente behandeln",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Zustände 'pending' und 'error' direkt in der Vorlage deiner Komponente behandeln"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

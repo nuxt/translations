@@ -1,0 +1,14 @@
+{
+  "hash": "6019861220e204c3",
+  "source": "Reusing resolved fonts from another module",
+  "text": "Aufgelöste Schriften eines anderen Moduls wiederverwenden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Aufgelöste Schriften eines anderen Moduls wiederverwenden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

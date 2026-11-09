@@ -1,0 +1,14 @@
+{
+  "hash": "ecec5bbc1783b441",
+  "source": "If migration to Nitro is complete, set to true",
+  "text": "Wenn die Migration zu Nitro abgeschlossen ist, auf true setzen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn die Migration zu Nitro abgeschlossen ist, auf true setzen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

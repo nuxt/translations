@@ -1,0 +1,14 @@
+{
+  "hash": "7d087202b8651bfd",
+  "source": "Each key maps to a {0} subpath that the server runtime imports:",
+  "text": "Jeder Schlüssel entspricht einem {0}-Subpath, den die Server-Runtime importiert:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Jeder Schlüssel entspricht einem {0}-Subpath, den die Server-Runtime importiert:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

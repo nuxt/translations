@@ -1,0 +1,14 @@
+{
+  "hash": "60fed960f741f0b2",
+  "source": "You can also pass a number which serves as a max timeout.",
+  "text": "Du kannst auch eine Zahl übergeben, die als maximales Timeout dient.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst auch eine Zahl übergeben, die als maximales Timeout dient."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

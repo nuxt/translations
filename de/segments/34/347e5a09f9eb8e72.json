@@ -1,0 +1,14 @@
+{
+  "hash": "347e5a09f9eb8e72",
+  "source": "Most of what makes an app accessible is not specific to Nuxt: color contrast, form semantics, and ARIA work the same here as in any Vue or plain HTML application, and the {0}resources{/0} at the end of this guide cover them well.",
+  "text": "Das meiste, was eine App barrierefrei macht, ist nicht Nuxt-spezifisch: Farbkontraste, Formularsemantik und ARIA funktionieren hier genauso wie in jeder anderen Vue- oder reinen HTML-Anwendung. Die {0}Ressourcen{/0} am Ende dieser Anleitung behandeln sie ausführlich.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das meiste, was eine App barrierefrei macht, ist nicht Nuxt-spezifisch: Farbkontraste, Formularsemantik und ARIA funktionieren hier genauso wie in jeder anderen Vue- oder reinen HTML-Anwendung. Die {0}Ressourcen{/0} am Ende dieser Anleitung behandeln sie ausführlich."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

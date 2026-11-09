@@ -1,0 +1,14 @@
+{
+  "hash": "99569a03a05863af",
+  "source": "In Nuxt 2, you will have defined any nested routes (with parent and child components) using {0} and {1}. In Nuxt 3, these have been replaced with a single {2} component.",
+  "text": "In Nuxt 2 hast du verschachtelte Routen (mit übergeordneten und untergeordneten Komponenten) mit {0} und {1} definiert. In Nuxt 3 wurden diese durch eine einzige Komponente {2} ersetzt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In Nuxt 2 hast du verschachtelte Routen (mit übergeordneten und untergeordneten Komponenten) mit {0} und {1} definiert. In Nuxt 3 wurden diese durch eine einzige Komponente {2} ersetzt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

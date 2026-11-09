@@ -1,0 +1,14 @@
+{
+  "hash": "12f39517139c9bac",
+  "source": "Watch a video from Vue School on blocking vs. non-blocking (lazy) requests",
+  "text": "Sieh dir ein Video von Vue School zu blockierenden und nicht blockierenden (lazy) Anfragen an",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sieh dir ein Video von Vue School zu blockierenden und nicht blockierenden (lazy) Anfragen an"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "88a983fc3e69376e",
+  "source": "Get the Nuxt instance from the context. It will return {0} if Nuxt is not available.",
+  "text": "Ruft die Nuxt-Instanz aus dem Kontext ab. Ist Nuxt nicht verfügbar, wird {0} zurückgegeben.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ruft die Nuxt-Instanz aus dem Kontext ab. Ist Nuxt nicht verfügbar, wird {0} zurückgegeben."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

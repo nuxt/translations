@@ -1,0 +1,14 @@
+{
+  "hash": "57faec1b591004d0",
+  "source": "this component's setup function",
+  "text": "Setup-Funktion dieser Komponente",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Setup-Funktion dieser Komponente"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

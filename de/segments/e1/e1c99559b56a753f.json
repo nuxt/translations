@@ -1,0 +1,14 @@
+{
+  "hash": "e1c99559b56a753f",
+  "source": "Running commands",
+  "text": "Befehle ausführen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Befehle ausführen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

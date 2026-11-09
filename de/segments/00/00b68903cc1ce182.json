@@ -1,0 +1,14 @@
+{
+  "hash": "00b68903cc1ce182",
+  "source": "{0} - Registers a global custom directive if passing both a name string and a directive definition, or retrieves an already registered one if only the name is passed{1}(example){/1}.",
+  "text": "{0} – Registriert eine globale benutzerdefinierte Direktive, wenn sowohl ein Namensstring als auch eine Direktivendefinition übergeben werden, oder gibt eine bereits registrierte Direktive zurück, wenn nur der Name übergeben wird {1}(Beispiel){/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} – Registriert eine globale benutzerdefinierte Direktive, wenn sowohl ein Namensstring als auch eine Direktivendefinition übergeben werden, oder gibt eine bereits registrierte Direktive zurück, wenn nur der Name übergeben wird {1}(Beispiel){/1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

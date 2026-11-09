@@ -1,0 +1,14 @@
+{
+  "hash": "e8d8a85c90017184",
+  "source": "We should always define {0} variables inside {1}.",
+  "text": "{0}-Variablen solltest du immer in {1} definieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}-Variablen solltest du immer in {1} definieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

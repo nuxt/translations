@@ -1,0 +1,14 @@
+{
+  "hash": "2f07e0c075fa9cc6",
+  "source": "The binary is installed as {0}, and also as {1}, {2} and {3} for compatibility with older setups. Scaffolding a new project is a separate package, {4}, so that it can be run without a project to install into.",
+  "text": "Die ausführbare Datei wird als {0} installiert, aus Kompatibilitätsgründen mit älteren Setups auch als {1}, {2} und {3}. Das Anlegen eines neuen Projekts ist ein eigenes Paket, {4}, damit es auch ohne ein Projekt ausgeführt werden kann, in das installiert wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die ausführbare Datei wird als {0} installiert, aus Kompatibilitätsgründen mit älteren Setups auch als {1}, {2} und {3}. Das Anlegen eines neuen Projekts ist ein eigenes Paket, {4}, damit es auch ohne ein Projekt ausgeführt werden kann, in das installiert wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "c7d9ec6062a240ca",
+  "source": "**{0}** verifies whether the version of Nuxt Kit your builder uses matches the one Nuxt is compatible with. Compare it with {1}, and fail the build if they differ. That turns a breaking change into a clear error.",
+  "text": "**{0}** prüft, ob die Version von Nuxt Kit, die dein Builder verwendet, mit der Version übereinstimmt, zu der Nuxt kompatibel ist. Vergleiche sie mit {1} und lasse den Build fehlschlagen, wenn sie sich unterscheiden. So wird aus einer inkompatiblen Änderung ein klarer Fehler.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** prüft, ob die Version von Nuxt Kit, die dein Builder verwendet, mit der Version übereinstimmt, zu der Nuxt kompatibel ist. Vergleiche sie mit {1} und lasse den Build fehlschlagen, wenn sie sich unterscheiden. So wird aus einer inkompatiblen Änderung ein klarer Fehler."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

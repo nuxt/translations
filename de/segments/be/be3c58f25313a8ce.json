@@ -1,0 +1,14 @@
+{
+  "hash": "be3c58f25313a8ce",
+  "source": "Hydrates after a specified time delay.",
+  "text": "Hydratisiert nach einer angegebenen Verzögerung.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Hydratisiert nach einer angegebenen Verzögerung."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

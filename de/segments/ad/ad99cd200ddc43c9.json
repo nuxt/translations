@@ -1,0 +1,14 @@
+{
+  "hash": "ad99cd200ddc43c9",
+  "source": "Route Groups",
+  "text": "Routengruppen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Routengruppen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

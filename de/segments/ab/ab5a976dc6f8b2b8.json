@@ -1,0 +1,14 @@
+{
+  "hash": "ab5a976dc6f8b2b8",
+  "source": "Nuxt generates this dist when running {0} into a {1} directory.",
+  "text": "Nuxt generiert dieses Dist, wenn du {0} in ein {1}-Verzeichnis ausführst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt generiert dieses Dist, wenn du {0} in ein {1}-Verzeichnis ausführst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

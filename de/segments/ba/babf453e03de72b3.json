@@ -1,0 +1,14 @@
+{
+  "hash": "babf453e03de72b3",
+  "source": "Serialized precomputed client dependency data for {0}.",
+  "text": "Serialisierte, vorberechnete Client-Abhängigkeitsdaten für {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Serialisierte, vorberechnete Client-Abhängigkeitsdaten für {0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

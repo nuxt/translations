@@ -1,0 +1,14 @@
+{
+  "hash": "2f80df043e06d406",
+  "source": "However, there may be times you want to define a specific order. For example, in the last scenario, {0} may need to run before {1}. In that case, we recommend prefixing global middleware with 'alphabetical' numbering.",
+  "text": "Manchmal möchtest du jedoch eine bestimmte Reihenfolge festlegen. Im letzten Szenario muss zum Beispiel {0} möglicherweise vor {1} ausgeführt werden. In diesem Fall empfehlen wir, globaler Middleware eine „alphabetische“ Nummerierung voranzustellen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Manchmal möchtest du jedoch eine bestimmte Reihenfolge festlegen. Im letzten Szenario muss zum Beispiel {0} möglicherweise vor {1} ausgeführt werden. In diesem Fall empfehlen wir, globaler Middleware eine „alphabetische“ Nummerierung voranzustellen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

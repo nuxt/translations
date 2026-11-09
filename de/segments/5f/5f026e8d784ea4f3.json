@@ -1,0 +1,14 @@
+{
+  "hash": "5f026e8d784ea4f3",
+  "source": "Nitro v3 builds route rules on h3, so custom route rules are declared there rather than on {0}. {1} and {2} are still exported as deprecated aliases, but they are now type aliases rather than interfaces, so augmenting them fails with {3}.",
+  "text": "Nitro v3 baut Route-Rules auf h3 auf, daher werden benutzerdefinierte Route-Rules dort statt in {0} deklariert. {1} und {2} werden weiterhin als nicht mehr empfohlene Aliase exportiert, sind aber jetzt Typ-Aliase statt Interfaces, sodass ihre Erweiterung mit {3} fehlschlägt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nitro v3 baut Route-Rules auf h3 auf, daher werden benutzerdefinierte Route-Rules dort statt in {0} deklariert. {1} und {2} werden weiterhin als nicht mehr empfohlene Aliase exportiert, sind aber jetzt Typ-Aliase statt Interfaces, sodass ihre Erweiterung mit {3} fehlschlägt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b344b2cf1dd733da",
+  "source": "do something before the route handler",
+  "text": "vor dem Route-Handler etwas ausführen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "vor dem Route-Handler etwas ausführen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

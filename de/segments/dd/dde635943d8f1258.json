@@ -1,0 +1,14 @@
+{
+  "hash": "dde635943d8f1258",
+  "source": "Perform checks related to this fixture (e.g. \"HTML contains ...\")",
+  "text": "Führe Prüfungen für diese Fixture durch (z. B. „HTML enthält ...“)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Führe Prüfungen für diese Fixture durch (z. B. „HTML enthält ...“)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "642e322bc8ac6212",
+  "source": "a directory, resolved relative to your project root",
+  "text": "ein Verzeichnis, relativ zum Projektstammverzeichnis aufgelöst",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "ein Verzeichnis, relativ zum Projektstammverzeichnis aufgelöst"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

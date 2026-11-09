@@ -1,0 +1,14 @@
+{
+  "hash": "4ff0bc6f1ad68975",
+  "source": "❌ this will output a warning and is NOT recommended",
+  "text": "❌ Das gibt eine Warnung aus und wird NICHT empfohlen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "❌ Das gibt eine Warnung aus und wird NICHT empfohlen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

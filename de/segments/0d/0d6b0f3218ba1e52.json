@@ -1,0 +1,14 @@
+{
+  "hash": "0d6b0f3218ba1e52",
+  "source": "Opening a Page in a New Tab",
+  "text": "Eine Seite in einer neuen Registerkarte öffnen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine Seite in einer neuen Registerkarte öffnen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

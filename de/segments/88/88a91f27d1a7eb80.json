@@ -1,0 +1,14 @@
+{
+  "hash": "88a91f27d1a7eb80",
+  "source": "If you have already configured MCP servers in VS Code (replace the {0} key with {1} for GitHub Copilot Agent), you can leverage a similar configuration for GitHub Copilot coding agent. You will need to add a {2} key specifying which tools are available to Copilot.",
+  "text": "Wenn du bereits MCP-Server in VS Code konfiguriert hast (ersetze für den GitHub Copilot Agent den Schlüssel {0} durch {1}), kannst du eine ähnliche Konfiguration für den GitHub Copilot Coding Agent verwenden. Du musst einen Schlüssel {2} hinzufügen, der angibt, welche Tools Copilot zur Verfügung stehen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du bereits MCP-Server in VS Code konfiguriert hast (ersetze für den GitHub Copilot Agent den Schlüssel {0} durch {1}), kannst du eine ähnliche Konfiguration für den GitHub Copilot Coding Agent verwenden. Du musst einen Schlüssel {2} hinzufügen, der angibt, welche Tools Copilot zur Verfügung stehen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "3b8f8685952862b2",
+  "source": "Dispose the entry, removing it from the active head.",
+  "text": "Verwirft den Eintrag und entfernt ihn aus dem aktiven Head.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwirft den Eintrag und entfernt ihn aus dem aktiven Head."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

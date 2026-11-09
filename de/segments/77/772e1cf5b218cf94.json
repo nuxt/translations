@@ -1,0 +1,14 @@
+{
+  "hash": "772e1cf5b218cf94",
+  "source": "Sets the vertical position of the new window relative to the top edge of the screen.",
+  "text": "Legt die vertikale Position des neuen Fensters relativ zum oberen Bildschirmrand fest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Legt die vertikale Position des neuen Fensters relativ zum oberen Bildschirmrand fest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

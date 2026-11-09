@@ -1,0 +1,14 @@
+{
+  "hash": "0b85edcad36075d9",
+  "source": "With the {0} prop, {1}, {2} and {3} do not attach handlers or classes automatically. Use the custom slot's {4}, {5} and {6} values to implement this behavior.",
+  "text": "Mit der Prop {0} hängen {1}, {2} und {3} Handler und Klassen nicht automatisch an. Verwende die Werte {4}, {5} und {6} des benutzerdefinierten Slots, um dieses Verhalten umzusetzen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit der Prop {0} hängen {1}, {2} und {3} Handler und Klassen nicht automatisch an. Verwende die Werte {4}, {5} und {6} des benutzerdefinierten Slots, um dieses Verhalten umzusetzen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

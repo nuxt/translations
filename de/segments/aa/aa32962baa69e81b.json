@@ -1,0 +1,14 @@
+{
+  "hash": "aa32962baa69e81b",
+  "source": "Unicode ranges use the same syntax as the {0} descriptor, and can be mixed with characters:",
+  "text": "Unicode-Bereiche verwenden dieselbe Syntax wie der Deskriptor {0} und können mit Zeichen kombiniert werden:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Unicode-Bereiche verwenden dieselbe Syntax wie der Deskriptor {0} und können mit Zeichen kombiniert werden:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

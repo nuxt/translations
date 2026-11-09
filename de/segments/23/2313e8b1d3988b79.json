@@ -1,0 +1,14 @@
+{
+  "hash": "2313e8b1d3988b79",
+  "source": "A new request is made with {0}",
+  "text": "eine neue Anfrage mit {0} gestellt wird",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "eine neue Anfrage mit {0} gestellt wird"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

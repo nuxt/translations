@@ -1,0 +1,14 @@
+{
+  "hash": "b6d94f12f8f77084",
+  "source": "Learn about the different rendering modes available in Nuxt.",
+  "text": "Lerne die verschiedenen Rendering-Modi kennen, die in Nuxt verfügbar sind.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lerne die verschiedenen Rendering-Modi kennen, die in Nuxt verfügbar sind."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

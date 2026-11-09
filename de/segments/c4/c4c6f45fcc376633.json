@@ -1,0 +1,14 @@
+{
+  "hash": "c4c6f45fcc376633",
+  "source": "Incremental type-checking",
+  "text": "Inkrementelle Typprüfung",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Inkrementelle Typprüfung"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

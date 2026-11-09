@@ -1,0 +1,14 @@
+{
+  "hash": "3bbe92315319e986",
+  "source": "**Search Engine Optimization**: Universal rendering delivers the entire HTML content of the page to the browser as a classic server application. Web crawlers can directly index the page's content, which makes Universal rendering a great choice for any content that you want to index quickly.",
+  "text": "**Suchmaschinenoptimierung**: Universelles Rendering liefert wie eine klassische Serveranwendung den gesamten HTML-Inhalt der Seite an den Browser aus. Web-Crawler können den Inhalt der Seite direkt indexieren. Das macht universelles Rendering zu einer guten Wahl für alle Inhalte, die schnell indexiert werden sollen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Suchmaschinenoptimierung**: Universelles Rendering liefert wie eine klassische Serveranwendung den gesamten HTML-Inhalt der Seite an den Browser aus. Web-Crawler können den Inhalt der Seite direkt indexieren. Das macht universelles Rendering zu einer guten Wahl für alle Inhalte, die schnell indexiert werden sollen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

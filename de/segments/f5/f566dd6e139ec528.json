@@ -1,0 +1,14 @@
+{
+  "hash": "f566dd6e139ec528",
+  "source": "Called when a fatal error occurs.",
+  "text": "Wird aufgerufen, wenn ein schwerwiegender Fehler auftritt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird aufgerufen, wenn ein schwerwiegender Fehler auftritt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

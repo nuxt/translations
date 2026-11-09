@@ -1,0 +1,14 @@
+{
+  "hash": "534dd4d0fd162198",
+  "source": "Type-check in build mode, using TypeScript project references (detected automatically by default)",
+  "text": "Typprüfung im Build-Modus mit TypeScript-Projektreferenzen (standardmäßig automatisch erkannt)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Typprüfung im Build-Modus mit TypeScript-Projektreferenzen (standardmäßig automatisch erkannt)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "023e3bb78bf386e1",
+  "source": "Nuxt Kit provides a set of utilities to help you work with auto-imports. These functions allow you to register your own utils, composables and Vue APIs.",
+  "text": "Nuxt Kit stellt eine Reihe von Hilfsmitteln bereit, mit denen du automatische Importe verwalten kannst. Mit diesen Funktionen kannst du eigene Utilities, Composables und Vue-APIs registrieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Kit stellt eine Reihe von Hilfsmitteln bereit, mit denen du automatische Importe verwalten kannst. Mit diesen Funktionen kannst du eigene Utilities, Composables und Vue-APIs registrieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

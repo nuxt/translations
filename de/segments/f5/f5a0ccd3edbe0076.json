@@ -1,0 +1,14 @@
+{
+  "hash": "f5a0ccd3edbe0076",
+  "source": "Providing Helpers",
+  "text": "Hilfsprogramme bereitstellen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Hilfsprogramme bereitstellen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

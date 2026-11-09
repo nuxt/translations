@@ -1,0 +1,14 @@
+{
+  "hash": "8c2d4c56ce833c38",
+  "source": "Giving the {0} as argument to {1} is optional, but it is recommended to pass it to get the runtime config overwritten by {2}environment variables{/2} at runtime for server routes.",
+  "text": "Das Übergeben von {0} als Argument an {1} ist optional. Es wird jedoch empfohlen, damit die Laufzeitkonfiguration in Server-Routen zur Laufzeit durch {2}Umgebungsvariablen{/2} überschrieben wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Übergeben von {0} als Argument an {1} ist optional. Es wird jedoch empfohlen, damit die Laufzeitkonfiguration in Server-Routen zur Laufzeit durch {2}Umgebungsvariablen{/2} überschrieben wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

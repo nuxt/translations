@@ -1,0 +1,14 @@
+{
+  "hash": "56d1b14fcd5fdde9",
+  "source": "Get the Nuxt instance from the context. It will throw an error if Nuxt is not available.",
+  "text": "Ruft die Nuxt-Instanz aus dem Kontext ab. Ist Nuxt nicht verfügbar, wird ein Fehler ausgelöst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ruft die Nuxt-Instanz aus dem Kontext ab. Ist Nuxt nicht verfügbar, wird ein Fehler ausgelöst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

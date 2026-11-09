@@ -1,0 +1,14 @@
+{
+  "hash": "281a8172a8a33934",
+  "source": "A linter powered by {0}ESLint{/0}, run it with {1}",
+  "text": "Ein Linter auf Basis von {0}ESLint{/0}, den du mit {1} ausführst",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein Linter auf Basis von {0}ESLint{/0}, den du mit {1} ausführst"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

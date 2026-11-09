@@ -1,0 +1,14 @@
+{
+  "hash": "558312620deb4795",
+  "source": "Navigation with dangerous protocol.",
+  "text": "Navigation mit gefährlichem Protokoll.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Navigation mit gefährlichem Protokoll."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

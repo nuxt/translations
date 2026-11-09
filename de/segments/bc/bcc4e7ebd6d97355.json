@@ -1,0 +1,14 @@
+{
+  "hash": "bcc4e7ebd6d97355",
+  "source": "{0} and {1} are left alone, because {2} descriptors already express them.",
+  "text": "{0} und {1} bleiben unberührt, da {2}-Deskriptoren sie bereits ausdrücken.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} und {1} bleiben unberührt, da {2}-Deskriptoren sie bereits ausdrücken."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

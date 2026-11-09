@@ -1,0 +1,14 @@
+{
+  "hash": "6045a29b799c1854",
+  "source": "The path to reload (defaulting to the current path). If this is different from the current window location it will trigger a navigation and add an entry in the browser history.",
+  "text": "Der Pfad, der neu geladen werden soll (standardmäßig der aktuelle Pfad). Weicht er von der aktuellen Fensteradresse ab, löst das eine Navigation aus und fügt einen Eintrag im Browserverlauf hinzu.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Pfad, der neu geladen werden soll (standardmäßig der aktuelle Pfad). Weicht er von der aktuellen Fensteradresse ab, löst das eine Navigation aus und fügt einen Eintrag im Browserverlauf hinzu."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

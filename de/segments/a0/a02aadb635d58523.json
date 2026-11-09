@@ -1,0 +1,14 @@
+{
+  "hash": "a02aadb635d58523",
+  "source": "A string, without whitespace, specifying the name of the browsing context the resource is being loaded into.",
+  "text": "Ein String ohne Leerzeichen, der den Namen des Browsing-Kontexts angibt, in den die Ressource geladen wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein String ohne Leerzeichen, der den Namen des Browsing-Kontexts angibt, in den die Ressource geladen wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

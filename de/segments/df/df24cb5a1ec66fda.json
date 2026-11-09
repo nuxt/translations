@@ -1,0 +1,14 @@
+{
+  "hash": "df24cb5a1ec66fda",
+  "source": "Server Event API Changes (h3 v2)",
+  "text": "Änderungen an der Server-Event-API (h3 v2)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Änderungen an der Server-Event-API (h3 v2)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

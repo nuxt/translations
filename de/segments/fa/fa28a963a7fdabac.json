@@ -1,0 +1,14 @@
+{
+  "hash": "fa28a963a7fdabac",
+  "source": "**template**: A template object. It must have the following properties:",
+  "text": "**template**: Ein Vorlagenobjekt. Es muss die folgenden Eigenschaften besitzen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**template**: Ein Vorlagenobjekt. Es muss die folgenden Eigenschaften besitzen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

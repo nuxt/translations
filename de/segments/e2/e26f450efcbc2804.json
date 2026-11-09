@@ -1,0 +1,14 @@
+{
+  "hash": "e26f450efcbc2804",
+  "source": "Adding Global Scripts",
+  "text": "Globale Skripte hinzufügen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Globale Skripte hinzufügen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

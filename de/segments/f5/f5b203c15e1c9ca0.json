@@ -1,0 +1,14 @@
+{
+  "hash": "f5b203c15e1c9ca0",
+  "source": "Never stop a preview server already running on this project",
+  "text": "Eine bereits laufende Vorschau für dieses Projekt nie beenden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine bereits laufende Vorschau für dieses Projekt nie beenden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "47c36d29572b2a88",
+  "source": "{0}: print formatted DOM to console.",
+  "text": "{0}: gibt das formatierte DOM in der Konsole aus.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: gibt das formatierte DOM in der Konsole aus."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

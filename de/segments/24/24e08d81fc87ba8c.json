@@ -1,0 +1,14 @@
+{
+  "hash": "24e08d81fc87ba8c",
+  "source": "Enable the profiler in webpackbar.",
+  "text": "Aktiviert den Profiler in webpackbar.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Aktiviert den Profiler in webpackbar."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

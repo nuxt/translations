@@ -1,0 +1,14 @@
+{
+  "hash": "29ad3943fcd4824f",
+  "source": "You can disable automatic handling by setting this to {0}, or handle chunk errors manually by setting it to {1}.",
+  "text": "Du kannst die automatische Behandlung deaktivieren, indem du den Wert auf {0} setzt, oder Chunk-Fehler manuell behandeln, indem du ihn auf {1} setzt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst die automatische Behandlung deaktivieren, indem du den Wert auf {0} setzt, oder Chunk-Fehler manuell behandeln, indem du ihn auf {1} setzt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

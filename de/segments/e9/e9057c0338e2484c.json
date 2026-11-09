@@ -1,0 +1,14 @@
+{
+  "hash": "e9057c0338e2484c",
+  "source": "{0}: use plugins and more at the creation of the Nuxt server",
+  "text": "{0}: nutze Plugins und mehr bei der Erstellung des Nuxt-Servers",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: nutze Plugins und mehr bei der Erstellung des Nuxt-Servers"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

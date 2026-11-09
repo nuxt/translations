@@ -1,0 +1,14 @@
+{
+  "hash": "9babe4f4af469c37",
+  "source": "**{0}**: Get deployment instructions for a specific hosting provider",
+  "text": "**{0}**: Anleitung zur Bereitstellung bei einem bestimmten Hosting-Anbieter erhalten",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}**: Anleitung zur Bereitstellung bei einem bestimmten Hosting-Anbieter erhalten"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

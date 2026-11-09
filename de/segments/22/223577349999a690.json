@@ -1,0 +1,14 @@
+{
+  "hash": "223577349999a690",
+  "source": "The following directories are related to the universal Nuxt application:",
+  "text": "Die folgenden Verzeichnisse gehören zur universellen Nuxt-Anwendung:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die folgenden Verzeichnisse gehören zur universellen Nuxt-Anwendung:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

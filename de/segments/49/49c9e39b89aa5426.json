@@ -1,0 +1,14 @@
+{
+  "hash": "49c9e39b89aa5426",
+  "source": "Check if current Nuxt instance is of specified major version",
+  "text": "Prüft, ob die aktuelle Nuxt-Instanz die angegebene Hauptversion hat",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Prüft, ob die aktuelle Nuxt-Instanz die angegebene Hauptversion hat"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

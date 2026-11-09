@@ -1,0 +1,14 @@
+{
+  "hash": "aa3cb6afbbf1fdac",
+  "source": "True when rendering HTML on the server in the prerender stage of your build.",
+  "text": "True, wenn HTML auf dem Server in der Vorab-Rendering-Phase deines Builds gerendert wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "True, wenn HTML auf dem Server in der Vorab-Rendering-Phase deines Builds gerendert wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "53638acba2790cbc",
+  "source": "Learn how to migrate from Nuxt 2 to Nuxt 3 build tooling.",
+  "text": "Erfahre, wie du die Build-Werkzeuge von Nuxt 2 auf Nuxt 3 migrierst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erfahre, wie du die Build-Werkzeuge von Nuxt 2 auf Nuxt 3 migrierst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

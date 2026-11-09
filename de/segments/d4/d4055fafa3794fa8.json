@@ -1,0 +1,14 @@
+{
+  "hash": "d4055fafa3794fa8",
+  "source": "Resolution",
+  "text": "Lösung",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lösung"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

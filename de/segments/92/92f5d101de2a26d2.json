@@ -1,0 +1,14 @@
+{
+  "hash": "92f5d101de2a26d2",
+  "source": "Watch specified path for changes, including file additions and file deletions.",
+  "text": "Überwacht den angegebenen Pfad auf Änderungen, einschließlich hinzugefügter und gelöschter Dateien.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Überwacht den angegebenen Pfad auf Änderungen, einschließlich hinzugefügter und gelöschter Dateien."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

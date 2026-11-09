@@ -1,0 +1,14 @@
+{
+  "hash": "d884a624ccfe11f9",
+  "source": "🔎 Check {0}the Nitro deployment{/0} for all possible deployment presets and providers.",
+  "text": "🔎 Alle möglichen Presets und Anbieter für die Bereitstellung findest du unter {0}Nitro-Deployment{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "🔎 Alle möglichen Presets und Anbieter für die Bereitstellung findest du unter {0}Nitro-Deployment{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

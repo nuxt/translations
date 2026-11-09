@@ -1,0 +1,14 @@
+{
+  "hash": "2599d61e48e444ca",
+  "source": "Extracts handler functions from {0} and {1} calls into separate chunks for improved code splitting and caching efficiency.",
+  "text": "Extrahiert Handler-Funktionen aus {0}- und {1}-Aufrufen in separate Chunks, um Code-Splitting und Caching-Effizienz zu verbessern.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Extrahiert Handler-Funktionen aus {0}- und {1}-Aufrufen in separate Chunks, um Code-Splitting und Caching-Effizienz zu verbessern."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

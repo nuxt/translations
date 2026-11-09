@@ -1,0 +1,14 @@
+{
+  "hash": "7344a5929243ec05",
+  "source": "In development the streaming handler logs a warning naming the dropped mutations and the route, so these never fail silently.",
+  "text": "In der Entwicklung protokolliert der Streaming-Handler eine Warnung, die die verworfenen Mutationen und die Route nennt, sodass sie nie unbemerkt fehlschlagen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In der Entwicklung protokolliert der Streaming-Handler eine Warnung, die die verworfenen Mutationen und die Route nennt, sodass sie nie unbemerkt fehlschlagen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

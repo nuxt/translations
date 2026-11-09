@@ -1,0 +1,14 @@
+{
+  "hash": "1358bad4d85a0886",
+  "source": "Resolves the full path to a file or directory, respecting Nuxt alias and extensions options. If a path could not be resolved, a normalized input path will be returned.",
+  "text": "Löst den vollständigen Pfad zu einer Datei oder einem Verzeichnis auf und berücksichtigt dabei die Nuxt-Optionen für Aliasse und Dateiendungen. Lässt sich ein Pfad nicht auflösen, wird der normalisierte Eingabepfad zurückgegeben.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Löst den vollständigen Pfad zu einer Datei oder einem Verzeichnis auf und berücksichtigt dabei die Nuxt-Optionen für Aliasse und Dateiendungen. Lässt sich ein Pfad nicht auflösen, wird der normalisierte Eingabepfad zurückgegeben."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

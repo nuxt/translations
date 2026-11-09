@@ -1,0 +1,14 @@
+{
+  "hash": "004d0f59f0298fd3",
+  "source": "Factory for default value of {0} before async resolves.",
+  "text": "Factory-Funktion für den Standardwert von {0}, bevor die asynchrone Operation abgeschlossen ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Factory-Funktion für den Standardwert von {0}, bevor die asynchrone Operation abgeschlossen ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

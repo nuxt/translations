@@ -1,0 +1,14 @@
+{
+  "hash": "27fa24eeea18461c",
+  "source": "Add webpack plugins.",
+  "text": "Fügt webpack-plugins hinzu.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fügt webpack-plugins hinzu."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

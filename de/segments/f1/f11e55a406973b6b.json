@@ -1,0 +1,14 @@
+{
+  "hash": "f11e55a406973b6b",
+  "source": "If you rely on {0} setting state to {1}, you can explicitly pass {2}:",
+  "text": "Wenn du dich darauf verlässt, dass {0} den State auf {1} setzt, kannst du {2} explizit übergeben:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du dich darauf verlässt, dass {0} den State auf {1} setzt, kannst du {2} explizit übergeben:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

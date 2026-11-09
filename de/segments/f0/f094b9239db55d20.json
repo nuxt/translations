@@ -1,0 +1,14 @@
+{
+  "hash": "f094b9239db55d20",
+  "source": "If you are adding a new feature or refactoring or changing the behavior of Nuxt in any other manner, you'll likely want to document the changes. Please include any changes to the docs in the same PR. You don't have to write documentation up on the first commit (but please do so as soon as your pull request is mature enough).",
+  "text": "Wenn du ein neues Feature hinzufügst, Code refaktorierst oder das Verhalten von Nuxt auf andere Weise änderst, solltest du die Änderungen wahrscheinlich dokumentieren. Bitte nimm alle Änderungen an der Dokumentation in denselben PR auf. Du musst die Dokumentation nicht schon im ersten Commit schreiben (bitte tu es aber, sobald dein Pull Request ausgereift genug ist).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du ein neues Feature hinzufügst, Code refaktorierst oder das Verhalten von Nuxt auf andere Weise änderst, solltest du die Änderungen wahrscheinlich dokumentieren. Bitte nimm alle Änderungen an der Dokumentation in denselben PR auf. Du musst die Dokumentation nicht schon im ersten Commit schreiben (bitte tu es aber, sobald dein Pull Request ausgereift genug ist)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

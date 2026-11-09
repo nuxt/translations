@@ -1,0 +1,14 @@
+{
+  "hash": "a3d54667afec7329",
+  "source": "Create a {0} folder at the root of your application:",
+  "text": "Erstelle im Stammverzeichnis deiner Anwendung einen Ordner {0}:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erstelle im Stammverzeichnis deiner Anwendung einen Ordner {0}:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

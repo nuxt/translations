@@ -1,0 +1,14 @@
+{
+  "hash": "f7068a6e3212f7d7",
+  "source": "When using reactive keys in {0} or {1}, Nuxt automatically refetches data when the key changes. When {2} is set, {3} will only fetch data when the key changes if the data has already been fetched once.",
+  "text": "Wenn du reaktive Schlüssel in {0} oder {1} verwendest, lädt Nuxt die Daten automatisch neu, sobald sich der Schlüssel ändert. Ist {2} gesetzt, lädt {3} bei einer Schlüsseländerung nur dann Daten, wenn sie bereits einmal geladen wurden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du reaktive Schlüssel in {0} oder {1} verwendest, lädt Nuxt die Daten automatisch neu, sobald sich der Schlüssel ändert. Ist {2} gesetzt, lädt {3} bei einer Schlüsseländerung nur dann Daten, wenn sie bereits einmal geladen wurden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "2e48f6099ca06646",
+  "source": "**A handler registered with no {0} was global middleware.** Nitro v3 requires a route. If you need middleware, register it with {1} and an explicit route, even if it is intended to run on every path {2}.",
+  "text": "**Ein Handler, der ohne {0} registriert wurde, war globale middleware.** Nitro v3 erfordert eine Route. Wenn du middleware brauchst, registriere sie mit {1} und einer expliziten Route, auch wenn sie auf jedem Pfad laufen soll {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Ein Handler, der ohne {0} registriert wurde, war globale middleware.** Nitro v3 erfordert eine Route. Wenn du middleware brauchst, registriere sie mit {1} und einer expliziten Route, auch wenn sie auf jedem Pfad laufen soll {2}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

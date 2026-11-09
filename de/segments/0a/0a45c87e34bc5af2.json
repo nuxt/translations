@@ -1,0 +1,14 @@
+{
+  "hash": "0a45c87e34bc5af2",
+  "source": "In more complex applications, we may need a full control over how our application is rendered to support cases where some pages could be generated at build time, while others should be client-side rendered",
+  "text": "In komplexeren Anwendungen benötigen wir möglicherweise volle Kontrolle darüber, wie die Anwendung gerendert wird, um Fälle zu unterstützen, in denen einige Seiten zur Build-Zeit generiert werden könnten, während andere clientseitig gerendert werden sollen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In komplexeren Anwendungen benötigen wir möglicherweise volle Kontrolle darüber, wie die Anwendung gerendert wird, um Fälle zu unterstützen, in denen einige Seiten zur Build-Zeit generiert werden könnten, während andere clientseitig gerendert werden sollen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "93aa2f16b466b4fc",
+  "source": "Prerender and Drop Scripts",
+  "text": "Vorab-Rendering und Skripte entfernen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vorab-Rendering und Skripte entfernen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "038bda60468f822c",
+  "source": "this path is relative to the generated .nuxt/tsconfig.json",
+  "text": "dieser Pfad ist relativ zur generierten Datei .nuxt/tsconfig.json",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "dieser Pfad ist relativ zur generierten Datei .nuxt/tsconfig.json"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

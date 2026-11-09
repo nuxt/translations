@@ -1,0 +1,14 @@
+{
+  "hash": "0f87282a419d6f91",
+  "source": "Resets {0} to {1} (or the value of {2} if provided), {3} to {4}, set {5} to {6}, and cancels any pending requests.",
+  "text": "Setzt {0} auf {1} (oder auf den Wert von {2}, falls angegeben), {3} auf {4} und {5} auf {6} zurück und bricht alle ausstehenden Anfragen ab.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Setzt {0} auf {1} (oder auf den Wert von {2}, falls angegeben), {3} auf {4} und {5} auf {6} zurück und bricht alle ausstehenden Anfragen ab."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

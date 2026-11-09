@@ -1,0 +1,14 @@
+{
+  "hash": "ce7040c29fdd9e6c",
+  "source": "Runtime config values can also be {0}declared with a Standard Schema{/0}, such as a Zod or ArkType schema, to set their type without a default or to make them required.",
+  "text": "Werte der Laufzeitkonfiguration können außerdem {0}mit einem Standard Schema deklariert{/0} werden, z. B. mit einem Zod- oder ArkType-Schema, um ihren Typ ohne Standardwert festzulegen oder sie als erforderlich zu markieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Werte der Laufzeitkonfiguration können außerdem {0}mit einem Standard Schema deklariert{/0} werden, z. B. mit einem Zod- oder ArkType-Schema, um ihren Typ ohne Standardwert festzulegen oder sie als erforderlich zu markieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

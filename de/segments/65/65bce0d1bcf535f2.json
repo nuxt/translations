@@ -1,0 +1,14 @@
+{
+  "hash": "65bce0d1bcf535f2",
+  "source": "Read the query string, optionally {0}validated{/0}.",
+  "text": "Liest den Query-String, optional {0}validiert{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Liest den Query-String, optional {0}validiert{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

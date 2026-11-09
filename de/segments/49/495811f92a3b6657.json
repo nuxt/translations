@@ -1,0 +1,14 @@
+{
+  "hash": "495811f92a3b6657",
+  "source": "Now, they are only accessible on the route object.",
+  "text": "Jetzt sind sie nur noch am Route-Objekt zugänglich.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Jetzt sind sie nur noch am Route-Objekt zugänglich."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

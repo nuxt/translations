@@ -1,0 +1,14 @@
+{
+  "hash": "1091d23c51573330",
+  "source": "**Server plugins.** {0} comes from {1}. Inside a plugin, {2} from {3} registers the renderer hooks (including {4}) and those declared on {5}; Nitro's own hooks, such as {6}, {7} and {8}, come from {9} in {10}.",
+  "text": "**Server-Plugins.** {0} stammt aus {1}. Innerhalb eines Plugins registriert {2} aus {3} die Renderer-Hooks (einschließlich {4}) und diejenigen, die auf {5} deklariert sind; die eigenen Hooks von Nitro, etwa {6}, {7} und {8}, stammen aus {9} in {10}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Server-Plugins.** {0} stammt aus {1}. Innerhalb eines Plugins registriert {2} aus {3} die Renderer-Hooks (einschließlich {4}) und diejenigen, die auf {5} deklariert sind; die eigenen Hooks von Nitro, etwa {6}, {7} und {8}, stammen aus {9} in {10}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

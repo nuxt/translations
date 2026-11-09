@@ -1,0 +1,14 @@
+{
+  "hash": "55db84ef5473bd96",
+  "source": "Scaffold an entity into your Nuxt application.",
+  "text": "Erstellt ein Grundgerüst für eine Entität in deiner Nuxt-Anwendung.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erstellt ein Grundgerüst für eine Entität in deiner Nuxt-Anwendung."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

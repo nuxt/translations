@@ -1,0 +1,14 @@
+{
+  "hash": "7d5d686bb37b17bc",
+  "source": "In server routes, the error class is now {0} (replacing {1} from {2}):",
+  "text": "In Server-Routen heißt die Fehlerklasse jetzt {0} (sie ersetzt {1} aus {2}):",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In Server-Routen heißt die Fehlerklasse jetzt {0} (sie ersetzt {1} aus {2}):"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

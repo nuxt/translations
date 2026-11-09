@@ -1,0 +1,14 @@
+{
+  "hash": "ed5e03402fabaf0d",
+  "source": "Import anything else from {0}. {1} is not a re-export of h3, so helpers such as {2} are not part of it.",
+  "text": "Importiere alles andere aus {0}. {1} ist kein Re-Export von h3, daher gehören Hilfsfunktionen wie {2} nicht dazu.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Importiere alles andere aus {0}. {1} ist kein Re-Export von h3, daher gehören Hilfsfunktionen wie {2} nicht dazu."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

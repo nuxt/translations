@@ -1,0 +1,14 @@
+{
+  "hash": "87be796166053f74",
+  "source": "Add a directory to be scanned for auto-imports by Nitro.",
+  "text": "Fügt ein Verzeichnis hinzu, das Nitro nach automatischen Importen durchsucht.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fügt ein Verzeichnis hinzu, das Nitro nach automatischen Importen durchsucht."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

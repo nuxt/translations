@@ -1,0 +1,14 @@
+{
+  "hash": "b34081c891197174",
+  "source": "Get the response from the server endpoint",
+  "text": "Die Antwort vom Server-Endpunkt abrufen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Antwort vom Server-Endpunkt abrufen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

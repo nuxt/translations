@@ -1,0 +1,14 @@
+{
+  "hash": "15881c4ec1e345e3",
+  "source": "If you have any local modules pointing to a directory you should update this to point to the entry file:",
+  "text": "Wenn du lokale Module hast, die auf ein Verzeichnis verweisen, solltest du sie so aktualisieren, dass sie auf die Einstiegsdatei verweisen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du lokale Module hast, die auf ein Verzeichnis verweisen, solltest du sie so aktualisieren, dass sie auf die Einstiegsdatei verweisen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

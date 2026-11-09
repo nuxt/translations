@@ -1,0 +1,14 @@
+{
+  "hash": "cc8daef8b830dbeb",
+  "source": "Global route middleware can be defined in two ways:",
+  "text": "Globale Routen-Middleware kann auf zwei Arten definiert werden:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Globale Routen-Middleware kann auf zwei Arten definiert werden:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "4d3d89b26b8a9ab6",
+  "source": "You can now get started by adding a {0} declaration to your CSS.",
+  "text": "Jetzt kannst du loslegen, indem du deinem CSS eine {0}-Deklaration hinzufügst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Jetzt kannst du loslegen, indem du deinem CSS eine {0}-Deklaration hinzufügst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

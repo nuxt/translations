@@ -1,0 +1,14 @@
+{
+  "hash": "e451505583edada6",
+  "source": "By default, －－ only adds the type declarations to the Nuxt context. To also add them to the Nitro context, set nitro to true.",
+  "text": "Standardmäßig fügt －－ die Typdeklarationen nur dem Nuxt-Kontext hinzu. Um sie auch dem Nitro-Kontext hinzuzufügen, setze nitro auf true.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardmäßig fügt －－ die Typdeklarationen nur dem Nuxt-Kontext hinzu. Um sie auch dem Nitro-Kontext hinzuzufügen, setze nitro auf true."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

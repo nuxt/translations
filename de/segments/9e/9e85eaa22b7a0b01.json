@@ -1,0 +1,14 @@
+{
+  "hash": "9e85eaa22b7a0b01",
+  "source": "Depending on Local Modules",
+  "text": "Abhängigkeit von lokalen Modulen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Abhängigkeit von lokalen Modulen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

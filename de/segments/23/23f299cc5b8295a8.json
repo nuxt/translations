@@ -1,0 +1,14 @@
+{
+  "hash": "23f299cc5b8295a8",
+  "source": "Add the Nuxt MCP server configuration",
+  "text": "Füge die Konfiguration des Nuxt-MCP-Servers hinzu",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Füge die Konfiguration des Nuxt-MCP-Servers hinzu"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

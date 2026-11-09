@@ -1,0 +1,14 @@
+{
+  "hash": "0dfdc4441125acb2",
+  "source": "Client-only components ({0} files and {1} wrappers) now render an HTML comment ({2}) on the server instead of an empty {3} element.",
+  "text": "Reine Client-Komponenten ({0}-Dateien und {1}-Wrapper) rendern auf dem Server jetzt einen HTML-Kommentar ({2}) statt eines leeren {3}-Elements.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Reine Client-Komponenten ({0}-Dateien und {1}-Wrapper) rendern auf dem Server jetzt einen HTML-Kommentar ({2}) statt eines leeren {3}-Elements."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

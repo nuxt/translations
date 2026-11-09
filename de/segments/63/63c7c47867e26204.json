@@ -1,0 +1,14 @@
+{
+  "hash": "63c7c47867e26204",
+  "source": "Notable Changes in Nitro v3",
+  "text": "Wichtige Änderungen in Nitro v3",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wichtige Änderungen in Nitro v3"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

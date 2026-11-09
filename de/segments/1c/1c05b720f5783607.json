@@ -1,0 +1,14 @@
+{
+  "hash": "1c05b720f5783607",
+  "source": "Check the server component for errors that would prevent it from rendering, and confirm the island endpoint returns a valid response. Inspect the network response for the island request to see what the server actually returned.",
+  "text": "Prüfe die Serverkomponente auf Fehler, die das Rendern verhindern könnten, und stelle sicher, dass der Island-Endpunkt eine gültige Antwort zurückgibt. Untersuche die Netzwerkantwort der Island-Anfrage, um zu sehen, was der Server tatsächlich zurückgegeben hat.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Prüfe die Serverkomponente auf Fehler, die das Rendern verhindern könnten, und stelle sicher, dass der Island-Endpunkt eine gültige Antwort zurückgibt. Untersuche die Netzwerkantwort der Island-Anfrage, um zu sehen, was der Server tatsächlich zurückgegeben hat."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

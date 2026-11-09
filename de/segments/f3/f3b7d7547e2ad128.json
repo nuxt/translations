@@ -1,0 +1,14 @@
+{
+  "hash": "f3b7d7547e2ad128",
+  "source": "While an in-depth knowledge of Vue is not required to use Nuxt, we recommend that you read the documentation and go through some of the examples on {0}vuejs.org{/0}.",
+  "text": "Für die Arbeit mit Nuxt ist fundiertes Vue-Wissen zwar nicht erforderlich, wir empfehlen dir aber, die Dokumentation zu lesen und einige der Beispiele auf {0}vuejs.org{/0} durchzugehen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Für die Arbeit mit Nuxt ist fundiertes Vue-Wissen zwar nicht erforderlich, wir empfehlen dir aber, die Dokumentation zu lesen und einige der Beispiele auf {0}vuejs.org{/0} durchzugehen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

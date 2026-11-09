@@ -1,0 +1,14 @@
+{
+  "hash": "4049c2af0cf0771a",
+  "source": "To type runtime config keys your module adds, augment {0} (or {1}) from {2}. The keys are then typed in {3}, {4} and {5} files alike.",
+  "text": "Um Schlüssel der Laufzeitkonfiguration zu typisieren, die dein Modul hinzufügt, erweitere {0} (oder {1}) aus {2}. Die Schlüssel sind dann in {3}-, {4}- und {5}-Dateien gleichermaßen typisiert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um Schlüssel der Laufzeitkonfiguration zu typisieren, die dein Modul hinzufügt, erweitere {0} (oder {1}) aus {2}. Die Schlüssel sind dann in {3}-, {4}- und {5}-Dateien gleichermaßen typisiert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

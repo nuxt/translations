@@ -1,0 +1,14 @@
+{
+  "hash": "7de597740ca2748c",
+  "source": "This affects both build-time Nuxt hooks (used by Nuxt modules) and runtime Nuxt hooks (which you might use in your application code).",
+  "text": "Das betrifft sowohl Nuxt-Hooks zur Build-Zeit (die von Nuxt-Modulen verwendet werden) als auch Nuxt-Hooks zur Laufzeit (die du möglicherweise in deinem Anwendungscode nutzt).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das betrifft sowohl Nuxt-Hooks zur Build-Zeit (die von Nuxt-Modulen verwendet werden) als auch Nuxt-Hooks zur Laufzeit (die du möglicherweise in deinem Anwendungscode nutzt)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

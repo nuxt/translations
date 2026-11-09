@@ -1,0 +1,14 @@
+{
+  "hash": "312c80d561dead25",
+  "source": "Responds with an early 404 error for requests whose path cannot match any page route, without loading the Vue app, its plugins or middleware on the server.",
+  "text": "Antwortet frühzeitig mit einem 404-Fehler auf Anfragen, deren Pfad zu keiner Seitenroute passen kann, ohne die Vue-App, ihre Plugins oder Middleware auf dem Server zu laden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Antwortet frühzeitig mit einem 404-Fehler auf Anfragen, deren Pfad zu keiner Seitenroute passen kann, ohne die Vue-App, ihre Plugins oder Middleware auf dem Server zu laden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

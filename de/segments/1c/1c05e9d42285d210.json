@@ -1,0 +1,14 @@
+{
+  "hash": "1c05e9d42285d210",
+  "source": "content routes ship plain HTML and CSS, and navigation to them is a speculatively prefetched document load",
+  "text": "Inhaltsrouten liefern reines HTML und CSS aus, und die Navigation dorthin ist ein spekulativ per Prefetch geladener Dokumentabruf",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Inhaltsrouten liefern reines HTML und CSS aus, und die Navigation dorthin ist ein spekulativ per Prefetch geladener Dokumentabruf"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

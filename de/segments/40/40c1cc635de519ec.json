@@ -1,0 +1,14 @@
+{
+  "hash": "40c1cc635de519ec",
+  "source": "{0} API is using {1}ofetch{/1}, with key features including:",
+  "text": "Die {0}-API verwendet {1}ofetch{/1} und bietet unter anderem folgende Funktionen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die {0}-API verwendet {1}ofetch{/1} und bietet unter anderem folgende Funktionen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

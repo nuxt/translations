@@ -1,0 +1,14 @@
+{
+  "hash": "a727a20ded9fddc2",
+  "source": "If your module depends on other modules, you can declare them using the {0} option. Nuxt then ensures those modules are installed in the correct order, validates any version constraints you provide, and merges configuration you supply for them.",
+  "text": "Wenn dein Modul von anderen Modulen abhängt, kannst du diese mit der Option {0} deklarieren. Nuxt stellt dann sicher, dass diese Module in der richtigen Reihenfolge installiert werden, prüft die von dir angegebenen Versionseinschränkungen und führt die Konfiguration zusammen, die du für sie angibst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn dein Modul von anderen Modulen abhängt, kannst du diese mit der Option {0} deklarieren. Nuxt stellt dann sicher, dass diese Module in der richtigen Reihenfolge installiert werden, prüft die von dir angegebenen Versionseinschränkungen und führt die Konfiguration zusammen, die du für sie angibst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

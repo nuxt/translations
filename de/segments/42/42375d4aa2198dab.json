@@ -1,0 +1,14 @@
+{
+  "hash": "42375d4aa2198dab",
+  "source": "New DOM Location for SPA Loading Screen",
+  "text": "Neuer DOM-Ort für den SPA-Ladebildschirm",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Neuer DOM-Ort für den SPA-Ladebildschirm"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

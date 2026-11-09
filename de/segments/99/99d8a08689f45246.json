@@ -1,0 +1,14 @@
+{
+  "hash": "99d8a08689f45246",
+  "source": "Enable Layouts",
+  "text": "Layouts aktivieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Layouts aktivieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

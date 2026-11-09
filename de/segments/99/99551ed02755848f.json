@@ -1,0 +1,14 @@
+{
+  "hash": "99551ed02755848f",
+  "source": "The server build is named {0} rather than {1}. Code that looks up the server configuration in {2} needs to check for both:",
+  "text": "Der Server-Build heißt {0} statt {1}. Code, der die Server-Konfiguration in {2} sucht, muss beide Namen berücksichtigen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Server-Build heißt {0} statt {1}. Code, der die Server-Konfiguration in {2} sucht, muss beide Namen berücksichtigen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

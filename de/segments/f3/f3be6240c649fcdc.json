@@ -1,0 +1,14 @@
+{
+  "hash": "f3be6240c649fcdc",
+  "source": "Sessions Come From {0}",
+  "text": "Sitzungen stammen aus {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sitzungen stammen aus {0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "f2bf7cf5951904bb",
+  "source": "Or you can install it manually.",
+  "text": "Alternativ kannst du das Modul manuell installieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Alternativ kannst du das Modul manuell installieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "9c8ddac7d4552075",
+  "source": "Then, run {0} command to check your types:",
+  "text": "Führe anschließend den Befehl {0} aus, um deine Typen zu prüfen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Führe anschließend den Befehl {0} aus, um deine Typen zu prüfen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

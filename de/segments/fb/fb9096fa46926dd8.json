@@ -1,0 +1,14 @@
+{
+  "hash": "fb9096fa46926dd8",
+  "source": "You can also opt for prefetching on interaction instead:",
+  "text": "Du kannst stattdessen auch Prefetching bei Interaktion verwenden:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst stattdessen auch Prefetching bei Interaktion verwenden:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

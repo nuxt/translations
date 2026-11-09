@@ -1,0 +1,14 @@
+{
+  "hash": "13e4abfef54ef09a",
+  "source": "Unlike on the server, the browser executes the full {0}Vue lifecycle{/0}.",
+  "text": "Anders als auf dem Server durchläuft der Browser den vollständigen {0}Vue-Lifecycle{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Anders als auf dem Server durchläuft der Browser den vollständigen {0}Vue-Lifecycle{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

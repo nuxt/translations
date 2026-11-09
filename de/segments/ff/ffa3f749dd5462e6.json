@@ -1,0 +1,14 @@
+{
+  "hash": "ffa3f749dd5462e6",
+  "source": "Read more about the options for {0}.",
+  "text": "Weitere Informationen zu den Optionen für {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Weitere Informationen zu den Optionen für {0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

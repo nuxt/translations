@@ -1,0 +1,14 @@
+{
+  "hash": "b139d87a89a19d1b",
+  "source": "You can add, change or remove pages from the scanned routes with the {0} nuxt hook.",
+  "text": "Mit dem Nuxt-Hook {0} kannst du Seiten aus den gescannten Routen hinzufügen, ändern oder entfernen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit dem Nuxt-Hook {0} kannst du Seiten aus den gescannten Routen hinzufügen, ändern oder entfernen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

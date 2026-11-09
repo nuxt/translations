@@ -1,0 +1,14 @@
+{
+  "hash": "e4a17f94abd3af69",
+  "source": "Promise input no longer supported.",
+  "text": "Promise-Eingaben werden nicht mehr unterstützt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Promise-Eingaben werden nicht mehr unterstützt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

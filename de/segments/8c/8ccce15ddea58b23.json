@@ -1,0 +1,14 @@
+{
+  "hash": "8ccce15ddea58b23",
+  "source": "Make sure to install the Pinia module with {0} or follow the {1}module's installation steps{/1}.",
+  "text": "Stelle sicher, dass du das Pinia-Modul mit {0} installierst, oder folge den {1}Installationsschritten des Moduls{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Stelle sicher, dass du das Pinia-Modul mit {0} installierst, oder folge den {1}Installationsschritten des Moduls{/1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

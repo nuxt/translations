@@ -1,0 +1,14 @@
+{
+  "hash": "6a9f0f0b108785a0",
+  "source": "You can also pass an object to configure {0}view transition types{/0}, which allow different CSS animations based on the type of navigation:",
+  "text": "Du kannst auch ein Objekt übergeben, um {0}View-Transition-Typen{/0} zu konfigurieren. Damit lassen sich je nach Art der Navigation unterschiedliche CSS-Animationen verwenden:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst auch ein Objekt übergeben, um {0}View-Transition-Typen{/0} zu konfigurieren. Damit lassen sich je nach Art der Navigation unterschiedliche CSS-Animationen verwenden:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

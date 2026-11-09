@@ -1,0 +1,14 @@
+{
+  "hash": "fc953c376d1f88a3",
+  "source": "Access cdnURL universally",
+  "text": "Auf cdnURL universell zugreifen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auf cdnURL universell zugreifen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "4c10b34af5de4079",
+  "source": "**Smaller files when you ask**: the {0} option subsets a family down to the characters you actually render.",
+  "text": "**Kleinere Dateien auf Wunsch**: Die Option {0} reduziert eine Schriftfamilie auf die Zeichen, die tatsächlich dargestellt werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Kleinere Dateien auf Wunsch**: Die Option {0} reduziert eine Schriftfamilie auf die Zeichen, die tatsächlich dargestellt werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

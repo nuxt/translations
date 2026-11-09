@@ -1,0 +1,14 @@
+{
+  "hash": "830087646fe7930f",
+  "source": "Watch a video from Alexander Lichter about avoiding the 'Nuxt instance is unavailable' error",
+  "text": "Sieh dir ein Video von Alexander Lichter darüber an, wie du den Fehler „Nuxt instance is unavailable“ vermeidest",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sieh dir ein Video von Alexander Lichter darüber an, wie du den Fehler „Nuxt instance is unavailable“ vermeidest"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

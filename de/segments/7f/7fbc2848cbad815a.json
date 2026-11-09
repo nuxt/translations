@@ -1,0 +1,14 @@
+{
+  "hash": "7fbc2848cbad815a",
+  "source": "{0} provides a number of helpers to make testing Nuxt apps easier.",
+  "text": "{0} bietet eine Reihe von Hilfsprogrammen, die das Testen von Nuxt-Apps erleichtern.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} bietet eine Reihe von Hilfsprogrammen, die das Testen von Nuxt-Apps erleichtern."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "d43c39446e35e6ac",
+  "source": "The parsed request URL.",
+  "text": "Die geparste Anfrage-URL.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die geparste Anfrage-URL."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

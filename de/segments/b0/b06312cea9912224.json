@@ -1,0 +1,14 @@
+{
+  "hash": "b06312cea9912224",
+  "source": "Resolve {0}, {1}, {2} and {3} aliases located within layers with respect to their layer source and root directories.",
+  "text": "Löst die Aliasse {0}, {1}, {2} und {3}, die sich in Layern befinden, relativ zum jeweiligen Quell- und Wurzelverzeichnis des Layers auf.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Löst die Aliasse {0}, {1}, {2} und {3}, die sich in Layern befinden, relativ zum jeweiligen Quell- und Wurzelverzeichnis des Layers auf."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

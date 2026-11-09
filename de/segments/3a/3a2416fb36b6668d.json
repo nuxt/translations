@@ -1,0 +1,14 @@
+{
+  "hash": "3a2416fb36b6668d",
+  "source": "Font failures fail production builds",
+  "text": "Schriftfehler lassen Produktions-Builds fehlschlagen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Schriftfehler lassen Produktions-Builds fehlschlagen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

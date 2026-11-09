@@ -1,0 +1,14 @@
+{
+  "hash": "4babf72b667c5cfb",
+  "source": "Called when a {0} is observed to be prefetched.",
+  "text": "Wird aufgerufen, wenn festgestellt wird, dass ein {0} vorab geladen wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird aufgerufen, wenn festgestellt wird, dass ein {0} vorab geladen wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

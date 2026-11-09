@@ -1,0 +1,14 @@
+{
+  "hash": "3475cae7fdb18502",
+  "source": "Providers handle a weight range differently:",
+  "text": "Provider behandeln einen Schriftstärkenbereich unterschiedlich:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Provider behandeln einen Schriftstärkenbereich unterschiedlich:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

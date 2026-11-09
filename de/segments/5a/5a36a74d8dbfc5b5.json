@@ -1,0 +1,14 @@
+{
+  "hash": "5a36a74d8dbfc5b5",
+  "source": "Prerender routes while analyzing",
+  "text": "Routen während der Analyse vorab rendern",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Routen während der Analyse vorab rendern"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

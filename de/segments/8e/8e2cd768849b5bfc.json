@@ -1,0 +1,14 @@
+{
+  "hash": "8e2cd768849b5bfc",
+  "source": "Prerendered API routes in production may not return the expected response headers, depending on the provider you deploy to. For example, a JSON response might be served with an {0} content type. Always manually set {1} when fetching prerendered API routes.",
+  "text": "Vorab gerenderte API-Routen liefern in der Produktion je nach Anbieter, bei dem du bereitstellst, möglicherweise nicht die erwarteten Antwort-Header zurück. So kann eine JSON-Antwort beispielsweise mit dem Inhaltstyp {0} ausgeliefert werden. Setze {1} beim Abrufen vorab gerenderter API-Routen daher immer manuell.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vorab gerenderte API-Routen liefern in der Produktion je nach Anbieter, bei dem du bereitstellst, möglicherweise nicht die erwarteten Antwort-Header zurück. So kann eine JSON-Antwort beispielsweise mit dem Inhaltstyp {0} ausgeliefert werden. Setze {1} beim Abrufen vorab gerenderter API-Routen daher immer manuell."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

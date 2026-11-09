@@ -1,0 +1,14 @@
+{
+  "hash": "1cba783e71e921c7",
+  "source": "Directory index scanning",
+  "text": "Scannen von Verzeichnis-Indexdateien",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Scannen von Verzeichnis-Indexdateien"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

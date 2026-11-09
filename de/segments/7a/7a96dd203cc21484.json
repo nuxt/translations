@@ -1,0 +1,14 @@
+{
+  "hash": "7a96dd203cc21484",
+  "source": "Extend from a git repository",
+  "text": "Von einem Git-Repository erweitern",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Von einem Git-Repository erweitern"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

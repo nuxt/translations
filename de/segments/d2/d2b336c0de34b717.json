@@ -1,0 +1,14 @@
+{
+  "hash": "d2b336c0de34b717",
+  "source": "You can pass the error as an {0} object, e.g. caught by the {1}-block:",
+  "text": "Du kannst den Fehler als {0}-Objekt übergeben, z. B. wenn er im {1}-Block abgefangen wurde:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst den Fehler als {0}-Objekt übergeben, z. B. wenn er im {1}-Block abgefangen wurde:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

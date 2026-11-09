@@ -1,0 +1,14 @@
+{
+  "hash": "d0d027e54b67c411",
+  "source": "if using {0}Nuxt Content v2.13+{/0}, {1} is resolved relative to {2}",
+  "text": "Bei Verwendung von {0}Nuxt Content v2.13+{/0} wird {1} relativ zu {2} aufgelöst",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bei Verwendung von {0}Nuxt Content v2.13+{/0} wird {1} relativ zu {2} aufgelöst"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

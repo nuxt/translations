@@ -1,0 +1,14 @@
+{
+  "hash": "d837139d3c474418",
+  "source": "The package.json file contains all the dependencies and scripts for your application.",
+  "text": "Die Datei package.json enthält alle Abhängigkeiten und Skripte für deine Anwendung.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Datei package.json enthält alle Abhängigkeiten und Skripte für deine Anwendung."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

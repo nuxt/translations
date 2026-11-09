@@ -1,0 +1,14 @@
+{
+  "hash": "3cbefa2e351a7822",
+  "source": "if you ever require to have a replacement during production",
+  "text": "falls du in der Produktion einmal einen Ersatz benötigst",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "falls du in der Produktion einmal einen Ersatz benötigst"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

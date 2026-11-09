@@ -1,0 +1,14 @@
+{
+  "hash": "382e8aedfb2c086e",
+  "source": "**Performance**: Users can get immediate access to the page's content because browsers can display static content much faster than JavaScript-generated content. At the same time, Nuxt preserves the interactivity of a web application during the hydration process.",
+  "text": "**Performance**: Nutzende erhalten sofort Zugriff auf den Inhalt der Seite, da Browser statische Inhalte deutlich schneller anzeigen können als per JavaScript erzeugte Inhalte. Gleichzeitig bewahrt Nuxt während der Hydration die Interaktivität einer Webanwendung.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Performance**: Nutzende erhalten sofort Zugriff auf den Inhalt der Seite, da Browser statische Inhalte deutlich schneller anzeigen können als per JavaScript erzeugte Inhalte. Gleichzeitig bewahrt Nuxt während der Hydration die Interaktivität einer Webanwendung."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

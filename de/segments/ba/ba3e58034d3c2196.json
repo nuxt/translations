@@ -1,0 +1,14 @@
+{
+  "hash": "ba3e58034d3c2196",
+  "source": "Deprecated. Use {0} instead.",
+  "text": "Nicht mehr empfohlen. Verwende stattdessen {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nicht mehr empfohlen. Verwende stattdessen {0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

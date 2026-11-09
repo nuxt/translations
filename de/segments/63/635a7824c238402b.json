@@ -1,0 +1,14 @@
+{
+  "hash": "635a7824c238402b",
+  "source": "The {0} duration is exceeded",
+  "text": "die Dauer {0} überschritten wird",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "die Dauer {0} überschritten wird"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

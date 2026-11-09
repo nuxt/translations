@@ -1,0 +1,14 @@
+{
+  "hash": "a7d803a89e460566",
+  "source": "While Nuxt modules offer extensive functionality, sometimes a specific Vite plugin might meet your needs more directly.",
+  "text": "Nuxt-Module bieten zwar einen großen Funktionsumfang, manchmal erfüllt jedoch ein bestimmtes Vite-Plugin deine Anforderungen direkter.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt-Module bieten zwar einen großen Funktionsumfang, manchmal erfüllt jedoch ein bestimmtes Vite-Plugin deine Anforderungen direkter."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

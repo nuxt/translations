@@ -1,0 +1,14 @@
+{
+  "hash": "24e92c2ae53d0e04",
+  "source": "The <NuxtPage> component is required to display pages located in the pages/ directory.",
+  "text": "Die Komponente <NuxtPage> ist erforderlich, um Seiten aus dem Verzeichnis pages/ anzuzeigen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Komponente <NuxtPage> ist erforderlich, um Seiten aus dem Verzeichnis pages/ anzuzeigen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "f3dce141ab030507",
+  "source": "{0} is a helper function for defining type safe Vue components using options API similar to {1}. {2} wrapper also adds support for {3} and {4} component options.",
+  "text": "{0} ist eine Hilfsfunktion, um typsichere Vue-Komponenten mit der Options API zu definieren, ähnlich wie mit {1}. Der {2}-Wrapper unterstützt zusätzlich die Komponentenoptionen {3} und {4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ist eine Hilfsfunktion, um typsichere Vue-Komponenten mit der Options API zu definieren, ähnlich wie mit {1}. Der {2}-Wrapper unterstützt zusätzlich die Komponentenoptionen {3} und {4}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

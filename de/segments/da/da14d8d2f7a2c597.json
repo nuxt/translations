@@ -1,0 +1,14 @@
+{
+  "hash": "da14d8d2f7a2c597",
+  "source": "When adding modules to your package, things were a little different. A sample library might expose both CJS and ESM versions, and let us pick which one we wanted:",
+  "text": "Beim Hinzufügen von Modulen zu deinem Paket sah es etwas anders aus. Eine Beispielbibliothek kann sowohl CJS- als auch ESM-Versionen bereitstellen und uns die Wahl lassen, welche wir verwenden wollen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Beim Hinzufügen von Modulen zu deinem Paket sah es etwas anders aus. Eine Beispielbibliothek kann sowohl CJS- als auch ESM-Versionen bereitstellen und uns die Wahl lassen, welche wir verwenden wollen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

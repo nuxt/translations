@@ -1,0 +1,14 @@
+{
+  "hash": "bb3f0a1bd88f2d37",
+  "source": "This does not apply to layers inside your own project: {0} loads natively.",
+  "text": "Das gilt nicht für Layer innerhalb deines eigenen Projekts: {0} wird nativ geladen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das gilt nicht für Layer innerhalb deines eigenen Projekts: {0} wird nativ geladen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

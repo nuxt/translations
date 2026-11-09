@@ -1,0 +1,14 @@
+{
+  "hash": "711b8e813ea9fa48",
+  "source": "Event listener on a server component",
+  "text": "Event-Listener auf einer Serverkomponente",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Event-Listener auf einer Serverkomponente"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

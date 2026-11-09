@@ -1,0 +1,14 @@
+{
+  "hash": "c2076973aeb2e770",
+  "source": "This results in faster first rendering (component creation) and updates, and less memory usage. In Nuxt 3, it enables faster server-side rendering as well.",
+  "text": "Das führt zu schnellerem ersten Rendering (Erstellung der Komponenten) und schnelleren Updates sowie zu geringerem Speicherverbrauch. In Nuxt 3 ermöglicht es außerdem schnelleres serverseitiges Rendering.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das führt zu schnellerem ersten Rendering (Erstellung der Komponenten) und schnelleren Updates sowie zu geringerem Speicherverbrauch. In Nuxt 3 ermöglicht es außerdem schnelleres serverseitiges Rendering."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

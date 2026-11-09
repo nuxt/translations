@@ -1,0 +1,14 @@
+{
+  "hash": "0e49ef2597a69a58",
+  "source": "The current platforms where you can leverage ESR are:",
+  "text": "Derzeit kannst du ESR auf diesen Plattformen nutzen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Derzeit kannst du ESR auf diesen Plattformen nutzen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

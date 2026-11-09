@@ -1,0 +1,14 @@
+{
+  "hash": "888f7830e8dedbff",
+  "source": "Internal Routing",
+  "text": "Interne Navigation",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Interne Navigation"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

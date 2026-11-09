@@ -1,0 +1,14 @@
+{
+  "hash": "b4a1fd09576441d6",
+  "source": "Vue with Nuxt",
+  "text": "Vue mit Nuxt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vue mit Nuxt"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

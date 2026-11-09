@@ -1,0 +1,14 @@
+{
+  "hash": "c3d053b99c9ebcaa",
+  "source": "See our blog for the latest framework and ecosystem announcements.",
+  "text": "Die neuesten Ankündigungen zum Framework und zum Ökosystem findest du in unserem Blog.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die neuesten Ankündigungen zum Framework und zum Ökosystem findest du in unserem Blog."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

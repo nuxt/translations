@@ -1,0 +1,14 @@
+{
+  "hash": "22568fc0be8b8ce6",
+  "source": "{0} - node type context (except for the {1} and {2} directories)",
+  "text": "{0} – Node-Typkontext (mit Ausnahme der Verzeichnisse {1} und {2})",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} – Node-Typkontext (mit Ausnahme der Verzeichnisse {1} und {2})"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

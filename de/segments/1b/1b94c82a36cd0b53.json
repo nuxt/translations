@@ -1,0 +1,14 @@
+{
+  "hash": "1b94c82a36cd0b53",
+  "source": "This composable does not return any value. It registers the head metadata with Unhead, which manages the actual DOM updates.",
+  "text": "Dieses Composable gibt keinen Wert zurück. Es registriert die Head-Metadaten bei Unhead, das die eigentlichen DOM-Aktualisierungen verwaltet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dieses Composable gibt keinen Wert zurück. Es registriert die Head-Metadaten bei Unhead, das die eigentlichen DOM-Aktualisierungen verwaltet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

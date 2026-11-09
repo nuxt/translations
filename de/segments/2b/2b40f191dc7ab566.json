@@ -1,0 +1,14 @@
+{
+  "hash": "2b40f191dc7ab566",
+  "source": "{0} registers an {1}unplugin{/1} factory, so a single plugin works across every builder.",
+  "text": "{0} registriert eine {1}unplugin{/1}-Factory, sodass ein einzelnes plugin mit jedem Builder funktioniert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} registriert eine {1}unplugin{/1}-Factory, sodass ein einzelnes plugin mit jedem Builder funktioniert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

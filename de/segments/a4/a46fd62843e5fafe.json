@@ -1,0 +1,14 @@
+{
+  "hash": "a46fd62843e5fafe",
+  "source": "the Vue app is initialized and mounted in browser ({0}).",
+  "text": "die Vue-App wird im Browser initialisiert und gemountet ({0}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "die Vue-App wird im Browser initialisiert und gemountet ({0})."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

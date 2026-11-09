@@ -1,0 +1,14 @@
+{
+  "hash": "f10f73e44867821b",
+  "source": "The **first layer** is the user/project layer (highest priority)",
+  "text": "Der **erste Layer** ist der Layer der Nutzenden bzw. des Projekts (höchste Priorität)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der **erste Layer** ist der Layer der Nutzenden bzw. des Projekts (höchste Priorität)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

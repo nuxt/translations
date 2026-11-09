@@ -1,0 +1,14 @@
+{
+  "hash": "e6e1a689b0a67300",
+  "source": "Once configured, you can ask your AI assistant questions like:",
+  "text": "Nach der Konfiguration kannst du deinem KI-Assistenten Fragen wie diese stellen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nach der Konfiguration kannst du deinem KI-Assistenten Fragen wie diese stellen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

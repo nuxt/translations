@@ -1,0 +1,14 @@
+{
+  "hash": "fced5c814672bf2c",
+  "source": "This warning is reported unless {0} is disabled. Only values that can be seen in the template are checked: inline functions, {1} expressions, and functions or classes declared at the top level of {2}.",
+  "text": "Diese Warnung wird ausgegeben, sofern {0} nicht deaktiviert ist. Geprüft werden nur Werte, die in der Vorlage sichtbar sind: Inline-Funktionen, {1}-Ausdrücke sowie Funktionen oder Klassen, die auf oberster Ebene von {2} deklariert sind.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese Warnung wird ausgegeben, sofern {0} nicht deaktiviert ist. Geprüft werden nur Werte, die in der Vorlage sichtbar sind: Inline-Funktionen, {1}-Ausdrücke sowie Funktionen oder Klassen, die auf oberster Ebene von {2} deklariert sind."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

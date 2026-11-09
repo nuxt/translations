@@ -1,0 +1,14 @@
+{
+  "hash": "550f357627da506f",
+  "source": "The root directory of a Nuxt application is the directory that contains the {0} file. This file is used to configure the Nuxt application.",
+  "text": "Das Stammverzeichnis einer Nuxt-Anwendung ist das Verzeichnis, das die Datei {0} enthält. Mit dieser Datei wird die Nuxt-Anwendung konfiguriert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Stammverzeichnis einer Nuxt-Anwendung ist das Verzeichnis, das die Datei {0} enthält. Mit dieser Datei wird die Nuxt-Anwendung konfiguriert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

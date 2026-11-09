@@ -1,0 +1,14 @@
+{
+  "hash": "7ec0ef7dcf0e9223",
+  "source": "The migration should be straightforward:",
+  "text": "Die Migration sollte unkompliziert sein:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Migration sollte unkompliziert sein:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

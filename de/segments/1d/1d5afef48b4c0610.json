@@ -1,0 +1,14 @@
+{
+  "hash": "1d5afef48b4c0610",
+  "source": "However, if you want to avoid this behavior you can do so:",
+  "text": "Wenn du dieses Verhalten vermeiden möchtest, kannst du Folgendes tun:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du dieses Verhalten vermeiden möchtest, kannst du Folgendes tun:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

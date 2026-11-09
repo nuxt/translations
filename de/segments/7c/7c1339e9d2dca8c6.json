@@ -1,0 +1,14 @@
+{
+  "hash": "7c1339e9d2dca8c6",
+  "source": "**{0} resets to defaults**: {1} resets state to the initial value of {2} instead of setting it to {3}",
+  "text": "**{0} wird auf Standardwerte zurückgesetzt**: {1} setzt den State auf den Anfangswert von {2} zurück, statt ihn auf {3} zu setzen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0} wird auf Standardwerte zurückgesetzt**: {1} setzt den State auf den Anfangswert von {2} zurück, statt ihn auf {3} zu setzen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

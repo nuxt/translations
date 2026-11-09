@@ -1,0 +1,14 @@
+{
+  "hash": "f5d70a63d334911a",
+  "source": "{0} allows you to mock Nuxt's component. The first argument can be the component name in PascalCase, or the relative path of the component. The second argument is a factory function that returns the mocked component.",
+  "text": "Mit {0} kannst du Nuxt-Komponenten mocken. Das erste Argument kann der Komponentenname in PascalCase oder der relative Pfad der Komponente sein. Das zweite Argument ist eine Factory-Funktion, die die gemockte Komponente zurückgibt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit {0} kannst du Nuxt-Komponenten mocken. Das erste Argument kann der Komponentenname in PascalCase oder der relative Pfad der Komponente sein. Das zweite Argument ist eine Factory-Funktion, die die gemockte Komponente zurückgibt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

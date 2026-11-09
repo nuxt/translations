@@ -1,0 +1,14 @@
+{
+  "hash": "ab62f34bfc774950",
+  "source": "Enable Corepack using {0}",
+  "text": "Aktiviere Corepack mit {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Aktiviere Corepack mit {0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

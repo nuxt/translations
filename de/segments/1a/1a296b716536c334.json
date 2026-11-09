@@ -1,0 +1,14 @@
+{
+  "hash": "1a296b716536c334",
+  "source": "By default a composable created with {0} is typed from the routes your own server serves, so a request to another API resolves to {1}. Pass {2} to say what that API serves, and every request the composable makes is resolved against it instead:",
+  "text": "Standardmäßig wird ein mit {0} erstelltes Composable anhand der Routen typisiert, die dein eigener Server bereitstellt. Eine Anfrage an eine andere API wird daher zu {1} aufgelöst. Übergib {2}, um anzugeben, was diese API bereitstellt. Jede Anfrage des Composables wird dann stattdessen dagegen aufgelöst:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardmäßig wird ein mit {0} erstelltes Composable anhand der Routen typisiert, die dein eigener Server bereitstellt. Eine Anfrage an eine andere API wird daher zu {1} aufgelöst. Übergib {2}, um anzugeben, was diese API bereitstellt. Jede Anfrage des Composables wird dann stattdessen dagegen aufgelöst:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

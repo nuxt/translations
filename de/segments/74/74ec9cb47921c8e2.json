@@ -1,0 +1,14 @@
+{
+  "hash": "74ec9cb47921c8e2",
+  "source": "{0}: A {1} object containing head data. You can pass all the same values as {2}, but only safe attributes will be rendered.",
+  "text": "{0}: Ein {1}-Objekt mit Head-Daten. Du kannst dieselben Werte übergeben wie bei {2}, aber nur sichere Attribute werden gerendert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Ein {1}-Objekt mit Head-Daten. Du kannst dieselben Werte übergeben wie bei {2}, aber nur sichere Attribute werden gerendert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "35db75b3ebd2000b",
+  "source": "Whether to call and use the result from {0} when refreshing data for {1} and {2} (whether by {3}, {4}, or a manual {5} call.",
+  "text": "Legt fest, ob das Ergebnis von {0} aufgerufen und verwendet wird, wenn Daten für {1} und {2} aktualisiert werden (sei es durch {3}, {4} oder einen manuellen Aufruf von {5}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Legt fest, ob das Ergebnis von {0} aufgerufen und verwendet wird, wenn Daten für {1} und {2} aktualisiert werden (sei es durch {3}, {4} oder einen manuellen Aufruf von {5})."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

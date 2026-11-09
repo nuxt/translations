@@ -1,0 +1,14 @@
+{
+  "hash": "0727eefd91c280d5",
+  "source": "A family reduced to a set of {0} is not split into named subsets, so it is not excluded by a {1} filter.",
+  "text": "Eine Schriftfamilie, die auf eine Menge von {0} reduziert wurde, wird nicht in benannte Subsets aufgeteilt und daher auch nicht durch einen {1}-Filter ausgeschlossen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine Schriftfamilie, die auf eine Menge von {0} reduziert wurde, wird nicht in benannte Subsets aufgeteilt und daher auch nicht durch einen {1}-Filter ausgeschlossen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

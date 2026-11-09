@@ -1,0 +1,14 @@
+{
+  "hash": "2923d81587a26d4a",
+  "source": "Some fonts are distributed as npm packages containing bare font files, with no stylesheet for the {0}{1} provider{/0} to read. If one of these is installed, it is scanned automatically and needs no configuration:",
+  "text": "Einige Fonts werden als npm-Pakete verteilt, die nur Font-Dateien enthalten, ohne Stylesheet, das der {0}{1}-Provider{/0} lesen könnte. Ist eines davon installiert, wird es automatisch durchsucht und benötigt keine Konfiguration:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Einige Fonts werden als npm-Pakete verteilt, die nur Font-Dateien enthalten, ohne Stylesheet, das der {0}{1}-Provider{/0} lesen könnte. Ist eines davon installiert, wird es automatisch durchsucht und benötigt keine Konfiguration:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

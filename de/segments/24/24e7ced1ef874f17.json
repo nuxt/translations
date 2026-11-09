@@ -1,0 +1,14 @@
+{
+  "hash": "24e7ced1ef874f17",
+  "source": "The search runs against the documentation for the Nuxt version the project depends on rather than whatever is currently published, so the answers match the version you are using. {0} is used when it is installed in the project, and downloaded otherwise.",
+  "text": "Die Suche läuft über die Dokumentation der Nuxt-Version, von der das Projekt abhängt, und nicht über die aktuell veröffentlichte Version, sodass die Antworten zu der von dir verwendeten Version passen. {0} wird verwendet, wenn es im Projekt installiert ist, andernfalls wird es heruntergeladen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Suche läuft über die Dokumentation der Nuxt-Version, von der das Projekt abhängt, und nicht über die aktuell veröffentlichte Version, sodass die Antworten zu der von dir verwendeten Version passen. {0} wird verwendet, wenn es im Projekt installiert ist, andernfalls wird es heruntergeladen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

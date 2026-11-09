@@ -1,0 +1,14 @@
+{
+  "hash": "a011d57557293dd3",
+  "source": "a method the route does not answer is rejected",
+  "text": "eine Methode, auf die die Route nicht antwortet, wird abgelehnt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "eine Methode, auf die die Route nicht antwortet, wird abgelehnt"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

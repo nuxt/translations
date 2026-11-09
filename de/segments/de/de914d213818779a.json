@@ -1,0 +1,14 @@
+{
+  "hash": "de914d213818779a",
+  "source": "Object Syntax Plugins",
+  "text": "Plugins mit Objektsyntax",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Plugins mit Objektsyntax"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

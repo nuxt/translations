@@ -1,0 +1,14 @@
+{
+  "hash": "9bb8b2022a164e42",
+  "source": "'happy-dom' (default) or 'jsdom'",
+  "text": "'happy-dom' (Standard) oder 'jsdom'",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "'happy-dom' (Standard) oder 'jsdom'"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

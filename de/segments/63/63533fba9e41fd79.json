@@ -1,0 +1,14 @@
+{
+  "hash": "63533fba9e41fd79",
+  "source": "Fonts served from a CDN need CORS headers",
+  "text": "Von einem CDN ausgelieferte Schriften benötigen CORS-Header",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Von einem CDN ausgelieferte Schriften benötigen CORS-Header"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

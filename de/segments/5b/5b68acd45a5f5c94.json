@@ -1,0 +1,14 @@
+{
+  "hash": "5b68acd45a5f5c94",
+  "source": "optional alias that will be available for the consuming apps",
+  "text": "optionaler Alias, der für die nutzenden Anwendungen verfügbar ist",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "optionaler Alias, der für die nutzenden Anwendungen verfügbar ist"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

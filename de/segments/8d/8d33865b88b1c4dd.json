@@ -1,0 +1,14 @@
+{
+  "hash": "8d33865b88b1c4dd",
+  "source": "Static and prerender builds also emit {0} and {1} SPA fallbacks. See {2}What are 200.html and 404.html?{/2}.",
+  "text": "Statische Builds und Builds mit Vorab-Rendering erzeugen außerdem die SPA-Fallbacks {0} und {1}. Siehe {2}Was sind 200.html und 404.html?{/2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Statische Builds und Builds mit Vorab-Rendering erzeugen außerdem die SPA-Fallbacks {0} und {1}. Siehe {2}Was sind 200.html und 404.html?{/2}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

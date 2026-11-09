@@ -1,0 +1,14 @@
+{
+  "hash": "4fd6d67b7c54da68",
+  "source": "Use {0} only on local {1} SFCs. Built-ins like {2} skip the islands transform. After client navigation you may see {3}, or the link disappears with no error. Wrap the built-in in your own {4} file and put {5} on that wrapper. See {6} and {7}.",
+  "text": "Verwende {0} nur bei lokalen {1}-SFCs. Integrierte Komponenten wie {2} überspringen die Islands-Transformation. Nach einer Client-Navigation siehst du möglicherweise {3}, oder der Link verschwindet ohne Fehlermeldung. Umschließe die integrierte Komponente mit deiner eigenen {4}-Datei und setze {5} auf diesen Wrapper. Siehe {6} und {7}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwende {0} nur bei lokalen {1}-SFCs. Integrierte Komponenten wie {2} überspringen die Islands-Transformation. Nach einer Client-Navigation siehst du möglicherweise {3}, oder der Link verschwindet ohne Fehlermeldung. Umschließe die integrierte Komponente mit deiner eigenen {4}-Datei und setze {5} auf diesen Wrapper. Siehe {6} und {7}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

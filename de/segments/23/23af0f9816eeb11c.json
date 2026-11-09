@@ -1,0 +1,14 @@
+{
+  "hash": "23af0f9816eeb11c",
+  "source": "See full example config",
+  "text": "Vollständige Beispielkonfiguration anzeigen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vollständige Beispielkonfiguration anzeigen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

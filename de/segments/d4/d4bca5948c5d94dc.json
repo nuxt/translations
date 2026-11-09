@@ -1,0 +1,14 @@
+{
+  "hash": "d4bca5948c5d94dc",
+  "source": "This is an array which defines the font options for specific fonts. You can use any properties from {0}defaults{/0}, while there are some additional properties:",
+  "text": "Dies ist ein Array, das die Schriftoptionen für bestimmte Schriften festlegt. Du kannst alle Eigenschaften aus {0}defaults{/0} verwenden; zusätzlich gibt es einige weitere Eigenschaften:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dies ist ein Array, das die Schriftoptionen für bestimmte Schriften festlegt. Du kannst alle Eigenschaften aus {0}defaults{/0} verwenden; zusätzlich gibt es einige weitere Eigenschaften:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "4d47494af19c472e",
+  "source": "The deployable server itself is produced by {0}Nitro{/0} via {1}, not by the builder. The builder hands its outputs to Nitro through a typed contract; Nitro bundles them into the final {2}.",
+  "text": "Der bereitstellbare Server selbst wird von {0}Nitro{/0} über {1} erzeugt, nicht vom Builder. Der Builder übergibt seine Ausgaben über einen typisierten Vertrag an Nitro; Nitro bündelt sie zum finalen {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der bereitstellbare Server selbst wird von {0}Nitro{/0} über {1} erzeugt, nicht vom Builder. Der Builder übergibt seine Ausgaben über einen typisierten Vertrag an Nitro; Nitro bündelt sie zum finalen {2}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

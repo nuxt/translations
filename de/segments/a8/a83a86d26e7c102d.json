@@ -1,0 +1,14 @@
+{
+  "hash": "a83a86d26e7c102d",
+  "source": "Search, add and remove modules in your Nuxt application with the command line.",
+  "text": "Suche, füge hinzu und entferne Module in deiner Nuxt-Anwendung über die Kommandozeile.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Suche, füge hinzu und entferne Module in deiner Nuxt-Anwendung über die Kommandozeile."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

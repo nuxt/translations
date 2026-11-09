@@ -1,0 +1,14 @@
+{
+  "hash": "d00465c073510b78",
+  "source": "Create an error object with additional metadata.",
+  "text": "Erstelle ein Fehlerobjekt mit zusätzlichen Metadaten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erstelle ein Fehlerobjekt mit zusätzlichen Metadaten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

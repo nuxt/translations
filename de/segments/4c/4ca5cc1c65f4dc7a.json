@@ -1,0 +1,14 @@
+{
+  "hash": "4ca5cc1c65f4dc7a",
+  "source": "You can pass props to a layout by using the object syntax for {0}. If your layout defines props with {1}, the props will be fully typed.",
+  "text": "Du kannst Props an ein Layout übergeben, indem du die Objektsyntax für {0} verwendest. Wenn dein Layout Props mit {1} definiert, sind die Props vollständig typisiert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst Props an ein Layout übergeben, indem du die Objektsyntax für {0} verwendest. Wenn dein Layout Props mit {1} definiert, sind die Props vollständig typisiert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "db67bddb0f1ba94e",
+  "source": "Add imports from a directory to the Nuxt application. It will automatically import all files from the directory and make them available in the Nuxt application without the need to import them manually.",
+  "text": "Fügt der Nuxt-Anwendung Importe aus einem Verzeichnis hinzu. Dabei werden automatisch alle Dateien aus dem Verzeichnis importiert und in der Nuxt-Anwendung verfügbar gemacht, ohne dass du sie manuell importieren musst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fügt der Nuxt-Anwendung Importe aus einem Verzeichnis hinzu. Dabei werden automatisch alle Dateien aus dem Verzeichnis importiert und in der Nuxt-Anwendung verfügbar gemacht, ohne dass du sie manuell importieren musst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

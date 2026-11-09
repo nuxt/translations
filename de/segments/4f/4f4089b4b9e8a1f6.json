@@ -1,0 +1,14 @@
+{
+  "hash": "4f4089b4b9e8a1f6",
+  "source": "Enables cross-origin prefetch using the Speculation Rules API.",
+  "text": "Aktiviert Cross-Origin-Prefetch mithilfe der Speculation Rules API.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Aktiviert Cross-Origin-Prefetch mithilfe der Speculation Rules API."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

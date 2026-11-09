@@ -1,0 +1,14 @@
+{
+  "hash": "3e0c6f33a2641840",
+  "source": "Route Rule Types Move to {0}",
+  "text": "Typen für Route-Rules wechseln zu {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Typen für Route-Rules wechseln zu {0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

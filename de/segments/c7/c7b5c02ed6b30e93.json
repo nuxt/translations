@@ -1,0 +1,14 @@
+{
+  "hash": "c7b5c02ed6b30e93",
+  "source": "At some point, you may find that there's an issue you need some help with.",
+  "text": "Irgendwann stößt du vielleicht auf ein Problem, bei dem du Hilfe brauchst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Irgendwann stößt du vielleicht auf ein Problem, bei dem du Hilfe brauchst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

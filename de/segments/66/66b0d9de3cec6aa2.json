@@ -1,0 +1,14 @@
+{
+  "hash": "66b0d9de3cec6aa2",
+  "source": "The command exits with {0} when the server answers with an HTTP error status, matching {1}.",
+  "text": "Der Befehl beendet sich mit {0}, wenn der Server mit einem HTTP-Fehlerstatus antwortet, entsprechend {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Befehl beendet sich mit {0}, wenn der Server mit einem HTTP-Fehlerstatus antwortet, entsprechend {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

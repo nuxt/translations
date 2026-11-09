@@ -1,0 +1,14 @@
+{
+  "hash": "30a31205dff1e593",
+  "source": "Automatically resolved if @fontsource/roboto is in your package.json",
+  "text": "Wird automatisch aufgelöst, wenn @fontsource/roboto in deiner package.json steht",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird automatisch aufgelöst, wenn @fontsource/roboto in deiner package.json steht"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

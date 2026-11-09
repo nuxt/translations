@@ -1,0 +1,14 @@
+{
+  "hash": "82e00a1768a74747",
+  "source": "Called when Nuxt needs the full set of route handlers the server will serve, so that it can type {0} and {1} against them.",
+  "text": "Wird aufgerufen, wenn Nuxt die vollständige Menge der Route-Handler benötigt, die der Server bereitstellt, um {0} und {1} dagegen zu typisieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird aufgerufen, wenn Nuxt die vollständige Menge der Route-Handler benötigt, die der Server bereitstellt, um {0} und {1} dagegen zu typisieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

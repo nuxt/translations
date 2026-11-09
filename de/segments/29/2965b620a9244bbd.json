@@ -1,0 +1,14 @@
+{
+  "hash": "2965b620a9244bbd",
+  "source": "Transpile specified path using build.transpile. If set to {0}, it will set {1} if {2} is in path.",
+  "text": "Transpiliert den angegebenen Pfad mit build.transpile. Wenn auf {0} gesetzt, wird {1} gesetzt, sofern {2} im Pfad enthalten ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Transpiliert den angegebenen Pfad mit build.transpile. Wenn auf {0} gesetzt, wird {1} gesetzt, sofern {2} im Pfad enthalten ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

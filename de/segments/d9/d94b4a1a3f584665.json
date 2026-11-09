@@ -1,0 +1,14 @@
+{
+  "hash": "d94b4a1a3f584665",
+  "source": "{0} - Extend the default app config",
+  "text": "{0} – Erweitert die Standard-App-Konfiguration",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} – Erweitert die Standard-App-Konfiguration"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

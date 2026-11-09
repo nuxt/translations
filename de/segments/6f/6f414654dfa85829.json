@@ -1,0 +1,14 @@
+{
+  "hash": "6f414654dfa85829",
+  "source": "The simplest way is to modify the Nuxt configuration directly like this:",
+  "text": "Am einfachsten passt du dafür direkt die Nuxt-Konfiguration an, etwa so:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Am einfachsten passt du dafür direkt die Nuxt-Konfiguration an, etwa so:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

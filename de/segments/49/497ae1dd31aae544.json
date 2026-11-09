@@ -1,0 +1,14 @@
+{
+  "hash": "497ae1dd31aae544",
+  "source": "{0}: Provide a function which returns cached data. An {1} return value will trigger a fetch. By default, this is:",
+  "text": "{0}: Gib eine Funktion an, die zwischengespeicherte Daten zurückgibt. Ein Rückgabewert von {1} löst einen Abruf aus. Standardmäßig ist das:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Gib eine Funktion an, die zwischengespeicherte Daten zurückgibt. Ein Rückgabewert von {1} löst einen Abruf aus. Standardmäßig ist das:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

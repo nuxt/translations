@@ -1,0 +1,14 @@
+{
+  "hash": "e4b431399786e59b",
+  "source": "Default {0}, uses {1} to create a functional mock of the IndexedDB API",
+  "text": "Standardmäßig {0}; verwendet {1}, um einen funktionsfähigen Mock der IndexedDB-API zu erstellen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardmäßig {0}; verwendet {1}, um einen funktionsfähigen Mock der IndexedDB-API zu erstellen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

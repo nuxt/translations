@@ -1,0 +1,14 @@
+{
+  "hash": "ec34220f391e7e2e",
+  "source": "Give it a name: {0}",
+  "text": "Gib ihm einen Namen: {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gib ihm einen Namen: {0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

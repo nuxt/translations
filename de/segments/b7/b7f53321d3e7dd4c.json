@@ -1,0 +1,14 @@
+{
+  "hash": "b7f53321d3e7dd4c",
+  "source": "Your module must export every name that {0} exports. Since the types come from the {1} package either way, a missing export will fail at runtime. Re-export the parts you don't want to change from {2}. Inside your bundle, {3} will resolve to your module.",
+  "text": "Dein Modul muss jeden Namen exportieren, den {0} exportiert. Da die Typen in beiden Fällen aus dem Paket {1} stammen, schlägt ein fehlender Export erst zur Laufzeit fehl. Exportiere die Teile, die du nicht ändern möchtest, aus {2} erneut. Innerhalb deines Bundles wird {3} zu deinem Modul aufgelöst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dein Modul muss jeden Namen exportieren, den {0} exportiert. Da die Typen in beiden Fällen aus dem Paket {1} stammen, schlägt ein fehlender Export erst zur Laufzeit fehl. Exportiere die Teile, die du nicht ändern möchtest, aus {2} erneut. Innerhalb deines Bundles wird {3} zu deinem Modul aufgelöst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

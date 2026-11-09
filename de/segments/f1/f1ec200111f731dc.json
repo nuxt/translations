@@ -1,0 +1,14 @@
+{
+  "hash": "f1ec200111f731dc",
+  "source": "This component is part of {0} package.",
+  "text": "Diese Komponente ist Teil des Pakets {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese Komponente ist Teil des Pakets {0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

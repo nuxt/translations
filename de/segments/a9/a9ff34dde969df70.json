@@ -1,0 +1,14 @@
+{
+  "hash": "a9ff34dde969df70",
+  "source": "The {0} session helpers and {1} read {2}, which you set with {3}. On Nuxt 4, {4} v2 parses environment overrides, so a secret made only of digits arrives as a number; see {5}the application secret{/5} for how to avoid this.",
+  "text": "Die {0}-Session-Hilfsfunktionen und {1} lesen {2}, das du mit {3} festlegst. In Nuxt 4 parst {4} v2 Überschreibungen aus der Umgebung, sodass ein Secret, das nur aus Ziffern besteht, als Zahl ankommt; wie du das vermeidest, steht unter {5}Das Anwendungs-Secret{/5}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die {0}-Session-Hilfsfunktionen und {1} lesen {2}, das du mit {3} festlegst. In Nuxt 4 parst {4} v2 Überschreibungen aus der Umgebung, sodass ein Secret, das nur aus Ziffern besteht, als Zahl ankommt; wie du das vermeidest, steht unter {5}Das Anwendungs-Secret{/5}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

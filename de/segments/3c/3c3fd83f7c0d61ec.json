@@ -1,0 +1,14 @@
+{
+  "hash": "3c3fd83f7c0d61ec",
+  "source": "Strict Checks",
+  "text": "Strikte Prüfungen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Strikte Prüfungen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

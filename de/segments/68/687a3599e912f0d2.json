@@ -1,0 +1,14 @@
+{
+  "hash": "687a3599e912f0d2",
+  "source": "Watch a video from Alexander Lichter about serializing payloads, especially with regards to classes",
+  "text": "Sieh dir ein Video von Alexander Lichter über die Serialisierung von Payloads an, insbesondere im Hinblick auf Klassen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sieh dir ein Video von Alexander Lichter über die Serialisierung von Payloads an, insbesondere im Hinblick auf Klassen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

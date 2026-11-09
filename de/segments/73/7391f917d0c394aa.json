@@ -1,0 +1,14 @@
+{
+  "hash": "7391f917d0c394aa",
+  "source": "If you prefer to progressively migrate your Nuxt 2 application to Nuxt 3, you can use Nuxt Bridge. Nuxt Bridge is a compatibility layer that allows you to use Nuxt 3+ features in Nuxt 2 with an opt-in mechanism.",
+  "text": "Wenn du deine Nuxt-2-Anwendung lieber schrittweise zu Nuxt 3 migrieren möchtest, kannst du Nuxt Bridge verwenden. Nuxt Bridge ist eine Kompatibilitätsschicht, mit der du Funktionen von Nuxt 3+ in Nuxt 2 nutzen kannst – per Opt-in-Mechanismus.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du deine Nuxt-2-Anwendung lieber schrittweise zu Nuxt 3 migrieren möchtest, kannst du Nuxt Bridge verwenden. Nuxt Bridge ist eine Kompatibilitätsschicht, mit der du Funktionen von Nuxt 3+ in Nuxt 2 nutzen kannst – per Opt-in-Mechanismus."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

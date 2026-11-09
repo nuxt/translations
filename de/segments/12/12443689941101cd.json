@@ -1,0 +1,14 @@
+{
+  "hash": "12443689941101cd",
+  "source": "Returns {0} when the callback does not accept an {1} parameter.",
+  "text": "Gibt {0} zurück, wenn der Callback keinen {1}-Parameter akzeptiert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gibt {0} zurück, wenn der Callback keinen {1}-Parameter akzeptiert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

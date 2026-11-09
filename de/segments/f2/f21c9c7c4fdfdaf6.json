@@ -1,0 +1,14 @@
+{
+  "hash": "f21c9c7c4fdfdaf6",
+  "source": "Invalidate todos in the background if the request succeeded.",
+  "text": "Die Todos im Hintergrund invalidieren, falls die Anfrage erfolgreich war.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Todos im Hintergrund invalidieren, falls die Anfrage erfolgreich war."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

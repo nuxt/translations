@@ -1,0 +1,14 @@
+{
+  "hash": "d413f454f7e34e2e",
+  "source": "Slide left animation",
+  "text": "Animation: nach links gleiten",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Animation: nach links gleiten"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

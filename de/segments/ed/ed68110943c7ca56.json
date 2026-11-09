@@ -1,0 +1,14 @@
+{
+  "hash": "ed68110943c7ca56",
+  "source": "Watch Vue School video about Auto-imports Nuxt Kit utilities.",
+  "text": "Sieh dir das Vue-School-Video zu den Nuxt-Kit-Utilities für automatische Importe an.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sieh dir das Vue-School-Video zu den Nuxt-Kit-Utilities für automatische Importe an."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

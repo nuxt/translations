@@ -1,0 +1,14 @@
+{
+  "hash": "bfd26cd7317f253b",
+  "source": "See {0}webpack-dev-middleware{/0} for available options.",
+  "text": "Verfügbare Optionen findest du in {0}webpack-dev-middleware{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verfügbare Optionen findest du in {0}webpack-dev-middleware{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

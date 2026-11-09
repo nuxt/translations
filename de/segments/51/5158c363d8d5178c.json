@@ -1,0 +1,14 @@
+{
+  "hash": "5158c363d8d5178c",
+  "source": "See {0}when a font isn't picked up{/0} for the full list.",
+  "text": "Die vollständige Liste findest du unter {0}Wenn eine Schriftart nicht erkannt wird{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die vollständige Liste findest du unter {0}Wenn eine Schriftart nicht erkannt wird{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

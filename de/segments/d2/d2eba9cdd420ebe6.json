@@ -1,0 +1,14 @@
+{
+  "hash": "d2eba9cdd420ebe6",
+  "source": "Add an API route",
+  "text": "API-Route hinzufügen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "API-Route hinzufügen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

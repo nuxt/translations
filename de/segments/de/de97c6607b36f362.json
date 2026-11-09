@@ -1,0 +1,14 @@
+{
+  "hash": "de97c6607b36f362",
+  "source": "**{0}**: The current {1} snapshot.",
+  "text": "**{0}**: Der aktuelle {1}-Snapshot.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}**: Der aktuelle {1}-Snapshot."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

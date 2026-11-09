@@ -1,0 +1,14 @@
+{
+  "hash": "6b9148e79fb353cf",
+  "source": "If you would like to use both the end-to-end and unit testing functionality of {0}, you can split your tests into separate files. You then either specify a test environment per-file with the special {1} comment, or name your runtime unit test files with the {2} extension.",
+  "text": "Wenn du sowohl die End-to-End- als auch die Unit-Test-Funktionalität von {0} nutzen möchtest, kannst du deine Tests auf separate Dateien aufteilen. Anschließend legst du entweder pro Datei mit dem speziellen Kommentar {1} eine Testumgebung fest oder benennst deine Runtime-Unit-Testdateien mit der Endung {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du sowohl die End-to-End- als auch die Unit-Test-Funktionalität von {0} nutzen möchtest, kannst du deine Tests auf separate Dateien aufteilen. Anschließend legst du entweder pro Datei mit dem speziellen Kommentar {1} eine Testumgebung fest oder benennst deine Runtime-Unit-Testdateien mit der Endung {2}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "033bb609489ddbdf",
+  "source": "Access the font resolution context.",
+  "text": "Zugriff auf den Kontext der Schriftauflösung.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Zugriff auf den Kontext der Schriftauflösung."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

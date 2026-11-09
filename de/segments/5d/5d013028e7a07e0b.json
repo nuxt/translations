@@ -1,0 +1,14 @@
+{
+  "hash": "5d013028e7a07e0b",
+  "source": "**Update your type checking scripts** to use the build flag for project references:",
+  "text": "**Aktualisiere deine Skripte zur Typprüfung**, sodass sie das Build-Flag für Project References verwenden:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Aktualisiere deine Skripte zur Typprüfung**, sodass sie das Build-Flag für Project References verwenden:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

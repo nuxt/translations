@@ -1,0 +1,14 @@
+{
+  "hash": "5ea981853e76c437",
+  "source": "This warning is reported unless {0} is disabled. Only static, absolute paths are checked: links with a bound {1}, external URLs, relative paths, hash-only and query-only links, and links with the {2} prop are not. Dynamic route segments and catch-all routes match any value, and paths that a route rule redirects are accepted.",
+  "text": "Diese Warnung wird ausgegeben, sofern {0} nicht deaktiviert ist. Es werden nur statische, absolute Pfade geprüft: Links mit einem gebundenen {1}, externe URLs, relative Pfade, reine Hash- und reine Query-Links sowie Links mit der Prop {2} werden nicht geprüft. Dynamische Routensegmente und Catch-all-Routen passen auf jeden Wert, und Pfade, die eine Route-Rule umleitet, werden akzeptiert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese Warnung wird ausgegeben, sofern {0} nicht deaktiviert ist. Es werden nur statische, absolute Pfade geprüft: Links mit einem gebundenen {1}, externe URLs, relative Pfade, reine Hash- und reine Query-Links sowie Links mit der Prop {2} werden nicht geprüft. Dynamische Routensegmente und Catch-all-Routen passen auf jeden Wert, und Pfade, die eine Route-Rule umleitet, werden akzeptiert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

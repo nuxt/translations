@@ -1,0 +1,14 @@
+{
+  "hash": "d9e102fdf40ded19",
+  "source": "{0} was called inside a route middleware (directly or via another composable). At that point the target route is not yet resolved, so {1} can return unexpected values; middleware receives the {2} and {3} routes as arguments instead.",
+  "text": "{0} wurde innerhalb einer Routen-Middleware aufgerufen (direkt oder über ein anderes Composable). Zu diesem Zeitpunkt ist die Zielroute noch nicht aufgelöst, sodass {1} unerwartete Werte zurückgeben kann. Stattdessen erhält die Middleware die Routen {2} und {3} als Argumente.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} wurde innerhalb einer Routen-Middleware aufgerufen (direkt oder über ein anderes Composable). Zu diesem Zeitpunkt ist die Zielroute noch nicht aufgelöst, sodass {1} unerwartete Werte zurückgeben kann. Stattdessen erhält die Middleware die Routen {2} und {3} als Argumente."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

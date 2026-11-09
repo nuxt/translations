@@ -1,0 +1,14 @@
+{
+  "hash": "7f84fa3a04baad7f",
+  "source": "If the links switch between panels of the same page, the {0}tabs pattern{/0}, with {1} and {2}, may be a better fit than {3}.",
+  "text": "Wenn die Links zwischen Bereichen derselben Seite wechseln, passt das {0}Tabs-Muster{/0} mit {1} und {2} möglicherweise besser als {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn die Links zwischen Bereichen derselben Seite wechseln, passt das {0}Tabs-Muster{/0} mit {1} und {2} möglicherweise besser als {3}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

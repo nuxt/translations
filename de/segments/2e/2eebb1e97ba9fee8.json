@@ -1,0 +1,14 @@
+{
+  "hash": "2eebb1e97ba9fee8",
+  "source": "Use this as the {0} value when generating type declarations.",
+  "text": "Verwende dies als {0}-Wert beim Generieren von Typdeklarationen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwende dies als {0}-Wert beim Generieren von Typdeklarationen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "8c682db4d42b53e3",
+  "source": "You can also use an EJS template to generate your plugin. Options can be passed through the {0} property and then used within the EJS template to generate the plugin content.",
+  "text": "Du kannst dein Plugin auch mit einer EJS-Vorlage generieren. Optionen kannst du über die Eigenschaft {0} übergeben und anschließend in der EJS-Vorlage verwenden, um den Plugin-Inhalt zu generieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst dein Plugin auch mit einer EJS-Vorlage generieren. Optionen kannst du über die Eigenschaft {0} übergeben und anschließend in der EJS-Vorlage verwenden, um den Plugin-Inhalt zu generieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

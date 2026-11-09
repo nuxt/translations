@@ -1,0 +1,14 @@
+{
+  "hash": "9e825de287cc1f1e",
+  "source": "Usage with Pinia",
+  "text": "Verwendung mit Pinia",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwendung mit Pinia"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

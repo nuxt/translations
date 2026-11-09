@@ -1,0 +1,14 @@
+{
+  "hash": "c81004107bf53640",
+  "source": "Learn how a server builder supplies the implementations behind {0}.",
+  "text": "Erfahre, wie ein Server-Builder die Implementierungen hinter {0} bereitstellt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erfahre, wie ein Server-Builder die Implementierungen hinter {0} bereitstellt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

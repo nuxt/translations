@@ -1,0 +1,14 @@
+{
+  "hash": "6eafac86dfc85872",
+  "source": "Nuxt Bridge provides access to Composition API syntax. It is specifically designed to be aligned with Nuxt 3. Because of this, there are a few extra steps to take when enabling Nuxt Bridge, if you have been using the Composition API previously.",
+  "text": "Nuxt Bridge bietet Zugriff auf die Syntax der Composition API. Sie ist speziell darauf ausgelegt, mit Nuxt 3 übereinzustimmen. Wenn du die Composition API bereits zuvor verwendet hast, sind deshalb beim Aktivieren von Nuxt Bridge einige zusätzliche Schritte nötig.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Bridge bietet Zugriff auf die Syntax der Composition API. Sie ist speziell darauf ausgelegt, mit Nuxt 3 übereinzustimmen. Wenn du die Composition API bereits zuvor verwendet hast, sind deshalb beim Aktivieren von Nuxt Bridge einige zusätzliche Schritte nötig."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

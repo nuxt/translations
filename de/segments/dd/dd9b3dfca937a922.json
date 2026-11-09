@@ -1,0 +1,14 @@
+{
+  "hash": "dd9b3dfca937a922",
+  "source": "Since {0} files are not used in production, you must explicitly set environment variables using the tools and methods provided by your hosting environment. Here are some common approaches:",
+  "text": "Da {0}-Dateien in Produktion nicht verwendet werden, musst du Umgebungsvariablen ausdrücklich mit den Werkzeugen und Methoden deiner Hosting-Umgebung setzen. Hier sind einige gängige Vorgehensweisen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Da {0}-Dateien in Produktion nicht verwendet werden, musst du Umgebungsvariablen ausdrücklich mit den Werkzeugen und Methoden deiner Hosting-Umgebung setzen. Hier sind einige gängige Vorgehensweisen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

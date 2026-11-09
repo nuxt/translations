@@ -1,0 +1,14 @@
+{
+  "hash": "722f779cdb064bc5",
+  "source": "If set to {0}, the callback function will be called when building the client bundle.",
+  "text": "Wenn der Wert auf {0} gesetzt ist, wird die Callback-Funktion beim Erzeugen des Client-Bundles aufgerufen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn der Wert auf {0} gesetzt ist, wird die Callback-Funktion beim Erzeugen des Client-Bundles aufgerufen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

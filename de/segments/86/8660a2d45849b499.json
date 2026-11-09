@@ -1,0 +1,14 @@
+{
+  "hash": "8660a2d45849b499",
+  "source": "Skipping Regeneration in Development",
+  "text": "Neugenerierung in der Entwicklung überspringen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Neugenerierung in der Entwicklung überspringen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

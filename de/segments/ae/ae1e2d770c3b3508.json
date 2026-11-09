@@ -1,0 +1,14 @@
+{
+  "hash": "ae1e2d770c3b3508",
+  "source": "Two things stay accepted, because they are not Nuxt's to describe: an absolute URL ({0}), and a path built at runtime, which resolves to {1} as it does with the option off. A {2} is resolved into the path before it is matched, so a request made through one is checked against the route it actually asks for. Naming the response type also opts a call out, since doing so turns off inference for the request:",
+  "text": "Zwei Dinge bleiben weiterhin erlaubt, da Nuxt sie nicht beschreiben kann: eine absolute URL ({0}) und ein zur Laufzeit erzeugter Pfad, der wie bei deaktivierter Option zu {1} aufgelöst wird. Ein {2} wird vor dem Abgleich in den Pfad aufgelöst, sodass eine Anfrage darüber gegen die Route geprüft wird, die sie tatsächlich anfragt. Auch die Angabe des Antworttyps nimmt einen Aufruf von der Prüfung aus, da dadurch die Typinferenz für die Anfrage abgeschaltet wird:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Zwei Dinge bleiben weiterhin erlaubt, da Nuxt sie nicht beschreiben kann: eine absolute URL ({0}) und ein zur Laufzeit erzeugter Pfad, der wie bei deaktivierter Option zu {1} aufgelöst wird. Ein {2} wird vor dem Abgleich in den Pfad aufgelöst, sodass eine Anfrage darüber gegen die Route geprüft wird, die sie tatsächlich anfragt. Auch die Angabe des Antworttyps nimmt einen Aufruf von der Prüfung aus, da dadurch die Typinferenz für die Anfrage abgeschaltet wird:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

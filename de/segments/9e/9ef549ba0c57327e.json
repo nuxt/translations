@@ -1,0 +1,14 @@
+{
+  "hash": "9ef549ba0c57327e",
+  "source": "The key injection plugin verifies the exact resolved import source of each function call. It does not follow barrel exports. The function must be exported from the exact source file specified in the {0} property.",
+  "text": "Das Plugin zum Einfügen von Schlüsseln prüft die exakt aufgelöste Importquelle jedes Funktionsaufrufs. Es folgt keinen Barrel-Exporten. Die Funktion muss aus genau der Quelldatei exportiert werden, die in der Eigenschaft {0} angegeben ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Plugin zum Einfügen von Schlüsseln prüft die exakt aufgelöste Importquelle jedes Funktionsaufrufs. Es folgt keinen Barrel-Exporten. Die Funktion muss aus genau der Quelldatei exportiert werden, die in der Eigenschaft {0} angegeben ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

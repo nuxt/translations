@@ -1,0 +1,14 @@
+{
+  "hash": "8d29a00a81626c2b",
+  "source": "An array of nuxt app plugins.",
+  "text": "Ein Array von Nuxt-App-Plugins.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein Array von Nuxt-App-Plugins."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

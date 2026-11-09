@@ -1,0 +1,14 @@
+{
+  "hash": "b6de342eac196abc",
+  "source": "To extend the Nuxt interface and hook into different stages of the build process, we can use {0}Nuxt modules{/0}.",
+  "text": "Um die Nuxt-Schnittstelle zu erweitern und dich in verschiedene Phasen des Erstellungsprozesses einzuklinken, kannst du {0}Nuxt-Module{/0} verwenden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um die Nuxt-Schnittstelle zu erweitern und dich in verschiedene Phasen des Erstellungsprozesses einzuklinken, kannst du {0}Nuxt-Module{/0} verwenden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

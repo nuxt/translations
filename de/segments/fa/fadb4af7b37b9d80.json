@@ -1,0 +1,14 @@
+{
+  "hash": "fadb4af7b37b9d80",
+  "source": "{0} is now enabled by default, so {1} resets state to the value produced by the {2} function of {3} instead of setting it to {4}.",
+  "text": "{0} ist jetzt standardmäßig aktiviert, sodass {1} den Zustand auf den Wert zurücksetzt, den die {2}-Funktion von {3} liefert, statt ihn auf {4} zu setzen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ist jetzt standardmäßig aktiviert, sodass {1} den Zustand auf den Wert zurücksetzt, den die {2}-Funktion von {3} liefert, statt ihn auf {4} zu setzen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

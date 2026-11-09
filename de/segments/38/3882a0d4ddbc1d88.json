@@ -1,0 +1,14 @@
+{
+  "hash": "3882a0d4ddbc1d88",
+  "source": "Migrate your route middleware to use the {0} helper function.",
+  "text": "Migriere deine Routen-Middleware so, dass sie die Hilfsfunktion {0} verwendet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Migriere deine Routen-Middleware so, dass sie die Hilfsfunktion {0} verwendet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

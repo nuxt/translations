@@ -1,0 +1,14 @@
+{
+  "hash": "b6fb9c4862d89c60",
+  "source": "Nuxt auto-imports helper functions, composables and Vue APIs to use across your application without explicitly importing them. Based on the directory structure, every Nuxt application can also use auto-imports for its own composables and plugins.",
+  "text": "Nuxt importiert Hilfsfunktionen, Composables und Vue-APIs automatisch, sodass du sie in deiner gesamten Anwendung verwenden kannst, ohne sie explizit zu importieren. Basierend auf der Verzeichnisstruktur kann jede Nuxt-Anwendung automatische Importe auch für ihre eigenen Composables und Plugins nutzen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt importiert Hilfsfunktionen, Composables und Vue-APIs automatisch, sodass du sie in deiner gesamten Anwendung verwenden kannst, ohne sie explizit zu importieren. Basierend auf der Verzeichnisstruktur kann jede Nuxt-Anwendung automatische Importe auch für ihre eigenen Composables und Plugins nutzen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

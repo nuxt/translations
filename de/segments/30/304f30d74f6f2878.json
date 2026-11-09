@@ -1,0 +1,14 @@
+{
+  "hash": "304f30d74f6f2878",
+  "source": "You can also preload specific components or routes from your own code with {0}, {1} and {2}.",
+  "text": "Du kannst außerdem mit {0}, {1} und {2} in deinem eigenen Code gezielt bestimmte Komponenten oder Routen vorab laden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst außerdem mit {0}, {1} und {2} in deinem eigenen Code gezielt bestimmte Komponenten oder Routen vorab laden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

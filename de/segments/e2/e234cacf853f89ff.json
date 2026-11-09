@@ -1,0 +1,14 @@
+{
+  "hash": "e234cacf853f89ff",
+  "source": "Nuxt Kit provides a set of utilities to help you work with logging. These functions allow you to log messages with extra features.",
+  "text": "Nuxt Kit bietet eine Reihe von Hilfsfunktionen für die Protokollierung. Mit diesen Funktionen kannst du Meldungen mit zusätzlichen Funktionen protokollieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Kit bietet eine Reihe von Hilfsfunktionen für die Protokollierung. Mit diesen Funktionen kannst du Meldungen mit zusätzlichen Funktionen protokollieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

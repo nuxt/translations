@@ -1,0 +1,14 @@
+{
+  "hash": "4ecef284c4812e9f",
+  "source": "**Feature requests**: Check that there is not an existing issue or discussion covering the scope of the feature you have in mind. If the feature is to another part of the Nuxt ecosystem (such as a module), please consider raising a feature request there first. If the feature you have in mind is general or the API is not entirely clear, consider opening a discussion in the **Ideas** section to discuss with the community first.",
+  "text": "**Feature-Anfragen**: Prüfe, ob es nicht bereits ein Issue oder eine Diskussion gibt, die den Umfang des gewünschten Features abdeckt. Betrifft das Feature einen anderen Teil des Nuxt-Ökosystems (zum Beispiel ein Modul), erwäge bitte, die Feature-Anfrage zuerst dort zu stellen. Ist das Feature, das du im Sinn hast, allgemeiner Natur oder die API nicht ganz klar, eröffne am besten zuerst eine Diskussion im Bereich **Ideas**, um sie mit der Community zu besprechen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Feature-Anfragen**: Prüfe, ob es nicht bereits ein Issue oder eine Diskussion gibt, die den Umfang des gewünschten Features abdeckt. Betrifft das Feature einen anderen Teil des Nuxt-Ökosystems (zum Beispiel ein Modul), erwäge bitte, die Feature-Anfrage zuerst dort zu stellen. Ist das Feature, das du im Sinn hast, allgemeiner Natur oder die API nicht ganz klar, eröffne am besten zuerst eine Diskussion im Bereich **Ideas**, um sie mit der Community zu besprechen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

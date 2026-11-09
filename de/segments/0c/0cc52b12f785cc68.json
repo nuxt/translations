@@ -1,0 +1,14 @@
+{
+  "hash": "0cc52b12f785cc68",
+  "source": "If set to {0}, the template will be written to the destination file. Otherwise, the template will be used only in virtual filesystem.",
+  "text": "Wenn auf {0} gesetzt, wird die Vorlage in die Zieldatei geschrieben. Andernfalls wird die Vorlage nur im virtuellen Dateisystem verwendet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn auf {0} gesetzt, wird die Vorlage in die Zieldatei geschrieben. Andernfalls wird die Vorlage nur im virtuellen Dateisystem verwendet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

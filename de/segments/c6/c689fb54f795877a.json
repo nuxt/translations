@@ -1,0 +1,14 @@
+{
+  "hash": "c689fb54f795877a",
+  "source": "Register template as layout and add it to the layouts.",
+  "text": "Registriert eine Vorlage als Layout und fügt sie zu den Layouts hinzu.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Registriert eine Vorlage als Layout und fügt sie zu den Layouts hinzu."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

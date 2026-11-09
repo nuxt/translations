@@ -1,0 +1,14 @@
+{
+  "hash": "3234e2d6a6dac3f9",
+  "source": "{0} Nuxt hook",
+  "text": "Nuxt-Hook {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt-Hook {0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

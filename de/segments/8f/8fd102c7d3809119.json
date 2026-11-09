@@ -1,0 +1,14 @@
+{
+  "hash": "8fd102c7d3809119",
+  "source": "**Problem**: When a page is loaded and it is not correctly instructed about the order of loading elements it will result in fetching everything at the same time - which can be slow and result in bad User Experience.",
+  "text": "**Problem**: Wenn eine Seite geladen wird und nicht korrekt angewiesen ist, in welcher Reihenfolge Elemente geladen werden sollen, wird alles gleichzeitig abgerufen. Das kann langsam sein und zu einer schlechten Nutzungserfahrung führen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Problem**: Wenn eine Seite geladen wird und nicht korrekt angewiesen ist, in welcher Reihenfolge Elemente geladen werden sollen, wird alles gleichzeitig abgerufen. Das kann langsam sein und zu einer schlechten Nutzungserfahrung führen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

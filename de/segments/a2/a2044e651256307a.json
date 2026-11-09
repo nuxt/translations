@@ -1,0 +1,14 @@
+{
+  "hash": "a2044e651256307a",
+  "source": "Watch a video from Alexander Lichter about client-side caching with getCachedData",
+  "text": "Sieh dir ein Video von Alexander Lichter über clientseitiges Caching mit getCachedData an",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sieh dir ein Video von Alexander Lichter über clientseitiges Caching mit getCachedData an"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

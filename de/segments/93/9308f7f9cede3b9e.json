@@ -1,0 +1,14 @@
+{
+  "hash": "9308f7f9cede3b9e",
+  "source": "You can customize which user agents are opted out with {0}. A request whose {1} header matches the pattern is **not** streamed: it receives the fully-rendered, buffered HTML. Requests that do not match are streamed. Setting {2} replaces the default pattern rather than adding to it, so list every crawler you want to keep out of streaming:",
+  "text": "Mit {0} kannst du festlegen, welche User-Agents vom Streaming ausgenommen werden. Eine Anfrage, deren {1}-Header zum Muster passt, wird **nicht** gestreamt: Sie erhält das vollständig gerenderte, gepufferte HTML. Anfragen, die nicht passen, werden gestreamt. Wenn du {2} setzt, ersetzt das Muster das Standardmuster, anstatt es zu ergänzen. Liste daher jeden Crawler auf, den du vom Streaming ausschließen möchtest:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit {0} kannst du festlegen, welche User-Agents vom Streaming ausgenommen werden. Eine Anfrage, deren {1}-Header zum Muster passt, wird **nicht** gestreamt: Sie erhält das vollständig gerenderte, gepufferte HTML. Anfragen, die nicht passen, werden gestreamt. Wenn du {2} setzt, ersetzt das Muster das Standardmuster, anstatt es zu ergänzen. Liste daher jeden Crawler auf, den du vom Streaming ausschließen möchtest:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

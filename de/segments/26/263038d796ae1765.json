@@ -1,0 +1,14 @@
+{
+  "hash": "263038d796ae1765",
+  "source": "New Directory Structure",
+  "text": "Neue Verzeichnisstruktur",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Neue Verzeichnisstruktur"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

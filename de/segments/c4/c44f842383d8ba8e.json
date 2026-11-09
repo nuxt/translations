@@ -1,0 +1,14 @@
+{
+  "hash": "c44f842383d8ba8e",
+  "source": "For example, to mock {0} endpoint, you can do:",
+  "text": "Um zum Beispiel den Endpunkt {0} zu mocken, kannst du Folgendes tun:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um zum Beispiel den Endpunkt {0} zu mocken, kannst du Folgendes tun:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "f8aee460c64df7cc",
+  "source": "Add plugin to extend Nitro's runtime behavior.",
+  "text": "Fügt ein plugin hinzu, um das Laufzeitverhalten von Nitro zu erweitern.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fügt ein plugin hinzu, um das Laufzeitverhalten von Nitro zu erweitern."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

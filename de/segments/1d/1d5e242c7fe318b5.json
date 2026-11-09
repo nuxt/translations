@@ -1,0 +1,14 @@
+{
+  "hash": "1d5e242c7fe318b5",
+  "source": "You can specify a version constraint for the module",
+  "text": "Du kannst eine Versionseinschränkung für das Modul angeben",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst eine Versionseinschränkung für das Modul angeben"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

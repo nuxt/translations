@@ -1,0 +1,14 @@
+{
+  "hash": "ffad56f4672e6aaf",
+  "source": "The shared directory. This directory is shared between the app and the server.",
+  "text": "Das Shared-Verzeichnis. Dieses Verzeichnis wird von der App und dem Server gemeinsam genutzt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Shared-Verzeichnis. Dieses Verzeichnis wird von der App und dem Server gemeinsam genutzt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "1e0038cff61657f4",
+  "source": "{0}, {1} and {2} are removed from Nuxt's auto-imports. They are still exported from {3}, so an explicit import keeps working.",
+  "text": "{0}, {1} und {2} wurden aus den automatischen Importen von Nuxt entfernt. Sie werden weiterhin aus {3} exportiert, ein expliziter Import funktioniert also weiterhin.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}, {1} und {2} wurden aus den automatischen Importen von Nuxt entfernt. Sie werden weiterhin aus {3} exportiert, ein expliziter Import funktioniert also weiterhin."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

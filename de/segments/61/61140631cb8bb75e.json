@@ -1,0 +1,14 @@
+{
+  "hash": "61140631cb8bb75e",
+  "source": "Warnings are printed to the terminal with the template location and, in development, sent to open error pages and overlays.",
+  "text": "Warnungen werden mit der Position in der Vorlage im Terminal ausgegeben und in der Entwicklung an geöffnete Fehlerseiten und Overlays gesendet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Warnungen werden mit der Position in der Vorlage im Terminal ausgegeben und in der Entwicklung an geöffnete Fehlerseiten und Overlays gesendet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

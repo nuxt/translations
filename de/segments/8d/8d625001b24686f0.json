@@ -1,0 +1,14 @@
+{
+  "hash": "8d625001b24686f0",
+  "source": "Your {0} implementation typically will have a different pattern when run in development mode ({1}):",
+  "text": "Deine {0}-Implementierung folgt im Entwicklungsmodus ({1}) in der Regel einem anderen Ablauf:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Deine {0}-Implementierung folgt im Entwicklungsmodus ({1}) in der Regel einem anderen Ablauf:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

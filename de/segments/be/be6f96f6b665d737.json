@@ -1,0 +1,14 @@
+{
+  "hash": "be6f96f6b665d737",
+  "source": "{0} is a composable meant to be called directly in a setup function, plugin, or route middleware. It returns reactive composables and handles adding responses to the Nuxt payload so they can be passed from server to client without re-fetching the data on client side when the page hydrates.",
+  "text": "{0} ist ein Composable, das direkt in einer Setup-Funktion, einem Plugin oder einer Routen-Middleware aufgerufen werden soll. Es gibt reaktive Composables zurück und fügt Antworten der Nuxt-Payload hinzu, sodass sie vom Server an den Client übergeben werden können, ohne die Daten auf dem Client erneut abzurufen, wenn die Seite hydratisiert wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ist ein Composable, das direkt in einer Setup-Funktion, einem Plugin oder einer Routen-Middleware aufgerufen werden soll. Es gibt reaktive Composables zurück und fügt Antworten der Nuxt-Payload hinzu, sodass sie vom Server an den Client übergeben werden können, ohne die Daten auf dem Client erneut abzurufen, wenn die Seite hydratisiert wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

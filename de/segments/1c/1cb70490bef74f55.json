@@ -1,0 +1,14 @@
+{
+  "hash": "1cb70490bef74f55",
+  "source": "{0} is the same request in the shape the configured builder provides, which is h3 v1's {1} under {2}.",
+  "text": "{0} ist dieselbe Anfrage in der Form, die der konfigurierte Builder bereitstellt, nämlich {1} von h3 v1 unter {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ist dieselbe Anfrage in der Form, die der konfigurierte Builder bereitstellt, nämlich {1} von h3 v1 unter {2}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

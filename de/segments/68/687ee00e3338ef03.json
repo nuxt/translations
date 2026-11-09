@@ -1,0 +1,14 @@
+{
+  "hash": "687ee00e3338ef03",
+  "source": "For Module Authors",
+  "text": "Für Modulautoren und Modulautorinnen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Für Modulautoren und Modulautorinnen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "2f3008180316f492",
+  "source": "Each subdirectory within {0} is treated as a separate layer. A layer can contain the same structure as a standard Nuxt application.",
+  "text": "Jedes Unterverzeichnis in {0} wird als eigener Layer behandelt. Ein Layer kann dieselbe Struktur wie eine reguläre Nuxt-Anwendung enthalten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Jedes Unterverzeichnis in {0} wird als eigener Layer behandelt. Ein Layer kann dieselbe Struktur wie eine reguläre Nuxt-Anwendung enthalten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

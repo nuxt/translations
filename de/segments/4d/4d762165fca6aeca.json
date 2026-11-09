@@ -1,0 +1,14 @@
+{
+  "hash": "4d762165fca6aeca",
+  "source": "**If a composable depends on another plugin registered later, it might not work.**{0}",
+  "text": "**Wenn ein Composable von einem anderen Plugin abhängt, das erst später registriert wird, funktioniert es möglicherweise nicht.**{0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Wenn ein Composable von einem anderen Plugin abhängt, das erst später registriert wird, funktioniert es möglicherweise nicht.**{0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "37da61b586948f6f",
+  "source": "If you're using {0}Template Params{/0} or {1}Alias Tag Sorting{/1}, you will need to explicitly opt in to these features now.",
+  "text": "Wenn du {0}Template Params{/0} oder {1}Alias Tag Sorting{/1} verwendest, musst du diese Funktionen jetzt ausdrücklich aktivieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du {0}Template Params{/0} oder {1}Alias Tag Sorting{/1} verwendest, musst du diese Funktionen jetzt ausdrücklich aktivieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

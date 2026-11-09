@@ -1,0 +1,14 @@
+{
+  "hash": "ecdcb3cc1f0dd3e6",
+  "source": "Moving to {0}",
+  "text": "Umstieg auf {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Umstieg auf {0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "6b1a8a7d812e5ba3",
+  "source": "Reasons for Change",
+  "text": "Gründe für die Änderung",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gründe für die Änderung"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

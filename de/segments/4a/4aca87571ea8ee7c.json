@@ -1,0 +1,14 @@
+{
+  "hash": "4aca87571ea8ee7c",
+  "source": "Nuxt reads the imports of your module's own files, not of the packages they call. A {0} file that calls a library which imports Nitro internally is accepted, but fails under a builder other than Nitro.",
+  "text": "Nuxt liest die Importe der eigenen Dateien deines Moduls, nicht die der Pakete, die sie aufrufen. Eine {0}-Datei, die eine Bibliothek aufruft, die intern Nitro importiert, wird akzeptiert, schlägt aber bei einem anderen Builder als Nitro fehl.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt liest die Importe der eigenen Dateien deines Moduls, nicht die der Pakete, die sie aufrufen. Eine {0}-Datei, die eine Bibliothek aufruft, die intern Nitro importiert, wird akzeptiert, schlägt aber bei einem anderen Builder als Nitro fehl."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

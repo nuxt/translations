@@ -1,0 +1,14 @@
+{
+  "hash": "cad128465f9039e6",
+  "source": "**Base layers appear last** in the array (lowest priority)",
+  "text": "**Basis-Layer stehen am Ende** des Arrays (niedrigste Priorität)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Basis-Layer stehen am Ende** des Arrays (niedrigste Priorität)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

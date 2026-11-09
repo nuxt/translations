@@ -1,0 +1,14 @@
+{
+  "hash": "37b0e189f523c67c",
+  "source": "If you encounter the {0} variable destructured from a {1} returns a string and not a JSON parsed object then make sure your component doesn't include an import statement like {2}.",
+  "text": "Wenn die aus einem {1} destrukturierte Variable {0} einen String statt eines per JSON geparsten Objekts zurückgibt, stelle sicher, dass deine Komponente keine Import-Anweisung wie {2} enthält.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn die aus einem {1} destrukturierte Variable {0} einen String statt eines per JSON geparsten Objekts zurückgibt, stelle sicher, dass deine Komponente keine Import-Anweisung wie {2} enthält."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

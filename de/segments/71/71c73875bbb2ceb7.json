@@ -1,0 +1,14 @@
+{
+  "hash": "71c73875bbb2ceb7",
+  "source": "Q4 2026 (estimated)",
+  "text": "Q4 2026 (geschätzt)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Q4 2026 (geschätzt)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

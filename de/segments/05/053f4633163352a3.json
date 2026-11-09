@@ -1,0 +1,14 @@
+{
+  "hash": "053f4633163352a3",
+  "source": "Run {0} to generate type stubs.",
+  "text": "Führe {0} aus, um Type-Stubs zu generieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Führe {0} aus, um Type-Stubs zu generieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

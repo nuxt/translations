@@ -1,0 +1,14 @@
+{
+  "hash": "d58dc48c08c97e71",
+  "source": "In a menu or a set of breadcrumbs, the link matching the current route already exposes {0}, so assistive technology can tell which item you are on. Where a different token describes the relationship better, such as a step in a multi-page form, set {1}:",
+  "text": "In einem Menü oder in Breadcrumbs stellt der Link, der zur aktuellen Route passt, bereits {0} bereit, sodass assistive Technologien erkennen können, auf welchem Eintrag du dich befindest. Wenn ein anderer Wert die Beziehung besser beschreibt, etwa ein Schritt in einem mehrseitigen Formular, setze {1}:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In einem Menü oder in Breadcrumbs stellt der Link, der zur aktuellen Route passt, bereits {0} bereit, sodass assistive Technologien erkennen können, auf welchem Eintrag du dich befindest. Wenn ein anderer Wert die Beziehung besser beschreibt, etwa ein Schritt in einem mehrseitigen Formular, setze {1}:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "a0f9827f1debe938",
+  "source": "All comments, issues, and pull request descriptions should be written in your own voice",
+  "text": "Alle Kommentare, Issues und Beschreibungen von Pull Requests sollten in deinen eigenen Worten verfasst sein",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Alle Kommentare, Issues und Beschreibungen von Pull Requests sollten in deinen eigenen Worten verfasst sein"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

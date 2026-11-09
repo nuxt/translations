@@ -1,0 +1,14 @@
+{
+  "hash": "7a95b53393ed3d7b",
+  "source": "No change is needed for a Tailwind CSS {0} theme entry such as {1}: the {2} utility generates a {3} declaration, which Nuxt Fonts finds in the generated CSS. With Tailwind CSS v4, see {4}Tailwind CSS{/4} for how theme variables are picked up.",
+  "text": "Bei einem Tailwind-CSS-{0}-Theme-Eintrag wie {1} ist keine Änderung nötig: Die Utility-Klasse {2} erzeugt eine {3}-Deklaration, die Nuxt Fonts im generierten CSS findet. Wie Theme-Variablen bei Tailwind CSS v4 erkannt werden, erfährst du unter {4}Tailwind CSS{/4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bei einem Tailwind-CSS-{0}-Theme-Eintrag wie {1} ist keine Änderung nötig: Die Utility-Klasse {2} erzeugt eine {3}-Deklaration, die Nuxt Fonts im generierten CSS findet. Wie Theme-Variablen bei Tailwind CSS v4 erkannt werden, erfährst du unter {4}Tailwind CSS{/4}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

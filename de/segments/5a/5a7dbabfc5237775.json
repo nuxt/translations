@@ -1,0 +1,14 @@
+{
+  "hash": "5a7dbabfc5237775",
+  "source": "Nuxt internally uses {0}unjs/unctx{/0} to support composables similar to Vue for plugins and middleware. This enables composables like {1} to work without directly passing {2} to them - bringing the DX and performance benefits of Composition API to the whole Nuxt framework.",
+  "text": "Nuxt verwendet intern {0}unjs/unctx{/0}, um Composables ähnlich wie in Vue auch für Plugins und Middleware zu unterstützen. Dadurch funktionieren Composables wie {1}, ohne dass {2} direkt übergeben werden muss. So profitiert das gesamte Nuxt-Framework von der Developer Experience (DX) und den Performance-Vorteilen der Composition API.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt verwendet intern {0}unjs/unctx{/0}, um Composables ähnlich wie in Vue auch für Plugins und Middleware zu unterstützen. Dadurch funktionieren Composables wie {1}, ohne dass {2} direkt übergeben werden muss. So profitiert das gesamte Nuxt-Framework von der Developer Experience (DX) und den Performance-Vorteilen der Composition API."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

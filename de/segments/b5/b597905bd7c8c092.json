@@ -1,0 +1,14 @@
+{
+  "hash": "b597905bd7c8c092",
+  "source": "**Node environment**: tests run in plain Node. End-to-end tests using {0} require this environment, as they test your Nuxt app from the outside, over HTTP or through a browser. Unit tests that do not need Nuxt can also run here.",
+  "text": "**Node-Umgebung**: Tests laufen in reinem Node. End-to-End-Tests mit {0} setzen diese Umgebung voraus, da sie deine Nuxt-Anwendung von außen testen, über HTTP oder per Browser. Unit-Tests, die Nuxt nicht benötigen, können hier ebenfalls laufen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Node-Umgebung**: Tests laufen in reinem Node. End-to-End-Tests mit {0} setzen diese Umgebung voraus, da sie deine Nuxt-Anwendung von außen testen, über HTTP oder per Browser. Unit-Tests, die Nuxt nicht benötigen, können hier ebenfalls laufen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

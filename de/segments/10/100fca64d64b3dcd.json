@@ -1,0 +1,14 @@
+{
+  "hash": "100fca64d64b3dcd",
+  "source": "We create the {0} object if it doesn't exist yet",
+  "text": "Wir erstellen das Objekt {0}, falls es noch nicht existiert",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wir erstellen das Objekt {0}, falls es noch nicht existiert"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

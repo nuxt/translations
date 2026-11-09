@@ -1,0 +1,14 @@
+{
+  "hash": "4015f7317f4b3878",
+  "source": "Called when a vue error propagates to the root component. {0}Learn More{/0}.",
+  "text": "Wird aufgerufen, wenn sich ein Vue-Fehler bis zur Root-Komponente fortpflanzt. {0}Mehr erfahren{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird aufgerufen, wenn sich ein Vue-Fehler bis zur Root-Komponente fortpflanzt. {0}Mehr erfahren{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e1bb70552637cc03",
+  "source": "Move the {0} call into the body of a {1} handler.",
+  "text": "Verschiebe den Aufruf von {0} in den Rumpf eines {1}-Handlers.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verschiebe den Aufruf von {0} in den Rumpf eines {1}-Handlers."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

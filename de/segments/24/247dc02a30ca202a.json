@@ -1,0 +1,14 @@
+{
+  "hash": "247dc02a30ca202a",
+  "source": "You use the default slot to render your content",
+  "text": "Du verwendest den Default-Slot, um deinen Inhalt zu rendern",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du verwendest den Default-Slot, um deinen Inhalt zu rendern"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

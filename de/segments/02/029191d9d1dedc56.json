@@ -1,0 +1,14 @@
+{
+  "hash": "029191d9d1dedc56",
+  "source": "It will be available as randomEntry() (camelCase of file name without extension)",
+  "text": "Sie ist als randomEntry() verfügbar (camelCase des Dateinamens ohne Erweiterung)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sie ist als randomEntry() verfügbar (camelCase des Dateinamens ohne Erweiterung)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

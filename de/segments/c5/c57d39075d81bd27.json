@@ -1,0 +1,14 @@
+{
+  "hash": "c57d39075d81bd27",
+  "source": "You can set minimizer to a customized array of plugins.",
+  "text": "Du kannst minimizer auf ein angepasstes Array von plugins setzen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst minimizer auf ein angepasstes Array von plugins setzen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

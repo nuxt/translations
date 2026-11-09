@@ -1,0 +1,14 @@
+{
+  "hash": "aec71fa31abe5fe9",
+  "source": "Plugins or components using the Composition API need exclusive Vue 2 or Vue 3 support.",
+  "text": "Plugins oder Komponenten, die die Composition API verwenden, benötigen ausschließlich Unterstützung für Vue 2 oder Vue 3.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Plugins oder Komponenten, die die Composition API verwenden, benötigen ausschließlich Unterstützung für Vue 2 oder Vue 3."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

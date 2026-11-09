@@ -1,0 +1,14 @@
+{
+  "hash": "ddfa503345c6201a",
+  "source": "Inline styles with {0} within your {1} don't work; only CSS stylesheets are processed. See {2}when a font isn't picked up{/2}.",
+  "text": "Inline-Styles mit {0} innerhalb deines {1} funktionieren nicht; nur CSS-Stylesheets werden verarbeitet. Siehe {2}Wenn eine Schriftart nicht erkannt wird{/2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Inline-Styles mit {0} innerhalb deines {1} funktionieren nicht; nur CSS-Stylesheets werden verarbeitet. Siehe {2}Wenn eine Schriftart nicht erkannt wird{/2}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

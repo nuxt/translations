@@ -1,0 +1,14 @@
+{
+  "hash": "baa5e26e44bc04a3",
+  "source": "Read more about {0} composable.",
+  "text": "Weitere Informationen zum Composable {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Weitere Informationen zum Composable {0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

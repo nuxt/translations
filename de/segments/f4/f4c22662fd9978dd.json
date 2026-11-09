@@ -1,0 +1,14 @@
+{
+  "hash": "f4c22662fd9978dd",
+  "source": "App Builders and the Vite Environment API",
+  "text": "App-Builder und die Vite Environment API",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "App-Builder und die Vite Environment API"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

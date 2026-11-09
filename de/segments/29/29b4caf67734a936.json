@@ -1,0 +1,14 @@
+{
+  "hash": "29b4caf67734a936",
+  "source": "Nuxt Scripts provides an abstraction layer on top of third-party scripts, providing SSR support and type-safety and while still giving you full low-level control over how a script is loaded.",
+  "text": "Nuxt Scripts bietet eine Abstraktionsschicht über Skripten von Drittanbietern, unterstützt SSR und Typsicherheit und lässt dir dennoch die volle Low-Level-Kontrolle darüber, wie ein Skript geladen wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Scripts bietet eine Abstraktionsschicht über Skripten von Drittanbietern, unterstützt SSR und Typsicherheit und lässt dir dennoch die volle Low-Level-Kontrolle darüber, wie ein Skript geladen wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

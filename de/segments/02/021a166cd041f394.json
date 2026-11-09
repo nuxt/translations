@@ -1,0 +1,14 @@
+{
+  "hash": "021a166cd041f394",
+  "source": "Helper functions for body parsing, cookie handling, redirects, headers and more",
+  "text": "Hilfsfunktionen für das Parsen des Bodys, den Umgang mit Cookies, Weiterleitungen, Header und mehr",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Hilfsfunktionen für das Parsen des Bodys, den Umgang mit Cookies, Weiterleitungen, Header und mehr"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

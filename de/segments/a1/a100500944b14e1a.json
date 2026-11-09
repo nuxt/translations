@@ -1,0 +1,14 @@
+{
+  "hash": "a100500944b14e1a",
+  "source": "Similarly, you can register a custom Vue directive in a plugin.",
+  "text": "Auf ähnliche Weise kannst du in einem Plugin eine benutzerdefinierte Vue-Direktive registrieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auf ähnliche Weise kannst du in einem Plugin eine benutzerdefinierte Vue-Direktive registrieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

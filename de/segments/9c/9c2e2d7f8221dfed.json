@@ -1,0 +1,14 @@
+{
+  "hash": "9c2e2d7f8221dfed",
+  "source": "Nuxt provides a customizable route middleware framework you can use throughout your application, ideal for extracting code that you want to run before navigating to a particular route.",
+  "text": "Nuxt bietet ein anpassbares Framework für Routen-Middleware, das du in deiner gesamten Anwendung einsetzen kannst. Es eignet sich ideal, um Code auszulagern, der vor der Navigation zu einer bestimmten Route ausgeführt werden soll.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt bietet ein anpassbares Framework für Routen-Middleware, das du in deiner gesamten Anwendung einsetzen kannst. Es eignet sich ideal, um Code auszulagern, der vor der Navigation zu einer bestimmten Route ausgeführt werden soll."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

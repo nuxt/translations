@@ -1,0 +1,14 @@
+{
+  "hash": "61096c6531a8917b",
+  "source": "Sets the {0} tag for the document.",
+  "text": "Legt den Tag {0} für das Dokument fest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Legt den Tag {0} für das Dokument fest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "0a0fd83bab6de2ef",
+  "source": "Specify Nitro server preset. Available presets depend on Nitro (e.g. {0}, {1}, {2}, {3})",
+  "text": "Legt das Nitro-Server-Preset fest. Die verfügbaren Presets hängen von Nitro ab (z. B. {0}, {1}, {2}, {3})",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Legt das Nitro-Server-Preset fest. Die verfügbaren Presets hängen von Nitro ab (z. B. {0}, {1}, {2}, {3})"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

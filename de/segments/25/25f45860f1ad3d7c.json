@@ -1,0 +1,14 @@
+{
+  "hash": "25f45860f1ad3d7c",
+  "source": "You can control this behavior with the {0} option:",
+  "text": "Dieses Verhalten kannst du mit der Option {0} steuern:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dieses Verhalten kannst du mit der Option {0} steuern:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

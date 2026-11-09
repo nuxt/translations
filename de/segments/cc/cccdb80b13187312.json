@@ -1,0 +1,14 @@
+{
+  "hash": "cccdb80b13187312",
+  "source": "If you have set {0}, the path returned on the server is relative to it, so {1} is served as {2}. On the client, {3} reads {4}, which includes the base URL.",
+  "text": "Wenn du {0} gesetzt hast, ist der auf dem Server zurückgegebene Pfad relativ dazu, sodass {1} als {2} ausgeliefert wird. Auf dem Client liest {3} den Wert {4}, der die Basis-URL enthält.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du {0} gesetzt hast, ist der auf dem Server zurückgegebene Pfad relativ dazu, sodass {1} als {2} ausgeliefert wird. Auf dem Client liest {3} den Wert {4}, der die Basis-URL enthält."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

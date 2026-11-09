@@ -1,0 +1,14 @@
+{
+  "hash": "84fe077ac2724933",
+  "source": "register it in your {0} file, in {1} for a module and in {2} for a layer, unless you pass {3}",
+  "text": "es in deiner Datei {0} registrieren, und zwar in {1} bei einem Modul und in {2} bei einem Layer, es sei denn, du übergibst {3}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "es in deiner Datei {0} registrieren, und zwar in {1} bei einem Modul und in {2} bei einem Layer, es sei denn, du übergibst {3}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "d7972a53fad00bfb",
+  "source": "This renders the \"span\" element on the server side",
+  "text": "Dadurch wird das Element „span“ auf der Server-Seite gerendert",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dadurch wird das Element „span“ auf der Server-Seite gerendert"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

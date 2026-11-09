@@ -1,0 +1,14 @@
+{
+  "hash": "5a0fe533ee1aca3b",
+  "source": "If it returns {0} or {1}, Nuxt will fall back to the default routes (useful to modify input array).",
+  "text": "Gibt sie {0} oder {1} zurück, greift Nuxt auf die Standardrouten zurück (nützlich, um das Eingabe-Array zu verändern).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gibt sie {0} oder {1} zurück, greift Nuxt auf die Standardrouten zurück (nützlich, um das Eingabe-Array zu verändern)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "f9a76bfdd6061f83",
+  "source": "Any files in {0} and {1} will be automatically registered; you can remove them from your {2} array.",
+  "text": "Alle Dateien in {0} und {1} werden automatisch registriert; du kannst sie aus deinem {2}-Array entfernen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Alle Dateien in {0} und {1} werden automatisch registriert; du kannst sie aus deinem {2}-Array entfernen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

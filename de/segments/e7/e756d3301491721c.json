@@ -1,0 +1,14 @@
+{
+  "hash": "e756d3301491721c",
+  "source": "The **server builder** resolves them into modules the renderer can import, and asks Nuxt for the set rather than naming it (see {0}Authoring a Server Builder{/0}).",
+  "text": "Der **Server-Builder** löst sie in Module auf, die der Renderer importieren kann, und fragt Nuxt nach dem gesamten Satz, statt ihn selbst zu benennen (siehe {0}Server-Builder entwickeln{/0}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der **Server-Builder** löst sie in Module auf, die der Renderer importieren kann, und fragt Nuxt nach dem gesamten Satz, statt ihn selbst zu benennen (siehe {0}Server-Builder entwickeln{/0})."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "9ba2d613c4a82cb6",
+  "source": "Creating a Virtual File for Runtime Plugin",
+  "text": "Eine virtuelle Datei für ein Runtime-plugin erstellen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine virtuelle Datei für ein Runtime-plugin erstellen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

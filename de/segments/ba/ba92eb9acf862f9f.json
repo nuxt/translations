@@ -1,0 +1,14 @@
+{
+  "hash": "ba92eb9acf862f9f",
+  "source": "Normally, you should not need to set this.",
+  "text": "Normalerweise musst du diese Option nicht setzen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Normalerweise musst du diese Option nicht setzen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

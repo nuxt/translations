@@ -1,0 +1,14 @@
+{
+  "hash": "a4e3522ec831f69f",
+  "source": "You will also need to change how you define the layout used by a page using the {0} compiler macro. Layouts will be kebab-cased. So {1} becomes {2} when referenced in your page.",
+  "text": "Außerdem musst du ändern, wie du das von einer Seite verwendete Layout mit dem Compiler-Makro {0} festlegst. Layouts werden in Kebab-Case geschrieben. So wird aus {1} in deiner Seite {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Außerdem musst du ändern, wie du das von einer Seite verwendete Layout mit dem Compiler-Makro {0} festlegst. Layouts werden in Kebab-Case geschrieben. So wird aus {1} in deiner Seite {2}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

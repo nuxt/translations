@@ -1,0 +1,14 @@
+{
+  "hash": "bde407c3b72537d5",
+  "source": "Most {0} set in {1} are shared with every context, but a few are not. DOM- and Vue-specific options (such as {2}, {3} and {4}) only make sense for your application code, so they are applied to {5} alone. Nuxt also manages {6}, {7} and {8} per context (the {9}, {10} and {11} configs deliberately emit nothing and scan no ambient types), so setting these in {12} will not change them. Use the matching per-context option ({13}, {14}, {15} or {16}) when you need to override them.",
+  "text": "Die meisten {0}, die in {1} gesetzt werden, gelten für alle Kontexte, einige jedoch nicht. DOM- und Vue-spezifische Optionen (wie {2}, {3} und {4}) ergeben nur für deinen Anwendungscode Sinn und werden daher ausschließlich auf {5} angewendet. Nuxt verwaltet außerdem {6}, {7} und {8} pro Kontext (die Konfigurationen {9}, {10} und {11} geben bewusst nichts aus und durchsuchen keine Ambient-Typen). Wenn du diese in {12} setzt, ändert sich daran also nichts. Verwende die passende Option des jeweiligen Kontexts ({13}, {14}, {15} oder {16}), wenn du sie überschreiben möchtest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die meisten {0}, die in {1} gesetzt werden, gelten für alle Kontexte, einige jedoch nicht. DOM- und Vue-spezifische Optionen (wie {2}, {3} und {4}) ergeben nur für deinen Anwendungscode Sinn und werden daher ausschließlich auf {5} angewendet. Nuxt verwaltet außerdem {6}, {7} und {8} pro Kontext (die Konfigurationen {9}, {10} und {11} geben bewusst nichts aus und durchsuchen keine Ambient-Typen). Wenn du diese in {12} setzt, ändert sich daran also nichts. Verwende die passende Option des jeweiligen Kontexts ({13}, {14}, {15} oder {16}), wenn du sie überschreiben möchtest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b4d5c94668fc74dd",
+  "source": "Layouts is used to be a wrapper around your pages. It can be used to wrap your pages with common components, for example, a header and a footer. Layouts can be registered using {0} utility.",
+  "text": "Ein Layout dient als Wrapper um deine Seiten. Damit kannst du Seiten mit gemeinsamen Komponenten umschließen, zum Beispiel mit einem Header und einem Footer. Layouts lassen sich mit der Hilfsfunktion {0} registrieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein Layout dient als Wrapper um deine Seiten. Damit kannst du Seiten mit gemeinsamen Komponenten umschließen, zum Beispiel mit einem Header und einem Footer. Layouts lassen sich mit der Hilfsfunktion {0} registrieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

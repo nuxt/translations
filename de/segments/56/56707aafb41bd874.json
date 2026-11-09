@@ -1,0 +1,14 @@
+{
+  "hash": "56707aafb41bd874",
+  "source": "When not using {0}, {1} supports all Vue Router's {2}{3} props{/2}",
+  "text": "Wenn {0} nicht verwendet wird, unterstützt {1} alle {2}{3}-Props{/2} von Vue Router:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn {0} nicht verwendet wird, unterstützt {1} alle {2}{3}-Props{/2} von Vue Router:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

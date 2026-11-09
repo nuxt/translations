@@ -1,0 +1,14 @@
+{
+  "hash": "b6c99e723f28d714",
+  "source": "{0} to be announced",
+  "text": "{0} wird noch bekannt gegeben",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} wird noch bekannt gegeben"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

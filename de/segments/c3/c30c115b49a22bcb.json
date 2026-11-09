@@ -1,0 +1,14 @@
+{
+  "hash": "c30c115b49a22bcb",
+  "source": "Do not warn about module incompatibilities",
+  "text": "Nicht vor Modulinkompatibilitäten warnen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nicht vor Modulinkompatibilitäten warnen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

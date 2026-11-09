@@ -1,0 +1,14 @@
+{
+  "hash": "71c2ec146f27d3a3",
+  "source": "Discover the {0} organization on GitHub",
+  "text": "Entdecke die Organisation {0} auf GitHub",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Entdecke die Organisation {0} auf GitHub"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

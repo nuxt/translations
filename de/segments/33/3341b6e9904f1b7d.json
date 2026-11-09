@@ -1,0 +1,14 @@
+{
+  "hash": "3341b6e9904f1b7d",
+  "source": "With great power comes great responsibility. While modules are powerful, here are some best practices to keep in mind while authoring modules to keep applications performant and developer experience great.",
+  "text": "Mit großer Macht kommt große Verantwortung. Module sind zwar mächtig, aber mit diesen Best Practices für die Entwicklung von Modulen bleiben Anwendungen performant und die Developer Experience bleibt gut.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit großer Macht kommt große Verantwortung. Module sind zwar mächtig, aber mit diesen Best Practices für die Entwicklung von Modulen bleiben Anwendungen performant und die Developer Experience bleibt gut."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

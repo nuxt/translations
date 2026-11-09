@@ -1,0 +1,14 @@
+{
+  "hash": "5a7d2e3fc863d0b9",
+  "source": "You can build your module by running {0}.",
+  "text": "Du kannst dein Modul erzeugen, indem du {0} ausführst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst dein Modul erzeugen, indem du {0} ausführst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

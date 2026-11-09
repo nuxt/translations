@@ -1,0 +1,14 @@
+{
+  "hash": "755ec21d28085412",
+  "source": "Handle the request errors",
+  "text": "Fehler bei der Anfrage behandeln",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fehler bei der Anfrage behandeln"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

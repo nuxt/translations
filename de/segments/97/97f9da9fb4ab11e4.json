@@ -1,0 +1,14 @@
+{
+  "hash": "97f9da9fb4ab11e4",
+  "source": "It is recommended to read the {0}Vue 3 migration guide{/0} and in particular the {1}breaking changes list{/1}.",
+  "text": "Es wird empfohlen, die {0}Migrationsanleitung für Vue 3{/0} und insbesondere die {1}Liste der inkompatiblen Änderungen{/1} zu lesen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Es wird empfohlen, die {0}Migrationsanleitung für Vue 3{/0} und insbesondere die {1}Liste der inkompatiblen Änderungen{/1} zu lesen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

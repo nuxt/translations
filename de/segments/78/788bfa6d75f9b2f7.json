@@ -1,0 +1,14 @@
+{
+  "hash": "788bfa6d75f9b2f7",
+  "source": "Modules influence the bundle through {0}Nuxt Kit{/0} helpers, and an app builder honors the relevant ones:",
+  "text": "Module beeinflussen das Bundle über Hilfsprogramme aus {0}Nuxt Kit{/0}, und ein App-Builder berücksichtigt die relevanten davon:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Module beeinflussen das Bundle über Hilfsprogramme aus {0}Nuxt Kit{/0}, und ein App-Builder berücksichtigt die relevanten davon:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

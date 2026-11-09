@@ -1,0 +1,14 @@
+{
+  "hash": "b3d50511c1d302a8",
+  "source": "In development, an error {0} is preserved and exposed to your error page so you can trace the original error; in production, causes are never included in error responses or the error page payload.",
+  "text": "In der Entwicklung bleibt die Fehlerursache {0} erhalten und wird deiner Fehlerseite zur Verfügung gestellt, damit du den ursprünglichen Fehler nachverfolgen kannst. In der Produktion sind Ursachen nie in Fehlerantworten oder in der Payload der Fehlerseite enthalten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In der Entwicklung bleibt die Fehlerursache {0} erhalten und wird deiner Fehlerseite zur Verfügung gestellt, damit du den ursprünglichen Fehler nachverfolgen kannst. In der Produktion sind Ursachen nie in Fehlerantworten oder in der Payload der Fehlerseite enthalten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

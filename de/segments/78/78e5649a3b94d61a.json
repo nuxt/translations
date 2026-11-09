@@ -1,0 +1,14 @@
+{
+  "hash": "78e5649a3b94d61a",
+  "source": "Augmenting types from outside the {0}, {1}, or {2} directories will not work with the new project references setup.",
+  "text": "Typerweiterungen von außerhalb der Verzeichnisse {0}, {1} oder {2} funktionieren mit dem neuen Setup mit Project References nicht.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Typerweiterungen von außerhalb der Verzeichnisse {0}, {1} oder {2} funktionieren mit dem neuen Setup mit Project References nicht."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

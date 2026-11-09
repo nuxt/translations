@@ -1,0 +1,14 @@
+{
+  "hash": "e70b40f0d7bf0419",
+  "source": "you can access all the Playwright APIs from the {0} variable",
+  "text": "du kannst über die Variable {0} auf alle Playwright-APIs zugreifen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "du kannst über die Variable {0} auf alle Playwright-APIs zugreifen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

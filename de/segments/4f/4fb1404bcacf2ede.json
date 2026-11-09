@@ -1,0 +1,14 @@
+{
+  "hash": "4fb1404bcacf2ede",
+  "source": "*Make sure you've first read the docs and used your favorite search engine*. Let people know by saying something like \"I've Googled for 'nuxt script setup' but I couldn't find code examples anywhere.\"",
+  "text": "*Stelle sicher, dass du zuerst die Dokumentation gelesen und deine Lieblingssuchmaschine benutzt hast.* Gib das an, indem du zum Beispiel schreibst: „Ich habe nach ‚nuxt script setup‘ gegoogelt, aber nirgends Codebeispiele gefunden.“",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "*Stelle sicher, dass du zuerst die Dokumentation gelesen und deine Lieblingssuchmaschine benutzt hast.* Gib das an, indem du zum Beispiel schreibst: „Ich habe nach ‚nuxt script setup‘ gegoogelt, aber nirgends Codebeispiele gefunden.“"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

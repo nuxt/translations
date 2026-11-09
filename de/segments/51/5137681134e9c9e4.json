@@ -1,0 +1,14 @@
+{
+  "hash": "5137681134e9c9e4",
+  "source": "{0} is now enabled by default. A top-level {1} in {2} is compiled into an early return from {3} when the navigation succeeds, so the rest of the setup code does not run and the component renders a placeholder comment while the navigation proceeds.",
+  "text": "{0} ist jetzt standardmäßig aktiviert. Ein {1} auf oberster Ebene in {2} wird bei erfolgreicher Navigation zu einer frühen Rückgabe aus {3} kompiliert. Der restliche Setup-Code wird dann nicht ausgeführt, und die Komponente rendert einen Platzhalterkommentar, während die Navigation läuft.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ist jetzt standardmäßig aktiviert. Ein {1} auf oberster Ebene in {2} wird bei erfolgreicher Navigation zu einer frühen Rückgabe aus {3} kompiliert. Der restliche Setup-Code wird dann nicht ausgeführt, und die Komponente rendert einen Platzhalterkommentar, während die Navigation läuft."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

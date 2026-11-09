@@ -1,0 +1,14 @@
+{
+  "hash": "e40bbd8c5a60c428",
+  "source": "Register a directory to be scanned for components and imported only when used. Keep in mind, that this does not register components globally, until you specify {0} option.",
+  "text": "Registriert ein Verzeichnis, das nach Komponenten durchsucht wird und dessen Komponenten nur bei Verwendung importiert werden. Beachte, dass dadurch keine Komponenten global registriert werden, solange du nicht die Option {0} angibst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Registriert ein Verzeichnis, das nach Komponenten durchsucht wird und dessen Komponenten nur bei Verwendung importiert werden. Beachte, dass dadurch keine Komponenten global registriert werden, solange du nicht die Option {0} angibst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

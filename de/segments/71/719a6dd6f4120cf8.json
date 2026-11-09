@@ -1,0 +1,14 @@
+{
+  "hash": "719a6dd6f4120cf8",
+  "source": "Run vitest command",
+  "text": "Führe den Befehl vitest aus",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Führe den Befehl vitest aus"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b293b1bd3d39b51b",
+  "source": "Refresh all or specific asyncData instances in Nuxt",
+  "text": "Alle oder bestimmte asyncData-Instanzen in Nuxt aktualisieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Alle oder bestimmte asyncData-Instanzen in Nuxt aktualisieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

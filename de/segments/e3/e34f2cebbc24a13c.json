@@ -1,0 +1,14 @@
+{
+  "hash": "e34f2cebbc24a13c",
+  "source": "the client build's assets",
+  "text": "die Assets des Client-Builds",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "die Assets des Client-Builds"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

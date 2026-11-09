@@ -1,0 +1,14 @@
+{
+  "hash": "93cc8324e96b202f",
+  "source": "You can call {0} only after {1} hook.",
+  "text": "Du kannst {0} erst nach dem {1}-hook aufrufen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst {0} erst nach dem {1}-hook aufrufen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

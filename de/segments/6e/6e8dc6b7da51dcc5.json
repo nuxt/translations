@@ -1,0 +1,14 @@
+{
+  "hash": "6e8dc6b7da51dcc5",
+  "source": "Do not use backticks for names of tools, projects, or general concepts (use *Vite*, not {0}, when referring to the tool).",
+  "text": "Verwende keine Backticks für Namen von Tools, Projekten oder allgemeinen Konzepten (schreibe *Vite*, nicht {0}, wenn du das Tool meinst).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwende keine Backticks für Namen von Tools, Projekten oder allgemeinen Konzepten (schreibe *Vite*, nicht {0}, wenn du das Tool meinst)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "79587cc5277ca2f3",
+  "source": "For this reason, most of your previous {0} configuration in {1} will now be ignored, including any custom babel configuration.",
+  "text": "Aus diesem Grund wird der Großteil deiner bisherigen {0}-Konfiguration in {1} künftig ignoriert, einschließlich einer benutzerdefinierten Babel-Konfiguration.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Aus diesem Grund wird der Großteil deiner bisherigen {0}-Konfiguration in {1} künftig ignoriert, einschließlich einer benutzerdefinierten Babel-Konfiguration."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

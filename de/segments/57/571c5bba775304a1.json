@@ -1,0 +1,14 @@
+{
+  "hash": "571c5bba775304a1",
+  "source": "Resolve main (app.vue)",
+  "text": "Haupteintrag auflösen (app.vue)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Haupteintrag auflösen (app.vue)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

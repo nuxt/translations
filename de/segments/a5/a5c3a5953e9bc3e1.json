@@ -1,0 +1,14 @@
+{
+  "hash": "a5c3a5953e9bc3e1",
+  "source": "Define a reusable addon that extends composables created with createUseFetch.",
+  "text": "Definiere ein wiederverwendbares Addon, das mit createUseFetch erstellte Composables erweitert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Definiere ein wiederverwendbares Addon, das mit createUseFetch erstellte Composables erweitert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

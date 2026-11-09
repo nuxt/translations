@@ -1,0 +1,14 @@
+{
+  "hash": "d9215b5e6aed49d5",
+  "source": "hydrate when the browser is idle",
+  "text": "hydratisieren, wenn der Browser im Leerlauf ist",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "hydratisieren, wenn der Browser im Leerlauf ist"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

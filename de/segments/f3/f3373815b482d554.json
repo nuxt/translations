@@ -1,0 +1,14 @@
+{
+  "hash": "f3373815b482d554",
+  "source": "Update the app configuration that will be applied to {0}. This is useful for modules to set default values that can be overridden by user configuration. The update is merged with the existing configuration using {1}.",
+  "text": "Aktualisiert die App-Konfiguration, die auf {0} angewendet wird. Das ist nützlich für Module, um Standardwerte festzulegen, die durch die Konfiguration der Nutzenden überschrieben werden können. Das Update wird mit {1} in die bestehende Konfiguration zusammengeführt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Aktualisiert die App-Konfiguration, die auf {0} angewendet wird. Das ist nützlich für Module, um Standardwerte festzulegen, die durch die Konfiguration der Nutzenden überschrieben werden können. Das Update wird mit {1} in die bestehende Konfiguration zusammengeführt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

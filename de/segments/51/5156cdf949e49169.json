@@ -1,0 +1,14 @@
+{
+  "hash": "5156cdf949e49169",
+  "source": "**Head tags registered after the shell flushes become client-side patches.** The renderer waits for the first render pass before flushing the shell, so {0}/{1} called synchronously in {2} (before any {3}), in plugins, or in middleware render into the shell {4} as usual. Tags registered later (after an {5} in setup, or inside a nested {6} boundary) cannot reach the already-sent {7}; they are delivered as inline scripts that patch the DOM on the client.",
+  "text": "**Head-Tags, die nach dem Senden der Shell registriert werden, werden zu clientseitigen Patches.** Der Renderer wartet auf den ersten Render-Durchlauf, bevor er die Shell sendet. Daher werden {0}/{1}, synchron in {2} (vor jedem {3}), in Plugins oder in middleware aufgerufen, wie gewohnt in den Shell-{4} gerendert. Später registrierte Tags (nach einem {5} im Setup oder innerhalb einer verschachtelten {6}-Grenze) können den bereits gesendeten {7} nicht mehr erreichen; sie werden als Inline-Skripte ausgeliefert, die das DOM auf dem Client patchen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Head-Tags, die nach dem Senden der Shell registriert werden, werden zu clientseitigen Patches.** Der Renderer wartet auf den ersten Render-Durchlauf, bevor er die Shell sendet. Daher werden {0}/{1}, synchron in {2} (vor jedem {3}), in Plugins oder in middleware aufgerufen, wie gewohnt in den Shell-{4} gerendert. Später registrierte Tags (nach einem {5} im Setup oder innerhalb einer verschachtelten {6}-Grenze) können den bereits gesendeten {7} nicht mehr erreichen; sie werden als Inline-Skripte ausgeliefert, die das DOM auf dem Client patchen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

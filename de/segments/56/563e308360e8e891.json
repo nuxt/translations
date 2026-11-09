@@ -1,0 +1,14 @@
+{
+  "hash": "563e308360e8e891",
+  "source": "For new code, use the server-only pattern directly:",
+  "text": "Verwende in neuem Code direkt das reine Server-Muster:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwende in neuem Code direkt das reine Server-Muster:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

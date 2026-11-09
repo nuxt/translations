@@ -1,0 +1,14 @@
+{
+  "hash": "faa2aed0bc44e9fe",
+  "source": "Security > Settings > Disable \"Email Address Obfuscation\"",
+  "text": "Security > Settings > „Email Address Obfuscation“ deaktivieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Security > Settings > „Email Address Obfuscation“ deaktivieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

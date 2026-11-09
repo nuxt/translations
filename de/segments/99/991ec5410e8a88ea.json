@@ -1,0 +1,14 @@
+{
+  "hash": "991ec5410e8a88ea",
+  "source": "Treats the page routes as fixed once the app is built, which lets Nuxt skip work that only exists to support a route table that changes at runtime.",
+  "text": "Behandelt die Seitenrouten nach dem Build der App als feststehend. Dadurch kann Nuxt Arbeit überspringen, die nur dazu dient, eine Routentabelle zu unterstützen, die sich zur Laufzeit ändert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Behandelt die Seitenrouten nach dem Build der App als feststehend. Dadurch kann Nuxt Arbeit überspringen, die nur dazu dient, eine Routentabelle zu unterstützen, die sich zur Laufzeit ändert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "7102055acf01c667",
+  "source": "Nuxt 3 provides a central entry point to your app via {0}.",
+  "text": "Nuxt 3 bietet über {0} einen zentralen Einstiegspunkt für deine App.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt 3 bietet über {0} einen zentralen Einstiegspunkt für deine App."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

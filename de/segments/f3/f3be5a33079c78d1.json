@@ -1,0 +1,14 @@
+{
+  "hash": "f3be5a33079c78d1",
+  "source": "It includes built-in automatic self-hosting for any font file which means you can optimally load web fonts with reduced layout shift, thanks to the underlying package {0}fontaine{/0}.",
+  "text": "Es enthält ein integriertes, automatisches Self-Hosting für jede Schriftdatei. Dadurch kannst du Web-Schriften dank des zugrunde liegenden Pakets {0}fontaine{/0} optimal und mit geringerer Layoutverschiebung laden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Es enthält ein integriertes, automatisches Self-Hosting für jede Schriftdatei. Dadurch kannst du Web-Schriften dank des zugrunde liegenden Pakets {0}fontaine{/0} optimal und mit geringerer Layoutverschiebung laden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "360b4ab34c613c02",
+  "source": "Chunk name for the component. If not provided, it will be generated from the component name.",
+  "text": "Chunk-Name der Komponente. Wenn nicht angegeben, wird er aus dem Komponentennamen generiert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chunk-Name der Komponente. Wenn nicht angegeben, wird er aus dem Komponentennamen generiert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

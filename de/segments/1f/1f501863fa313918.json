@@ -1,0 +1,14 @@
+{
+  "hash": "1f501863fa313918",
+  "source": "You can now use {0}auto-imported{/0} utilities in your Nuxt app and {1} directory.",
+  "text": "Du kannst die {0}automatisch importierten{/0} Hilfsfunktionen jetzt in deiner Nuxt-App und im Verzeichnis {1} verwenden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst die {0}automatisch importierten{/0} Hilfsfunktionen jetzt in deiner Nuxt-App und im Verzeichnis {1} verwenden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

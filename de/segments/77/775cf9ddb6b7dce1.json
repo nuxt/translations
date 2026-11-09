@@ -1,0 +1,14 @@
+{
+  "hash": "775cf9ddb6b7dce1",
+  "source": "The {0} function returns an array of {1} objects, one for each layer in the application.",
+  "text": "Die Funktion {0} gibt ein Array von {1}-Objekten zurück, eines für jeden Layer in der Anwendung.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Funktion {0} gibt ein Array von {1}-Objekten zurück, eines für jeden Layer in der Anwendung."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

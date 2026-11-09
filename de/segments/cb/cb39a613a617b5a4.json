@@ -1,0 +1,14 @@
+{
+  "hash": "cb39a613a617b5a4",
+  "source": "{0} sets the directory fonts are served from. No separate stylesheet is generated.",
+  "text": "{0} legt das Verzeichnis fest, aus dem Schriftarten ausgeliefert werden. Es wird kein separates Stylesheet erzeugt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} legt das Verzeichnis fest, aus dem Schriftarten ausgeliefert werden. Es wird kein separates Stylesheet erzeugt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

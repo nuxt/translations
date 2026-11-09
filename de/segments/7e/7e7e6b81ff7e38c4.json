@@ -1,0 +1,14 @@
+{
+  "hash": "7e7e6b81ff7e38c4",
+  "source": "A timestamp (number)",
+  "text": "Ein Zeitstempel (Zahl)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein Zeitstempel (Zahl)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

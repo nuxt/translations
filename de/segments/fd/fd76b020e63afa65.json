@@ -1,0 +1,14 @@
+{
+  "hash": "fd76b020e63afa65",
+  "source": "An island is static by default, but you can hydrate individual components inside it by adding the {0} attribute. This requires {1} to be enabled.",
+  "text": "Ein Island ist standardmäßig statisch, aber du kannst einzelne Komponenten darin hydratisieren, indem du das Attribut {0} hinzufügst. Dafür muss {1} aktiviert sein.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein Island ist standardmäßig statisch, aber du kannst einzelne Komponenten darin hydratisieren, indem du das Attribut {0} hinzufügst. Dafür muss {1} aktiviert sein."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

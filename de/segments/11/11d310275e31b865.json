@@ -1,0 +1,14 @@
+{
+  "hash": "11d310275e31b865",
+  "source": "Delayed hydration can offer performance benefits, but it's essential to use it correctly:",
+  "text": "Verzögerte Hydration kann Performance-Vorteile bringen, muss aber richtig eingesetzt werden:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verzögerte Hydration kann Performance-Vorteile bringen, muss aber richtig eingesetzt werden:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

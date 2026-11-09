@@ -1,0 +1,14 @@
+{
+  "hash": "5f5212eca8f0a274",
+  "source": "Enables generation of an async entry point for the Vue bundle, aiding module federation support.",
+  "text": "Aktiviert die Generierung eines asynchronen Einstiegspunkts für das Vue-Bundle und unterstützt so Module Federation.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Aktiviert die Generierung eines asynchronen Einstiegspunkts für das Vue-Bundle und unterstützt so Module Federation."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

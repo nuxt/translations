@@ -1,0 +1,14 @@
+{
+  "hash": "b653c7445164794e",
+  "source": "The layouts directory, each file of which will be auto-registered as a Nuxt layout.",
+  "text": "Das layouts-Verzeichnis. Jede Datei darin wird automatisch als Nuxt-Layout registriert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das layouts-Verzeichnis. Jede Datei darin wird automatisch als Nuxt-Layout registriert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "622ca3303e79f1ff",
+  "source": "Disable built-in Vue transitions",
+  "text": "Integrierte Vue-Übergänge deaktivieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Integrierte Vue-Übergänge deaktivieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

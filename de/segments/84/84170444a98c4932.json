@@ -1,0 +1,14 @@
+{
+  "hash": "84170444a98c4932",
+  "source": "{0} is the single-page app fallback. Configure your host to serve it for unmatched routes when you want client-side routing to handle the URL.",
+  "text": "{0} ist der Fallback für Single-Page-Apps. Konfiguriere deinen Host so, dass er diese Datei für nicht zugeordnete Routen ausliefert, wenn das clientseitige Routing die URL verarbeiten soll.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ist der Fallback für Single-Page-Apps. Konfiguriere deinen Host so, dass er diese Datei für nicht zugeordnete Routen ausliefert, wenn das clientseitige Routing die URL verarbeiten soll."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

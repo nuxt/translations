@@ -1,0 +1,14 @@
+{
+  "hash": "69b60d6f62f50284",
+  "source": "set {0} within your {1} and keep using {2} extension",
+  "text": "{0} in deiner {1} setzen und weiterhin die Endung {2} verwenden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} in deiner {1} setzen und weiterhin die Endung {2} verwenden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

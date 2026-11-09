@@ -1,0 +1,14 @@
+{
+  "hash": "0215a4c7d46596ac",
+  "source": "Plugins execute in a specific order and may have dependencies on one another. For more details, including execution order and parallelism, refer to the {0}Plugins documentation{/0}.",
+  "text": "Plugins werden in einer bestimmten Reihenfolge ausgeführt und können voneinander abhängen. Weitere Details, unter anderem zu Ausführungsreihenfolge und Parallelität, findest du in der {0}Dokumentation zu Plugins{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Plugins werden in einer bestimmten Reihenfolge ausgeführt und können voneinander abhängen. Weitere Details, unter anderem zu Ausführungsreihenfolge und Parallelität, findest du in der {0}Dokumentation zu Plugins{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

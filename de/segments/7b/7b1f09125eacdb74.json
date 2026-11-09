@@ -1,0 +1,14 @@
+{
+  "hash": "7b1f09125eacdb74",
+  "source": "Create an error object with additional metadata. You can pass a string to be set as the error {0} or an object containing error properties. It is usable in both the Vue and Server portions of your app, and is meant to be thrown.",
+  "text": "Erstellt ein Fehlerobjekt mit zusätzlichen Metadaten. Du kannst einen String übergeben, der als Fehler-{0} gesetzt wird, oder ein Objekt mit Fehlereigenschaften. Die Funktion ist sowohl im Vue- als auch im Server-Teil deiner App nutzbar und dafür gedacht, geworfen zu werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erstellt ein Fehlerobjekt mit zusätzlichen Metadaten. Du kannst einen String übergeben, der als Fehler-{0} gesetzt wird, oder ein Objekt mit Fehlereigenschaften. Die Funktion ist sowohl im Vue- als auch im Server-Teil deiner App nutzbar und dafür gedacht, geworfen zu werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

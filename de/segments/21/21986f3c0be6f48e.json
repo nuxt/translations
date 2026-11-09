@@ -1,0 +1,14 @@
+{
+  "hash": "21986f3c0be6f48e",
+  "source": "Node Module with scope",
+  "text": "Node-Modul mit Scope",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Node-Modul mit Scope"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

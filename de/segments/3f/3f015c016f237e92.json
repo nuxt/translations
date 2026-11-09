@@ -1,0 +1,14 @@
+{
+  "hash": "3f015c016f237e92",
+  "source": "{0}: {1} of options that will be passed to playwright when launching the browser. See {2}full API reference{/2}.",
+  "text": "{0}: {1} mit Optionen, die beim Start des Browsers an Playwright übergeben werden. Siehe die {2}vollständige API-Referenz{/2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: {1} mit Optionen, die beim Start des Browsers an Playwright übergeben werden. Siehe die {2}vollständige API-Referenz{/2}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

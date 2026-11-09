@@ -1,0 +1,14 @@
+{
+  "hash": "878b0ee5f04ede82",
+  "source": "The loading indicator's speed gradually decreases after reaching a specific point controlled by {0}. This adjustment provides a more accurate reflection of longer page loading times and prevents the indicator from prematurely showing 100% completion.",
+  "text": "Die Geschwindigkeit des Ladeindikators nimmt nach Erreichen eines bestimmten Punkts, der über {0} gesteuert wird, schrittweise ab. Diese Anpassung bildet längere Ladezeiten von Seiten genauer ab und verhindert, dass der Indikator vorzeitig 100\\u00a0% anzeigt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Geschwindigkeit des Ladeindikators nimmt nach Erreichen eines bestimmten Punkts, der über {0} gesteuert wird, schrittweise ab. Diese Anpassung bildet längere Ladezeiten von Seiten genauer ab und verhindert, dass der Indikator vorzeitig 100\\u00a0% anzeigt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

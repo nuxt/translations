@@ -1,0 +1,14 @@
+{
+  "hash": "1ba96c29c11d5800",
+  "source": "{0}: Function has not been called yet (e.g. {1} or {2} on server render)",
+  "text": "{0}: Die Funktion wurde noch nicht aufgerufen (z. B. {1} oder {2} beim Server-Rendering)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Die Funktion wurde noch nicht aufgerufen (z. B. {1} oder {2} beim Server-Rendering)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

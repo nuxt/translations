@@ -1,0 +1,14 @@
+{
+  "hash": "11c4daab352642eb",
+  "source": "The example below shows how you might enable Google Fonts using either the {0} property of the {1} composable or using the {2} component:",
+  "text": "Das folgende Beispiel zeigt, wie du Google Fonts aktivieren kannst, entweder über die Eigenschaft {0} des Composables {1} oder über die Komponente {2}:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das folgende Beispiel zeigt, wie du Google Fonts aktivieren kannst, entweder über die Eigenschaft {0} des Composables {1} oder über die Komponente {2}:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

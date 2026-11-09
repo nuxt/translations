@@ -1,0 +1,14 @@
+{
+  "hash": "9d117c553896f82b",
+  "source": "{0}: Allows custom control of when to prefetch links. Possible options are {1} and {2} (default). You can also pass an object for full control, for example: {3}. This prop is only used when {4} is enabled (default) and {5} is not set.",
+  "text": "{0}: Ermöglicht die benutzerdefinierte Steuerung, wann Links vorab geladen werden. Mögliche Optionen sind {1} und {2} (Standard). Du kannst auch ein Objekt für die volle Kontrolle übergeben, zum Beispiel: {3}. Diese Prop wird nur verwendet, wenn {4} aktiviert ist (Standard) und {5} nicht gesetzt ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Ermöglicht die benutzerdefinierte Steuerung, wann Links vorab geladen werden. Mögliche Optionen sind {1} und {2} (Standard). Du kannst auch ein Objekt für die volle Kontrolle übergeben, zum Beispiel: {3}. Diese Prop wird nur verwendet, wenn {4} aktiviert ist (Standard) und {5} nicht gesetzt ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "82ef59e3b8ae198f",
+  "source": "Using this workaround may lead to unexpected behavior and bugs. The Vue plugin is one of many that are not available in the Nitro context.",
+  "text": "Dieser Workaround kann zu unerwartetem Verhalten und Fehlern führen. Das Vue-Plugin ist eines von vielen, die im Nitro-Kontext nicht verfügbar sind.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dieser Workaround kann zu unerwartetem Verhalten und Fehlern führen. Das Vue-Plugin ist eines von vielen, die im Nitro-Kontext nicht verfügbar sind."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

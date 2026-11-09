@@ -1,0 +1,14 @@
+{
+  "hash": "085ce12c6ab9994d",
+  "source": "Within your pages, components, and plugins you can use useAsyncData to get access to data that resolves asynchronously.",
+  "text": "In deinen Seiten, Komponenten und Plugins kannst du useAsyncData verwenden, um auf Daten zuzugreifen, die asynchron aufgelöst werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In deinen Seiten, Komponenten und Plugins kannst du useAsyncData verwenden, um auf Daten zuzugreifen, die asynchron aufgelöst werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

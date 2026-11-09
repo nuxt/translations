@@ -1,0 +1,14 @@
+{
+  "hash": "a0e9bb9cf64227da",
+  "source": "Make sure to always use {0} or {1} on result of {2} when calling it.",
+  "text": "Verwende beim Aufruf immer {0} oder {1} für das Ergebnis von {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwende beim Aufruf immer {0} oder {1} für das Ergebnis von {2}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

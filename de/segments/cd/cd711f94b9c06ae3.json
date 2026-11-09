@@ -1,0 +1,14 @@
+{
+  "hash": "cd711f94b9c06ae3",
+  "source": "{0} outputs a native {1} tag directly (without any wrapper around it). Use it like you would use the {2} tag:",
+  "text": "{0} gibt direkt ein natives {1}-Tag aus (ohne umgebendes Wrapper-Element). Verwende es wie das {2}-Tag:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} gibt direkt ein natives {1}-Tag aus (ohne umgebendes Wrapper-Element). Verwende es wie das {2}-Tag:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

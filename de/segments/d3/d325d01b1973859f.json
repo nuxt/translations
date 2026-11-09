@@ -1,0 +1,14 @@
+{
+  "hash": "d325d01b1973859f",
+  "source": "The incoming request, including its {0}, {1} and body.",
+  "text": "Die eingehende Anfrage einschließlich {0}, {1} und Body.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die eingehende Anfrage einschließlich {0}, {1} und Body."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

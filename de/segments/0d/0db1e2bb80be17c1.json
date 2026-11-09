@@ -1,0 +1,14 @@
+{
+  "hash": "0db1e2bb80be17c1",
+  "source": "Shell completions",
+  "text": "Shell-Autovervollständigung",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Shell-Autovervollständigung"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

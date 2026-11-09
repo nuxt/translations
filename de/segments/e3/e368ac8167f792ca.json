@@ -1,0 +1,14 @@
+{
+  "hash": "e368ac8167f792ca",
+  "source": "**{0}**: Retrieves blog post content and details by path",
+  "text": "**{0}**: Ruft den Inhalt und die Details eines Blogbeitrags anhand seines Pfads ab",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}**: Ruft den Inhalt und die Details eines Blogbeitrags anhand seines Pfads ab"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

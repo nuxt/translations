@@ -1,0 +1,14 @@
+{
+  "hash": "7889a503272baf50",
+  "source": "Manually disable nuxt telemetry.",
+  "text": "Deaktiviert die Nuxt-Telemetrie manuell.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Deaktiviert die Nuxt-Telemetrie manuell."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

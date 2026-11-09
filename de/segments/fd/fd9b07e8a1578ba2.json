@@ -1,0 +1,14 @@
+{
+  "hash": "fd9b07e8a1578ba2",
+  "source": "Get the path of the incoming request",
+  "text": "Den Pfad der eingehenden Anfrage abrufen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Den Pfad der eingehenden Anfrage abrufen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "54dc89faa419afae",
+  "source": "This file tree will generate these routes:",
+  "text": "Dieser Dateibaum erzeugt diese Routen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dieser Dateibaum erzeugt diese Routen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

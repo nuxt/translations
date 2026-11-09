@@ -1,0 +1,14 @@
+{
+  "hash": "12af6aae7605dfbc",
+  "source": "Accordingly, you should make sure that the following options are unchecked / disabled in Cloudflare. Otherwise, unnecessary re-rendering or hydration errors could impact your production application.",
+  "text": "Stelle daher sicher, dass die folgenden Optionen in Cloudflare nicht aktiviert sind. Andernfalls könnten unnötiges erneutes Rendern oder Hydration-Fehler deine Anwendung in der Produktion beeinträchtigen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Stelle daher sicher, dass die folgenden Optionen in Cloudflare nicht aktiviert sind. Andernfalls könnten unnötiges erneutes Rendern oder Hydration-Fehler deine Anwendung in der Produktion beeinträchtigen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

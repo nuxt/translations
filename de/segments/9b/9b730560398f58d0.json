@@ -1,0 +1,14 @@
+{
+  "hash": "9b730560398f58d0",
+  "source": "Adding a router options file in this hook will switch on page-based routing, unless {0} is set, in which case it will only apply when page-based routing is already enabled.",
+  "text": "Wenn du in diesem Hook eine Datei mit Router-Optionen hinzufügst, wird seitenbasiertes Routing aktiviert. Ist {0} gesetzt, gilt die Datei nur, wenn seitenbasiertes Routing bereits aktiviert ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du in diesem Hook eine Datei mit Router-Optionen hinzufügst, wird seitenbasiertes Routing aktiviert. Ist {0} gesetzt, gilt die Datei nur, wenn seitenbasiertes Routing bereits aktiviert ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

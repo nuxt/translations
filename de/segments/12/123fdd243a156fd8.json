@@ -1,0 +1,14 @@
+{
+  "hash": "123fdd243a156fd8",
+  "source": "The config key is defined by each module. Common examples include {0} for {1}, {2} for {3}, and {4} for {5}. Check the module's documentation for its specific config key.",
+  "text": "Der Konfigurationsschlüssel wird von jedem Modul selbst festgelegt. Gängige Beispiele sind {0} für {1}, {2} für {3} und {4} für {5}. Den jeweiligen Konfigurationsschlüssel findest du in der Dokumentation des Moduls.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Konfigurationsschlüssel wird von jedem Modul selbst festgelegt. Gängige Beispiele sind {0} für {1}, {2} für {3} und {4} für {5}. Den jeweiligen Konfigurationsschlüssel findest du in der Dokumentation des Moduls."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

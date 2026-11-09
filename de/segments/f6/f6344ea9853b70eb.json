@@ -1,0 +1,14 @@
+{
+  "hash": "f6344ea9853b70eb",
+  "source": "This context can be accessed using {0} composable within Nuxt plugins and {1} and vue composables. Global usage is possible for the browser but not on the server, to avoid sharing context between users.",
+  "text": "Auf diesen Kontext greifst du mit dem Composable {0} innerhalb von Nuxt-Plugins, von {1} und von Vue-Composables zu. Die globale Nutzung ist im Browser möglich, auf dem Server jedoch nicht, damit Kontext nicht zwischen Nutzenden geteilt wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auf diesen Kontext greifst du mit dem Composable {0} innerhalb von Nuxt-Plugins, von {1} und von Vue-Composables zu. Die globale Nutzung ist im Browser möglich, auf dem Server jedoch nicht, damit Kontext nicht zwischen Nutzenden geteilt wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

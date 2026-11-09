@@ -1,0 +1,14 @@
+{
+  "hash": "bf8590554ef8b8c8",
+  "source": "or no persistent cache at all",
+  "text": "oder gar kein persistenter Cache",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "oder gar kein persistenter Cache"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

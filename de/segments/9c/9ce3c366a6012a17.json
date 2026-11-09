@@ -1,0 +1,14 @@
+{
+  "hash": "9ce3c366a6012a17",
+  "source": "Composable called outside Nuxt context.",
+  "text": "Composable außerhalb des Nuxt-Kontexts aufgerufen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Composable außerhalb des Nuxt-Kontexts aufgerufen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

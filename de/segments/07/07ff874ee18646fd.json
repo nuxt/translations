@@ -1,0 +1,14 @@
+{
+  "hash": "07ff874ee18646fd",
+  "source": "Request a path on the running dev server",
+  "text": "Einen Pfad auf dem laufenden Entwicklungsserver anfragen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Einen Pfad auf dem laufenden Entwicklungsserver anfragen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

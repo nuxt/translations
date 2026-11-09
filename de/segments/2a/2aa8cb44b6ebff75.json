@@ -1,0 +1,14 @@
+{
+  "hash": "2aa8cb44b6ebff75",
+  "source": "{0}: return data in a deep ref object (it is {1} by default). It can be set to {2} to return data in a shallow ref object, which can improve performance if your data does not need to be deeply reactive.",
+  "text": "{0}: gibt die Daten in einem tiefen Ref-Objekt zurück (standardmäßig {1}). Mit {2} werden die Daten in einem flachen Ref-Objekt zurückgegeben, was die Performance verbessern kann, wenn deine Daten nicht tief reaktiv sein müssen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: gibt die Daten in einem tiefen Ref-Objekt zurück (standardmäßig {1}). Mit {2} werden die Daten in einem flachen Ref-Objekt zurückgegeben, was die Performance verbessern kann, wenn deine Daten nicht tief reaktiv sein müssen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

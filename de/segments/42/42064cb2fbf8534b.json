@@ -1,0 +1,14 @@
+{
+  "hash": "42064cb2fbf8534b",
+  "source": "Alternatively, though not recommended, you can register all your components globally, which will create async chunks for all your components and make them available throughout your application.",
+  "text": "Alternativ, wenn auch nicht empfohlen, kannst du alle deine Komponenten global registrieren. Dadurch werden asynchrone Chunks für alle Komponenten erstellt und in deiner gesamten Anwendung verfügbar gemacht.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Alternativ, wenn auch nicht empfohlen, kannst du alle deine Komponenten global registrieren. Dadurch werden asynchrone Chunks für alle Komponenten erstellt und in deiner gesamten Anwendung verfügbar gemacht."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

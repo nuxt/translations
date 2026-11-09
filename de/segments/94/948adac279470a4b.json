@@ -1,0 +1,14 @@
+{
+  "hash": "948adac279470a4b",
+  "source": "Learn more about Nuxt's experimental features.",
+  "text": "Mehr über die experimentellen Funktionen von Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mehr über die experimentellen Funktionen von Nuxt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

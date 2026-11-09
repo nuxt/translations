@@ -1,0 +1,14 @@
+{
+  "hash": "146d381816109ee5",
+  "source": "In this case, the {0} + {1} components are two 'halves' of a component and can be used in advanced use cases for separate implementations of a component on server and client side.",
+  "text": "In diesem Fall sind die Komponenten {0} und {1} zwei „Hälften“ einer Komponente. Sie lassen sich in fortgeschrittenen Anwendungsfällen für getrennte Implementierungen einer Komponente auf Server- und Client-Seite einsetzen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In diesem Fall sind die Komponenten {0} und {1} zwei „Hälften“ einer Komponente. Sie lassen sich in fortgeschrittenen Anwendungsfällen für getrennte Implementierungen einer Komponente auf Server- und Client-Seite einsetzen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

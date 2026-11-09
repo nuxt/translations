@@ -1,0 +1,14 @@
+{
+  "hash": "e43b9d49c08a9837",
+  "source": "**Better type safety**: Each context (app, server, build-time) gets appropriate type checking with context-specific globals and APIs.",
+  "text": "**Bessere Typsicherheit**: Jeder Kontext (App, Server, Build-Zeit) erhält eine passende Typprüfung mit kontextspezifischen globalen Variablen und APIs.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Bessere Typsicherheit**: Jeder Kontext (App, Server, Build-Zeit) erhält eine passende Typprüfung mit kontextspezifischen globalen Variablen und APIs."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

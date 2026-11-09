@@ -1,0 +1,14 @@
+{
+  "hash": "ee763759dccf35c8",
+  "source": "{0}: If {1}, the module is not installed automatically when missing. {2} and {3} are still applied if the module is installed elsewhere.",
+  "text": "{0}: Wenn {1}, wird das Modul bei Fehlen nicht automatisch installiert. {2} und {3} werden trotzdem angewendet, wenn das Modul anderweitig installiert ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Wenn {1}, wird das Modul bei Fehlen nicht automatisch installiert. {2} und {3} werden trotzdem angewendet, wenn das Modul anderweitig installiert ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

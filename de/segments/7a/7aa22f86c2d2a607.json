@@ -1,0 +1,14 @@
+{
+  "hash": "7aa22f86c2d2a607",
+  "source": "{0} and {1} return decoded values.",
+  "text": "{0} und {1} geben dekodierte Werte zurück.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} und {1} geben dekodierte Werte zurück."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

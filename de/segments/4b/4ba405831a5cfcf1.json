@@ -1,0 +1,14 @@
+{
+  "hash": "4ba405831a5cfcf1",
+  "source": "The module exposes a Vue composable to know if a user is authenticated in our application:",
+  "text": "Das Modul stellt ein Vue-Composable bereit, mit dem du erkennst, ob Nutzende in unserer Anwendung authentifiziert sind:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Modul stellt ein Vue-Composable bereit, mit dem du erkennst, ob Nutzende in unserer Anwendung authentifiziert sind:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

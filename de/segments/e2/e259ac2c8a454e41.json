@@ -1,0 +1,14 @@
+{
+  "hash": "e259ac2c8a454e41",
+  "source": "The new {0} hook reports each family as it is resolved, with the URL every font file is served from and a {1} to read its contents. Modules that need the fonts your app already uses, to render an OG image or a PDF, can reuse them rather than resolving and downloading their own.",
+  "text": "Der neue Hook {0} meldet jede Schriftfamilie, sobald sie aufgelöst wurde, mit der URL, unter der jede Schriftdatei bereitgestellt wird, und einem {1}, um den Inhalt zu lesen. Module, die die bereits von deiner App verwendeten Schriften benötigen, etwa um ein OG-Image oder ein PDF zu rendern, können sie wiederverwenden, statt eigene aufzulösen und herunterzuladen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der neue Hook {0} meldet jede Schriftfamilie, sobald sie aufgelöst wurde, mit der URL, unter der jede Schriftdatei bereitgestellt wird, und einem {1}, um den Inhalt zu lesen. Module, die die bereits von deiner App verwendeten Schriften benötigen, etwa um ein OG-Image oder ein PDF zu rendern, können sie wiederverwenden, statt eigene aufzulösen und herunterzuladen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

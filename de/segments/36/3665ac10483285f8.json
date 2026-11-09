@@ -1,0 +1,14 @@
+{
+  "hash": "3665ac10483285f8",
+  "source": "default - uses @nuxt/vite-builder",
+  "text": "Standard – verwendet @nuxt/vite-builder",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standard – verwendet @nuxt/vite-builder"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

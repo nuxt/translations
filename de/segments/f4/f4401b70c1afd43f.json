@@ -1,0 +1,14 @@
+{
+  "hash": "f4401b70c1afd43f",
+  "source": "The starting point for your Nuxt app remains your {0} file.",
+  "text": "Ausgangspunkt für deine Nuxt-App bleibt deine {0}-Datei.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ausgangspunkt für deine Nuxt-App bleibt deine {0}-Datei."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

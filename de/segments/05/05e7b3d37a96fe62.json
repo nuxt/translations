@@ -1,0 +1,14 @@
+{
+  "hash": "05e7b3d37a96fe62",
+  "source": "Path relative to the project root",
+  "text": "Pfad relativ zum Projektstammverzeichnis",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pfad relativ zum Projektstammverzeichnis"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

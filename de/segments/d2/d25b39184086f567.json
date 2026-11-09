@@ -1,0 +1,14 @@
+{
+  "hash": "d25b39184086f567",
+  "source": "{0} and {1} are shorthands for {2} and {3}. The latter is experimental and implemented with Vite alone: with {4} it produces a static SPA, and with SSR enabled it builds a server from the Nuxt SSR renderer whose entry exports a web-standard {5} ({6} serves the static output in front of it, and {7} runs it). Every dependency is bundled into that output, so it deploys without {8}. {9} crawls that server at the end of the build and writes a static {10}. It ships no server runtime, so server routes, route rules other than {11}, inlined styles and server components are unavailable, and modules that need a server will not work.",
+  "text": "{0} und {1} sind Kurzformen für {2} und {3}. Letzteres ist experimentell und allein mit Vite umgesetzt: Mit {4} erzeugt es eine statische SPA, und bei aktiviertem SSR erzeugt es aus dem Nuxt-SSR-Renderer einen Server, dessen Einstiegspunkt ein webstandardkonformes {5} exportiert ({6} liefert davor die statische Ausgabe aus, und {7} führt ihn aus). Alle Abhängigkeiten werden in diese Ausgabe gebündelt, sodass sie ohne {8} bereitgestellt werden kann. {9} durchsucht diesen Server am Ende des Builds und schreibt eine statische {10}. Es wird keine Server-Laufzeitumgebung mitgeliefert, daher sind Server-Routen, andere Routenregeln als {11}, eingebundene Styles und Server-Komponenten nicht verfügbar, und Module, die einen Server benötigen, funktionieren nicht.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} und {1} sind Kurzformen für {2} und {3}. Letzteres ist experimentell und allein mit Vite umgesetzt: Mit {4} erzeugt es eine statische SPA, und bei aktiviertem SSR erzeugt es aus dem Nuxt-SSR-Renderer einen Server, dessen Einstiegspunkt ein webstandardkonformes {5} exportiert ({6} liefert davor die statische Ausgabe aus, und {7} führt ihn aus). Alle Abhängigkeiten werden in diese Ausgabe gebündelt, sodass sie ohne {8} bereitgestellt werden kann. {9} durchsucht diesen Server am Ende des Builds und schreibt eine statische {10}. Es wird keine Server-Laufzeitumgebung mitgeliefert, daher sind Server-Routen, andere Routenregeln als {11}, eingebundene Styles und Server-Komponenten nicht verfügbar, und Module, die einen Server benötigen, funktionieren nicht."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

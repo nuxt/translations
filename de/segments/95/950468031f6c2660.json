@@ -1,0 +1,14 @@
+{
+  "hash": "950468031f6c2660",
+  "source": "Some useful methods:",
+  "text": "Einige nützliche Methoden:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Einige nützliche Methoden:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

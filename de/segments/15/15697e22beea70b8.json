@@ -1,0 +1,14 @@
+{
+  "hash": "15697e22beea70b8",
+  "source": "{0} reports the Nitro major, not which server API the host runs: a host with a different {1} runs none of the Nitro ones.",
+  "text": "{0} meldet die Nitro-Hauptversion, nicht die Server-API, die der Host ausführt: Ein Host mit einem anderen {1} führt keine der Nitro-Varianten aus.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} meldet die Nitro-Hauptversion, nicht die Server-API, die der Host ausführt: Ein Host mit einem anderen {1} führt keine der Nitro-Varianten aus."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "75013bc8bb759b1c",
+  "source": "Called after Nuxt bundle builder is complete.",
+  "text": "Wird aufgerufen, nachdem der Bundle-Builder von Nuxt abgeschlossen ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird aufgerufen, nachdem der Bundle-Builder von Nuxt abgeschlossen ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

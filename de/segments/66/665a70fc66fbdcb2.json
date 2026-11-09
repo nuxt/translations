@@ -1,0 +1,14 @@
+{
+  "hash": "665a70fc66fbdcb2",
+  "source": "There are two interfaces to declare, and they are separate on purpose. {0} is what a rule looks like in {1}, and {2} is what a matched rule looks like at runtime:",
+  "text": "Es gibt zwei Interfaces zu deklarieren, und sie sind absichtlich voneinander getrennt. {0} beschreibt, wie eine Regel in {1} aussieht, und {2} beschreibt, wie eine zutreffende Regel zur Laufzeit aussieht:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Es gibt zwei Interfaces zu deklarieren, und sie sind absichtlich voneinander getrennt. {0} beschreibt, wie eine Regel in {1} aussieht, und {2} beschreibt, wie eine zutreffende Regel zur Laufzeit aussieht:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

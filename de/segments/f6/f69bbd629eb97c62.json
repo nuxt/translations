@@ -1,0 +1,14 @@
+{
+  "hash": "f69bbd629eb97c62",
+  "source": "passing 'to' as a string",
+  "text": "'to' als String übergeben",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "'to' als String übergeben"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

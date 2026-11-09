@@ -1,0 +1,14 @@
+{
+  "hash": "58956ca17eef5954",
+  "source": "{0} resolves a secret for one purpose from {1}: 32 bytes, hex-encoded, stable for as long as {2} is unchanged, and distinct for every purpose. It is what the session helpers use, and what a module should use in place of asking for a secret of its own. Namespace the purpose to what owns it.",
+  "text": "{0} ermittelt aus {1} ein Secret für einen bestimmten Zweck: 32 Bytes, hexadezimal kodiert, stabil, solange {2} unverändert bleibt, und für jeden Zweck verschieden. Die Sitzungs-Hilfsprogramme verwenden es, und ein Modul sollte es verwenden, statt ein eigenes Secret anzufordern. Verwende für den Zweck einen Namespace, der dem Besitzer entspricht.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ermittelt aus {1} ein Secret für einen bestimmten Zweck: 32 Bytes, hexadezimal kodiert, stabil, solange {2} unverändert bleibt, und für jeden Zweck verschieden. Die Sitzungs-Hilfsprogramme verwenden es, und ein Modul sollte es verwenden, statt ein eigenes Secret anzufordern. Verwende für den Zweck einen Namespace, der dem Besitzer entspricht."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

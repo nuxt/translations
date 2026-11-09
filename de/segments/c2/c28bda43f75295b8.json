@@ -1,0 +1,14 @@
+{
+  "hash": "c28bda43f75295b8",
+  "source": "Or opt the route out of streaming with {0}.",
+  "text": "Oder nimm die Route mit {0} vom Streaming aus.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Oder nimm die Route mit {0} vom Streaming aus."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

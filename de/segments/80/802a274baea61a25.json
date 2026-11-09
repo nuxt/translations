@@ -1,0 +1,14 @@
+{
+  "hash": "802a274baea61a25",
+  "source": "The {0} composable is meant to be invoked in setup method or called directly at the top level of a function in lifecycle hooks, otherwise you should use {1}{2} method{/1}.",
+  "text": "Das Composable {0} ist dafür gedacht, in der Setup-Methode oder direkt auf oberster Ebene einer Funktion in Lifecycle-Hooks aufgerufen zu werden. Andernfalls solltest du die {1}Methode {2}{/1} verwenden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Composable {0} ist dafür gedacht, in der Setup-Methode oder direkt auf oberster Ebene einer Funktion in Lifecycle-Hooks aufgerufen zu werden. Andernfalls solltest du die {1}Methode {2}{/1} verwenden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

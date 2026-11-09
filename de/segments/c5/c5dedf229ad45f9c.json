@@ -1,0 +1,14 @@
+{
+  "hash": "c5dedf229ad45f9c",
+  "source": "The {0} function is designed to execute a given function or block of code only once during:",
+  "text": "Die Funktion {0} führt eine Funktion oder einen Codeblock nur einmal aus, und zwar während:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Funktion {0} führt eine Funktion oder einen Codeblock nur einmal aus, und zwar während:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

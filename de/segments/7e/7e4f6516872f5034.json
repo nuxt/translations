@@ -1,0 +1,14 @@
+{
+  "hash": "7e4f6516872f5034",
+  "source": "This defines the default font options for all fonts.",
+  "text": "Legt die Standardoptionen für alle Schriften fest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Legt die Standardoptionen für alle Schriften fest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "33780bb723844251",
+  "source": "You can use built-in {0} composable to access the incoming request headers within your pages, components, and plugins.",
+  "text": "Mit dem integrierten Composable {0} kannst du in deinen Seiten, Komponenten und Plugins auf die Header der eingehenden Anfrage zugreifen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit dem integrierten Composable {0} kannst du in deinen Seiten, Komponenten und Plugins auf die Header der eingehenden Anfrage zugreifen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

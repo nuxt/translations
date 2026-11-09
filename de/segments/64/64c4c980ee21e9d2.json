@@ -1,0 +1,14 @@
+{
+  "hash": "64c4c980ee21e9d2",
+  "source": "Specify one or more modules to install by name, separated by spaces",
+  "text": "Gib ein oder mehrere zu installierende Module mit Namen an, getrennt durch Leerzeichen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gib ein oder mehrere zu installierende Module mit Namen an, getrennt durch Leerzeichen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

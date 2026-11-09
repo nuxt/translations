@@ -1,0 +1,14 @@
+{
+  "hash": "cdeac417dd51afbb",
+  "source": "It is important to enable Corepack to ensure you are on the same version of the package manager as the project. Corepack is built-in to new node versions for seamless package manager integration.",
+  "text": "Es ist wichtig, Corepack zu aktivieren, damit du dieselbe Version des Paketmanagers wie das Projekt verwendest. Corepack ist in neue Node-Versionen integriert und ermöglicht so eine nahtlose Einbindung des Paketmanagers.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Es ist wichtig, Corepack zu aktivieren, damit du dieselbe Version des Paketmanagers wie das Projekt verwendest. Corepack ist in neue Node-Versionen integriert und ermöglicht so eine nahtlose Einbindung des Paketmanagers."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

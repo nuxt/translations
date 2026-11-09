@@ -1,0 +1,14 @@
+{
+  "hash": "e8bd89ba8ffcf96e",
+  "source": "We're a friendly community of developers and we'd love to help.",
+  "text": "Wir sind eine freundliche Community von Entwickelnden und helfen dir gerne.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wir sind eine freundliche Community von Entwickelnden und helfen dir gerne."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

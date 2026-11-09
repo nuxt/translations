@@ -1,0 +1,14 @@
+{
+  "hash": "26b4a30825504fcb",
+  "source": "A route Nuxt does not learn about from your server builder - one a nitro plugin registers at runtime, or an external API you want typed the same way - can be declared by augmenting {0}:",
+  "text": "Eine Route, die Nuxt nicht über deinen Server-Build kennenlernt – etwa eine, die ein Nitro-Plugin zur Laufzeit registriert, oder eine externe API, die du auf dieselbe Weise typisieren möchtest –, kann durch Erweitern von {0} deklariert werden:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine Route, die Nuxt nicht über deinen Server-Build kennenlernt – etwa eine, die ein Nitro-Plugin zur Laufzeit registriert, oder eine externe API, die du auf dieselbe Weise typisieren möchtest –, kann durch Erweitern von {0} deklariert werden:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

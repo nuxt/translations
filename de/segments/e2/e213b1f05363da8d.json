@@ -1,0 +1,14 @@
+{
+  "hash": "e213b1f05363da8d",
+  "source": "**See**: {0}Nuxt TypeScript docs{/0}",
+  "text": "**Siehe**: {0}Nuxt-TypeScript-Dokumentation{/0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Siehe**: {0}Nuxt-TypeScript-Dokumentation{/0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

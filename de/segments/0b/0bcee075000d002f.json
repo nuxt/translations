@@ -1,0 +1,14 @@
+{
+  "hash": "0bcee075000d002f",
+  "source": "Set this value to {0} if you don't want the plugin to run when rendering server-only or island components.",
+  "text": "Setze diesen Wert auf {0}, wenn das Plugin beim Rendern von Server-only- oder Island-Komponenten nicht ausgeführt werden soll.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Setze diesen Wert auf {0}, wenn das Plugin beim Rendern von Server-only- oder Island-Komponenten nicht ausgeführt werden soll."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

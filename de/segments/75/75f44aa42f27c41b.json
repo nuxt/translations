@@ -1,0 +1,14 @@
+{
+  "hash": "75f44aa42f27c41b",
+  "source": "See the full explanation in this GitHub comment.",
+  "text": "Die vollständige Erklärung findest du in diesem GitHub-Kommentar.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die vollständige Erklärung findest du in diesem GitHub-Kommentar."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

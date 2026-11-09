@@ -1,0 +1,14 @@
+{
+  "hash": "9dba5173c93c1786",
+  "source": "useLayout returns the layout resolved for the current route.",
+  "text": "useLayout gibt das Layout zurück, das für die aktuelle Route aufgelöst wurde.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "useLayout gibt das Layout zurück, das für die aktuelle Route aufgelöst wurde."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

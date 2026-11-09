@@ -1,0 +1,14 @@
+{
+  "hash": "8e7e08d83b93b35e",
+  "source": "... or use the {0} environment variable when running {1}:",
+  "text": "… oder die Umgebungsvariable {0} verwenden, wenn du {1} ausführst:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "… oder die Umgebungsvariable {0} verwenden, wenn du {1} ausführst:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

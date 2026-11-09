@@ -1,0 +1,14 @@
+{
+  "hash": "50a58c84f829c9e0",
+  "source": "It can be set to {0}, which will render it like this:",
+  "text": "Die Option kann auf {0} gesetzt werden, dann wird er folgendermaßen gerendert:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Option kann auf {0} gesetzt werden, dann wird er folgendermaßen gerendert:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

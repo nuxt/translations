@@ -1,0 +1,14 @@
+{
+  "hash": "ac0fb0ce7ad5477f",
+  "source": "can be any valid string class name",
+  "text": "kann ein beliebiger gültiger Klassenname sein",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "kann ein beliebiger gültiger Klassenname sein"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

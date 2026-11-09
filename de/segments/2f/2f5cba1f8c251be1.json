@@ -1,0 +1,14 @@
+{
+  "hash": "2f5cba1f8c251be1",
+  "source": "Pass addons to {0} via the {1} array.",
+  "text": "Übergib Addons über das Array {1} an {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Übergib Addons über das Array {1} an {0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

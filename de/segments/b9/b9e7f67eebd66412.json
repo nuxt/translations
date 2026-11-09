@@ -1,0 +1,14 @@
+{
+  "hash": "b9e7f67eebd66412",
+  "source": "With the project setup, you can run different test suites:",
+  "text": "Mit dem eingerichteten Projekt kannst du verschiedene Test-Suites ausführen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit dem eingerichteten Projekt kannst du verschiedene Test-Suites ausführen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "1b626d4512e0932a",
+  "source": "In a layout file, the content of the page will be displayed in the {0} component.",
+  "text": "In einer Layout-Datei wird der Inhalt der Seite in der Komponente {0} angezeigt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In einer Layout-Datei wird der Inhalt der Seite in der Komponente {0} angezeigt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

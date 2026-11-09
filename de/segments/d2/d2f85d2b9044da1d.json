@@ -1,0 +1,14 @@
+{
+  "hash": "d2f85d2b9044da1d",
+  "source": "This expects the following folder structure:",
+  "text": "Dabei wird die folgende Verzeichnisstruktur erwartet:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dabei wird die folgende Verzeichnisstruktur erwartet:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

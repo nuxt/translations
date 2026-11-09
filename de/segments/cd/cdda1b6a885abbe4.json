@@ -1,0 +1,14 @@
+{
+  "hash": "cdda1b6a885abbe4",
+  "source": "Filter by Nuxt version and list compatible modules only (auto detected by default)",
+  "text": "Nach Nuxt-Version filtern und nur kompatible Module auflisten (standardmäßig automatisch erkannt)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nach Nuxt-Version filtern und nur kompatible Module auflisten (standardmäßig automatisch erkannt)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

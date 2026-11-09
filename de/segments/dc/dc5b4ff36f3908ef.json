@@ -1,0 +1,14 @@
+{
+  "hash": "dc5b4ff36f3908ef",
+  "source": "Useful for deploying Nuxt apps to any Node.js hosting",
+  "text": "Nützlich, um Nuxt-Apps bei jedem Node.js-Hosting bereitzustellen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nützlich, um Nuxt-Apps bei jedem Node.js-Hosting bereitzustellen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

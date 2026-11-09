@@ -1,0 +1,14 @@
+{
+  "hash": "80a0832abff27823",
+  "source": "In development, build outputs are typically wired to live, in-memory sources rather than on-disk files. The SSR entry may be served from the bundler's in-memory output, for instance, and the client manifest computed from the dev module graph rather than read from {0}.",
+  "text": "In der Entwicklung sind Build-Ausgaben typischerweise an Live-Quellen im Arbeitsspeicher statt an Dateien auf dem Datenträger gebunden. Der SSR-Entry kann zum Beispiel aus der Ausgabe des Bundlers im Arbeitsspeicher bereitgestellt werden, und das Client-Manifest wird aus dem Modulgraphen der Entwicklung berechnet, statt aus {0} gelesen zu werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In der Entwicklung sind Build-Ausgaben typischerweise an Live-Quellen im Arbeitsspeicher statt an Dateien auf dem Datenträger gebunden. Der SSR-Entry kann zum Beispiel aus der Ausgabe des Bundlers im Arbeitsspeicher bereitgestellt werden, und das Client-Manifest wird aus dem Modulgraphen der Entwicklung berechnet, statt aus {0} gelesen zu werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

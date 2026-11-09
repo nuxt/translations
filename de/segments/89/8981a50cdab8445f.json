@@ -1,0 +1,14 @@
+{
+  "hash": "8981a50cdab8445f",
+  "source": "Rendering an error page is an entirely separate page load, meaning any registered middleware will run again. You can use {0} in middleware to check if an error is being handled.",
+  "text": "Das Rendern einer Fehlerseite ist ein vollständig eigener Seitenaufruf, sodass alle registrierten Middleware erneut ausgeführt werden. Du kannst {0} in einer Middleware verwenden, um zu prüfen, ob gerade ein Fehler behandelt wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Rendern einer Fehlerseite ist ein vollständig eigener Seitenaufruf, sodass alle registrierten Middleware erneut ausgeführt werden. Du kannst {0} in einer Middleware verwenden, um zu prüfen, ob gerade ein Fehler behandelt wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "f76ca4d70251b11a",
+  "source": "every time the setter is called",
+  "text": "jedes Mal, wenn der Setter aufgerufen wird",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "jedes Mal, wenn der Setter aufgerufen wird"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

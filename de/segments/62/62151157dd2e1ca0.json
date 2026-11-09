@@ -1,0 +1,14 @@
+{
+  "hash": "62151157dd2e1ca0",
+  "source": "{0} returns a promise, resolving when all or specific {1} instances have been refreshed.",
+  "text": "{0} gibt ein Promise zurück, das aufgelöst wird, sobald alle oder die bestimmten {1}-Instanzen aktualisiert wurden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} gibt ein Promise zurück, das aufgelöst wird, sobald alle oder die bestimmten {1}-Instanzen aktualisiert wurden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "087a31b3bb9cc30b",
+  "source": "With this configuration:",
+  "text": "Mit dieser Konfiguration gilt:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit dieser Konfiguration gilt:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

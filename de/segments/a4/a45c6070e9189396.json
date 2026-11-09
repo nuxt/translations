@@ -1,0 +1,14 @@
+{
+  "hash": "a45c6070e9189396",
+  "source": "If you were using {0} you can migrate to the new {1} hook:",
+  "text": "Wenn du {0} verwendet hast, kannst du zum neuen {1}-hook wechseln:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du {0} verwendet hast, kannst du zum neuen {1}-hook wechseln:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

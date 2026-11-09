@@ -1,0 +1,14 @@
+{
+  "hash": "4dc66814d7fa7b94",
+  "source": "**Error response format**: Page errors return the error page and server route errors return JSON, {0}regardless of the request headers{/0}",
+  "text": "**Format der Fehlerantwort**: Seitenfehler liefern die Fehlerseite und Fehler von Server-Routen liefern JSON, {0}unabhängig von den Anfrage-Headern{/0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Format der Fehlerantwort**: Seitenfehler liefern die Fehlerseite und Fehler von Server-Routen liefern JSON, {0}unabhängig von den Anfrage-Headern{/0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "92b30c64b5f1a222",
+  "source": "Pass Cookies From Server-side API Calls on SSR Response",
+  "text": "Cookies aus serverseitigen API-Aufrufen in der SSR-Antwort weitergeben",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cookies aus serverseitigen API-Aufrufen in der SSR-Antwort weitergeben"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

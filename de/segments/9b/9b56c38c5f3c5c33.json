@@ -1,0 +1,14 @@
+{
+  "hash": "9b56c38c5f3c5c33",
+  "source": "the directory its chunks landed in",
+  "text": "das Verzeichnis, in dem seine Chunks gelandet sind",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "das Verzeichnis, in dem seine Chunks gelandet sind"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

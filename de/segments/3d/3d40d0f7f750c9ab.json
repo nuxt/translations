@@ -1,0 +1,14 @@
+{
+  "hash": "3d40d0f7f750c9ab",
+  "source": "The only argument passed to a plugin is {0}.",
+  "text": "Das einzige Argument, das an ein Plugin übergeben wird, ist {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das einzige Argument, das an ein Plugin übergeben wird, ist {0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "ae97d4e57a73e95c",
+  "source": "The location of a font file is an implementation detail rather than a stable URL contract. Don't hard-code these paths; link to fonts through the CSS we generate, or read them from the {0} hook.",
+  "text": "Der Speicherort einer Schriftdatei ist ein Implementierungsdetail und kein stabiler URL-Vertrag. Codiere diese Pfade nicht fest, sondern verweise über das von uns erzeugte CSS auf Schriftarten oder lies sie aus dem {0}-hook aus.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Speicherort einer Schriftdatei ist ein Implementierungsdetail und kein stabiler URL-Vertrag. Codiere diese Pfade nicht fest, sondern verweise über das von uns erzeugte CSS auf Schriftarten oder lies sie aus dem {0}-hook aus."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

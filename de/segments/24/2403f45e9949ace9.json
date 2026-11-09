@@ -1,0 +1,14 @@
+{
+  "hash": "2403f45e9949ace9",
+  "source": "Some slots are reserved to {0} for special cases.",
+  "text": "Einige Slots sind von {0} für Sonderfälle reserviert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Einige Slots sind von {0} für Sonderfälle reserviert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "428fa12dd5ae35c1",
+  "source": "If you narrow errors by class, use one of the predicates instead:",
+  "text": "Wenn du Fehler anhand ihrer Klasse eingrenzt, verwende stattdessen eines der Prädikate:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du Fehler anhand ihrer Klasse eingrenzt, verwende stattdessen eines der Prädikate:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

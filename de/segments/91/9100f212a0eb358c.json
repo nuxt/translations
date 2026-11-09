@@ -1,0 +1,14 @@
+{
+  "hash": "9100f212a0eb358c",
+  "source": "Nuxt provides powerful state management libraries and the useState composable to create a reactive and SSR-friendly shared state.",
+  "text": "Nuxt bietet leistungsstarke Bibliotheken zur Zustandsverwaltung sowie das useState-Composable, um einen reaktiven und SSR-freundlichen gemeinsamen Zustand zu erstellen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt bietet leistungsstarke Bibliotheken zur Zustandsverwaltung sowie das useState-Composable, um einen reaktiven und SSR-freundlichen gemeinsamen Zustand zu erstellen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

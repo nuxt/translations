@@ -1,0 +1,14 @@
+{
+  "hash": "87a74de385d7b50f",
+  "source": "Nuxt Kit provides utilities to check that optional dependencies are installed and to tell users how to install them.",
+  "text": "Nuxt Kit stellt Hilfsfunktionen bereit, um zu prüfen, ob optionale Abhängigkeiten installiert sind, und um Nutzenden mitzuteilen, wie sie diese installieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Kit stellt Hilfsfunktionen bereit, um zu prüfen, ob optionale Abhängigkeiten installiert sind, und um Nutzenden mitzuteilen, wie sie diese installieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

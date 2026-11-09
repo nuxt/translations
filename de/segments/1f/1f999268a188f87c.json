@@ -1,0 +1,14 @@
+{
+  "hash": "1f999268a188f87c",
+  "source": "{0} / {1} blocks with plain exports",
+  "text": "{0}-/{1}-Blöcke durch einfache Exporte",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}-/{1}-Blöcke durch einfache Exporte"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

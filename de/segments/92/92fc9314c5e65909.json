@@ -1,0 +1,14 @@
+{
+  "hash": "92fc9314c5e65909",
+  "source": "Replace {0} with {1}",
+  "text": "Ersetze {0} durch {1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ersetze {0} durch {1}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

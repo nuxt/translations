@@ -1,0 +1,14 @@
+{
+  "hash": "65b78c4e5b18df1a",
+  "source": "Read more about searching for and removing modules.",
+  "text": "Lies mehr darüber, wie du nach Modulen suchst und sie entfernst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lies mehr darüber, wie du nach Modulen suchst und sie entfernst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

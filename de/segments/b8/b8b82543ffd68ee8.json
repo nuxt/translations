@@ -1,0 +1,14 @@
+{
+  "hash": "b8b82543ffd68ee8",
+  "source": "Read more about the {0} command.",
+  "text": "Mehr zum Befehl {0} erfährst du hier.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mehr zum Befehl {0} erfährst du hier."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

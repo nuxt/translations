@@ -1,0 +1,14 @@
+{
+  "hash": "89042f270c66c4a3",
+  "source": "Use this for in-page updates like form validation, async operations, toast notifications, and live content changes.",
+  "text": "Nutze es für Aktualisierungen innerhalb einer Seite, etwa bei der Formularvalidierung, asynchronen Vorgängen, Toast-Benachrichtigungen und Live-Inhaltsänderungen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nutze es für Aktualisierungen innerhalb einer Seite, etwa bei der Formularvalidierung, asynchronen Vorgängen, Toast-Benachrichtigungen und Live-Inhaltsänderungen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "450e00e3dcb823c7",
+  "source": "CLI",
+  "text": "Kommandozeilenschnittstelle",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Kommandozeilenschnittstelle"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

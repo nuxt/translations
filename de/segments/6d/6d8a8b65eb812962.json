@@ -1,0 +1,14 @@
+{
+  "hash": "6d8a8b65eb812962",
+  "source": "**Less layout shift**: a local system font is scaled to match each web font's metrics, so text barely moves when the real file arrives.",
+  "text": "**Weniger Layout-Verschiebung**: Eine lokale Systemschriftart wird so skaliert, dass sie den Metriken der jeweiligen Web-Schriftart entspricht. Der Text bewegt sich daher kaum, wenn die eigentliche Datei geladen ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Weniger Layout-Verschiebung**: Eine lokale Systemschriftart wird so skaliert, dass sie den Metriken der jeweiligen Web-Schriftart entspricht. Der Text bewegt sich daher kaum, wenn die eigentliche Datei geladen ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

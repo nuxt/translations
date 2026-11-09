@@ -1,0 +1,14 @@
+{
+  "hash": "cba40011cde98d21",
+  "source": "you will need to handle a loading state",
+  "text": "du musst einen Ladezustand behandeln",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "du musst einen Ladezustand behandeln"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

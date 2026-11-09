@@ -1,0 +1,14 @@
+{
+  "hash": "dec0fd5b5999411d",
+  "source": "The local provider deeply scans your {0} directories (including of your layers) for font files (supporting {1}, {2}, {3}, {4} or {5} extensions). Directories that modules add to {6} are not scanned; add them to {7} to use the fonts within.",
+  "text": "Der lokale Provider durchsucht deine {0}-Verzeichnisse (auch die deiner Layer) rekursiv nach Font-Dateien (unterstützt werden die Endungen {1}, {2}, {3}, {4} oder {5}). Verzeichnisse, die Module zu {6} hinzufügen, werden nicht durchsucht. Füge sie zu {7} hinzu, um die darin enthaltenen Fonts zu verwenden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der lokale Provider durchsucht deine {0}-Verzeichnisse (auch die deiner Layer) rekursiv nach Font-Dateien (unterstützt werden die Endungen {1}, {2}, {3}, {4} oder {5}). Verzeichnisse, die Module zu {6} hinzufügen, werden nicht durchsucht. Füge sie zu {7} hinzu, um die darin enthaltenen Fonts zu verwenden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

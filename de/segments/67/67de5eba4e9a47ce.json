@@ -1,0 +1,14 @@
+{
+  "hash": "67de5eba4e9a47ce",
+  "source": "Never combine {0} callback with a legacy middleware that is {1} or returns a {2}.",
+  "text": "Kombiniere den {0}-Callback niemals mit einer Legacy-Middleware, die {1} ist oder ein {2} zurückgibt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Kombiniere den {0}-Callback niemals mit einer Legacy-Middleware, die {1} ist oder ein {2} zurückgibt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

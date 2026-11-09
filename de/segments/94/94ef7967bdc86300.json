@@ -1,0 +1,14 @@
+{
+  "hash": "94ef7967bdc86300",
+  "source": "Nuxt Kit provides a set of utilities to help you work with Nitro. These functions allow you to add server handlers, plugins, and prerender routes.",
+  "text": "Nuxt Kit stellt eine Reihe von Hilfsfunktionen bereit, mit denen du mit Nitro arbeiten kannst. Mit diesen Funktionen kannst du Server-Handler und plugins hinzufügen sowie Routen für das Vorab-Rendering festlegen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Kit stellt eine Reihe von Hilfsfunktionen bereit, mit denen du mit Nitro arbeiten kannst. Mit diesen Funktionen kannst du Server-Handler und plugins hinzufügen sowie Routen für das Vorab-Rendering festlegen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

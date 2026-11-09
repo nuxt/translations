@@ -1,0 +1,14 @@
+{
+  "hash": "d8099344c58013df",
+  "source": "Nuxt Fonts ships with a number of built-in providers.",
+  "text": "Nuxt Fonts wird mit einer Reihe integrierter Provider ausgeliefert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Fonts wird mit einer Reihe integrierter Provider ausgeliefert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

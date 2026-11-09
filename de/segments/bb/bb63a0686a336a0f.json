@@ -1,0 +1,14 @@
+{
+  "hash": "bb63a0686a336a0f",
+  "source": "{0}: Programmatically navigate to a new URL by pushing an entry in the history stack. **It is recommended to use {1} instead.**",
+  "text": "{0}: Navigiert programmatisch zu einer neuen URL, indem ein Eintrag zum Verlaufsstapel hinzugefügt wird. **Stattdessen wird die Verwendung von {1} empfohlen.**",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Navigiert programmatisch zu einer neuen URL, indem ein Eintrag zum Verlaufsstapel hinzugefügt wird. **Stattdessen wird die Verwendung von {1} empfohlen.**"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

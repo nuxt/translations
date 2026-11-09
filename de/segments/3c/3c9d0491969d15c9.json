@@ -1,0 +1,14 @@
+{
+  "hash": "3c9d0491969d15c9",
+  "source": "You should avoid code that produces side effects that need cleanup in root scope of {0}. An example of such side effects is setting up timers with {1}. In client-side only code we may setup a timer and then tear it down in {2} or {3}. However, because the unmount hooks will never be called during SSR, the timers will stay around forever. To avoid this, move your side-effect code into {4} instead.",
+  "text": "Vermeide Code, der Nebeneffekte mit notwendiger Bereinigung im Root-Scope von {0} erzeugt. Ein Beispiel für solche Nebeneffekte ist das Einrichten von Timern mit {1}. In rein clientseitigem Code können wir einen Timer einrichten und ihn in {2} oder {3} wieder entfernen. Da die Unmount-Hooks während SSR jedoch nie aufgerufen werden, bleiben die Timer für immer bestehen. Verschiebe deinen Code mit Nebeneffekten stattdessen in {4}, um das zu vermeiden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vermeide Code, der Nebeneffekte mit notwendiger Bereinigung im Root-Scope von {0} erzeugt. Ein Beispiel für solche Nebeneffekte ist das Einrichten von Timern mit {1}. In rein clientseitigem Code können wir einen Timer einrichten und ihn in {2} oder {3} wieder entfernen. Da die Unmount-Hooks während SSR jedoch nie aufgerufen werden, bleiben die Timer für immer bestehen. Verschiebe deinen Code mit Nebeneffekten stattdessen in {4}, um das zu vermeiden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "4bcaa1ee1d15da83",
+  "source": "{0}obuild{/0} - rolldown-powered build system",
+  "text": "{0}obuild{/0} – von Rolldown angetriebenes Build-System",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}obuild{/0} – von Rolldown angetriebenes Build-System"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

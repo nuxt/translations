@@ -1,0 +1,14 @@
+{
+  "hash": "7720d296452970f4",
+  "source": "Full Example with extends",
+  "text": "Vollständiges Beispiel mit extends",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vollständiges Beispiel mit extends"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

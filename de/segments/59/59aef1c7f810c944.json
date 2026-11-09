@@ -1,0 +1,14 @@
+{
+  "hash": "59aef1c7f810c944",
+  "source": "In some cases you may wish to use only one font provider. This is equivalent to disabling all other font providers, so a per-family {0} other than the one configured here will not be used.",
+  "text": "In manchen Fällen möchtest du vielleicht nur einen Schriftarten-Provider verwenden. Das entspricht dem Deaktivieren aller anderen Schriftarten-Provider, daher wird ein {0} pro Schriftfamilie, der von dem hier konfigurierten abweicht, nicht verwendet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In manchen Fällen möchtest du vielleicht nur einen Schriftarten-Provider verwenden. Das entspricht dem Deaktivieren aller anderen Schriftarten-Provider, daher wird ein {0} pro Schriftfamilie, der von dem hier konfigurierten abweicht, nicht verwendet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

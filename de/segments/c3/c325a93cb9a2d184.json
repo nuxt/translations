@@ -1,0 +1,14 @@
+{
+  "hash": "c325a93cb9a2d184",
+  "source": "One of the most valuable roles in open source is taking the time to report bugs helpfully.",
+  "text": "Eine der wertvollsten Rollen in Open Source ist es, sich die Zeit zu nehmen, Fehler hilfreich zu melden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine der wertvollsten Rollen in Open Source ist es, sich die Zeit zu nehmen, Fehler hilfreich zu melden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

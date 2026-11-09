@@ -1,0 +1,14 @@
+{
+  "hash": "c7a7299ebbc9fed2",
+  "source": "Expose reactive configuration within your application with the App Config file.",
+  "text": "Stelle reaktive Konfiguration in deiner Anwendung mit der Datei für die App-Konfiguration bereit.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Stelle reaktive Konfiguration in deiner Anwendung mit der Datei für die App-Konfiguration bereit."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

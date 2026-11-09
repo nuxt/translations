@@ -1,0 +1,14 @@
+{
+  "hash": "12674f73a977bfa8",
+  "source": "Nitro also {0}auto-generates types{/0} for API routes. Plus, Nuxt also generates types for globally available components and {1}auto-imports from your composables{/1}, plus other core functionality.",
+  "text": "Nitro {0}generiert automatisch Typen{/0} für API-Routen. Außerdem erzeugt Nuxt Typen für global verfügbare Komponenten und {1}automatische Importe aus deinen Composables{/1} sowie für weitere Kernfunktionen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nitro {0}generiert automatisch Typen{/0} für API-Routen. Außerdem erzeugt Nuxt Typen für global verfügbare Komponenten und {1}automatische Importe aus deinen Composables{/1} sowie für weitere Kernfunktionen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

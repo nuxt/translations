@@ -1,0 +1,14 @@
+{
+  "hash": "d28e6c55e78c14a9",
+  "source": "Typing App Config",
+  "text": "App-Konfiguration typisieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "App-Konfiguration typisieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "6bbcc057b58196e2",
+  "source": "If you are adding a dependency, please use {0}.{1}The {2} file is the source of truth for all Nuxt dependencies.",
+  "text": "Wenn du eine Abhängigkeit hinzufügst, verwende bitte {0}.{1}Die Datei {2} ist die maßgebliche Quelle für alle Abhängigkeiten von Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du eine Abhängigkeit hinzufügst, verwende bitte {0}.{1}Die Datei {2} ist die maßgebliche Quelle für alle Abhängigkeiten von Nuxt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

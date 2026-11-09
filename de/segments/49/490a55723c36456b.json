@@ -1,0 +1,14 @@
+{
+  "hash": "490a55723c36456b",
+  "source": "a value is not one of the values allowed by its schema",
+  "text": "ein Wert nicht zu den Werten gehört, die sein Schema erlaubt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "ein Wert nicht zu den Werten gehört, die sein Schema erlaubt"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

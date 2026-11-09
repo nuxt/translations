@@ -1,0 +1,14 @@
+{
+  "hash": "23c9a63b8e826b0c",
+  "source": "Automatic code-splitting and async-loaded chunks.",
+  "text": "Automatisches Code-Splitting und asynchron geladene Chunks.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Automatisches Code-Splitting und asynchron geladene Chunks."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

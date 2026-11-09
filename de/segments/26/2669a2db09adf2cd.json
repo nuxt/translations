@@ -1,0 +1,14 @@
+{
+  "hash": "2669a2db09adf2cd",
+  "source": "Routing is case-sensitive by default to match Nitro. Set {0} to {1} to opt out. {2} can only be set in {3}: the build fails if a {4} file sets it.",
+  "text": "Das Routing unterscheidet standardmäßig zwischen Groß- und Kleinschreibung, passend zu Nitro. Setze {0} auf {1}, um das zu deaktivieren. {2} lässt sich nur in {3} setzen: Der Build schlägt fehl, wenn eine {4}-Datei es setzt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Routing unterscheidet standardmäßig zwischen Groß- und Kleinschreibung, passend zu Nitro. Setze {0} auf {1}, um das zu deaktivieren. {2} lässt sich nur in {3} setzen: Der Build schlägt fehl, wenn eine {4}-Datei es setzt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

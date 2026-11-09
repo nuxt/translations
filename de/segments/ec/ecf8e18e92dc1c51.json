@@ -1,0 +1,14 @@
+{
+  "hash": "ecf8e18e92dc1c51",
+  "source": "This error is reported when a schema does not implement Standard JSON Schema, or when the schema library cannot convert it (for example a schema that uses transforms). A schema for the whole of {0} must also describe a single object rather than a union.",
+  "text": "Dieser Fehler tritt auf, wenn ein Schema Standard JSON Schema nicht implementiert oder wenn die Schema-Bibliothek es nicht umwandeln kann (zum Beispiel bei einem Schema mit Transformationen). Ein Schema für das gesamte {0} muss außerdem ein einzelnes Objekt beschreiben und keine Union.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dieser Fehler tritt auf, wenn ein Schema Standard JSON Schema nicht implementiert oder wenn die Schema-Bibliothek es nicht umwandeln kann (zum Beispiel bei einem Schema mit Transformationen). Ein Schema für das gesamte {0} muss außerdem ein einzelnes Objekt beschreiben und keine Union."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "3a8c2520eaa3ce0c",
+  "source": "**Update {0} implementations**:",
+  "text": "**Implementierungen von {0} aktualisieren**:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Implementierungen von {0} aktualisieren**:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

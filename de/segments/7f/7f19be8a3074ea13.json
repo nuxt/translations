@@ -1,0 +1,14 @@
+{
+  "hash": "7f19be8a3074ea13",
+  "source": "Add the server using the CLI command:",
+  "text": "Füge den Server mit dem folgenden Befehl der Kommandozeilenschnittstelle (CLI) hinzu:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Füge den Server mit dem folgenden Befehl der Kommandozeilenschnittstelle (CLI) hinzu:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

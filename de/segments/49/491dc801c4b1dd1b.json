@@ -1,0 +1,14 @@
+{
+  "hash": "491dc801c4b1dd1b",
+  "source": "the hashed entry chunk filename (import map)",
+  "text": "der Dateiname des gehashten Entry-Chunks (Import Map)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "der Dateiname des gehashten Entry-Chunks (Import Map)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

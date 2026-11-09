@@ -1,0 +1,14 @@
+{
+  "hash": "281700dfc3ef2e22",
+  "source": "do some setup",
+  "text": "Einrichtung durchführen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Einrichtung durchführen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

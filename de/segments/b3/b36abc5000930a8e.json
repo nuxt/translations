@@ -1,0 +1,14 @@
+{
+  "hash": "b36abc5000930a8e",
+  "source": "The example below shows the object syntax with advanced configuration:",
+  "text": "Das folgende Beispiel zeigt die Objektsyntax mit erweiterter Konfiguration:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das folgende Beispiel zeigt die Objektsyntax mit erweiterter Konfiguration:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

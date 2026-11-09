@@ -1,0 +1,14 @@
+{
+  "hash": "08a868976621dc13",
+  "source": "do something after the route handler",
+  "text": "nach dem Route-Handler etwas ausführen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "nach dem Route-Handler etwas ausführen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

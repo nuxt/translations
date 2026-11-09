@@ -1,0 +1,14 @@
+{
+  "hash": "3cc366b1276b7d79",
+  "source": "{0}: Request failed",
+  "text": "{0}: Die Anfrage ist fehlgeschlagen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Die Anfrage ist fehlgeschlagen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

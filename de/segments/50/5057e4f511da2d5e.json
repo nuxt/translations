@@ -1,0 +1,14 @@
+{
+  "hash": "5057e4f511da2d5e",
+  "source": "**Include fonts in build.** When you build your project, we'll copy across all the fonts used in your project so you don't need to make any external requests when loading your site. (Any that haven't already been cached in development are downloaded at build time.) Font file names are hashed and Nuxt will serve them with long-lived cache headers.",
+  "text": "**Bindet Schriftarten in den Build ein.** Wenn du dein Projekt erzeugst, kopieren wir alle in deinem Projekt verwendeten Schriftarten mit, damit beim Laden deiner Website keine externen Anfragen nötig sind. (Alle Schriftarten, die in der Entwicklung noch nicht im Cache gespeichert wurden, werden zur Build-Zeit heruntergeladen.) Die Dateinamen der Schriftarten werden mit einem Hash versehen, und Nuxt liefert sie mit langlebigen Cache-Headern aus.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Bindet Schriftarten in den Build ein.** Wenn du dein Projekt erzeugst, kopieren wir alle in deinem Projekt verwendeten Schriftarten mit, damit beim Laden deiner Website keine externen Anfragen nötig sind. (Alle Schriftarten, die in der Entwicklung noch nicht im Cache gespeichert wurden, werden zur Build-Zeit heruntergeladen.) Die Dateinamen der Schriftarten werden mit einem Hash versehen, und Nuxt liefert sie mit langlebigen Cache-Headern aus."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

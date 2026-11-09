@@ -1,0 +1,14 @@
+{
+  "hash": "57a60a616e035aa3",
+  "source": "The error is now JSON-encoded as a whole, so {0} arrives with its original shape and is never stringified.",
+  "text": "Der Fehler wird jetzt als Ganzes JSON-kodiert, sodass {0} in seiner ursprünglichen Form ankommt und nie in einen String umgewandelt wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Fehler wird jetzt als Ganzes JSON-kodiert, sodass {0} in seiner ursprünglichen Form ankommt und nie in einen String umgewandelt wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

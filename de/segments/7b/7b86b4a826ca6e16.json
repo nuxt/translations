@@ -1,0 +1,14 @@
+{
+  "hash": "7b86b4a826ca6e16",
+  "source": "By default, your request will be made using the {0} method. You may use another method by setting an object as the second argument instead of a function.",
+  "text": "Standardmäßig wird deine Anfrage mit der Methode {0} gestellt. Du kannst eine andere Methode verwenden, indem du als zweites Argument statt einer Funktion ein Objekt übergibst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardmäßig wird deine Anfrage mit der Methode {0} gestellt. Du kannst eine andere Methode verwenden, indem du als zweites Argument statt einer Funktion ein Objekt übergibst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

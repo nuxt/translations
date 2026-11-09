@@ -1,0 +1,14 @@
+{
+  "hash": "8d45f75a051c872a",
+  "source": "Use the #server alias:",
+  "text": "Verwende den Alias #server:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwende den Alias #server:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

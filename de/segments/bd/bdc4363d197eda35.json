@@ -1,0 +1,14 @@
+{
+  "hash": "bdc4363d197eda35",
+  "source": "Use useRequestHeader to access a certain incoming request header.",
+  "text": "Verwende useRequestHeader, um auf einen bestimmten Header der eingehenden Anfrage zuzugreifen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwende useRequestHeader, um auf einen bestimmten Header der eingehenden Anfrage zuzugreifen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "716e92b2074d4881",
+  "source": "Nuxt Bridge provides a new Nuxt 3 meta API that can be accessed with a new {0} composable.",
+  "text": "Nuxt Bridge stellt eine neue Meta-API von Nuxt 3 bereit, auf die du mit einem neuen {0}-Composable zugreifen kannst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Bridge stellt eine neue Meta-API von Nuxt 3 bereit, auf die du mit einem neuen {0}-Composable zugreifen kannst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "71627190884a94ba",
+  "source": "{0} can be a plain string or a route object to redirect to. When passed as {1} or {2}, it will default to {3}.",
+  "text": "{0} kann ein einfacher String oder ein Route-Objekt sein, zu dem weitergeleitet wird. Wird es als {1} oder {2} übergeben, ist der Standardwert {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} kann ein einfacher String oder ein Route-Objekt sein, zu dem weitergeleitet wird. Wird es als {1} oder {2} übergeben, ist der Standardwert {3}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

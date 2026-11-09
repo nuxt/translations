@@ -1,0 +1,14 @@
+{
+  "hash": "5a727a224c113778",
+  "source": "A route or an array of routes to prerender.",
+  "text": "Eine Route oder ein Array von Routen für das Vorab-Rendering.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine Route oder ein Array von Routen für das Vorab-Rendering."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

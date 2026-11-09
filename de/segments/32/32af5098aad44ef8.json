@@ -1,0 +1,14 @@
+{
+  "hash": "32af5098aad44ef8",
+  "source": "If a path inside {0} is awkward to cache, move it with the {1} option.",
+  "text": "Wenn ein Pfad innerhalb von {0} sich nur umständlich zwischenspeichern lässt, verschiebe ihn mit der Option {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn ein Pfad innerhalb von {0} sich nur umständlich zwischenspeichern lässt, verschiebe ihn mit der Option {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

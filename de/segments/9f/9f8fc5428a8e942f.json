@@ -1,0 +1,14 @@
+{
+  "hash": "9f8fc5428a8e942f",
+  "source": "There are significant changes when migrating a Nuxt 2 app to Nuxt 3, although you can expect migration to become more straightforward as we move toward a stable release.",
+  "text": "Bei der Migration einer Nuxt-2-App zu Nuxt 3 gibt es erhebliche Änderungen. Auf dem Weg zu einem stabilen Release dürfte die Migration aber zunehmend einfacher werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bei der Migration einer Nuxt-2-App zu Nuxt 3 gibt es erhebliche Änderungen. Auf dem Weg zu einem stabilen Release dürfte die Migration aber zunehmend einfacher werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

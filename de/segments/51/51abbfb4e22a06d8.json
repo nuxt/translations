@@ -1,0 +1,14 @@
+{
+  "hash": "51abbfb4e22a06d8",
+  "source": "Use {0} to confirm the server is configured and available.",
+  "text": "Verwende {0}, um zu überprüfen, ob der Server konfiguriert und verfügbar ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwende {0}, um zu überprüfen, ob der Server konfiguriert und verfügbar ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

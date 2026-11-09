@@ -1,0 +1,14 @@
+{
+  "hash": "d7944e3ffad0842d",
+  "source": "You can define a page as {0}client only{/0} by giving it a {1} suffix. None of the content of this page will be rendered on the server.",
+  "text": "Du kannst eine Seite als {0}nur für den Client{/0} definieren, indem du ihr das Suffix {1} gibst. Der Inhalt dieser Seite wird nicht auf dem Server gerendert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst eine Seite als {0}nur für den Client{/0} definieren, indem du ihr das Suffix {1} gibst. Der Inhalt dieser Seite wird nicht auf dem Server gerendert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

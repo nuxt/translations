@@ -1,0 +1,14 @@
+{
+  "hash": "7d60caaadf8f7a51",
+  "source": "If you are wrapping {0} by hand, constrain the path by {1} rather than by {2}, so that a route declared through augmentation is still accepted, and pass the request through to {3} so it is typed there.",
+  "text": "Wenn du {0} manuell umschließt, schränke den Pfad über {1} statt über {2} ein, damit eine per Erweiterung deklarierte Route weiterhin akzeptiert wird, und reiche die Anfrage an {3} durch, damit sie dort typisiert wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du {0} manuell umschließt, schränke den Pfad über {1} statt über {2} ein, damit eine per Erweiterung deklarierte Route weiterhin akzeptiert wird, und reiche die Anfrage an {3} durch, damit sie dort typisiert wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

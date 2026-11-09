@@ -1,0 +1,14 @@
+{
+  "hash": "d3cf53357df5e111",
+  "source": "We are removing the global {0} object after the app finishes hydration.",
+  "text": "Wir entfernen das globale Objekt {0}, nachdem die App die Hydration abgeschlossen hat.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wir entfernen das globale Objekt {0}, nachdem die App die Hydration abgeschlossen hat."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "eebb7f594f5bc987",
+  "source": "Watch a video from Vue School on sharing utils and types between app and server",
+  "text": "Sieh dir ein Video von Vue School über das Teilen von Hilfsfunktionen und Typen zwischen App und Server an",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sieh dir ein Video von Vue School über das Teilen von Hilfsfunktionen und Typen zwischen App und Server an"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

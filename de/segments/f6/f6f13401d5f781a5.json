@@ -1,0 +1,14 @@
+{
+  "hash": "f6f13401d5f781a5",
+  "source": "Examples in this documentation usually {0} calls to {1} and {2}, but this is not always required.",
+  "text": "Die Beispiele in dieser Dokumentation setzen vor Aufrufe von {1} und {2} meist {0}, das ist aber nicht immer erforderlich.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Beispiele in dieser Dokumentation setzen vor Aufrufe von {1} und {2} meist {0}, das ist aber nicht immer erforderlich."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

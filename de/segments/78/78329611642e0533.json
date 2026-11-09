@@ -1,0 +1,14 @@
+{
+  "hash": "78329611642e0533",
+  "source": "You can also pass an authentication token if you are extending from a private GitHub repository:",
+  "text": "Du kannst auch ein Authentifizierungstoken übergeben, wenn du von einem privaten GitHub-Repository erweiterst:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst auch ein Authentifizierungstoken übergeben, wenn du von einem privaten GitHub-Repository erweiterst:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

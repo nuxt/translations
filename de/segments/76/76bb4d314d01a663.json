@@ -1,0 +1,14 @@
+{
+  "hash": "76bb4d314d01a663",
+  "source": "Since the path is resolved against the base, passing a path that already carries it is an error naming the URL that would be requested:",
+  "text": "Da der Pfad relativ zur Basis aufgelöst wird, ist die Übergabe eines Pfads, der sie bereits enthält, ein Fehler, der die URL nennt, die angefragt würde:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Da der Pfad relativ zur Basis aufgelöst wird, ist die Übergabe eines Pfads, der sie bereits enthält, ein Fehler, der die URL nennt, die angefragt würde:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

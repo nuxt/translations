@@ -1,0 +1,14 @@
+{
+  "hash": "67163bc9337ae238",
+  "source": "Plus, it comes with convenience features including automatically parsing responses and stringifying data.",
+  "text": "Außerdem bietet sie praktische Funktionen, etwa das automatische Parsen von Antworten und das Serialisieren von Daten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Außerdem bietet sie praktische Funktionen, etwa das automatische Parsen von Antworten und das Serialisieren von Daten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

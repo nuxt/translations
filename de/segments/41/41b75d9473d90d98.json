@@ -1,0 +1,14 @@
+{
+  "hash": "41b75d9473d90d98",
+  "source": "Nitro adds more on top, such as {0}, {1} and {2}, but these four core properties work in all runtimes, and need no helpers:",
+  "text": "Nitro ergänzt weitere Eigenschaften wie {0}, {1} und {2}. Diese vier Kerneigenschaften funktionieren jedoch in allen Laufzeitumgebungen und benötigen keine Hilfsprogramme:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nitro ergänzt weitere Eigenschaften wie {0}, {1} und {2}. Diese vier Kerneigenschaften funktionieren jedoch in allen Laufzeitumgebungen und benötigen keine Hilfsprogramme:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

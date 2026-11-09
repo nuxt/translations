@@ -1,0 +1,14 @@
+{
+  "hash": "92ca1ed8fabf2118",
+  "source": "Package manager to install with",
+  "text": "Paketmanager, mit dem installiert wird",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Paketmanager, mit dem installiert wird"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

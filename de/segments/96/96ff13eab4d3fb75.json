@@ -1,0 +1,14 @@
+{
+  "hash": "96ff13eab4d3fb75",
+  "source": "Make sure your dev server ({0}) isn't running, remove any package lock files ({1} and {2}), and install the latest Nuxt 2 version:",
+  "text": "Stelle sicher, dass dein Entwicklungsserver ({0}) nicht läuft, entferne alle Lock-Dateien der Paketverwaltung ({1} und {2}) und installiere die neueste Nuxt-2-Version:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Stelle sicher, dass dein Entwicklungsserver ({0}) nicht läuft, entferne alle Lock-Dateien der Paketverwaltung ({1} und {2}) und installiere die neueste Nuxt-2-Version:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e0583d6312476be8",
+  "source": "With {0}, {1} now defaults to {2}, so Nitro is built as a {3}Vite environment{/3} through the {4} plugin rather than through Nitro's own Rolldown pipeline. Server and client are built by one Vite build, and server code goes through the Vite plugins and resolution your app code already uses.",
+  "text": "Mit {0} ist der Standardwert von {1} jetzt {2}. Nitro wird dadurch über das {4}-Plugin als {3}Vite-Umgebung{/3} erzeugt und nicht mehr über Nitros eigene Rolldown-Pipeline. Server und Client werden in einem einzigen Vite-Build erzeugt, und der Servercode durchläuft dieselben Vite-Plugins und dieselbe Auflösung wie dein App-Code.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit {0} ist der Standardwert von {1} jetzt {2}. Nitro wird dadurch über das {4}-Plugin als {3}Vite-Umgebung{/3} erzeugt und nicht mehr über Nitros eigene Rolldown-Pipeline. Server und Client werden in einem einzigen Vite-Build erzeugt, und der Servercode durchläuft dieselben Vite-Plugins und dieselbe Auflösung wie dein App-Code."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

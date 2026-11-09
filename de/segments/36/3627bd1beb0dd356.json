@@ -1,0 +1,14 @@
+{
+  "hash": "3627bd1beb0dd356",
+  "source": "Key features include:",
+  "text": "Zu den wichtigsten Funktionen gehören:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Zu den wichtigsten Funktionen gehören:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

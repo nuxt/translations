@@ -1,0 +1,14 @@
+{
+  "hash": "6c75a8c56a945db7",
+  "source": "In Nuxt 2, this was referred to as **Nuxt context**.",
+  "text": "In Nuxt 2 wurde dieser Kontext als **Nuxt-Kontext** bezeichnet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In Nuxt 2 wurde dieser Kontext als **Nuxt-Kontext** bezeichnet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

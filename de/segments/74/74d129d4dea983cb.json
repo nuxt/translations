@@ -1,0 +1,14 @@
+{
+  "hash": "74d129d4dea983cb",
+  "source": "Any other files you create in the {0} folder must be manually imported using the {1} alias (automatically configured by Nuxt):",
+  "text": "Alle anderen Dateien, die du im Verzeichnis {0} erstellst, musst du manuell über den Alias {1} importieren (von Nuxt automatisch konfiguriert):",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Alle anderen Dateien, die du im Verzeichnis {0} erstellst, musst du manuell über den Alias {1} importieren (von Nuxt automatisch konfiguriert):"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

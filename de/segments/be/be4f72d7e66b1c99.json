@@ -1,0 +1,14 @@
+{
+  "hash": "be4f72d7e66b1c99",
+  "source": "on client-side, it will throw a non-fatal error for you to handle. If you need to trigger a full-screen error page, then you can do this by setting {0}.",
+  "text": "wird auf dem Client ein nicht fataler Fehler geworfen, den du behandeln kannst. Wenn du eine Vollbild-Fehlerseite auslösen musst, kannst du dies tun, indem du {0} setzt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "wird auf dem Client ein nicht fataler Fehler geworfen, den du behandeln kannst. Wenn du eine Vollbild-Fehlerseite auslösen musst, kannst du dies tun, indem du {0} setzt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

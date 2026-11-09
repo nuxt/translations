@@ -1,0 +1,14 @@
+{
+  "hash": "92f99468ad4ad82c",
+  "source": "... or just disable legacy Composition API support",
+  "text": "... oder nur die Unterstützung der Legacy-Composition-API deaktivieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "... oder nur die Unterstützung der Legacy-Composition-API deaktivieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

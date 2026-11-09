@@ -1,0 +1,14 @@
+{
+  "hash": "71180b2fa9320996",
+  "source": "For modern Nuxt projects, we recommend using {0}TypeScript project references{/0} instead of directly extending {1}.",
+  "text": "Für moderne Nuxt-Projekte empfehlen wir, {0}TypeScript-Projektreferenzen{/0} zu verwenden, anstatt {1} direkt zu erweitern.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Für moderne Nuxt-Projekte empfehlen wir, {0}TypeScript-Projektreferenzen{/0} zu verwenden, anstatt {1} direkt zu erweitern."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

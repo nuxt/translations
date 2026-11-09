@@ -1,0 +1,14 @@
+{
+  "hash": "9dc3fb33603f8a09",
+  "source": "{0} is the not-found fallback. Configure your host to serve it for routes that should keep a 404 status.",
+  "text": "{0} ist der Fallback für nicht gefundene Seiten. Konfiguriere deinen Host so, dass er diese Datei für Routen ausliefert, die den Status 404 behalten sollen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ist der Fallback für nicht gefundene Seiten. Konfiguriere deinen Host so, dass er diese Datei für Routen ausliefert, die den Status 404 behalten sollen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

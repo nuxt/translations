@@ -1,0 +1,14 @@
+{
+  "hash": "a9320d8129747c22",
+  "source": "Ignore patterns that will be run against specified path.",
+  "text": "Ignoriert Muster, die auf den angegebenen Pfad angewendet werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ignoriert Muster, die auf den angegebenen Pfad angewendet werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

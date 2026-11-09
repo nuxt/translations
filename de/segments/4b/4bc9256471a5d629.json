@@ -1,0 +1,14 @@
+{
+  "hash": "4bc9256471a5d629",
+  "source": "You need to disable analytics or other modules in specific environments",
+  "text": "du Analytics oder andere Module in bestimmten Umgebungen deaktivieren musst",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "du Analytics oder andere Module in bestimmten Umgebungen deaktivieren musst"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

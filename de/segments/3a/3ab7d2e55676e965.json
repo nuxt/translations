@@ -1,0 +1,14 @@
+{
+  "hash": "3ab7d2e55676e965",
+  "source": "Typed Routes",
+  "text": "Typisierte Routen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Typisierte Routen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

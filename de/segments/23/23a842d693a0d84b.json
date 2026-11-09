@@ -1,0 +1,14 @@
+{
+  "hash": "23a842d693a0d84b",
+  "source": "{0} to ignore a dev server already running for this project",
+  "text": "{0}, um einen bereits laufenden Entwicklungsserver für dieses Projekt zu ignorieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}, um einen bereits laufenden Entwicklungsserver für dieses Projekt zu ignorieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

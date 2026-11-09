@@ -1,0 +1,14 @@
+{
+  "hash": "e21dbd5273e44104",
+  "source": "A value without a default, such as {0} above, is required. Nuxt warns about a missing value while building, and the server does not start until it is provided (here with {1}). While prerendering, only reading a missing value throws, so a page that depends on it fails to prerender while other pages are unaffected. Make a value optional with {2} or the equivalent in your schema library.",
+  "text": "Ein Wert ohne Standardwert, wie {0} oben, ist erforderlich. Nuxt warnt beim Erzeugen vor einem fehlenden Wert, und der Server startet erst, wenn er angegeben wird (hier mit {1}). Beim Vorab-Rendering schlägt nur das Lesen eines fehlenden Werts fehl. Eine Seite, die davon abhängt, kann daher nicht vorab gerendert werden, während andere Seiten unberührt bleiben. Mit {2} oder dem Äquivalent in deiner Schema-Bibliothek machst du einen Wert optional.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein Wert ohne Standardwert, wie {0} oben, ist erforderlich. Nuxt warnt beim Erzeugen vor einem fehlenden Wert, und der Server startet erst, wenn er angegeben wird (hier mit {1}). Beim Vorab-Rendering schlägt nur das Lesen eines fehlenden Werts fehl. Eine Seite, die davon abhängt, kann daher nicht vorab gerendert werden, während andere Seiten unberührt bleiben. Mit {2} oder dem Äquivalent in deiner Schema-Bibliothek machst du einen Wert optional."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

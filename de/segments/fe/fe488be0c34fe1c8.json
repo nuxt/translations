@@ -1,0 +1,14 @@
+{
+  "hash": "fe488be0c34fe1c8",
+  "source": "You can use the {0} option to declare dependencies on other modules. This provides a robust way to ensure proper setup order, version compatibility, and configuration management.",
+  "text": "Mit der Option {0} kannst du Abhängigkeiten von anderen Modulen deklarieren. So stellst du zuverlässig die richtige Setup-Reihenfolge, Versionskompatibilität und Konfigurationsverwaltung sicher.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit der Option {0} kannst du Abhängigkeiten von anderen Modulen deklarieren. So stellst du zuverlässig die richtige Setup-Reihenfolge, Versionskompatibilität und Konfigurationsverwaltung sicher."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

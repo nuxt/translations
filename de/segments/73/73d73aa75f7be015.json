@@ -1,0 +1,14 @@
+{
+  "hash": "73d73aa75f7be015",
+  "source": "AI-Assisted Contributions",
+  "text": "KI-gestützte Beiträge",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "KI-gestützte Beiträge"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

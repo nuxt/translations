@@ -1,0 +1,14 @@
+{
+  "hash": "442d8c2f1c67bd24",
+  "source": "Click on \"Add Connector\" button, then select \"Custom MCP Connector\"",
+  "text": "Klicke auf die Schaltfläche „Add Connector“ und wähle anschließend „Custom MCP Connector“ aus",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Klicke auf die Schaltfläche „Add Connector“ und wähle anschließend „Custom MCP Connector“ aus"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

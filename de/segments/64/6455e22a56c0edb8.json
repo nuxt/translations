@@ -1,0 +1,14 @@
+{
+  "hash": "6455e22a56c0edb8",
+  "source": "Nuxt Hooks (Build Time)",
+  "text": "Nuxt-Hooks (Build-Zeit)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt-Hooks (Build-Zeit)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

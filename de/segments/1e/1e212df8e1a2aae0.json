@@ -1,0 +1,14 @@
+{
+  "hash": "1e212df8e1a2aae0",
+  "source": "This helps you avoid common mistakes, such as using {0} instead of {1}, as well as typos - with over 100+ meta tags fully typed.",
+  "text": "So vermeidest du typische Fehler, etwa die Verwendung von {0} statt {1}, sowie Tippfehler – über 100 Meta-Tags sind vollständig typisiert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "So vermeidest du typische Fehler, etwa die Verwendung von {0} statt {1}, sowie Tippfehler – über 100 Meta-Tags sind vollständig typisiert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

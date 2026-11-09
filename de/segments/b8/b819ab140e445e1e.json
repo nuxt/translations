@@ -1,0 +1,14 @@
+{
+  "hash": "b819ab140e445e1e",
+  "source": "In **production runtime**, you should use platform environment variables and {0} is not used.",
+  "text": "In der **Produktionslaufzeit** solltest du stattdessen die Umgebungsvariablen der Plattform verwenden; {0} wird dann nicht genutzt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In der **Produktionslaufzeit** solltest du stattdessen die Umgebungsvariablen der Plattform verwenden; {0} wird dann nicht genutzt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "7486acec58c23b61",
+  "source": "State Management",
+  "text": "Zustandsverwaltung",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Zustandsverwaltung"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

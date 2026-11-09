@@ -1,0 +1,14 @@
+{
+  "hash": "5b777c826b2948a4",
+  "source": "For announcing in-page content changes (form validation, toast notifications, loading states, etc.), use the {0} component with the {1} composable instead.",
+  "text": "Verwende für die Ankündigung von Inhaltsänderungen innerhalb einer Seite (Formularvalidierung, Toast-Benachrichtigungen, Ladezustände usw.) stattdessen die Komponente {0} mit dem Composable {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwende für die Ankündigung von Inhaltsänderungen innerhalb einer Seite (Formularvalidierung, Toast-Benachrichtigungen, Ladezustände usw.) stattdessen die Komponente {0} mit dem Composable {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

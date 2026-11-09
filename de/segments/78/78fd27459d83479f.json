@@ -1,0 +1,14 @@
+{
+  "hash": "78fd27459d83479f",
+  "source": "Specify which template to generate",
+  "text": "Legt fest, welche Vorlage generiert werden soll",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Legt fest, welche Vorlage generiert werden soll"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

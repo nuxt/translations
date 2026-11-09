@@ -1,0 +1,14 @@
+{
+  "hash": "e24cddd5a4d90092",
+  "source": "The fully inferred type is only available in app code (components, composables, plugins and so on). In server routes, code in the {0} directory and {1}, keys defined in {2} files are typed as {3} instead: typing them there would require typechecking your app code outside the app context, where app auto-imports are not available. Keys defined inline in the {4} option of {5} are typed everywhere. If you need other keys typed outside app code, you can extend the {6} interface as described below. The location of the augmentation file determines which contexts see it: a {7} file in the {8} directory covers app code, shared code and server routes.",
+  "text": "Der vollständig abgeleitete Typ ist nur im App-Code verfügbar (Komponenten, composables, plugins usw.). In Server-Routes, im Code im Verzeichnis {0} und in {1} werden in {2}-Dateien definierte Schlüssel stattdessen als {3} typisiert: Sie dort zu typisieren würde eine Typprüfung deines App-Codes außerhalb des App-Kontexts erfordern, in dem automatische Importe der App nicht verfügbar sind. Schlüssel, die inline in der Option {4} von {5} definiert sind, werden überall typisiert. Wenn du weitere Schlüssel außerhalb des App-Codes typisieren möchtest, kannst du das Interface {6} wie unten beschrieben erweitern. Der Speicherort der Augmentation-Datei bestimmt, in welchen Kontexten sie gilt: Eine {7}-Datei im Verzeichnis {8} deckt App-Code, gemeinsam genutzten Code und Server-Routes ab.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der vollständig abgeleitete Typ ist nur im App-Code verfügbar (Komponenten, composables, plugins usw.). In Server-Routes, im Code im Verzeichnis {0} und in {1} werden in {2}-Dateien definierte Schlüssel stattdessen als {3} typisiert: Sie dort zu typisieren würde eine Typprüfung deines App-Codes außerhalb des App-Kontexts erfordern, in dem automatische Importe der App nicht verfügbar sind. Schlüssel, die inline in der Option {4} von {5} definiert sind, werden überall typisiert. Wenn du weitere Schlüssel außerhalb des App-Codes typisieren möchtest, kannst du das Interface {6} wie unten beschrieben erweitern. Der Speicherort der Augmentation-Datei bestimmt, in welchen Kontexten sie gilt: Eine {7}-Datei im Verzeichnis {8} deckt App-Code, gemeinsam genutzten Code und Server-Routes ab."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

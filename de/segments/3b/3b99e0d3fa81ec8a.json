@@ -1,0 +1,14 @@
+{
+  "hash": "3b99e0d3fa81ec8a",
+  "source": "you can access the fully resolved vite configuration here",
+  "text": "hier kannst du auf die vollständig aufgelöste Vite-Konfiguration zugreifen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "hier kannst du auf die vollständig aufgelöste Vite-Konfiguration zugreifen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

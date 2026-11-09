@@ -1,0 +1,14 @@
+{
+  "hash": "665773a7283c2f8e",
+  "source": "Minimize payload size",
+  "text": "Payload-Größe minimieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Payload-Größe minimieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "4600acfa7dc2cdd6",
+  "source": "**description**: Screen reader announcement urgency level",
+  "text": "**description**: Dringlichkeitsstufe der Ankündigung für Screenreader",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**description**: Dringlichkeitsstufe der Ankündigung für Screenreader"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

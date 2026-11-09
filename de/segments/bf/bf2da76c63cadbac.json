@@ -1,0 +1,14 @@
+{
+  "hash": "bf2da76c63cadbac",
+  "source": "While working on a pull request, you will likely want to check if your changes are working correctly.",
+  "text": "Während du an einem Pull Request arbeitest, möchtest du wahrscheinlich prüfen, ob deine Änderungen korrekt funktionieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Während du an einem Pull Request arbeitest, möchtest du wahrscheinlich prüfen, ob deine Änderungen korrekt funktionieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "067a285c1bbe4539",
+  "source": "Learn how to migrate from Nuxt 2 to Nuxt 3 modules.",
+  "text": "Erfahre, wie du von Nuxt-2-Modulen zu Nuxt-3-Modulen migrierst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erfahre, wie du von Nuxt-2-Modulen zu Nuxt-3-Modulen migrierst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

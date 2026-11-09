@@ -1,0 +1,14 @@
+{
+  "hash": "9757d1e8a54ec77e",
+  "source": "\"How do I deploy to Vercel?\"",
+  "text": "„Wie stelle ich eine Anwendung auf Vercel bereit?“",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "„Wie stelle ich eine Anwendung auf Vercel bereit?“"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

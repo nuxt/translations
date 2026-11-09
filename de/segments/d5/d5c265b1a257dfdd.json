@@ -1,0 +1,14 @@
+{
+  "hash": "d5c265b1a257dfdd",
+  "source": "A session issued by the h3 helpers does not unseal with these, and the default cookie name is {0} rather than {1}. Everyone signed in before the upgrade gets a fresh, empty session once.",
+  "text": "Eine Session, die von den h3-Hilfsfunktionen ausgestellt wurde, lässt sich damit nicht entsiegeln, und der Standardname des Cookies lautet {0} statt {1}. Alle, die vor dem Upgrade angemeldet waren, erhalten einmalig eine neue, leere Session.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine Session, die von den h3-Hilfsfunktionen ausgestellt wurde, lässt sich damit nicht entsiegeln, und der Standardname des Cookies lautet {0} statt {1}. Alle, die vor dem Upgrade angemeldet waren, erhalten einmalig eine neue, leere Session."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

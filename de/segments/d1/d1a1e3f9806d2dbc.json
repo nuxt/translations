@@ -1,0 +1,14 @@
+{
+  "hash": "d1a1e3f9806d2dbc",
+  "source": "a package that exports {0}",
+  "text": "ein Paket, das {0} exportiert",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "ein Paket, das {0} exportiert"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

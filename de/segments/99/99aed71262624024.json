@@ -1,0 +1,14 @@
+{
+  "hash": "99aed71262624024",
+  "source": "Head over to {0} to learn more about the Content module features, such as how to build queries and use Vue components in your Markdown files with the MDC syntax.",
+  "text": "Auf {0} erfährst du mehr über die Funktionen des Content-Moduls, etwa wie du Abfragen erstellst und Vue-Komponenten in deinen Markdown-Dateien mit der MDC-Syntax verwendest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auf {0} erfährst du mehr über die Funktionen des Content-Moduls, etwa wie du Abfragen erstellst und Vue-Komponenten in deinen Markdown-Dateien mit der MDC-Syntax verwendest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

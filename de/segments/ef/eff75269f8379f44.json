@@ -1,0 +1,14 @@
+{
+  "hash": "eff75269f8379f44",
+  "source": "You don't have to immediately update your imports yet - Nuxt Bridge will automatically provide a 'shim' for most imports you currently have, to give you time to migrate to the new, Nuxt 3-compatible composables, with the following exceptions:",
+  "text": "Du musst deine Importe noch nicht sofort aktualisieren – Nuxt Bridge stellt für die meisten deiner aktuellen Importe automatisch einen „Shim“ bereit, damit du Zeit hast, auf die neuen, mit Nuxt 3 kompatiblen Composables umzusteigen. Davon ausgenommen sind:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du musst deine Importe noch nicht sofort aktualisieren – Nuxt Bridge stellt für die meisten deiner aktuellen Importe automatisch einen „Shim“ bereit, damit du Zeit hast, auf die neuen, mit Nuxt 3 kompatiblen Composables umzusteigen. Davon ausgenommen sind:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

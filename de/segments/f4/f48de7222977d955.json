@@ -1,0 +1,14 @@
+{
+  "hash": "f48de7222977d955",
+  "source": "**Generates @font-face rules** – Injects CSS rules to load fonts from the correct sources.",
+  "text": "**@font-face-Regeln erzeugen** – Fügt CSS-Regeln ein, die Schriften aus den richtigen Quellen laden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**@font-face-Regeln erzeugen** – Fügt CSS-Regeln ein, die Schriften aus den richtigen Quellen laden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

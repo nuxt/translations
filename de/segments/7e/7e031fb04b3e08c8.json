@@ -1,0 +1,14 @@
+{
+  "hash": "7e031fb04b3e08c8",
+  "source": "The function call must be statically analyzable. The compiler cannot inject keys for dynamic or indirect function calls.",
+  "text": "Der Funktionsaufruf muss statisch analysierbar sein. Der Compiler kann bei dynamischen oder indirekten Funktionsaufrufen keine Schlüssel einfügen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Funktionsaufruf muss statisch analysierbar sein. Der Compiler kann bei dynamischen oder indirekten Funktionsaufrufen keine Schlüssel einfügen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

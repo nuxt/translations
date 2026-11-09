@@ -1,0 +1,14 @@
+{
+  "hash": "10be93086519eb56",
+  "source": "Until the release, it is possible to test many of Nuxt 4's breaking changes from Nuxt version 3.12+.",
+  "text": "Bis zur Veröffentlichung kannst du viele der inkompatiblen Änderungen von Nuxt 4 bereits ab Nuxt-Version 3.12+ testen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bis zur Veröffentlichung kannst du viele der inkompatiblen Änderungen von Nuxt 4 bereits ab Nuxt-Version 3.12+ testen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

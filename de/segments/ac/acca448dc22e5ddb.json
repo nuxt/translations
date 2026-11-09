@@ -1,0 +1,14 @@
+{
+  "hash": "acca448dc22e5ddb",
+  "source": "{0}: Whether to launch a server to respond to requests in the test suite.",
+  "text": "{0}: Gibt an, ob ein Server gestartet werden soll, der Anfragen in der Test-Suite beantwortet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Gibt an, ob ein Server gestartet werden soll, der Anfragen in der Test-Suite beantwortet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

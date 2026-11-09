@@ -1,0 +1,14 @@
+{
+  "hash": "c54eb73020818289",
+  "source": "You can also use functions for {0}, {1}, and {2} in {3} to determine types dynamically based on the route:",
+  "text": "In {3} kannst du auch Funktionen für {0}, {1} und {2} verwenden, um Typen dynamisch anhand der Route zu bestimmen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In {3} kannst du auch Funktionen für {0}, {1} und {2} verwenden, um Typen dynamisch anhand der Route zu bestimmen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "c8d3a671a6fe42f8",
+  "source": "You can leverage Vue SFC features to style your components with class and style attributes.",
+  "text": "Mit den Funktionen von Vue SFC kannst du deine Komponenten über die Attribute class und style stylen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit den Funktionen von Vue SFC kannst du deine Komponenten über die Attribute class und style stylen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

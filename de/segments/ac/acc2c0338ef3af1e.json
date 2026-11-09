@@ -1,0 +1,14 @@
+{
+  "hash": "acc2c0338ef3af1e",
+  "source": "Renders given template during build into the virtual file system, and optionally to disk in the project {0}",
+  "text": "Rendert die angegebene Vorlage während des Builds in das virtuelle Dateisystem und optional auf die Festplatte im Projektverzeichnis {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Rendert die angegebene Vorlage während des Builds in das virtuelle Dateisystem und optional auf die Festplatte im Projektverzeichnis {0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "43fe16f8f65d70eb",
+  "source": "Called once, and awaited, after configuration has loaded successfully. Not called if loading throws.",
+  "text": "Wird einmal aufgerufen und abgewartet, nachdem die Konfiguration erfolgreich geladen wurde. Wird nicht aufgerufen, wenn beim Laden ein Fehler auftritt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird einmal aufgerufen und abgewartet, nachdem die Konfiguration erfolgreich geladen wurde. Wird nicht aufgerufen, wenn beim Laden ein Fehler auftritt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

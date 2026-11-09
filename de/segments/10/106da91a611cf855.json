@@ -1,0 +1,14 @@
+{
+  "hash": "106da91a611cf855",
+  "source": "Matching environment variables are applied and converted in the same way as at runtime. Schemas declared in {0} are replaced by their default values.",
+  "text": "Passende Umgebungsvariablen werden genauso angewendet und umgewandelt wie zur Laufzeit. In {0} deklarierte Schemas werden durch ihre Standardwerte ersetzt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Passende Umgebungsvariablen werden genauso angewendet und umgewandelt wie zur Laufzeit. In {0} deklarierte Schemas werden durch ihre Standardwerte ersetzt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

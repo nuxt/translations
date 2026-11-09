@@ -1,0 +1,14 @@
+{
+  "hash": "8a9e73db324b044b",
+  "source": "Browse the log history",
+  "text": "Protokollverlauf durchsuchen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Protokollverlauf durchsuchen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

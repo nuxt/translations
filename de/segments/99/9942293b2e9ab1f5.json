@@ -1,0 +1,14 @@
+{
+  "hash": "9942293b2e9ab1f5",
+  "source": "You can learn more about the module and customizations in {0}Nuxt ESLint's documentation{/0}.",
+  "text": "Mehr über das Modul und mögliche Anpassungen erfährst du in der {0}Dokumentation von Nuxt ESLint{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mehr über das Modul und mögliche Anpassungen erfährst du in der {0}Dokumentation von Nuxt ESLint{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

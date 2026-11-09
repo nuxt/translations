@@ -1,0 +1,14 @@
+{
+  "hash": "222526be47ca84af",
+  "source": "Send a Pull Request",
+  "text": "Einen Pull Request senden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Einen Pull Request senden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

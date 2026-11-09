@@ -1,0 +1,14 @@
+{
+  "hash": "bcac3bf1bd484025",
+  "source": "For a long time, TypeScript has had support for decorators via {0}. This implementation predated the TC39 standardization process. Now, decorators are a {1}Stage 3 Proposal{/1}, and supported without special configuration in TS 5.0+ (see {2} and {3}).",
+  "text": "TypeScript unterstützt Decorators seit langer Zeit über {0}. Diese Implementierung entstand vor dem TC39-Standardisierungsprozess. Inzwischen sind Decorators ein {1}Stage-3-Proposal{/1} und werden ab TS 5.0 ohne besondere Konfiguration unterstützt (siehe {2} und {3}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "TypeScript unterstützt Decorators seit langer Zeit über {0}. Diese Implementierung entstand vor dem TC39-Standardisierungsprozess. Inzwischen sind Decorators ein {1}Stage-3-Proposal{/1} und werden ab TS 5.0 ohne besondere Konfiguration unterstützt (siehe {2} und {3})."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e466b4994ed29ddd",
+  "source": "To overcome this limitation, Vue does some behind the scenes work when compiling our application code and restores context after each call for {0}:",
+  "text": "Um diese Einschränkung zu umgehen, leistet Vue beim Kompilieren unseres Anwendungscodes Arbeit im Hintergrund und stellt den Kontext nach jedem Aufruf von {0} wieder her:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um diese Einschränkung zu umgehen, leistet Vue beim Kompilieren unseres Anwendungscodes Arbeit im Hintergrund und stellt den Kontext nach jedem Aufruf von {0} wieder her:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

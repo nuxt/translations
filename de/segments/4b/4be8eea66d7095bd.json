@@ -1,0 +1,14 @@
+{
+  "hash": "4be8eea66d7095bd",
+  "source": "When using the Vite builder or the Nitro server build, you will need to install additional Babel packages as dev dependencies:",
+  "text": "Wenn du den Vite-Builder oder den Nitro-Server-Build verwendest, musst du zusätzliche Babel-Pakete als Entwicklungsabhängigkeiten installieren:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du den Vite-Builder oder den Nitro-Server-Build verwendest, musst du zusätzliche Babel-Pakete als Entwicklungsabhängigkeiten installieren:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

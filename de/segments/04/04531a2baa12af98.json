@@ -1,0 +1,14 @@
+{
+  "hash": "04531a2baa12af98",
+  "source": "Where to redirect if the route is directly matched. The redirection happens before any navigation guard and triggers a new navigation with the new target location.",
+  "text": "Wohin weitergeleitet wird, wenn die Route direkt übereinstimmt. Die Weiterleitung erfolgt vor allen Navigation Guards und löst eine neue Navigation zum neuen Ziel aus.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wohin weitergeleitet wird, wenn die Route direkt übereinstimmt. Die Weiterleitung erfolgt vor allen Navigation Guards und löst eine neue Navigation zum neuen Ziel aus."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

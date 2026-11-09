@@ -1,0 +1,14 @@
+{
+  "hash": "9813545db908dba1",
+  "source": "When rendering an island component, the content of the island component is static, thus no JS is downloaded client-side.",
+  "text": "Beim Rendern einer Island-Komponente ist deren Inhalt statisch, daher wird clientseitig kein JS heruntergeladen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Beim Rendern einer Island-Komponente ist deren Inhalt statisch, daher wird clientseitig kein JS heruntergeladen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

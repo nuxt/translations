@@ -1,0 +1,14 @@
+{
+  "hash": "698567a0d9b0d7b0",
+  "source": "Fonts installed from npm",
+  "text": "Über npm installierte Fonts",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Über npm installierte Fonts"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

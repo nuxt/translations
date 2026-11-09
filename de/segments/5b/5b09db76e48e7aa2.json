@@ -1,0 +1,14 @@
+{
+  "hash": "5b09db76e48e7aa2",
+  "source": "Here are some common patterns used by module authors.",
+  "text": "Hier sind einige gängige Muster, die Modulautorinnen und Modulautoren verwenden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Hier sind einige gängige Muster, die Modulautorinnen und Modulautoren verwenden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "5ea93afd3b4f48c8",
+  "source": "@nuxt/kit provides features for module authors.",
+  "text": "@nuxt/kit bietet Funktionen für Modulautorinnen und Modulautoren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "@nuxt/kit bietet Funktionen für Modulautorinnen und Modulautoren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

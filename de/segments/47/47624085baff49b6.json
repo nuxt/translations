@@ -1,0 +1,14 @@
+{
+  "hash": "47624085baff49b6",
+  "source": "If you have another IDE and would like to contribute sample configuration, feel free to {0}open a PR{/0}!",
+  "text": "Wenn du eine andere IDE verwendest und eine Beispielkonfiguration beisteuern möchtest, {0}öffne gern einen PR{/0}!",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du eine andere IDE verwendest und eine Beispielkonfiguration beisteuern möchtest, {0}öffne gern einen PR{/0}!"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

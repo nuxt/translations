@@ -1,0 +1,14 @@
+{
+  "hash": "f3200285c83e4de2",
+  "source": "a font named only at runtime, such as a family a user chooses and you apply through a CSS variable",
+  "text": "eine Schriftart, die erst zur Laufzeit genannt wird, etwa eine Schriftfamilie, die Nutzende auswählen und die du über eine CSS-Variable anwendest",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "eine Schriftart, die erst zur Laufzeit genannt wird, etwa eine Schriftfamilie, die Nutzende auswählen und die du über eine CSS-Variable anwendest"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

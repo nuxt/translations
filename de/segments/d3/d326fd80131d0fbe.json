@@ -1,0 +1,14 @@
+{
+  "hash": "d326fd80131d0fbe",
+  "source": "For advanced use-cases, you can declare the type of injected properties like this:",
+  "text": "Für fortgeschrittene Anwendungsfälle kannst du den Typ der injizierten Eigenschaften wie folgt deklarieren:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Für fortgeschrittene Anwendungsfälle kannst du den Typ der injizierten Eigenschaften wie folgt deklarieren:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

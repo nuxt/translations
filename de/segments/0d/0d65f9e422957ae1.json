@@ -1,0 +1,14 @@
+{
+  "hash": "0d65f9e422957ae1",
+  "source": "Shortcut for {0}. Registers multiple hooks at once.",
+  "text": "Kurzform für {0}. Registriert mehrere Hooks auf einmal.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Kurzform für {0}. Registriert mehrere Hooks auf einmal."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

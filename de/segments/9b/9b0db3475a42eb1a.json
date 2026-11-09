@@ -1,0 +1,14 @@
+{
+  "hash": "9b0db3475a42eb1a",
+  "source": "{0}, {1}, {2} and {3} are now part of {4}, and are what the auto-imported names resolve to. They seal the session with {5} on web-standard {6} and {7}, so they run under any {8} rather than only under Nitro.",
+  "text": "{0}, {1}, {2} und {3} sind jetzt Teil von {4} und sind das, worauf die automatisch importierten Namen verweisen. Sie versiegeln die Sitzung mit {5} auf Basis der Web-Standards {6} und {7}, sodass sie unter jedem {8} laufen und nicht nur unter Nitro.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}, {1}, {2} und {3} sind jetzt Teil von {4} und sind das, worauf die automatisch importierten Namen verweisen. Sie versiegeln die Sitzung mit {5} auf Basis der Web-Standards {6} und {7}, sodass sie unter jedem {8} laufen und nicht nur unter Nitro."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

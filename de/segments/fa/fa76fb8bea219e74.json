@@ -1,0 +1,14 @@
+{
+  "hash": "fa76fb8bea219e74",
+  "source": "Then replace the module in your {0}, and move your options from {1} to {2}:",
+  "text": "Ersetze anschließend das Modul in deiner {0} und verschiebe deine Optionen von {1} nach {2}:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ersetze anschließend das Modul in deiner {0} und verschiebe deine Optionen von {1} nach {2}:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

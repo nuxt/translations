@@ -1,0 +1,14 @@
+{
+  "hash": "a61cf5bab0626d69",
+  "source": "Upgrade Guide",
+  "text": "Upgrade-Anleitung",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Upgrade-Anleitung"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

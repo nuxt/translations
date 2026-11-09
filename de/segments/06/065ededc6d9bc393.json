@@ -1,0 +1,14 @@
+{
+  "hash": "065ededc6d9bc393",
+  "source": "You can now deploy the {0} directory to any static hosting service or preview it locally with {1}.",
+  "text": "Du kannst nun das Verzeichnis {0} bei einem beliebigen Hosting-Dienst für statische Inhalte bereitstellen oder es lokal mit {1} in der Vorschau ansehen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst nun das Verzeichnis {0} bei einem beliebigen Hosting-Dienst für statische Inhalte bereitstellen oder es lokal mit {1} in der Vorschau ansehen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

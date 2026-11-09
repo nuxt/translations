@@ -1,0 +1,14 @@
+{
+  "hash": "c5359fed2cbace01",
+  "source": "Please make sure not to commit it to your branch, but it could be helpful to add some example code to your PR description. This can help reviewers and other Nuxt users understand the feature you've built in-depth.",
+  "text": "Bitte committe sie nicht in deinen Branch. Es kann aber hilfreich sein, der Beschreibung deines PR etwas Beispielcode hinzuzufügen. So können Reviewende und andere Nutzende von Nuxt die von dir entwickelte Funktion besser nachvollziehen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bitte committe sie nicht in deinen Branch. Es kann aber hilfreich sein, der Beschreibung deines PR etwas Beispielcode hinzuzufügen. So können Reviewende und andere Nutzende von Nuxt die von dir entwickelte Funktion besser nachvollziehen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

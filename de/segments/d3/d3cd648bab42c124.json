@@ -1,0 +1,14 @@
+{
+  "hash": "d3cd648bab42c124",
+  "source": "The <Comment> component will only be rendered on client-side",
+  "text": "Die Komponente <Comment> wird nur auf der Client-Seite gerendert",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Komponente <Comment> wird nur auf der Client-Seite gerendert"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

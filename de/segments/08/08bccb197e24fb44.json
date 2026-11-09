@@ -1,0 +1,14 @@
+{
+  "hash": "08bccb197e24fb44",
+  "source": "Most apps never need a custom builder of either kind. If you only want to influence the bundle, a module that registers bundler plugins is usually the right tool.",
+  "text": "Die meisten Apps brauchen keinen eigenen Builder – weder für die eine noch für die andere Art. Wenn du lediglich das Bundle beeinflussen möchtest, ist in der Regel ein Modul, das Bundler-Plugins registriert, das richtige Werkzeug.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die meisten Apps brauchen keinen eigenen Builder – weder für die eine noch für die andere Art. Wenn du lediglich das Bundle beeinflussen möchtest, ist in der Regel ein Modul, das Bundler-Plugins registriert, das richtige Werkzeug."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

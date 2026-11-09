@@ -1,0 +1,14 @@
+{
+  "hash": "81d550116b0b6c74",
+  "source": "Enable transpiling TypeScript with esbuild",
+  "text": "Transpilierung von TypeScript mit esbuild aktivieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Transpilierung von TypeScript mit esbuild aktivieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

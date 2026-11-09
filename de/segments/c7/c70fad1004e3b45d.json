@@ -1,0 +1,14 @@
+{
+  "hash": "c70fad1004e3b45d",
+  "source": "For a better description of what Vue actually does, see {0}unjs/unctx#2 (comment){/0}.",
+  "text": "Eine genauere Beschreibung dessen, was Vue tatsächlich tut, findest du unter {0}unjs/unctx#2 (comment){/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine genauere Beschreibung dessen, was Vue tatsächlich tut, findest du unter {0}unjs/unctx#2 (comment){/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

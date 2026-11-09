@@ -1,0 +1,14 @@
+{
+  "hash": "e26e6cd2d004dd1b",
+  "source": "In order to make Nuxt loading behavior more predictable, async config syntax is deprecated. Consider using Nuxt hooks for async operations.",
+  "text": "Damit das Ladeverhalten von Nuxt besser vorhersagbar ist, wird die asynchrone Konfigurationssyntax nicht mehr empfohlen. Verwende für asynchrone Operationen stattdessen Nuxt-hooks.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Damit das Ladeverhalten von Nuxt besser vorhersagbar ist, wird die asynchrone Konfigurationssyntax nicht mehr empfohlen. Verwende für asynchrone Operationen stattdessen Nuxt-hooks."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

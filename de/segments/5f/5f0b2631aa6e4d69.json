@@ -1,0 +1,14 @@
+{
+  "hash": "5f0b2631aa6e4d69",
+  "source": "- Create initial configuration files",
+  "text": "- Erste Konfigurationsdateien erstellen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "- Erste Konfigurationsdateien erstellen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

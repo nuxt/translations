@@ -1,0 +1,14 @@
+{
+  "hash": "db7b528320294594",
+  "source": "The shared directory for code used by both client and server",
+  "text": "Das gemeinsame Verzeichnis für Code, der sowohl vom Client als auch vom Server verwendet wird",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das gemeinsame Verzeichnis für Code, der sowohl vom Client als auch vom Server verwendet wird"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

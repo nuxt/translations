@@ -1,0 +1,14 @@
+{
+  "hash": "73cc20682d0f6850",
+  "source": "Consuming SSE (Server-Sent Events) via POST request",
+  "text": "SSE (Server-Sent Events) per POST-Anfrage nutzen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "SSE (Server-Sent Events) per POST-Anfrage nutzen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

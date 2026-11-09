@@ -1,0 +1,14 @@
+{
+  "hash": "9baf30f08b2297a7",
+  "source": "Homepage pre-rendered at build time",
+  "text": "Startseite wird zur Build-Zeit vorab gerendert",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Startseite wird zur Build-Zeit vorab gerendert"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "cac88a50331b0007",
+  "source": "Run the handler before route handlers. Return nothing to pass the request to the next handler. On a {0} v2 host, every dev handler runs as middleware.",
+  "text": "Führt den Handler vor den Route-Handlern aus. Gib nichts zurück, um die Anfrage an den nächsten Handler weiterzureichen. Bei einem {0}-v2-Host läuft jeder Dev-Handler als Middleware.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Führt den Handler vor den Route-Handlern aus. Gib nichts zurück, um die Anfrage an den nächsten Handler weiterzureichen. Bei einem {0}-v2-Host läuft jeder Dev-Handler als Middleware."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b7bb824c79040629",
+  "source": "Nitro source directory ({0} by default)",
+  "text": "Nitro-Quellverzeichnis (standardmäßig {0})",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nitro-Quellverzeichnis (standardmäßig {0})"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b63ab89d0bfe68e8",
+  "source": "Do not generate any routes (except the defaults)",
+  "text": "Keine Routen generieren (außer den Standardrouten)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Keine Routen generieren (außer den Standardrouten)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

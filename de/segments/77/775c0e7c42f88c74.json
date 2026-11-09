@@ -1,0 +1,14 @@
+{
+  "hash": "775c0e7c42f88c74",
+  "source": "It supports multiple providers that are designed to be pluggable and extensible, so no matter your setup you should be able to use an existing provider or write your own.",
+  "text": "Es unterstützt mehrere Provider, die erweiterbar und austauschbar konzipiert sind. Egal wie dein Setup aussieht, du kannst also einen vorhandenen Provider verwenden oder einen eigenen schreiben.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Es unterstützt mehrere Provider, die erweiterbar und austauschbar konzipiert sind. Egal wie dein Setup aussieht, du kannst also einen vorhandenen Provider verwenden oder einen eigenen schreiben."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

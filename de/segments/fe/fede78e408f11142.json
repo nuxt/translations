@@ -1,0 +1,14 @@
+{
+  "hash": "fede78e408f11142",
+  "source": "In Nuxt, there are three types of middleware:",
+  "text": "In Nuxt gibt es drei Arten von Middleware:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In Nuxt gibt es drei Arten von Middleware:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

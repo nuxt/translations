@@ -1,0 +1,14 @@
+{
+  "hash": "48130bd0a1bde8f9",
+  "source": "Request body and params are automatically handled, with correct {0} headers",
+  "text": "Body und Parameter der Anfrage werden automatisch verarbeitet, mit den korrekten {0}-Headern",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Body und Parameter der Anfrage werden automatisch verarbeitet, mit den korrekten {0}-Headern"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

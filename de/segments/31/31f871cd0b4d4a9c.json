@@ -1,0 +1,14 @@
+{
+  "hash": "31f871cd0b4d4a9c",
+  "source": "With no {0}, the session is sealed with a secret derived from the application's {1}, so {2} is the only thing to set. Pass a {3} of at least 32 characters to seal with a secret of your own instead. Set {4} (in seconds) to expire both the cookie and the sealed value, {5} to change the cookie name from {6}, and {7} to override any cookie attribute.",
+  "text": "Ohne {0} wird die Sitzung mit einem Secret versiegelt, das aus dem {1} der Anwendung abgeleitet wird. Daher musst du nur {2} setzen. Übergib ein {3} mit mindestens 32 Zeichen, um stattdessen mit einem eigenen Secret zu versiegeln. Mit {4} (in Sekunden) lässt du sowohl das Cookie als auch den versiegelten Wert ablaufen, mit {5} änderst du den Cookie-Namen von {6}, und mit {7} überschreibst du beliebige Cookie-Attribute.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ohne {0} wird die Sitzung mit einem Secret versiegelt, das aus dem {1} der Anwendung abgeleitet wird. Daher musst du nur {2} setzen. Übergib ein {3} mit mindestens 32 Zeichen, um stattdessen mit einem eigenen Secret zu versiegeln. Mit {4} (in Sekunden) lässt du sowohl das Cookie als auch den versiegelten Wert ablaufen, mit {5} änderst du den Cookie-Namen von {6}, und mit {7} überschreibst du beliebige Cookie-Attribute."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

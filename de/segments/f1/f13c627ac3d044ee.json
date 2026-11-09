@@ -1,0 +1,14 @@
+{
+  "hash": "f13c627ac3d044ee",
+  "source": "The directory usually contains the following types of files:",
+  "text": "Das Verzeichnis enthält üblicherweise die folgenden Dateitypen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Verzeichnis enthält üblicherweise die folgenden Dateitypen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

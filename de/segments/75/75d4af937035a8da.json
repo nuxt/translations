@@ -1,0 +1,14 @@
+{
+  "hash": "75d4af937035a8da",
+  "source": "If you create a composable without having the dev server running, TypeScript will throw an error, such as {0}",
+  "text": "Wenn du ein Composable erstellst, ohne dass der Entwicklungsserver läuft, gibt TypeScript einen Fehler aus, zum Beispiel {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du ein Composable erstellst, ohne dass der Entwicklungsserver läuft, gibt TypeScript einen Fehler aus, zum Beispiel {0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

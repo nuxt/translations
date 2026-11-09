@@ -1,0 +1,14 @@
+{
+  "hash": "f5df4295124b7b8a",
+  "source": "A dev handler's route doesn't match the same paths on every host. On a {0} v2 host, every variant matches its route as a path prefix, as Nitro v2 does, so {1} also matches {2}. On Nitro v3, the {3} and {4} variants match the route exactly.",
+  "text": "Die Route eines Dev-Handlers passt nicht auf jedem Host auf dieselben Pfade. Auf einem {0}-v2-Host passt jede Variante wie in Nitro v2 als Pfadpräfix auf ihre Route, sodass {1} auch auf {2} passt. In Nitro v3 passen die Varianten {3} und {4} exakt auf die Route.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Route eines Dev-Handlers passt nicht auf jedem Host auf dieselben Pfade. Auf einem {0}-v2-Host passt jede Variante wie in Nitro v2 als Pfadpräfix auf ihre Route, sodass {1} auch auf {2} passt. In Nitro v3 passen die Varianten {3} und {4} exakt auf die Route."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

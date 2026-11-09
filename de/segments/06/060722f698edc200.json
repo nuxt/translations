@@ -1,0 +1,14 @@
+{
+  "hash": "060722f698edc200",
+  "source": "If you dismiss the prompt or want to manually trigger it:",
+  "text": "Wenn du den Hinweis geschlossen hast oder ihn manuell auslösen möchtest:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du den Hinweis geschlossen hast oder ihn manuell auslösen möchtest:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

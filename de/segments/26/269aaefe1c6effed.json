@@ -1,0 +1,14 @@
+{
+  "hash": "269aaefe1c6effed",
+  "source": "We can set the environment variables inside the {0} file to make them accessible during **development** and **build/generate**.",
+  "text": "Du kannst die Umgebungsvariablen in der Datei {0} festlegen, damit sie während der **Entwicklung** und beim **Build bzw. bei der Generierung** verfügbar sind.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst die Umgebungsvariablen in der Datei {0} festlegen, damit sie während der **Entwicklung** und beim **Build bzw. bei der Generierung** verfügbar sind."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

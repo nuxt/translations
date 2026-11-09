@@ -1,0 +1,14 @@
+{
+  "hash": "40dafa9b777ae907",
+  "source": "Plugins now take only one argument ({0}). You can find out more in {1}the docs{/1}.",
+  "text": "Plugins akzeptieren jetzt nur noch ein Argument ({0}). Mehr dazu findest du in {1}der Dokumentation{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Plugins akzeptieren jetzt nur noch ein Argument ({0}). Mehr dazu findest du in {1}der Dokumentation{/1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "95411619804cdb9e",
+  "source": "The {0}BCP 47 language tag{/0} for formatting (e.g., 'en-US', 'fr-FR', 'ja-JP'):",
+  "text": "Der {0}BCP-47-Sprachtag{/0} für die Formatierung (z. B. 'en-US', 'fr-FR', 'ja-JP'):",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der {0}BCP-47-Sprachtag{/0} für die Formatierung (z. B. 'en-US', 'fr-FR', 'ja-JP'):"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

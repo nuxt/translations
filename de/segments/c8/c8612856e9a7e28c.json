@@ -1,0 +1,14 @@
+{
+  "hash": "c8612856e9a7e28c",
+  "source": "{0} - Extend the default server endpoints & middleware",
+  "text": "{0} – Erweitert die Standard-Server-Endpunkte und -Middleware",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} – Erweitert die Standard-Server-Endpunkte und -Middleware"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

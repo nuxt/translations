@@ -1,0 +1,14 @@
+{
+  "hash": "40d0e274f9822789",
+  "source": "Server routes are also type-checked using {0} in addition to {1}.",
+  "text": "Server-Routen werden zusätzlich zu {1} auch mit {0} typgeprüft.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Server-Routen werden zusätzlich zu {1} auch mit {0} typgeprüft."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

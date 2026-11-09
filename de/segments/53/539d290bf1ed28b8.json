@@ -1,0 +1,14 @@
+{
+  "hash": "539d290bf1ed28b8",
+  "source": "These can be configured in the {0} section of your {1} file:",
+  "text": "Diese lassen sich im Abschnitt {0} deiner Datei {1} konfigurieren:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese lassen sich im Abschnitt {0} deiner Datei {1} konfigurieren:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

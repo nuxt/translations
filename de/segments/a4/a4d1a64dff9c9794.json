@@ -1,0 +1,14 @@
+{
+  "hash": "a4d1a64dff9c9794",
+  "source": "Auto-imports are not enabled by default in Nuxt v3 to prevent breaking changes in existing projects.",
+  "text": "Automatische Importe sind in Nuxt v3 standardmäßig nicht aktiviert, um inkompatible Änderungen in bestehenden Projekten zu vermeiden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Automatische Importe sind in Nuxt v3 standardmäßig nicht aktiviert, um inkompatible Änderungen in bestehenden Projekten zu vermeiden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

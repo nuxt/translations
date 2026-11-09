@@ -1,0 +1,14 @@
+{
+  "hash": "e9f25bbdc63c80d6",
+  "source": "This will forward the user's headers to the {0} event handler",
+  "text": "Dadurch werden die Header der Nutzenden an den Event-Handler {0} weitergeleitet",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dadurch werden die Header der Nutzenden an den Event-Handler {0} weitergeleitet"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

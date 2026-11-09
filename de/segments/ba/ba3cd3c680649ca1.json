@@ -1,0 +1,14 @@
+{
+  "hash": "ba3cd3c680649ca1",
+  "source": "Errors during the Vue rendering lifecycle (SSR & CSR)",
+  "text": "Fehler während des Vue-Rendering-Lifecycles (SSR & CSR)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fehler während des Vue-Rendering-Lifecycles (SSR & CSR)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "3eb7dbbb4a99925d",
+  "source": "Since {0} throws an exception if context is currently unavailable, if your composable does not always require {1}, you can use {2} instead, which will return {3} instead of throwing an exception.",
+  "text": "Da {0} eine Exception auslöst, wenn der Kontext gerade nicht verfügbar ist, kannst du stattdessen {2} verwenden, falls dein Composable {1} nicht immer benötigt. Es gibt dann {3} zurück, anstatt eine Exception auszulösen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Da {0} eine Exception auslöst, wenn der Kontext gerade nicht verfügbar ist, kannst du stattdessen {2} verwenden, falls dein Composable {1} nicht immer benötigt. Es gibt dann {3} zurück, anstatt eine Exception auszulösen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

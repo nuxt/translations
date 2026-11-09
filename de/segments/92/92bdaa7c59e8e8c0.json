@@ -1,0 +1,14 @@
+{
+  "hash": "92bdaa7c59e8e8c0",
+  "source": "Passing Headers and Cookies",
+  "text": "Header und Cookies weitergeben",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Header und Cookies weitergeben"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e9ca04f6f8eac35e",
+  "source": "If you use {0} without {1}, you will need to add {2} as a hoist pattern in your {3} in order for this feature to work.",
+  "text": "Wenn du {0} ohne {1} verwendest, musst du {2} als Hoist-Muster in deiner {3} hinzufügen, damit diese Funktion funktioniert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du {0} ohne {1} verwendest, musst du {2} als Hoist-Muster in deiner {3} hinzufügen, damit diese Funktion funktioniert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

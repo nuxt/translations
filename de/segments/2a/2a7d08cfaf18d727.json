@@ -1,0 +1,14 @@
+{
+  "hash": "2a7d08cfaf18d727",
+  "source": "The example below shows how you can use cached data as a placeholder while the most recent data is being fetched from the server.",
+  "text": "Das folgende Beispiel zeigt, wie du zwischengespeicherte Daten als Platzhalter verwenden kannst, während die neuesten Daten vom Server abgerufen werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das folgende Beispiel zeigt, wie du zwischengespeicherte Daten als Platzhalter verwenden kannst, während die neuesten Daten vom Server abgerufen werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

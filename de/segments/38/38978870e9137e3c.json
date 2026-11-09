@@ -1,0 +1,14 @@
+{
+  "hash": "38978870e9137e3c",
+  "source": "Scanning additional local font directories",
+  "text": "Zusätzliche lokale Schriftverzeichnisse durchsuchen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Zusätzliche lokale Schriftverzeichnisse durchsuchen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

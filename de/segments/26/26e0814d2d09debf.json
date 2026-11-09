@@ -1,0 +1,14 @@
+{
+  "hash": "26e0814d2d09debf",
+  "source": "{0}: The amount of time (in milliseconds) to allow for {1} to complete its work (which could include building or generating files for a Nuxt application, depending on the options that are passed).",
+  "text": "{0}: Die Zeitspanne (in Millisekunden), die {1} für seine Arbeit zur Verfügung steht (je nach übergebenen Optionen kann dazu gehören, Dateien für eine Nuxt-Anwendung zu erzeugen).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Die Zeitspanne (in Millisekunden), die {1} für seine Arbeit zur Verfügung steht (je nach übergebenen Optionen kann dazu gehören, Dateien für eine Nuxt-Anwendung zu erzeugen)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

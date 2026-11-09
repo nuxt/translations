@@ -1,0 +1,14 @@
+{
+  "hash": "a48970b7705aa6b1",
+  "source": "Access public variables",
+  "text": "Auf öffentliche Variablen zugreifen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auf öffentliche Variablen zugreifen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

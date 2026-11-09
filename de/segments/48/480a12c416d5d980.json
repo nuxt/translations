@@ -1,0 +1,14 @@
+{
+  "hash": "480a12c416d5d980",
+  "source": "From Nuxt 4.6, server code can import its handler and helpers from {0} rather than from h3, so the same file runs on Nuxt 4 ({1} v2 and h3 v1) and on {2}Nuxt 5{/2} (Nitro v3 and h3 v2).",
+  "text": "Ab Nuxt 4.6 kann Servercode seinen Handler und seine Hilfsfunktionen aus {0} statt aus h3 importieren, sodass dieselbe Datei in Nuxt 4 ({1} v2 und h3 v1) und in {2}Nuxt 5{/2} (Nitro v3 und h3 v2) läuft.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ab Nuxt 4.6 kann Servercode seinen Handler und seine Hilfsfunktionen aus {0} statt aus h3 importieren, sodass dieselbe Datei in Nuxt 4 ({1} v2 und h3 v1) und in {2}Nuxt 5{/2} (Nitro v3 und h3 v2) läuft."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

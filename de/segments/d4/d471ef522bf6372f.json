@@ -1,0 +1,14 @@
+{
+  "hash": "d471ef522bf6372f",
+  "source": "If your module exposes utilities that take the event (through an alias, {0} or a type template), type the parameter as {1} from {2}, or as the part it reads, such as {3}. A parameter typed as {4} only accepts the event of one h3 major, so the utility can't be called from a {5} handler.",
+  "text": "Wenn dein Modul Hilfsfunktionen bereitstellt, die das Event entgegennehmen (über einen Alias, {0} oder eine Typvorlage), typisiere den Parameter als {1} aus {2} oder als den Teil, den er liest, etwa {3}. Ein Parameter vom Typ {4} akzeptiert nur das Event einer h3-Hauptversion, daher kann die Hilfsfunktion nicht aus einem {5}-Handler aufgerufen werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn dein Modul Hilfsfunktionen bereitstellt, die das Event entgegennehmen (über einen Alias, {0} oder eine Typvorlage), typisiere den Parameter als {1} aus {2} oder als den Teil, den er liest, etwa {3}. Ein Parameter vom Typ {4} akzeptiert nur das Event einer h3-Hauptversion, daher kann die Hilfsfunktion nicht aus einem {5}-Handler aufgerufen werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

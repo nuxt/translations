@@ -1,0 +1,14 @@
+{
+  "hash": "87985f167a6da1b0",
+  "source": "Make sure to always {0} on {1} or chain its result by returning from functions.",
+  "text": "Verwende immer {0} für {1} oder verkette das Ergebnis, indem du es aus Funktionen zurückgibst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwende immer {0} für {1} oder verkette das Ergebnis, indem du es aus Funktionen zurückgibst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "154bba2991d5115c",
+  "source": "Dev server listening host",
+  "text": "Host, auf dem der Entwicklungsserver lauscht",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Host, auf dem der Entwicklungsserver lauscht"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

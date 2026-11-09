@@ -1,0 +1,14 @@
+{
+  "hash": "852b81823909744e",
+  "source": "**Use SSR-friendly composables**: {0}, {1}, {2}",
+  "text": "**Verwende SSR-freundliche Composables**: {0}, {1}, {2}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Verwende SSR-freundliche Composables**: {0}, {1}, {2}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

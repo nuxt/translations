@@ -1,0 +1,14 @@
+{
+  "hash": "0ee55557347c4789",
+  "source": "will not override any configuration set in {0}.",
+  "text": "überschreibt aber keine Konfiguration, die in {0} gesetzt wurde.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "überschreibt aber keine Konfiguration, die in {0} gesetzt wurde."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

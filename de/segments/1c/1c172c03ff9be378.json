@@ -1,0 +1,14 @@
+{
+  "hash": "1c172c03ff9be378",
+  "source": "Thanks to its opinionated directory structure, Nuxt can auto-import your {0}, {1} and {2}.",
+  "text": "Dank der vorgegebenen Verzeichnisstruktur kann Nuxt deine {0}, {1} und {2} automatisch importieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dank der vorgegebenen Verzeichnisstruktur kann Nuxt deine {0}, {1} und {2} automatisch importieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "738619a46a4720c4",
+  "source": "Custom Prefetch Triggers",
+  "text": "Benutzerdefinierte Prefetch-Trigger",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Benutzerdefinierte Prefetch-Trigger"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

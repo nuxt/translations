@@ -1,0 +1,14 @@
+{
+  "hash": "2d5f56f5cdb2bc3d",
+  "source": "Use the test/ directory to organize unit, Nuxt, and end-to-end tests for your application.",
+  "text": "Nutze das Verzeichnis test/, um Unit-Tests, Nuxt-Tests und End-to-End-Tests für deine Anwendung zu organisieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nutze das Verzeichnis test/, um Unit-Tests, Nuxt-Tests und End-to-End-Tests für deine Anwendung zu organisieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

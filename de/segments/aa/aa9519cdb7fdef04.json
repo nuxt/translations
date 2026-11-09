@@ -1,0 +1,14 @@
+{
+  "hash": "aa9519cdb7fdef04",
+  "source": "Specifies the content area's height (minimum 100 pixels), including scrollbars.",
+  "text": "Legt die Höhe des Inhaltsbereichs einschließlich Scrollleisten fest (mindestens 100 Pixel).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Legt die Höhe des Inhaltsbereichs einschließlich Scrollleisten fest (mindestens 100 Pixel)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

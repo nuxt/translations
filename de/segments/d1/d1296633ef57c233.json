@@ -1,0 +1,14 @@
+{
+  "hash": "d1296633ef57c233",
+  "source": "Shallow Data Reactivity in {0} and {1}",
+  "text": "Flache Reaktivität der Daten in {0} und {1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Flache Reaktivität der Daten in {0} und {1}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

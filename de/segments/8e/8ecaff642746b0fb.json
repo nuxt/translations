@@ -1,0 +1,14 @@
+{
+  "hash": "8ecaff642746b0fb",
+  "source": "Lifecycle hook called when the module is upgraded to a newer version. Requires {0} and {1} to be defined.",
+  "text": "Lifecycle-Hook, der aufgerufen wird, wenn für das Modul ein Upgrade auf eine neuere Version durchgeführt wird. Erfordert, dass {0} und {1} definiert sind.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lifecycle-Hook, der aufgerufen wird, wenn für das Modul ein Upgrade auf eine neuere Version durchgeführt wird. Erfordert, dass {0} und {1} definiert sind."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

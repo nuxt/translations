@@ -1,0 +1,14 @@
+{
+  "hash": "00612589df4dfc7b",
+  "source": "Nuxt routing is based on {0}vue-router{/0} and generates the routes from every component created in the {1}{2} directory{/1}, based on their filename.",
+  "text": "Das Routing in Nuxt basiert auf {0}vue-router{/0} und generiert die Routen anhand der Dateinamen aller Komponenten, die im {1}Verzeichnis {2}{/1} erstellt wurden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Routing in Nuxt basiert auf {0}vue-router{/0} und generiert die Routen anhand der Dateinamen aller Komponenten, die im {1}Verzeichnis {2}{/1} erstellt wurden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

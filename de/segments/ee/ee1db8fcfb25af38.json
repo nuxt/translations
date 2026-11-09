@@ -1,0 +1,14 @@
+{
+  "hash": "ee1db8fcfb25af38",
+  "source": "Set the request headers",
+  "text": "Anfrage-Header setzen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Anfrage-Header setzen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

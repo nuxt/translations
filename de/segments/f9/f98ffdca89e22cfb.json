@@ -1,0 +1,14 @@
+{
+  "hash": "f98ffdca89e22cfb",
+  "source": "Any configuration that should be set. It will override module defaults but",
+  "text": "Jede Konfiguration, die gesetzt werden soll. Sie überschreibt die Modulstandards,",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Jede Konfiguration, die gesetzt werden soll. Sie überschreibt die Modulstandards,"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

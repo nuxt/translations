@@ -1,0 +1,14 @@
+{
+  "hash": "c5b496aa8bca65ee",
+  "source": "Install specified Nuxt module programmatically. This is helpful when your module depends on other modules. You can pass the module options as an object to {0} and they will be passed to the module's {1} function.",
+  "text": "Installiert das angegebene Nuxt-Modul programmatisch. Das ist hilfreich, wenn dein Modul von anderen Modulen abhängt. Du kannst die Modulooptionen als Objekt an {0} übergeben, und sie werden an die Funktion {1} des Moduls weitergereicht.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Installiert das angegebene Nuxt-Modul programmatisch. Das ist hilfreich, wenn dein Modul von anderen Modulen abhängt. Du kannst die Modulooptionen als Objekt an {0} übergeben, und sie werden an die Funktion {1} des Moduls weitergereicht."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

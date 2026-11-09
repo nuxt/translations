@@ -1,0 +1,14 @@
+{
+  "hash": "b2470ee0a22ca5b2",
+  "source": "The Nuxt experts are Vue, Nuxt and Vite chosen contributors providing professional support and consulting services.",
+  "text": "Die Nuxt Experts sind ausgewählte Contributors von Vue, Nuxt und Vite, die professionellen Support und Beratungsleistungen anbieten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Nuxt Experts sind ausgewählte Contributors von Vue, Nuxt und Vite, die professionellen Support und Beratungsleistungen anbieten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

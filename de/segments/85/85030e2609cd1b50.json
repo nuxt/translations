@@ -1,0 +1,14 @@
+{
+  "hash": "85030e2609cd1b50",
+  "source": "More Granular Inline Styles",
+  "text": "Feiner abgestufte Inline-Styles",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Feiner abgestufte Inline-Styles"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

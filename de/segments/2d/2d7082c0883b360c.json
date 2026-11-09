@@ -1,0 +1,14 @@
+{
+  "hash": "2d7082c0883b360c",
+  "source": "Case-Sensitive Routing",
+  "text": "Routing mit Beachtung der Groß- und Kleinschreibung",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Routing mit Beachtung der Groß- und Kleinschreibung"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

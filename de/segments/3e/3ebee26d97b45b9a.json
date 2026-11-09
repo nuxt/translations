@@ -1,0 +1,14 @@
+{
+  "hash": "3ebee26d97b45b9a",
+  "source": "It is highly recommended to prefix your exports to avoid conflicts with user code or other modules.",
+  "text": "Es wird dringend empfohlen, deinen Exports ein Präfix voranzustellen, um Konflikte mit dem Code der Nutzenden oder mit anderen Modulen zu vermeiden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Es wird dringend empfohlen, deinen Exports ein Präfix voranzustellen, um Konflikte mit dem Code der Nutzenden oder mit anderen Modulen zu vermeiden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

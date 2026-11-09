@@ -1,0 +1,14 @@
+{
+  "hash": "cb8aa2083e180946",
+  "source": "{0}: Specify a fallback content to display in case of error.",
+  "text": "{0}: Legt einen Fallback-Inhalt fest, der im Fehlerfall angezeigt wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Legt einen Fallback-Inhalt fest, der im Fehlerfall angezeigt wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

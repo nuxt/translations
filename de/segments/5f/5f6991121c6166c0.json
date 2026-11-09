@@ -1,0 +1,14 @@
+{
+  "hash": "5f6991121c6166c0",
+  "source": "**Example:** Scan nested directories inside the {0} folder:",
+  "text": "**Beispiel:** Scanne verschachtelte Verzeichnisse innerhalb des Verzeichnisses {0}:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Beispiel:** Scanne verschachtelte Verzeichnisse innerhalb des Verzeichnisses {0}:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

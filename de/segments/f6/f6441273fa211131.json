@@ -1,0 +1,14 @@
+{
+  "hash": "f6441273fa211131",
+  "source": "Layers are ideal for organizing large codebases with **Domain-Driven Design (DDD)**, creating reusable **UI libraries** or **themes**, sharing **configuration presets** across projects, and separating concerns like **admin panels** or **feature modules**.",
+  "text": "Layer eignen sich ideal, um große Codebasen mit **Domain-Driven Design (DDD)** zu organisieren, wiederverwendbare **Bibliotheken für die Benutzeroberfläche** oder **Themes** zu erstellen, **Konfigurationsvorlagen** projektübergreifend zu teilen und Zuständigkeiten wie **Admin-Bereiche** oder **Feature-Module** voneinander zu trennen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Layer eignen sich ideal, um große Codebasen mit **Domain-Driven Design (DDD)** zu organisieren, wiederverwendbare **Bibliotheken für die Benutzeroberfläche** oder **Themes** zu erstellen, **Konfigurationsvorlagen** projektübergreifend zu teilen und Zuständigkeiten wie **Admin-Bereiche** oder **Feature-Module** voneinander zu trennen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

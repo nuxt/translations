@@ -1,0 +1,14 @@
+{
+  "hash": "fecb82fb98f4257e",
+  "source": "The {0} directory auto-registration is available in Nuxt v3.12.0+.",
+  "text": "Die automatische Registrierung des Verzeichnisses {0} ist ab Nuxt v3.12.0 verfügbar.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die automatische Registrierung des Verzeichnisses {0} ist ab Nuxt v3.12.0 verfügbar."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

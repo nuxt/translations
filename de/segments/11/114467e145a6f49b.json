@@ -1,0 +1,14 @@
+{
+  "hash": "114467e145a6f49b",
+  "source": "Primary app color",
+  "text": "Primärfarbe der App",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Primärfarbe der App"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

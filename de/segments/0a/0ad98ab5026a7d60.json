@@ -1,0 +1,14 @@
+{
+  "hash": "0ad98ab5026a7d60",
+  "source": "See the full Vite 8 migration guide for all breaking changes and migration steps.",
+  "text": "Alle inkompatiblen Änderungen und Migrationsschritte findest du in der vollständigen Migrationsanleitung für Vite 8.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Alle inkompatiblen Änderungen und Migrationsschritte findest du in der vollständigen Migrationsanleitung für Vite 8."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

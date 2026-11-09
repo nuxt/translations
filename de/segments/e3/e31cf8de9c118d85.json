@@ -1,0 +1,14 @@
+{
+  "hash": "e31cf8de9c118d85",
+  "source": "Nuxt Fonts releases.",
+  "text": "Releases von Nuxt Fonts.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Releases von Nuxt Fonts."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

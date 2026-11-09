@@ -1,0 +1,14 @@
+{
+  "hash": "429e9fa902be0135",
+  "source": "You can hook into Vue errors using {0}.",
+  "text": "Mit {0} kannst du dich in Vue-Fehler einklinken.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit {0} kannst du dich in Vue-Fehler einklinken."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

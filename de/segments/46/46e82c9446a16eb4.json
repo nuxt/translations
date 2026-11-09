@@ -1,0 +1,14 @@
+{
+  "hash": "46e82c9446a16eb4",
+  "source": "Add support for {0}WebAuthn / Passkeys{/0}",
+  "text": "Unterstützung für {0}WebAuthn / Passkeys{/0} hinzufügen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Unterstützung für {0}WebAuthn / Passkeys{/0} hinzufügen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "5c5fcfae9f476c32",
+  "source": "The following conventions are *required* within the {0} organization and recommended for other maintainers in the ecosystem.",
+  "text": "Die folgenden Konventionen sind innerhalb der Organisation {0} *verbindlich* und werden anderen Maintainern im Ökosystem empfohlen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die folgenden Konventionen sind innerhalb der Organisation {0} *verbindlich* und werden anderen Maintainern im Ökosystem empfohlen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

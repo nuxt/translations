@@ -1,0 +1,14 @@
+{
+  "hash": "d94a419c4dd6b154",
+  "source": "The new configuration provides better type safety and IntelliSense for projects that opt in, while maintaining full backward compatibility for existing setups.",
+  "text": "Die neue Konfiguration bietet bessere Typsicherheit und IntelliSense für Projekte, die sich dafür entscheiden, und behält zugleich die volle Abwärtskompatibilität für bestehende Setups bei.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die neue Konfiguration bietet bessere Typsicherheit und IntelliSense für Projekte, die sich dafür entscheiden, und behält zugleich die volle Abwärtskompatibilität für bestehende Setups bei."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "c4452478b9340977",
+  "source": "Nuxt will automatically guess the file type by its extension and use the appropriate pre-processor. You will still need to install the required loader if you need to use them.",
+  "text": "Nuxt erkennt den Dateityp automatisch anhand der Dateiendung und verwendet den passenden Präprozessor. Wenn du Präprozessoren verwenden möchtest, musst du den erforderlichen Loader trotzdem installieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt erkennt den Dateityp automatisch anhand der Dateiendung und verwendet den passenden Präprozessor. Wenn du Präprozessoren verwenden möchtest, musst du den erforderlichen Loader trotzdem installieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

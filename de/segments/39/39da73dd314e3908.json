@@ -1,0 +1,14 @@
+{
+  "hash": "39da73dd314e3908",
+  "source": "When the dev server reloads or restarts it says what caused it, and a change to {0} also lists the keys that actually differ, so a restart triggered by a formatting-only edit is distinguishable from one that changed your configuration. A reload happens in place; a restart replaces the process, which is what a change to {1} or to an installed dependency needs.",
+  "text": "Wenn der Entwicklungsserver neu lädt oder neu startet, nennt er die Ursache. Bei einer Änderung an {0} listet er außerdem die Schlüssel auf, die sich tatsächlich unterscheiden. So lässt sich ein Neustart durch eine reine Formatierungsänderung von einem unterscheiden, der deine Konfiguration geändert hat. Ein Neuladen erfolgt an Ort und Stelle; ein Neustart ersetzt den Prozess, was bei einer Änderung an {1} oder an einer installierten Abhängigkeit nötig ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn der Entwicklungsserver neu lädt oder neu startet, nennt er die Ursache. Bei einer Änderung an {0} listet er außerdem die Schlüssel auf, die sich tatsächlich unterscheiden. So lässt sich ein Neustart durch eine reine Formatierungsänderung von einem unterscheiden, der deine Konfiguration geändert hat. Ein Neuladen erfolgt an Ort und Stelle; ein Neustart ersetzt den Prozess, was bei einer Änderung an {1} oder an einer installierten Abhängigkeit nötig ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

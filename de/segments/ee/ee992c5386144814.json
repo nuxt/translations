@@ -1,0 +1,14 @@
+{
+  "hash": "ee992c5386144814",
+  "source": "A solution-style {0} (one that only lists {1}) is type-checked in build mode automatically. {2} forces it, and {3} turns it off.",
+  "text": "Eine {0} im Solution-Style (also eine, die nur {1} auflistet) wird automatisch im Build-Modus geprüft. {2} erzwingt diesen Modus, und {3} schaltet ihn aus.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine {0} im Solution-Style (also eine, die nur {1} auflistet) wird automatisch im Build-Modus geprüft. {2} erzwingt diesen Modus, und {3} schaltet ihn aus."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

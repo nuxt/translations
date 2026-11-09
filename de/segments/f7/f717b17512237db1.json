@@ -1,0 +1,14 @@
+{
+  "hash": "f717b17512237db1",
+  "source": "The Vue and Nuxt instances are created first. Afterward, Nuxt executes its app plugins. This includes:",
+  "text": "Zuerst werden die Vue- und die Nuxt-Instanz erstellt. Anschließend führt Nuxt seine App-Plugins aus. Dazu gehören:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Zuerst werden die Vue- und die Nuxt-Instanz erstellt. Anschließend führt Nuxt seine App-Plugins aus. Dazu gehören:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

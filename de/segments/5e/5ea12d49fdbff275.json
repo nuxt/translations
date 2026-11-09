@@ -1,0 +1,14 @@
+{
+  "hash": "5ea12d49fdbff275",
+  "source": "How the value changed.",
+  "text": "Wie sich der Wert geändert hat.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wie sich der Wert geändert hat."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "7d7e2983a1bbb94d",
+  "source": "{0}: Get a full list of all the route records.",
+  "text": "{0}: Gibt eine vollständige Liste aller Routen-Einträge zurück.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Gibt eine vollständige Liste aller Routen-Einträge zurück."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

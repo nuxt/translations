@@ -1,0 +1,14 @@
+{
+  "hash": "7b827e34d2ea8ee8",
+  "source": "The {0}Composition API{/0} introduced in Vue 3 is not a replacement of the Options API, but it enables better logic reuse throughout an application, and is a more natural way to group code by concern in complex components.",
+  "text": "Die in Vue 3 eingeführte {0}Composition API{/0} ersetzt die Options API nicht, ermöglicht aber eine bessere Wiederverwendung von Logik in der gesamten Anwendung und ist in komplexen Komponenten ein natürlicherer Weg, Code nach Zuständigkeit zu gruppieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die in Vue 3 eingeführte {0}Composition API{/0} ersetzt die Options API nicht, ermöglicht aber eine bessere Wiederverwendung von Logik in der gesamten Anwendung und ist in komplexen Komponenten ein natürlicherer Weg, Code nach Zuständigkeit zu gruppieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

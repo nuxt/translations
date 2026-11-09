@@ -1,0 +1,14 @@
+{
+  "hash": "b7131782112834c8",
+  "source": "The error is now sent as a single JSON-encoded parameter, so {0} keeps its original shape and is never stringified. Values also keep their types, so {1} is a number and booleans are booleans rather than the strings {2} and {3}. With nothing stringifying {4}, the option only survives to re-stringify it for apps that still expect a string.",
+  "text": "Der Fehler wird jetzt als einzelner JSON-kodierter Parameter gesendet, sodass {0} seine ursprüngliche Form behält und nie in einen String umgewandelt wird. Auch die Typen der Werte bleiben erhalten: {1} ist eine Zahl, und Booleans sind Booleans statt der Strings {2} und {3}. Da nichts mehr {4} in einen String umwandelt, dient die Option nur noch dazu, ihn für Apps, die weiterhin einen String erwarten, wieder in einen String umzuwandeln.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Fehler wird jetzt als einzelner JSON-kodierter Parameter gesendet, sodass {0} seine ursprüngliche Form behält und nie in einen String umgewandelt wird. Auch die Typen der Werte bleiben erhalten: {1} ist eine Zahl, und Booleans sind Booleans statt der Strings {2} und {3}. Da nichts mehr {4} in einen String umwandelt, dient die Option nur noch dazu, ihn für Apps, die weiterhin einen String erwarten, wieder in einen String umzuwandeln."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

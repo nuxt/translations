@@ -1,0 +1,14 @@
+{
+  "hash": "12ff6ebde6b24b7a",
+  "source": "Nuxt 3 will continue to receive maintenance updates (bug fixes and security patches) until the end of July 2026.",
+  "text": "Nuxt 3 erhält bis Ende Juli 2026 weiterhin Wartungsupdates (Fehlerbehebungen und Sicherheitspatches).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt 3 erhält bis Ende Juli 2026 weiterhin Wartungsupdates (Fehlerbehebungen und Sicherheitspatches)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

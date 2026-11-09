@@ -1,0 +1,14 @@
+{
+  "hash": "6346983ecf1cfc2d",
+  "source": "Called when resolving {0} files. Later items in the array override earlier ones.",
+  "text": "Wird beim Auflösen von {0}-Dateien aufgerufen. Spätere Elemente im Array überschreiben frühere.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird beim Auflösen von {0}-Dateien aufgerufen. Spätere Elemente im Array überschreiben frühere."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

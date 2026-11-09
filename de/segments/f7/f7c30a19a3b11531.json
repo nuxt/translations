@@ -1,0 +1,14 @@
+{
+  "hash": "f7c30a19a3b11531",
+  "source": "You can alternatively use this format, which comes with automatic type support",
+  "text": "Alternativ kannst du dieses Format verwenden, das automatische Typunterstützung mitbringt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Alternativ kannst du dieses Format verwenden, das automatische Typunterstützung mitbringt"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

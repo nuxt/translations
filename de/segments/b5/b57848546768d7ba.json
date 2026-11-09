@@ -1,0 +1,14 @@
+{
+  "hash": "b57848546768d7ba",
+  "source": "{0} families get font fallback metrics",
+  "text": "{0}-Familien erhalten Fallback-Metriken für Schriften",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}-Familien erhalten Fallback-Metriken für Schriften"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

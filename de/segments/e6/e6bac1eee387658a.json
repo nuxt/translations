@@ -1,0 +1,14 @@
+{
+  "hash": "e6bac1eee387658a",
+  "source": "Read {0} documentation about the {1} interface.",
+  "text": "Lies die Dokumentation von {0} zur Schnittstelle {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lies die Dokumentation von {0} zur Schnittstelle {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

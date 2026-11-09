@@ -1,0 +1,14 @@
+{
+  "hash": "9cbff5329e1dbbdb",
+  "source": "Read more about dynamic layouts.",
+  "text": "Mehr zu dynamischen Layouts.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mehr zu dynamischen Layouts."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "527c19613e55c21c",
+  "source": "Payload reducers and revivers",
+  "text": "Payload-Reducer und -Reviver",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Payload-Reducer und -Reviver"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

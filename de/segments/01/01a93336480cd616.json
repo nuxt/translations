@@ -1,0 +1,14 @@
+{
+  "hash": "01a93336480cd616",
+  "source": "The typecheck command runs vue-tsc or Golar to check types throughout your app.",
+  "text": "Der Befehl typecheck führt vue-tsc oder Golar aus, um die Typen in deiner gesamten App zu prüfen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Befehl typecheck führt vue-tsc oder Golar aus, um die Typen in deiner gesamten App zu prüfen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

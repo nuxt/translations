@@ -1,0 +1,14 @@
+{
+  "hash": "cffe14d07f4ae11c",
+  "source": "With it on, {0}, {1}, {2}, {3}, {4}, auto-imports from subdirectories of {5} and handlers registered without a {6} all keep working.",
+  "text": "Wenn die Option aktiviert ist, funktionieren {0}, {1}, {2}, {3}, {4}, automatische Importe aus Unterverzeichnissen von {5} und Handler, die ohne {6} registriert wurden, weiterhin.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn die Option aktiviert ist, funktionieren {0}, {1}, {2}, {3}, {4}, automatische Importe aus Unterverzeichnissen von {5} und Handler, die ohne {6} registriert wurden, weiterhin."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

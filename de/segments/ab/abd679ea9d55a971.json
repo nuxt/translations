@@ -1,0 +1,14 @@
+{
+  "hash": "abd679ea9d55a971",
+  "source": "If you want to type the result of calling {0} in app code, then you will want to extend {1}. Outside app code (server routes, the {2} directory and {3}) {4} returns {5}, so extend that interface instead.",
+  "text": "Wenn du das Ergebnis des Aufrufs von {0} im App-Code typisieren möchtest, erweitere {1}. Außerhalb des App-Codes (Server-Routes, das Verzeichnis {2} und {3}) gibt {4} den Typ {5} zurück. Erweitere dort stattdessen dieses Interface.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du das Ergebnis des Aufrufs von {0} im App-Code typisieren möchtest, erweitere {1}. Außerhalb des App-Codes (Server-Routes, das Verzeichnis {2} und {3}) gibt {4} den Typ {5} zurück. Erweitere dort stattdessen dieses Interface."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

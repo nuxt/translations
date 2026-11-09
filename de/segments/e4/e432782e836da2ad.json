@@ -1,0 +1,14 @@
+{
+  "hash": "e432782e836da2ad",
+  "source": "Read the dynamic segments matched for the request.",
+  "text": "Liest die dynamischen Segmente, die für die Anfrage gematcht wurden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Liest die dynamischen Segmente, die für die Anfrage gematcht wurden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "3c5f3cba2b076340",
+  "source": "Modules often depend on a package that only some projects need, or that the user is expected to install themselves. Rather than assuming the package is there, or printing an install command for a package manager the user does not use, Nuxt Kit can check whether a dependency is resolvable and offer to install it with the project's own package manager.",
+  "text": "Module hängen oft von einem Paket ab, das nur manche Projekte benötigen oder das Nutzende selbst installieren sollen. Anstatt davon auszugehen, dass das Paket vorhanden ist, oder einen Installationsbefehl für einen Paketmanager auszugeben, den die Nutzenden nicht verwenden, kann Nuxt Kit prüfen, ob eine Abhängigkeit auflösbar ist, und anbieten, sie mit dem projekteigenen Paketmanager zu installieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Module hängen oft von einem Paket ab, das nur manche Projekte benötigen oder das Nutzende selbst installieren sollen. Anstatt davon auszugehen, dass das Paket vorhanden ist, oder einen Installationsbefehl für einen Paketmanager auszugeben, den die Nutzenden nicht verwenden, kann Nuxt Kit prüfen, ob eine Abhängigkeit auflösbar ist, und anbieten, sie mit dem projekteigenen Paketmanager zu installieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

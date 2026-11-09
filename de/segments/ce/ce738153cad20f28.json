@@ -1,0 +1,14 @@
+{
+  "hash": "ce738153cad20f28",
+  "source": "You can also disable scripts per-route with the {0} {1}route rule{/1}, which applies in all modes:",
+  "text": "Du kannst Skripte auch pro Route mit der {0}-{1}Route-Rule{/1} deaktivieren, die in allen Modi gilt:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst Skripte auch pro Route mit der {0}-{1}Route-Rule{/1} deaktivieren, die in allen Modi gilt:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

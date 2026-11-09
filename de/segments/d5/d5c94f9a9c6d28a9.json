@@ -1,0 +1,14 @@
+{
+  "hash": "d5c94f9a9c6d28a9",
+  "source": "However, to take advantage of improved type checking, you can opt in to the new project references approach:",
+  "text": "Um von der verbesserten Typprüfung zu profitieren, kannst du dich jedoch für den neuen Ansatz mit Project References entscheiden:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um von der verbesserten Typprüfung zu profitieren, kannst du dich jedoch für den neuen Ansatz mit Project References entscheiden:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

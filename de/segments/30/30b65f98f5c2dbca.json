@@ -1,0 +1,14 @@
+{
+  "hash": "30b65f98f5c2dbca",
+  "source": "To optimize your app, you may want to delay the hydration of some components until they're visible, or until the browser is done with more important tasks.",
+  "text": "Um deine App zu optimieren, kannst du die Hydration einiger Komponenten verzögern, bis sie sichtbar sind oder bis der Browser wichtigere Aufgaben abgeschlossen hat.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um deine App zu optimieren, kannst du die Hydration einiger Komponenten verzögern, bis sie sichtbar sind oder bis der Browser wichtigere Aufgaben abgeschlossen hat."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

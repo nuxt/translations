@@ -1,0 +1,14 @@
+{
+  "hash": "c28da656d5cf8947",
+  "source": "The hooking system is powered by {0}unjs/hookable{/0}.",
+  "text": "Das Hook-System basiert auf {0}unjs/hookable{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Hook-System basiert auf {0}unjs/hookable{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "c77340a4b9a4c03e",
+  "source": "The error page has a single prop - {0} which contains an error for you to handle.",
+  "text": "Die Fehlerseite hat eine einzige Prop – {0} –, die den zu behandelnden Fehler enthält.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Fehlerseite hat eine einzige Prop – {0} –, die den zu behandelnden Fehler enthält."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "6512f885daff7da8",
+  "source": "Registers route middlewares to be available for all routes or for specific routes.",
+  "text": "Registriert Routen-Middleware, die für alle oder für bestimmte Routen verfügbar sein soll.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Registriert Routen-Middleware, die für alle oder für bestimmte Routen verfügbar sein soll."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

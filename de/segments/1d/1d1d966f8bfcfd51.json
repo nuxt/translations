@@ -1,0 +1,14 @@
+{
+  "hash": "1d1d966f8bfcfd51",
+  "source": "With an exact {0} and no {1}, a config change means a cache miss and a full re-download.",
+  "text": "Bei einer exakten {0} und ohne {1} bedeutet eine Konfigurationsänderung einen Cache-Miss und einen vollständigen erneuten Download.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bei einer exakten {0} und ohne {1} bedeutet eine Konfigurationsänderung einen Cache-Miss und einen vollständigen erneuten Download."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

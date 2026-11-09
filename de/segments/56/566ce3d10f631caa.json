@@ -1,0 +1,14 @@
+{
+  "hash": "566ce3d10f631caa",
+  "source": "Migration to Vite Environment API",
+  "text": "Migration zur Vite Environment API",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Migration zur Vite Environment API"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

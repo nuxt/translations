@@ -1,0 +1,14 @@
+{
+  "hash": "067afe842ef3e4a4",
+  "source": "Modules are the building blocks of Nuxt. Kit provides a set of utilities to help you create and use modules. You can use these utilities to create your own modules or to reuse existing modules. For example, you can use the {0} function to define a module and specify dependencies using the {1} option.",
+  "text": "Module sind die Bausteine von Nuxt. Kit stellt eine Reihe von Hilfsfunktionen bereit, mit denen du Module erstellen und verwenden kannst. Mit diesen Hilfsfunktionen kannst du eigene Module erstellen oder bestehende Module wiederverwenden. Mit der Funktion {0} kannst du zum Beispiel ein Modul definieren und Abhängigkeiten über die Option {1} angeben.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Module sind die Bausteine von Nuxt. Kit stellt eine Reihe von Hilfsfunktionen bereit, mit denen du Module erstellen und verwenden kannst. Mit diesen Hilfsfunktionen kannst du eigene Module erstellen oder bestehende Module wiederverwenden. Mit der Funktion {0} kannst du zum Beispiel ein Modul definieren und Abhängigkeiten über die Option {1} angeben."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

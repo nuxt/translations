@@ -1,0 +1,14 @@
+{
+  "hash": "62d8d5f5b5a10dfc",
+  "source": "Most other Nuxt composables and built-in components work unchanged, because they rely on injection rather than on a component instance.",
+  "text": "Die meisten anderen Nuxt-Composables und integrierten Komponenten funktionieren unverändert, da sie auf Injection statt auf einer Komponenteninstanz beruhen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die meisten anderen Nuxt-Composables und integrierten Komponenten funktionieren unverändert, da sie auf Injection statt auf einer Komponenteninstanz beruhen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

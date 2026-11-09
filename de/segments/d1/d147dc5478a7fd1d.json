@@ -1,0 +1,14 @@
+{
+  "hash": "d147dc5478a7fd1d",
+  "source": "✅ This is allowed",
+  "text": "✅ Das ist erlaubt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "✅ Das ist erlaubt"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

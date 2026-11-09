@@ -1,0 +1,14 @@
+{
+  "hash": "b4372ed3c1ac3aba",
+  "source": "All delayed hydration components emit a {0} event when they are hydrated.",
+  "text": "Alle Komponenten mit verzögerter Hydration senden ein {0}-Event, sobald sie hydratisiert wurden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Alle Komponenten mit verzögerter Hydration senden ein {0}-Event, sobald sie hydratisiert wurden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

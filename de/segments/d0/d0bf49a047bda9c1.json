@@ -1,0 +1,14 @@
+{
+  "hash": "d0bf49a047bda9c1",
+  "source": "Properties whose values cannot be serialized (functions, variable references, spreads, computed keys) are unaffected and still resolved at runtime.",
+  "text": "Eigenschaften, deren Werte sich nicht serialisieren lassen (Funktionen, Variablenreferenzen, Spreads, berechnete Schlüssel), sind nicht betroffen und werden weiterhin zur Laufzeit aufgelöst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eigenschaften, deren Werte sich nicht serialisieren lassen (Funktionen, Variablenreferenzen, Spreads, berechnete Schlüssel), sind nicht betroffen und werden weiterhin zur Laufzeit aufgelöst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

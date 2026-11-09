@@ -1,0 +1,14 @@
+{
+  "hash": "fc21e115bcf5135b",
+  "source": "This is useful when you want to manage layouts centrally in your configuration rather than in each page file, or when you need to apply layouts to routes that don't have corresponding page components (such as catchall pages which might match many paths).",
+  "text": "Das ist nützlich, wenn du Layouts zentral in deiner Konfiguration verwalten möchtest statt in jeder Seitendatei, oder wenn du Layouts auf Routen anwenden musst, für die es keine passenden Seitenkomponenten gibt (z. B. Catch-all-Seiten, die auf viele Pfade passen können).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das ist nützlich, wenn du Layouts zentral in deiner Konfiguration verwalten möchtest statt in jeder Seitendatei, oder wenn du Layouts auf Routen anwenden musst, für die es keine passenden Seitenkomponenten gibt (z. B. Catch-all-Seiten, die auf viele Pfade passen können)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "489c1d43d16eceb5",
+  "source": "When prerendering, you can hint to Nitro to prerender additional paths, even if their URLs do not show up in the HTML of the generated page.",
+  "text": "Beim Vorab-Rendering kannst du Nitro anweisen, zusätzliche Pfade vorab zu rendern, auch wenn ihre URLs nicht im HTML der generierten Seite auftauchen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Beim Vorab-Rendering kannst du Nitro anweisen, zusätzliche Pfade vorab zu rendern, auch wenn ihre URLs nicht im HTML der generierten Seite auftauchen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

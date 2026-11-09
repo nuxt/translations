@@ -1,0 +1,14 @@
+{
+  "hash": "b6605907078bb35e",
+  "source": "If you spot an area where we can improve documentation or error messages, please do open a PR - even if it's just to fix a typo!",
+  "text": "Wenn dir auffällt, dass wir die Dokumentation oder Fehlermeldungen verbessern können, öffne bitte einen PR – auch wenn es nur darum geht, einen Tippfehler zu korrigieren!",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn dir auffällt, dass wir die Dokumentation oder Fehlermeldungen verbessern können, öffne bitte einen PR – auch wenn es nur darum geht, einen Tippfehler zu korrigieren!"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

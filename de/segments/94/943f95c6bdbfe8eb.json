@@ -1,0 +1,14 @@
+{
+  "hash": "943f95c6bdbfe8eb",
+  "source": "Setting {0} will lead Nuxt to perform a reload of the current route right when a chunk fails to load (instead of waiting for navigation). This is useful for chunk errors that are not triggered by navigation, e.g., when your Nuxt app fails to load a {1}lazy component{/1}. A potential downside of this behavior is undesired reloads, e.g., when your app does not need the chunk that caused the error.",
+  "text": "Mit der Einstellung {0} lädt Nuxt die aktuelle Route sofort neu, wenn ein Chunk nicht geladen werden kann (statt auf die Navigation zu warten). Das ist hilfreich bei Chunk-Fehlern, die nicht durch Navigation ausgelöst werden, z. B. wenn deine Nuxt-App eine {1}Lazy-Komponente{/1} nicht laden kann. Ein möglicher Nachteil dieses Verhaltens sind unerwünschte Neuladungen, z. B. wenn deine App den Chunk, der den Fehler verursacht hat, gar nicht benötigt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit der Einstellung {0} lädt Nuxt die aktuelle Route sofort neu, wenn ein Chunk nicht geladen werden kann (statt auf die Navigation zu warten). Das ist hilfreich bei Chunk-Fehlern, die nicht durch Navigation ausgelöst werden, z. B. wenn deine Nuxt-App eine {1}Lazy-Komponente{/1} nicht laden kann. Ein möglicher Nachteil dieses Verhaltens sind unerwünschte Neuladungen, z. B. wenn deine App den Chunk, der den Fehler verursacht hat, gar nicht benötigt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

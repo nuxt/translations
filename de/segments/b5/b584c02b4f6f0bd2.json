@@ -1,0 +1,14 @@
+{
+  "hash": "b584c02b4f6f0bd2",
+  "source": "**Problem**: A large number of plugins can cause performance issues, especially if they require expensive computations or take too long to initialize. Since plugins run during the hydration phase, inefficient setups can block rendering and degrade the user experience.",
+  "text": "**Problem**: Eine große Anzahl von Plugins kann Performance-Probleme verursachen, besonders wenn sie aufwendige Berechnungen erfordern oder zu lange für die Initialisierung brauchen. Da Plugins während der Hydration-Phase laufen, können ineffiziente Setups das Rendering blockieren und die Nutzungserfahrung verschlechtern.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Problem**: Eine große Anzahl von Plugins kann Performance-Probleme verursachen, besonders wenn sie aufwendige Berechnungen erfordern oder zu lange für die Initialisierung brauchen. Da Plugins während der Hydration-Phase laufen, können ineffiziente Setups das Rendering blockieren und die Nutzungserfahrung verschlechtern."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

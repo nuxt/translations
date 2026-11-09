@@ -1,0 +1,14 @@
+{
+  "hash": "bcfeb70b5c1c171f",
+  "source": "In order to allow you to manage your other testing dependencies, {0} ships with various optional peer dependencies. For example:",
+  "text": "Damit du deine übrigen Test-Abhängigkeiten selbst verwalten kannst, bringt {0} verschiedene optionale Peer-Abhängigkeiten mit. Zum Beispiel:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Damit du deine übrigen Test-Abhängigkeiten selbst verwalten kannst, bringt {0} verschiedene optionale Peer-Abhängigkeiten mit. Zum Beispiel:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

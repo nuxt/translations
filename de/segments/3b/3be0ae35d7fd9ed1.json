@@ -1,0 +1,14 @@
+{
+  "hash": "3be0ae35d7fd9ed1",
+  "source": "{0} - Disables rendering of Nuxt scripts and JS resource hints for sections of your site.",
+  "text": "{0} – Deaktiviert das Rendering von Nuxt-Skripten und JS-Resource-Hints für Teile deiner Website.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} – Deaktiviert das Rendering von Nuxt-Skripten und JS-Resource-Hints für Teile deiner Website."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

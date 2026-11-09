@@ -1,0 +1,14 @@
+{
+  "hash": "82373f314a15419b",
+  "source": "If the module is yours, learn how to write server code that runs on either Nitro version.",
+  "text": "Wenn das Modul von dir stammt, erfährst du hier, wie du Servercode schreibst, der mit beiden Nitro-Versionen läuft.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn das Modul von dir stammt, erfährst du hier, wie du Servercode schreibst, der mit beiden Nitro-Versionen läuft."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

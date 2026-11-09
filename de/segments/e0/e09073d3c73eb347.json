@@ -1,0 +1,14 @@
+{
+  "hash": "e09073d3c73eb347",
+  "source": "Any uncaught errors will return a {0} HTTP Error.",
+  "text": "Jeder nicht abgefangene Fehler gibt einen HTTP-Fehler {0} zurück.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Jeder nicht abgefangene Fehler gibt einen HTTP-Fehler {0} zurück."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

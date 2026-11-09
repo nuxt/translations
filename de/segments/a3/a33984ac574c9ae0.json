@@ -1,0 +1,14 @@
+{
+  "hash": "a33984ac574c9ae0",
+  "source": "{0}: Request completed successfully",
+  "text": "{0}: Die Anfrage wurde erfolgreich abgeschlossen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Die Anfrage wurde erfolgreich abgeschlossen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

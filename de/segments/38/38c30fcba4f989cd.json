@@ -1,0 +1,14 @@
+{
+  "hash": "38c30fcba4f989cd",
+  "source": "When you pass a function, the factory options **override** the caller's options. The function receives the caller's options as its argument, so you can read them to compute your overrides:",
+  "text": "Wenn du eine Funktion übergibst, **überschreiben** die Optionen der Factory die Optionen des Aufrufers. Die Funktion erhält die Optionen des Aufrufers als Argument, sodass du sie auslesen kannst, um deine Überschreibungen zu berechnen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du eine Funktion übergibst, **überschreiben** die Optionen der Factory die Optionen des Aufrufers. Die Funktion erhält die Optionen des Aufrufers als Argument, sodass du sie auslesen kannst, um deine Überschreibungen zu berechnen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

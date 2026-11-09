@@ -1,0 +1,14 @@
+{
+  "hash": "1db35e89a6c87262",
+  "source": "A rule in a page with a finite set of alternatives, such as a custom {0} of {1}, will generate one rule per alternative ({2} and {3}).",
+  "text": "Eine Regel in einer Seite mit einer endlichen Menge an Alternativen, z. B. einem benutzerdefinierten {0} von {1}, erzeugt pro Alternative eine Regel ({2} und {3}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine Regel in einer Seite mit einer endlichen Menge an Alternativen, z. B. einem benutzerdefinierten {0} von {1}, erzeugt pro Alternative eine Regel ({2} und {3})."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

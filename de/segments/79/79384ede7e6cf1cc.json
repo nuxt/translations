@@ -1,0 +1,14 @@
+{
+  "hash": "79384ede7e6cf1cc",
+  "source": "Serverless support out-of-the-box.",
+  "text": "Serverless-Unterstützung direkt einsatzbereit.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Serverless-Unterstützung direkt einsatzbereit."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

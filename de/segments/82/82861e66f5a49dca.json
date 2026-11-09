@@ -1,0 +1,14 @@
+{
+  "hash": "82861e66f5a49dca",
+  "source": "The Google Fonts provider previously also downloaded a legacy-format copy of each font that contained every script the font supports, regardless of the configured {0}. Text in a script outside those subsets, such as Arabic, now renders in a fallback font. To keep it in your font, add its subset:",
+  "text": "Der Google-Fonts-Provider hat bisher zusätzlich eine Kopie jeder Schrift im Legacy-Format heruntergeladen, die alle von der Schrift unterstützten Schriftsysteme enthielt, unabhängig von der konfigurierten Option {0}. Text in einem Schriftsystem außerhalb dieser Subsets, etwa Arabisch, wird jetzt in einer Ersatzschrift dargestellt. Um ihn in deiner Schrift zu behalten, füge das passende Subset hinzu:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Google-Fonts-Provider hat bisher zusätzlich eine Kopie jeder Schrift im Legacy-Format heruntergeladen, die alle von der Schrift unterstützten Schriftsysteme enthielt, unabhängig von der konfigurierten Option {0}. Text in einem Schriftsystem außerhalb dieser Subsets, etwa Arabisch, wird jetzt in einer Ersatzschrift dargestellt. Um ihn in deiner Schrift zu behalten, füge das passende Subset hinzu:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

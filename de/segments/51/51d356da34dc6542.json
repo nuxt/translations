@@ -1,0 +1,14 @@
+{
+  "hash": "51d356da34dc6542",
+  "source": "Nuxt 2 to Nuxt Bridge",
+  "text": "Nuxt 2 auf Nuxt Bridge",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt 2 auf Nuxt Bridge"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

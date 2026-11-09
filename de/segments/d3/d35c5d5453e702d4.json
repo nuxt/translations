@@ -1,0 +1,14 @@
+{
+  "hash": "d35c5d5453e702d4",
+  "source": "If you are building a mostly-static site, islands combine well with {0} and {1} route rules.",
+  "text": "Wenn du eine überwiegend statische Website erstellst, lassen sich Islands gut mit den Routenregeln {0} und {1} kombinieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du eine überwiegend statische Website erstellst, lassen sich Islands gut mit den Routenregeln {0} und {1} kombinieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

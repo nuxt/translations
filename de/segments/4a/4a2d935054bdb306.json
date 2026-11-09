@@ -1,0 +1,14 @@
+{
+  "hash": "4a2d935054bdb306",
+  "source": "When using a composable that requires the Nuxt context inside a non-SFC component, you need to wrap your component with {0} instead of {1}",
+  "text": "Wenn du ein Composable verwendest, das den Nuxt-Kontext benötigt, in einer Komponente, die keine Single-File-Komponente ist, musst du deine Komponente mit {0} statt mit {1} umschließen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du ein Composable verwendest, das den Nuxt-Kontext benötigt, in einer Komponente, die keine Single-File-Komponente ist, musst du deine Komponente mit {0} statt mit {1} umschließen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

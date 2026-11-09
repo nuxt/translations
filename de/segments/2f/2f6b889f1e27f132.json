@@ -1,0 +1,14 @@
+{
+  "hash": "2f6b889f1e27f132",
+  "source": "Relative Time",
+  "text": "Relative Zeit",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Relative Zeit"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

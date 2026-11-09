@@ -1,0 +1,14 @@
+{
+  "hash": "e095c8e2edfc66f2",
+  "source": "{0} ran without being transformed by the Nuxt build pipeline. It needs compile-time processing and only works on the server, so this happens when it is called from a dependency that Nuxt does not transpile.",
+  "text": "{0} wurde ausgeführt, ohne von der Nuxt-Build-Pipeline transformiert worden zu sein. Es benötigt eine Verarbeitung zur Kompilierzeit und funktioniert nur auf dem Server. Dieser Fehler tritt daher auf, wenn es aus einer Abhängigkeit aufgerufen wird, die Nuxt nicht transpiliert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} wurde ausgeführt, ohne von der Nuxt-Build-Pipeline transformiert worden zu sein. Es benötigt eine Verarbeitung zur Kompilierzeit und funktioniert nur auf dem Server. Dieser Fehler tritt daher auf, wenn es aus einer Abhängigkeit aufgerufen wird, die Nuxt nicht transpiliert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

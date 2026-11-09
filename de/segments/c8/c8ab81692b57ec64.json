@@ -1,0 +1,14 @@
+{
+  "hash": "c8ab81692b57ec64",
+  "source": "Read more about pre-rendering in the Nitro documentation.",
+  "text": "Mehr zum Vorab-Rendering findest du in der Nitro-Dokumentation.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mehr zum Vorab-Rendering findest du in der Nitro-Dokumentation."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

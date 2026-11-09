@@ -1,0 +1,14 @@
+{
+  "hash": "f48120fc49e7763d",
+  "source": "It is possible to inject helpers by returning an object with a {0} key in plugins.",
+  "text": "Du kannst Hilfsfunktionen einbinden, indem du in Plugins ein Objekt mit dem Schlüssel {0} zurückgibst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst Hilfsfunktionen einbinden, indem du in Plugins ein Objekt mit dem Schlüssel {0} zurückgibst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

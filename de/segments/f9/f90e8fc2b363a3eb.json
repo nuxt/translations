@@ -1,0 +1,14 @@
+{
+  "hash": "f90e8fc2b363a3eb",
+  "source": "Their location on the Cloudflare dashboard sometimes changes so don't hesitate to look around.",
+  "text": "Die Position dieser Einstellungen im Cloudflare-Dashboard ändert sich manchmal, also schau dich ruhig um.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Position dieser Einstellungen im Cloudflare-Dashboard ändert sich manchmal, also schau dich ruhig um."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

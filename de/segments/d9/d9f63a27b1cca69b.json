@@ -1,0 +1,14 @@
+{
+  "hash": "d9f63a27b1cca69b",
+  "source": "Custom Formatting",
+  "text": "Benutzerdefinierte Formatierung",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Benutzerdefinierte Formatierung"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

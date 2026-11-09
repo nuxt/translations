@@ -1,0 +1,14 @@
+{
+  "hash": "c486ddfeb957a5af",
+  "source": "A custom regular expression is a good way to resolve conflicts between overlapping routes, for instance:",
+  "text": "Ein benutzerdefinierter regulärer Ausdruck ist eine gute Möglichkeit, Konflikte zwischen sich überschneidenden Routen zu lösen, zum Beispiel:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein benutzerdefinierter regulärer Ausdruck ist eine gute Möglichkeit, Konflikte zwischen sich überschneidenden Routen zu lösen, zum Beispiel:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

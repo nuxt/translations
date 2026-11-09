@@ -1,0 +1,14 @@
+{
+  "hash": "b37343ac323fbebd",
+  "source": "As we've seen, Nuxt modules can be asynchronous. For example, you may want to develop a module that needs fetching some API or calling an async function.",
+  "text": "Wie du gesehen hast, können Nuxt-Module asynchron sein. Zum Beispiel möchtest du vielleicht ein Modul entwickeln, das eine API abfragen oder eine asynchrone Funktion aufrufen muss.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wie du gesehen hast, können Nuxt-Module asynchron sein. Zum Beispiel möchtest du vielleicht ein Modul entwickeln, das eine API abfragen oder eine asynchrone Funktion aufrufen muss."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

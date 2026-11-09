@@ -1,0 +1,14 @@
+{
+  "hash": "39bb9f35527fb8fa",
+  "source": "Use {0} to manually prefetch individual components that have been registered globally in your Nuxt app. By default Nuxt registers these as async components. You must use the Pascal-cased version of the component name.",
+  "text": "Verwende {0}, um einzelne Komponenten manuell vorab zu laden, die in deiner Nuxt-App global registriert wurden. Standardmäßig registriert Nuxt diese als asynchrone Komponenten. Du musst die Schreibweise des Komponentennamens in PascalCase verwenden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwende {0}, um einzelne Komponenten manuell vorab zu laden, die in deiner Nuxt-App global registriert wurden. Standardmäßig registriert Nuxt diese als asynchrone Komponenten. Du musst die Schreibweise des Komponentennamens in PascalCase verwenden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

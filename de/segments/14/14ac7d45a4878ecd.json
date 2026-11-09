@@ -1,0 +1,14 @@
+{
+  "hash": "14ac7d45a4878ecd",
+  "source": "The example below creates a page where part of a content is rendered only in preview mode.",
+  "text": "Das folgende Beispiel erstellt eine Seite, auf der ein Teil des Inhalts nur im Vorschaumodus gerendert wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das folgende Beispiel erstellt eine Seite, auf der ein Teil des Inhalts nur im Vorschaumodus gerendert wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

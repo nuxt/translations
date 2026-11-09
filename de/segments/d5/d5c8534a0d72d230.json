@@ -1,0 +1,14 @@
+{
+  "hash": "d5c8534a0d72d230",
+  "source": "The directory containing your static files, which will be directly accessible via the Nuxt server and copied across into your {0} folder when your app is generated.",
+  "text": "Das Verzeichnis mit deinen statischen Dateien. Diese sind direkt über den Nuxt-Server erreichbar und werden beim Generieren deiner App in deinen Ordner {0} kopiert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Verzeichnis mit deinen statischen Dateien. Diese sind direkt über den Nuxt-Server erreichbar und werden beim Generieren deiner App in deinen Ordner {0} kopiert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

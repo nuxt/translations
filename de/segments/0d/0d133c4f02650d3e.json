@@ -1,0 +1,14 @@
+{
+  "hash": "0d133c4f02650d3e",
+  "source": "The pages directory for file-based routing",
+  "text": "Das pages-Verzeichnis für dateibasiertes Routing",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das pages-Verzeichnis für dateibasiertes Routing"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

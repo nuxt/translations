@@ -1,0 +1,14 @@
+{
+  "hash": "f62e2dcbd8561343",
+  "source": "... and directly use the module components (prefixed with {0}) in our {1}:",
+  "text": "... und die Komponenten des Moduls (mit dem Präfix {0}) direkt in deiner {1} verwenden:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "... und die Komponenten des Moduls (mit dem Präfix {0}) direkt in deiner {1} verwenden:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

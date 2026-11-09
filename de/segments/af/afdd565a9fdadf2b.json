@@ -1,0 +1,14 @@
+{
+  "hash": "afdd565a9fdadf2b",
+  "source": "Components and composables need the Vue app runtime and often the Nuxt context (for example {0} or {1}), neither of which exists in Nitro. Importing them into server code can cause build or runtime errors, and can pull the Vue app's dependencies into your server bundle.",
+  "text": "Komponenten und Composables benötigen die Laufzeitumgebung der Vue-App und oft den Nuxt-Kontext (zum Beispiel {0} oder {1}). Beides gibt es in Nitro nicht. Wenn du sie in Server-Code importierst, kann das zu Fehlern beim Build oder zur Laufzeit führen und die Abhängigkeiten der Vue-App in dein Server-Bundle ziehen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Komponenten und Composables benötigen die Laufzeitumgebung der Vue-App und oft den Nuxt-Kontext (zum Beispiel {0} oder {1}). Beides gibt es in Nitro nicht. Wenn du sie in Server-Code importierst, kann das zu Fehlern beim Build oder zur Laufzeit führen und die Abhängigkeiten der Vue-App in dein Server-Bundle ziehen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

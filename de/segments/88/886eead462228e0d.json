@@ -1,0 +1,14 @@
+{
+  "hash": "886eead462228e0d",
+  "source": "When the server starts, Nuxt applies matching environment variables to the {0}runtime config{/0} and checks the values declared with a schema (or, with {1}, every value) against their type. The server does not start if:",
+  "text": "Beim Start des Servers wendet Nuxt passende Umgebungsvariablen auf die {0}Laufzeitkonfiguration{/0} an und prüft die mit einem Schema deklarierten Werte (oder mit {1} jeden Wert) anhand ihres Typs. Der Server startet nicht, wenn:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Beim Start des Servers wendet Nuxt passende Umgebungsvariablen auf die {0}Laufzeitkonfiguration{/0} an und prüft die mit einem Schema deklarierten Werte (oder mit {1} jeden Wert) anhand ihres Typs. Der Server startet nicht, wenn:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

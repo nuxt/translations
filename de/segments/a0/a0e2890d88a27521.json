@@ -1,0 +1,14 @@
+{
+  "hash": "a0e2890d88a27521",
+  "source": "Catch-all routes are helpful for fallback route handling.",
+  "text": "Catch-all-Routen sind hilfreich für die Fallback-Behandlung von Routen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Catch-all-Routen sind hilfreich für die Fallback-Behandlung von Routen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

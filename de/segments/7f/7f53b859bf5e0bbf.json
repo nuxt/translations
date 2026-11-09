@@ -1,0 +1,14 @@
+{
+  "hash": "7f53b859bf5e0bbf",
+  "source": "Specify the working directory",
+  "text": "Legt das Arbeitsverzeichnis fest",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Legt das Arbeitsverzeichnis fest"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

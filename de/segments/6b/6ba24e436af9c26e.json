@@ -1,0 +1,14 @@
+{
+  "hash": "6ba24e436af9c26e",
+  "source": "This aligns the meaning of {0} with the {1} property, which is also {2} when the request is in progress.",
+  "text": "Dadurch entspricht die Bedeutung von {0} der Eigenschaft {1}, die ebenfalls {2} ist, wenn die Anfrage läuft.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dadurch entspricht die Bedeutung von {0} der Eigenschaft {1}, die ebenfalls {2} ist, wenn die Anfrage läuft."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "6c659ebf1914e779",
+  "source": "We recommend using {0} or {1} + {2} to prevent double data fetching when fetching the component data.",
+  "text": "Wir empfehlen, {0} oder {1} + {2} zu verwenden, um doppelten Datenabruf beim Abrufen der Komponentendaten zu vermeiden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wir empfehlen, {0} oder {1} + {2} zu verwenden, um doppelten Datenabruf beim Abrufen der Komponentendaten zu vermeiden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

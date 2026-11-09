@@ -1,0 +1,14 @@
+{
+  "hash": "0efc9e4a7dbf9669",
+  "source": "In some cases, you may want to group a set of routes together in a way which doesn't affect file-based routing. For this purpose, you can put files in a folder which is wrapped in parentheses - {0} and {1}.",
+  "text": "In manchen Fällen möchtest du eine Reihe von Routen gruppieren, ohne das dateibasierte Routing zu beeinflussen. Dafür kannst du Dateien in einem Ordner ablegen, der in Klammern gesetzt ist – {0} und {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In manchen Fällen möchtest du eine Reihe von Routen gruppieren, ohne das dateibasierte Routing zu beeinflussen. Dafür kannst du Dateien in einem Ordner ablegen, der in Klammern gesetzt ist – {0} und {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

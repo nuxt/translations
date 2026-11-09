@@ -1,0 +1,14 @@
+{
+  "hash": "311c8c6000fb72f4",
+  "source": "Advanced Usage",
+  "text": "Erweiterte Verwendung",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erweiterte Verwendung"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

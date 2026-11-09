@@ -1,0 +1,14 @@
+{
+  "hash": "cc779a2e118d4350",
+  "source": "Render components only in client-side with the <ClientOnly> component.",
+  "text": "Rendere Komponenten mit der Komponente <ClientOnly> nur auf der Client-Seite.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Rendere Komponenten mit der Komponente <ClientOnly> nur auf der Client-Seite."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

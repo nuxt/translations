@@ -1,0 +1,14 @@
+{
+  "hash": "77793b4e285dfee3",
+  "source": "By default a path that Nuxt does not handle is typed as {0}, since a nitro middleware, a {1} proxy or a catch-all handler can answer it. Enable {2} to make an unrecognized path an error instead.",
+  "text": "Standardmäßig wird ein Pfad, den Nuxt nicht verarbeitet, als {0} typisiert, da ihn eine Nitro-Middleware, ein {1}-Proxy oder ein Catch-all-Handler beantworten kann. Aktiviere {2}, damit ein nicht erkannter Pfad stattdessen einen Fehler auslöst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardmäßig wird ein Pfad, den Nuxt nicht verarbeitet, als {0} typisiert, da ihn eine Nitro-Middleware, ein {1}-Proxy oder ein Catch-all-Handler beantworten kann. Aktiviere {2}, damit ein nicht erkannter Pfad stattdessen einen Fehler auslöst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

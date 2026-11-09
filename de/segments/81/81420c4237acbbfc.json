@@ -1,0 +1,14 @@
+{
+  "hash": "81420c4237acbbfc",
+  "source": "To serve the paths below a route with every variant, end the route in {0}:",
+  "text": "Um die Pfade unterhalb einer Route mit jeder Variante auszuliefern, beende die Route mit {0}:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um die Pfade unterhalb einer Route mit jeder Variante auszuliefern, beende die Route mit {0}:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

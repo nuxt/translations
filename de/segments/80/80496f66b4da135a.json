@@ -1,0 +1,14 @@
+{
+  "hash": "80496f66b4da135a",
+  "source": "We also provide first-class support for testing Nuxt within {0}the Playwright test runner{/0}.",
+  "text": "Wir bieten außerdem erstklassige Unterstützung für das Testen von Nuxt mit {0}dem Playwright-Test-Runner{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wir bieten außerdem erstklassige Unterstützung für das Testen von Nuxt mit {0}dem Playwright-Test-Runner{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

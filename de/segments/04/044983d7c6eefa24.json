@@ -1,0 +1,14 @@
+{
+  "hash": "044983d7c6eefa24",
+  "source": "**{0}**: Whether an interactive host is present. When {1}, the primitives below log to the current process streams instead.",
+  "text": "**{0}**: Gibt an, ob ein interaktiver Host vorhanden ist. Bei {1} protokollieren die folgenden Primitive stattdessen in die Streams des aktuellen Prozesses.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}**: Gibt an, ob ein interaktiver Host vorhanden ist. Bei {1} protokollieren die folgenden Primitive stattdessen in die Streams des aktuellen Prozesses."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

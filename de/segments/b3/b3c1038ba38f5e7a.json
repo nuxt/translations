@@ -1,0 +1,14 @@
+{
+  "hash": "b3c1038ba38f5e7a",
+  "source": "In some cases, you may want to create a server handler specifically for development purposes, such as a Tailwind config viewer.",
+  "text": "In manchen Fällen möchtest du einen Server-Handler speziell für die Entwicklung erstellen, etwa einen Viewer für die Tailwind-Konfiguration.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In manchen Fällen möchtest du einen Server-Handler speziell für die Entwicklung erstellen, etwa einen Viewer für die Tailwind-Konfiguration."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "06f71cea52f5b0cb",
+  "source": "Define your module options interface",
+  "text": "Das Interface für deine Moduloptionen definieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Interface für deine Moduloptionen definieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

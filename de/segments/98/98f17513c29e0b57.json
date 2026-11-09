@@ -1,0 +1,14 @@
+{
+  "hash": "98f17513c29e0b57",
+  "source": "If you change the {0} property, you also have to rename the CSS classes accordingly.",
+  "text": "Wenn du die Eigenschaft {0} änderst, musst du auch die CSS-Klassen entsprechend umbenennen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du die Eigenschaft {0} änderst, musst du auch die CSS-Klassen entsprechend umbenennen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

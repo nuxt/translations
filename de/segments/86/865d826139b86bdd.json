@@ -1,0 +1,14 @@
+{
+  "hash": "865d826139b86bdd",
+  "source": "Figure Out What the Cause Might Be",
+  "text": "Mögliche Ursache eingrenzen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mögliche Ursache eingrenzen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

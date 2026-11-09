@@ -1,0 +1,14 @@
+{
+  "hash": "d2ce30d563f40b08",
+  "source": "For example, if you want to augment types for the {0} context, the augmentation file should be placed in the {1} directory.",
+  "text": "Wenn du beispielsweise Typen für den Kontext {0} erweitern möchtest, sollte die Erweiterungsdatei im Verzeichnis {1} liegen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du beispielsweise Typen für den Kontext {0} erweitern möchtest, sollte die Erweiterungsdatei im Verzeichnis {1} liegen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

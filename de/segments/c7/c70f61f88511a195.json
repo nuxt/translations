@@ -1,0 +1,14 @@
+{
+  "hash": "c70f61f88511a195",
+  "source": "Nuxt CLI",
+  "text": "Nuxt-Kommandozeilenschnittstelle",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt-Kommandozeilenschnittstelle"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

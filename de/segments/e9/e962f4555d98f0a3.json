@@ -1,0 +1,14 @@
+{
+  "hash": "e962f4555d98f0a3",
+  "source": "You are likely here because you got a \"Nuxt instance unavailable\" message. Please use this method sparingly, and report examples that are causing issues, so that it can ultimately be solved at the framework level.",
+  "text": "Du bist wahrscheinlich hier, weil du die Meldung „Nuxt instance unavailable“ erhalten hast. Verwende diese Methode bitte sparsam und melde Beispiele, die Probleme verursachen, damit sich das Problem letztlich auf Framework-Ebene lösen lässt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du bist wahrscheinlich hier, weil du die Meldung „Nuxt instance unavailable“ erhalten hast. Verwende diese Methode bitte sparsam und melde Beispiele, die Probleme verursachen, damit sich das Problem letztlich auf Framework-Ebene lösen lässt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

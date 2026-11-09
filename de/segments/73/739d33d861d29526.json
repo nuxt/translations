@@ -1,0 +1,14 @@
+{
+  "hash": "739d33d861d29526",
+  "source": "By joining {0} we can rename your community module under the {1} scope and provide a subdomain (e.g. {2}) for its documentation.",
+  "text": "Wenn du {0} beitrittst, können wir dein Community-Modul unter dem Scope {1} umbenennen und eine Subdomain (z. B. {2}) für die Dokumentation bereitstellen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du {0} beitrittst, können wir dein Community-Modul unter dem Scope {1} umbenennen und eine Subdomain (z. B. {2}) für die Dokumentation bereitstellen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

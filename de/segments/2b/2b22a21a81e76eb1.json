@@ -1,0 +1,14 @@
+{
+  "hash": "2b22a21a81e76eb1",
+  "source": "Fetching data",
+  "text": "Daten abrufen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Daten abrufen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "7a98a8be4900253f",
+  "source": "If a plugin object is provided, it must have the following properties:",
+  "text": "Wenn du ein Plugin-Objekt übergibst, muss es die folgenden Eigenschaften enthalten:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du ein Plugin-Objekt übergibst, muss es die folgenden Eigenschaften enthalten:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

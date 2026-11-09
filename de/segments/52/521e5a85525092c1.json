@@ -1,0 +1,14 @@
+{
+  "hash": "521e5a85525092c1",
+  "source": "After a commit is merged into the {0} branch of {1}nuxt/nuxt{/1} and **passes all tests**, we trigger an automated npm release, using GitHub Actions.",
+  "text": "Sobald ein Commit in den Branch {0} von {1}nuxt/nuxt{/1} gemergt wurde und **alle Tests besteht**, lösen wir mit GitHub Actions automatisch ein npm-Release aus.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sobald ein Commit in den Branch {0} von {1}nuxt/nuxt{/1} gemergt wurde und **alle Tests besteht**, lösen wir mit GitHub Actions automatisch ein npm-Release aus."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "2fa80fa6588b9785",
+  "source": "The {0} file extension can either be {1}, {2} or {3}.",
+  "text": "Die Dateiendung von {0} kann {1}, {2} oder {3} sein.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Dateiendung von {0} kann {1}, {2} oder {3} sein."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "374855a993e3d988",
+  "source": "You can set default values for these properties {0}in your {1}{/0}.",
+  "text": "Standardwerte für diese Eigenschaften kannst du {0}in deiner {1}{/0} festlegen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardwerte für diese Eigenschaften kannst du {0}in deiner {1}{/0} festlegen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

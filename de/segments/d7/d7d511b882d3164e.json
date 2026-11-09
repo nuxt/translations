@@ -1,0 +1,14 @@
+{
+  "hash": "d7d511b882d3164e",
+  "source": "On server-side, the entire runtime config is available, but it is read-only to avoid context sharing.",
+  "text": "Auf dem Server ist die gesamte Laufzeitkonfiguration verfügbar, aber schreibgeschützt, um eine gemeinsame Nutzung des Kontexts zu vermeiden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auf dem Server ist die gesamte Laufzeitkonfiguration verfügbar, aber schreibgeschützt, um eine gemeinsame Nutzung des Kontexts zu vermeiden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

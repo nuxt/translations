@@ -1,0 +1,14 @@
+{
+  "hash": "7e2e79c2512b80bd",
+  "source": "Since the project is divided into **multiple type contexts**, it's important to **augment types within the correct context** to ensure they're properly recognized. TypeScript will not recognize augmentations placed outside these directories unless they are explicitly included in the appropriate context.",
+  "text": "Da das Projekt in **mehrere Typkontexte** aufgeteilt ist, ist es wichtig, Typen **im richtigen Kontext zu erweitern**, damit sie korrekt erkannt werden. TypeScript erkennt Erweiterungen außerhalb dieser Verzeichnisse nicht, es sei denn, sie sind ausdrücklich im passenden Kontext eingebunden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Da das Projekt in **mehrere Typkontexte** aufgeteilt ist, ist es wichtig, Typen **im richtigen Kontext zu erweitern**, damit sie korrekt erkannt werden. TypeScript erkennt Erweiterungen außerhalb dieser Verzeichnisse nicht, es sei denn, sie sind ausdrücklich im passenden Kontext eingebunden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

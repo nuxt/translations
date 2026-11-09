@@ -1,0 +1,14 @@
+{
+  "hash": "229def059deebd8a",
+  "source": "**Performance** - placing all your code in the root of your repo causes issues with {0} and {1} folders being scanned/included by FS watchers which can significantly delay startup on non-Mac OSes.",
+  "text": "**Performance** – Wenn du deinen gesamten Code im Stammverzeichnis deines Repositorys ablegst, werden die Verzeichnisse {0} und {1} von Dateisystem-Watchern gescannt bzw. einbezogen. Das kann den Start auf Nicht-Mac-Betriebssystemen deutlich verzögern.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Performance** – Wenn du deinen gesamten Code im Stammverzeichnis deines Repositorys ablegst, werden die Verzeichnisse {0} und {1} von Dateisystem-Watchern gescannt bzw. einbezogen. Das kann den Start auf Nicht-Mac-Betriebssystemen deutlich verzögern."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

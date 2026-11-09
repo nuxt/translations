@@ -1,0 +1,14 @@
+{
+  "hash": "db1886c48be8f96b",
+  "source": "the Nitro documentation for node-server preset",
+  "text": "die Nitro-Dokumentation zum node-server-Preset",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "die Nitro-Dokumentation zum node-server-Preset"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

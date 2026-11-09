@@ -1,0 +1,14 @@
+{
+  "hash": "bf1fbf115a0cd580",
+  "source": "If you also have {0}, the priority order is:",
+  "text": "Wenn du zusätzlich {0} hast, ergibt sich folgende Prioritätsreihenfolge:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du zusätzlich {0} hast, ergibt sich folgende Prioritätsreihenfolge:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "3759e0ebdbf1609c",
+  "source": "Nuxt provides utilities to give you control over preloading components.",
+  "text": "Nuxt stellt Hilfsfunktionen bereit, mit denen du das Vorladen von Komponenten steuern kannst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt stellt Hilfsfunktionen bereit, mit denen du das Vorladen von Komponenten steuern kannst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "d7e7b07cb16f6c7d",
+  "source": "Payload URL includes a hostname.",
+  "text": "Die Payload-URL enthält einen Hostnamen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Payload-URL enthält einen Hostnamen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

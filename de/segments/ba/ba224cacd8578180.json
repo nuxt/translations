@@ -1,0 +1,14 @@
+{
+  "hash": "ba224cacd8578180",
+  "source": "**{0}** holds the running dev server. Nuxt's CLI consumes it, and the official builders expose a {1} (a Node request listener), a {2} (a web {3} handler), and {4} / {5} methods on it. Whether you build your own dev server or delegate to Nitro's ({6} from {7}) is up to the builder.",
+  "text": "**{0}** enthält den laufenden Entwicklungsserver. Die Nuxt-Kommandozeilenschnittstelle (CLI) nutzt ihn, und die offiziellen Builder stellen darauf einen {1} (einen Node-Request-Listener), einen {2} (einen Web-{3}-Handler) sowie die Methoden {4} / {5} bereit. Ob du einen eigenen Entwicklungsserver baust oder an den von Nitro ({6} aus {7}) delegierst, entscheidet der Builder.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** enthält den laufenden Entwicklungsserver. Die Nuxt-Kommandozeilenschnittstelle (CLI) nutzt ihn, und die offiziellen Builder stellen darauf einen {1} (einen Node-Request-Listener), einen {2} (einen Web-{3}-Handler) sowie die Methoden {4} / {5} bereit. Ob du einen eigenen Entwicklungsserver baust oder an den von Nitro ({6} aus {7}) delegierst, entscheidet der Builder."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

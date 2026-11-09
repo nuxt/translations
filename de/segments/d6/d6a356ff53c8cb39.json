@@ -1,0 +1,14 @@
+{
+  "hash": "d6a356ff53c8cb39",
+  "source": "Find all anchor tags ({0}) in the HTML to navigate to other routes.",
+  "text": "Er sucht im HTML alle Anker-Tags ({0}), um zu weiteren Routen zu navigieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Er sucht im HTML alle Anker-Tags ({0}), um zu weiteren Routen zu navigieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

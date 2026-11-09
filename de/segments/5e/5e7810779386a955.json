@@ -1,0 +1,14 @@
+{
+  "hash": "5e7810779386a955",
+  "source": "Please use \"X for Nuxt\" instead of \"X for Nuxt 3\" to avoid fragmentation in the ecosystem and prefer using {0} to set Nuxt version constraints.",
+  "text": "Verwende bitte „X für Nuxt“ statt „X für Nuxt 3“, um eine Fragmentierung des Ökosystems zu vermeiden, und nutze bevorzugt {0}, um Versionsbeschränkungen für Nuxt festzulegen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwende bitte „X für Nuxt“ statt „X für Nuxt 3“, um eine Fragmentierung des Ökosystems zu vermeiden, und nutze bevorzugt {0}, um Versionsbeschränkungen für Nuxt festzulegen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

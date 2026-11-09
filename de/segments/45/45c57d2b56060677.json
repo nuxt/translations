@@ -1,0 +1,14 @@
+{
+  "hash": "45c57d2b56060677",
+  "source": "Forwarding Context & Headers",
+  "text": "Kontext und Header weiterleiten",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Kontext und Header weiterleiten"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

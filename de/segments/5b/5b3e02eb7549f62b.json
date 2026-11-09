@@ -1,0 +1,14 @@
+{
+  "hash": "5b3e02eb7549f62b",
+  "source": "Returns the Nitro instance.",
+  "text": "Gibt die Nitro-Instanz zurück.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gibt die Nitro-Instanz zurück."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

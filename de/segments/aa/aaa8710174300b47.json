@@ -1,0 +1,14 @@
+{
+  "hash": "aaa8710174300b47",
+  "source": "The preview command starts a server to preview your application after the build command.",
+  "text": "Der Befehl preview startet einen Server, um deine Anwendung nach dem Befehl build in der Vorschau anzuzeigen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Befehl preview startet einen Server, um deine Anwendung nach dem Befehl build in der Vorschau anzuzeigen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

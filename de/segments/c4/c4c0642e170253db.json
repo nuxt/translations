@@ -1,0 +1,14 @@
+{
+  "hash": "c4c0642e170253db",
+  "source": "Called right before compilation.",
+  "text": "Wird unmittelbar vor der Kompilierung aufgerufen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird unmittelbar vor der Kompilierung aufgerufen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

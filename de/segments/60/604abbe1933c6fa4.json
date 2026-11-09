@@ -1,0 +1,14 @@
+{
+  "hash": "604abbe1933c6fa4",
+  "source": "Ongoing Support for Nuxt",
+  "text": "Fortlaufende Unterstützung für Nuxt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fortlaufende Unterstützung für Nuxt"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

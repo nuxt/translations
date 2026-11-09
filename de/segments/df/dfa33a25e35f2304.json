@@ -1,0 +1,14 @@
+{
+  "hash": "dfa33a25e35f2304",
+  "source": "If you are using {0}, make sure to use the {1} component to display the current page:",
+  "text": "Wenn du {0} verwendest, achte darauf, die Komponente {1} zu verwenden, um die aktuelle Seite anzuzeigen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du {0} verwendest, achte darauf, die Komponente {1} zu verwenden, um die aktuelle Seite anzuzeigen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

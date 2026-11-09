@@ -1,0 +1,14 @@
+{
+  "hash": "28eb23eb80e2a79d",
+  "source": "Even if you do not await the return value, during SSR Nuxt will wait for the request to finish and send the resolved data to the client.",
+  "text": "Auch wenn du nicht auf den Rückgabewert wartest, wartet Nuxt während SSR darauf, dass die Anfrage abgeschlossen ist, und sendet die aufgelösten Daten an den Client.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auch wenn du nicht auf den Rückgabewert wartest, wartet Nuxt während SSR darauf, dass die Anfrage abgeschlossen ist, und sendet die aufgelösten Daten an den Client."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

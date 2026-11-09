@@ -1,0 +1,14 @@
+{
+  "hash": "e5f91e836ce6896f",
+  "source": "If a project already includes a dev container configuration, you can open it using any of these methods:",
+  "text": "Enthält ein Projekt bereits eine Dev-Container-Konfiguration, kannst du es mit einer der folgenden Methoden öffnen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Enthält ein Projekt bereits eine Dev-Container-Konfiguration, kannst du es mit einer der folgenden Methoden öffnen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

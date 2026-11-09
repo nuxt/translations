@@ -1,0 +1,14 @@
+{
+  "hash": "bba2611593ba6f3d",
+  "source": "{0}Middlewares{/0} and {1}pages{/1} run in the server and on the client during hydration. {2}Plugins{/2} can be rendered on the server or client or both. {3}Components{/3} can be forced to run on the client only as well. {4}Composables{/4} and {5}utilities{/5} are rendered based on the context of their usage.",
+  "text": "{0}Middleware{/0} und {1}Seiten{/1} laufen während der Hydration auf dem Server und auf dem Client. {2}Plugins{/2} können auf dem Server, auf dem Client oder auf beiden gerendert werden. {3}Komponenten{/3} lassen sich ebenfalls so erzwingen, dass sie nur auf dem Client laufen. {4}Composables{/4} und {5}Hilfsfunktionen{/5} werden abhängig vom Kontext ihrer Verwendung gerendert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}Middleware{/0} und {1}Seiten{/1} laufen während der Hydration auf dem Server und auf dem Client. {2}Plugins{/2} können auf dem Server, auf dem Client oder auf beiden gerendert werden. {3}Komponenten{/3} lassen sich ebenfalls so erzwingen, dass sie nur auf dem Client laufen. {4}Composables{/4} und {5}Hilfsfunktionen{/5} werden abhängig vom Kontext ihrer Verwendung gerendert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

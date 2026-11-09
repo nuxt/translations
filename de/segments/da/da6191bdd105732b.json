@@ -1,0 +1,14 @@
+{
+  "hash": "da6191bdd105732b",
+  "source": "If you encounter any issues you can revert back to the previous behavior, for now, with:",
+  "text": "Wenn Probleme auftreten, kannst du vorerst mit Folgendem zum vorherigen Verhalten zurückkehren:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn Probleme auftreten, kannst du vorerst mit Folgendem zum vorherigen Verhalten zurückkehren:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "2889633d9661b9f5",
+  "source": "Custom CSS variable prefixes",
+  "text": "Benutzerdefinierte Präfixe für CSS-Variablen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Benutzerdefinierte Präfixe für CSS-Variablen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

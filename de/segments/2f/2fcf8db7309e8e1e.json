@@ -1,0 +1,14 @@
+{
+  "hash": "2fcf8db7309e8e1e",
+  "source": "Requests a minimal popup window instead of a new tab, with UI features decided by the browser.",
+  "text": "Fordert ein minimales Popup-Fenster statt einer neuen Registerkarte an. Welche Elemente der Benutzeroberfläche angezeigt werden, entscheidet der Browser.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fordert ein minimales Popup-Fenster statt einer neuen Registerkarte an. Welche Elemente der Benutzeroberfläche angezeigt werden, entscheidet der Browser."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

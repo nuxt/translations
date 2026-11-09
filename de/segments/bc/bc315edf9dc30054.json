@@ -1,0 +1,14 @@
+{
+  "hash": "bc315edf9dc30054",
+  "source": "The first argument is the endpoint name (e.g. {0}). The second argument is a factory function that returns the mocked data.",
+  "text": "Das erste Argument ist der Name des Endpunkts (z. B. {0}). Das zweite Argument ist eine Factory-Funktion, die die gemockten Daten zurückgibt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das erste Argument ist der Name des Endpunkts (z. B. {0}). Das zweite Argument ist eine Factory-Funktion, die die gemockten Daten zurückgibt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

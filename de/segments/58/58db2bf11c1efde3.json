@@ -1,0 +1,14 @@
+{
+  "hash": "58db2bf11c1efde3",
+  "source": "A {0} file that imports from {1} doesn't trigger this warning, because it configures {2}Vite+{/2} commands rather than your Nuxt app.",
+  "text": "Eine {0}-Datei, die aus {1} importiert, löst diese Warnung nicht aus, da sie {2}Vite+{/2}-Befehle konfiguriert und nicht deine Nuxt-App.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine {0}-Datei, die aus {1} importiert, löst diese Warnung nicht aus, da sie {2}Vite+{/2}-Befehle konfiguriert und nicht deine Nuxt-App."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "fbdf1b4d7598ee70",
+  "source": "{0} function accepts {1} and {2} parameters.",
+  "text": "Die Funktion {0} akzeptiert die Parameter {1} und {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Funktion {0} akzeptiert die Parameter {1} und {2}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

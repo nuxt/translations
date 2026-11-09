@@ -1,0 +1,14 @@
+{
+  "hash": "822b39e871e0c0ee",
+  "source": "the file as served, subsetted if you set {0}",
+  "text": "die Datei, wie sie ausgeliefert wird, als Subset, wenn du {0} setzt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "die Datei, wie sie ausgeliefert wird, als Subset, wenn du {0} setzt"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "2865dd5a4705f5cc",
+  "source": "The docs command searches the Nuxt documentation for the version your project uses.",
+  "text": "Der Befehl docs durchsucht die Nuxt-Dokumentation für die Version, die dein Projekt verwendet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Befehl docs durchsucht die Nuxt-Dokumentation für die Version, die dein Projekt verwendet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

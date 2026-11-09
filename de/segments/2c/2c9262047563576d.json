@@ -1,0 +1,14 @@
+{
+  "hash": "2c9262047563576d",
+  "source": "The {0} command runs {1} to generate {2} directory within your {3} that contains the full build for your **nuxt-module**.",
+  "text": "Der Befehl {0} führt {1} aus, um das Verzeichnis {2} in deinem {3} zu generieren, das den vollständigen Build für dein **nuxt-module** enthält.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Befehl {0} führt {1} aus, um das Verzeichnis {2} in deinem {3} zu generieren, das den vollständigen Build für dein **nuxt-module** enthält."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

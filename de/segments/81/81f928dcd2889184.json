@@ -1,0 +1,14 @@
+{
+  "hash": "81f928dcd2889184",
+  "source": "It's good practice to set tags here that won't change such as your site title default, language and favicon.",
+  "text": "Es ist empfehlenswert, hier Tags zu setzen, die sich nicht ändern, etwa den Standardtitel der Website, die Sprache und das Favicon.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Es ist empfehlenswert, hier Tags zu setzen, die sich nicht ändern, etwa den Standardtitel der Website, die Sprache und das Favicon."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

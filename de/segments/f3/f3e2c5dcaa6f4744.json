@@ -1,0 +1,14 @@
+{
+  "hash": "f3e2c5dcaa6f4744",
+  "source": "Nuxt also provides a {0} component that allows you to handle client-side errors within your app, without replacing your entire site with an error page.",
+  "text": "Nuxt stellt außerdem eine Komponente {0} bereit, mit der du Fehler auf dem Client innerhalb deiner App behandeln kannst, ohne die gesamte Website durch eine Fehlerseite zu ersetzen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt stellt außerdem eine Komponente {0} bereit, mit der du Fehler auf dem Client innerhalb deiner App behandeln kannst, ohne die gesamte Website durch eine Fehlerseite zu ersetzen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

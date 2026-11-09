@@ -1,0 +1,14 @@
+{
+  "hash": "6251bbdb98134c35",
+  "source": "Reduces every font file that is emitted to the glyphs needed to render these characters. Accepts a string of text, an array of characters, or {0} values, and can be overridden for a single font with {1}.",
+  "text": "Reduziert jede ausgegebene Schriftdatei auf die Glyphen, die zur Darstellung dieser Zeichen nötig sind. Akzeptiert einen Text, ein Array von Zeichen oder {0}-Werte und kann für eine einzelne Schrift mit {1} überschrieben werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Reduziert jede ausgegebene Schriftdatei auf die Glyphen, die zur Darstellung dieser Zeichen nötig sind. Akzeptiert einen Text, ein Array von Zeichen oder {0}-Werte und kann für eine einzelne Schrift mit {1} überschrieben werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

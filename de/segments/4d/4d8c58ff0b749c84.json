@@ -1,0 +1,14 @@
+{
+  "hash": "4d8c58ff0b749c84",
+  "source": "When running the command, it will:",
+  "text": "Wenn du den Befehl ausführst, passiert Folgendes:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du den Befehl ausführst, passiert Folgendes:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "334cebdf42e70604",
+  "source": "However, Nuxt has a concept of **route middleware** that simplifies the implementation of navigation guards and provides a better developer experience.",
+  "text": "Nuxt kennt jedoch das Konzept der **Routen-Middleware**, das die Umsetzung von Navigation Guards vereinfacht und eine bessere Developer Experience bietet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt kennt jedoch das Konzept der **Routen-Middleware**, das die Umsetzung von Navigation Guards vereinfacht und eine bessere Developer Experience bietet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

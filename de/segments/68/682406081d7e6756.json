@@ -1,0 +1,14 @@
+{
+  "hash": "682406081d7e6756",
+  "source": "Skips the callback if the signal is aborted before it runs. This is useful when calling {0} from a component that may unmount before your app is ready.",
+  "text": "Überspringt den Callback, wenn das Signal abgebrochen wird, bevor er ausgeführt wird. Das ist nützlich, wenn du {0} in einer Komponente aufrufst, die möglicherweise unmountet wird, bevor deine App bereit ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Überspringt den Callback, wenn das Signal abgebrochen wird, bevor er ausgeführt wird. Das ist nützlich, wenn du {0} in einer Komponente aufrufst, die möglicherweise unmountet wird, bevor deine App bereit ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

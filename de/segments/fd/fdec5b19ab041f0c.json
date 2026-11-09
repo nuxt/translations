@@ -1,0 +1,14 @@
+{
+  "hash": "fdec5b19ab041f0c",
+  "source": "**GET** method: Returns {0}",
+  "text": "**GET**-Methode: Gibt {0} zurück",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**GET**-Methode: Gibt {0} zurück"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

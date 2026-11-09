@@ -1,0 +1,14 @@
+{
+  "hash": "c6dd6ddce4f0267e",
+  "source": "For example, assuming you have the following middleware and component:",
+  "text": "Angenommen, du hast zum Beispiel die folgende Middleware und die folgende Komponente:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Angenommen, du hast zum Beispiel die folgende Middleware und die folgende Komponente:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

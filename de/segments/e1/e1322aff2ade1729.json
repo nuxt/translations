@@ -1,0 +1,14 @@
+{
+  "hash": "e1322aff2ade1729",
+  "source": "Hooks available in {0} allows you to customize the runtime aspects of your Nuxt application. You can use runtime hooks in Vue.js composables and {1}Nuxt plugins{/1} to hook into the rendering lifecycle.",
+  "text": "Mit den in {0} verfügbaren Hooks kannst du die Laufzeitaspekte deiner Nuxt-Anwendung anpassen. Du kannst Runtime-Hooks in Vue.js-Composables und {1}Nuxt-Plugins{/1} verwenden, um dich in den Rendering-Lebenszyklus einzuklinken.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit den in {0} verfügbaren Hooks kannst du die Laufzeitaspekte deiner Nuxt-Anwendung anpassen. Du kannst Runtime-Hooks in Vue.js-Composables und {1}Nuxt-Plugins{/1} verwenden, um dich in den Rendering-Lebenszyklus einzuklinken."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

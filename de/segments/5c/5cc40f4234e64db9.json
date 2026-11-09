@@ -1,0 +1,14 @@
+{
+  "hash": "5cc40f4234e64db9",
+  "source": "If you want a parameter to be *optional*, you must enclose it in double square brackets - for example, {0} or {1} will match both {2} and {3}.",
+  "text": "Wenn ein Parameter *optional* sein soll, musst du ihn in doppelte eckige Klammern setzen – zum Beispiel passen {0} oder {1} sowohl auf {2} als auch auf {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn ein Parameter *optional* sein soll, musst du ihn in doppelte eckige Klammern setzen – zum Beispiel passen {0} oder {1} sowohl auf {2} als auch auf {3}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

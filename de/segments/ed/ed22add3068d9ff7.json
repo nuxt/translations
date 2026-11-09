@@ -1,0 +1,14 @@
+{
+  "hash": "ed22add3068d9ff7",
+  "source": "start from the end of the array and go to the beginning",
+  "text": "am Ende des Arrays beginnen und bis zum Anfang durchlaufen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "am Ende des Arrays beginnen und bis zum Anfang durchlaufen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

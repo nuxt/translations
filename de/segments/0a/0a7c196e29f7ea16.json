@@ -1,0 +1,14 @@
+{
+  "hash": "0a7c196e29f7ea16",
+  "source": "You can also use the payload object to enable two-way communication between the emitter and listeners. Since the payload is passed by reference, a listener can modify it to send data back to the emitter.",
+  "text": "Du kannst außerdem das Payload-Objekt nutzen, um eine Zwei-Wege-Kommunikation zwischen dem auslösenden Code und den Listenern zu ermöglichen. Da die Payload als Referenz übergeben wird, kann ein Listener sie ändern, um Daten an den auslösenden Code zurückzusenden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst außerdem das Payload-Objekt nutzen, um eine Zwei-Wege-Kommunikation zwischen dem auslösenden Code und den Listenern zu ermöglichen. Da die Payload als Referenz übergeben wird, kann ein Listener sie ändern, um Daten an den auslösenden Code zurückzusenden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

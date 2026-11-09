@@ -1,0 +1,14 @@
+{
+  "hash": "a67645fa2267bb88",
+  "source": "If you are looking for a list of cloud providers that support Nuxt, see the {0}Hosting providers{/0} section.",
+  "text": "Eine Liste von Cloud-Anbietern, die Nuxt unterstützen, findest du im Abschnitt {0}Hosting-Anbieter{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine Liste von Cloud-Anbietern, die Nuxt unterstützen, findest du im Abschnitt {0}Hosting-Anbieter{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

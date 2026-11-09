@@ -1,0 +1,14 @@
+{
+  "hash": "7a239a508ccbd932",
+  "source": "In a Vite production build the fonts are handed to Vite's asset pipeline, so Vite rewrites their URLs exactly as it does for any other asset it emits: {0}, {1}, a relative base and {2} all apply. Bundled stylesheets get URLs relative to the stylesheet ({3}), because that is what {4} asks Vite to do for non-JS assets; server-inlined {5} blocks get an absolute URL resolved at runtime.",
+  "text": "In einem Vite-Produktions-Build werden die Schriftarten an die asset-Pipeline von Vite übergeben. Vite schreibt ihre URLs daher genauso um wie bei jedem anderen asset, das es ausgibt: {0}, {1}, eine relative Basis und {2} greifen alle. Gebündelte Stylesheets erhalten URLs relativ zum Stylesheet ({3}), da {4} Vite dazu anweist, dies für Nicht-JS-assets zu tun. Auf dem Server eingebettete {5}-Blöcke erhalten eine absolute URL, die zur Laufzeit aufgelöst wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In einem Vite-Produktions-Build werden die Schriftarten an die asset-Pipeline von Vite übergeben. Vite schreibt ihre URLs daher genauso um wie bei jedem anderen asset, das es ausgibt: {0}, {1}, eine relative Basis und {2} greifen alle. Gebündelte Stylesheets erhalten URLs relativ zum Stylesheet ({3}), da {4} Vite dazu anweist, dies für Nicht-JS-assets zu tun. Auf dem Server eingebettete {5}-Blöcke erhalten eine absolute URL, die zur Laufzeit aufgelöst wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

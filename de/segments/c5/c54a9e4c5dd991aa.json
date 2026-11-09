@@ -1,0 +1,14 @@
+{
+  "hash": "c54a9e4c5dd991aa",
+  "source": "Supports native lazy loading as well as other {0} attributes",
+  "text": "Unterstützt natives verzögertes Laden sowie weitere {0}-Attribute",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Unterstützt natives verzögertes Laden sowie weitere {0}-Attribute"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

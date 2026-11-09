@@ -1,0 +1,14 @@
+{
+  "hash": "9d31cd2f90b921ff",
+  "source": "Nitro Config",
+  "text": "Nitro-Konfiguration",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nitro-Konfiguration"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

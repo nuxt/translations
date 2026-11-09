@@ -1,0 +1,14 @@
+{
+  "hash": "f10f4896b00b981f",
+  "source": "This composable gives you access to the loading state of the app page.",
+  "text": "Dieses Composable gibt dir Zugriff auf den Ladezustand der App-Seite.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dieses Composable gibt dir Zugriff auf den Ladezustand der App-Seite."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

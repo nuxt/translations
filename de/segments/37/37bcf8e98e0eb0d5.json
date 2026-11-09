@@ -1,0 +1,14 @@
+{
+  "hash": "37bcf8e98e0eb0d5",
+  "source": "Payloads contain serialized data from {0} and {1}. Client-side navigation loads these cached payloads instead of re-fetching data. Configure dynamic routes like {2} with route rules: {3}.",
+  "text": "Payloads enthalten serialisierte Daten aus {0} und {1}. Die clientseitige Navigation lädt diese zwischengespeicherten Payloads, anstatt die Daten erneut abzurufen. Konfiguriere dynamische Routen wie {2} mit Route-Rules: {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Payloads enthalten serialisierte Daten aus {0} und {1}. Die clientseitige Navigation lädt diese zwischengespeicherten Payloads, anstatt die Daten erneut abzurufen. Konfiguriere dynamische Routen wie {2} mit Route-Rules: {3}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

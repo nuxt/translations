@@ -1,0 +1,14 @@
+{
+  "hash": "963395a253b8b363",
+  "source": "Nuxt uses ofetch to expose globally the $fetch helper for making HTTP requests.",
+  "text": "Nuxt verwendet ofetch, um das Hilfsprogramm $fetch global für HTTP-Anfragen bereitzustellen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt verwendet ofetch, um das Hilfsprogramm $fetch global für HTTP-Anfragen bereitzustellen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

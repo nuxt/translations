@@ -1,0 +1,14 @@
+{
+  "hash": "e7d15470c3e4e499",
+  "source": "You can make your {0} function abortable by using the {1} provided in the second argument. This is useful for cancelling requests when they are no longer needed, such as when a user navigates away from a page. {2} natively supports abort signals.",
+  "text": "Du kannst deine {0}-Funktion abbrechbar machen, indem du das {1} verwendest, das im zweiten Argument übergeben wird. Das ist nützlich, um Anfragen abzubrechen, wenn sie nicht mehr benötigt werden, etwa wenn Nutzende von einer Seite wegnavigieren. {2} unterstützt Abbruchsignale nativ.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst deine {0}-Funktion abbrechbar machen, indem du das {1} verwendest, das im zweiten Argument übergeben wird. Das ist nützlich, um Anfragen abzubrechen, wenn sie nicht mehr benötigt werden, etwa wenn Nutzende von einer Seite wegnavigieren. {2} unterstützt Abbruchsignale nativ."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "0e28e6a290194fe8",
+  "source": "If false, prevents function from being called immediately.",
+  "text": "Wenn false, wird verhindert, dass die Funktion sofort aufgerufen wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn false, wird verhindert, dass die Funktion sofort aufgerufen wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

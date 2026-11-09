@@ -1,0 +1,14 @@
+{
+  "hash": "795c808df97afd0f",
+  "source": "This feature will likely be removed in a near future.",
+  "text": "Dieses Feature wird voraussichtlich in naher Zukunft entfernt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dieses Feature wird voraussichtlich in naher Zukunft entfernt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "22e086a70cd67896",
+  "source": "When you pass an object into the {0} prop, {1} will inherit Vue Router’s handling of query parameters. Keys and values will be automatically encoded, so you don’t need to call {2} or {3} manually.",
+  "text": "Wenn du ein Objekt an die Prop {0} übergibst, übernimmt {1} die Verarbeitung von Query-Parametern durch Vue Router. Schlüssel und Werte werden automatisch kodiert, sodass du {2} oder {3} nicht manuell aufrufen musst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du ein Objekt an die Prop {0} übergibst, übernimmt {1} die Verarbeitung von Query-Parametern durch Vue Router. Schlüssel und Werte werden automatisch kodiert, sodass du {2} oder {3} nicht manuell aufrufen musst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

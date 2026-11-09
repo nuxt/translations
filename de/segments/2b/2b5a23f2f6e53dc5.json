@@ -1,0 +1,14 @@
+{
+  "hash": "2b5a23f2f6e53dc5",
+  "source": "Note that the \"DateTime\" string is the type identifier and must",
+  "text": "Beachte, dass der String \"DateTime\" der Typbezeichner ist und",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Beachte, dass der String \"DateTime\" der Typbezeichner ist und"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

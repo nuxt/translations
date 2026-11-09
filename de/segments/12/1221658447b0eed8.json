@@ -1,0 +1,14 @@
+{
+  "hash": "1221658447b0eed8",
+  "source": "By using {0}vue-demi{/0} they should be compatible with both Nuxt 2 and 3.",
+  "text": "Mit {0}vue-demi{/0} sollten sie sowohl mit Nuxt 2 als auch mit Nuxt 3 kompatibel sein.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit {0}vue-demi{/0} sollten sie sowohl mit Nuxt 2 als auch mit Nuxt 3 kompatibel sein."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

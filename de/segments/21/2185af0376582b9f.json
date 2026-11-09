@@ -1,0 +1,14 @@
+{
+  "hash": "2185af0376582b9f",
+  "source": "As you can see in the example above, {0} has become the new and custom part of {1} context and it is available in all places where {2} is accessible.",
+  "text": "Wie du im obigen Beispiel siehst, ist {0} zu einem neuen, benutzerdefinierten Teil des {1}-Kontexts geworden und überall verfügbar, wo {2} zugänglich ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wie du im obigen Beispiel siehst, ist {0} zu einem neuen, benutzerdefinierten Teil des {1}-Kontexts geworden und überall verfügbar, wo {2} zugänglich ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

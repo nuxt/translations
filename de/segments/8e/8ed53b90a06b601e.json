@@ -1,0 +1,14 @@
+{
+  "hash": "8ed53b90a06b601e",
+  "source": "Install {0} and {1} as development dependencies:",
+  "text": "Installiere {0} und {1} als Entwicklungsabhängigkeiten:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Installiere {0} und {1} als Entwicklungsabhängigkeiten:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "92571ef2de2d64f7",
+  "source": "Each {0} subpath ships a default stub in the {1} package, so the server runtime always type-checks and builds even before a builder runs. A builder overrides the stub by setting the matching build output; the value it provides replaces the stub at build time.",
+  "text": "Jeder {0}-Subpath wird im Paket {1} mit einem Standard-Stub ausgeliefert, sodass die Server-Runtime immer typgeprüft und erzeugt werden kann, auch bevor ein Builder läuft. Ein Builder überschreibt den Stub, indem er den passenden Build-Output setzt. Der bereitgestellte Wert ersetzt den Stub zur Build-Zeit.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Jeder {0}-Subpath wird im Paket {1} mit einem Standard-Stub ausgeliefert, sodass die Server-Runtime immer typgeprüft und erzeugt werden kann, auch bevor ein Builder läuft. Ein Builder überschreibt den Stub, indem er den passenden Build-Output setzt. Der bereitgestellte Wert ersetzt den Stub zur Build-Zeit."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

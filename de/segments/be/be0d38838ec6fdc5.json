@@ -1,0 +1,14 @@
+{
+  "hash": "be0d38838ec6fdc5",
+  "source": "Files are written relative to your {0}, which defaults to {1}, and server files relative to your {2}. The paths below assume those defaults.",
+  "text": "Dateien werden relativ zu deinem {0} geschrieben, das standardmäßig {1} ist, und Server-Dateien relativ zu deinem {2}. Die folgenden Pfade gehen von diesen Standardwerten aus.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dateien werden relativ zu deinem {0} geschrieben, das standardmäßig {1} ist, und Server-Dateien relativ zu deinem {2}. Die folgenden Pfade gehen von diesen Standardwerten aus."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

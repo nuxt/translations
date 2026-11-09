@@ -1,0 +1,14 @@
+{
+  "hash": "f4ead2493ce50226",
+  "source": "If a page path cannot be converted to an equivalent route rule pattern (for example, a param with a regular expression like {0}, a partial segment like {1}, or a repeatable param like {2}), the rules for that page are **not** applied and Nuxt warns during build. In that case, define the rules explicitly in {3} in your {4}.",
+  "text": "Wenn sich ein Seitenpfad nicht in ein äquivalentes Route-Regel-Muster umwandeln lässt (zum Beispiel ein Parameter mit einem regulären Ausdruck wie {0}, ein Teilsegment wie {1} oder ein wiederholbarer Parameter wie {2}), werden die Regeln für diese Seite **nicht** angewendet, und Nuxt gibt beim Build eine Warnung aus. Definiere die Regeln in diesem Fall explizit in {3} in deiner {4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn sich ein Seitenpfad nicht in ein äquivalentes Route-Regel-Muster umwandeln lässt (zum Beispiel ein Parameter mit einem regulären Ausdruck wie {0}, ein Teilsegment wie {1} oder ein wiederholbarer Parameter wie {2}), werden die Regeln für diese Seite **nicht** angewendet, und Nuxt gibt beim Build eine Warnung aus. Definiere die Regeln in diesem Fall explizit in {3} in deiner {4}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

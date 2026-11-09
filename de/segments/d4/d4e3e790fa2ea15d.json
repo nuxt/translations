@@ -1,0 +1,14 @@
+{
+  "hash": "d4e3e790fa2ea15d",
+  "source": "Variable font axes",
+  "text": "Achsen variabler Schriften",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Achsen variabler Schriften"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

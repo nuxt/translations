@@ -1,0 +1,14 @@
+{
+  "hash": "ade57fdd26883d85",
+  "source": "In addition, we provided some template utilities ({0}, {1}, {2}) which could be used for code-generation within these templates, which are now being removed.",
+  "text": "Zusätzlich haben wir einige Vorlagen-Hilfsfunktionen ({0}, {1}, {2}) bereitgestellt, die zur Codegenerierung in diesen Vorlagen dienten und die nun entfernt werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Zusätzlich haben wir einige Vorlagen-Hilfsfunktionen ({0}, {1}, {2}) bereitgestellt, die zur Codegenerierung in diesen Vorlagen dienten und die nun entfernt werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

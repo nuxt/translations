@@ -1,0 +1,14 @@
+{
+  "hash": "f7694322ddf9df3b",
+  "source": "Called when {0} is called.",
+  "text": "Wird aufgerufen, wenn {0} aufgerufen wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird aufgerufen, wenn {0} aufgerufen wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "eb4b731cf20585ff",
+  "source": "If set to {0}, the logs will not be printed to the browser console.",
+  "text": "Ist der Wert {0} gesetzt, werden die Protokolle nicht in der Browser-Konsole ausgegeben.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ist der Wert {0} gesetzt, werden die Protokolle nicht in der Browser-Konsole ausgegeben."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

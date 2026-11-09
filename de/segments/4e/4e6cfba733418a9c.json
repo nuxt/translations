@@ -1,0 +1,14 @@
+{
+  "hash": "4e6cfba733418a9c",
+  "source": "By default, Nuxt will also perform a reload of the new route when a chunk fails to load when navigating to a new route ({0}).",
+  "text": "Standardmäßig lädt Nuxt die neue Route ebenfalls neu, wenn beim Navigieren zu einer neuen Route ein Chunk nicht geladen werden kann ({0}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardmäßig lädt Nuxt die neue Route ebenfalls neu, wenn beim Navigieren zu einer neuen Route ein Chunk nicht geladen werden kann ({0})."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

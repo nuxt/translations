@@ -1,0 +1,14 @@
+{
+  "hash": "feae32eb6946fd17",
+  "source": "If it is unset, it will use the {0} file in the {1} directory of one of your layers, if it exists.",
+  "text": "Wenn der Wert nicht gesetzt ist, wird die Datei {0} im Verzeichnis {1} eines deiner Layer verwendet, sofern vorhanden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn der Wert nicht gesetzt ist, wird die Datei {0} im Verzeichnis {1} eines deiner Layer verwendet, sofern vorhanden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

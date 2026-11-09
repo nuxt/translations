@@ -1,0 +1,14 @@
+{
+  "hash": "cfc77a91f870b1a8",
+  "source": "Sets global head configuration for your Nuxt application. This utility allows modules to programmatically configure meta tags, links, scripts, and other head elements that will be applied across all pages.",
+  "text": "Legt die globale Head-Konfiguration für deine Nuxt-Anwendung fest. Mit dieser Hilfsfunktion können Module Meta-Tags, Links, Skripte und andere Head-Elemente programmatisch konfigurieren, die auf allen Seiten angewendet werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Legt die globale Head-Konfiguration für deine Nuxt-Anwendung fest. Mit dieser Hilfsfunktion können Module Meta-Tags, Links, Skripte und andere Head-Elemente programmatisch konfigurieren, die auf allen Seiten angewendet werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

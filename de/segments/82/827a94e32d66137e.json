@@ -1,0 +1,14 @@
+{
+  "hash": "827a94e32d66137e",
+  "source": "Render individual components on the server only, keeping their JavaScript out of your client bundle.",
+  "text": "Rendere einzelne Komponenten ausschließlich auf dem Server und halte ihr JavaScript aus deinem Client-Bundle heraus.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Rendere einzelne Komponenten ausschließlich auf dem Server und halte ihr JavaScript aus deinem Client-Bundle heraus."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

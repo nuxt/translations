@@ -1,0 +1,14 @@
+{
+  "hash": "af0ed61f4f57ee02",
+  "source": "Learn more about keyed functions.",
+  "text": "Mehr zu Funktionen mit Schlüssel.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mehr zu Funktionen mit Schlüssel."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

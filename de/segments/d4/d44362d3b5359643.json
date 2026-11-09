@@ -1,0 +1,14 @@
+{
+  "hash": "d44362d3b5359643",
+  "source": "Generates {0} and writes it to the project buildDir.",
+  "text": "Generiert {0} und schreibt es in das buildDir des Projekts.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Generiert {0} und schreibt es in das buildDir des Projekts."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

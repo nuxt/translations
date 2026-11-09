@@ -1,0 +1,14 @@
+{
+  "hash": "0f0edcd88709ea00",
+  "source": "You can also achieve a similar result with the {0} component.",
+  "text": "Ein ähnliches Ergebnis erzielst du auch mit der Komponente {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein ähnliches Ergebnis erzielst du auch mit der Komponente {0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "09bb6cd9c0e5f7df",
+  "source": "{0}: generates sourcemaps without the original source code (only file names and line mappings)",
+  "text": "{0}: erzeugt Sourcemaps ohne den ursprünglichen Quellcode (nur Dateinamen und Zeilenzuordnungen)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: erzeugt Sourcemaps ohne den ursprünglichen Quellcode (nur Dateinamen und Zeilenzuordnungen)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "9753eff7b0d6fd9d",
+  "source": "When linking to external resources, link to the final URL rather than one that redirects. You can check with:",
+  "text": "Verlinke bei externen Ressourcen auf die endgültige URL und nicht auf eine, die weiterleitet. Das kannst du so prüfen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verlinke bei externen Ressourcen auf die endgültige URL und nicht auf eine, die weiterleitet. Das kannst du so prüfen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

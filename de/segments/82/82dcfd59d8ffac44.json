@@ -1,0 +1,14 @@
+{
+  "hash": "82dcfd59d8ffac44",
+  "source": "Additionally, you can provide a glob pattern or an array of patterns to scan only certain files for pages.",
+  "text": "Zusätzlich kannst du ein Glob-Muster oder ein Array von Mustern angeben, um nur bestimmte Dateien nach Seiten zu durchsuchen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Zusätzlich kannst du ein Glob-Muster oder ein Array von Mustern angeben, um nur bestimmte Dateien nach Seiten zu durchsuchen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

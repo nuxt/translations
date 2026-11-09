@@ -1,0 +1,14 @@
+{
+  "hash": "5a436d1ee587063f",
+  "source": "The directory where Nuxt will store the generated files when running {0}.",
+  "text": "Das Verzeichnis, in dem Nuxt die erzeugten Dateien speichert, wenn {0} ausgeführt wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Verzeichnis, in dem Nuxt die erzeugten Dateien speichert, wenn {0} ausgeführt wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

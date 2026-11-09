@@ -1,0 +1,14 @@
+{
+  "hash": "2f32c3bce7175e77",
+  "source": "Status of the data request. Use it to distinguish {0}, {1}, {2}, and {3}.",
+  "text": "Status der Datenanfrage. Damit kannst du {0}, {1}, {2} und {3} unterscheiden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Status der Datenanfrage. Damit kannst du {0}, {1}, {2} und {3} unterscheiden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

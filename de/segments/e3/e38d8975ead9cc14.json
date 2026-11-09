@@ -1,0 +1,14 @@
+{
+  "hash": "e38d8975ead9cc14",
+  "source": "Nuxt renders your app on the server by default, but then it ships the JavaScript for every component to the browser and hydrates the whole page. For content-heavy components (markdown rendering, syntax highlighting, CMS output) that never change on the client, this is wasted work: the user downloads, parses and executes code whose only job is to reproduce HTML that is already on the page.",
+  "text": "Nuxt rendert deine App standardmäßig auf dem Server, liefert dann aber das JavaScript jeder Komponente an den Browser und hydratisiert die gesamte Seite. Bei inhaltslastigen Komponenten (Markdown-Rendering, Syntaxhervorhebung, CMS-Ausgabe), die sich auf dem Client nie ändern, ist das unnötiger Aufwand: Der Browser lädt Code herunter, parst ihn und führt ihn aus, obwohl dessen einzige Aufgabe darin besteht, HTML nachzubilden, das bereits auf der Seite steht.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt rendert deine App standardmäßig auf dem Server, liefert dann aber das JavaScript jeder Komponente an den Browser und hydratisiert die gesamte Seite. Bei inhaltslastigen Komponenten (Markdown-Rendering, Syntaxhervorhebung, CMS-Ausgabe), die sich auf dem Client nie ändern, ist das unnötiger Aufwand: Der Browser lädt Code herunter, parst ihn und führt ihn aus, obwohl dessen einzige Aufgabe darin besteht, HTML nachzubilden, das bereits auf der Seite steht."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

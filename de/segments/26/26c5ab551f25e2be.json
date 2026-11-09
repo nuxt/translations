@@ -1,0 +1,14 @@
+{
+  "hash": "26c5ab551f25e2be",
+  "source": "Adding custom routes",
+  "text": "Benutzerdefinierte Routen hinzufügen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Benutzerdefinierte Routen hinzufügen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

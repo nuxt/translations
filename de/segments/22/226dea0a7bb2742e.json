@@ -1,0 +1,14 @@
+{
+  "hash": "226dea0a7bb2742e",
+  "source": "The {0} directory is the main directory of the Nuxt application. It contains the following subdirectories:",
+  "text": "Das Verzeichnis {0} ist das Hauptverzeichnis der Nuxt-Anwendung. Es enthält die folgenden Unterverzeichnisse:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Verzeichnis {0} ist das Hauptverzeichnis der Nuxt-Anwendung. Es enthält die folgenden Unterverzeichnisse:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

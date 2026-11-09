@@ -1,0 +1,14 @@
+{
+  "hash": "e605816a4899a1f6",
+  "source": "Features that are only available on the nightly release channel are marked with an alert in the documentation.",
+  "text": "Funktionen, die nur im Nightly-Release-Kanal verfügbar sind, werden in der Dokumentation mit einem Hinweis gekennzeichnet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Funktionen, die nur im Nightly-Release-Kanal verfügbar sind, werden in der Dokumentation mit einem Hinweis gekennzeichnet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

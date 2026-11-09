@@ -1,0 +1,14 @@
+{
+  "hash": "eec02606f643433a",
+  "source": "Policy when triggering an execution more than once at a time.",
+  "text": "Verhalten, wenn eine Ausführung mehrmals gleichzeitig ausgelöst wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verhalten, wenn eine Ausführung mehrmals gleichzeitig ausgelöst wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

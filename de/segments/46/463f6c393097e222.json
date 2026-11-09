@@ -1,0 +1,14 @@
+{
+  "hash": "463f6c393097e222",
+  "source": "Read more about the different type contexts of a Nuxt project here.",
+  "text": "Mehr über die verschiedenen Typkontexte eines Nuxt-Projekts erfährst du hier.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mehr über die verschiedenen Typkontexte eines Nuxt-Projekts erfährst du hier."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

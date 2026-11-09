@@ -1,0 +1,14 @@
+{
+  "hash": "9534b8f0e90dbb4f",
+  "source": "Multi-Layer Support for Nuxt Modules",
+  "text": "Unterstützung mehrerer Layer für Nuxt-Module",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Unterstützung mehrerer Layer für Nuxt-Module"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "01654cc733104081",
+  "source": "Single File Components (SFC) Styling",
+  "text": "Styling mit Single-File-Komponenten (SFC)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Styling mit Single-File-Komponenten (SFC)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

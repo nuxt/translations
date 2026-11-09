@@ -1,0 +1,14 @@
+{
+  "hash": "db5aa4d27e50e175",
+  "source": "**Comment node placeholders**: client-only components use {0}comment nodes instead of {1}{/0} as SSR placeholders",
+  "text": "**Platzhalter als Kommentarknoten**: Komponenten, die nur auf dem Client laufen, verwenden {0}Kommentarknoten statt {1}{/0} als SSR-Platzhalter",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Platzhalter als Kommentarknoten**: Komponenten, die nur auf dem Client laufen, verwenden {0}Kommentarknoten statt {1}{/0} als SSR-Platzhalter"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

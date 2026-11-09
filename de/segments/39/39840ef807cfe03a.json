@@ -1,0 +1,14 @@
+{
+  "hash": "39840ef807cfe03a",
+  "source": "Create a Nuxt application to be used as a \"fixture\" inside {0}",
+  "text": "Erstelle eine Nuxt-Anwendung, die als „Fixture“ in {0} dient",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erstelle eine Nuxt-Anwendung, die als „Fixture“ in {0} dient"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

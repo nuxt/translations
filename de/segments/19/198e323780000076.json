@@ -1,0 +1,14 @@
+{
+  "hash": "198e323780000076",
+  "source": "Authoring Nuxt Layers",
+  "text": "Nuxt-Layer erstellen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt-Layer erstellen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

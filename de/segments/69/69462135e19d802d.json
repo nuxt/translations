@@ -1,0 +1,14 @@
+{
+  "hash": "69462135e19d802d",
+  "source": "This option allows bypassing reload loop protection entirely, forcing a reload even if one has occurred within the previously specified TTL.",
+  "text": "Mit dieser Option lässt sich der Schutz vor Neuladeschleifen komplett umgehen. Das Neuladen wird erzwungen, auch wenn innerhalb der zuvor angegebenen TTL bereits ein Neuladen stattgefunden hat.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit dieser Option lässt sich der Schutz vor Neuladeschleifen komplett umgehen. Das Neuladen wird erzwungen, auch wenn innerhalb der zuvor angegebenen TTL bereits ein Neuladen stattgefunden hat."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

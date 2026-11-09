@@ -1,0 +1,14 @@
+{
+  "hash": "7b4677b9ecf66535",
+  "source": "It's possible to create a custom app builder or a custom server builder:",
+  "text": "Du kannst einen eigenen App-Builder oder einen eigenen Server-Builder erstellen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst einen eigenen App-Builder oder einen eigenen Server-Builder erstellen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

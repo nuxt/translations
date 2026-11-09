@@ -1,0 +1,14 @@
+{
+  "hash": "c4578b57b2ebf8ff",
+  "source": "Nuxt file-system routing creates a route for every file in the pages/ directory.",
+  "text": "Das dateisystembasierte Routing von Nuxt erstellt für jede Datei im Verzeichnis pages/ eine Route.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das dateisystembasierte Routing von Nuxt erstellt für jede Datei im Verzeichnis pages/ eine Route."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

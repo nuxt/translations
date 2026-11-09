@@ -1,0 +1,14 @@
+{
+  "hash": "0c7afda926b42484",
+  "source": "{0}XState{/0} - state machine approach with tools for visualizing and testing your state logic",
+  "text": "{0}XState{/0} – Zustandsautomaten-Ansatz mit Werkzeugen zum Visualisieren und Testen deiner Zustandslogik",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}XState{/0} – Zustandsautomaten-Ansatz mit Werkzeugen zum Visualisieren und Testen deiner Zustandslogik"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

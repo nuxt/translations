@@ -1,0 +1,14 @@
+{
+  "hash": "4da48cda700b497b",
+  "source": "Called within {0} allowing to extend the directories that are scanned for auto-importable components.",
+  "text": "Wird innerhalb von {0} aufgerufen und erlaubt es, die Verzeichnisse zu erweitern, die nach automatisch importierbaren Komponenten gescannt werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird innerhalb von {0} aufgerufen und erlaubt es, die Verzeichnisse zu erweitern, die nach automatisch importierbaren Komponenten gescannt werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

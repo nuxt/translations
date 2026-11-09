@@ -1,0 +1,14 @@
+{
+  "hash": "6c9e38c742557bb4",
+  "source": "{0} to pass directly to webpack.",
+  "text": "{0}, die direkt an webpack übergeben werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}, die direkt an webpack übergeben werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

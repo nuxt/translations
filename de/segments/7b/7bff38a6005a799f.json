@@ -1,0 +1,14 @@
+{
+  "hash": "7bff38a6005a799f",
+  "source": "Use app manifests to respect route rules on client-side.",
+  "text": "Verwende App-Manifeste, um Route-Rules auch auf der Client-Seite zu berücksichtigen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwende App-Manifeste, um Route-Rules auch auf der Client-Seite zu berücksichtigen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

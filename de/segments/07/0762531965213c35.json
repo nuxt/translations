@@ -1,0 +1,14 @@
+{
+  "hash": "0762531965213c35",
+  "source": "For a complete list of Nuxt 4 codemods, detailed information on each, their source, and various ways to run them, visit the {0}Codemod Registry{/0}.",
+  "text": "Eine vollständige Liste der Nuxt-4-Codemods, ausführliche Informationen zu jedem einzelnen, ihre Quellen und verschiedene Möglichkeiten, sie auszuführen, findest du in der {0}Codemod Registry{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine vollständige Liste der Nuxt-4-Codemods, ausführliche Informationen zu jedem einzelnen, ihre Quellen und verschiedene Möglichkeiten, sie auszuführen, findest du in der {0}Codemod Registry{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

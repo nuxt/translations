@@ -1,0 +1,14 @@
+{
+  "hash": "9f51d28ed8dc5ae3",
+  "source": "This will generate fallbacks for local versions of Helvetica and Arial, adjusted to match Roboto's metrics.",
+  "text": "Dadurch werden Fallbacks für lokale Versionen von Helvetica und Arial erzeugt, die an die Metriken von Roboto angepasst sind.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dadurch werden Fallbacks für lokale Versionen von Helvetica und Arial erzeugt, die an die Metriken von Roboto angepasst sind."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

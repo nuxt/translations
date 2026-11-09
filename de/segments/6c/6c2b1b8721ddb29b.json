@@ -1,0 +1,14 @@
+{
+  "hash": "6c2b1b8721ddb29b",
+  "source": "The layout can then receive these props:",
+  "text": "Das Layout kann diese Props dann entgegennehmen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Layout kann diese Props dann entgegennehmen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "4c4125d3221b643f",
+  "source": "Nuxt 3 is a complete rewrite of Nuxt 2, and also based on a new set of underlying technologies.",
+  "text": "Nuxt 3 ist eine vollständige Neuentwicklung von Nuxt 2 und basiert zudem auf einer neuen Reihe zugrunde liegender Technologien.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt 3 ist eine vollständige Neuentwicklung von Nuxt 2 und basiert zudem auf einer neuen Reihe zugrunde liegender Technologien."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

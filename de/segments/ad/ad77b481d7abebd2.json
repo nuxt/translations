@@ -1,0 +1,14 @@
+{
+  "hash": "ad77b481d7abebd2",
+  "source": "Enables CookieStore support to listen for cookie updates (if supported by the browser) and refresh {0} ref values.",
+  "text": "Aktiviert die Unterstützung für CookieStore, um auf Cookie-Änderungen zu lauschen (sofern der Browser dies unterstützt) und die Ref-Werte von {0} zu aktualisieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Aktiviert die Unterstützung für CookieStore, um auf Cookie-Änderungen zu lauschen (sofern der Browser dies unterstützt) und die Ref-Werte von {0} zu aktualisieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

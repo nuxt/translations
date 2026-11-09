@@ -1,0 +1,14 @@
+{
+  "hash": "3968aea6108fcf5d",
+  "source": "Loads only the required chunks to render the request for optimal cold start timing{0}",
+  "text": "Lädt nur die Chunks, die zum Rendern der Anfrage erforderlich sind, für ein optimales Cold-Start-Verhalten{0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lädt nur die Chunks, die zum Rendern der Anfrage erforderlich sind, für ein optimales Cold-Start-Verhalten{0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

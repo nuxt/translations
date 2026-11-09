@@ -1,0 +1,14 @@
+{
+  "hash": "cc9c14ef90354dd6",
+  "source": "You want to use a different implementation than what the layer provides",
+  "text": "du eine andere Implementierung verwenden möchtest als die, die der Layer bereitstellt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "du eine andere Implementierung verwenden möchtest als die, die der Layer bereitstellt"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

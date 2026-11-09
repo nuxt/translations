@@ -1,0 +1,14 @@
+{
+  "hash": "ffd22db0aa764bf3",
+  "source": "Write a {0} declaration and Nuxt Fonts finds the font, serves it from your own origin, and generates fallback metrics to reduce layout shift. There's nothing to import and no component to wrap your text in.",
+  "text": "Schreibe eine {0}-Deklaration, und Nuxt Fonts findet die Schriftart, liefert sie von deinem eigenen Ursprung aus und erzeugt Fallback-Metriken, um Layout-Verschiebungen zu verringern. Du musst nichts importieren und keine Komponente um deinen Text legen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Schreibe eine {0}-Deklaration, und Nuxt Fonts findet die Schriftart, liefert sie von deinem eigenen Ursprung aus und erzeugt Fallback-Metriken, um Layout-Verschiebungen zu verringern. Du musst nichts importieren und keine Komponente um deinen Text legen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

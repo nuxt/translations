@@ -1,0 +1,14 @@
+{
+  "hash": "a14954e8f7692f2b",
+  "source": "Default to an empty string, automatically set at runtime using process.env.NUXT_API_KEY",
+  "text": "Standardmäßig ein leerer String, wird zur Laufzeit automatisch über process.env.NUXT_API_KEY gesetzt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardmäßig ein leerer String, wird zur Laufzeit automatisch über process.env.NUXT_API_KEY gesetzt"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

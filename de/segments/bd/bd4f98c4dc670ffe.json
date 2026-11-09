@@ -1,0 +1,14 @@
+{
+  "hash": "bd4f98c4dc670ffe",
+  "source": "Shared State and Option Consistency",
+  "text": "Geteilter State und Konsistenz der Optionen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Geteilter State und Konsistenz der Optionen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

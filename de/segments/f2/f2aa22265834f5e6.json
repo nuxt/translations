@@ -1,0 +1,14 @@
+{
+  "hash": "f2aa22265834f5e6",
+  "source": "Use legacy server instead of Nitro",
+  "text": "Legacy-Server statt Nitro verwenden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Legacy-Server statt Nitro verwenden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

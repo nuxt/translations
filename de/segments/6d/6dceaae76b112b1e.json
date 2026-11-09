@@ -1,0 +1,14 @@
+{
+  "hash": "6dceaae76b112b1e",
+  "source": "Reject a request to a path no server route answers.",
+  "text": "Lehnt eine Anfrage an einen Pfad ab, den keine Server-Route beantwortet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lehnt eine Anfrage an einen Pfad ab, den keine Server-Route beantwortet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

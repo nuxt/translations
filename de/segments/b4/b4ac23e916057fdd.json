@@ -1,0 +1,14 @@
+{
+  "hash": "b4ac23e916057fdd",
+  "source": "This helps you avoid typos and common mistakes, such as using {0} instead of {1}.",
+  "text": "So vermeidest du Tippfehler und häufige Fehler, etwa die Verwendung von {0} statt {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "So vermeidest du Tippfehler und häufige Fehler, etwa die Verwendung von {0} statt {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

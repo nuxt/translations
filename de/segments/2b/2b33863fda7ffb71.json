@@ -1,0 +1,14 @@
+{
+  "hash": "2b33863fda7ffb71",
+  "source": "Testing Nuxt 4",
+  "text": "Nuxt 4 testen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt 4 testen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

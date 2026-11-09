@@ -1,0 +1,14 @@
+{
+  "hash": "a9113c4b297a42af",
+  "source": "This version does not exist yet but is planned",
+  "text": "Diese Version existiert noch nicht, ist aber geplant",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese Version existiert noch nicht, ist aber geplant"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

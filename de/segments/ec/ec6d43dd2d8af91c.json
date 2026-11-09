@@ -1,0 +1,14 @@
+{
+  "hash": "ec6d43dd2d8af91c",
+  "source": "Port to listen on (use {0} environment variable to override)",
+  "text": "Port, auf dem der Server lauscht (mit der Umgebungsvariable {0} überschreiben)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Port, auf dem der Server lauscht (mit der Umgebungsvariable {0} überschreiben)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

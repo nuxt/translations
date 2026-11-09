@@ -1,0 +1,14 @@
+{
+  "hash": "3b7e86731740d12d",
+  "source": "This is required because Nuxt infers the return types of your server endpoints to provide response types in {0} and {1}.",
+  "text": "Das ist nötig, weil Nuxt die Rückgabetypen deiner Server-Endpunkte ableitet, um Antworttypen in {0} und {1} bereitzustellen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das ist nötig, weil Nuxt die Rückgabetypen deiner Server-Endpunkte ableitet, um Antworttypen in {0} und {1} bereitzustellen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

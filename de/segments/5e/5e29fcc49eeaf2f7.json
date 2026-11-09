@@ -1,0 +1,14 @@
+{
+  "hash": "5e29fcc49eeaf2f7",
+  "source": "If you need to forward headers and cookies on the server, you must manually pass them:",
+  "text": "Wenn du Header und Cookies auf dem Server weiterleiten musst, musst du sie manuell übergeben:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du Header und Cookies auf dem Server weiterleiten musst, musst du sie manuell übergeben:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "150e6f863000cbad",
+  "source": "Specify one or more modules or layers to install by name, separated by spaces",
+  "text": "Gib ein oder mehrere Module oder Layer, die installiert werden sollen, per Namen an, getrennt durch Leerzeichen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gib ein oder mehrere Module oder Layer, die installiert werden sollen, per Namen an, getrennt durch Leerzeichen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

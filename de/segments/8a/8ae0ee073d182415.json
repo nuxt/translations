@@ -1,0 +1,14 @@
+{
+  "hash": "8ae0ee073d182415",
+  "source": "This feature needs {0} within your configuration to be true.",
+  "text": "Für diese Funktion muss {0} in deiner Konfiguration auf true gesetzt sein.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Für diese Funktion muss {0} in deiner Konfiguration auf true gesetzt sein."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

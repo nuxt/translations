@@ -1,0 +1,14 @@
+{
+  "hash": "9e7a3798f8e3087c",
+  "source": "{0}: unique name for the route record",
+  "text": "{0}: eindeutiger Name des Routeneintrags",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: eindeutiger Name des Routeneintrags"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

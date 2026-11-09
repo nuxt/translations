@@ -1,0 +1,14 @@
+{
+  "hash": "9028892ec198ca88",
+  "source": "By default, the workload gets distributed to the workers with the round robin strategy.",
+  "text": "Standardmäßig wird die Arbeitslast nach der Round-Robin-Strategie auf die Worker verteilt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardmäßig wird die Arbeitslast nach der Round-Robin-Strategie auf die Worker verteilt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "c0879ae54080d1fb",
+  "source": "... then the component's name will skip the grouping directory, resulting in:",
+  "text": "… dann überspringt der Name der Komponente das Gruppierungsverzeichnis, was zu Folgendem führt:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "… dann überspringt der Name der Komponente das Gruppierungsverzeichnis, was zu Folgendem führt:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "3e5cbcc23e12b5c8",
+  "source": "Selective Pre-rendering",
+  "text": "Selektives Vorab-Rendering",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Selektives Vorab-Rendering"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

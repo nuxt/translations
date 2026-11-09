@@ -1,0 +1,14 @@
+{
+  "hash": "023990f312f7a2b4",
+  "source": "{0}: root element {1}.",
+  "text": "{0}: Wurzelelement {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Wurzelelement {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

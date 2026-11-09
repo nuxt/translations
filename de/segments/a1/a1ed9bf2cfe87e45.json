@@ -1,0 +1,14 @@
+{
+  "hash": "a1ed9bf2cfe87e45",
+  "source": "Disable Transitions",
+  "text": "Übergänge deaktivieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Übergänge deaktivieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

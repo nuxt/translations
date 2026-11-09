@@ -1,0 +1,14 @@
+{
+  "hash": "582b81a00caf5c47",
+  "source": "The main purpose of the {0}{1} directory{/0} is to allow a semantic distinction between your Vue composables and other auto-imported utility functions.",
+  "text": "Der Hauptzweck des {0}{1}-Verzeichnisses{/0} ist es, eine semantische Unterscheidung zwischen deinen Vue-Composables und anderen automatisch importierten Hilfsfunktionen zu ermöglichen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Hauptzweck des {0}{1}-Verzeichnisses{/0} ist es, eine semantische Unterscheidung zwischen deinen Vue-Composables und anderen automatisch importierten Hilfsfunktionen zu ermöglichen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "d4ee3fbc861363fe",
+  "source": "{0} helper is globally available without import.",
+  "text": "Das Hilfsprogramm {0} ist global verfügbar, ohne dass du es importieren musst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Hilfsprogramm {0} ist global verfügbar, ohne dass du es importieren musst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

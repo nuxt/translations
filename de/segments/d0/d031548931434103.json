@@ -1,0 +1,14 @@
+{
+  "hash": "d031548931434103",
+  "source": "Nuxt provides a few utilities to work with {0}Nuxt modules{/0} seamlessly.",
+  "text": "Nuxt stellt einige Hilfsmittel bereit, um nahtlos mit {0}Nuxt-Modulen{/0} zu arbeiten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt stellt einige Hilfsmittel bereit, um nahtlos mit {0}Nuxt-Modulen{/0} zu arbeiten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

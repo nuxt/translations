@@ -1,0 +1,14 @@
+{
+  "hash": "eab4d9fc2f0309f4",
+  "source": "how {0} can be a function that returns a value;",
+  "text": "wie {0} eine Funktion sein kann, die einen Wert zurückgibt;",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "wie {0} eine Funktion sein kann, die einen Wert zurückgibt;"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

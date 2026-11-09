@@ -1,0 +1,14 @@
+{
+  "hash": "20421a5986250c10",
+  "source": "Nuxt types {0} and {1} from the routes your server will serve, whatever this option is set to, so a response is typed by the handler that answers it. What the option decides is whether a path Nuxt does not recognize is an error or is simply typed as {2}.",
+  "text": "Nuxt typisiert {0} und {1} anhand der Routen, die dein Server bereitstellt, unabhängig von dieser Option, sodass eine Antwort durch den Handler typisiert wird, der sie beantwortet. Die Option legt fest, ob ein Pfad, den Nuxt nicht kennt, ein Fehler ist oder einfach als {2} typisiert wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt typisiert {0} und {1} anhand der Routen, die dein Server bereitstellt, unabhängig von dieser Option, sodass eine Antwort durch den Handler typisiert wird, der sie beantwortet. Die Option legt fest, ob ein Pfad, den Nuxt nicht kennt, ein Fehler ist oder einfach als {2} typisiert wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

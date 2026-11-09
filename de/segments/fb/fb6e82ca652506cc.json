@@ -1,0 +1,14 @@
+{
+  "hash": "fb6e82ca652506cc",
+  "source": "the {0} client manifest",
+  "text": "das {0}-Client-Manifest",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "das {0}-Client-Manifest"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

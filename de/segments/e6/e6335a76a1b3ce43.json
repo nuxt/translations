@@ -1,0 +1,14 @@
+{
+  "hash": "e6335a76a1b3ce43",
+  "source": "Alternatively, you can temporarily revert to the previous behavior with:",
+  "text": "Alternativ kannst du vorübergehend zum vorherigen Verhalten zurückkehren:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Alternativ kannst du vorübergehend zum vorherigen Verhalten zurückkehren:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

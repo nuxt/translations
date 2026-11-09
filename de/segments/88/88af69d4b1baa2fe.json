@@ -1,0 +1,14 @@
+{
+  "hash": "88af69d4b1baa2fe",
+  "source": "Add the following context server configuration to your settings:",
+  "text": "Füge die folgende Context-Server-Konfiguration zu deinen Einstellungen hinzu:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Füge die folgende Context-Server-Konfiguration zu deinen Einstellungen hinzu:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

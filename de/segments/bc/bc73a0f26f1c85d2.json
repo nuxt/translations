@@ -1,0 +1,14 @@
+{
+  "hash": "bc73a0f26f1c85d2",
+  "source": "Usually the npm package name of your module",
+  "text": "Normalerweise der npm-Paketname deines Moduls",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Normalerweise der npm-Paketname deines Moduls"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

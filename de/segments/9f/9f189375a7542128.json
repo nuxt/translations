@@ -1,0 +1,14 @@
+{
+  "hash": "9f189375a7542128",
+  "source": "Consider carefully before enabling this as it can cause unexpected behavior, and consider providing explicit keys to {0} as auto-generated keys may not match across builds.",
+  "text": "Überlege gut, bevor du diese Funktion aktivierst, da sie unerwartetes Verhalten verursachen kann. Gib außerdem explizite Schlüssel für {0} an, da automatisch generierte Schlüssel über mehrere Builds hinweg möglicherweise nicht übereinstimmen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Überlege gut, bevor du diese Funktion aktivierst, da sie unerwartetes Verhalten verursachen kann. Gib außerdem explizite Schlüssel für {0} an, da automatisch generierte Schlüssel über mehrere Builds hinweg möglicherweise nicht übereinstimmen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

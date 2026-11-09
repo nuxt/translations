@@ -1,0 +1,14 @@
+{
+  "hash": "41446e7cd5b2cef0",
+  "source": "The assets/ directory is used to add all the website's assets that the build tool will process.",
+  "text": "Das Verzeichnis assets/ enthält alle Assets der Website, die das Build-Tool verarbeitet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Verzeichnis assets/ enthält alle Assets der Website, die das Build-Tool verarbeitet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

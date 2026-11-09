@@ -1,0 +1,14 @@
+{
+  "hash": "0e6249d99747093b",
+  "source": "If you have a component in nested directories such as:",
+  "text": "Wenn sich eine Komponente in verschachtelten Verzeichnissen befindet, zum Beispiel:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn sich eine Komponente in verschachtelten Verzeichnissen befindet, zum Beispiel:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

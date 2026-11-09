@@ -1,0 +1,14 @@
+{
+  "hash": "604c1b414067850d",
+  "source": "Automatically register Nuxt hooks",
+  "text": "Automatisches Registrieren von Nuxt-Hooks",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Automatisches Registrieren von Nuxt-Hooks"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

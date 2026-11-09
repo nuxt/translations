@@ -1,0 +1,14 @@
+{
+  "hash": "13b9ee78b9d223b2",
+  "source": "Module Migration",
+  "text": "Modulmigration",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Modulmigration"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

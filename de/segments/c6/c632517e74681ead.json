@@ -1,0 +1,14 @@
+{
+  "hash": "c632517e74681ead",
+  "source": "If you want to create named layer aliases for other layers, you can specify a name in the configuration of the layer.",
+  "text": "Wenn du benannte Layer-Aliase für andere Layer erstellen möchtest, kannst du in der Konfiguration des Layers einen Namen angeben.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du benannte Layer-Aliase für andere Layer erstellen möchtest, kannst du in der Konfiguration des Layers einen Namen angeben."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

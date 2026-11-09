@@ -1,0 +1,14 @@
+{
+  "hash": "70a7a5df4e111b38",
+  "source": "Production builds with the Vite builder now emit font files as Vite build assets under {0}, so they are served from {1} rather than {2}. Vite owns their URLs, which means {3}, a relative {4} and {5} now apply to fonts as they do to every other built asset. {6} in particular was previously never applied.",
+  "text": "Produktions-Builds mit dem Vite-Builder geben Schriftdateien jetzt als Vite-Build-Assets unter {0} aus, sodass sie von {1} statt von {2} ausgeliefert werden. Vite verwaltet ihre URLs, d. h. {3}, ein relatives {4} und {5} gelten jetzt für Schriften wie für jedes andere erzeugte Asset. Insbesondere {6} wurde zuvor nie angewendet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Produktions-Builds mit dem Vite-Builder geben Schriftdateien jetzt als Vite-Build-Assets unter {0} aus, sodass sie von {1} statt von {2} ausgeliefert werden. Vite verwaltet ihre URLs, d. h. {3}, ein relatives {4} und {5} gelten jetzt für Schriften wie für jedes andere erzeugte Asset. Insbesondere {6} wurde zuvor nie angewendet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

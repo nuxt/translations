@@ -1,0 +1,14 @@
+{
+  "hash": "fb00a8be57921849",
+  "source": "{0} is the import surface for writing agnostic server code based on Web APIs, and it ships in Nuxt 4.6+. Code written with it runs on {1} v2, on Nitro v3, and under other server builders, such as {2}.",
+  "text": "{0} ist die Importschnittstelle zum Schreiben von agnostischem Servercode auf Basis von Web-APIs und wird ab Nuxt 4.6 mitgeliefert. Damit geschriebener Code läuft auf {1} v2, auf Nitro v3 und unter anderen Server-Buildern, etwa {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ist die Importschnittstelle zum Schreiben von agnostischem Servercode auf Basis von Web-APIs und wird ab Nuxt 4.6 mitgeliefert. Damit geschriebener Code läuft auf {1} v2, auf Nitro v3 und unter anderen Server-Buildern, etwa {2}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

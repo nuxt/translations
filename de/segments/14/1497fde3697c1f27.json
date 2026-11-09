@@ -1,0 +1,14 @@
+{
+  "hash": "1497fde3697c1f27",
+  "source": "Your test file should then use {0} and {1} directly from {2}:",
+  "text": "Deine Testdatei sollte dann {0} und {1} direkt aus {2} verwenden:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Deine Testdatei sollte dann {0} und {1} direkt aus {2} verwenden:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

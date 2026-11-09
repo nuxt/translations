@@ -1,0 +1,14 @@
+{
+  "hash": "8a0b3c41fef166c5",
+  "source": "Inconsistent Data",
+  "text": "Inkonsistente Daten",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Inkonsistente Daten"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "8cabd662f7393696",
+  "source": "Prefix your exports to avoid conflicts with user code or other modules",
+  "text": "Versehe deine Exporte mit einem Präfix, um Konflikte mit dem Code von Nutzenden oder anderen Modulen zu vermeiden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Versehe deine Exporte mit einem Präfix, um Konflikte mit dem Code von Nutzenden oder anderen Modulen zu vermeiden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

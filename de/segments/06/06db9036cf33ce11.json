@@ -1,0 +1,14 @@
+{
+  "hash": "06db9036cf33ce11",
+  "source": "{0} accepts CSS keywords as well as numbers, and the {1}{2} provider{/1} recognises them in filenames, so {3} is picked up as weight {4}. Remote providers still expect numeric weights.",
+  "text": "{0} akzeptiert sowohl CSS-Schlüsselwörter als auch Zahlen, und der {1}{2}-Provider{/1} erkennt sie in Dateinamen, sodass {3} als Stärke {4} erkannt wird. Remote-Provider erwarten weiterhin numerische Stärken.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} akzeptiert sowohl CSS-Schlüsselwörter als auch Zahlen, und der {1}{2}-Provider{/1} erkennt sie in Dateinamen, sodass {3} als Stärke {4} erkannt wird. Remote-Provider erwarten weiterhin numerische Stärken."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

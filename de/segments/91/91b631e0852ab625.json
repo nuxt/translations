@@ -1,0 +1,14 @@
+{
+  "hash": "91b631e0852ab625",
+  "source": "Passing a single package name returns {0} if it is available and {1} if it is not. Passing an array returns {2} if every package is available, or an array of the package names that are still missing (because the user declined, the install failed, or there was no interactive terminal).",
+  "text": "Wird ein einzelner Paketname übergeben, ist der Rückgabewert {0}, wenn das Paket verfügbar ist, und {1}, wenn nicht. Wird ein Array übergeben, ist der Rückgabewert {2}, wenn jedes Paket verfügbar ist, andernfalls ein Array mit den Namen der Pakete, die weiterhin fehlen (weil die Nutzenden die Installation abgelehnt haben, sie fehlgeschlagen ist oder kein interaktives Terminal vorhanden war).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird ein einzelner Paketname übergeben, ist der Rückgabewert {0}, wenn das Paket verfügbar ist, und {1}, wenn nicht. Wird ein Array übergeben, ist der Rückgabewert {2}, wenn jedes Paket verfügbar ist, andernfalls ein Array mit den Namen der Pakete, die weiterhin fehlen (weil die Nutzenden die Installation abgelehnt haben, sie fehlgeschlagen ist oder kein interaktives Terminal vorhanden war)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

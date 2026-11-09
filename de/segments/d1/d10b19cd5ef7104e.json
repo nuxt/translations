@@ -1,0 +1,14 @@
+{
+  "hash": "d10b19cd5ef7104e",
+  "source": "The server in Nuxt 2 is not standalone and requires part of Nuxt core to be involved by running {0} (with the {1} or {2} distributions) or custom programmatic usage, which is fragile and prone to breakage and not suitable for serverless and service worker environments.",
+  "text": "Der Server in Nuxt 2 ist nicht eigenständig und benötigt einen Teil des Nuxt-Cores, der durch das Ausführen von {0} (mit den Distributionen {1} oder {2}) oder durch eine eigene programmatische Verwendung eingebunden wird. Das ist fragil, anfällig für Fehler und für Serverless- und Service-Worker-Umgebungen nicht geeignet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Server in Nuxt 2 ist nicht eigenständig und benötigt einen Teil des Nuxt-Cores, der durch das Ausführen von {0} (mit den Distributionen {1} oder {2}) oder durch eine eigene programmatische Verwendung eingebunden wird. Das ist fragil, anfällig für Fehler und für Serverless- und Service-Worker-Umgebungen nicht geeignet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "5f4221423b7a6a0c",
+  "source": "Cached handlers and functions also store their entries under different keys (a custom {0} result is sanitised and suffixed with a hash), so a persistent cache starts cold after upgrading, and anything that reads cache entries by key needs updating. A cached handler or function that takes longer than 30 seconds to resolve now fails with a {1}; set {2} (in seconds) where that is expected.",
+  "text": "Zwischengespeicherte Handler und Funktionen legen ihre Einträge außerdem unter anderen Schlüsseln ab (ein benutzerdefiniertes Ergebnis von {0} wird bereinigt und mit einem Hash als Suffix versehen). Daher startet ein persistenter Cache nach dem Upgrade leer, und alles, was Cache-Einträge anhand des Schlüssels ausliest, muss angepasst werden. Ein zwischengespeicherter Handler oder eine zwischengespeicherte Funktion, die länger als 30 Sekunden zur Auflösung braucht, schlägt jetzt mit {1} fehl. Setze {2} (in Sekunden), wo das erwartet wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Zwischengespeicherte Handler und Funktionen legen ihre Einträge außerdem unter anderen Schlüsseln ab (ein benutzerdefiniertes Ergebnis von {0} wird bereinigt und mit einem Hash als Suffix versehen). Daher startet ein persistenter Cache nach dem Upgrade leer, und alles, was Cache-Einträge anhand des Schlüssels ausliest, muss angepasst werden. Ein zwischengespeicherter Handler oder eine zwischengespeicherte Funktion, die länger als 30 Sekunden zur Auflösung braucht, schlägt jetzt mit {1} fehl. Setze {2} (in Sekunden), wo das erwartet wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

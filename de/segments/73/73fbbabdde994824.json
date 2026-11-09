@@ -1,0 +1,14 @@
+{
+  "hash": "73fbbabdde994824",
+  "source": "Nuxt dev/build outputs",
+  "text": "Ausgaben von Nuxt im Entwicklungsmodus und beim Erzeugen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ausgaben von Nuxt im Entwicklungsmodus und beim Erzeugen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

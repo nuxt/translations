@@ -1,0 +1,14 @@
+{
+  "hash": "55617d3e8c9c697f",
+  "source": "The onBeforeRouteLeave composable allows registering a route guard within a component.",
+  "text": "Mit dem Composable onBeforeRouteLeave kannst du einen Route Guard innerhalb einer Komponente registrieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit dem Composable onBeforeRouteLeave kannst du einen Route Guard innerhalb einer Komponente registrieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

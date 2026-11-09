@@ -1,0 +1,14 @@
+{
+  "hash": "9e35da7d8436cbfc",
+  "source": "Modules are Nuxt extensions which can extend its core functionality and add endless integrations.",
+  "text": "Module sind Nuxt-Erweiterungen, die dessen Kernfunktionalität erweitern und unzählige Integrationen ermöglichen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Module sind Nuxt-Erweiterungen, die dessen Kernfunktionalität erweitern und unzählige Integrationen ermöglichen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

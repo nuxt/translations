@@ -1,0 +1,14 @@
+{
+  "hash": "fb32e5e751fab40a",
+  "source": "Build performant and maintainable Nuxt modules with these guidelines.",
+  "text": "Entwickle leistungsfähige und wartbare Nuxt-Module mit diesen Richtlinien.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Entwickle leistungsfähige und wartbare Nuxt-Module mit diesen Richtlinien."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

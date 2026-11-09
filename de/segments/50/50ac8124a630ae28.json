@@ -1,0 +1,14 @@
+{
+  "hash": "50ac8124a630ae28",
+  "source": "Your desired variables must be defined in your {0}. This ensures that arbitrary environment variables are not exposed to your application code.",
+  "text": "Die gewünschten Variablen müssen in deiner {0} definiert sein. So wird sichergestellt, dass beliebige Umgebungsvariablen nicht in deinem Anwendungscode verfügbar werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die gewünschten Variablen müssen in deiner {0} definiert sein. So wird sichergestellt, dass beliebige Umgebungsvariablen nicht in deinem Anwendungscode verfügbar werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

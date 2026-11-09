@@ -1,0 +1,14 @@
+{
+  "hash": "f52c1f3dde4aecb0",
+  "source": "You can also use this approach to disable modules in your own project - not just those from layers. Setting a module's config key to {0} will prevent its setup function from running while still generating types for the module.",
+  "text": "Du kannst diesen Ansatz auch verwenden, um Module in deinem eigenen Projekt zu deaktivieren – nicht nur solche aus Layern. Wenn du den Konfigurationsschlüssel eines Moduls auf {0} setzt, wird dessen Setup-Funktion nicht ausgeführt, während die Typen für das Modul weiterhin generiert werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst diesen Ansatz auch verwenden, um Module in deinem eigenen Projekt zu deaktivieren – nicht nur solche aus Layern. Wenn du den Konfigurationsschlüssel eines Moduls auf {0} setzt, wird dessen Setup-Funktion nicht ausgeführt, während die Typen für das Modul weiterhin generiert werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

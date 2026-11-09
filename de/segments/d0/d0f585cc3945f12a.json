@@ -1,0 +1,14 @@
+{
+  "hash": "d0f585cc3945f12a",
+  "source": "Apply {0} by default to {1} and {2} calls made within components lazily hydrated with {3}, keeping their data out of the {4} payload. Since these components never hydrate on the client, their data is not needed for hydration.",
+  "text": "Wendet {0} standardmäßig auf Aufrufe von {1} und {2} an, die in Komponenten erfolgen, die mit {3} verzögert hydratisiert werden, und hält ihre Daten aus der {4}-Payload heraus. Da diese Komponenten auf dem Client nie hydratisiert werden, werden ihre Daten für die Hydration nicht benötigt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wendet {0} standardmäßig auf Aufrufe von {1} und {2} an, die in Komponenten erfolgen, die mit {3} verzögert hydratisiert werden, und hält ihre Daten aus der {4}-Payload heraus. Da diese Komponenten auf dem Client nie hydratisiert werden, werden ihre Daten für die Hydration nicht benötigt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

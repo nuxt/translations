@@ -1,0 +1,14 @@
+{
+  "hash": "2e4c92a55551d38b",
+  "source": "Type-Checking Server Routes in App Context",
+  "text": "Server-Routen im App-Kontext typprüfen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Server-Routen im App-Kontext typprüfen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

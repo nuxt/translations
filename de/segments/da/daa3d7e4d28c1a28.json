@@ -1,0 +1,14 @@
+{
+  "hash": "daa3d7e4d28c1a28",
+  "source": "Nuxt could not parse the response returned when rendering a server component (island). This usually means the server component endpoint returned something other than the expected island payload, such as an error page or malformed HTML.",
+  "text": "Nuxt konnte die Antwort nicht verarbeiten, die beim Rendern einer Serverkomponente (Island) zurückgegeben wurde. Meist bedeutet das, dass der Endpunkt der Serverkomponente etwas anderes als die erwartete Island-Payload zurückgegeben hat, zum Beispiel eine Fehlerseite oder fehlerhaftes HTML.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt konnte die Antwort nicht verarbeiten, die beim Rendern einer Serverkomponente (Island) zurückgegeben wurde. Meist bedeutet das, dass der Endpunkt der Serverkomponente etwas anderes als die erwartete Island-Payload zurückgegeben hat, zum Beispiel eine Fehlerseite oder fehlerhaftes HTML."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

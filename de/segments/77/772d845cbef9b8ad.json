@@ -1,0 +1,14 @@
+{
+  "hash": "772d845cbef9b8ad",
+  "source": "Add the {0} suffix to a component to make it a standalone server component:",
+  "text": "Füge einer Komponente das Suffix {0} hinzu, um sie zu einer eigenständigen Serverkomponente zu machen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Füge einer Komponente das Suffix {0} hinzu, um sie zu einer eigenständigen Serverkomponente zu machen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

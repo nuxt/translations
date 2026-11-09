@@ -1,0 +1,14 @@
+{
+  "hash": "d07c59e8268e50f2",
+  "source": "Instead of using {0} on each page, you can add named route middleware within the {1} hook.",
+  "text": "Statt {0} auf jeder Seite zu verwenden, kannst du benannte Routen-Middleware im Hook {1} hinzufügen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Statt {0} auf jeder Seite zu verwenden, kannst du benannte Routen-Middleware im Hook {1} hinzufügen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

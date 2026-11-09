@@ -1,0 +1,14 @@
+{
+  "hash": "b5e0b3f49a384fee",
+  "source": "You can prefix layer directories with numbers to control the order:",
+  "text": "Du kannst Layer-Verzeichnissen Zahlen voranstellen, um die Reihenfolge zu steuern:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst Layer-Verzeichnissen Zahlen voranstellen, um die Reihenfolge zu steuern:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

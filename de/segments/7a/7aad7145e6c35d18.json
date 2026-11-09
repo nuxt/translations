@@ -1,0 +1,14 @@
+{
+  "hash": "7aad7145e6c35d18",
+  "source": "Capitalize headings following Chicago title case. In short: capitalize the first word, the last word, and all major words (nouns, verbs, adjectives, adverbs, pronouns); lowercase articles, coordinating conjunctions, and prepositions regardless of length (for example, a, and, or, with, from, and to). When in doubt, {0}capitalizemytitle.com{/0} can help.",
+  "text": "Schreibe Überschriften nach dem Chicago Title Case groß. Kurz gesagt: Das erste Wort, das letzte Wort und alle wichtigen Wörter (Nomen, Verben, Adjektive, Adverbien, Pronomen) werden großgeschrieben; Artikel, nebenordnende Konjunktionen und Präpositionen bleiben unabhängig von ihrer Länge kleingeschrieben (z. B. a, and, or, with, from und to). Im Zweifel hilft dir {0}capitalizemytitle.com{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Schreibe Überschriften nach dem Chicago Title Case groß. Kurz gesagt: Das erste Wort, das letzte Wort und alle wichtigen Wörter (Nomen, Verben, Adjektive, Adverbien, Pronomen) werden großgeschrieben; Artikel, nebenordnende Konjunktionen und Präpositionen bleiben unabhängig von ihrer Länge kleingeschrieben (z. B. a, and, or, with, from und to). Im Zweifel hilft dir {0}capitalizemytitle.com{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

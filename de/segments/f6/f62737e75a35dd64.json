@@ -1,0 +1,14 @@
+{
+  "hash": "f62737e75a35dd64",
+  "source": "Current implementation behaves exactly the same as {0} by preloading components instead of just prefetching we are working to improve this behavior.",
+  "text": "Die aktuelle Implementierung verhält sich genau wie {0}, da Komponenten vorgeladen (Preloading) statt nur per Prefetching geladen werden. Wir arbeiten daran, dieses Verhalten zu verbessern.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die aktuelle Implementierung verhält sich genau wie {0}, da Komponenten vorgeladen (Preloading) statt nur per Prefetching geladen werden. Wir arbeiten daran, dieses Verhalten zu verbessern."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

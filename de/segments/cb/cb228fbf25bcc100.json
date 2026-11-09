@@ -1,0 +1,14 @@
+{
+  "hash": "cb228fbf25bcc100",
+  "source": "The keys come in two shapes:",
+  "text": "Die Schlüssel gibt es in zwei Ausprägungen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Schlüssel gibt es in zwei Ausprägungen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

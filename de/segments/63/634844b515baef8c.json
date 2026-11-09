@@ -1,0 +1,14 @@
+{
+  "hash": "634844b515baef8c",
+  "source": "Currently, the Nuxt context is only accessible in {0}plugins{/0}, {1}Nuxt hooks{/1}, {2}Nuxt middleware{/2} (if wrapped in {3}), and {4}setup functions{/4} (in pages and components).",
+  "text": "Derzeit ist der Nuxt-Kontext nur in {0}Plugins{/0}, {1}Nuxt-Hooks{/1}, {2}Nuxt-Middleware{/2} (wenn sie in {3} eingebunden ist) und {4}Setup-Funktionen{/4} (in Seiten und Komponenten) barrierefrei zugänglich.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Derzeit ist der Nuxt-Kontext nur in {0}Plugins{/0}, {1}Nuxt-Hooks{/1}, {2}Nuxt-Middleware{/2} (wenn sie in {3} eingebunden ist) und {4}Setup-Funktionen{/4} (in Seiten und Komponenten) barrierefrei zugänglich."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

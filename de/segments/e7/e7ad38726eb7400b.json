@@ -1,0 +1,14 @@
+{
+  "hash": "e7ad38726eb7400b",
+  "source": "When rendering a client-only page (with {0}), Nuxt can optionally render a loading screen from {1}.",
+  "text": "Beim Rendern einer reinen Client-Seite (mit {0}) kann Nuxt optional einen Ladebildschirm aus {1} rendern.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Beim Rendern einer reinen Client-Seite (mit {0}) kann Nuxt optional einen Ladebildschirm aus {1} rendern."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "8b377c9dd2debb93",
+  "source": "Imagine a directory structure like this:",
+  "text": "Stell dir eine Verzeichnisstruktur wie diese vor:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Stell dir eine Verzeichnisstruktur wie diese vor:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

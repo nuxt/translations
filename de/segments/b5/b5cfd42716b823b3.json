@@ -1,0 +1,14 @@
+{
+  "hash": "b5cfd42716b823b3",
+  "source": "You can extend the generated tsconfig files with shared options using this option. {0} apply to all generated tsconfigs ({1}, {2}, {3} and {4}), while {5}, {6} and {7} apply only to {8} (and the legacy {9}). Two groups of {10} are exceptions: DOM- and Vue-specific options (such as {11}, {12} and {13}) apply only to {14}, and {15}, {16} and {17} are managed by Nuxt per context, so they cannot be set globally for the {18}, {19} and {20} tsconfigs. Use {21}, {22}, {23} or {24} for context-specific overrides; they take precedence over this option.",
+  "text": "Mit dieser Option kannst du die generierten tsconfig-Dateien um gemeinsame Optionen erweitern. {0} gelten für alle generierten tsconfigs ({1}, {2}, {3} und {4}), während {5}, {6} und {7} nur für {8} (und die veraltete {9}) gelten. Zwei Gruppen von {10} bilden Ausnahmen: DOM- und Vue-spezifische Optionen (wie {11}, {12} und {13}) gelten nur für {14}, und {15}, {16} und {17} werden von Nuxt je Kontext verwaltet, sodass sie nicht global für die tsconfigs von {18}, {19} und {20} gesetzt werden können. Verwende {21}, {22}, {23} oder {24} für kontextspezifische Überschreibungen; sie haben Vorrang vor dieser Option.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit dieser Option kannst du die generierten tsconfig-Dateien um gemeinsame Optionen erweitern. {0} gelten für alle generierten tsconfigs ({1}, {2}, {3} und {4}), während {5}, {6} und {7} nur für {8} (und die veraltete {9}) gelten. Zwei Gruppen von {10} bilden Ausnahmen: DOM- und Vue-spezifische Optionen (wie {11}, {12} und {13}) gelten nur für {14}, und {15}, {16} und {17} werden von Nuxt je Kontext verwaltet, sodass sie nicht global für die tsconfigs von {18}, {19} und {20} gesetzt werden können. Verwende {21}, {22}, {23} oder {24} für kontextspezifische Überschreibungen; sie haben Vorrang vor dieser Option."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "0c2323ac854c08c0",
+  "source": "Defines what happens when no provider can resolve a font, or a font file cannot be downloaded. It defaults to {0} while developing (so a flaky provider does not block you) and {1} when building (so you don't ship a build with missing fonts).",
+  "text": "Legt fest, was passiert, wenn kein Provider eine Schriftart auflösen kann oder eine Schriftdatei nicht heruntergeladen werden kann. Während der Entwicklung ist der Standardwert {0} (damit ein instabiler Provider dich nicht blockiert), beim Erzeugen des Builds {1} (damit du keinen Build mit fehlenden Schriftarten auslieferst).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Legt fest, was passiert, wenn kein Provider eine Schriftart auflösen kann oder eine Schriftdatei nicht heruntergeladen werden kann. Während der Entwicklung ist der Standardwert {0} (damit ein instabiler Provider dich nicht blockiert), beim Erzeugen des Builds {1} (damit du keinen Build mit fehlenden Schriftarten auslieferst)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "0ae1af398cb97ddb",
+  "source": "Announces route/page changes",
+  "text": "Kündigt Routen- bzw. Seitenwechsel an",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Kündigt Routen- bzw. Seitenwechsel an"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

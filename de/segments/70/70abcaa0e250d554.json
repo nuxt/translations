@@ -1,0 +1,14 @@
+{
+  "hash": "70abcaa0e250d554",
+  "source": "To enable it, run",
+  "text": "Führe zum Aktivieren Folgendes aus:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Führe zum Aktivieren Folgendes aus:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

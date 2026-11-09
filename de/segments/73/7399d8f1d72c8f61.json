@@ -1,0 +1,14 @@
+{
+  "hash": "7399d8f1d72c8f61",
+  "source": "Counter will be loaded and hydrated client-side",
+  "text": "Counter wird clientseitig geladen und hydratisiert",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Counter wird clientseitig geladen und hydratisiert"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "d2b806f03ca4e09b",
+  "source": "Migrating to the new composables from {0}:",
+  "text": "Migration von {0} zu den neuen Composables:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Migration von {0} zu den neuen Composables:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

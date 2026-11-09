@@ -1,0 +1,14 @@
+{
+  "hash": "3794ae36cb095547",
+  "source": "If you rely on the {0} property, ensure that your logic accounts for the new behavior where {1} will only be {2} when the status is also pending.",
+  "text": "Wenn du dich auf die Eigenschaft {0} verlässt, stelle sicher, dass deine Logik das neue Verhalten berücksichtigt, bei dem {1} nur dann {2} ist, wenn auch der Status „pending“ ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du dich auf die Eigenschaft {0} verlässt, stelle sicher, dass deine Logik das neue Verhalten berücksichtigt, bei dem {1} nur dann {2} ist, wenn auch der Status „pending“ ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

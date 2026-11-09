@@ -1,0 +1,14 @@
+{
+  "hash": "2d4699f0ea43e8da",
+  "source": "**Problem**: Using browser-specific APIs during server-side rendering.",
+  "text": "**Problem**: Browserspezifische APIs werden beim serverseitigen Rendering verwendet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Problem**: Browserspezifische APIs werden beim serverseitigen Rendering verwendet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

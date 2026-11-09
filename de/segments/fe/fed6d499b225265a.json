@@ -1,0 +1,14 @@
+{
+  "hash": "fed6d499b225265a",
+  "source": "disable the input while fetching",
+  "text": "das Eingabefeld während des Abrufs deaktivieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "das Eingabefeld während des Abrufs deaktivieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

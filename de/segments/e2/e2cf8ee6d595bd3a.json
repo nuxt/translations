@@ -1,0 +1,14 @@
+{
+  "hash": "e2cf8ee6d595bd3a",
+  "source": "This file should be added to your {0} file to avoid pushing secrets to your repository.",
+  "text": "Füge diese Datei zu deiner {0}-Datei hinzu, damit keine geheimen Werte in dein Repository gelangen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Füge diese Datei zu deiner {0}-Datei hinzu, damit keine geheimen Werte in dein Repository gelangen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

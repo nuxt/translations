@@ -1,0 +1,14 @@
+{
+  "hash": "c69139589a2512e5",
+  "source": "{0}: run code before navigating to a particular route",
+  "text": "{0}: Code ausführen, bevor zu einer bestimmten Route navigiert wird",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Code ausführen, bevor zu einer bestimmten Route navigiert wird"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

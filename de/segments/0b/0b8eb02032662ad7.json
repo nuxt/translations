@@ -1,0 +1,14 @@
+{
+  "hash": "0b8eb02032662ad7",
+  "source": "**Creates fallback metrics** – Adjusts local system fonts to match web fonts, reducing layout shift ({0}CLS{/0}).",
+  "text": "**Fallback-Metriken erzeugen** – Passt lokale Systemschriften an Web-Schriften an und verringert so Layoutverschiebungen ({0}CLS{/0}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Fallback-Metriken erzeugen** – Passt lokale Systemschriften an Web-Schriften an und verringert so Layoutverschiebungen ({0}CLS{/0})."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

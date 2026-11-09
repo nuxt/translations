@@ -1,0 +1,14 @@
+{
+  "hash": "9721d58b5655f5ef",
+  "source": "Before you fix a bug, we recommend that you check whether **there's an issue that describes it**, as it's possible it's a documentation issue or that there is some context that would be helpful to know.",
+  "text": "Bevor du einen Bug behebst, empfehlen wir dir zu prüfen, ob **es dazu bereits ein Issue gibt**. Möglicherweise handelt es sich um ein Dokumentationsproblem, oder es gibt Kontext, den du kennen solltest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bevor du einen Bug behebst, empfehlen wir dir zu prüfen, ob **es dazu bereits ein Issue gibt**. Möglicherweise handelt es sich um ein Dokumentationsproblem, oder es gibt Kontext, den du kennen solltest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

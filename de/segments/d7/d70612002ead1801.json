@@ -1,0 +1,14 @@
+{
+  "hash": "d70612002ead1801",
+  "source": "Connect with other Nuxt enthusiasts.",
+  "text": "Vernetze dich mit anderen Nuxt-Begeisterten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vernetze dich mit anderen Nuxt-Begeisterten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

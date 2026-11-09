@@ -1,0 +1,14 @@
+{
+  "hash": "5c53ee66e6609102",
+  "source": "npm create nuxt",
+  "text": "npm create nuxt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "npm create nuxt"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

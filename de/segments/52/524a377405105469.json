@@ -1,0 +1,14 @@
+{
+  "hash": "524a377405105469",
+  "source": "Code that should work whichever server builder is configured (a module's server handler, for example) should only read these properties.",
+  "text": "Code, der unabhängig vom konfigurierten Server-Builder funktionieren soll (z. B. der Server-Handler eines Moduls), sollte ausschließlich diese Eigenschaften lesen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Code, der unabhängig vom konfigurierten Server-Builder funktionieren soll (z. B. der Server-Handler eines Moduls), sollte ausschließlich diese Eigenschaften lesen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

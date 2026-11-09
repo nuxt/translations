@@ -1,0 +1,14 @@
+{
+  "hash": "75ee9a41b34cca57",
+  "source": "Extend from a local layer",
+  "text": "Von einem lokalen Layer erweitern",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Von einem lokalen Layer erweitern"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

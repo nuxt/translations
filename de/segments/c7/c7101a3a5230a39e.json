@@ -1,0 +1,14 @@
+{
+  "hash": "c7101a3a5230a39e",
+  "source": "You can easily manage the server-only part of your Nuxt app, from API endpoints to middleware.",
+  "text": "Du kannst den rein serverseitigen Teil deiner Nuxt-Anwendung mühelos verwalten – von API-Endpunkten bis hin zu Middleware.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst den rein serverseitigen Teil deiner Nuxt-Anwendung mühelos verwalten – von API-Endpunkten bis hin zu Middleware."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

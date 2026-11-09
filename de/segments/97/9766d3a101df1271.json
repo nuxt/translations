@@ -1,0 +1,14 @@
+{
+  "hash": "9766d3a101df1271",
+  "source": "If the user tries to use your module with an incompatible Nuxt version, they will receive a warning in the console.",
+  "text": "Wenn jemand versucht, dein Modul mit einer inkompatiblen Nuxt-Version zu verwenden, erscheint in der Konsole eine Warnung.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn jemand versucht, dein Modul mit einer inkompatiblen Nuxt-Version zu verwenden, erscheint in der Konsole eine Warnung."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

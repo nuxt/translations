@@ -1,0 +1,14 @@
+{
+  "hash": "02acfc95909a4d62",
+  "source": "Changing the id will trigger a refetch",
+  "text": "Eine Änderung der id löst einen erneuten Abruf aus",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine Änderung der id löst einen erneuten Abruf aus"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

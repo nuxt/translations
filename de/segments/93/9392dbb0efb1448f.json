@@ -1,0 +1,14 @@
+{
+  "hash": "9392dbb0efb1448f",
+  "source": "Unlike reading {0} directly, this accounts for a layout set through route rules and stays in sync as the route changes.",
+  "text": "Anders als beim direkten Lesen von {0} berücksichtigt dies ein Layout, das über Route-Rules gesetzt wurde, und bleibt synchron, wenn sich die Route ändert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Anders als beim direkten Lesen von {0} berücksichtigt dies ein Layout, das über Route-Rules gesetzt wurde, und bleibt synchron, wenn sich die Route ändert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

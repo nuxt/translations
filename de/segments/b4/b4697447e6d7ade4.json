@@ -1,0 +1,14 @@
+{
+  "hash": "b4697447e6d7ade4",
+  "source": "🚨 Needs to be loaded ASAP",
+  "text": "🚨 Muss so schnell wie möglich geladen werden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "🚨 Muss so schnell wie möglich geladen werden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

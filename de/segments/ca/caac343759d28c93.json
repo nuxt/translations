@@ -1,0 +1,14 @@
+{
+  "hash": "caac343759d28c93",
+  "source": "It is also possible to use more advanced types, such as {0}, {1}, {2}, {3} and {4}.",
+  "text": "Es ist auch möglich, fortgeschrittenere Typen wie {0}, {1}, {2}, {3} und {4} zu verwenden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Es ist auch möglich, fortgeschrittenere Typen wie {0}, {1}, {2}, {3} und {4} zu verwenden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

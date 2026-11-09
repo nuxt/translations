@@ -1,0 +1,14 @@
+{
+  "hash": "0633c417362cd227",
+  "source": "Because the island is isolated from the rest of your app:",
+  "text": "Da das Island vom Rest deiner App isoliert ist:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Da das Island vom Rest deiner App isoliert ist:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

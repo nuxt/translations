@@ -1,0 +1,14 @@
+{
+  "hash": "7532a703dab500fd",
+  "source": "Much like Nuxt 2, route middleware placed in your {0} folder is automatically registered. You can then specify it by name in a component. However, this is done with {1} rather than as a component option.",
+  "text": "Wie in Nuxt 2 wird Routen-Middleware in deinem {0}-Verzeichnis automatisch registriert. Du kannst sie dann in einer Komponente über ihren Namen angeben. Dies geschieht jedoch mit {1} und nicht als Komponentenoption.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wie in Nuxt 2 wird Routen-Middleware in deinem {0}-Verzeichnis automatisch registriert. Du kannst sie dann in einer Komponente über ihren Namen angeben. Dies geschieht jedoch mit {1} und nicht als Komponentenoption."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

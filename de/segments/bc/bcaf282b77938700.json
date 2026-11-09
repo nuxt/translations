@@ -1,0 +1,14 @@
+{
+  "hash": "bcaf282b77938700",
+  "source": "Navigations that only change the query or hash, such as a filter link or the skip link itself, leave focus where it is:",
+  "text": "Navigationen, die nur die Query oder den Hash ändern, etwa ein Filterlink oder der Skip-Link selbst, lassen den Fokus, wo er ist:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Navigationen, die nur die Query oder den Hash ändern, etwa ein Filterlink oder der Skip-Link selbst, lassen den Fokus, wo er ist:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

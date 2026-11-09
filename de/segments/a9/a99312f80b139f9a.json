@@ -1,0 +1,14 @@
+{
+  "hash": "a99312f80b139f9a",
+  "source": "If you want to pass on/proxy cookies in the other direction, from an internal request back to the client, you will need to handle this yourself.",
+  "text": "Wenn du Cookies in die andere Richtung weitergeben bzw. weiterleiten möchtest, also von einer internen Anfrage zurück an den Client, musst du dies selbst umsetzen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du Cookies in die andere Richtung weitergeben bzw. weiterleiten möchtest, also von einer internen Anfrage zurück an den Client, musst du dies selbst umsetzen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "0e31686fd7b0ac19",
+  "source": "GitLab Remote Source example",
+  "text": "Beispiel für eine GitLab-Remote-Quelle",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Beispiel für eine GitLab-Remote-Quelle"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

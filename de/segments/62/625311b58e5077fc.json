@@ -1,0 +1,14 @@
+{
+  "hash": "625311b58e5077fc",
+  "source": "To debug code that runs while Nuxt is loading, use {0}. The CLI process then waits for a debugger to attach to the next port before loading Nuxt:",
+  "text": "Um Code zu debuggen, der beim Laden von Nuxt ausgeführt wird, verwende {0}. Der CLI-Prozess wartet dann, bis sich ein Debugger mit dem nächsten Port verbindet, bevor er Nuxt lädt:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um Code zu debuggen, der beim Laden von Nuxt ausgeführt wird, verwende {0}. Der CLI-Prozess wartet dann, bis sich ein Debugger mit dem nächsten Port verbindet, bevor er Nuxt lädt:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

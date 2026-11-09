@@ -1,0 +1,14 @@
+{
+  "hash": "07b26e16451a4013",
+  "source": "Variables that need to be accessible on the server are added directly inside {0}. Variables that need to be accessible on both the client and the server are defined in {1}.",
+  "text": "Variablen, auf die der Server zugreifen können muss, werden direkt in {0} hinzugefügt. Variablen, auf die sowohl der Client als auch der Server zugreifen können müssen, werden in {1} definiert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Variablen, auf die der Server zugreifen können muss, werden direkt in {0} hinzugefügt. Variablen, auf die sowohl der Client als auch der Server zugreifen können müssen, werden in {1} definiert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

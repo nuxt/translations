@@ -1,0 +1,14 @@
+{
+  "hash": "cda7940d4469aabd",
+  "source": "Pages are only automatically registered for prerendering if you have not disabled {0} and you have at least one page in your {1} list. See the {2}prerendering guide{/2}.",
+  "text": "Seiten werden nur dann automatisch für das Vorab-Rendering registriert, wenn du {0} nicht deaktiviert hast und mindestens eine Seite in deiner {1}-Liste steht. Siehe die {2}Anleitung zum Vorab-Rendering{/2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Seiten werden nur dann automatisch für das Vorab-Rendering registriert, wenn du {0} nicht deaktiviert hast und mindestens eine Seite in deiner {1}-Liste steht. Siehe die {2}Anleitung zum Vorab-Rendering{/2}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

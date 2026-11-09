@@ -1,0 +1,14 @@
+{
+  "hash": "3ed4a55749b00725",
+  "source": "Set the option explicitly if you want remote islands or selective client hydration:",
+  "text": "Setze die Option explizit, wenn du Remote-Islands oder selektive Client-Hydration nutzen möchtest:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Setze die Option explizit, wenn du Remote-Islands oder selektive Client-Hydration nutzen möchtest:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

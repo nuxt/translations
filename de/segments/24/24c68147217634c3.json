@@ -1,0 +1,14 @@
+{
+  "hash": "24c68147217634c3",
+  "source": "The server does not start if an environment variable cannot be converted (for example {0} for a numeric {1}). See {2}Validating With a Schema{/2} to declare the type of a value without giving it a default.",
+  "text": "Der Server startet nicht, wenn eine Umgebungsvariable nicht konvertiert werden kann (z. B. {0} für einen numerischen {1}). Unter {2}Validierung mit einem Schema{/2} erfährst du, wie du den Typ eines Werts deklarierst, ohne einen Standardwert anzugeben.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Server startet nicht, wenn eine Umgebungsvariable nicht konvertiert werden kann (z. B. {0} für einen numerischen {1}). Unter {2}Validierung mit einem Schema{/2} erfährst du, wie du den Typ eines Werts deklarierst, ohne einen Standardwert anzugeben."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

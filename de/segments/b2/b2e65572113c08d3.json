@@ -1,0 +1,14 @@
+{
+  "hash": "b2e65572113c08d3",
+  "source": "The Nuxt MCP server provides the following resources for discovery:",
+  "text": "Der Nuxt-MCP-Server stellt die folgenden Ressourcen zur Erkundung bereit:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Nuxt-MCP-Server stellt die folgenden Ressourcen zur Erkundung bereit:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

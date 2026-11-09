@@ -1,0 +1,14 @@
+{
+  "hash": "0bcb36618a652de7",
+  "source": "Two Kinds of Build Output",
+  "text": "Zwei Arten von Build-Output",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Zwei Arten von Build-Output"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

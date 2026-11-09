@@ -1,0 +1,14 @@
+{
+  "hash": "ccb84f9d79564d2a",
+  "source": "Nitro has a powerful feature called {0} which allows you to define a set of rules to customize how each route of your Nuxt app is rendered (and more).",
+  "text": "Nitro bietet mit {0} eine leistungsstarke Funktion, mit der du Regeln definieren kannst, um anzupassen, wie jede Route deiner Nuxt-Anwendung gerendert wird (und mehr).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nitro bietet mit {0} eine leistungsstarke Funktion, mit der du Regeln definieren kannst, um anzupassen, wie jede Route deiner Nuxt-Anwendung gerendert wird (und mehr)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

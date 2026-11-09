@@ -1,0 +1,14 @@
+{
+  "hash": "8ce426c72e4354b3",
+  "source": "Alternatively, {0} can be passed as a {1} value via {2} from the {3} section of your Vue component in the {4} directory.",
+  "text": "Alternativ kann {0} als Wert von {1} über {2} im Abschnitt {3} deiner Vue-Komponente im Verzeichnis {4} übergeben werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Alternativ kann {0} als Wert von {1} über {2} im Abschnitt {3} deiner Vue-Komponente im Verzeichnis {4} übergeben werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

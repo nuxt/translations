@@ -1,0 +1,14 @@
+{
+  "hash": "5a0eab93a6d23d85",
+  "source": "Remember to update any third-party configuration files to work with the new directory structure, such as your {0} or {1} configuration (if required - {2} should automatically configure {3} correctly).",
+  "text": "Denke daran, alle Konfigurationsdateien von Drittanbietern zu aktualisieren, damit sie mit der neuen Verzeichnisstruktur funktionieren, zum Beispiel deine {0}- oder {1}-Konfiguration (falls erforderlich – {2} sollte {3} automatisch korrekt konfigurieren).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Denke daran, alle Konfigurationsdateien von Drittanbietern zu aktualisieren, damit sie mit der neuen Verzeichnisstruktur funktionieren, zum Beispiel deine {0}- oder {1}-Konfiguration (falls erforderlich – {2} sollte {3} automatisch korrekt konfigurieren)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

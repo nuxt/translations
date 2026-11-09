@@ -1,0 +1,14 @@
+{
+  "hash": "4c2fe2e772020b83",
+  "source": "The <Teleport> component teleports a component to a different location in the DOM.",
+  "text": "Die <Teleport>-Komponente teleportiert eine Komponente an eine andere Stelle im DOM.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die <Teleport>-Komponente teleportiert eine Komponente an eine andere Stelle im DOM."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "c1d5adf216b682db",
+  "source": "Relative imports in {0}, {1}, and layer configs need an explicit extension:",
+  "text": "Relative Importe in {0}, {1} und Layer-Konfigurationen benötigen eine explizite Erweiterung:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Relative Importe in {0}, {1} und Layer-Konfigurationen benötigen eine explizite Erweiterung:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "655bc9a903e2f193",
+  "source": "ignore route middleware files under foo folder except foo/bar.js",
+  "text": "Routen-Middleware-Dateien im Verzeichnis foo ignorieren, außer foo/bar.js",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Routen-Middleware-Dateien im Verzeichnis foo ignorieren, außer foo/bar.js"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

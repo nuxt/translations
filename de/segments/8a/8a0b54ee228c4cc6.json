@@ -1,0 +1,14 @@
+{
+  "hash": "8a0b54ee228c4cc6",
+  "source": "islands ({0} components) handle server-rendered widgets everywhere, keeping heavy dependencies out of the client bundle",
+  "text": "Islands ({0}-Komponenten) übernehmen überall serverseitig gerenderte Widgets und halten umfangreiche Abhängigkeiten aus dem Client-Bundle heraus",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Islands ({0}-Komponenten) übernehmen überall serverseitig gerenderte Widgets und halten umfangreiche Abhängigkeiten aus dem Client-Bundle heraus"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

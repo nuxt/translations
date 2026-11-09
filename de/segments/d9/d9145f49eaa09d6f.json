@@ -1,0 +1,14 @@
+{
+  "hash": "d9145f49eaa09d6f",
+  "source": "Mistyped commands and flags",
+  "text": "Falsch geschriebene Befehle und Flags",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Falsch geschriebene Befehle und Flags"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

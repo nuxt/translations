@@ -1,0 +1,14 @@
+{
+  "hash": "1d0f6057b5712814",
+  "source": "Name of middleware are normalized to kebab-case: {0} becomes {1}.",
+  "text": "Middleware-Namen werden in Kebab-Case normalisiert: {0} wird zu {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Middleware-Namen werden in Kebab-Case normalisiert: {0} wird zu {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

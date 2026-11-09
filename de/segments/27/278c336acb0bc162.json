@@ -1,0 +1,14 @@
+{
+  "hash": "278c336acb0bc162",
+  "source": "If strategy is best for components that might not always need to be hydrated.",
+  "text": "Die If-Strategie eignet sich am besten für Komponenten, die nicht immer hydratisiert werden müssen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die If-Strategie eignet sich am besten für Komponenten, die nicht immer hydratisiert werden müssen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

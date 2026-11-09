@@ -1,0 +1,14 @@
+{
+  "hash": "f8a880aef8044394",
+  "source": "The useState composable creates a reactive and SSR-friendly shared state.",
+  "text": "Das Composable useState erstellt einen reaktiven und SSR-freundlichen gemeinsamen State.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Composable useState erstellt einen reaktiven und SSR-freundlichen gemeinsamen State."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

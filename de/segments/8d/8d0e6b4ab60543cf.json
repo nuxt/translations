@@ -1,0 +1,14 @@
+{
+  "hash": "8d0e6b4ab60543cf",
+  "source": "Scripts",
+  "text": "Skripte",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Skripte"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

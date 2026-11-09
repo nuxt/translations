@@ -1,0 +1,14 @@
+{
+  "hash": "e463ec66d9e075ba",
+  "source": "Server routes are powered by {0}h3js/h3{/0} which comes with a handy set of helpers.",
+  "text": "Server-Routen basieren auf {0}h3js/h3{/0}, das eine praktische Sammlung von Hilfsfunktionen mitbringt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Server-Routen basieren auf {0}h3js/h3{/0}, das eine praktische Sammlung von Hilfsfunktionen mitbringt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

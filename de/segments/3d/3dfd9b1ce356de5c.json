@@ -1,0 +1,14 @@
+{
+  "hash": "3dfd9b1ce356de5c",
+  "source": "**Unit tests** in {0} run in the Node environment.",
+  "text": "**Unit-Tests** in {0} laufen in der Node-Umgebung.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Unit-Tests** in {0} laufen in der Node-Umgebung."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

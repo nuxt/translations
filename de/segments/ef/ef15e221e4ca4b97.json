@@ -1,0 +1,14 @@
+{
+  "hash": "ef15e221e4ca4b97",
+  "source": "the server builds the route matcher once per distinct {0} array instead of once per request. On an app with a couple of hundred pages this roughly halves the server time of a small page.",
+  "text": "erstellt der Server den Route-Matcher einmal pro eindeutigem {0}-Array statt einmal pro Anfrage. Bei einer App mit einigen hundert Seiten halbiert das ungefähr die Serverzeit einer kleinen Seite.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "erstellt der Server den Route-Matcher einmal pro eindeutigem {0}-Array statt einmal pro Anfrage. Bei einer App mit einigen hundert Seiten halbiert das ungefähr die Serverzeit einer kleinen Seite."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

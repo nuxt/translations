@@ -1,0 +1,14 @@
+{
+  "hash": "b95b35143de24229",
+  "source": "You can customize {0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8} and {9}.",
+  "text": "Du kannst {0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8} und {9} anpassen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst {0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8} und {9} anpassen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

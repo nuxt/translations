@@ -1,0 +1,14 @@
+{
+  "hash": "e06734abf2bf1c3f",
+  "source": "The server does not start if a variable cannot be converted (for example {0}), and reports {1}.",
+  "text": "Der Server startet nicht, wenn sich eine Variable nicht umwandeln lässt (zum Beispiel {0}), und meldet {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Server startet nicht, wenn sich eine Variable nicht umwandeln lässt (zum Beispiel {0}), und meldet {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

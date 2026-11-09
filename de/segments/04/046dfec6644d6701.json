@@ -1,0 +1,14 @@
+{
+  "hash": "046dfec6644d6701",
+  "source": "Every layer **must have** a {0} file to be recognized as a valid layer, even if it's empty.",
+  "text": "Jeder Layer **muss** eine Datei {0} enthalten, damit er als gültiger Layer erkannt wird – auch wenn sie leer ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Jeder Layer **muss** eine Datei {0} enthalten, damit er als gültiger Layer erkannt wird – auch wenn sie leer ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

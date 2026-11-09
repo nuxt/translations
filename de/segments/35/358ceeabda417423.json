@@ -1,0 +1,14 @@
+{
+  "hash": "358ceeabda417423",
+  "source": "\"Show me the latest blog posts\"",
+  "text": "„Zeige mir die neuesten Blogbeiträge“",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "„Zeige mir die neuesten Blogbeiträge“"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

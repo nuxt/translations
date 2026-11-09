@@ -1,0 +1,14 @@
+{
+  "hash": "687c1fac586d4cb9",
+  "source": "**Client-side payload extraction**: {0} is {1}, inlining the payload in the HTML of a prerendered page",
+  "text": "**Payload-Extraktion auf der Client-Seite**: {0} ist {1}, sodass die Payload im HTML einer vorab gerenderten Seite eingebettet wird",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Payload-Extraktion auf der Client-Seite**: {0} ist {1}, sodass die Payload im HTML einer vorab gerenderten Seite eingebettet wird"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

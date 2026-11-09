@@ -1,0 +1,14 @@
+{
+  "hash": "c491658b142154f8",
+  "source": "Prepare module for local development",
+  "text": "Modul für die lokale Entwicklung vorbereiten",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Modul für die lokale Entwicklung vorbereiten"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

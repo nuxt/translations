@@ -1,0 +1,14 @@
+{
+  "hash": "9dd2de85ce9431c7",
+  "source": "the inlined payload {0} (and the payload preload link, when payload extraction is enabled)",
+  "text": "die inline eingebettete Payload {0} (und der Preload-Link der Payload, wenn die Payload-Extraktion aktiviert ist)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "die inline eingebettete Payload {0} (und der Preload-Link der Payload, wenn die Payload-Extraktion aktiviert ist)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

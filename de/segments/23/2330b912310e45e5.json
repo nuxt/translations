@@ -1,0 +1,14 @@
+{
+  "hash": "2330b912310e45e5",
+  "source": "You cannot currently define a server-side handler for these errors, but can render an error page, see the {0}Render an Error Page{/0} section.",
+  "text": "Derzeit kannst du für diese Fehler keinen serverseitigen Handler definieren, aber du kannst eine Fehlerseite rendern. Siehe den Abschnitt {0}Fehlerseite rendern{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Derzeit kannst du für diese Fehler keinen serverseitigen Handler definieren, aber du kannst eine Fehlerseite rendern. Siehe den Abschnitt {0}Fehlerseite rendern{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

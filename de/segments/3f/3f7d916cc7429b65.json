@@ -1,0 +1,14 @@
+{
+  "hash": "3f7d916cc7429b65",
+  "source": "Learn how to deploy your Nuxt application to any hosting provider.",
+  "text": "Erfahre, wie du deine Nuxt-Anwendung bei jedem Hosting-Anbieter bereitstellst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erfahre, wie du deine Nuxt-Anwendung bei jedem Hosting-Anbieter bereitstellst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

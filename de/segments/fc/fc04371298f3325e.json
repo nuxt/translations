@@ -1,0 +1,14 @@
+{
+  "hash": "fc04371298f3325e",
+  "source": "Move custom keys to {0} (exposed to the client) or to a top-level custom namespace (server-only):",
+  "text": "Verschiebe benutzerdefinierte Schlüssel nach {0} (für den Client verfügbar) oder in einen eigenen Namespace auf oberster Ebene (nur auf dem Server verfügbar):",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verschiebe benutzerdefinierte Schlüssel nach {0} (für den Client verfügbar) oder in einen eigenen Namespace auf oberster Ebene (nur auf dem Server verfügbar):"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

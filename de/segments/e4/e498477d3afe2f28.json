@@ -1,0 +1,14 @@
+{
+  "hash": "e498477d3afe2f28",
+  "source": "Get the response of a server-rendered page.",
+  "text": "Ruft die Antwort einer serverseitig gerenderten Seite ab.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ruft die Antwort einer serverseitig gerenderten Seite ab."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

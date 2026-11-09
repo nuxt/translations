@@ -1,0 +1,14 @@
+{
+  "hash": "0fe7a052ee0875d0",
+  "source": "Middleware handlers should not return anything (nor close or respond to the request) and only inspect or extend the request context or throw an error.",
+  "text": "Middleware-Handler sollten nichts zurückgeben (und die Anfrage weder abschließen noch beantworten), sondern nur den Anfragekontext prüfen oder erweitern oder einen Fehler auslösen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Middleware-Handler sollten nichts zurückgeben (und die Anfrage weder abschließen noch beantworten), sondern nur den Anfragekontext prüfen oder erweitern oder einen Fehler auslösen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

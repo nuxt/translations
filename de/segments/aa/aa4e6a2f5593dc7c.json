@@ -1,0 +1,14 @@
+{
+  "hash": "aa4e6a2f5593dc7c",
+  "source": "Validating the Configuration",
+  "text": "Konfiguration überprüfen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Konfiguration überprüfen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

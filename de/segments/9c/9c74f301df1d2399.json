@@ -1,0 +1,14 @@
+{
+  "hash": "9c74f301df1d2399",
+  "source": "Access to the cached value of useFetch in posts.vue (parent route)",
+  "text": "Zugriff auf den zwischengespeicherten Wert von useFetch in posts.vue (übergeordnete Route)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Zugriff auf den zwischengespeicherten Wert von useFetch in posts.vue (übergeordnete Route)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

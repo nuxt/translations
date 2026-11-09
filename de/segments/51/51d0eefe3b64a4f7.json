@@ -1,0 +1,14 @@
+{
+  "hash": "51d0eefe3b64a4f7",
+  "source": "The {0} function returns the Nuxt instance, which contains all the options and methods available in Nuxt.",
+  "text": "Die Funktion {0} gibt die Nuxt-Instanz zurück, die alle in Nuxt verfügbaren Optionen und Methoden enthält.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Funktion {0} gibt die Nuxt-Instanz zurück, die alle in Nuxt verfügbaren Optionen und Methoden enthält."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "7e2efb47778ce4d6",
+  "source": "When you set your {0} to {1}, defaults throughout your Nuxt configuration will change to opt in to Nuxt v4 behavior, but you can granularly re-enable Nuxt v3 behavior when testing, following the commented out lines above. Please file issues if so, so that we can address them in Nuxt or in the ecosystem.",
+  "text": "Wenn du {0} auf {1} setzt, ändern sich die Standardwerte in deiner gesamten Nuxt-Konfiguration, sodass das Verhalten von Nuxt v4 aktiviert wird. Beim Testen kannst du das Verhalten von Nuxt v3 jedoch gezielt wieder aktivieren, wie in den oben auskommentierten Zeilen gezeigt. Erstelle in diesem Fall bitte ein Issue, damit wir das Problem in Nuxt oder im Ökosystem beheben können.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du {0} auf {1} setzt, ändern sich die Standardwerte in deiner gesamten Nuxt-Konfiguration, sodass das Verhalten von Nuxt v4 aktiviert wird. Beim Testen kannst du das Verhalten von Nuxt v3 jedoch gezielt wieder aktivieren, wie in den oben auskommentierten Zeilen gezeigt. Erstelle in diesem Fall bitte ein Issue, damit wir das Problem in Nuxt oder im Ökosystem beheben können."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

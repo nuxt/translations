@@ -1,0 +1,14 @@
+{
+  "hash": "cad2658c9335fc0a",
+  "source": "Some examples of projects doing this already:",
+  "text": "Einige Projekte, die das bereits so umsetzen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Einige Projekte, die das bereits so umsetzen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

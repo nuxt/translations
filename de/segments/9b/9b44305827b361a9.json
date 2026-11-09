@@ -1,0 +1,14 @@
+{
+  "hash": "9b44305827b361a9",
+  "source": "This option is deprecated and will be removed. It is forced on and setting it is ignored.",
+  "text": "Diese Option wird nicht mehr empfohlen und wird entfernt. Sie ist immer aktiviert, und eine Einstellung wird ignoriert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese Option wird nicht mehr empfohlen und wird entfernt. Sie ist immer aktiviert, und eine Einstellung wird ignoriert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

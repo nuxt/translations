@@ -1,0 +1,14 @@
+{
+  "hash": "203d38d67d681bfb",
+  "source": "Navigating **from** a scripted route **to** a {0} route (with {1}, {2}, or {3}) triggers a document load, so the target is served script-free by the server rather than rendered by the client-side router.",
+  "text": "Die Navigation **von** einer Route mit Skripten **zu** einer {0}-Route (mit {1}, {2} oder {3}) löst einen Dokumentabruf aus. So liefert der Server das Ziel skriptfrei aus, anstatt dass es vom clientseitigen Router gerendert wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Navigation **von** einer Route mit Skripten **zu** einer {0}-Route (mit {1}, {2} oder {3}) löst einen Dokumentabruf aus. So liefert der Server das Ziel skriptfrei aus, anstatt dass es vom clientseitigen Router gerendert wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

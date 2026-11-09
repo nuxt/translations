@@ -1,0 +1,14 @@
+{
+  "hash": "8b052275598e743a",
+  "source": "The {0} command creates a {1} directory with all your application, server and dependencies ready for production, and reports how long the build took.",
+  "text": "Der Befehl {0} erstellt ein Verzeichnis {1} mit deiner gesamten Anwendung, dem Server und den Abhängigkeiten, bereit für die Produktion, und gibt aus, wie lange der Build gedauert hat.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Befehl {0} erstellt ein Verzeichnis {1} mit deiner gesamten Anwendung, dem Server und den Abhängigkeiten, bereit für die Produktion, und gibt aus, wie lange der Build gedauert hat."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

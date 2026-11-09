@@ -1,0 +1,14 @@
+{
+  "hash": "0bd53c8a113f81e7",
+  "source": "If {0} returns a function, that function is called with the async data instance. Any object it returns is merged into the composable's return value:",
+  "text": "Wenn {0} eine Funktion zurückgibt, wird diese mit der Async-Data-Instanz aufgerufen. Jedes Objekt, das sie zurückgibt, wird in den Rückgabewert des Composables übernommen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn {0} eine Funktion zurückgibt, wird diese mit der Async-Data-Instanz aufgerufen. Jedes Objekt, das sie zurückgibt, wird in den Rückgabewert des Composables übernommen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

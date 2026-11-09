@@ -1,0 +1,14 @@
+{
+  "hash": "a2f8d5b5755e7045",
+  "source": "Expand the **Start MCP Servers** step to see the configured Nuxt tools",
+  "text": "Klappe den Schritt **Start MCP Servers** auf, um die konfigurierten Nuxt-Tools zu sehen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Klappe den Schritt **Start MCP Servers** auf, um die konfigurierten Nuxt-Tools zu sehen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

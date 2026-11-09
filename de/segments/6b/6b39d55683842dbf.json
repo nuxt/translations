@@ -1,0 +1,14 @@
+{
+  "hash": "6b39d55683842dbf",
+  "source": "The watch property lets you define patterns that will restart the Nuxt dev server when changed.",
+  "text": "Mit der Eigenschaft watch definierst du Muster, bei deren Änderung der Nuxt-Entwicklungsserver neu gestartet wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit der Eigenschaft watch definierst du Muster, bei deren Änderung der Nuxt-Entwicklungsserver neu gestartet wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

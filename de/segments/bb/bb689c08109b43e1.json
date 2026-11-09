@@ -1,0 +1,14 @@
+{
+  "hash": "bb689c08109b43e1",
+  "source": "Read the full {0} API documentation, including props, slots, events and known limitations.",
+  "text": "Lies die vollständige API-Dokumentation zu {0}, einschließlich Props, Slots, Events und bekannter Einschränkungen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lies die vollständige API-Dokumentation zu {0}, einschließlich Props, Slots, Events und bekannter Einschränkungen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

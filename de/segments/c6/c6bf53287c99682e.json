@@ -1,0 +1,14 @@
+{
+  "hash": "c6bf53287c99682e",
+  "source": "You've read through these docs and you think it should be possible, but it's not clear how. The best thing is to {0}open a GitHub Discussion{/0}.",
+  "text": "Du hast diese Dokumentation durchgelesen und denkst, dass es möglich sein sollte, aber es ist nicht klar, wie. Am besten {0}eröffnest du eine GitHub Discussion{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du hast diese Dokumentation durchgelesen und denkst, dass es möglich sein sollte, aber es ist nicht klar, wie. Am besten {0}eröffnest du eine GitHub Discussion{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

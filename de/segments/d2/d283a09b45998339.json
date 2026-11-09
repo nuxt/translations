@@ -1,0 +1,14 @@
+{
+  "hash": "d283a09b45998339",
+  "source": "Triage Issues and Help Out in Discussions",
+  "text": "Issues sichten und in Diskussionen helfen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Issues sichten und in Diskussionen helfen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

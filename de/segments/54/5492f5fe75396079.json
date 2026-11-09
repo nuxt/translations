@@ -1,0 +1,14 @@
+{
+  "hash": "5492f5fe75396079",
+  "source": "{0} loaded every family in {1} on every page. Nuxt Fonts only emits {2} rules for the families it finds in your CSS, including the CSS that Tailwind CSS or UnoCSS generates for a utility such as {3}.",
+  "text": "{0} hat jede Schriftfamilie aus {1} auf jeder Seite geladen. Nuxt Fonts erzeugt {2}-Regeln nur für die Schriftfamilien, die es in deinem CSS findet, einschließlich des CSS, das Tailwind CSS oder UnoCSS für eine Utility-Klasse wie {3} generiert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} hat jede Schriftfamilie aus {1} auf jeder Seite geladen. Nuxt Fonts erzeugt {2}-Regeln nur für die Schriftfamilien, die es in deinem CSS findet, einschließlich des CSS, das Tailwind CSS oder UnoCSS für eine Utility-Klasse wie {3} generiert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

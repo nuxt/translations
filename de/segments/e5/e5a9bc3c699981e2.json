@@ -1,0 +1,14 @@
+{
+  "hash": "e5a9bc3c699981e2",
+  "source": "This avoids a white flash when hydrating a client-only page.",
+  "text": "So vermeidest du ein weißes Aufblitzen beim Hydratisieren einer reinen Client-Seite.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "So vermeidest du ein weißes Aufblitzen beim Hydratisieren einer reinen Client-Seite."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

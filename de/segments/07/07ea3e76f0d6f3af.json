@@ -1,0 +1,14 @@
+{
+  "hash": "07ea3e76f0d6f3af",
+  "source": "This is an experimental feature and is available in all environments.",
+  "text": "Dies ist eine experimentelle Funktion und in allen Umgebungen verfügbar.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dies ist eine experimentelle Funktion und in allen Umgebungen verfügbar."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "3a1f66753532d799",
+  "source": "This is particularly important for server routes, where common paths like {0}, {1}, or {2} are very likely already used by the application.",
+  "text": "Das ist besonders bei Server-Routen wichtig, da gängige Pfade wie {0}, {1} oder {2} sehr wahrscheinlich bereits von der Anwendung verwendet werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das ist besonders bei Server-Routen wichtig, da gängige Pfade wie {0}, {1} oder {2} sehr wahrscheinlich bereits von der Anwendung verwendet werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

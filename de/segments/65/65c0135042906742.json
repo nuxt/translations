@@ -1,0 +1,14 @@
+{
+  "hash": "65c0135042906742",
+  "source": "When the dependency lives inside the {0}{1} directory{/0}, use a file path to declare the dependency:",
+  "text": "Wenn die Abhängigkeit im {0}Verzeichnis {1}{/0} liegt, verwende zur Deklaration einen Dateipfad:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn die Abhängigkeit im {0}Verzeichnis {1}{/0} liegt, verwende zur Deklaration einen Dateipfad:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

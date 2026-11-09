@@ -1,0 +1,14 @@
+{
+  "hash": "dd489e4178daea4b",
+  "source": "When you pass a path, {0} waits for your Nuxt app to finish hydrating before it resolves. On later navigations, pass {1} to {2} to wait for hydration again.",
+  "text": "Wenn du einen Pfad übergibst, wartet {0}, bis deine Nuxt-Anwendung die Hydration abgeschlossen hat, bevor es aufgelöst wird. Übergib bei späteren Navigationen {1} an {2}, um erneut auf die Hydration zu warten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du einen Pfad übergibst, wartet {0}, bis deine Nuxt-Anwendung die Hydration abgeschlossen hat, bevor es aufgelöst wird. Übergib bei späteren Navigationen {1} an {2}, um erneut auf die Hydration zu warten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

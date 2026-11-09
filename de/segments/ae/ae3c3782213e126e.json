@@ -1,0 +1,14 @@
+{
+  "hash": "ae3c3782213e126e",
+  "source": "This call will only be performed on the client",
+  "text": "Dieser Aufruf wird nur auf dem Client ausgeführt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dieser Aufruf wird nur auf dem Client ausgeführt"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "c1f6a30cf02fcb32",
+  "source": "Every key is a function returning the **module body as a string**. Nuxt inlines the string verbatim into the server bundle, so it must not depend on the file's location on disk. {0}, for example, returns a body that re-exports the built SSR entry by absolute specifier:",
+  "text": "Jeder Schlüssel ist eine Funktion, die den **Modulinhalt als String** zurückgibt. Nuxt fügt den String unverändert in das Server-Bundle ein, daher darf er nicht vom Speicherort der Datei auf dem Datenträger abhängen. {0} gibt zum Beispiel einen Inhalt zurück, der den erzeugten SSR-Entry über einen absoluten Specifier erneut exportiert:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Jeder Schlüssel ist eine Funktion, die den **Modulinhalt als String** zurückgibt. Nuxt fügt den String unverändert in das Server-Bundle ein, daher darf er nicht vom Speicherort der Datei auf dem Datenträger abhängen. {0} gibt zum Beispiel einen Inhalt zurück, der den erzeugten SSR-Entry über einen absoluten Specifier erneut exportiert:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

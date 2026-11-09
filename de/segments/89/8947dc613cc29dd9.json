@@ -1,0 +1,14 @@
+{
+  "hash": "8947dc613cc29dd9",
+  "source": "**3. If you publish a layer or module, ship compiled JavaScript.**",
+  "text": "**3. Wenn du einen Layer oder ein Modul veröffentlichst, liefere kompiliertes JavaScript aus.**",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**3. Wenn du einen Layer oder ein Modul veröffentlichst, liefere kompiliertes JavaScript aus.**"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

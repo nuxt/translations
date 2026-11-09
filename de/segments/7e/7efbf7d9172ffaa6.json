@@ -1,0 +1,14 @@
+{
+  "hash": "7efbf7d9172ffaa6",
+  "source": "Specify the directory to create the project in",
+  "text": "Gibt das Verzeichnis an, in dem das Projekt erstellt werden soll",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gibt das Verzeichnis an, in dem das Projekt erstellt werden soll"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

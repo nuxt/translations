@@ -1,0 +1,14 @@
+{
+  "hash": "543a6e26e50feaba",
+  "source": "The Vue Virtual DOM (VDOM) has been rewritten from the ground up and allows for better rendering performance. On top of that, when working with compiled Single-File Components, the Vue compiler can further optimize them at build time by separating static and dynamic markup.",
+  "text": "Das Vue Virtual DOM (VDOM) wurde von Grund auf neu geschrieben und ermöglicht eine bessere Rendering-Performance. Außerdem kann der Vue-Compiler kompilierte Single-File-Komponenten zur Build-Zeit weiter optimieren, indem er statisches und dynamisches Markup trennt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Vue Virtual DOM (VDOM) wurde von Grund auf neu geschrieben und ermöglicht eine bessere Rendering-Performance. Außerdem kann der Vue-Compiler kompilierte Single-File-Komponenten zur Build-Zeit weiter optimieren, indem er statisches und dynamisches Markup trennt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

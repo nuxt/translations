@@ -1,0 +1,14 @@
+{
+  "hash": "a630fbe6e656a1e8",
+  "source": "{0} was called from a component's {1} during SSR. On the server the layout must be decided before the component renders, so changing it here produces incorrect SSR output.",
+  "text": "{0} wurde während SSR im {1} einer Komponente aufgerufen. Auf dem Server muss das layout festgelegt werden, bevor die Komponente gerendert wird. Eine Änderung an dieser Stelle führt daher zu einer fehlerhaften SSR-Ausgabe.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} wurde während SSR im {1} einer Komponente aufgerufen. Auf dem Server muss das layout festgelegt werden, bevor die Komponente gerendert wird. Eine Änderung an dieser Stelle führt daher zu einer fehlerhaften SSR-Ausgabe."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "57ab3b4b1bb3de57",
+  "source": "Your {0} files will not be read at this point. How you do this is different for every environment.",
+  "text": "Deine {0}-Dateien werden zu diesem Zeitpunkt nicht mehr gelesen. Wie du dabei vorgehst, hängt von der jeweiligen Umgebung ab.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Deine {0}-Dateien werden zu diesem Zeitpunkt nicht mehr gelesen. Wie du dabei vorgehst, hängt von der jeweiligen Umgebung ab."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "0897e6af8bd0d536",
+  "source": "If you need to support legacy browsers that require other formats, you can configure this in your {0}:",
+  "text": "Wenn du ältere Browser unterstützen musst, die andere Formate benötigen, kannst du das in deiner {0} konfigurieren:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du ältere Browser unterstützen musst, die andere Formate benötigen, kannst du das in deiner {0} konfigurieren:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

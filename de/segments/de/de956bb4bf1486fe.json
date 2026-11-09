@@ -1,0 +1,14 @@
+{
+  "hash": "de956bb4bf1486fe",
+  "source": "Removal of Legacy {0} Support",
+  "text": "Entfernung der veralteten Unterstützung für {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Entfernung der veralteten Unterstützung für {0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

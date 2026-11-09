@@ -1,0 +1,14 @@
+{
+  "hash": "b48287e788cbc392",
+  "source": "**Update your root {0}** to use project references:",
+  "text": "**Aktualisiere deine Root-{0}**, damit sie Project References verwendet:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Aktualisiere deine Root-{0}**, damit sie Project References verwendet:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

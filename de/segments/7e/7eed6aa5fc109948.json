@@ -1,0 +1,14 @@
+{
+  "hash": "7eed6aa5fc109948",
+  "source": "Read more about route middlewares in the {0}Route middleware documentation{/0}.",
+  "text": "Mehr über Routen-Middleware erfährst du in der {0}Dokumentation zur Routen-Middleware{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mehr über Routen-Middleware erfährst du in der {0}Dokumentation zur Routen-Middleware{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

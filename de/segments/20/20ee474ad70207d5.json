@@ -1,0 +1,14 @@
+{
+  "hash": "20ee474ad70207d5",
+  "source": "You can use {0} to add a directory to be scanned by Nitro. This is useful when you want to add a custom server directory.",
+  "text": "Mit {0} kannst du ein Verzeichnis hinzufügen, das Nitro durchsuchen soll. Das ist nützlich, wenn du ein benutzerdefiniertes Server-Verzeichnis hinzufügen möchtest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit {0} kannst du ein Verzeichnis hinzufügen, das Nitro durchsuchen soll. Das ist nützlich, wenn du ein benutzerdefiniertes Server-Verzeichnis hinzufügen möchtest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

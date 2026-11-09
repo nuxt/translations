@@ -1,0 +1,14 @@
+{
+  "hash": "08c2f84e66a1c732",
+  "source": "The {0} command installs {1}Nuxt modules{/1} and {2}layers{/2} into your application. It is the same command as {3}, with layers included.",
+  "text": "Der Befehl {0} installiert {1}Nuxt-Module{/1} und {2}Layer{/2} in deiner Anwendung. Er entspricht dem Befehl {3}, schließt aber Layer mit ein.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Befehl {0} installiert {1}Nuxt-Module{/1} und {2}Layer{/2} in deiner Anwendung. Er entspricht dem Befehl {3}, schließt aber Layer mit ein."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

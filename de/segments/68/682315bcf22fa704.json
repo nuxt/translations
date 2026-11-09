@@ -1,0 +1,14 @@
+{
+  "hash": "682315bcf22fa704",
+  "source": "The watch will be triggered when the component is available",
+  "text": "Der Watcher wird ausgelöst, sobald die Komponente verfügbar ist",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Watcher wird ausgelöst, sobald die Komponente verfügbar ist"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

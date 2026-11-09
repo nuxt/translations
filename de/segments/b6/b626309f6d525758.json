@@ -1,0 +1,14 @@
+{
+  "hash": "b626309f6d525758",
+  "source": "**Typed runtime config environment variables**: environment variables are {0}converted to the type of the runtime config value{/0} they replace rather than cast with {1}, and the server does not start if one cannot be converted",
+  "text": "**Typisierte Umgebungsvariablen der Laufzeitkonfiguration**: Umgebungsvariablen werden {0}in den Typ des Werts der Laufzeitkonfiguration umgewandelt{/0}, den sie ersetzen, statt mit {1} umgewandelt zu werden, und der Server startet nicht, wenn eine Umwandlung nicht möglich ist",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Typisierte Umgebungsvariablen der Laufzeitkonfiguration**: Umgebungsvariablen werden {0}in den Typ des Werts der Laufzeitkonfiguration umgewandelt{/0}, den sie ersetzen, statt mit {1} umgewandelt zu werden, und der Server startet nicht, wenn eine Umwandlung nicht möglich ist"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

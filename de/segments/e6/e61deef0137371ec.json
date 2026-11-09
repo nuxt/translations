@@ -1,0 +1,14 @@
+{
+  "hash": "e61deef0137371ec",
+  "source": "on server-side, it will trigger a full-screen error page which you can clear with {0}.",
+  "text": "wird auf dem Server eine Vollbild-Fehlerseite ausgelöst, die du mit {0} zurücksetzen kannst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "wird auf dem Server eine Vollbild-Fehlerseite ausgelöst, die du mit {0} zurücksetzen kannst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

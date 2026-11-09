@@ -1,0 +1,14 @@
+{
+  "hash": "1c8299ca0a213f85",
+  "source": "If you emit a per-component styles map alongside its CSS chunks:",
+  "text": "Falls du zusammen mit den CSS-Chunks eine Map der Styles pro Komponente ausgibst:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Falls du zusammen mit den CSS-Chunks eine Map der Styles pro Komponente ausgibst:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

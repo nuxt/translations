@@ -1,0 +1,14 @@
+{
+  "hash": "27f68e93df6289bc",
+  "source": "Modules are covered automatically. If a module's server files import from {0}, {1}, {2} or {3}, Nuxt gives that module what its code expects: the h3 v1 helpers, the old {4} paths mapped to Nitro v3, {5}, and the v1 event properties.",
+  "text": "Module werden automatisch abgedeckt. Wenn die Serverdateien eines Moduls aus {0}, {1}, {2} oder {3} importieren, stellt Nuxt diesem Modul bereit, was sein Code erwartet: die Hilfsfunktionen von h3 v1, die alten {4}-Pfade, die auf Nitro v3 abgebildet werden, {5} und die Event-Eigenschaften von v1.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Module werden automatisch abgedeckt. Wenn die Serverdateien eines Moduls aus {0}, {1}, {2} oder {3} importieren, stellt Nuxt diesem Modul bereit, was sein Code erwartet: die Hilfsfunktionen von h3 v1, die alten {4}-Pfade, die auf Nitro v3 abgebildet werden, {5} und die Event-Eigenschaften von v1."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

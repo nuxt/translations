@@ -1,0 +1,14 @@
+{
+  "hash": "0f597fcd39d88d6d",
+  "source": "You can get type hinting for this function using the higher-level {0} helper provided by {1}Nuxt Kit{/1}.",
+  "text": "Typhinweise für diese Funktion erhältst du mit dem übergeordneten Hilfsprogramm {0}, das {1}Nuxt Kit{/1} bereitstellt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Typhinweise für diese Funktion erhältst du mit dem übergeordneten Hilfsprogramm {0}, das {1}Nuxt Kit{/1} bereitstellt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

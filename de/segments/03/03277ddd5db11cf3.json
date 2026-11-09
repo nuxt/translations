@@ -1,0 +1,14 @@
+{
+  "hash": "03277ddd5db11cf3",
+  "source": "The Nuxt CLI runs, builds and inspects your Nuxt application from the command line.",
+  "text": "Die Nuxt-Kommandozeilenschnittstelle führt deine Nuxt-Anwendung aus, erzeugt sie und untersucht sie über die Kommandozeile.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Nuxt-Kommandozeilenschnittstelle führt deine Nuxt-Anwendung aus, erzeugt sie und untersucht sie über die Kommandozeile."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

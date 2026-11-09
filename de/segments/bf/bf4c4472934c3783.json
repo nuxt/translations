@@ -1,0 +1,14 @@
+{
+  "hash": "bf4c4472934c3783",
+  "source": "Images that won't be served from the {0} directory.",
+  "text": "Bilder, die nicht aus dem Verzeichnis {0} ausgeliefert werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bilder, die nicht aus dem Verzeichnis {0} ausgeliefert werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

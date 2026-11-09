@@ -1,0 +1,14 @@
+{
+  "hash": "9d321d73b20f080e",
+  "source": "{0}: Configuration applied below {1}. User configuration takes precedence over these.",
+  "text": "{0}: Konfiguration, die unterhalb von {1} angewendet wird. Die Konfiguration der Nutzenden hat Vorrang vor dieser.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Konfiguration, die unterhalb von {1} angewendet wird. Die Konfiguration der Nutzenden hat Vorrang vor dieser."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

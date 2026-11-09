@@ -1,0 +1,14 @@
+{
+  "hash": "dbd0f2d8388d1a69",
+  "source": "My todo data",
+  "text": "Meine Todo-Daten",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Meine Todo-Daten"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

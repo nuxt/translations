@@ -1,0 +1,14 @@
+{
+  "hash": "dea3058b1130c4dc",
+  "source": "When requests don't rely on each other, you can make them in parallel with {0} to boost performance.",
+  "text": "Wenn Anfragen nicht voneinander abhängen, kannst du sie mit {0} parallel senden, um die Performance zu verbessern.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn Anfragen nicht voneinander abhängen, kannst du sie mit {0} parallel senden, um die Performance zu verbessern."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

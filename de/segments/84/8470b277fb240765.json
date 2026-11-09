@@ -1,0 +1,14 @@
+{
+  "hash": "8470b277fb240765",
+  "source": "Nuxt Kit provides a set of utilities to help you work with context.",
+  "text": "Nuxt Kit stellt eine Reihe von Hilfsfunktionen bereit, mit denen du mit dem Kontext arbeiten kannst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Kit stellt eine Reihe von Hilfsfunktionen bereit, mit denen du mit dem Kontext arbeiten kannst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

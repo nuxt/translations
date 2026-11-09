@@ -1,0 +1,14 @@
+{
+  "hash": "b6bfc7a05577db89",
+  "source": "The .nuxtignore file lets Nuxt ignore files in your project’s root directory during the build phase.",
+  "text": "Mit der Datei .nuxtignore ignoriert Nuxt während der Build-Phase Dateien im Projektstammverzeichnis deines Projekts.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit der Datei .nuxtignore ignoriert Nuxt während der Build-Phase Dateien im Projektstammverzeichnis deines Projekts."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

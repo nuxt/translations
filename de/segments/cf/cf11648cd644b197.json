@@ -1,0 +1,14 @@
+{
+  "hash": "cf11648cd644b197",
+  "source": "An array of custom directories that will be auto-imported. Note that this option will not override the default directories (\\~/composables, \\~/utils).",
+  "text": "Ein Array benutzerdefinierter Verzeichnisse, die automatisch importiert werden. Beachte, dass diese Option die Standardverzeichnisse (\\~/composables, \\~/utils) nicht überschreibt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein Array benutzerdefinierter Verzeichnisse, die automatisch importiert werden. Beachte, dass diese Option die Standardverzeichnisse (\\~/composables, \\~/utils) nicht überschreibt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

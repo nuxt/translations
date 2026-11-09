@@ -1,0 +1,14 @@
+{
+  "hash": "07bb438f37ab84d0",
+  "source": "Moving your string interpolation logic directly into {0}.",
+  "text": "Du verlagerst deine Logik zur String-Interpolation direkt in {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du verlagerst deine Logik zur String-Interpolation direkt in {0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

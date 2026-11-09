@@ -1,0 +1,14 @@
+{
+  "hash": "78f42c43b9b3f3c9",
+  "source": "To re-enable _all_ Nuxt v3 behavior, set the following options:",
+  "text": "Um _das gesamte_ Verhalten von Nuxt v3 wieder zu aktivieren, setze die folgenden Optionen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um _das gesamte_ Verhalten von Nuxt v3 wieder zu aktivieren, setze die folgenden Optionen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

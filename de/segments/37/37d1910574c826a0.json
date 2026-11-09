@@ -1,0 +1,14 @@
+{
+  "hash": "37d1910574c826a0",
+  "source": "To avoid hydration errors, it will be applied only after the Vue app has been mounted, meaning there may be a flicker on initial load.",
+  "text": "Um Hydration-Fehler zu vermeiden, wird er erst angewendet, nachdem die Vue-App gemountet wurde. Dadurch kann es beim ersten Laden zu einem Flackern kommen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um Hydration-Fehler zu vermeiden, wird er erst angewendet, nachdem die Vue-App gemountet wurde. Dadurch kann es beim ersten Laden zu einem Flackern kommen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "c3c997ba9af8d657",
+  "source": "The server/ directory is used to register API and server handlers to your application.",
+  "text": "Das Verzeichnis server/ dient dazu, API- und Server-Handler in deiner Anwendung zu registrieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Verzeichnis server/ dient dazu, API- und Server-Handler in deiner Anwendung zu registrieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

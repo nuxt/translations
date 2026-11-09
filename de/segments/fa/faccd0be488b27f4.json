@@ -1,0 +1,14 @@
+{
+  "hash": "faccd0be488b27f4",
+  "source": "If present, the properties in the {0} file will overwrite the properties in {1} file.",
+  "text": "Falls vorhanden, überschreiben die Eigenschaften in der Datei {0} die Eigenschaften in der Datei {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Falls vorhanden, überschreiben die Eigenschaften in der Datei {0} die Eigenschaften in der Datei {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "059f8a0ecabd557f",
+  "source": "Watch a video from Daniel Roe explaining Server Rendering and Global State.",
+  "text": "Sieh dir ein Video von Daniel Roe an, in dem er Server-Rendering und globalen Zustand erklärt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sieh dir ein Video von Daniel Roe an, in dem er Server-Rendering und globalen Zustand erklärt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

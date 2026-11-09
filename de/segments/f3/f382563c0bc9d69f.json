@@ -1,0 +1,14 @@
+{
+  "hash": "f382563c0bc9d69f",
+  "source": "Refresh useCookie values manually when a cookie has changed",
+  "text": "useCookie-Werte manuell aktualisieren, wenn sich ein Cookie geändert hat",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "useCookie-Werte manuell aktualisieren, wenn sich ein Cookie geändert hat"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

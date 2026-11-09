@@ -1,0 +1,14 @@
+{
+  "hash": "8b7d741425d6fbb4",
+  "source": "Commit Conventions",
+  "text": "Commit-Konventionen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Commit-Konventionen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

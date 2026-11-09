@@ -1,0 +1,14 @@
+{
+  "hash": "a10ecee5a1791152",
+  "source": "Defines the {0} descriptor of every {1} generated for the given font family, overriding any value the provider returns. This can be used to load a font for a limited set of characters only.",
+  "text": "Legt den Descriptor {0} jedes für die angegebene Schriftfamilie erzeugten {1} fest und überschreibt dabei jeden vom Provider gelieferten Wert. Damit lässt sich eine Schrift nur für einen begrenzten Zeichensatz laden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Legt den Descriptor {0} jedes für die angegebene Schriftfamilie erzeugten {1} fest und überschreibt dabei jeden vom Provider gelieferten Wert. Damit lässt sich eine Schrift nur für einen begrenzten Zeichensatz laden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

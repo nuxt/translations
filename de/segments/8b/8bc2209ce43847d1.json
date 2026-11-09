@@ -1,0 +1,14 @@
+{
+  "hash": "8bc2209ce43847d1",
+  "source": "For handling more complex situations and more safety, we recommend and internally use {0}mlly{/0} in Nuxt that can preserve named exports.",
+  "text": "Für komplexere Situationen und mehr Sicherheit empfehlen wir {0}mlly{/0}, das benannte Exporte beibehalten kann, und verwenden es intern in Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Für komplexere Situationen und mehr Sicherheit empfehlen wir {0}mlly{/0}, das benannte Exporte beibehalten kann, und verwenden es intern in Nuxt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "2017db8c6d950617",
+  "source": "Auto-import pinia stores defined in {0}",
+  "text": "Pinia-Stores automatisch importieren, die in {0} definiert sind",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pinia-Stores automatisch importieren, die in {0} definiert sind"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

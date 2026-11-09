@@ -1,0 +1,14 @@
+{
+  "hash": "7251f70d4e6f38db",
+  "source": "Migrate from CommonJS to ESM",
+  "text": "Von CommonJS zu ESM migrieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Von CommonJS zu ESM migrieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

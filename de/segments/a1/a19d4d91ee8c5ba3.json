@@ -1,0 +1,14 @@
+{
+  "hash": "a19d4d91ee8c5ba3",
+  "source": "Path to the plugin file.",
+  "text": "Pfad zur Plugin-Datei.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pfad zur Plugin-Datei."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

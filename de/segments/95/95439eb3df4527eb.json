@@ -1,0 +1,14 @@
+{
+  "hash": "95439eb3df4527eb",
+  "source": "The file is added to Nuxt's internal virtual file system and can be imported from '#build/my-module-feature.mjs'",
+  "text": "Die Datei wird dem internen virtuellen Dateisystem von Nuxt hinzugefügt und kann aus '#build/my-module-feature.mjs' importiert werden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Datei wird dem internen virtuellen Dateisystem von Nuxt hinzugefügt und kann aus '#build/my-module-feature.mjs' importiert werden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

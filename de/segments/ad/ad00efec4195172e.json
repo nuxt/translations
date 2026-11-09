@@ -1,0 +1,14 @@
+{
+  "hash": "ad00efec4195172e",
+  "source": "Set name of the transition to apply for current layout. You can also set this value to {0} to disable the layout transition.",
+  "text": "Lege den Namen des Übergangs fest, der für das aktuelle Layout angewendet wird. Du kannst den Wert auch auf {0} setzen, um den Layout-Übergang zu deaktivieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lege den Namen des Übergangs fest, der für das aktuelle Layout angewendet wird. Du kannst den Wert auch auf {0} setzen, um den Layout-Übergang zu deaktivieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "94347774f3c78c12",
+  "source": "Code in headings keeps its original casing and is not counted for capitalization purposes (for example, *Using {0} in Components*).",
+  "text": "Code in Überschriften behält seine ursprüngliche Schreibweise und wird bei der Großschreibung nicht berücksichtigt (z. B. *Using {0} in Components*).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Code in Überschriften behält seine ursprüngliche Schreibweise und wird bei der Großschreibung nicht berücksichtigt (z. B. *Using {0} in Components*)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

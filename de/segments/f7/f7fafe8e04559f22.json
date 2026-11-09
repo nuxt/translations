@@ -1,0 +1,14 @@
+{
+  "hash": "f7fafe8e04559f22",
+  "source": "Open {0} in your IDE of choice",
+  "text": "Öffne {0} in der IDE deiner Wahl",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Öffne {0} in der IDE deiner Wahl"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

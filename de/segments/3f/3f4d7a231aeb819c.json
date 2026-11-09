@@ -1,0 +1,14 @@
+{
+  "hash": "3f4d7a231aeb819c",
+  "source": "instead of runtimeConfig.app.myKey",
+  "text": "statt runtimeConfig.app.myKey",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "statt runtimeConfig.app.myKey"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

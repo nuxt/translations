@@ -1,0 +1,14 @@
+{
+  "hash": "a1cb52cf2d3b6d86",
+  "source": "The result of the asynchronous function that is passed in.",
+  "text": "Das Ergebnis der übergebenen asynchronen Funktion.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Ergebnis der übergebenen asynchronen Funktion."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

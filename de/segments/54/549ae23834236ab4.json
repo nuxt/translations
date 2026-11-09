@@ -1,0 +1,14 @@
+{
+  "hash": "549ae23834236ab4",
+  "source": "**Increased time to interactive**: Hydration errors force Vue to re-render the entire component tree, which will increase the time for your Nuxt app to become interactive",
+  "text": "**Längere Time to Interactive**: Hydration-Fehler zwingen Vue dazu, den gesamten Komponentenbaum neu zu rendern. Dadurch dauert es länger, bis deine Nuxt-Anwendung interaktiv wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Längere Time to Interactive**: Hydration-Fehler zwingen Vue dazu, den gesamten Komponentenbaum neu zu rendern. Dadurch dauert es länger, bis deine Nuxt-Anwendung interaktiv wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

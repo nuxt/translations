@@ -1,0 +1,14 @@
+{
+  "hash": "dadd770db715bd02",
+  "source": "See the mostly-static site recipe for combining {0} with prerendering, islands and lazy hydration.",
+  "text": "Im Rezept für überwiegend statische Websites erfährst du, wie du {0} mit Vorab-Rendering, Islands und Lazy Hydration kombinierst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Im Rezept für überwiegend statische Websites erfährst du, wie du {0} mit Vorab-Rendering, Islands und Lazy Hydration kombinierst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

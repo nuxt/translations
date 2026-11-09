@@ -1,0 +1,14 @@
+{
+  "hash": "2e93177453836ef7",
+  "source": "You can use {0} in order to leverage multi-process performance using Node.js {1}cluster{/1} module.",
+  "text": "Du kannst {0} verwenden, um mit dem Node.js-Modul {1}cluster{/1} die Leistung mehrerer Prozesse zu nutzen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst {0} verwenden, um mit dem Node.js-Modul {1}cluster{/1} die Leistung mehrerer Prozesse zu nutzen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "70e04855e9b3a9d5",
+  "source": "... then the component's name will be based on its own path directory and filename, with duplicate segments being removed. Therefore, the component's name will be:",
+  "text": "… dann basiert der Name der Komponente auf ihrem Verzeichnispfad und Dateinamen, wobei doppelte Segmente entfernt werden. Der Name der Komponente lautet daher:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "… dann basiert der Name der Komponente auf ihrem Verzeichnispfad und Dateinamen, wobei doppelte Segmente entfernt werden. Der Name der Komponente lautet daher:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

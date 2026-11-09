@@ -1,0 +1,14 @@
+{
+  "hash": "a4b218937fd1146b",
+  "source": "Ensure Plugins Default Export",
+  "text": "Default-Export von Plugins sicherstellen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Default-Export von Plugins sicherstellen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

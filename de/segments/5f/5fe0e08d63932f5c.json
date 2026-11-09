@@ -1,0 +1,14 @@
+{
+  "hash": "5fe0e08d63932f5c",
+  "source": "This flag is disabled by default, but you can enable this feature:",
+  "text": "Dieses Flag ist standardmäßig deaktiviert, aber du kannst die Funktion aktivieren:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dieses Flag ist standardmäßig deaktiviert, aber du kannst die Funktion aktivieren:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "091ffa40784d33b2",
+  "source": "Redis host",
+  "text": "Redis-Host",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Redis-Host"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

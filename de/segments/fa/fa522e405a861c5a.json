@@ -1,0 +1,14 @@
+{
+  "hash": "fa522e405a861c5a",
+  "source": "{0}Server components{/0} that only render static HTML work fine, but components hydrated with {1} and interactive island slots rely on an inline script to relocate teleported content, so they will not become interactive on a {2} route. When {3} is set app-wide and component islands are active, Nuxt also falls back to buffered rendering for this reason.",
+  "text": "{0}Server-Komponenten{/0}, die nur statisches HTML rendern, funktionieren problemlos. Komponenten, die mit {1} hydratisiert werden, und interaktive Island-Slots verlassen sich jedoch auf ein Inline-Skript, um verschobenen Inhalt (Teleport) neu zu positionieren, und werden daher auf einer {2}-Route nicht interaktiv. Wenn {3} für die gesamte App gesetzt ist und Komponenten-Islands aktiv sind, greift Nuxt aus diesem Grund ebenfalls auf gepuffertes Rendering zurück.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}Server-Komponenten{/0}, die nur statisches HTML rendern, funktionieren problemlos. Komponenten, die mit {1} hydratisiert werden, und interaktive Island-Slots verlassen sich jedoch auf ein Inline-Skript, um verschobenen Inhalt (Teleport) neu zu positionieren, und werden daher auf einer {2}-Route nicht interaktiv. Wenn {3} für die gesamte App gesetzt ist und Komponenten-Islands aktiv sind, greift Nuxt aus diesem Grund ebenfalls auf gepuffertes Rendering zurück."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

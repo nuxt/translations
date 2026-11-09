@@ -1,0 +1,14 @@
+{
+  "hash": "6995d840ebfaae52",
+  "source": "Directory Changes",
+  "text": "Änderungen an Verzeichnissen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Änderungen an Verzeichnissen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

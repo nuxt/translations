@@ -1,0 +1,14 @@
+{
+  "hash": "d2ffd74e9efd084b",
+  "source": "Before creating a PR or marking it as ready-to-review, ensure that all tests pass by running:",
+  "text": "Bevor du einen PR erstellst oder als bereit zur Überprüfung markierst, stelle sicher, dass alle Tests bestehen, indem du Folgendes ausführst:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bevor du einen PR erstellst oder als bereit zur Überprüfung markierst, stelle sicher, dass alle Tests bestehen, indem du Folgendes ausführst:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "03db94174d2e8466",
+  "source": "The first two kinds of route middleware can be defined in {0}.",
+  "text": "Die ersten beiden Arten von Routen-Middleware lassen sich mit {0} definieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die ersten beiden Arten von Routen-Middleware lassen sich mit {0} definieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "0127f95aeb52583e",
+  "source": "Read more general performance best practices for Nuxt apps.",
+  "text": "Lies mehr über allgemeine Best Practices zur Performance von Nuxt-Apps.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lies mehr über allgemeine Best Practices zur Performance von Nuxt-Apps."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

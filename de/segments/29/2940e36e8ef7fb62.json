@@ -1,0 +1,14 @@
+{
+  "hash": "2940e36e8ef7fb62",
+  "source": "Nested Router",
+  "text": "Verschachtelter Router",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verschachtelter Router"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

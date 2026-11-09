@@ -1,0 +1,14 @@
+{
+  "hash": "d35f3dd8f54d0e4b",
+  "source": "Named route middleware is defined by providing a string as the first argument and a function as the second:",
+  "text": "Benannte Routen-Middleware wird definiert, indem du einen String als erstes und eine Funktion als zweites Argument übergibst:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Benannte Routen-Middleware wird definiert, indem du einen String als erstes und eine Funktion als zweites Argument übergibst:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

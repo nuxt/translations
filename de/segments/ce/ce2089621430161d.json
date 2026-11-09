@@ -1,0 +1,14 @@
+{
+  "hash": "ce2089621430161d",
+  "source": "For routes that need some interactivity, keep scripts enabled but control *when* components hydrate using {0}lazy hydration{/0}:",
+  "text": "Lass bei Routen, die etwas Interaktivität brauchen, die Skripte aktiviert und steuere mit {0}Lazy Hydration{/0}, *wann* Komponenten hydratisiert werden:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lass bei Routen, die etwas Interaktivität brauchen, die Skripte aktiviert und steuere mit {0}Lazy Hydration{/0}, *wann* Komponenten hydratisiert werden:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

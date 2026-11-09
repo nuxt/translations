@@ -1,0 +1,14 @@
+{
+  "hash": "fe7ffbad131112e3",
+  "source": "Include parent workspace in the Nuxt project. Mostly useful for themes and module authors.",
+  "text": "Bindet den übergeordneten Workspace in das Nuxt-Projekt ein. Vor allem für Themes und Modulautorinnen und -autoren nützlich.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bindet den übergeordneten Workspace in das Nuxt-Projekt ein. Vor allem für Themes und Modulautorinnen und -autoren nützlich."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

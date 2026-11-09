@@ -1,0 +1,14 @@
+{
+  "hash": "6de654be0bd121d4",
+  "source": "In Nuxt v3 we moved to a 'virtual' syntax with a {0} function which is much more flexible and performant.",
+  "text": "In Nuxt v3 sind wir auf eine „virtuelle“ Syntax mit einer {0}-Funktion umgestiegen, die deutlich flexibler und performanter ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In Nuxt v3 sind wir auf eine „virtuelle“ Syntax mit einer {0}-Funktion umgestiegen, die deutlich flexibler und performanter ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

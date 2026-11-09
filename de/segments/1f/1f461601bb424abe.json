@@ -1,0 +1,14 @@
+{
+  "hash": "1f461601bb424abe",
+  "source": "✅ TypeScript knows this is always defined",
+  "text": "✅ TypeScript weiß, dass dies immer definiert ist",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "✅ TypeScript weiß, dass dies immer definiert ist"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

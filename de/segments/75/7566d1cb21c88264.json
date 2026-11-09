@@ -1,0 +1,14 @@
+{
+  "hash": "7566d1cb21c88264",
+  "source": "{0}: Cross-version Nuxt typedefs and defaults, published as {1}.",
+  "text": "{0}: Versionsübergreifende Typdefinitionen und Standardwerte für Nuxt, veröffentlicht als {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Versionsübergreifende Typdefinitionen und Standardwerte für Nuxt, veröffentlicht als {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

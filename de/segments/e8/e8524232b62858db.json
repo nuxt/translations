@@ -1,0 +1,14 @@
+{
+  "hash": "e8524232b62858db",
+  "source": "If you prefer your usual browser extensions, add this to the *chrome* configuration above:",
+  "text": "Wenn du lieber deine gewohnten Browsererweiterungen nutzen möchtest, füge Folgendes zur oben stehenden *chrome*-Konfiguration hinzu:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du lieber deine gewohnten Browsererweiterungen nutzen möchtest, füge Folgendes zur oben stehenden *chrome*-Konfiguration hinzu:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

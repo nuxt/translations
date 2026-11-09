@@ -1,0 +1,14 @@
+{
+  "hash": "54aaf31fc43b50f9",
+  "source": "Nuxt provides an {0} config file to expose reactive configuration within your application with the ability to update it at runtime within lifecycle or using a nuxt plugin and editing it with HMR (hot-module-replacement).",
+  "text": "Nuxt stellt eine {0}-Konfigurationsdatei bereit, um reaktive Konfiguration in deiner Anwendung verfügbar zu machen. Du kannst sie zur Laufzeit innerhalb des Lebenszyklus oder mit einem Nuxt-plugin aktualisieren und mit HMR (Hot Module Replacement) bearbeiten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt stellt eine {0}-Konfigurationsdatei bereit, um reaktive Konfiguration in deiner Anwendung verfügbar zu machen. Du kannst sie zur Laufzeit innerhalb des Lebenszyklus oder mit einem Nuxt-plugin aktualisieren und mit HMR (Hot Module Replacement) bearbeiten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

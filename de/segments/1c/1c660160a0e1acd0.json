@@ -1,0 +1,14 @@
+{
+  "hash": "1c660160a0e1acd0",
+  "source": "Refresh the session on client-side and redirect to the home page",
+  "text": "Die Sitzung auf der Clientseite aktualisieren und zur Startseite weiterleiten",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Sitzung auf der Clientseite aktualisieren und zur Startseite weiterleiten"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

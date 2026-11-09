@@ -1,0 +1,14 @@
+{
+  "hash": "158a0eb4be1c9986",
+  "source": "{0} prints a completion script, powered by {1}. It completes commands, flags and some flag values: ports and hosts for {2}, Nitro presets for {3}, and log levels.",
+  "text": "{0} gibt ein Skript zur Autovervollständigung aus, das auf {1} basiert. Es vervollständigt Befehle, Flags und einige Flag-Werte: Ports und Hosts für {2}, Nitro-Presets für {3} sowie Protokollstufen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} gibt ein Skript zur Autovervollständigung aus, das auf {1} basiert. Es vervollständigt Befehle, Flags und einige Flag-Werte: Ports und Hosts für {2}, Nitro-Presets für {3} sowie Protokollstufen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

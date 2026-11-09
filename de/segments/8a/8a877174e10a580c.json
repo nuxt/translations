@@ -1,0 +1,14 @@
+{
+  "hash": "8a877174e10a580c",
+  "source": "props must be JSON-serializable",
+  "text": "Props müssen JSON-serialisierbar sein",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Props müssen JSON-serialisierbar sein"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

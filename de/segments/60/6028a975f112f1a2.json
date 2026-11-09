@@ -1,0 +1,14 @@
+{
+  "hash": "6028a975f112f1a2",
+  "source": "Defines the styles that should be downloaded for a font.",
+  "text": "Legt die Stile fest, die für eine Schrift heruntergeladen werden sollen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Legt die Stile fest, die für eine Schrift heruntergeladen werden sollen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

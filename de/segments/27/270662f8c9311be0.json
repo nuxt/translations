@@ -1,0 +1,14 @@
+{
+  "hash": "270662f8c9311be0",
+  "source": "The addon's {0} function runs on every call of the composable, and receives the merged options (factory defaults plus caller options).",
+  "text": "Die Funktion {0} des Addons wird bei jedem Aufruf des Composables ausgeführt und erhält die zusammengeführten Optionen (Standardwerte der Factory plus Optionen der aufrufenden Stelle).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Funktion {0} des Addons wird bei jedem Aufruf des Composables ausgeführt und erhält die zusammengeführten Optionen (Standardwerte der Factory plus Optionen der aufrufenden Stelle)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

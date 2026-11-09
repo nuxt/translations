@@ -1,0 +1,14 @@
+{
+  "hash": "873cf531721276ec",
+  "source": "In the above example, the value of {0} will be available using {1} in the template or {2} in {3} at custom.vue.",
+  "text": "Im obigen Beispiel ist der Wert von {0} in custom.vue über {1} in der Vorlage oder über {2} in {3} verfügbar.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Im obigen Beispiel ist der Wert von {0} in custom.vue über {1} in der Vorlage oder über {2} in {3} verfügbar."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "0e38035ad0ae69fe",
+  "source": "Use a schema library that implements Standard JSON Schema, such as {0}Zod{/0} or {1}ArkType{/1}. Wrap a {2}Valibot{/2} schema in {3}:",
+  "text": "Verwende eine Schema-Bibliothek, die Standard JSON Schema implementiert, wie {0}Zod{/0} oder {1}ArkType{/1}. Umschließe ein {2}Valibot{/2}-Schema mit {3}:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwende eine Schema-Bibliothek, die Standard JSON Schema implementiert, wie {0}Zod{/0} oder {1}ArkType{/1}. Umschließe ein {2}Valibot{/2}-Schema mit {3}:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

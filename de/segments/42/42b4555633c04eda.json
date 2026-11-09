@@ -1,0 +1,14 @@
+{
+  "hash": "42b4555633c04eda",
+  "source": "We aim for a tone that is friendly and professional. Write directly to the reader (\"you\"), be concise, and assume good faith: readers come from many different backgrounds and levels of experience, so avoid language that could make anyone feel talked down to. It's fine to be warm - the docs can have personality - but clarity always comes first.",
+  "text": "Wir streben eine freundliche und professionelle Tonalität an. Sprich die Lesenden direkt an („du“), fasse dich kurz und gehe von guten Absichten aus: Lesende kommen aus ganz unterschiedlichen Hintergründen und haben unterschiedlich viel Erfahrung, vermeide also Formulierungen, bei denen sich jemand belehrt fühlen könnte. Ein herzlicher Ton ist in Ordnung – die Dokumentation darf Persönlichkeit haben –, aber Klarheit steht immer an erster Stelle.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wir streben eine freundliche und professionelle Tonalität an. Sprich die Lesenden direkt an („du“), fasse dich kurz und gehe von guten Absichten aus: Lesende kommen aus ganz unterschiedlichen Hintergründen und haben unterschiedlich viel Erfahrung, vermeide also Formulierungen, bei denen sich jemand belehrt fühlen könnte. Ein herzlicher Ton ist in Ordnung – die Dokumentation darf Persönlichkeit haben –, aber Klarheit steht immer an erster Stelle."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

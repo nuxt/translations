@@ -1,0 +1,14 @@
+{
+  "hash": "133b084126f96ae4",
+  "source": "A {0} is prepended to the path before the request is made, so it is part of the route being requested and Nuxt resolves it as such - whether it is set per call, on a {1} instance, or on a composable built with {2}:",
+  "text": "Eine {0} wird dem Pfad vorangestellt, bevor die Anfrage gesendet wird. Sie ist also Teil der angefragten Route, und Nuxt löst sie entsprechend auf – unabhängig davon, ob sie pro Aufruf, an einer {1}-Instanz oder an einem mit {2} erzeugten Composable gesetzt wird:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine {0} wird dem Pfad vorangestellt, bevor die Anfrage gesendet wird. Sie ist also Teil der angefragten Route, und Nuxt löst sie entsprechend auf – unabhängig davon, ob sie pro Aufruf, an einer {1}-Instanz oder an einem mit {2} erzeugten Composable gesetzt wird:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

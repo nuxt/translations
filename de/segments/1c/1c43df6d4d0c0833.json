@@ -1,0 +1,14 @@
+{
+  "hash": "1c43df6d4d0c0833",
+  "source": "{0} to clean up.",
+  "text": "{0} zum Aufräumen registrieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} zum Aufräumen registrieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

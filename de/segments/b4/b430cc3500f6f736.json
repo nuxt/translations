@@ -1,0 +1,14 @@
+{
+  "hash": "b430cc3500f6f736",
+  "source": "This is a build-time optimization only; it does not change what the server sends to the browser.",
+  "text": "Dies ist ausschließlich eine Optimierung zur Build-Zeit; sie ändert nichts daran, was der Server an den Browser sendet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dies ist ausschließlich eine Optimierung zur Build-Zeit; sie ändert nichts daran, was der Server an den Browser sendet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

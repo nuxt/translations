@@ -1,0 +1,14 @@
+{
+  "hash": "b783368af7198419",
+  "source": "Optional name for the plugin, useful for debugging and dependency management.",
+  "text": "Optionaler Name für das Plugin, nützlich für das Debugging und die Verwaltung von Abhängigkeiten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Optionaler Name für das Plugin, nützlich für das Debugging und die Verwaltung von Abhängigkeiten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

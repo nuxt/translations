@@ -1,0 +1,14 @@
+{
+  "hash": "360f7af31e41d9bf",
+  "source": "Define a lazy hydration component with a specific strategy.",
+  "text": "Definiere eine Komponente mit Lazy Hydration und einer bestimmten Strategie.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Definiere eine Komponente mit Lazy Hydration und einer bestimmten Strategie."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

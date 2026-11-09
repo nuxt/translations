@@ -1,0 +1,14 @@
+{
+  "hash": "c1bdcc417a92d7ec",
+  "source": "You can automate this migration by running {0}",
+  "text": "Du kannst diese Migration automatisieren, indem du {0} ausführst",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst diese Migration automatisieren, indem du {0} ausführst"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

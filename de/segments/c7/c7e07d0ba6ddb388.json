@@ -1,0 +1,14 @@
+{
+  "hash": "c7e07d0ba6ddb388",
+  "source": "If you have a layout in nested directories, the layout's name will be based on its own path directory and filename, with duplicate segments being removed.",
+  "text": "Wenn sich ein Layout in verschachtelten Verzeichnissen befindet, richtet sich sein Name nach dem eigenen Verzeichnispfad und dem Dateinamen, wobei doppelte Segmente entfernt werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn sich ein Layout in verschachtelten Verzeichnissen befindet, richtet sich sein Name nach dem eigenen Verzeichnispfad und dem Dateinamen, wobei doppelte Segmente entfernt werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

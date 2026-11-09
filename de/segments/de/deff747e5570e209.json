@@ -1,0 +1,14 @@
+{
+  "hash": "deff747e5570e209",
+  "source": "augment the call-site options for the custom useFetch instance 👇",
+  "text": "die Optionen an der Aufrufstelle für die eigene useFetch-Instanz erweitern 👇",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "die Optionen an der Aufrufstelle für die eigene useFetch-Instanz erweitern 👇"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

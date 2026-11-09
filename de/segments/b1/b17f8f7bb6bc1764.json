@@ -1,0 +1,14 @@
+{
+  "hash": "b17f8f7bb6bc1764",
+  "source": "A path the generated route types do not describe still resolves, as {0}, unless you opt in to {1}.",
+  "text": "Ein Pfad, den die generierten Routentypen nicht beschreiben, wird weiterhin aufgelöst, und zwar als {0}, es sei denn, du aktivierst {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein Pfad, den die generierten Routentypen nicht beschreiben, wird weiterhin aufgelöst, und zwar als {0}, es sei denn, du aktivierst {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

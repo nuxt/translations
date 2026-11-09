@@ -1,0 +1,14 @@
+{
+  "hash": "b8a0c7429cccd091",
+  "source": "{0}, {1} and {2} are resolved relative to {3} by default",
+  "text": "{0}, {1} und {2} werden standardmäßig relativ zu {3} aufgelöst",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}, {1} und {2} werden standardmäßig relativ zu {3} aufgelöst"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "f1abde0791a61fe2",
+  "source": "The loader element is removed once the first page is ready to render, including asynchronous setup in the page, which avoids a white flash between the loading screen and the page. You can customize it with {0} and {1}. Nuxt finds the element by its {2} to remove it, so keep an {3} if you change {4}.",
+  "text": "Das Loader-Element wird entfernt, sobald die erste Seite zum Rendern bereit ist, einschließlich asynchronem Setup in der Seite. So wird ein weißes Aufblitzen zwischen Ladebildschirm und Seite vermieden. Du kannst es mit {0} und {1} anpassen. Nuxt findet das Element anhand seiner {2}, um es zu entfernen. Behalte daher eine {3} bei, wenn du {4} änderst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Loader-Element wird entfernt, sobald die erste Seite zum Rendern bereit ist, einschließlich asynchronem Setup in der Seite. So wird ein weißes Aufblitzen zwischen Ladebildschirm und Seite vermieden. Du kannst es mit {0} und {1} anpassen. Nuxt findet das Element anhand seiner {2}, um es zu entfernen. Behalte daher eine {3} bei, wenn du {4} änderst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "84a051053f02096c",
+  "source": "Call the composable synchronously at the top of {0} / a plugin / middleware and reuse the captured result later. For server-side async work, wrap the call with {1}.",
+  "text": "Rufe das Composable synchron am Anfang von {0} / eines plugins / einer middleware auf und verwende das gespeicherte Ergebnis später weiter. Bei asynchronen Aufgaben auf dem Server umschließt du den Aufruf mit {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Rufe das Composable synchron am Anfang von {0} / eines plugins / einer middleware auf und verwende das gespeicherte Ergebnis später weiter. Bei asynchronen Aufgaben auf dem Server umschließt du den Aufruf mit {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

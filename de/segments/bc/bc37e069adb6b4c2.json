@@ -1,0 +1,14 @@
+{
+  "hash": "bc37e069adb6b4c2",
+  "source": "There are over 100 parameters. See the {0}full list of parameters in the source code{/0}.",
+  "text": "Es gibt über 100 Parameter. Sieh dir die {0}vollständige Liste der Parameter im Quellcode{/0} an.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Es gibt über 100 Parameter. Sieh dir die {0}vollständige Liste der Parameter im Quellcode{/0} an."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

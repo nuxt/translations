@@ -1,0 +1,14 @@
+{
+  "hash": "c41b3dc9e2402343",
+  "source": "{0} surfaces accessibility problems in your components while you develop, alongside the practices below. It is in alpha, so expect its API to change.",
+  "text": "{0} zeigt dir Barrierefreiheitsprobleme in deinen Komponenten bereits während der Entwicklung an, zusätzlich zu den folgenden Praktiken. Es befindet sich in der Alpha-Phase, daher kann sich die API noch ändern.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} zeigt dir Barrierefreiheitsprobleme in deinen Komponenten bereits während der Entwicklung an, zusätzlich zu den folgenden Praktiken. Es befindet sich in der Alpha-Phase, daher kann sich die API noch ändern."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

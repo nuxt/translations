@@ -1,0 +1,14 @@
+{
+  "hash": "3dfa2b524b0bdffb",
+  "source": "You can also add a dynamic server route:",
+  "text": "Du kannst auch eine dynamische Server-Route hinzufügen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst auch eine dynamische Server-Route hinzufügen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

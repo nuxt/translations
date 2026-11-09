@@ -1,0 +1,14 @@
+{
+  "hash": "3982500038dcc4c3",
+  "source": "Public runtime config is accessible in Vue templates with {0}.",
+  "text": "Auf die öffentliche Laufzeitkonfiguration kannst du in Vue-Vorlagen mit {0} zugreifen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auf die öffentliche Laufzeitkonfiguration kannst du in Vue-Vorlagen mit {0} zugreifen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

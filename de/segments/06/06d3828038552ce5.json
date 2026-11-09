@@ -1,0 +1,14 @@
+{
+  "hash": "06d3828038552ce5",
+  "source": "Configuration that sets defaults but respects user settings",
+  "text": "Konfiguration, die Standardwerte setzt, aber Einstellungen der Nutzenden berücksichtigt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Konfiguration, die Standardwerte setzt, aber Einstellungen der Nutzenden berücksichtigt"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

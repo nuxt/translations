@@ -1,0 +1,14 @@
+{
+  "hash": "5b5db9aeba7f7124",
+  "source": "Customize Nuxt SpaLoader element tag.",
+  "text": "Passe das Tag des Nuxt-SpaLoader-Elements an.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Passe das Tag des Nuxt-SpaLoader-Elements an."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

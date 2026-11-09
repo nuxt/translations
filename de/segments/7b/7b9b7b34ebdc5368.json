@@ -1,0 +1,14 @@
+{
+  "hash": "7b9b7b34ebdc5368",
+  "source": "The default {0} of {1} is already a range. Widen it to make more weights available:",
+  "text": "Der Standardwert von {0} ist {1} und damit bereits ein Bereich. Erweitere ihn, um mehr Schriftstärken verfügbar zu machen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Standardwert von {0} ist {1} und damit bereits ein Bereich. Erweitere ihn, um mehr Schriftstärken verfügbar zu machen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

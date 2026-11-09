@@ -1,0 +1,14 @@
+{
+  "hash": "16995e1b41ee4b68",
+  "source": "We now scan page metadata (defined in {0}) *after* calling the {1} hook rather than before.",
+  "text": "Wir lesen Seiten-Metadaten (definiert in {0}) jetzt *nach* dem Aufruf des {1}-Hooks aus und nicht mehr davor.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wir lesen Seiten-Metadaten (definiert in {0}) jetzt *nach* dem Aufruf des {1}-Hooks aus und nicht mehr davor."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

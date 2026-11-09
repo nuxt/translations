@@ -1,0 +1,14 @@
+{
+  "hash": "057092d5c25d9e8c",
+  "source": "Custom useFetch in Nuxt",
+  "text": "Eigenes useFetch in Nuxt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eigenes useFetch in Nuxt"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

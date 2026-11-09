@@ -1,0 +1,14 @@
+{
+  "hash": "864fecb177fbf269",
+  "source": "two instances of the same island with the same props share a single server render and payload entry",
+  "text": "zwei Instanzen desselben Islands mit denselben Props teilen sich ein einziges Server-Rendering und einen gemeinsamen Payload-Eintrag",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "zwei Instanzen desselben Islands mit denselben Props teilen sich ein einziges Server-Rendering und einen gemeinsamen Payload-Eintrag"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

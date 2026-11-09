@@ -1,0 +1,14 @@
+{
+  "hash": "a2529e22a03a53c8",
+  "source": "Template refs cannot reference elements inside a server component from the parent ({0}).",
+  "text": "Template-Refs können nicht aus der übergeordneten Komponente auf Elemente innerhalb einer Serverkomponente verweisen ({0}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Template-Refs können nicht aus der übergeordneten Komponente auf Elemente innerhalb einer Serverkomponente verweisen ({0})."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

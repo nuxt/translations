@@ -1,0 +1,14 @@
+{
+  "hash": "5781e0b4c72f708b",
+  "source": "**{0}**: A factory function that returns an object with {1}, {2}, {3} and/or {4} properties. These properties must be functions that return a plugin instance or an array of plugin instances for the corresponding builder.",
+  "text": "**{0}**: Eine Factory-Funktion, die ein Objekt mit den Eigenschaften {1}, {2}, {3} und/oder {4} zurückgibt. Diese Eigenschaften müssen Funktionen sein, die eine Plugin-Instanz oder ein Array von Plugin-Instanzen für den jeweiligen Builder zurückgeben.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}**: Eine Factory-Funktion, die ein Objekt mit den Eigenschaften {1}, {2}, {3} und/oder {4} zurückgibt. Diese Eigenschaften müssen Funktionen sein, die eine Plugin-Instanz oder ein Array von Plugin-Instanzen für den jeweiligen Builder zurückgeben."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

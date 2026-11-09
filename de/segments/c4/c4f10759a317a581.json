@@ -1,0 +1,14 @@
+{
+  "hash": "c4f10759a317a581",
+  "source": "{0}: Props to send to the component to render.",
+  "text": "{0}: Props, die an die zu rendernde Komponente übergeben werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Props, die an die zu rendernde Komponente übergeben werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

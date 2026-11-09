@@ -1,0 +1,14 @@
+{
+  "hash": "0d608d98ebc6bb93",
+  "source": "Aspect",
+  "text": "Aspekt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Aspekt"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

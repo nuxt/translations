@@ -1,0 +1,14 @@
+{
+  "hash": "84a7c6ef3322ba95",
+  "source": "Bare package imports ({0}) are unaffected.",
+  "text": "Importe reiner Paketnamen ({0}) sind nicht betroffen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Importe reiner Paketnamen ({0}) sind nicht betroffen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

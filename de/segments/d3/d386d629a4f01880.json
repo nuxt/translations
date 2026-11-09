@@ -1,0 +1,14 @@
+{
+  "hash": "d386d629a4f01880",
+  "source": "**Case-sensitive routing**: page routes match URL casing exactly, consistent with Nitro, so {0} no longer matches {1}",
+  "text": "**Routing mit Beachtung der Groß- und Kleinschreibung**: Seitenrouten stimmen exakt mit der Groß- und Kleinschreibung der URL überein, wie bei Nitro, sodass {0} nicht mehr zu {1} passt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Routing mit Beachtung der Groß- und Kleinschreibung**: Seitenrouten stimmen exakt mit der Groß- und Kleinschreibung der URL überein, wie bei Nitro, sodass {0} nicht mehr zu {1} passt"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

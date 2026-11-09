@@ -1,0 +1,14 @@
+{
+  "hash": "849b975240413554",
+  "source": "Default registry is loaded from {0}nuxt/starter/templates{/0}",
+  "text": "Die Standard-Registry wird aus {0}nuxt/starter/templates{/0} geladen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Standard-Registry wird aus {0}nuxt/starter/templates{/0} geladen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

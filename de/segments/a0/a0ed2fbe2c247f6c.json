@@ -1,0 +1,14 @@
+{
+  "hash": "a0ed2fbe2c247f6c",
+  "source": "Slots can be interactive and are wrapped within a {0} with {1}",
+  "text": "Slots können interaktiv sein und sind in ein {0} mit {1} eingebettet",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Slots können interaktiv sein und sind in ein {0} mit {1} eingebettet"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

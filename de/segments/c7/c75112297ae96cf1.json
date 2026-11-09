@@ -1,0 +1,14 @@
+{
+  "hash": "c75112297ae96cf1",
+  "source": "If your server build bundles the files the app build wrote, rather than inlining module bodies, you need to know where those files are. Ask the build description:",
+  "text": "Wenn dein Server-Build die vom App-Build geschriebenen Dateien bündelt, statt Modulrümpfe einzubetten, musst du wissen, wo diese Dateien liegen. Frage die Build-Beschreibung ab:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn dein Server-Build die vom App-Build geschriebenen Dateien bündelt, statt Modulrümpfe einzubetten, musst du wissen, wo diese Dateien liegen. Frage die Build-Beschreibung ab:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

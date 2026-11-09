@@ -1,0 +1,14 @@
+{
+  "hash": "2a71c6956f045302",
+  "source": "No equivalent. Fonts are always downloaded at build time and served from your own origin.",
+  "text": "Kein Äquivalent. Schriftarten werden immer zur Build-Zeit heruntergeladen und von deinem eigenen Origin ausgeliefert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Kein Äquivalent. Schriftarten werden immer zur Build-Zeit heruntergeladen und von deinem eigenen Origin ausgeliefert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "261a87b9e81528e2",
+  "source": "set the progress to 0, and show loading immediately",
+  "text": "Setzt den Fortschritt auf 0 und zeigt den Ladezustand sofort an",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Setzt den Fortschritt auf 0 und zeigt den Ladezustand sofort an"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "0a7bcc05610fba0e",
+  "source": "Adds a template and registers as a nuxt plugin. This is useful for plugins that need to generate code at build time.",
+  "text": "Fügt eine Vorlage hinzu und registriert sie als Nuxt-Plugin. Das ist nützlich für Plugins, die zur Build-Zeit Code generieren müssen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fügt eine Vorlage hinzu und registriert sie als Nuxt-Plugin. Das ist nützlich für Plugins, die zur Build-Zeit Code generieren müssen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

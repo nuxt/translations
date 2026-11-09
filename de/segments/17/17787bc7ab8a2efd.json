@@ -1,0 +1,14 @@
+{
+  "hash": "17787bc7ab8a2efd",
+  "source": "Browse pages and server routes",
+  "text": "Seiten und Server-Routen durchsuchen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Seiten und Server-Routen durchsuchen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "1c5e0f3af7aa2a16",
+  "source": "**See**: {0}Vite configuration docs{/0} for more information. Please note that not all vite options are supported in Nuxt.",
+  "text": "**Siehe**: {0}Vite-Konfigurationsdokumentation{/0} für weitere Informationen. Beachte, dass nicht alle Vite-Optionen in Nuxt unterstützt werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Siehe**: {0}Vite-Konfigurationsdokumentation{/0} für weitere Informationen. Beachte, dass nicht alle Vite-Optionen in Nuxt unterstützt werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

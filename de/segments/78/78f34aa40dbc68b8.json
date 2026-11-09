@@ -1,0 +1,14 @@
+{
+  "hash": "78f34aa40dbc68b8",
+  "source": "Nuxt Kit provides a set of utilities to help you work with layouts.",
+  "text": "Nuxt Kit stellt eine Reihe von Hilfsfunktionen bereit, die dir die Arbeit mit Layouts erleichtern.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Kit stellt eine Reihe von Hilfsfunktionen bereit, die dir die Arbeit mit Layouts erleichtern."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

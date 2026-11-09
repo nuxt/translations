@@ -1,0 +1,14 @@
+{
+  "hash": "07d9b977e2ab2364",
+  "source": "When your goal is to preserve state for parent routes use this syntax: {0}. You can also set props to be passed to {1} (see {2}a full list{/2}).",
+  "text": "Wenn du den Zustand übergeordneter Routen beibehalten möchtest, verwende diese Syntax: {0}. Du kannst außerdem Props festlegen, die an {1} übergeben werden (siehe {2}vollständige Liste{/2}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du den Zustand übergeordneter Routen beibehalten möchtest, verwende diese Syntax: {0}. Du kannst außerdem Props festlegen, die an {1} übergeben werden (siehe {2}vollständige Liste{/2})."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

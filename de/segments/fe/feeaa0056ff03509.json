@@ -1,0 +1,14 @@
+{
+  "hash": "feeaa0056ff03509",
+  "source": "A skip link as the first tab stop of your app is the conventional fix, and it helps on the initial page load too:",
+  "text": "Ein Skip-Link als erster Tab-Stopp deiner App ist die übliche Lösung und hilft auch beim ersten Laden der Seite:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein Skip-Link als erster Tab-Stopp deiner App ist die übliche Lösung und hilft auch beim ersten Laden der Seite:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

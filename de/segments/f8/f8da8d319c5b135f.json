@@ -1,0 +1,14 @@
+{
+  "hash": "f8da8d319c5b135f",
+  "source": "Be careful not to expose any sensitive module configuration on the public runtime config, such as private API keys, as they will end up in the public bundle.",
+  "text": "Achte darauf, keine sensiblen Modulkonfigurationen wie private API-Schlüssel in der öffentlichen Laufzeitkonfiguration bereitzustellen, da sie sonst im öffentlichen Bundle landen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Achte darauf, keine sensiblen Modulkonfigurationen wie private API-Schlüssel in der öffentlichen Laufzeitkonfiguration bereitzustellen, da sie sonst im öffentlichen Bundle landen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

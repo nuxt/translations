@@ -1,0 +1,14 @@
+{
+  "hash": "f62cfe93e90466b7",
+  "source": "your build directory, which is {0} unless {1} says otherwise",
+  "text": "dein Build-Verzeichnis, das {0} ist, sofern {1} nichts anderes festlegt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "dein Build-Verzeichnis, das {0} ist, sofern {1} nichts anderes festlegt"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

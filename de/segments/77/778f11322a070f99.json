@@ -1,0 +1,14 @@
+{
+  "hash": "778f11322a070f99",
+  "source": "{0} is the global Vue.js {1}application instance{/1} that you can access through {2}.",
+  "text": "{0} ist die globale {1}Anwendungsinstanz{/1} von Vue.js, auf die du über {2} zugreifen kannst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ist die globale {1}Anwendungsinstanz{/1} von Vue.js, auf die du über {2} zugreifen kannst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

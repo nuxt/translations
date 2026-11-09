@@ -1,0 +1,14 @@
+{
+  "hash": "d5cfdca7307cb999",
+  "source": "A route covered by {0} is only ever rendered in the browser, so Nuxt excludes its page component from the server bundle. This applies whenever the rules covering every path that reaches the page can be resolved at build time, including dynamic routes such as {1} under a {2} rule.",
+  "text": "Eine Route, für die {0} gilt, wird immer nur im Browser gerendert. Deshalb schließt Nuxt ihre Seitenkomponente aus dem Server-Bundle aus. Das gilt, wenn sich die Regeln für alle Pfade, die zur Seite führen, zur Build-Zeit auflösen lassen, auch bei dynamischen Routen wie {1} unter einer {2}-Regel.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine Route, für die {0} gilt, wird immer nur im Browser gerendert. Deshalb schließt Nuxt ihre Seitenkomponente aus dem Server-Bundle aus. Das gilt, wenn sich die Regeln für alle Pfade, die zur Seite führen, zur Build-Zeit auflösen lassen, auch bei dynamischen Routen wie {1} unter einer {2}-Regel."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

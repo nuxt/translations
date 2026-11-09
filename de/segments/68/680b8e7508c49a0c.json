@@ -1,0 +1,14 @@
+{
+  "hash": "680b8e7508c49a0c",
+  "source": "Native async context support works currently in Bun and Node.",
+  "text": "Die native Unterstützung für asynchronen Kontext funktioniert derzeit in Bun und Node.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die native Unterstützung für asynchronen Kontext funktioniert derzeit in Bun und Node."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

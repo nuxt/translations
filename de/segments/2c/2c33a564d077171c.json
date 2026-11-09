@@ -1,0 +1,14 @@
+{
+  "hash": "2c33a564d077171c",
+  "source": "This will start Nuxt in {0} mode with debugger active. If everything is working correctly a Node.js icon will appear on your Chrome DevTools and you can attach to the debugger.",
+  "text": "Dadurch wird Nuxt im {0}-Modus mit aktivem Debugger gestartet. Wenn alles richtig funktioniert, erscheint in deinen Chrome DevTools ein Node.js-Symbol, und du kannst dich mit dem Debugger verbinden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dadurch wird Nuxt im {0}-Modus mit aktivem Debugger gestartet. Wenn alles richtig funktioniert, erscheint in deinen Chrome DevTools ein Node.js-Symbol, und du kannst dich mit dem Debugger verbinden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

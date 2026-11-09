@@ -1,0 +1,14 @@
+{
+  "hash": "ac1d75a99e548b04",
+  "source": "Or you could pass the environment variables as arguments using the terminal. For example, on Linux or macOS:",
+  "text": "Alternativ kannst du die Umgebungsvariablen im Terminal als Argumente übergeben. Zum Beispiel unter Linux oder macOS:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Alternativ kannst du die Umgebungsvariablen im Terminal als Argumente übergeben. Zum Beispiel unter Linux oder macOS:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

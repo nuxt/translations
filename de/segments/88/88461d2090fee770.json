@@ -1,0 +1,14 @@
+{
+  "hash": "88461d2090fee770",
+  "source": "Custom Routing",
+  "text": "Benutzerdefiniertes Routing",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Benutzerdefiniertes Routing"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

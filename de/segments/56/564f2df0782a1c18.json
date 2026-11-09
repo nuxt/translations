@@ -1,0 +1,14 @@
+{
+  "hash": "564f2df0782a1c18",
+  "source": "Root Directory",
+  "text": "Stammverzeichnis",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Stammverzeichnis"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

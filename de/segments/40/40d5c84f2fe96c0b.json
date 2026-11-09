@@ -1,0 +1,14 @@
+{
+  "hash": "40d5c84f2fe96c0b",
+  "source": "**Without {0}**, execution continues immediately while the request runs in the background, so {1} starts as its default value and fills in once the request resolves. On client-side navigation, this means navigation happens immediately and you are responsible for handling the loading and error states, typically via the returned {2} and {3} refs.",
+  "text": "**Ohne {0}** läuft die Ausführung sofort weiter, während die Anfrage im Hintergrund ausgeführt wird. {1} beginnt daher mit seinem Standardwert und wird befüllt, sobald die Anfrage abgeschlossen ist. Bei der clientseitigen Navigation bedeutet das, dass die Navigation sofort erfolgt und du selbst für den Lade- und Fehlerzustand verantwortlich bist, typischerweise über die zurückgegebenen Refs {2} und {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Ohne {0}** läuft die Ausführung sofort weiter, während die Anfrage im Hintergrund ausgeführt wird. {1} beginnt daher mit seinem Standardwert und wird befüllt, sobald die Anfrage abgeschlossen ist. Bei der clientseitigen Navigation bedeutet das, dass die Navigation sofort erfolgt und du selbst für den Lade- und Fehlerzustand verantwortlich bist, typischerweise über die zurückgegebenen Refs {2} und {3}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "93c3344db80085ed",
+  "source": "Fill in the configuration form with:",
+  "text": "Fülle das Konfigurationsformular mit folgenden Angaben aus:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fülle das Konfigurationsformular mit folgenden Angaben aus:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "c0922320d5614218",
+  "source": "Nuxt will automatically create a route for every page in your {0} directory.",
+  "text": "Nuxt erstellt automatisch eine Route für jede Seite in deinem Verzeichnis {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt erstellt automatisch eine Route für jede Seite in deinem Verzeichnis {0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

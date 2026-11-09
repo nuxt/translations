@@ -1,0 +1,14 @@
+{
+  "hash": "06bffa07a8834372",
+  "source": "You can easily provide runtime app configuration using {0} file. It can have either of {1}, {2}, or {3} extensions.",
+  "text": "Mit der Datei {0} kannst du ganz unkompliziert eine App-Konfiguration zur Laufzeit bereitstellen. Sie kann die Endung {1}, {2} oder {3} haben.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit der Datei {0} kannst du ganz unkompliziert eine App-Konfiguration zur Laufzeit bereitstellen. Sie kann die Endung {1}, {2} oder {3} haben."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

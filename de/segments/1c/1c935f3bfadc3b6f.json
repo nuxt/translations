@@ -1,0 +1,14 @@
+{
+  "hash": "1c935f3bfadc3b6f",
+  "source": "{0}: Executes once during initial render (either SSR or CSR) - Default mode",
+  "text": "{0}: Wird einmal beim ersten Rendern ausgeführt (entweder SSR oder CSR) – Standardmodus",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Wird einmal beim ersten Rendern ausgeführt (entweder SSR oder CSR) – Standardmodus"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "28f1ff7c03a3a101",
+  "source": "Everything under {0} is part of the contract between Nuxt and a builder of either kind, not public API. Application code, and module code other than a builder's own implementation, must never import it. A builder that does import it should take the specifiers from the contract rather than hard-coding the subpaths, because they change without a major release.",
+  "text": "Alles unter {0} gehört zum Vertrag zwischen Nuxt und einem Builder beider Arten und ist keine öffentliche API. Anwendungscode und Modulcode, der nicht zur eigenen Implementierung eines Builders gehört, darf es niemals importieren. Ein Builder, der es dennoch importiert, sollte die Specifier dem Vertrag entnehmen, statt die Unterpfade fest zu codieren, da sich diese ohne Major-Release ändern können.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Alles unter {0} gehört zum Vertrag zwischen Nuxt und einem Builder beider Arten und ist keine öffentliche API. Anwendungscode und Modulcode, der nicht zur eigenen Implementierung eines Builders gehört, darf es niemals importieren. Ein Builder, der es dennoch importiert, sollte die Specifier dem Vertrag entnehmen, statt die Unterpfade fest zu codieren, da sich diese ohne Major-Release ändern können."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

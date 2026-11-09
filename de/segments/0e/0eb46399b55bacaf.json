@@ -1,0 +1,14 @@
+{
+  "hash": "0eb46399b55bacaf",
+  "source": "If your {0} function does not support abort signals, you can implement your own abort logic using the {1} provided.",
+  "text": "Wenn deine {0}-Funktion keine Abbruchsignale unterstützt, kannst du mit dem bereitgestellten {1} eine eigene Abbruchlogik implementieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn deine {0}-Funktion keine Abbruchsignale unterstützt, kannst du mit dem bereitgestellten {1} eine eigene Abbruchlogik implementieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "093c6c17770f7585",
+  "source": "We do not recommend modifying the contents of this file directly, as doing so could overwrite important settings that Nuxt or other modules rely on. Instead, extend it via {0}.",
+  "text": "Wir empfehlen, den Inhalt dieser Datei nicht direkt zu ändern, da dabei wichtige Einstellungen überschrieben werden könnten, auf die Nuxt oder andere Module angewiesen sind. Erweitere sie stattdessen über {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wir empfehlen, den Inhalt dieser Datei nicht direkt zu ändern, da dabei wichtige Einstellungen überschrieben werden könnten, auf die Nuxt oder andere Module angewiesen sind. Erweitere sie stattdessen über {0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

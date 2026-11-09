@@ -1,0 +1,14 @@
+{
+  "hash": "62ca4169f76e4076",
+  "source": "Function returning the default value if the cookie does not exist. The function can also return a {0}.",
+  "text": "Funktion, die den Standardwert zurückgibt, wenn das Cookie nicht existiert. Die Funktion kann auch eine {0} zurückgeben.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Funktion, die den Standardwert zurückgibt, wenn das Cookie nicht existiert. Die Funktion kann auch eine {0} zurückgeben."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

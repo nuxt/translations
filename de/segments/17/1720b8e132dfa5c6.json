@@ -1,0 +1,14 @@
+{
+  "hash": "1720b8e132dfa5c6",
+  "source": "Do not transpile modules",
+  "text": "Module nicht transpilieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Module nicht transpilieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

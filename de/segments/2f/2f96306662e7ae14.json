@@ -1,0 +1,14 @@
+{
+  "hash": "2f96306662e7ae14",
+  "source": "{0} has been removed. See {1}below{/1}.",
+  "text": "{0} wurde entfernt. Siehe {1}unten{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} wurde entfernt. Siehe {1}unten{/1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

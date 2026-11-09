@@ -1,0 +1,14 @@
+{
+  "hash": "0a7602e347f948a5",
+  "source": "Invalid input is rejected with a {0} whose {1} lists what failed. Pass {2} to reject it with a different error.",
+  "text": "Ungültige Eingaben werden mit einem {0} abgelehnt, dessen {1} auflistet, was fehlgeschlagen ist. Übergib {2}, um sie mit einem anderen Fehler abzulehnen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ungültige Eingaben werden mit einem {0} abgelehnt, dessen {1} auflistet, was fehlgeschlagen ist. Übergib {2}, um sie mit einem anderen Fehler abzulehnen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

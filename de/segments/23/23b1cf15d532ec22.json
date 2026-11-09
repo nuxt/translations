@@ -1,0 +1,14 @@
+{
+  "hash": "23b1cf15d532ec22",
+  "source": "**Problem**: Different data between server and client.",
+  "text": "**Problem**: Server und Client verwenden unterschiedliche Daten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Problem**: Server und Client verwenden unterschiedliche Daten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

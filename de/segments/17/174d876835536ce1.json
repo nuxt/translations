@@ -1,0 +1,14 @@
+{
+  "hash": "174d876835536ce1",
+  "source": "Preprocessor Workers (Experimental)",
+  "text": "Preprocessor-Worker (experimentell)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Preprocessor-Worker (experimentell)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

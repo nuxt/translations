@@ -1,0 +1,14 @@
+{
+  "hash": "bce603d9c8f32ecc",
+  "source": "When you run {0} or {1}, Nuxt generates the following files for IDE type support (and type checking):",
+  "text": "Wenn du {0} oder {1} ausführst, erzeugt Nuxt die folgenden Dateien für die Typunterstützung der IDE (und die Typprüfung):",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du {0} oder {1} ausführst, erzeugt Nuxt die folgenden Dateien für die Typunterstützung der IDE (und die Typprüfung):"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

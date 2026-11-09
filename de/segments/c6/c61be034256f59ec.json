@@ -1,0 +1,14 @@
+{
+  "hash": "c61be034256f59ec",
+  "source": "how {0} property makes sure that the {1} component is not cached when switching between multiple components;",
+  "text": "wie die Eigenschaft {0} sicherstellt, dass die Komponente {1} beim Wechsel zwischen mehreren Komponenten nicht zwischengespeichert wird;",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "wie die Eigenschaft {0} sicherstellt, dass die Komponente {1} beim Wechsel zwischen mehreren Komponenten nicht zwischengespeichert wird;"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

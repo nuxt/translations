@@ -1,0 +1,14 @@
+{
+  "hash": "83fd7d6921b2c667",
+  "source": "Learn what the surface covers, and what it means for module authors.",
+  "text": "Erfahre, was die Schnittstelle abdeckt und was das für Modulautoren und Modulautorinnen bedeutet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erfahre, was die Schnittstelle abdeckt und was das für Modulautoren und Modulautorinnen bedeutet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

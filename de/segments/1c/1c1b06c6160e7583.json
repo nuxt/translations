@@ -1,0 +1,14 @@
+{
+  "hash": "1c1b06c6160e7583",
+  "source": "You can also use {0}interceptors{/0}:",
+  "text": "Du kannst auch {0}Interceptors{/0} verwenden:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst auch {0}Interceptors{/0} verwenden:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

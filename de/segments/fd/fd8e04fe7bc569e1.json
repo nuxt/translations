@@ -1,0 +1,14 @@
+{
+  "hash": "fd8e04fe7bc569e1",
+  "source": "This follows any chain of redirects and prints the final status and URL. A {0} status with the URL you requested means the link is fine. If the final URL differs, link to that instead.",
+  "text": "Dadurch wird jede Weiterleitungskette verfolgt und der endgültige Status samt URL ausgegeben. Ein Status {0} mit der angefragten URL bedeutet, dass der Link in Ordnung ist. Weicht die endgültige URL ab, verlinke stattdessen auf diese.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dadurch wird jede Weiterleitungskette verfolgt und der endgültige Status samt URL ausgegeben. Ein Status {0} mit der angefragten URL bedeutet, dass der Link in Ordnung ist. Weicht die endgültige URL ab, verlinke stattdessen auf diese."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "145950c1a8b1ecf8",
+  "source": "Nuxt 5 migrates to Vite 6's new {0}Environment API{/0}, which formalizes the concept of environments and provides better control over configuration per environment.",
+  "text": "Nuxt 5 migriert zur neuen {0}Environment API{/0} von Vite 6, die das Konzept von Umgebungen formalisiert und eine bessere Kontrolle über die Konfiguration pro Umgebung bietet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt 5 migriert zur neuen {0}Environment API{/0} von Vite 6, die das Konzept von Umgebungen formalisiert und eine bessere Kontrolle über die Konfiguration pro Umgebung bietet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

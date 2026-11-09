@@ -1,0 +1,14 @@
+{
+  "hash": "25e190142e48b646",
+  "source": "Watch the video by Alex Lichter about Nuxt Scripts",
+  "text": "Sieh dir das Video von Alex Lichter über Nuxt Scripts an",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sieh dir das Video von Alex Lichter über Nuxt Scripts an"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

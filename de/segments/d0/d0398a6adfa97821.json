@@ -1,0 +1,14 @@
+{
+  "hash": "d0398a6adfa97821",
+  "source": "Nested Routes",
+  "text": "Verschachtelte Routen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verschachtelte Routen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

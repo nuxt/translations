@@ -1,0 +1,14 @@
+{
+  "hash": "91de7d5e0a9ba9ff",
+  "source": "Validate whether a given route can validly be rendered with this page. Return true if it is valid, or false if not. If another match can't be found, this will mean a 404. You can also directly return an object with {0}/{1} to respond immediately with an error (other matches will not be checked).",
+  "text": "Prüft, ob eine bestimmte Route mit dieser Seite gültig gerendert werden kann. Gib true zurück, wenn sie gültig ist, andernfalls false. Wenn keine andere Übereinstimmung gefunden wird, führt das zu einem 404. Du kannst auch direkt ein Objekt mit {0}/{1} zurückgeben, um sofort mit einem Fehler zu antworten (andere Übereinstimmungen werden dann nicht mehr geprüft).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Prüft, ob eine bestimmte Route mit dieser Seite gültig gerendert werden kann. Gib true zurück, wenn sie gültig ist, andernfalls false. Wenn keine andere Übereinstimmung gefunden wird, führt das zu einem 404. Du kannst auch direkt ein Objekt mit {0}/{1} zurückgeben, um sofort mit einem Fehler zu antworten (andere Übereinstimmungen werden dann nicht mehr geprüft)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

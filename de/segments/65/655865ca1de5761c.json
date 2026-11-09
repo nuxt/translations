@@ -1,0 +1,14 @@
+{
+  "hash": "655865ca1de5761c",
+  "source": "Make sure to install the {0} dependency in your project ({1}).",
+  "text": "Stelle sicher, dass du die Abhängigkeit {0} in deinem Projekt installierst ({1}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Stelle sicher, dass du die Abhängigkeit {0} in deinem Projekt installierst ({1})."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

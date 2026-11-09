@@ -1,0 +1,14 @@
+{
+  "hash": "e4eccb8811a663e8",
+  "source": "Files in your {0} directory are not routes your server builder reports, so requesting one with {1} enabled is an error. Fetch those with an explicit response type, or leave the option off.",
+  "text": "Dateien in deinem {0}-Verzeichnis sind keine Routen, die dein Server-Builder meldet. Eine Anfrage darauf führt daher bei aktiviertem {1} zu einem Fehler. Rufe diese mit einem expliziten Antworttyp ab oder lasse die Option deaktiviert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dateien in deinem {0}-Verzeichnis sind keine Routen, die dein Server-Builder meldet. Eine Anfrage darauf führt daher bei aktiviertem {1} zu einem Fehler. Rufe diese mit einem expliziten Antworttyp ab oder lasse die Option deaktiviert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

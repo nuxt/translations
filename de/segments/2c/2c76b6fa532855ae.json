@@ -1,0 +1,14 @@
+{
+  "hash": "2c76b6fa532855ae",
+  "source": "To create a custom builder as a separate package, it should export a {0} function. You can then specify the package name in your {1}:",
+  "text": "Um einen eigenen Builder als separates Paket zu erstellen, sollte dieses eine {0}-Funktion exportieren. Anschließend kannst du den Paketnamen in deiner {1} angeben:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um einen eigenen Builder als separates Paket zu erstellen, sollte dieses eine {0}-Funktion exportieren. Anschließend kannst du den Paketnamen in deiner {1} angeben:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

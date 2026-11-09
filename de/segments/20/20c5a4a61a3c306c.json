@@ -1,0 +1,14 @@
+{
+  "hash": "20c5a4a61a3c306c",
+  "source": "However, Nuxt provides a way to create a custom fetcher for your API (or multiple fetchers if you have multiple APIs to call).",
+  "text": "Nuxt bietet jedoch eine Möglichkeit, einen eigenen Fetcher für deine API zu erstellen (oder mehrere Fetcher, falls du mehrere APIs aufrufen musst).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt bietet jedoch eine Möglichkeit, einen eigenen Fetcher für deine API zu erstellen (oder mehrere Fetcher, falls du mehrere APIs aufrufen musst)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

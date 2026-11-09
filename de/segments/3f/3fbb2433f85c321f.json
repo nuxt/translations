@@ -1,0 +1,14 @@
+{
+  "hash": "3fbb2433f85c321f",
+  "source": "Sets the message with {0}",
+  "text": "Setzt die Nachricht mit {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Setzt die Nachricht mit {0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

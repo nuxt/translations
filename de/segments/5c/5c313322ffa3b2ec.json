@@ -1,0 +1,14 @@
+{
+  "hash": "5c313322ffa3b2ec",
+  "source": "Set {0} in every deployed environment if you drop {1}; in development Nuxt generates one.",
+  "text": "Setze {0} in jeder bereitgestellten Umgebung, wenn du {1} weglässt; in der Entwicklung generiert Nuxt eines.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Setze {0} in jeder bereitgestellten Umgebung, wenn du {1} weglässt; in der Entwicklung generiert Nuxt eines."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

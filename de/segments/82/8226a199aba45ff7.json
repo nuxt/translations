@@ -1,0 +1,14 @@
+{
+  "hash": "8226a199aba45ff7",
+  "source": "The {0} directory is the directory that contains the shared code of the Nuxt application and Nuxt server. This code can be used in both the Vue app and the Nitro server.",
+  "text": "Das Verzeichnis {0} enthält den gemeinsam genutzten Code der Nuxt-Anwendung und des Nuxt-Servers. Dieser Code kann sowohl in der Vue-App als auch im Nitro-Server verwendet werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Verzeichnis {0} enthält den gemeinsam genutzten Code der Nuxt-Anwendung und des Nuxt-Servers. Dieser Code kann sowohl in der Vue-App als auch im Nitro-Server verwendet werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

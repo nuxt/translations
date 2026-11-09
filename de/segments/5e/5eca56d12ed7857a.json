@@ -1,0 +1,14 @@
+{
+  "hash": "5eca56d12ed7857a",
+  "source": "a path parameter, matched positionally",
+  "text": "ein Pfadparameter, der anhand seiner Position zugeordnet wird",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "ein Pfadparameter, der anhand seiner Position zugeordnet wird"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

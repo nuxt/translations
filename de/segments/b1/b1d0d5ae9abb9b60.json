@@ -1,0 +1,14 @@
+{
+  "hash": "b1d0d5ae9abb9b60",
+  "source": "^ not assignable to string",
+  "text": "^ nicht zuweisbar zu string",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "^ nicht zuweisbar zu string"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "fb6f7c93e6bf3dfa",
+  "source": "Planned",
+  "text": "Geplant",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Geplant"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

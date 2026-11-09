@@ -1,0 +1,14 @@
+{
+  "hash": "6c8e872cd13c650d",
+  "source": "{0} and {1} return the same object type and accept a common set of options as their last argument. They can help you control the composables behavior, such as navigation blocking, caching or execution.",
+  "text": "{0} und {1} geben denselben Objekttyp zurück und akzeptieren als letztes Argument einen gemeinsamen Satz von Optionen. Damit steuerst du das Verhalten der Composables, etwa Navigationsblockierung, Caching oder Ausführung.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} und {1} geben denselben Objekttyp zurück und akzeptieren als letztes Argument einen gemeinsamen Satz von Optionen. Damit steuerst du das Verhalten der Composables, etwa Navigationsblockierung, Caching oder Ausführung."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "7944b95ac76e2af9",
+  "source": "**Security note:** Be careful not to expose runtime config keys to the client-side by either rendering them or passing them to {0}.",
+  "text": "**Sicherheitshinweis:** Achte darauf, Schlüssel der Laufzeitkonfiguration nicht dem Client preiszugeben, weder durch Rendern noch durch Übergabe an {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Sicherheitshinweis:** Achte darauf, Schlüssel der Laufzeitkonfiguration nicht dem Client preiszugeben, weder durch Rendern noch durch Übergabe an {0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

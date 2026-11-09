@@ -1,0 +1,14 @@
+{
+  "hash": "e84e839adad3eafc",
+  "source": "route middleware does not run when rendering islands",
+  "text": "Routen-Middleware wird beim Rendern von Islands nicht ausgeführt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Routen-Middleware wird beim Rendern von Islands nicht ausgeführt"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

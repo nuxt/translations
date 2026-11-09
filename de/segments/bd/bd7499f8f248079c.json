@@ -1,0 +1,14 @@
+{
+  "hash": "bd7499f8f248079c",
+  "source": "Unmatched paths and methods are accepted by default and resolve to {0}. To reject them, enable {1} and {2}:",
+  "text": "Nicht passende Pfade und Methoden werden standardmäßig akzeptiert und zu {0} aufgelöst. Um sie abzulehnen, aktiviere {1} und {2}:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nicht passende Pfade und Methoden werden standardmäßig akzeptiert und zu {0} aufgelöst. Um sie abzulehnen, aktiviere {1} und {2}:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

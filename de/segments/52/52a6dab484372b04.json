@@ -1,0 +1,14 @@
+{
+  "hash": "52a6dab484372b04",
+  "source": "The {0} and {1} composables solve this problem by ensuring that if an API call is made on the server, the data is forwarded to the client in the payload.",
+  "text": "Die Composables {0} und {1} lösen dieses Problem, indem sie sicherstellen, dass die Daten bei einem API-Aufruf auf dem Server in der Payload an den Client weitergegeben werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Composables {0} und {1} lösen dieses Problem, indem sie sicherstellen, dass die Daten bei einem API-Aufruf auf dem Server in der Payload an den Client weitergegeben werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "d6b11d59508c8b60",
+  "source": "Not part of {0}. Call a route of the app with {1}, which returns a {2}. For other URLs, plain {3} does not throw on a non-2xx status and does not parse JSON: check {4} and call {5}.",
+  "text": "Nicht Teil von {0}. Rufe eine Route der App mit {1} auf, das ein {2} zurückgibt. Für andere URLs wirft das einfache {3} bei einem Status außerhalb von 2xx keinen Fehler und parst kein JSON: Prüfe {4} und rufe {5} auf.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nicht Teil von {0}. Rufe eine Route der App mit {1} auf, das ein {2} zurückgibt. Für andere URLs wirft das einfache {3} bei einem Status außerhalb von 2xx keinen Fehler und parst kein JSON: Prüfe {4} und rufe {5} auf."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

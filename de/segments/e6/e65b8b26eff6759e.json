@@ -1,0 +1,14 @@
+{
+  "hash": "e65b8b26eff6759e",
+  "source": "setting the redirect code to '301 Moved Permanently'",
+  "text": "Weiterleitungscode auf '301 Moved Permanently' setzen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Weiterleitungscode auf '301 Moved Permanently' setzen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

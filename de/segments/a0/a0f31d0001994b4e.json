@@ -1,0 +1,14 @@
+{
+  "hash": "a0f31d0001994b4e",
+  "source": "Plugins in Nuxt allow you to extend your application with additional functionality. However, improper use can lead to performance bottlenecks. This guide outlines best practices to optimize your Nuxt plugins.",
+  "text": "Mit Plugins in Nuxt kannst du deine Anwendung um zusätzliche Funktionen erweitern. Eine unsachgemäße Verwendung kann jedoch zu Leistungsengpässen führen. Diese Anleitung zeigt Best Practices zur Optimierung deiner Nuxt-Plugins.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit Plugins in Nuxt kannst du deine Anwendung um zusätzliche Funktionen erweitern. Eine unsachgemäße Verwendung kann jedoch zu Leistungsengpässen führen. Diese Anleitung zeigt Best Practices zur Optimierung deiner Nuxt-Plugins."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

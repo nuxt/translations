@@ -1,0 +1,14 @@
+{
+  "hash": "93ce4609fa479115",
+  "source": "Use {0} (boolean) to check if the Nuxt app is hydrating on the client side.",
+  "text": "Verwende {0} (Boolean), um zu prüfen, ob die Nuxt-App auf der Client-Seite hydratisiert wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwende {0} (Boolean), um zu prüfen, ob die Nuxt-App auf der Client-Seite hydratisiert wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

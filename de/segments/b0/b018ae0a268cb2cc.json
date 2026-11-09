@@ -1,0 +1,14 @@
+{
+  "hash": "b018ae0a268cb2cc",
+  "source": "Plugin Compatibility",
+  "text": "Plugin-Kompatibilität",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Plugin-Kompatibilität"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

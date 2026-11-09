@@ -1,0 +1,14 @@
+{
+  "hash": "b20b1d7638e9ebcf",
+  "source": "Do not put any secret values inside {0} file. It is exposed to the user client bundle.",
+  "text": "Speichere keine geheimen Werte in der Datei {0}. Sie wird im Bundle des Clients für Nutzende offengelegt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Speichere keine geheimen Werte in der Datei {0}. Sie wird im Bundle des Clients für Nutzende offengelegt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "2ce7df63936e2a37",
+  "source": "onPrehydrate not processed by build pipeline.",
+  "text": "onPrehydrate wurde nicht von der Build-Pipeline verarbeitet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "onPrehydrate wurde nicht von der Build-Pipeline verarbeitet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

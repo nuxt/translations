@@ -1,0 +1,14 @@
+{
+  "hash": "511624701f6e49f9",
+  "source": "You can add the {0} to add a progress bar between page navigations.",
+  "text": "Du kannst {0} hinzufügen, um zwischen Seitenwechseln eine Fortschrittsanzeige einzublenden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst {0} hinzufügen, um zwischen Seitenwechseln eine Fortschrittsanzeige einzublenden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

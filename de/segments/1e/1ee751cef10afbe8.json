@@ -1,0 +1,14 @@
+{
+  "hash": "1ee751cef10afbe8",
+  "source": "Setting Middleware at Build Time",
+  "text": "Middleware zur Build-Zeit festlegen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Middleware zur Build-Zeit festlegen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

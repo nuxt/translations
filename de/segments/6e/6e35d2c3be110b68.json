@@ -1,0 +1,14 @@
+{
+  "hash": "6e35d2c3be110b68",
+  "source": "Defaults to {0} ({1}see package{/1}).",
+  "text": "Standardmäßig {0} ({1}siehe Paket{/1}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardmäßig {0} ({1}siehe Paket{/1})."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

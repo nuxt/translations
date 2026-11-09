@@ -1,0 +1,14 @@
+{
+  "hash": "973812a1c6da8629",
+  "source": "Store the previously cached value to restore if fetch fails.",
+  "text": "Den zuvor zwischengespeicherten Wert sichern, um ihn wiederherzustellen, falls der Abruf fehlschlägt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Den zuvor zwischengespeicherten Wert sichern, um ihn wiederherzustellen, falls der Abruf fehlschlägt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

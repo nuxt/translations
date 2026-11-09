@@ -1,0 +1,14 @@
+{
+  "hash": "af6d73479755d021",
+  "source": "**Comment node placeholders**: Client-only components use {0}comment nodes instead of {1}{/0} as SSR placeholders, fixing a scoped styles hydration issue",
+  "text": "**Platzhalter aus Kommentarknoten**: Komponenten, die nur auf dem Client gerendert werden, verwenden {0}Kommentarknoten statt {1}{/0} als SSR-Platzhalter, was ein Hydration-Problem mit bereichsbezogenen Styles behebt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Platzhalter aus Kommentarknoten**: Komponenten, die nur auf dem Client gerendert werden, verwenden {0}Kommentarknoten statt {1}{/0} als SSR-Platzhalter, was ein Hydration-Problem mit bereichsbezogenen Styles behebt"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

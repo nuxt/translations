@@ -1,0 +1,14 @@
+{
+  "hash": "c1a89a191f47d28d",
+  "source": "the page is a parent shell rendering a child that is still server-rendered",
+  "text": "die Seite ist eine übergeordnete Hülle, die eine Kindseite rendert, welche weiterhin serverseitig gerendert wird",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "die Seite ist eine übergeordnete Hülle, die eine Kindseite rendert, welche weiterhin serverseitig gerendert wird"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e857f5982a374b47",
+  "source": "1 hour from now",
+  "text": "1 Stunde ab jetzt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "1 Stunde ab jetzt"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

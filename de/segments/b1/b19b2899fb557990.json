@@ -1,0 +1,14 @@
+{
+  "hash": "b19b2899fb557990",
+  "source": "In the browser, or if called outside prerendering, {0} will have no effect.",
+  "text": "Im Browser oder bei einem Aufruf außerhalb des Vorab-Renderings hat {0} keine Wirkung.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Im Browser oder bei einem Aufruf außerhalb des Vorab-Renderings hat {0} keine Wirkung."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

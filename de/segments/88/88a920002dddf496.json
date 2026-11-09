@@ -1,0 +1,14 @@
+{
+  "hash": "88a920002dddf496",
+  "source": "Any AI tool that supports LLMs.txt can use these routes to better understand Nuxt.",
+  "text": "Jedes KI-Tool, das LLMs.txt unterstützt, kann diese Routen nutzen, um Nuxt besser zu verstehen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Jedes KI-Tool, das LLMs.txt unterstützt, kann diese Routen nutzen, um Nuxt besser zu verstehen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

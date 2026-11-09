@@ -1,0 +1,14 @@
+{
+  "hash": "6d25abc09ffd8baf",
+  "source": "Client-Only Comment Placeholders",
+  "text": "Kommentar-Platzhalter für reine Client-Komponenten",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Kommentar-Platzhalter für reine Client-Komponenten"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

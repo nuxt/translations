@@ -1,0 +1,14 @@
+{
+  "hash": "6c81cb0ab7d29290",
+  "source": "{0} is now read only from {1}, because the server matches route rules with the same setting. The build fails if {2} sets it.",
+  "text": "{0} wird jetzt nur noch aus {1} gelesen, weil der Server Route-Rules mit derselben Einstellung abgleicht. Der Build schlägt fehl, wenn {2} sie setzt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} wird jetzt nur noch aus {1} gelesen, weil der Server Route-Rules mit derselben Einstellung abgleicht. Der Build schlägt fehl, wenn {2} sie setzt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

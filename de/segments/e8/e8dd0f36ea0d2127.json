@@ -1,0 +1,14 @@
+{
+  "hash": "e8dd0f36ea0d2127",
+  "source": "Make sure you use capital letters for these component names to distinguish them from native HTML elements ({0} rather than {1}).",
+  "text": "Achte darauf, bei diesen Komponentennamen Großbuchstaben zu verwenden, um sie von nativen HTML-Elementen zu unterscheiden ({0} statt {1}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Achte darauf, bei diesen Komponentennamen Großbuchstaben zu verwenden, um sie von nativen HTML-Elementen zu unterscheiden ({0} statt {1})."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

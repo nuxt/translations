@@ -1,0 +1,14 @@
+{
+  "hash": "5559fc3649a9ab6f",
+  "source": "By default, Vue assigns component names based on the filename. For example, {0} and {1} would both have the component name {2}. This makes name-based {3} filtering unreliable because multiple pages share the same name.",
+  "text": "Standardmäßig vergibt Vue Komponentennamen anhand des Dateinamens. So haben {0} und {1} beispielsweise beide den Komponentennamen {2}. Dadurch ist das namensbasierte Filtern mit {3} unzuverlässig, weil sich mehrere Seiten denselben Namen teilen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardmäßig vergibt Vue Komponentennamen anhand des Dateinamens. So haben {0} und {1} beispielsweise beide den Komponentennamen {2}. Dadurch ist das namensbasierte Filtern mit {3} unzuverlässig, weil sich mehrere Seiten denselben Namen teilen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

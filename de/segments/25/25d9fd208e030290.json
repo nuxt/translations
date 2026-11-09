@@ -1,0 +1,14 @@
+{
+  "hash": "25d9fd208e030290",
+  "source": "Type annotations are erased, but syntax that emits runtime code cannot be. In config and module files, replace:",
+  "text": "Typannotationen werden entfernt, Syntax, die Code zur Laufzeit erzeugt, dagegen nicht. Ersetze in Konfigurations- und Moduldateien:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Typannotationen werden entfernt, Syntax, die Code zur Laufzeit erzeugt, dagegen nicht. Ersetze in Konfigurations- und Moduldateien:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

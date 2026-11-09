@@ -1,0 +1,14 @@
+{
+  "hash": "eeacc234b227ceca",
+  "source": "Master lifecycle hooks, virtual files and TypeScript declarations in your modules.",
+  "text": "Beherrsche Lifecycle-Hooks, virtuelle Dateien und TypeScript-Deklarationen in deinen Modulen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Beherrsche Lifecycle-Hooks, virtuelle Dateien und TypeScript-Deklarationen in deinen Modulen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

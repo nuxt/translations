@@ -1,0 +1,14 @@
+{
+  "hash": "5d1d390cd16acf21",
+  "source": "When using the Vite builder (default), decorators are lowered via {0}Babel{/0} using {1}. When using the webpack or rspack builders, decorators are lowered via {2}esbuild{/2}.",
+  "text": "Bei Verwendung des Vite-Builders (Standard) werden Decorators über {0}Babel{/0} mit {1} umgewandelt. Bei Verwendung der webpack- oder rspack-Builder werden Decorators über {2}esbuild{/2} umgewandelt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bei Verwendung des Vite-Builders (Standard) werden Decorators über {0}Babel{/0} mit {1} umgewandelt. Bei Verwendung der webpack- oder rspack-Builder werden Decorators über {2}esbuild{/2} umgewandelt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

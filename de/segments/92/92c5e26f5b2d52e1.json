@@ -1,0 +1,14 @@
+{
+  "hash": "92c5e26f5b2d52e1",
+  "source": "For lifecycle hooks to work, you **must** provide both {0} and {1} in your module definition. The hooks use these values to track the module's installation state in the project's {2} file.",
+  "text": "Damit Lifecycle-Hooks funktionieren, **musst** du in deiner Moduldefinition sowohl {0} als auch {1} angeben. Die Hooks verwenden diese Werte, um den Installationsstatus des Moduls in der {2}-Datei des Projekts zu verfolgen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Damit Lifecycle-Hooks funktionieren, **musst** du in deiner Moduldefinition sowohl {0} als auch {1} angeben. Die Hooks verwenden diese Werte, um den Installationsstatus des Moduls in der {2}-Datei des Projekts zu verfolgen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

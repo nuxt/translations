@@ -1,0 +1,14 @@
+{
+  "hash": "2b3580c4a618ca3d",
+  "source": "Try to resolve first existing file in a given set of paths.",
+  "text": "Versucht, die erste vorhandene Datei in einer vorgegebenen Menge von Pfaden aufzulösen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Versucht, die erste vorhandene Datei in einer vorgegebenen Menge von Pfaden aufzulösen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

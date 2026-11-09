@@ -1,0 +1,14 @@
+{
+  "hash": "09d240b17795ff47",
+  "source": "Update the App Config at runtime.",
+  "text": "Aktualisiere die App-Konfiguration zur Laufzeit.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Aktualisiere die App-Konfiguration zur Laufzeit."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

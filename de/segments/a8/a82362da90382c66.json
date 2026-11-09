@@ -1,0 +1,14 @@
+{
+  "hash": "a82362da90382c66",
+  "source": "The migration guide provides a step-by-step comparison of Nuxt 2 features to Nuxt 3+ features and guidance to adapt your current application.",
+  "text": "Die Migrationsanleitung bietet einen schrittweisen Vergleich der Funktionen von Nuxt 2 mit denen von Nuxt 3+ und hilft dir dabei, deine bestehende Anwendung anzupassen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Migrationsanleitung bietet einen schrittweisen Vergleich der Funktionen von Nuxt 2 mit denen von Nuxt 3+ und hilft dir dabei, deine bestehende Anwendung anzupassen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

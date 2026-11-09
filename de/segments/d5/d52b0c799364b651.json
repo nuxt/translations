@@ -1,0 +1,14 @@
+{
+  "hash": "d52b0c799364b651",
+  "source": "{0}: the container {1} the component is rendered into.",
+  "text": "{0}: der Container-{1}, in den die Komponente gerendert wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: der Container-{1}, in den die Komponente gerendert wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

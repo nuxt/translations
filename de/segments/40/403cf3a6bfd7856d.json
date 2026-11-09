@@ -1,0 +1,14 @@
+{
+  "hash": "403cf3a6bfd7856d",
+  "source": "A {0} file always needs {1}, whatever Node version you are on: its JSDoc annotations are read by an import-time transform rather than by importing the file.",
+  "text": "Eine {0}-Datei benötigt immer {1}, unabhängig von deiner Node-Version: Ihre JSDoc-Annotationen werden von einer Transformation zur Importzeit gelesen und nicht durch das Importieren der Datei.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine {0}-Datei benötigt immer {1}, unabhängig von deiner Node-Version: Ihre JSDoc-Annotationen werden von einer Transformation zur Importzeit gelesen und nicht durch das Importieren der Datei."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "9438c1f1df2ed066",
+  "source": "Called on {0}Suspense{/0} inside of {1} pending event.",
+  "text": "Wird bei {0}Suspense{/0} innerhalb des {1}-Events „pending“ aufgerufen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird bei {0}Suspense{/0} innerhalb des {1}-Events „pending“ aufgerufen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

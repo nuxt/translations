@@ -1,0 +1,14 @@
+{
+  "hash": "71cb472720bab0ec",
+  "source": "In addition to any process environment variables, if you have a {0} file in your project root directory, it will be automatically loaded **at dev, build and generate time**. Any environment variables set there will be accessible within your {1} file and modules.",
+  "text": "Zusätzlich zu allen Prozess-Umgebungsvariablen wird eine {0}-Datei im Projektstammverzeichnis automatisch **zur Entwicklungs-, Build- und Generierungszeit** geladen. Alle dort gesetzten Umgebungsvariablen sind in deiner {1}-Datei und in Modulen verfügbar.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Zusätzlich zu allen Prozess-Umgebungsvariablen wird eine {0}-Datei im Projektstammverzeichnis automatisch **zur Entwicklungs-, Build- und Generierungszeit** geladen. Alle dort gesetzten Umgebungsvariablen sind in deiner {1}-Datei und in Modulen verfügbar."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "75a95f3e38f62efa",
+  "source": "After a client-side navigation, focus stays where it was, which is usually the link the user just activated. Vue Router does not move it and neither does Nuxt, so a keyboard user can end up tabbing through the whole header again to reach the content that just changed.",
+  "text": "Nach einer clientseitigen Navigation bleibt der Fokus dort, wo er war – meist auf dem Link, den die nutzende Person gerade aktiviert hat. Weder Vue Router noch Nuxt verschiebt ihn. Dadurch muss man per Tastatur unter Umständen erneut durch den gesamten Header tabben, um zum geänderten Inhalt zu gelangen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nach einer clientseitigen Navigation bleibt der Fokus dort, wo er war – meist auf dem Link, den die nutzende Person gerade aktiviert hat. Weder Vue Router noch Nuxt verschiebt ihn. Dadurch muss man per Tastatur unter Umständen erneut durch den gesamten Header tabben, um zum geänderten Inhalt zu gelangen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "1c6bdfc9562fac63",
+  "source": "Remove {0} from your dependencies.",
+  "text": "Entferne {0} aus deinen Abhängigkeiten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Entferne {0} aus deinen Abhängigkeiten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

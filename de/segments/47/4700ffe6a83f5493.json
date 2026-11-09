@@ -1,0 +1,14 @@
+{
+  "hash": "4700ffe6a83f5493",
+  "source": "{0} is now an optional peer dependency. Install it and Nuxt will pick it up automatically as a fallback whenever the runtime cannot load a file on its own:",
+  "text": "{0} ist jetzt eine optionale Peer-Abhängigkeit. Installiere es, und Nuxt verwendet es automatisch als Fallback, wenn die Runtime eine Datei nicht selbst laden kann:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ist jetzt eine optionale Peer-Abhängigkeit. Installiere es, und Nuxt verwendet es automatisch als Fallback, wenn die Runtime eine Datei nicht selbst laden kann:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

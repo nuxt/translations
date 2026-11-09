@@ -1,0 +1,14 @@
+{
+  "hash": "55e0e6127ab01818",
+  "source": "Custom options stay in the merged options object, so they are also passed to {0} along with the request options, and {1} ignores keys it does not recognize.",
+  "text": "Benutzerdefinierte Optionen bleiben im zusammengeführten Optionsobjekt erhalten. Sie werden daher zusammen mit den Anfrageoptionen auch an {0} übergeben, und {1} ignoriert Schlüssel, die es nicht kennt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Benutzerdefinierte Optionen bleiben im zusammengeführten Optionsobjekt erhalten. Sie werden daher zusammen mit den Anfrageoptionen auch an {0} übergeben, und {1} ignoriert Schlüssel, die es nicht kennt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

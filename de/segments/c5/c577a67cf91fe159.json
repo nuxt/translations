@@ -1,0 +1,14 @@
+{
+  "hash": "c577a67cf91fe159",
+  "source": "Expiration date for the cookie, or a getter that returns one. When a function is provided, it is evaluated on every cookie write, so the expiration can be refreshed when the value is re-set. Returning {0} creates a session cookie. The getter should be pure (no side effects). By default, no expiration is set. Most clients will consider this a \"non-persistent cookie\" and will delete it on a condition like exiting a web browser application.{1}**Note:** The {2}cookie storage model specification{/2} states that if both {3} and {4} is set, then {5} takes precedence, but not all clients may obey this, so if both are set, they should point to the same date and time!{6}If neither of {7} and {8} is set, the cookie will be session-only and removed when the user closes their browser.",
+  "text": "Ablaufdatum des Cookies oder ein Getter, der eines zurückgibt. Wenn eine Funktion übergeben wird, wird sie bei jedem Schreiben des Cookies ausgewertet, sodass die Ablaufzeit erneuert werden kann, wenn der Wert erneut gesetzt wird. Wird {0} zurückgegeben, entsteht ein Sitzungs-Cookie. Der Getter sollte rein sein (keine Seiteneffekte). Standardmäßig ist kein Ablaufdatum festgelegt. Die meisten Clients betrachten das als „nicht persistentes Cookie“ und löschen es, sobald z. B. die Webbrowser-Anwendung beendet wird.{1}**Hinweis:** Laut der {2}Spezifikation des Cookie-Speichermodells{/2} hat {4} Vorrang, wenn sowohl {3} als auch {5} gesetzt sind. Nicht alle Clients halten sich jedoch daran. Wenn du beide setzt, sollten sie daher auf dasselbe Datum und dieselbe Uhrzeit verweisen!{6}Wenn weder {7} noch {8} gesetzt ist, gilt das Cookie nur für die Sitzung und wird entfernt, sobald die Nutzenden ihren Browser schließen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ablaufdatum des Cookies oder ein Getter, der eines zurückgibt. Wenn eine Funktion übergeben wird, wird sie bei jedem Schreiben des Cookies ausgewertet, sodass die Ablaufzeit erneuert werden kann, wenn der Wert erneut gesetzt wird. Wird {0} zurückgegeben, entsteht ein Sitzungs-Cookie. Der Getter sollte rein sein (keine Seiteneffekte). Standardmäßig ist kein Ablaufdatum festgelegt. Die meisten Clients betrachten das als „nicht persistentes Cookie“ und löschen es, sobald z. B. die Webbrowser-Anwendung beendet wird.{1}**Hinweis:** Laut der {2}Spezifikation des Cookie-Speichermodells{/2} hat {4} Vorrang, wenn sowohl {3} als auch {5} gesetzt sind. Nicht alle Clients halten sich jedoch daran. Wenn du beide setzt, sollten sie daher auf dasselbe Datum und dieselbe Uhrzeit verweisen!{6}Wenn weder {7} noch {8} gesetzt ist, gilt das Cookie nur für die Sitzung und wird entfernt, sobald die Nutzenden ihren Browser schließen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

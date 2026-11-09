@@ -1,0 +1,14 @@
+{
+  "hash": "c6558afe5571343c",
+  "source": "By default, Nuxt attempts to resolve imports in templates relative to the module that added them. Setting this to {0} disables this behavior, which may be useful if you're experiencing resolution conflicts in certain environments.",
+  "text": "Standardmäßig versucht Nuxt, Importe in Vorlagen relativ zum Modul aufzulösen, das sie hinzugefügt hat. Wenn du dies auf {0} setzt, wird dieses Verhalten deaktiviert. Das kann nützlich sein, wenn in bestimmten Umgebungen Auflösungskonflikte auftreten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardmäßig versucht Nuxt, Importe in Vorlagen relativ zum Modul aufzulösen, das sie hinzugefügt hat. Wenn du dies auf {0} setzt, wird dieses Verhalten deaktiviert. Das kann nützlich sein, wenn in bestimmten Umgebungen Auflösungskonflikte auftreten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "2a9c0dbfd012d1b6",
+  "source": "If you rely on the current component names (e.g. in {0} {1}/{2} lists), update them to use route names instead of filenames.",
+  "text": "Wenn du dich auf die aktuellen Komponentennamen verlässt (z. B. in den {0}-Listen {1}/{2}), passe sie so an, dass sie Routennamen statt Dateinamen verwenden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du dich auf die aktuellen Komponentennamen verlässt (z. B. in den {0}-Listen {1}/{2}), passe sie so an, dass sie Routennamen statt Dateinamen verwenden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

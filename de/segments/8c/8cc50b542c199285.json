@@ -1,0 +1,14 @@
+{
+  "hash": "8cc50b542c199285",
+  "source": "{0} was called without a handler function. The handler is the function that performs the fetch and returns the data, so it cannot be omitted or of another type.",
+  "text": "{0} wurde ohne Handler-Funktion aufgerufen. Der Handler ist die Funktion, die den Abruf ausführt und die Daten zurückgibt. Deshalb darf er weder fehlen noch einen anderen Typ haben.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} wurde ohne Handler-Funktion aufgerufen. Der Handler ist die Funktion, die den Abruf ausführt und die Daten zurückgibt. Deshalb darf er weder fehlen noch einen anderen Typ haben."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

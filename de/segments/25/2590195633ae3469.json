@@ -1,0 +1,14 @@
+{
+  "hash": "2590195633ae3469",
+  "source": "Update Virtual Files",
+  "text": "Virtuelle Dateien aktualisieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Virtuelle Dateien aktualisieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

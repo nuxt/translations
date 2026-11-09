@@ -1,0 +1,14 @@
+{
+  "hash": "534b53ecbe2e6538",
+  "source": "Define the workspace directory of your application.",
+  "text": "Legt das Workspace-Verzeichnis deiner Anwendung fest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Legt das Workspace-Verzeichnis deiner Anwendung fest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

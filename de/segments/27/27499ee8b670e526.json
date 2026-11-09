@@ -1,0 +1,14 @@
+{
+  "hash": "27499ee8b670e526",
+  "source": "Since ESLint is already configured to format the code, there is no need to duplicate the functionality with Prettier. To format the code, you can run {0}, {1}, {2}, or {3} or referring the {4}ESLint section{/4} for IDE Setup.",
+  "text": "Da ESLint bereits so konfiguriert ist, dass es den Code formatiert, musst du diese Funktionalität nicht mit Prettier duplizieren. Um den Code zu formatieren, kannst du {0}, {1}, {2} oder {3} ausführen oder den {4}ESLint-Abschnitt{/4} zur IDE-Einrichtung beachten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Da ESLint bereits so konfiguriert ist, dass es den Code formatiert, musst du diese Funktionalität nicht mit Prettier duplizieren. Um den Code zu formatieren, kannst du {0}, {1}, {2} oder {3} ausführen oder den {4}ESLint-Abschnitt{/4} zur IDE-Einrichtung beachten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b48cbbae2c250cfe",
+  "source": "Avoid updating {0} within a Nuxt module and reading by a Nuxt plugin; use {1} instead.",
+  "text": "Vermeide es, {0} innerhalb eines Nuxt-Moduls zu aktualisieren und in einem Nuxt-Plugin zu lesen; verwende stattdessen {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vermeide es, {0} innerhalb eines Nuxt-Moduls zu aktualisieren und in einem Nuxt-Plugin zu lesen; verwende stattdessen {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

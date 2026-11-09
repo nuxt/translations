@@ -1,0 +1,14 @@
+{
+  "hash": "8b716d0d506c4db5",
+  "source": "{0} or {1}, when the terminal's background cannot be detected",
+  "text": "{0} oder {1}, wenn der Hintergrund des Terminals nicht erkannt werden kann",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} oder {1}, wenn der Hintergrund des Terminals nicht erkannt werden kann"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

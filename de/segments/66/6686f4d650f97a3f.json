@@ -1,0 +1,14 @@
+{
+  "hash": "6686f4d650f97a3f",
+  "source": "Node supports the following kinds of imports (see {0}docs{/0}):",
+  "text": "Node unterstützt die folgenden Arten von Importen (siehe {0}Dokumentation{/0}):",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Node unterstützt die folgenden Arten von Importen (siehe {0}Dokumentation{/0}):"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

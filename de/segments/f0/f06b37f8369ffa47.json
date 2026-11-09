@@ -1,0 +1,14 @@
+{
+  "hash": "f06b37f8369ffa47",
+  "source": "Click the button below to install the Nuxt MCP server directly in Cursor:",
+  "text": "Klicke auf die folgende Schaltfläche, um den Nuxt-MCP-Server direkt in Cursor zu installieren:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Klicke auf die folgende Schaltfläche, um den Nuxt-MCP-Server direkt in Cursor zu installieren:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

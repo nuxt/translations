@@ -1,0 +1,14 @@
+{
+  "hash": "55ba70a04a813bb2",
+  "source": "To restore the Nuxt 4 behavior, disable {0}. This also restores the Nuxt 4 way of rendering the error page, through an internal request to {1}:",
+  "text": "Um das Verhalten von Nuxt 4 wiederherzustellen, deaktiviere {0}. Dadurch wird auch die Nuxt-4-Methode zum Rendern der Fehlerseite über eine interne Anfrage an {1} wiederhergestellt:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um das Verhalten von Nuxt 4 wiederherzustellen, deaktiviere {0}. Dadurch wird auch die Nuxt-4-Methode zum Rendern der Fehlerseite über eine interne Anfrage an {1} wiederhergestellt:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "cb7317a285b11402",
+  "source": "**Consistent data sources**: Ensure server and client uses the same data",
+  "text": "**Konsistente Datenquellen**: Stelle sicher, dass Server und Client dieselben Daten verwenden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Konsistente Datenquellen**: Stelle sicher, dass Server und Client dieselben Daten verwenden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

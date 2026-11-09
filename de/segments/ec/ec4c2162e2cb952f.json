@@ -1,0 +1,14 @@
+{
+  "hash": "ec4c2162e2cb952f",
+  "source": "In API routes, using {0} by passing an object with a short {1} is recommended because it can be accessed on the client side. Otherwise, a {2} passed to {3} on an API route will not propagate to the client. Alternatively, you can use the {4} property to pass data back to the client. When handling the error with {5}, the custom data is available at {6}. In any case, always consider avoiding to put dynamic user input to the message to avoid potential security issues.",
+  "text": "In API-Routen wird empfohlen, {0} mit einem Objekt und einer kurzen {1} zu verwenden, da darauf auf der Client-Seite zugegriffen werden kann. Andernfalls wird eine {2}, die in einer API-Route an {3} übergeben wird, nicht an den Client weitergegeben. Alternativ kannst du die Eigenschaft {4} verwenden, um Daten an den Client zurückzugeben. Wenn du den Fehler mit {5} behandelst, sind die benutzerdefinierten Daten unter {6} verfügbar. Vermeide es in jedem Fall, dynamische Eingaben von Nutzenden in die Nachricht aufzunehmen, um mögliche Sicherheitsprobleme zu vermeiden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In API-Routen wird empfohlen, {0} mit einem Objekt und einer kurzen {1} zu verwenden, da darauf auf der Client-Seite zugegriffen werden kann. Andernfalls wird eine {2}, die in einer API-Route an {3} übergeben wird, nicht an den Client weitergegeben. Alternativ kannst du die Eigenschaft {4} verwenden, um Daten an den Client zurückzugeben. Wenn du den Fehler mit {5} behandelst, sind die benutzerdefinierten Daten unter {6} verfügbar. Vermeide es in jedem Fall, dynamische Eingaben von Nutzenden in die Nachricht aufzunehmen, um mögliche Sicherheitsprobleme zu vermeiden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

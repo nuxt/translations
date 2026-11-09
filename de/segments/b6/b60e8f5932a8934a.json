@@ -1,0 +1,14 @@
+{
+  "hash": "b60e8f5932a8934a",
+  "source": "Provider-specific font family options",
+  "text": "Anbieterspezifische Optionen für Schriftfamilien",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Anbieterspezifische Optionen für Schriftfamilien"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

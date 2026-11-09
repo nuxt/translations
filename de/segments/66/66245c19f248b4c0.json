@@ -1,0 +1,14 @@
+{
+  "hash": "66245c19f248b4c0",
+  "source": "Named layer aliases were introduced in Nuxt v3.16.0.",
+  "text": "Benannte Layer-Aliase wurden in Nuxt v3.16.0 eingeführt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Benannte Layer-Aliase wurden in Nuxt v3.16.0 eingeführt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

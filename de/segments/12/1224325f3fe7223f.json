@@ -1,0 +1,14 @@
+{
+  "hash": "1224325f3fe7223f",
+  "source": "Cached for 1 hour",
+  "text": "1 Stunde lang zwischengespeichert",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "1 Stunde lang zwischengespeichert"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

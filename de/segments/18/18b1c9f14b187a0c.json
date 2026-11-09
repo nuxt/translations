@@ -1,0 +1,14 @@
+{
+  "hash": "18b1c9f14b187a0c",
+  "source": "As with other scripts, feel free to fine-tune the default {0} script in your {1} to better suit your needs.",
+  "text": "Wie bei anderen Skripten kannst du das Standard-Skript {0} in deiner {1} gerne anpassen, damit es besser zu deinen Anforderungen passt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wie bei anderen Skripten kannst du das Standard-Skript {0} in deiner {1} gerne anpassen, damit es besser zu deinen Anforderungen passt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

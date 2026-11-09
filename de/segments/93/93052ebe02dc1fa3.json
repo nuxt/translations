@@ -1,0 +1,14 @@
+{
+  "hash": "93052ebe02dc1fa3",
+  "source": "An object with the module options to be passed to the module's {0} function.",
+  "text": "Ein Objekt mit den Modulooptionen, die an die Funktion {0} des Moduls übergeben werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein Objekt mit den Modulooptionen, die an die Funktion {0} des Moduls übergeben werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

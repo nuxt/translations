@@ -1,0 +1,14 @@
+{
+  "hash": "2176014823233da1",
+  "source": "You can extend the generated {0} (and legacy {1}) TypeScript configuration using this option. Options set here take precedence over {2}.",
+  "text": "Mit dieser Option kannst du die generierte TypeScript-Konfiguration {0} (und die veraltete {1}) erweitern. Hier gesetzte Optionen haben Vorrang vor {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit dieser Option kannst du die generierte TypeScript-Konfiguration {0} (und die veraltete {1}) erweitern. Hier gesetzte Optionen haben Vorrang vor {2}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

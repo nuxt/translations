@@ -1,0 +1,14 @@
+{
+  "hash": "b012bb7d7ad1dbef",
+  "source": "Routes are not prerendered while analyzing, since prerendering runs the built app and its output is not what is being measured. Pass {0} if your analysis needs it.",
+  "text": "Routen werden während der Analyse nicht per Vorab-Rendering erzeugt, da das Vorab-Rendering die erzeugte Anwendung ausführt und deren Ausgabe nicht Gegenstand der Messung ist. Übergib {0}, falls deine Analyse es benötigt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Routen werden während der Analyse nicht per Vorab-Rendering erzeugt, da das Vorab-Rendering die erzeugte Anwendung ausführt und deren Ausgabe nicht Gegenstand der Messung ist. Übergib {0}, falls deine Analyse es benötigt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

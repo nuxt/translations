@@ -1,0 +1,14 @@
+{
+  "hash": "dda6883c5dd353dd",
+  "source": "{0} has the same signature as {1}.",
+  "text": "{0} hat dieselbe Signatur wie {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} hat dieselbe Signatur wie {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

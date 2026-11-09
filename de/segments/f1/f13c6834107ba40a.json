@@ -1,0 +1,14 @@
+{
+  "hash": "f13c6834107ba40a",
+  "source": "It is shipped with many features:",
+  "text": "Sie wird mit vielen Funktionen ausgeliefert:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sie wird mit vielen Funktionen ausgeliefert:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

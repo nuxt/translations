@@ -1,0 +1,14 @@
+{
+  "hash": "474b2920155f2476",
+  "source": "If this import is a pure type import.",
+  "text": "Gibt an, ob dieser Import ein reiner Typ-Import ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gibt an, ob dieser Import ein reiner Typ-Import ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

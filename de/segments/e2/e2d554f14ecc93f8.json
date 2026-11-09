@@ -1,0 +1,14 @@
+{
+  "hash": "e2d554f14ecc93f8",
+  "source": "**Undeclared dependencies.** {0} v2 put its own dependencies into the server bundle, so a file could import something like {1} without depending on it and still work. Add the package to your own dependencies, or report it to the module that needs it.",
+  "text": "**Nicht deklarierte Abhängigkeiten.** {0} v2 hat seine eigenen Abhängigkeiten in das Server-Bundle aufgenommen, sodass eine Datei etwas wie {1} importieren konnte, ohne davon abzuhängen, und trotzdem funktionierte. Füge das Paket zu deinen eigenen Abhängigkeiten hinzu oder melde es dem Modul, das es benötigt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Nicht deklarierte Abhängigkeiten.** {0} v2 hat seine eigenen Abhängigkeiten in das Server-Bundle aufgenommen, sodass eine Datei etwas wie {1} importieren konnte, ohne davon abzuhängen, und trotzdem funktionierte. Füge das Paket zu deinen eigenen Abhängigkeiten hinzu oder melde es dem Modul, das es benötigt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "2c54ffa656846c2d",
+  "source": "The {0} directory is available in Nuxt v3.14+.",
+  "text": "Das Verzeichnis {0} ist ab Nuxt v3.14 verfügbar.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Verzeichnis {0} ist ab Nuxt v3.14 verfügbar."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

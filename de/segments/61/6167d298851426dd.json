@@ -1,0 +1,14 @@
+{
+  "hash": "6167d298851426dd",
+  "source": "Delete the cached state of useState.",
+  "text": "Löscht den zwischengespeicherten Zustand von useState.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Löscht den zwischengespeicherten Zustand von useState."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

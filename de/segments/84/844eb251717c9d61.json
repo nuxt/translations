@@ -1,0 +1,14 @@
+{
+  "hash": "844eb251717c9d61",
+  "source": "**Reloads** are signalled by calling {0} when a compilation finishes. The official builders emit a {1} hook (for example {2}, {3}) that the server integration listens to in order to reload.",
+  "text": "**Reloads** werden signalisiert, indem {0} aufgerufen wird, sobald eine Kompilierung abgeschlossen ist. Die offiziellen Builder senden dazu einen {1}-Hook (zum Beispiel {2}, {3}), auf den die Server-Integration lauscht, um neu zu laden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Reloads** werden signalisiert, indem {0} aufgerufen wird, sobald eine Kompilierung abgeschlossen ist. Die offiziellen Builder senden dazu einen {1}-Hook (zum Beispiel {2}, {3}), auf den die Server-Integration lauscht, um neu zu laden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

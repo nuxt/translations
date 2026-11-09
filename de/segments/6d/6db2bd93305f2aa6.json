@@ -1,0 +1,14 @@
+{
+  "hash": "6db2bd93305f2aa6",
+  "source": "Most of the time, when people talk about ESM vs. CJS, they are talking about a different syntax for writing {0}modules{/0}.",
+  "text": "Wenn von ESM im Vergleich zu CJS die Rede ist, geht es meistens um eine unterschiedliche Syntax zum Schreiben von {0}Modulen{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn von ESM im Vergleich zu CJS die Rede ist, geht es meistens um eine unterschiedliche Syntax zum Schreiben von {0}Modulen{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

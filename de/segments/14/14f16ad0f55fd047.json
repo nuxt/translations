@@ -1,0 +1,14 @@
+{
+  "hash": "14f16ad0f55fd047",
+  "source": "A route middleware was referenced (usually via {0}) but no middleware with that name exists. Common causes are a typo in the name, or a middleware file that was renamed or deleted without updating its references.",
+  "text": "Es wurde auf eine Routen-Middleware verwiesen (meist über {0}), aber es existiert keine Middleware mit diesem Namen. Häufige Ursachen sind ein Tippfehler im Namen oder eine Middleware-Datei, die umbenannt oder gelöscht wurde, ohne die Verweise darauf zu aktualisieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Es wurde auf eine Routen-Middleware verwiesen (meist über {0}), aber es existiert keine Middleware mit diesem Namen. Häufige Ursachen sind ein Tippfehler im Namen oder eine Middleware-Datei, die umbenannt oder gelöscht wurde, ohne die Verweise darauf zu aktualisieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

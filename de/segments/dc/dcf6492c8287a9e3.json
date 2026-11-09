@@ -1,0 +1,14 @@
+{
+  "hash": "dcf6492c8287a9e3",
+  "source": "{0} is the same command, and also accepts layers.",
+  "text": "{0} ist derselbe Befehl und akzeptiert auch Layer.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ist derselbe Befehl und akzeptiert auch Layer."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

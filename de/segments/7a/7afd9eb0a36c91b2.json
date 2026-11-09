@@ -1,0 +1,14 @@
+{
+  "hash": "7afd9eb0a36c91b2",
+  "source": "Idle strategy is for components that can be hydrated when the browser is idle.",
+  "text": "Die Idle-Strategie eignet sich für Komponenten, die hydratisiert werden können, wenn der Browser inaktiv ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Idle-Strategie eignet sich für Komponenten, die hydratisiert werden können, wenn der Browser inaktiv ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

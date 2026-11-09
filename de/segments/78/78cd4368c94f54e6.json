@@ -1,0 +1,14 @@
+{
+  "hash": "78cd4368c94f54e6",
+  "source": "Nuxt resolves the active builder from the {0} option. It accepts either a module specifier that default-exports a {1}, or an inline object:",
+  "text": "Nuxt ermittelt den aktiven Builder über die Option {0}. Sie akzeptiert entweder einen Modulbezeichner, der einen {1} als Default exportiert, oder ein Inline-Objekt:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt ermittelt den aktiven Builder über die Option {0}. Sie akzeptiert entweder einen Modulbezeichner, der einen {1} als Default exportiert, oder ein Inline-Objekt:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

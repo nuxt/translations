@@ -1,0 +1,14 @@
+{
+  "hash": "39cf166bab328dcb",
+  "source": "First, you'll need to combine your {0} and {1} properties into a new one called {2}, with the public config within a key called {3}.",
+  "text": "Zuerst musst du deine Eigenschaften {0} und {1} in einer neuen Eigenschaft namens {2} zusammenführen, wobei die öffentliche Konfiguration unter dem Schlüssel {3} liegt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Zuerst musst du deine Eigenschaften {0} und {1} in einer neuen Eigenschaft namens {2} zusammenführen, wobei die öffentliche Konfiguration unter dem Schlüssel {3} liegt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

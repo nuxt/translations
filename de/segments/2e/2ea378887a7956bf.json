@@ -1,0 +1,14 @@
+{
+  "hash": "2ea378887a7956bf",
+  "source": "Check your network connection. Your machine might be having a hard time communicating with the font providers.",
+  "text": "Prüfe deine Netzwerkverbindung. Möglicherweise hat dein Rechner Schwierigkeiten, mit den Schriftarten-Providern zu kommunizieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Prüfe deine Netzwerkverbindung. Möglicherweise hat dein Rechner Schwierigkeiten, mit den Schriftarten-Providern zu kommunizieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "994ae7cdbba15163",
+  "source": "In Nuxt 2, you'd fetch your data in your component using a syntax similar to:",
+  "text": "In Nuxt 2 hast du deine Daten in der Komponente mit einer Syntax ähnlich der folgenden abgerufen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In Nuxt 2 hast du deine Daten in der Komponente mit einer Syntax ähnlich der folgenden abgerufen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

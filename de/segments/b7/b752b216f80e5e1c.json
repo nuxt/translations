@@ -1,0 +1,14 @@
+{
+  "hash": "b752b216f80e5e1c",
+  "source": "It is necessary to explicitly import {0} from {1} within your plugin file. The same requirement applies to utilities such as {2}.",
+  "text": "Du musst {0} aus {1} in deiner Plugin-Datei explizit importieren. Dasselbe gilt für Hilfsfunktionen wie {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du musst {0} aus {1} in deiner Plugin-Datei explizit importieren. Dasselbe gilt für Hilfsfunktionen wie {2}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

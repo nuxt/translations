@@ -1,0 +1,14 @@
+{
+  "hash": "def7207204b746b1",
+  "source": "This defines the behavior of the assets used.",
+  "text": "Damit legst du das Verhalten der verwendeten Assets fest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Damit legst du das Verhalten der verwendeten Assets fest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

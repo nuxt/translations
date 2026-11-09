@@ -1,0 +1,14 @@
+{
+  "hash": "358642d485512fe6",
+  "source": "The handler signal will be aborted when:",
+  "text": "Das Handler-Signal wird abgebrochen, wenn:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Handler-Signal wird abgebrochen, wenn:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

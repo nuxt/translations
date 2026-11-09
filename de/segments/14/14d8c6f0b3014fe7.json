@@ -1,0 +1,14 @@
+{
+  "hash": "14d8c6f0b3014fe7",
+  "source": "To add server routes without {0} prefix, put them into {1} directory.",
+  "text": "Um Server-Routen ohne das Präfix {0} hinzuzufügen, lege sie im Verzeichnis {1} ab.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um Server-Routen ohne das Präfix {0} hinzuzufügen, lege sie im Verzeichnis {1} ab."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

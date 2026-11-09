@@ -1,0 +1,14 @@
+{
+  "hash": "47d428c2fe32cc62",
+  "source": "It is not a dependency of Nuxt Fonts, as the harfbuzz WebAssembly it loads is several megabytes and only projects that subset a font need it. Where we cannot ask, such as in CI, we warn instead, and the build fails before downloading any font that needs subsetting locally.",
+  "text": "Es ist keine Abhängigkeit von Nuxt Fonts, da das geladene harfbuzz-WebAssembly mehrere Megabyte groß ist und nur Projekte es benötigen, die eine Schrift auf ein Subset reduzieren. Wo wir nicht nachfragen können, etwa in der CI, geben wir stattdessen eine Warnung aus, und der Build schlägt fehl, bevor eine Schrift heruntergeladen wird, die lokal auf ein Subset reduziert werden muss.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Es ist keine Abhängigkeit von Nuxt Fonts, da das geladene harfbuzz-WebAssembly mehrere Megabyte groß ist und nur Projekte es benötigen, die eine Schrift auf ein Subset reduzieren. Wo wir nicht nachfragen können, etwa in der CI, geben wir stattdessen eine Warnung aus, und der Build schlägt fehl, bevor eine Schrift heruntergeladen wird, die lokal auf ein Subset reduziert werden muss."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

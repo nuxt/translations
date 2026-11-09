@@ -1,0 +1,14 @@
+{
+  "hash": "dd946ef3de50ca6d",
+  "source": "By default, if you haven't set it manually, Vue will assign a component name that matches the filename of the component.",
+  "text": "Wenn du den Namen nicht manuell festlegst, weist Vue einer Komponente standardmäßig einen Namen zu, der dem Dateinamen der Komponente entspricht.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du den Namen nicht manuell festlegst, weist Vue einer Komponente standardmäßig einen Namen zu, der dem Dateinamen der Komponente entspricht."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

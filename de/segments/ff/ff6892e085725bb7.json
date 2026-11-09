@@ -1,0 +1,14 @@
+{
+  "hash": "ff6892e085725bb7",
+  "source": "First, the modules defined in {0} are loaded.",
+  "text": "Zuerst werden die in {0} definierten Module geladen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Zuerst werden die in {0} definierten Module geladen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

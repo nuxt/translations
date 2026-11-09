@@ -1,0 +1,14 @@
+{
+  "hash": "81a19bece50bc1c0",
+  "source": "The module starter comes with a basic test suite:",
+  "text": "Der Modul-Starter enthält eine einfache Testsuite:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Modul-Starter enthält eine einfache Testsuite:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

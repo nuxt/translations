@@ -1,0 +1,14 @@
+{
+  "hash": "77096f3751c0de36",
+  "source": "Blog posts page generated on demand, revalidates in background, cached on CDN for 1 hour (3600 seconds)",
+  "text": "Blogbeitragsseite wird bei Bedarf generiert, im Hintergrund erneut validiert und 1 Stunde (3600 Sekunden) lang im CDN gecacht",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Blogbeitragsseite wird bei Bedarf generiert, im Hintergrund erneut validiert und 1 Stunde (3600 Sekunden) lang im CDN gecacht"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

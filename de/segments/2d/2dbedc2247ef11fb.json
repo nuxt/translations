@@ -1,0 +1,14 @@
+{
+  "hash": "2dbedc2247ef11fb",
+  "source": "Caveats and Best Practices",
+  "text": "Einschränkungen und Best Practices",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Einschränkungen und Best Practices"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

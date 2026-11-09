@@ -1,0 +1,14 @@
+{
+  "hash": "679b3f2013a16caf",
+  "source": "By default, all your pages should be in one {0} directory at the root of your project.",
+  "text": "Standardmäßig sollten sich alle deine Seiten in einem einzigen Verzeichnis {0} im Stammverzeichnis deines Projekts befinden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardmäßig sollten sich alle deine Seiten in einem einzigen Verzeichnis {0} im Stammverzeichnis deines Projekts befinden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "2e93bae131b64b10",
+  "source": "Use the {0} option to register your function:",
+  "text": "Verwende die Option {0}, um deine Funktion zu registrieren:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwende die Option {0}, um deine Funktion zu registrieren:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

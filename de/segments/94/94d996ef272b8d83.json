@@ -1,0 +1,14 @@
+{
+  "hash": "94d996ef272b8d83",
+  "source": "If you need to use the Options API, there is a {0} method you can use when you use {1}.",
+  "text": "Wenn du die Options API verwenden musst, gibt es eine {0}-Methode, die du nutzen kannst, wenn du {1} verwendest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du die Options API verwenden musst, gibt es eine {0}-Methode, die du nutzen kannst, wenn du {1} verwendest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

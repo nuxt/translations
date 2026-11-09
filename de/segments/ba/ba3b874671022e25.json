@@ -1,0 +1,14 @@
+{
+  "hash": "ba3b874671022e25",
+  "source": "It throws a {0} naming {1} when {2} is unset or shorter than 32 characters.",
+  "text": "Es wirft einen {0}, der {1} nennt, wenn {2} nicht gesetzt oder kürzer als 32 Zeichen ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Es wirft einen {0}, der {1} nennt, wenn {2} nicht gesetzt oder kürzer als 32 Zeichen ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

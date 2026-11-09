@@ -1,0 +1,14 @@
+{
+  "hash": "9f74a36df054a056",
+  "source": "- Clean up deprecated files",
+  "text": "- Nicht mehr empfohlene Dateien aufräumen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "- Nicht mehr empfohlene Dateien aufräumen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

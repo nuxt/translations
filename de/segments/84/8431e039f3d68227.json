@@ -1,0 +1,14 @@
+{
+  "hash": "8431e039f3d68227",
+  "source": "Programmatic Usage",
+  "text": "Programmatische Verwendung",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Programmatische Verwendung"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

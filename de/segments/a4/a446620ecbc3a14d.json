@@ -1,0 +1,14 @@
+{
+  "hash": "a446620ecbc3a14d",
+  "source": "Update links to use the same casing as their page routes. To keep case-insensitive matching, set {0} in {1} (and remove it from {2} if it is there):",
+  "text": "Passe Links so an, dass sie dieselbe Schreibweise wie ihre Seitenrouten verwenden. Um den Abgleich ohne Beachtung der Groß- und Kleinschreibung beizubehalten, setze {0} in {1} (und entferne es aus {2}, falls es dort steht):",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Passe Links so an, dass sie dieselbe Schreibweise wie ihre Seitenrouten verwenden. Um den Abgleich ohne Beachtung der Groß- und Kleinschreibung beizubehalten, setze {0} in {1} (und entferne es aus {2}, falls es dort steht):"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

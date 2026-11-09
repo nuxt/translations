@@ -1,0 +1,14 @@
+{
+  "hash": "2635b72cee673969",
+  "source": "{0} also only works in code that a server builder bundles, because the builder supplies the runtime config, app config, hooks and in-process fetch behind it. Code that runs in the Nuxt process, such as {1}, a module's {2} or a function passed to {3}, has none of these, so don't import {4} there: {5} and {6}, for example, return empty objects. Read {7} instead, and see {8}Dev Server Handlers{/8} for writing a handler in a module.",
+  "text": "{0} funktioniert außerdem nur in Code, den ein Server-Builder bündelt, denn der Builder stellt die Laufzeitkonfiguration, die App-Konfiguration, die Hooks und den In-Process-Fetch dahinter bereit. Code, der im Nuxt-Prozess läuft, etwa {1}, das {2} eines Moduls oder eine an {3} übergebene Funktion, hat nichts davon. Importiere {4} dort daher nicht: {5} und {6} geben zum Beispiel leere Objekte zurück. Lies stattdessen {7} und sieh dir {8}Entwicklungsserver-Handler{/8} an, um zu erfahren, wie du in einem Modul einen Handler schreibst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} funktioniert außerdem nur in Code, den ein Server-Builder bündelt, denn der Builder stellt die Laufzeitkonfiguration, die App-Konfiguration, die Hooks und den In-Process-Fetch dahinter bereit. Code, der im Nuxt-Prozess läuft, etwa {1}, das {2} eines Moduls oder eine an {3} übergebene Funktion, hat nichts davon. Importiere {4} dort daher nicht: {5} und {6} geben zum Beispiel leere Objekte zurück. Lies stattdessen {7} und sieh dir {8}Entwicklungsserver-Handler{/8} an, um zu erfahren, wie du in einem Modul einen Handler schreibst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

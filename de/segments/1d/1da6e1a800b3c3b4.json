@@ -1,0 +1,14 @@
+{
+  "hash": "1da6e1a800b3c3b4",
+  "source": "Hydrates the component after a specified delay (in milliseconds).",
+  "text": "Hydratisiert die Komponente nach einer festgelegten Verzögerung (in Millisekunden).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Hydratisiert die Komponente nach einer festgelegten Verzögerung (in Millisekunden)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

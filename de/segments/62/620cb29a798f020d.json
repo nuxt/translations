@@ -1,0 +1,14 @@
+{
+  "hash": "620cb29a798f020d",
+  "source": "register each one however your bundler prefers: a virtual module, an alias, a file",
+  "text": "registriere jedes Modul so, wie es dein Bundler bevorzugt: als virtuelles Modul, als Alias oder als Datei",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "registriere jedes Modul so, wie es dein Bundler bevorzugt: als virtuelles Modul, als Alias oder als Datei"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

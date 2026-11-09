@@ -1,0 +1,14 @@
+{
+  "hash": "071741eb41733dd3",
+  "source": "The Nuxt SSR renderer isn't part of {0}. It ships in the {1} package and is imported through builder-agnostic specifiers, so a server builder that isn't backed by Nitro can render with it. {2} is one consumer of it, and its own handler is a thin adapter.",
+  "text": "Der Nuxt-SSR-Renderer ist kein Teil von {0}. Er wird im Paket {1} ausgeliefert und über builderunabhängige Specifier importiert, sodass auch ein Server-Builder, der nicht auf Nitro basiert, damit rendern kann. {2} ist nur ein Nutzer davon, und sein eigener Handler ist ein dünner Adapter.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Nuxt-SSR-Renderer ist kein Teil von {0}. Er wird im Paket {1} ausgeliefert und über builderunabhängige Specifier importiert, sodass auch ein Server-Builder, der nicht auf Nitro basiert, damit rendern kann. {2} ist nur ein Nutzer davon, und sein eigener Handler ist ein dünner Adapter."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

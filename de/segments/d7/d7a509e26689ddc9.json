@@ -1,0 +1,14 @@
+{
+  "hash": "d7a509e26689ddc9",
+  "source": "Users can provide options for this module under the corresponding key in {0}.",
+  "text": "Nutzende können Optionen für dieses Modul unter dem entsprechenden Schlüssel in {0} angeben.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nutzende können Optionen für dieses Modul unter dem entsprechenden Schlüssel in {0} angeben."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

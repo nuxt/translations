@@ -1,0 +1,14 @@
+{
+  "hash": "e787b8d3d8130885",
+  "source": "{0} is implementable in user-land with {1}this plugin{/1}",
+  "text": "{0} lässt sich in der Anwendungsebene mit {1}diesem Plugin{/1} umsetzen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} lässt sich in der Anwendungsebene mit {1}diesem Plugin{/1} umsetzen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "9063adbbb2490a80",
+  "source": "While your module source code lives inside the {0} directory, to develop a module you often need a Nuxt application to test it against. That's what the {1} directory is for. It's a Nuxt application you can tinker with that is already configured to run with your module.",
+  "text": "Der Quellcode deines Moduls liegt zwar im Verzeichnis {0}, doch zum Entwickeln eines Moduls brauchst du oft eine Nuxt-Anwendung, mit der du es testen kannst. Dafür ist das Verzeichnis {1} gedacht. Es enthält eine Nuxt-Anwendung zum Ausprobieren, die bereits so konfiguriert ist, dass sie mit deinem Modul läuft.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Quellcode deines Moduls liegt zwar im Verzeichnis {0}, doch zum Entwickeln eines Moduls brauchst du oft eine Nuxt-Anwendung, mit der du es testen kannst. Dafür ist das Verzeichnis {1} gedacht. Es enthält eine Nuxt-Anwendung zum Ausprobieren, die bereits so konfiguriert ist, dass sie mit deinem Modul läuft."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

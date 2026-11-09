@@ -1,0 +1,14 @@
+{
+  "hash": "851a7cb72777f1fc",
+  "source": "If you have set {0} in your {1} then you need to ensure that you update your build script to be {2}.",
+  "text": "Wenn du {0} in deiner {1} gesetzt hast, musst du dein Build-Skript auf {2} aktualisieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du {0} in deiner {1} gesetzt hast, musst du dein Build-Skript auf {2} aktualisieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

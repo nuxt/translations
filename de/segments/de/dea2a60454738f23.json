@@ -1,0 +1,14 @@
+{
+  "hash": "dea2a60454738f23",
+  "source": "You can access {0} and {1} properties within the component's script as below:",
+  "text": "Du kannst im Skript der Komponente wie folgt auf die Eigenschaften {0} und {1} zugreifen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst im Skript der Komponente wie folgt auf die Eigenschaften {0} und {1} zugreifen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

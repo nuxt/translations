@@ -1,0 +1,14 @@
+{
+  "hash": "c684330973ea7574",
+  "source": "You may define a path matcher, if you have a more complex pattern than can be expressed with the file name. See {0}the {1} docs{/0} for more information.",
+  "text": "Du kannst einen Pfad-Matcher definieren, wenn dein Muster komplexer ist, als es sich mit dem Dateinamen ausdrücken lässt. Weitere Informationen findest du in {0}der Dokumentation zu {1}{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst einen Pfad-Matcher definieren, wenn dein Muster komplexer ist, als es sich mit dem Dateinamen ausdrücken lässt. Weitere Informationen findest du in {0}der Dokumentation zu {1}{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

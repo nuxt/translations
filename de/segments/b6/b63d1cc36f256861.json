@@ -1,0 +1,14 @@
+{
+  "hash": "b63d1cc36f256861",
+  "source": "In Nuxt we can use {0}Nuxt Image{/0} module that is a plug-and-play image optimization for Nuxt apps. It allows resizing and transforming your images using built-in optimizer or your favorite images CDN.",
+  "text": "In Nuxt kannst du das Modul {0}Nuxt Image{/0} verwenden, eine Plug-and-play-Bildoptimierung für Nuxt-Apps. Es ermöglicht, Bilder mit dem integrierten Optimierer oder deinem bevorzugten Bild-CDN in der Größe zu ändern und zu transformieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In Nuxt kannst du das Modul {0}Nuxt Image{/0} verwenden, eine Plug-and-play-Bildoptimierung für Nuxt-Apps. Es ermöglicht, Bilder mit dem integrierten Optimierer oder deinem bevorzugten Bild-CDN in der Größe zu ändern und zu transformieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

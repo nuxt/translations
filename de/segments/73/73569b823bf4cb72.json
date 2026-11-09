@@ -1,0 +1,14 @@
+{
+  "hash": "73569b823bf4cb72",
+  "source": "Nuxt Fonts processes all your CSS and does the following things automatically when it encounters a font-family declaration.",
+  "text": "Nuxt Fonts verarbeitet dein gesamtes CSS und führt automatisch die folgenden Schritte aus, sobald es eine font-family-Deklaration findet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Fonts verarbeitet dein gesamtes CSS und führt automatisch die folgenden Schritte aus, sobald es eine font-family-Deklaration findet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

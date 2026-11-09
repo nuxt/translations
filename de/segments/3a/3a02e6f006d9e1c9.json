@@ -1,0 +1,14 @@
+{
+  "hash": "3a02e6f006d9e1c9",
+  "source": "Nuxt also allows auto-importing from third-party packages.",
+  "text": "Nuxt ermöglicht auch den automatischen Import aus Drittanbieter-Paketen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt ermöglicht auch den automatischen Import aus Drittanbieter-Paketen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

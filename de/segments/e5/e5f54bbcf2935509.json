@@ -1,0 +1,14 @@
+{
+  "hash": "e5f54bbcf2935509",
+  "source": "Create a new directory called {0}.",
+  "text": "Erstelle ein neues Verzeichnis namens {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erstelle ein neues Verzeichnis namens {0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

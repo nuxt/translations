@@ -1,0 +1,14 @@
+{
+  "hash": "cfb0273babb6dd27",
+  "source": "{0} is a drop-in replacement for the native {1} tag.",
+  "text": "{0} ist ein direkter Ersatz für das native {1}-Tag.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ist ein direkter Ersatz für das native {1}-Tag."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

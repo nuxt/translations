@@ -1,0 +1,14 @@
+{
+  "hash": "5f734f467a10d12f",
+  "source": "{0} - Define server-side redirects.",
+  "text": "{0} – Definiert serverseitige Weiterleitungen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} – Definiert serverseitige Weiterleitungen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

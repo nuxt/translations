@@ -1,0 +1,14 @@
+{
+  "hash": "41d2224362ad87bf",
+  "source": "{0} improves privacy for your users by not sending the {1} header to the linked site.",
+  "text": "{0} verbessert den Datenschutz deiner Nutzenden, indem der {1}-Header nicht an die verlinkte Website gesendet wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} verbessert den Datenschutz deiner Nutzenden, indem der {1}-Header nicht an die verlinkte Website gesendet wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

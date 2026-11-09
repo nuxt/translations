@@ -1,0 +1,14 @@
+{
+  "hash": "cf1ee0d84397f95f",
+  "source": "Then render each outlet by name from the parent:",
+  "text": "Rendere anschließend jedes Outlet anhand seines Namens in der übergeordneten Komponente:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Rendere anschließend jedes Outlet anhand seines Namens in der übergeordneten Komponente:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

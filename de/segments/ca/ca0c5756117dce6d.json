@@ -1,0 +1,14 @@
+{
+  "hash": "ca0c5756117dce6d",
+  "source": "If you need to update your templates/virtual files, you can leverage the {0} utility like this:",
+  "text": "Wenn du deine Vorlagen bzw. virtuellen Dateien aktualisieren musst, kannst du dafür das Hilfsprogramm {0} so verwenden:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du deine Vorlagen bzw. virtuellen Dateien aktualisieren musst, kannst du dafür das Hilfsprogramm {0} so verwenden:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

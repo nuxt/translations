@@ -1,0 +1,14 @@
+{
+  "hash": "b50a18ce5818eb5e",
+  "source": "Hydrates when the browser is idle or after a delay.",
+  "text": "Hydratisiert, wenn der Browser inaktiv ist oder nach einer Verzögerung.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Hydratisiert, wenn der Browser inaktiv ist oder nach einer Verzögerung."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

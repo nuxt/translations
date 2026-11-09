@@ -1,0 +1,14 @@
+{
+  "hash": "e9cbe84b9f1822b3",
+  "source": "However, because of the complexities of syntax detection and different bundle formats, there is always a chance that the interop default fails and we end up with something like this:",
+  "text": "Aufgrund der Komplexität der Syntaxerkennung und unterschiedlicher Bundle-Formate kann das Interop-Default jedoch fehlschlagen, sodass du am Ende so etwas erhältst:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Aufgrund der Komplexität der Syntaxerkennung und unterschiedlicher Bundle-Formate kann das Interop-Default jedoch fehlschlagen, sodass du am Ende so etwas erhältst:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

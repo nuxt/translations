@@ -1,0 +1,14 @@
+{
+  "hash": "a1f5382e912f16a9",
+  "source": "The {0} function includes caching via a WeakMap to avoid recomputing directory paths for the same layers repeatedly, improving performance when called multiple times.",
+  "text": "Die Funktion {0} nutzt Caching über eine WeakMap, damit Verzeichnispfade für dieselben Layer nicht wiederholt neu berechnet werden. Das verbessert die Performance bei mehrfachen Aufrufen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Funktion {0} nutzt Caching über eine WeakMap, damit Verzeichnispfade für dieselben Layer nicht wiederholt neu berechnet werden. Das verbessert die Performance bei mehrfachen Aufrufen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

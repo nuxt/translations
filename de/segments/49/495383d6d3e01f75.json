@@ -1,0 +1,14 @@
+{
+  "hash": "495383d6d3e01f75",
+  "source": "Jump over the {0} interface documentation.",
+  "text": "Springe direkt zur Dokumentation der {0}-Schnittstelle.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Springe direkt zur Dokumentation der {0}-Schnittstelle."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

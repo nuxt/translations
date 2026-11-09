@@ -1,0 +1,14 @@
+{
+  "hash": "9b99cead7107e743",
+  "source": "Watch a video from Vue School on parallel data fetching",
+  "text": "Sieh dir ein Video von Vue School zum parallelen Datenabruf an",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sieh dir ein Video von Vue School zum parallelen Datenabruf an"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

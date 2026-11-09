@@ -1,0 +1,14 @@
+{
+  "hash": "1163f6b64d32ff41",
+  "source": "Not needed, as {0} rules are injected into the stylesheets that use them.",
+  "text": "Nicht nötig, da {0}-Regeln in die Stylesheets eingefügt werden, die sie verwenden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nicht nötig, da {0}-Regeln in die Stylesheets eingefügt werden, die sie verwenden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

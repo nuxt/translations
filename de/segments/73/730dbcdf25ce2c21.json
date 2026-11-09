@@ -1,0 +1,14 @@
+{
+  "hash": "730dbcdf25ce2c21",
+  "source": "{0}: An options object to configure the clear behavior.",
+  "text": "{0}: Ein Optionsobjekt, um das Löschverhalten zu konfigurieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Ein Optionsobjekt, um das Löschverhalten zu konfigurieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

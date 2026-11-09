@@ -1,0 +1,14 @@
+{
+  "hash": "126ae1741cd6d59d",
+  "source": "This affects both:",
+  "text": "Das betrifft beides:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das betrifft beides:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

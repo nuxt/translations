@@ -1,0 +1,14 @@
+{
+  "hash": "469b23d55f24e4fa",
+  "source": "\"Search documentation about composables\"",
+  "text": "„Durchsuche die Dokumentation nach Composables“",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "„Durchsuche die Dokumentation nach Composables“"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

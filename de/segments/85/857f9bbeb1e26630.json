@@ -1,0 +1,14 @@
+{
+  "hash": "857f9bbeb1e26630",
+  "source": "Manual Installation",
+  "text": "Manuelle Installation",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Manuelle Installation"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

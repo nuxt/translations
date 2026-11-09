@@ -1,0 +1,14 @@
+{
+  "hash": "288659705832a30c",
+  "source": "**{0}**: The build output key. One of {1}, {2}, {3}, {4}, {5} or {6}.",
+  "text": "**{0}**: Der Schlüssel der Build-Ausgabe. Einer von {1}, {2}, {3}, {4}, {5} oder {6}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}**: Der Schlüssel der Build-Ausgabe. Einer von {1}, {2}, {3}, {4}, {5} oder {6}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

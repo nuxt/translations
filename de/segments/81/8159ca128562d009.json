@@ -1,0 +1,14 @@
+{
+  "hash": "8159ca128562d009",
+  "source": "Please don't feel embarrassed about asking a question that you think is easy - we've all been there! ❤️",
+  "text": "Du brauchst dich nicht zu schämen, eine Frage zu stellen, die du für leicht hältst – wir alle waren schon einmal an diesem Punkt! ❤️",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du brauchst dich nicht zu schämen, eine Frage zu stellen, die du für leicht hältst – wir alle waren schon einmal an diesem Punkt! ❤️"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

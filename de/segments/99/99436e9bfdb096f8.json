@@ -1,0 +1,14 @@
+{
+  "hash": "99436e9bfdb096f8",
+  "source": "resolvedOptions is properly typed as:",
+  "text": "resolvedOptions ist korrekt typisiert als:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "resolvedOptions ist korrekt typisiert als:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

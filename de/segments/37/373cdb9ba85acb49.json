@@ -1,0 +1,14 @@
+{
+  "hash": "373cdb9ba85acb49",
+  "source": "code that might throw an error",
+  "text": "Code, der einen Fehler auslösen könnte",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Code, der einen Fehler auslösen könnte"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

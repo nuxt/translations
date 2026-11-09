@@ -1,0 +1,14 @@
+{
+  "hash": "55da6895a49428cc",
+  "source": "It is stopped, and the new one takes its port.",
+  "text": "Die laufende Vorschau wird beendet, und die neue übernimmt ihren Port.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die laufende Vorschau wird beendet, und die neue übernimmt ihren Port."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

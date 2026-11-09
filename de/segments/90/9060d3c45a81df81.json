@@ -1,0 +1,14 @@
+{
+  "hash": "9060d3c45a81df81",
+  "source": "Images in your website can usually be separated by importance; the ones that are needed to be delivered first at initial load (i.e. {0}), and the ones that can be loaded later or when specifically needed. For that, we could use the following optimizations:",
+  "text": "Die Bilder deiner Website lassen sich in der Regel nach Wichtigkeit unterteilen: Die einen müssen beim initialen Laden als Erstes ausgeliefert werden (d. h. {0}), die anderen können später oder erst bei Bedarf geladen werden. Dafür können wir die folgenden Optimierungen nutzen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Bilder deiner Website lassen sich in der Regel nach Wichtigkeit unterteilen: Die einen müssen beim initialen Laden als Erstes ausgeliefert werden (d. h. {0}), die anderen können später oder erst bei Bedarf geladen werden. Dafür können wir die folgenden Optimierungen nutzen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

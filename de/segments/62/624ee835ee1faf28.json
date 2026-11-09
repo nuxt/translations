@@ -1,0 +1,14 @@
+{
+  "hash": "624ee835ee1faf28",
+  "source": "{0}fontaine{/0} generates the adjusted fallback {1} rules that cut layout shift while a web font loads.",
+  "text": "{0}fontaine{/0} erzeugt die angepassten Fallback-{1}-Regeln, die Layout-Verschiebungen verringern, während eine Web-Schriftart lädt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}fontaine{/0} erzeugt die angepassten Fallback-{1}-Regeln, die Layout-Verschiebungen verringern, während eine Web-Schriftart lädt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

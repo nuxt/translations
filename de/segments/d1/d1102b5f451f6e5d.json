@@ -1,0 +1,14 @@
+{
+  "hash": "d1102b5f451f6e5d",
+  "source": "The Nitro server builder, v3",
+  "text": "Der Nitro-Server-Builder, v3",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Nitro-Server-Builder, v3"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

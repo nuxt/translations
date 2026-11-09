@@ -1,0 +1,14 @@
+{
+  "hash": "73a4580c55c6acd9",
+  "source": "Navigate to your GitHub repository",
+  "text": "Wechsle zu deinem GitHub-Repository",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wechsle zu deinem GitHub-Repository"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

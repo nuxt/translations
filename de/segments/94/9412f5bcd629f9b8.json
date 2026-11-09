@@ -1,0 +1,14 @@
+{
+  "hash": "9412f5bcd629f9b8",
+  "source": "Finally, if you are using the template utilities ({0}, {1}, {2}), you can replace them as follows with utilities from {3}:",
+  "text": "Wenn du schließlich die Vorlagen-Hilfsfunktionen ({0}, {1}, {2}) verwendest, kannst du sie wie folgt durch Hilfsfunktionen aus {3} ersetzen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du schließlich die Vorlagen-Hilfsfunktionen ({0}, {1}, {2}) verwendest, kannst du sie wie folgt durch Hilfsfunktionen aus {3} ersetzen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

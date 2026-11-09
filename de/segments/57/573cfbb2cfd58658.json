@@ -1,0 +1,14 @@
+{
+  "hash": "573cfbb2cfd58658",
+  "source": "This command will execute all codemods in sequence, with the option to deselect any that you do not wish to run. Each codemod is also listed below alongside its respective change and can be executed independently.",
+  "text": "Dieser Befehl führt alle Codemods nacheinander aus. Du kannst einzelne abwählen, die du nicht ausführen möchtest. Jeder Codemod ist unten auch bei der jeweiligen Änderung aufgeführt und lässt sich einzeln ausführen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dieser Befehl führt alle Codemods nacheinander aus. Du kannst einzelne abwählen, die du nicht ausführen möchtest. Jeder Codemod ist unten auch bei der jeweiligen Änderung aufgeführt und lässt sich einzeln ausführen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

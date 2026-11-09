@@ -1,0 +1,14 @@
+{
+  "hash": "183e1b196da86a29",
+  "source": "Automatic Aliases",
+  "text": "Automatische Aliase",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Automatische Aliase"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

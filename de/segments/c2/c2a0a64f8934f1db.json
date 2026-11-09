@@ -1,0 +1,14 @@
+{
+  "hash": "c2a0a64f8934f1db",
+  "source": "You can define a page as {0}server only{/0} by giving it a {1} suffix. While you will be able to navigate to the page using client-side navigation, controlled by {2}, it will be rendered with a server component automatically, meaning the code required to render the page will not be in your client-side bundle.",
+  "text": "Du kannst eine Seite als {0}nur für den Server{/0} definieren, indem du ihr das Suffix {1} gibst. Du kannst zwar per clientseitiger Navigation, die von {2} gesteuert wird, zu der Seite navigieren, sie wird aber automatisch mit einer Serverkomponente gerendert. Das bedeutet, dass der Code, der zum Rendern der Seite nötig ist, nicht in deinem clientseitigen Bundle enthalten ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst eine Seite als {0}nur für den Server{/0} definieren, indem du ihr das Suffix {1} gibst. Du kannst zwar per clientseitiger Navigation, die von {2} gesteuert wird, zu der Seite navigieren, sie wird aber automatisch mit einer Serverkomponente gerendert. Das bedeutet, dass der Code, der zum Rendern der Seite nötig ist, nicht in deinem clientseitigen Bundle enthalten ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

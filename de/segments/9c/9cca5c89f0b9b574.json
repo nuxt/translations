@@ -1,0 +1,14 @@
+{
+  "hash": "9cca5c89f0b9b574",
+  "source": "Using Nuxt Bridge, you can make sure your project is (almost) ready for Nuxt 3 and you can gradually proceed with the transition to Nuxt 3.",
+  "text": "Mit Nuxt Bridge kannst du sicherstellen, dass dein Projekt (fast) bereit für Nuxt 3 ist, und den Übergang zu Nuxt 3 schrittweise vollziehen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit Nuxt Bridge kannst du sicherstellen, dass dein Projekt (fast) bereit für Nuxt 3 ist, und den Übergang zu Nuxt 3 schrittweise vollziehen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

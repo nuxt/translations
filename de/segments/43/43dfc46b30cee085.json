@@ -1,0 +1,14 @@
+{
+  "hash": "43dfc46b30cee085",
+  "source": "**Shared State:** Be mindful of shared state ({0}) across multiple components. Updating the model in one component can trigger hydration in all components bound to that model.",
+  "text": "**Geteilter State:** Achte auf geteilten State ({0}) über mehrere Komponenten hinweg. Wird das Modell in einer Komponente aktualisiert, kann das die Hydration aller an dieses Modell gebundenen Komponenten auslösen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Geteilter State:** Achte auf geteilten State ({0}) über mehrere Komponenten hinweg. Wird das Modell in einer Komponente aktualisiert, kann das die Hydration aller an dieses Modell gebundenen Komponenten auslösen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

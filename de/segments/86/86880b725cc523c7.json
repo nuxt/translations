@@ -1,0 +1,14 @@
+{
+  "hash": "86880b725cc523c7",
+  "source": "Nuxt automatically scans files inside these directories to register API and server handlers with Hot Module Replacement (HMR) support.",
+  "text": "Nuxt durchsucht Dateien in diesen Verzeichnissen automatisch und registriert API- und Server-Handler mit Unterstützung für Hot Module Replacement (HMR).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt durchsucht Dateien in diesen Verzeichnissen automatisch und registriert API- und Server-Handler mit Unterstützung für Hot Module Replacement (HMR)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

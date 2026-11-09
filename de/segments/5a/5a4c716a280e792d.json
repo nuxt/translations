@@ -1,0 +1,14 @@
+{
+  "hash": "5a4c716a280e792d",
+  "source": "You can also opt in to this behavior today without setting {0}:",
+  "text": "Du kannst dieses Verhalten auch schon jetzt aktivieren, ohne {0} zu setzen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst dieses Verhalten auch schon jetzt aktivieren, ohne {0} zu setzen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

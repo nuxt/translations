@@ -1,0 +1,14 @@
+{
+  "hash": "0743ec370152c5ed",
+  "source": "That's it! Nuxt Fonts will detect this and you should immediately see the web font loaded in your browser. {0}Read more about how it works{/0}.",
+  "text": "Das war's! Nuxt Fonts erkennt das und du solltest die Web-Schriftart sofort in deinem Browser geladen sehen. {0}Mehr dazu, wie es funktioniert{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das war's! Nuxt Fonts erkennt das und du solltest die Web-Schriftart sofort in deinem Browser geladen sehen. {0}Mehr dazu, wie es funktioniert{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "ae6a070f97defd71",
+  "source": "Defines the subsets that should be downloaded for a font.",
+  "text": "Legt die Subsets fest, die für eine Schrift heruntergeladen werden sollen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Legt die Subsets fest, die für eine Schrift heruntergeladen werden sollen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "f0ad6a0c461100ec",
+  "source": "Browse the Nuxt Kit builder utilities used to register bundler plugins and build outputs.",
+  "text": "Entdecke die Builder-Hilfsfunktionen des Nuxt Kit, mit denen Bundler-Plugins und Build-Ausgaben registriert werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Entdecke die Builder-Hilfsfunktionen des Nuxt Kit, mit denen Bundler-Plugins und Build-Ausgaben registriert werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

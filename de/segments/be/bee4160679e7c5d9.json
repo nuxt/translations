@@ -1,0 +1,14 @@
+{
+  "hash": "bee4160679e7c5d9",
+  "source": "First, upgrade Nuxt to the {0}latest release{/0}.",
+  "text": "Aktualisiere zuerst Nuxt auf das {0}neueste Release{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Aktualisiere zuerst Nuxt auf das {0}neueste Release{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

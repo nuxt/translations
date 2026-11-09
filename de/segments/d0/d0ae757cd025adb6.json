@@ -1,0 +1,14 @@
+{
+  "hash": "d0ae757cd025adb6",
+  "source": "A name that would resolve outside the project is refused, so pass a path relative to the project without leading slashes or {0} segments.",
+  "text": "Ein Name, der außerhalb des Projekts aufgelöst würde, wird abgelehnt. Übergib daher einen zum Projekt relativen Pfad ohne führende Schrägstriche oder {0}-Segmente.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein Name, der außerhalb des Projekts aufgelöst würde, wird abgelehnt. Übergib daher einen zum Projekt relativen Pfad ohne führende Schrägstriche oder {0}-Segmente."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

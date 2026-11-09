@@ -1,0 +1,14 @@
+{
+  "hash": "73ddaca8957aeb9c",
+  "source": "Sets attributes of the {0} tag. Each object property is mapped to the corresponding attribute.",
+  "text": "Legt Attribute des Tags {0} fest. Jede Objekteigenschaft wird dem entsprechenden Attribut zugeordnet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Legt Attribute des Tags {0} fest. Jede Objekteigenschaft wird dem entsprechenden Attribut zugeordnet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

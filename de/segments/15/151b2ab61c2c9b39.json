@@ -1,0 +1,14 @@
+{
+  "hash": "151b2ab61c2c9b39",
+  "source": "{0} ({1}): The URL or request to fetch. Can be a string, a Request object, a Vue ref, or a function returning a string/Request. Supports reactivity for dynamic endpoints.",
+  "text": "{0} ({1}): Die URL oder Anfrage, die abgerufen werden soll. Kann ein String, ein Request-Objekt, eine Vue-Ref oder eine Funktion sein, die einen String bzw. Request zurückgibt. Unterstützt Reaktivität für dynamische Endpunkte.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ({1}): Die URL oder Anfrage, die abgerufen werden soll. Kann ein String, ein Request-Objekt, eine Vue-Ref oder eine Funktion sein, die einen String bzw. Request zurückgibt. Unterstützt Reaktivität für dynamische Endpunkte."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

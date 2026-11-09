@@ -1,0 +1,14 @@
+{
+  "hash": "c3a60346486bea81",
+  "source": "However, there are some cases where you might want to type it yourself. There are two possible things you might want to type.",
+  "text": "Es gibt jedoch Fälle, in denen du sie selbst typisieren möchtest. Dabei kommen zwei Dinge infrage.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Es gibt jedoch Fälle, in denen du sie selbst typisieren möchtest. Dabei kommen zwei Dinge infrage."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

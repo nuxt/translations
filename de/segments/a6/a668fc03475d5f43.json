@@ -1,0 +1,14 @@
+{
+  "hash": "a668fc03475d5f43",
+  "source": "Reaching Past the Surface",
+  "text": "Über die Oberfläche hinausgehen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Über die Oberfläche hinausgehen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

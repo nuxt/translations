@@ -1,0 +1,14 @@
+{
+  "hash": "4c5b5a9b0122d09d",
+  "source": "{0} uses a file whose name marks it as variable, and otherwise static files for each end of the range. See {1}variable fonts with the {2} provider{/1}.",
+  "text": "{0} verwendet eine Datei, deren Name sie als variabel kennzeichnet, andernfalls statische Dateien für beide Enden des Bereichs. Siehe {1}Variable Schriftarten mit dem Provider {2}{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} verwendet eine Datei, deren Name sie als variabel kennzeichnet, andernfalls statische Dateien für beide Enden des Bereichs. Siehe {1}Variable Schriftarten mit dem Provider {2}{/1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

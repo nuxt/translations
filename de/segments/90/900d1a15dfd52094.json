@@ -1,0 +1,14 @@
+{
+  "hash": "900d1a15dfd52094",
+  "source": "You'll need to add this environment variable to your production environment before deploying.",
+  "text": "Du musst diese Umgebungsvariable vor der Bereitstellung in deiner Produktionsumgebung hinzufügen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du musst diese Umgebungsvariable vor der Bereitstellung in deiner Produktionsumgebung hinzufügen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

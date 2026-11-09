@@ -1,0 +1,14 @@
+{
+  "hash": "a23b5baf9a3d8fc2",
+  "source": "Integrate AI tools into your Nuxt workflow with MCP Server and LLMs.txt.",
+  "text": "Integriere KI-Tools mit MCP Server und LLMs.txt in deinen Nuxt-Workflow.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Integriere KI-Tools mit MCP Server und LLMs.txt in deinen Nuxt-Workflow."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

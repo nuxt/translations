@@ -1,0 +1,14 @@
+{
+  "hash": "57513ff124b55c95",
+  "source": "or a function to determine inlining",
+  "text": "oder eine Funktion, die festlegt, ob inline eingebunden wird",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "oder eine Funktion, die festlegt, ob inline eingebunden wird"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

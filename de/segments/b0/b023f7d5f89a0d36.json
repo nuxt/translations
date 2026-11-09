@@ -1,0 +1,14 @@
+{
+  "hash": "b023f7d5f89a0d36",
+  "source": "Print request and response headers to stderr",
+  "text": "Header der Anfrage und der Antwort nach stderr ausgeben",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Header der Anfrage und der Antwort nach stderr ausgeben"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

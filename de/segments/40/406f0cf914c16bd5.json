@@ -1,0 +1,14 @@
+{
+  "hash": "406f0cf914c16bd5",
+  "source": "Remove common generated Nuxt files and caches.",
+  "text": "Entfernt gängige generierte Nuxt-Dateien und Caches.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Entfernt gängige generierte Nuxt-Dateien und Caches."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "a95252227a69f420",
+  "source": "Nuxt separates **what** to build from **how** to build it.",
+  "text": "Nuxt trennt, **was** erzeugt wird, davon, **wie** es erzeugt wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt trennt, **was** erzeugt wird, davon, **wie** es erzeugt wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "05d51b9802f57a55",
+  "source": "A maximum of 10 cache tarballs are kept.",
+  "text": "Es werden maximal 10 Cache-Tarballs aufbewahrt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Es werden maximal 10 Cache-Tarballs aufbewahrt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

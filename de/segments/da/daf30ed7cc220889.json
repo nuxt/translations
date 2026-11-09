@@ -1,0 +1,14 @@
+{
+  "hash": "daf30ed7cc220889",
+  "source": "This flag is enabled when {0} is set to {1} or higher, but you can also enable it explicitly:",
+  "text": "Dieses Flag ist aktiviert, wenn {0} auf {1} oder höher gesetzt ist, du kannst es aber auch explizit aktivieren:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dieses Flag ist aktiviert, wenn {0} auf {1} oder höher gesetzt ist, du kannst es aber auch explizit aktivieren:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

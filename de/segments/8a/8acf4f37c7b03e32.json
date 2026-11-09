@@ -1,0 +1,14 @@
+{
+  "hash": "8acf4f37c7b03e32",
+  "source": "Open the best match in a browser",
+  "text": "Den besten Treffer im Browser öffnen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Den besten Treffer im Browser öffnen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

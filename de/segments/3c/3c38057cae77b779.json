@@ -1,0 +1,14 @@
+{
+  "hash": "3c38057cae77b779",
+  "source": "If set to {0}, the callback function will be called when building the client bundle. **Deprecated in Nuxt 5+.** Use {1} instead.",
+  "text": "Bei {0} wird die Callback-Funktion aufgerufen, wenn das Client-Bundle erzeugt wird. **Ab Nuxt 5 nicht mehr empfohlen.** Verwende stattdessen {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bei {0} wird die Callback-Funktion aufgerufen, wenn das Client-Bundle erzeugt wird. **Ab Nuxt 5 nicht mehr empfohlen.** Verwende stattdessen {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

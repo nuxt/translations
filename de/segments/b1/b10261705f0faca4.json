@@ -1,0 +1,14 @@
+{
+  "hash": "b10261705f0faca4",
+  "source": "{0}: Options to control cookie behavior. The object can have the following properties:",
+  "text": "{0}: Optionen zur Steuerung des Cookie-Verhaltens. Das Objekt kann die folgenden Eigenschaften enthalten:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Optionen zur Steuerung des Cookie-Verhaltens. Das Objekt kann die folgenden Eigenschaften enthalten:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

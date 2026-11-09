@@ -1,0 +1,14 @@
+{
+  "hash": "72bbb371ed605bda",
+  "source": "**{0}**: Shows a message and holds it on screen until the user acknowledges it or {1} is called. {2} settles once the notice is gone.",
+  "text": "**{0}**: Zeigt eine Meldung an und hält sie auf dem Bildschirm, bis die Nutzenden sie bestätigen oder {1} aufgerufen wird. {2} wird abgeschlossen, sobald die Meldung verschwunden ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}**: Zeigt eine Meldung an und hält sie auf dem Bildschirm, bis die Nutzenden sie bestätigen oder {1} aufgerufen wird. {2} wird abgeschlossen, sobald die Meldung verschwunden ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

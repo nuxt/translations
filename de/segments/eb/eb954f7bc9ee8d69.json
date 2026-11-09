@@ -1,0 +1,14 @@
+{
+  "hash": "eb954f7bc9ee8d69",
+  "source": "Key Change Behavior in {0} and {1}",
+  "text": "Geändertes Verhalten bei Schlüsseln in {0} und {1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Geändertes Verhalten bei Schlüsseln in {0} und {1}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

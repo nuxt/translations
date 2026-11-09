@@ -1,0 +1,14 @@
+{
+  "hash": "b4e26e26d8d7293f",
+  "source": "This is useful for enforcing settings like authentication headers or a specific base URL that should not be changed by the caller.",
+  "text": "Das ist nützlich, um Einstellungen wie Authentifizierungs-Header oder eine bestimmte Basis-URL durchzusetzen, die der Aufrufer nicht ändern soll.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das ist nützlich, um Einstellungen wie Authentifizierungs-Header oder eine bestimmte Basis-URL durchzusetzen, die der Aufrufer nicht ändern soll."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "40259bc20028b153",
+  "source": "**Dropped**: {0}, {1}, {2} writes and h3 {3}/{4} calls made during component rendering (including after an {5} in route middleware or {6}), since that work happens after the shell is already on the wire.",
+  "text": "**Verworfen**: {0}-, {1}- und {2}-Schreibzugriffe sowie h3-{3}-/{4}-Aufrufe während des Renderns von Komponenten (auch nach einem {5} in der Routen-Middleware oder in {6}), da diese Arbeit erst erfolgt, nachdem die Hülle bereits übertragen wurde.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Verworfen**: {0}-, {1}- und {2}-Schreibzugriffe sowie h3-{3}-/{4}-Aufrufe während des Renderns von Komponenten (auch nach einem {5} in der Routen-Middleware oder in {6}), da diese Arbeit erst erfolgt, nachdem die Hülle bereits übertragen wurde."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

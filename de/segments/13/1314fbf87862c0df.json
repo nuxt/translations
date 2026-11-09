@@ -1,0 +1,14 @@
+{
+  "hash": "1314fbf87862c0df",
+  "source": "👉 For more details, see the {0}PR implementing this change{/0}.",
+  "text": "👉 Weitere Details findest du im {0}PR, der diese Änderung umsetzt{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "👉 Weitere Details findest du im {0}PR, der diese Änderung umsetzt{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

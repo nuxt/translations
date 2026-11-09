@@ -1,0 +1,14 @@
+{
+  "hash": "87d44d21b3d58aee",
+  "source": "**Solution**: Use concepts such as Progressive Enhancement where core webpage content is set first, then more nuanced and technically rigorous layers of presentation and features are added on top as the browser/internet connection allow.",
+  "text": "**Lösung**: Nutze Konzepte wie Progressive Enhancement, bei dem zuerst der Kerninhalt der Seite bereitgestellt wird und anschließend, je nach Möglichkeiten des Browsers und der Internetverbindung, differenziertere und technisch anspruchsvollere Darstellungs- und Funktionsebenen hinzugefügt werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Lösung**: Nutze Konzepte wie Progressive Enhancement, bei dem zuerst der Kerninhalt der Seite bereitgestellt wird und anschließend, je nach Möglichkeiten des Browsers und der Internetverbindung, differenziertere und technisch anspruchsvollere Darstellungs- und Funktionsebenen hinzugefügt werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

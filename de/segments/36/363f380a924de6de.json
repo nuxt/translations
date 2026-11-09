@@ -1,0 +1,14 @@
+{
+  "hash": "363f380a924de6de",
+  "source": "abortNavigation is a helper function that prevents navigation from taking place and throws an error if one is set as a parameter.",
+  "text": "abortNavigation ist eine Hilfsfunktion, die verhindert, dass eine Navigation stattfindet, und einen Fehler auslöst, sofern einer als Parameter übergeben wurde.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "abortNavigation ist eine Hilfsfunktion, die verhindert, dass eine Navigation stattfindet, und einen Fehler auslöst, sofern einer als Parameter übergeben wurde."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

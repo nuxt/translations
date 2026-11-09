@@ -1,0 +1,14 @@
+{
+  "hash": "f9529897bf2c1a3e",
+  "source": "This is useful when:",
+  "text": "Das ist nützlich, wenn:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das ist nützlich, wenn:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

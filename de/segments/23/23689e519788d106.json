@@ -1,0 +1,14 @@
+{
+  "hash": "23689e519788d106",
+  "source": "If you still have issues you may revert to the v1 behavior by enabling the {0} config.",
+  "text": "Wenn weiterhin Probleme auftreten, kannst du das Verhalten von v1 über die Konfiguration {0} wiederherstellen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn weiterhin Probleme auftreten, kannst du das Verhalten von v1 über die Konfiguration {0} wiederherstellen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

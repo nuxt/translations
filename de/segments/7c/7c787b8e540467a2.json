@@ -1,0 +1,14 @@
+{
+  "hash": "7c787b8e540467a2",
+  "source": "Server lifecycle",
+  "text": "Server-Lifecycle",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Server-Lifecycle"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

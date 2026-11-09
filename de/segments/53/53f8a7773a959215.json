@@ -1,0 +1,14 @@
+{
+  "hash": "53f8a7773a959215",
+  "source": "Uses the hash hydration plugin to reduce initial hydration",
+  "text": "Verwendet das Hash-Hydration-Plugin, um die anfängliche Hydration zu verringern",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwendet das Hash-Hydration-Plugin, um die anfängliche Hydration zu verringern"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

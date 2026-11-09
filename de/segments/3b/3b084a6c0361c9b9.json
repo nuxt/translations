@@ -1,0 +1,14 @@
+{
+  "hash": "3b084a6c0361c9b9",
+  "source": "**Test thoroughly**: Ensure all functionality works as expected with the corrected order",
+  "text": "**Gründlich testen**: Stelle sicher, dass alle Funktionen mit der korrigierten Reihenfolge wie erwartet arbeiten",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Gründlich testen**: Stelle sicher, dass alle Funktionen mit der korrigierten Reihenfolge wie erwartet arbeiten"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

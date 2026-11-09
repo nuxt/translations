@@ -1,0 +1,14 @@
+{
+  "hash": "52602a21d55889e4",
+  "source": "Nuxt Bridge implements the Composition API slightly differently from {0} and provides different composables (designed to be aligned with the composables that Nuxt 3 provides).",
+  "text": "Nuxt Bridge implementiert die Composition API etwas anders als {0} und stellt andere Composables bereit (die darauf ausgelegt sind, mit den Composables von Nuxt 3 übereinzustimmen).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Bridge implementiert die Composition API etwas anders als {0} und stellt andere Composables bereit (die darauf ausgelegt sind, mit den Composables von Nuxt 3 übereinzustimmen)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

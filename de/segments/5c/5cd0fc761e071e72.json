@@ -1,0 +1,14 @@
+{
+  "hash": "5cd0fc761e071e72",
+  "source": "The Development Server",
+  "text": "Der Entwicklungsserver",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Entwicklungsserver"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

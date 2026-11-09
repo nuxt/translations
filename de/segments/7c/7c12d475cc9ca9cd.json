@@ -1,0 +1,14 @@
+{
+  "hash": "7c12d475cc9ca9cd",
+  "source": "It will automatically import the components only if used and also support HMR when updating your components in {0}.",
+  "text": "Die Komponenten werden automatisch nur importiert, wenn sie verwendet werden, und es wird auch HMR unterstützt, wenn du deine Komponenten in {0} aktualisierst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Komponenten werden automatisch nur importiert, wenn sie verwendet werden, und es wird auch HMR unterstützt, wenn du deine Komponenten in {0} aktualisierst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

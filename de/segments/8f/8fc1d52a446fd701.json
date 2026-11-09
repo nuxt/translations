@@ -1,0 +1,14 @@
+{
+  "hash": "8fc1d52a446fd701",
+  "source": "{0} - For your server-side code (Nitro/server directory)",
+  "text": "{0} – für deinen serverseitigen Code (Nitro/Server-Verzeichnis)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} – für deinen serverseitigen Code (Nitro/Server-Verzeichnis)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

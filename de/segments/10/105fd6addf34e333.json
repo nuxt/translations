@@ -1,0 +1,14 @@
+{
+  "hash": "105fd6addf34e333",
+  "source": "Module configuration and hooks work as expected in multi-layer setups",
+  "text": "Modulkonfiguration und Hooks in Setups mit mehreren Layern wie erwartet funktionieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Modulkonfiguration und Hooks in Setups mit mehreren Layern wie erwartet funktionieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "f87455b627b11ba7",
+  "source": "Enables View Transition API integration with client-side router.",
+  "text": "Aktiviert die Integration der View Transition API in den clientseitigen Router.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Aktiviert die Integration der View Transition API in den clientseitigen Router."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "fed9b162e0261599",
+  "source": "By default, neither the headers from the incoming request nor the request context are forwarded when making fetch requests in server routes. You can use {0} to forward the request context and headers when making fetch requests in server routes.",
+  "text": "Standardmäßig werden weder die Header der eingehenden Anfrage noch der Anfragekontext weitergeleitet, wenn in Server-Routen Fetch-Anfragen gestellt werden. Mit {0} kannst du den Anfragekontext und die Header bei Fetch-Anfragen in Server-Routen weiterleiten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardmäßig werden weder die Header der eingehenden Anfrage noch der Anfragekontext weitergeleitet, wenn in Server-Routen Fetch-Anfragen gestellt werden. Mit {0} kannst du den Anfragekontext und die Header bei Fetch-Anfragen in Server-Routen weiterleiten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

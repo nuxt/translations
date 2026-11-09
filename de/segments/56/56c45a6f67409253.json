@@ -1,0 +1,14 @@
+{
+  "hash": "56c45a6f67409253",
+  "source": "a new {0} directory is available for code shared between the Vue app and the Nitro server, with auto-imports for {1} and {2}",
+  "text": "Ein neues Verzeichnis {0} steht für Code zur Verfügung, der von der Vue-App und dem Nitro-Server gemeinsam genutzt wird, mit automatischen Importen für {1} und {2}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein neues Verzeichnis {0} steht für Code zur Verfügung, der von der Vue-App und dem Nitro-Server gemeinsam genutzt wird, mit automatischen Importen für {1} und {2}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "61ea51b2ef0facf0",
+  "source": "Reactivity",
+  "text": "Reaktivität",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Reaktivität"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "722de3e35ec25dcd",
+  "source": "In development, the target's environment runs the same entry from its own module graph, so a worker entry like this also runs under {0}, in the target's runtime (workerd, for example). Errors raised there are reported in the development error overlay.",
+  "text": "In der Entwicklung führt die Umgebung des Targets denselben Entry aus ihrem eigenen Modulgraphen aus, sodass ein solcher Worker-Entry auch unter {0} in der Laufzeitumgebung des Targets läuft (zum Beispiel workerd). Dort auftretende Fehler werden im Fehler-Overlay der Entwicklung angezeigt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In der Entwicklung führt die Umgebung des Targets denselben Entry aus ihrem eigenen Modulgraphen aus, sodass ein solcher Worker-Entry auch unter {0} in der Laufzeitumgebung des Targets läuft (zum Beispiel workerd). Dort auftretende Fehler werden im Fehler-Overlay der Entwicklung angezeigt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b3ae04a67e242df7",
+  "source": "Module body re-exporting the SSR app entry.",
+  "text": "Modulinhalt, der den SSR-App-Entry erneut exportiert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Modulinhalt, der den SSR-App-Entry erneut exportiert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

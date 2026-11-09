@@ -1,0 +1,14 @@
+{
+  "hash": "fdd11f5ae7390dc6",
+  "source": "However, **we do not recommend** using this low-level function definition. Instead, to define a module, **we recommend** using the object-syntax with {0} property to identify your module, especially when publishing to npm.",
+  "text": "Wir **empfehlen jedoch nicht**, diese Funktionsdefinition auf niedriger Ebene zu verwenden. Stattdessen **empfehlen wir**, ein Modul mit der Objektsyntax zu definieren und es über die Eigenschaft {0} zu kennzeichnen, insbesondere wenn du es auf npm veröffentlichst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wir **empfehlen jedoch nicht**, diese Funktionsdefinition auf niedriger Ebene zu verwenden. Stattdessen **empfehlen wir**, ein Modul mit der Objektsyntax zu definieren und es über die Eigenschaft {0} zu kennzeichnen, insbesondere wenn du es auf npm veröffentlichst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

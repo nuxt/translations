@@ -1,0 +1,14 @@
+{
+  "hash": "1f8c919e34f00984",
+  "source": "With {0}experimental view transitions{/0} enabled, these pages also opt into cross-document view transitions, so a full-page navigation animates rather than flashing:",
+  "text": "Wenn {0}experimentelle View Transitions{/0} aktiviert sind, nutzen diese Seiten außerdem dokumentübergreifende View Transitions, sodass eine Navigation mit vollständigem Seitenaufruf animiert wird, statt zu flackern:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn {0}experimentelle View Transitions{/0} aktiviert sind, nutzen diese Seiten außerdem dokumentübergreifende View Transitions, sodass eine Navigation mit vollständigem Seitenaufruf animiert wird, statt zu flackern:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

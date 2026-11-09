@@ -1,0 +1,14 @@
+{
+  "hash": "c3c9a498233c87f6",
+  "source": "Nuxt is powered by the {0}Nitro{/0} server engine. With Nitro, you can incorporate high-level logic directly into your configuration, which is useful for actions like redirects, proxying, caching, and appending headers to routes. This configuration works by associating route patterns with specific route settings.",
+  "text": "Nuxt basiert auf der Server-Engine {0}Nitro{/0}. Mit Nitro kannst du übergeordnete Logik direkt in deine Konfiguration einbinden. Das ist nützlich für Aktionen wie Weiterleitungen, Proxying, Caching und das Anfügen von Headern an Routen. Diese Konfiguration funktioniert, indem Routenmuster mit bestimmten Routeneinstellungen verknüpft werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt basiert auf der Server-Engine {0}Nitro{/0}. Mit Nitro kannst du übergeordnete Logik direkt in deine Konfiguration einbinden. Das ist nützlich für Aktionen wie Weiterleitungen, Proxying, Caching und das Anfügen von Headern an Routen. Diese Konfiguration funktioniert, indem Routenmuster mit bestimmten Routeneinstellungen verknüpft werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

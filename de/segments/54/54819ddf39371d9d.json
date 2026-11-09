@@ -1,0 +1,14 @@
+{
+  "hash": "54819ddf39371d9d",
+  "source": "**template**: A template object or a string with the path to the template. If a string is provided, it will be converted to a template object with {0} set to the string value. If a template object is provided, it must have the following properties:",
+  "text": "**template**: Ein Vorlagenobjekt oder ein String mit dem Pfad zur Vorlage. Wird ein String übergeben, wird er in ein Vorlagenobjekt umgewandelt, bei dem {0} auf diesen String gesetzt ist. Wird ein Vorlagenobjekt übergeben, muss es die folgenden Eigenschaften besitzen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**template**: Ein Vorlagenobjekt oder ein String mit dem Pfad zur Vorlage. Wird ein String übergeben, wird er in ein Vorlagenobjekt umgewandelt, bei dem {0} auf diesen String gesetzt ist. Wird ein Vorlagenobjekt übergeben, muss es die folgenden Eigenschaften besitzen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

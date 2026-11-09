@@ -1,0 +1,14 @@
+{
+  "hash": "228d725fd2c27e6a",
+  "source": "Update Commands",
+  "text": "Befehle aktualisieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Befehle aktualisieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

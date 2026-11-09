@@ -1,0 +1,14 @@
+{
+  "hash": "70ffe25a6c7c6ad7",
+  "source": "Shared build configuration.",
+  "text": "Gemeinsame Build-Konfiguration.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gemeinsame Build-Konfiguration."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

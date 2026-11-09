@@ -1,0 +1,14 @@
+{
+  "hash": "47cd42ce63e4f984",
+  "source": "Each run is written to its own directory inside {0}, named after {1} ({2} when omitted), so you can keep several runs side by side, for example {3} and {4}. Running again with the same name replaces that run only. Characters other than letters, digits, {5} and {6} are replaced with {7} in the directory name, so {8} and {9} share the same directory. If you set {10}, the client report is written to that path instead. With Nuxt 3 and 4, {11} does the same for the Nitro report.",
+  "text": "Jeder Durchlauf wird in ein eigenes Verzeichnis innerhalb von {0} geschrieben, benannt nach {1} ({2}, wenn nicht angegeben), sodass du mehrere Durchläufe nebeneinander aufbewahren kannst, z. B. {3} und {4}. Ein erneuter Durchlauf mit demselben Namen ersetzt nur diesen Durchlauf. Zeichen außer Buchstaben, Ziffern, {5} und {6} werden im Verzeichnisnamen durch {7} ersetzt, daher teilen sich {8} und {9} dasselbe Verzeichnis. Wenn du {10} setzt, wird der Client-Bericht stattdessen in diesen Pfad geschrieben. Mit Nuxt 3 und 4 bewirkt {11} dasselbe für den Nitro-Bericht.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Jeder Durchlauf wird in ein eigenes Verzeichnis innerhalb von {0} geschrieben, benannt nach {1} ({2}, wenn nicht angegeben), sodass du mehrere Durchläufe nebeneinander aufbewahren kannst, z. B. {3} und {4}. Ein erneuter Durchlauf mit demselben Namen ersetzt nur diesen Durchlauf. Zeichen außer Buchstaben, Ziffern, {5} und {6} werden im Verzeichnisnamen durch {7} ersetzt, daher teilen sich {8} und {9} dasselbe Verzeichnis. Wenn du {10} setzt, wird der Client-Bericht stattdessen in diesen Pfad geschrieben. Mit Nuxt 3 und 4 bewirkt {11} dasselbe für den Nitro-Bericht."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

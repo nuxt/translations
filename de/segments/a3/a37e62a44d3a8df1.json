@@ -1,0 +1,14 @@
+{
+  "hash": "a37e62a44d3a8df1",
+  "source": "The module to install. Can be either a string with the module name or a module object itself.",
+  "text": "Das zu installierende Modul. Kann entweder ein String mit dem Modulnamen oder ein Modulobjekt selbst sein.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das zu installierende Modul. Kann entweder ein String mit dem Modulnamen oder ein Modulobjekt selbst sein."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "29fcc6daffd62fae",
+  "source": "Nuxt can be deployed to several cloud providers with a minimal amount of configuration:",
+  "text": "Nuxt lässt sich mit minimaler Konfiguration bei mehreren Cloud-Anbietern bereitstellen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt lässt sich mit minimaler Konfiguration bei mehreren Cloud-Anbietern bereitstellen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

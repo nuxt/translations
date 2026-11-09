@@ -1,0 +1,14 @@
+{
+  "hash": "79cce5cdb2dfc4d9",
+  "source": "Chooses the values this family's variable font is shipped at, with an array of values for each OpenType axis tag.",
+  "text": "Wählt die Werte aus, mit denen die Variable Font dieser Familie ausgeliefert wird, mit einem Array von Werten für jedes OpenType-Achsen-Tag.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wählt die Werte aus, mit denen die Variable Font dieser Familie ausgeliefert wird, mit einem Array von Werten für jedes OpenType-Achsen-Tag."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

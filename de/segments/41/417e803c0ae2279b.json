@@ -1,0 +1,14 @@
+{
+  "hash": "417e803c0ae2279b",
+  "source": "Ensure module gets installed only once using a unique key computed from {0} or {1}",
+  "text": "Sicherstellen, dass das Modul nur einmal installiert wird, mithilfe eines eindeutigen Schlüssels, der aus {0} oder {1} berechnet wird",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sicherstellen, dass das Modul nur einmal installiert wird, mithilfe eines eindeutigen Schlüssels, der aus {0} oder {1} berechnet wird"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

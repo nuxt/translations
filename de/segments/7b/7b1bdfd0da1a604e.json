@@ -1,0 +1,14 @@
+{
+  "hash": "7b1bdfd0da1a604e",
+  "source": "In either case, they work in the same way.",
+  "text": "In beiden Fällen funktionieren sie auf dieselbe Weise.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In beiden Fällen funktionieren sie auf dieselbe Weise."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

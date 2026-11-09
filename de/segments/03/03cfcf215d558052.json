@@ -1,0 +1,14 @@
+{
+  "hash": "03cfcf215d558052",
+  "source": "Completions work through your package manager too ({0}), if you install {1}tab's package manager completions{/1}.",
+  "text": "Die Autovervollständigung funktioniert auch über deinen Paketmanager ({0}), wenn du die {1}Paketmanager-Vervollständigungen von tab{/1} installierst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Autovervollständigung funktioniert auch über deinen Paketmanager ({0}), wenn du die {1}Paketmanager-Vervollständigungen von tab{/1} installierst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

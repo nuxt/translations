@@ -1,0 +1,14 @@
+{
+  "hash": "3ad179a415e64a21",
+  "source": "This will NOT forward headers or cookies during SSR",
+  "text": "Dies leitet beim SSR weder Header noch Cookies weiter",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dies leitet beim SSR weder Header noch Cookies weiter"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

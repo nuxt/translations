@@ -1,0 +1,14 @@
+{
+  "hash": "29005a0f8fa0092b",
+  "source": "This only works within a server component. Slots for client components are working only with {0} set to {1} and since they are rendered server-side, they are not interactive once client-side.",
+  "text": "Das funktioniert nur innerhalb einer Serverkomponente. Slots für Client-Komponenten funktionieren nur, wenn {0} auf {1} gesetzt ist. Da sie serverseitig gerendert werden, sind sie auf der Client-Seite nicht interaktiv.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das funktioniert nur innerhalb einer Serverkomponente. Slots für Client-Komponenten funktionieren nur, wenn {0} auf {1} gesetzt ist. Da sie serverseitig gerendert werden, sind sie auf der Client-Seite nicht interaktiv."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "0ae83a9dbf947519",
+  "source": "If you want to override page metadata, do that in {0} rather than in {1}.",
+  "text": "Wenn du Seiten-Metadaten überschreiben möchtest, tu das in {0} und nicht in {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du Seiten-Metadaten überschreiben möchtest, tu das in {0} und nicht in {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

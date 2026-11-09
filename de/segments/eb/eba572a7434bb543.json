@@ -1,0 +1,14 @@
+{
+  "hash": "eba572a7434bb543",
+  "source": "Resolvable path for the current file.",
+  "text": "Auflösbarer Pfad der aktuellen Datei.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auflösbarer Pfad der aktuellen Datei."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

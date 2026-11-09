@@ -1,0 +1,14 @@
+{
+  "hash": "81bc6aa5a870042b",
+  "source": "you can choose between {0}, {1}, {2} and {3} for end-to-end test runners",
+  "text": "Als Test-Runner für End-to-End-Tests kannst du zwischen {0}, {1}, {2} und {3} wählen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Als Test-Runner für End-to-End-Tests kannst du zwischen {0}, {1}, {2} und {3} wählen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

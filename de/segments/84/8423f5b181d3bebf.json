@@ -1,0 +1,14 @@
+{
+  "hash": "8423f5b181d3bebf",
+  "source": "Nitro v3 dropped typed fetch, and the old implementation did not scale past about 300 routes. The new generated route types cost the same to check whatever the route count, and carry enough information to type the request as well as the response. {0} is dropped so the name is free for named route parameters later.",
+  "text": "Nitro v3 hat Typed Fetch entfernt, und die alte Implementierung skalierte nicht über etwa 300 Routen hinaus. Die neuen generierten Routentypen sind unabhängig von der Anzahl der Routen gleich aufwendig zu prüfen und enthalten genügend Informationen, um neben der Antwort auch die Anfrage zu typisieren. {0} wird entfernt, damit der Name später für benannte Routenparameter frei ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nitro v3 hat Typed Fetch entfernt, und die alte Implementierung skalierte nicht über etwa 300 Routen hinaus. Die neuen generierten Routentypen sind unabhängig von der Anzahl der Routen gleich aufwendig zu prüfen und enthalten genügend Informationen, um neben der Antwort auch die Anfrage zu typisieren. {0} wird entfernt, damit der Name später für benannte Routenparameter frei ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

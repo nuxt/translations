@@ -1,0 +1,14 @@
+{
+  "hash": "b0fe2fa81052d0ba",
+  "source": "{0} - app type context (except for the {1} directory)",
+  "text": "{0} – App-Typkontext (mit Ausnahme des Verzeichnisses {1})",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} – App-Typkontext (mit Ausnahme des Verzeichnisses {1})"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

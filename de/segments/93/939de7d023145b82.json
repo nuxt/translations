@@ -1,0 +1,14 @@
+{
+  "hash": "939de7d023145b82",
+  "source": "Often users set an appropriately empty value, such as an empty array, to avoid the need to check for {0}/{1} when iterating over it. This should be respected when resetting/clearing the data.",
+  "text": "Nutzende setzen häufig einen passenden leeren Wert, etwa ein leeres Array, um beim Iterieren nicht auf {0}/{1} prüfen zu müssen. Das sollte beim Zurücksetzen der Daten berücksichtigt werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nutzende setzen häufig einen passenden leeren Wert, etwa ein leeres Array, um beim Iterieren nicht auf {0}/{1} prüfen zu müssen. Das sollte beim Zurücksetzen der Daten berücksichtigt werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "283fc84fab29b4c0",
+  "source": "Nuxt provides file-based routing to create routes within your web application.",
+  "text": "Nuxt bietet dateibasiertes Routing, um Routen in deiner Web-Anwendung zu erstellen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt bietet dateibasiertes Routing, um Routen in deiner Web-Anwendung zu erstellen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

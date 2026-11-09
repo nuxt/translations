@@ -1,0 +1,14 @@
+{
+  "hash": "9dcff095bc18589f",
+  "source": "Nitro produces a standalone server dist that is independent of {0}.",
+  "text": "Nitro erzeugt ein eigenständiges Server-Dist, das unabhängig von {0} ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nitro erzeugt ein eigenständiges Server-Dist, das unabhängig von {0} ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

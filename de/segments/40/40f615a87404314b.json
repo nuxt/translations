@@ -1,0 +1,14 @@
+{
+  "hash": "40f615a87404314b",
+  "source": "External navigation without external: true.",
+  "text": "Externe Navigation ohne external: true.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Externe Navigation ohne external: true."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "0ad37707c22f4bdb",
+  "source": "The example below demonstrates a simple plugin that adds global functionality:",
+  "text": "Das folgende Beispiel zeigt ein einfaches Plugin, das globale Funktionalität hinzufügt:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das folgende Beispiel zeigt ein einfaches Plugin, das globale Funktionalität hinzufügt:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "f7ff82aba8ece9da",
+  "source": "Since {0} uses {1} under the hood, the component lifecycle behavior during page changes differs from that of a typical Vue application.",
+  "text": "Da {0} im Hintergrund {1} verwendet, unterscheidet sich das Lebenszyklusverhalten der Komponenten bei Seitenwechseln von dem einer typischen Vue-Anwendung.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Da {0} im Hintergrund {1} verwendet, unterscheidet sich das Lebenszyklusverhalten der Komponenten bei Seitenwechseln von dem einer typischen Vue-Anwendung."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

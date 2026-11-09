@@ -1,0 +1,14 @@
+{
+  "hash": "48e7ac78d57e7943",
+  "source": "The scoped attribute allows you to style components in isolation. The styles declared with this attribute will only apply to this component.",
+  "text": "Mit dem Attribut scoped kannst du Komponenten isoliert stylen. Die mit diesem Attribut deklarierten Styles gelten nur für diese Komponente.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit dem Attribut scoped kannst du Komponenten isoliert stylen. Die mit diesem Attribut deklarierten Styles gelten nur für diese Komponente."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

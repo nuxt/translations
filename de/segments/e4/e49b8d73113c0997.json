@@ -1,0 +1,14 @@
+{
+  "hash": "e49b8d73113c0997",
+  "source": "Extensions supported by Nuxt builder.",
+  "text": "Vom Nuxt-Builder unterstützte Erweiterungen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vom Nuxt-Builder unterstützte Erweiterungen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

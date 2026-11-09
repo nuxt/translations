@@ -1,0 +1,14 @@
+{
+  "hash": "109539ab0b1ef53a",
+  "source": "If your module has no server code, nothing here applies.",
+  "text": "Wenn dein Modul keinen Servercode enthält, ist hier nichts für dich relevant.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn dein Modul keinen Servercode enthält, ist hier nichts für dich relevant."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

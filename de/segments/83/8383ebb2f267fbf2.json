@@ -1,0 +1,14 @@
+{
+  "hash": "8383ebb2f267fbf2",
+  "source": "Remove lockfile ({0}, {1}, {2}, {3} or {4}) and reinstall dependencies.",
+  "text": "Entferne die Lockfile ({0}, {1}, {2}, {3} oder {4}) und installiere die Abhängigkeiten neu.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Entferne die Lockfile ({0}, {1}, {2}, {3} oder {4}) und installiere die Abhängigkeiten neu."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

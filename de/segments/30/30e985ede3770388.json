@@ -1,0 +1,14 @@
+{
+  "hash": "30e985ede3770388",
+  "source": "Slots can be passed to an island component if declared.",
+  "text": "Slots können an eine Island-Komponente übergeben werden, wenn sie deklariert sind.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Slots können an eine Island-Komponente übergeben werden, wenn sie deklariert sind."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

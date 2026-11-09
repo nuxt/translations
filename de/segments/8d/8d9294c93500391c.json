@@ -1,0 +1,14 @@
+{
+  "hash": "8d9294c93500391c",
+  "source": "or opt out entirely",
+  "text": "oder das Vorladen komplett deaktivieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "oder das Vorladen komplett deaktivieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

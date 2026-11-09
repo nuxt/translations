@@ -1,0 +1,14 @@
+{
+  "hash": "4856b7a8e974d13a",
+  "source": "Style with utility classes (Tailwind, UnoCSS): utility CSS lives in the entry stylesheet, not per-component {0} blocks.",
+  "text": "Style mit Utility-Klassen (Tailwind, UnoCSS): Utility-CSS liegt im Entry-Stylesheet und nicht in {0}-Blöcken einzelner Komponenten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Style mit Utility-Klassen (Tailwind, UnoCSS): Utility-CSS liegt im Entry-Stylesheet und nicht in {0}-Blöcken einzelner Komponenten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

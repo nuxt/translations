@@ -1,0 +1,14 @@
+{
+  "hash": "42f1981e93e65828",
+  "source": "Explore all Nuxt Internals: Components, Composables, Utils, Commands and more.",
+  "text": "Entdecke alle Nuxt-Interna: Komponenten, Composables, Hilfsfunktionen, Befehle und mehr.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Entdecke alle Nuxt-Interna: Komponenten, Composables, Hilfsfunktionen, Befehle und mehr."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

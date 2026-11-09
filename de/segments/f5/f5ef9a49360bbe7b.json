@@ -1,0 +1,14 @@
+{
+  "hash": "f5ef9a49360bbe7b",
+  "source": "Server Imports Move to {0}",
+  "text": "Server-Importe wandern nach {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Server-Importe wandern nach {0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

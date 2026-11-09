@@ -1,0 +1,14 @@
+{
+  "hash": "c35a57fb31e4a18b",
+  "source": "Running {0} will install the Nuxt DevTools globally, and also enable it within the particular project you are using. It is saved as a preference in your user-level {1}. If you want to remove devtools support for a particular project, you can run {2}.",
+  "text": "Wenn du {0} ausführst, wird Nuxt DevTools global installiert und zusätzlich im jeweiligen Projekt aktiviert, das du gerade verwendest. Die Einstellung wird als Präferenz in deiner {1} auf Nutzendenebene gespeichert. Wenn du die DevTools-Unterstützung für ein bestimmtes Projekt entfernen möchtest, kannst du {2} ausführen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du {0} ausführst, wird Nuxt DevTools global installiert und zusätzlich im jeweiligen Projekt aktiviert, das du gerade verwendest. Die Einstellung wird als Präferenz in deiner {1} auf Nutzendenebene gespeichert. Wenn du die DevTools-Unterstützung für ein bestimmtes Projekt entfernen möchtest, kannst du {2} ausführen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

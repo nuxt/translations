@@ -1,0 +1,14 @@
+{
+  "hash": "655a2dd1e96c9dbd",
+  "source": "A test runner powered by {0}Vitest{/0}, run it with {1} or {2}",
+  "text": "Ein Test-Runner auf Basis von {0}Vitest{/0}, den du mit {1} oder {2} ausführst",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein Test-Runner auf Basis von {0}Vitest{/0}, den du mit {1} oder {2} ausführst"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

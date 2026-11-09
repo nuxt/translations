@@ -1,0 +1,14 @@
+{
+  "hash": "32221552019c819d",
+  "source": "TypeScript comes with certain checks to give you more safety and analysis of your program. Once you’ve converted your codebase to TypeScript, you can start enabling these checks for greater safety. {0}Read More{/0}",
+  "text": "TypeScript bringt bestimmte Prüfungen mit, die dir mehr Sicherheit und Analysen für dein Programm bieten. Sobald du deine Codebasis zu TypeScript migriert hast, kannst du diese Prüfungen für mehr Sicherheit aktivieren. {0}Mehr erfahren{/0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "TypeScript bringt bestimmte Prüfungen mit, die dir mehr Sicherheit und Analysen für dein Programm bieten. Sobald du deine Codebasis zu TypeScript migriert hast, kannst du diese Prüfungen für mehr Sicherheit aktivieren. {0}Mehr erfahren{/0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

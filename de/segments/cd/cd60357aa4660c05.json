@@ -1,0 +1,14 @@
+{
+  "hash": "cd60357aa4660c05",
+  "source": "**description**: emitted when {0} fails to fetch the new island.",
+  "text": "**description**: Wird ausgelöst, wenn {0} das neue Island nicht abrufen kann.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**description**: Wird ausgelöst, wenn {0} das neue Island nicht abrufen kann."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

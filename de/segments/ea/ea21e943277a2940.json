@@ -1,0 +1,14 @@
+{
+  "hash": "ea21e943277a2940",
+  "source": "You can now configure whether font resolution errors should throw or just warn:",
+  "text": "Du kannst jetzt festlegen, ob Fehler bei der Schriftauflösung einen Fehler auslösen oder nur eine Warnung ausgeben sollen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst jetzt festlegen, ob Fehler bei der Schriftauflösung einen Fehler auslösen oder nur eine Warnung ausgeben sollen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

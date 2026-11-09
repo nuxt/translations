@@ -1,0 +1,14 @@
+{
+  "hash": "d8c734b68ec6a3af",
+  "source": "**Development speed**: When working entirely on the client-side, we don't have to worry about the server compatibility of the code, for example, by using browser-only APIs like the {0} object.",
+  "text": "**Entwicklungsgeschwindigkeit**: Wenn du ausschließlich clientseitig arbeitest, musst du dir keine Gedanken über die Servertauglichkeit des Codes machen, etwa bei der Verwendung reiner Browser-APIs wie dem {0}-Objekt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Entwicklungsgeschwindigkeit**: Wenn du ausschließlich clientseitig arbeitest, musst du dir keine Gedanken über die Servertauglichkeit des Codes machen, etwa bei der Verwendung reiner Browser-APIs wie dem {0}-Objekt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

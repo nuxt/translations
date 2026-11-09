@@ -1,0 +1,14 @@
+{
+  "hash": "16856481ac82ca1f",
+  "source": "This previously used the {0} composable, but it has been deprecated in favor of this approach.",
+  "text": "Früher wurde dafür das Composable {0} verwendet, es wird jedoch zugunsten dieses Ansatzes nicht mehr empfohlen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Früher wurde dafür das Composable {0} verwendet, es wird jedoch zugunsten dieses Ansatzes nicht mehr empfohlen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "22cd470b8f4acbb5",
+  "source": "To override the global transition property, use the {0} to define page or layout transitions for a single Nuxt page and override any page or layout transitions that are defined globally in {1} file.",
+  "text": "Um die globale Übergangseigenschaft zu überschreiben, verwende {0}, um Seiten- oder Layout-Übergänge für eine einzelne Nuxt-Seite zu definieren und alle Seiten- oder Layout-Übergänge zu überschreiben, die global in der Datei {1} festgelegt sind.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um die globale Übergangseigenschaft zu überschreiben, verwende {0}, um Seiten- oder Layout-Übergänge für eine einzelne Nuxt-Seite zu definieren und alle Seiten- oder Layout-Übergänge zu überschreiben, die global in der Datei {1} festgelegt sind."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "d7080fa715c241d2",
+  "source": "Route middleware are stored in the {0} of your Nuxt application (unless {1}set otherwise{/1}).",
+  "text": "Routen-Middleware wird im Verzeichnis {0} deiner Nuxt-Anwendung gespeichert (sofern nicht {1}anders festgelegt{/1}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Routen-Middleware wird im Verzeichnis {0} deiner Nuxt-Anwendung gespeichert (sofern nicht {1}anders festgelegt{/1})."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

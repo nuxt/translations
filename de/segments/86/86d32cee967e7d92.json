@@ -1,0 +1,14 @@
+{
+  "hash": "86d32cee967e7d92",
+  "source": "during prerendering ({0} or {1} route rules), island responses are cached, so identical islands (same name, props and context) are rendered once and reused",
+  "text": "beim Vorab-Rendering (Routenregeln {0} oder {1}) werden Island-Antworten zwischengespeichert, sodass identische Islands (gleicher Name, gleiche Props und gleicher Kontext) einmal gerendert und wiederverwendet werden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "beim Vorab-Rendering (Routenregeln {0} oder {1}) werden Island-Antworten zwischengespeichert, sodass identische Islands (gleicher Name, gleiche Props und gleicher Kontext) einmal gerendert und wiederverwendet werden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

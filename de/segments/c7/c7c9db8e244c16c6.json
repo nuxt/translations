@@ -1,0 +1,14 @@
+{
+  "hash": "c7c9db8e244c16c6",
+  "source": "To enable type-checking at build or development time, you can also use the {0} option in your {1} file:",
+  "text": "Um die Typprüfung beim Erzeugen oder zur Entwicklungszeit zu aktivieren, kannst du auch die Option {0} in deiner Datei {1} verwenden:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um die Typprüfung beim Erzeugen oder zur Entwicklungszeit zu aktivieren, kannst du auch die Option {0} in deiner Datei {1} verwenden:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "5da6134cf99abd4e",
+  "source": "{0} (object) - When you use {1} composable in Nuxt to set shared state, this state data is accessed through {2}.",
+  "text": "{0} (object) – Wenn du in Nuxt das Composable {1} verwendest, um einen gemeinsamen Zustand zu setzen, greifst du auf diese Zustandsdaten über {2} zu.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} (object) – Wenn du in Nuxt das Composable {1} verwendest, um einen gemeinsamen Zustand zu setzen, greifst du auf diese Zustandsdaten über {2} zu."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "f639a3b2df6d89ee",
+  "source": "These options define how fonts will be downloaded, including the weights, styles, subsets, etc. These options can be used as a default behaviour with {0} or a separate behaviour for a specific font with {1}.",
+  "text": "Diese Optionen legen fest, wie Schriften heruntergeladen werden, einschließlich Schriftstärken, Stilen, Subsets usw. Sie können als Standardverhalten mit {0} oder als eigenes Verhalten für eine bestimmte Schrift mit {1} verwendet werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese Optionen legen fest, wie Schriften heruntergeladen werden, einschließlich Schriftstärken, Stilen, Subsets usw. Sie können als Standardverhalten mit {0} oder als eigenes Verhalten für eine bestimmte Schrift mit {1} verwendet werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

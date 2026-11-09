@@ -1,0 +1,14 @@
+{
+  "hash": "0fd3bf2fe3befa81",
+  "source": "Pages served without scripts navigate with full-page loads. To keep navigation fast, Nuxt emits a {0}speculation rules{/0} tag on these pages so supporting browsers prefetch and prerender the targets before the user follows a link. The tag is declarative JSON and executes no JavaScript. The rules are scoped to your page routes (which are safe to {1}) rather than every same-origin link, so a link to a server route such as {2} is never speculatively fetched. A catch-all page (for example {3}) matches every path, which widens this back to all same-origin links.",
+  "text": "Seiten, die ohne Skripte ausgeliefert werden, navigieren mit vollständigen Seitenladevorgängen. Damit die Navigation schnell bleibt, gibt Nuxt auf diesen Seiten ein {0}Speculation-Rules{/0}-Tag aus, sodass unterstützende Browser die Ziele vorab abrufen und vorab rendern, bevor Nutzende einem Link folgen. Das Tag ist deklaratives JSON und führt kein JavaScript aus. Die Regeln beziehen sich auf deine Seitenrouten (die sich gefahrlos {1} lassen) und nicht auf jeden Link derselben Origin, sodass ein Link auf eine Server-Route wie {2} nie spekulativ abgerufen wird. Eine Catch-all-Seite (zum Beispiel {3}) passt auf jeden Pfad und weitet dies wieder auf alle Links derselben Origin aus.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Seiten, die ohne Skripte ausgeliefert werden, navigieren mit vollständigen Seitenladevorgängen. Damit die Navigation schnell bleibt, gibt Nuxt auf diesen Seiten ein {0}Speculation-Rules{/0}-Tag aus, sodass unterstützende Browser die Ziele vorab abrufen und vorab rendern, bevor Nutzende einem Link folgen. Das Tag ist deklaratives JSON und führt kein JavaScript aus. Die Regeln beziehen sich auf deine Seitenrouten (die sich gefahrlos {1} lassen) und nicht auf jeden Link derselben Origin, sodass ein Link auf eine Server-Route wie {2} nie spekulativ abgerufen wird. Eine Catch-all-Seite (zum Beispiel {3}) passt auf jeden Pfad und weitet dies wieder auf alle Links derselben Origin aus."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

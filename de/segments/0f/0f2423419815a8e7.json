@@ -1,0 +1,14 @@
+{
+  "hash": "0f2423419815a8e7",
+  "source": "Enabled by default when {0} is {1} or higher.",
+  "text": "Standardmäßig aktiviert, wenn {0} {1} oder höher ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardmäßig aktiviert, wenn {0} {1} oder höher ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

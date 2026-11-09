@@ -1,0 +1,14 @@
+{
+  "hash": "743d86799fe01941",
+  "source": "The {0} command starts a development server with hot module replacement at {1}",
+  "text": "Der Befehl {0} startet einen Entwicklungsserver mit hot module replacement unter {1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Befehl {0} startet einen Entwicklungsserver mit hot module replacement unter {1}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

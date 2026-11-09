@@ -1,0 +1,14 @@
+{
+  "hash": "f5475f6dd69104f9",
+  "source": "Handle version-specific migrations",
+  "text": "Versionsspezifische Migrationen behandeln",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Versionsspezifische Migrationen behandeln"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "aa994fe834780430",
+  "source": "When a function is registered, Nuxt’s compiler automatically injects a unique key as an additional argument if the function is called with fewer than the specified number of arguments. This key remains stable between server-side rendering and client hydration.",
+  "text": "Wenn eine Funktion registriert ist, fügt der Compiler von Nuxt automatisch einen eindeutigen Schlüssel als zusätzliches Argument ein, falls die Funktion mit weniger als der angegebenen Anzahl an Argumenten aufgerufen wird. Dieser Schlüssel bleibt zwischen serverseitigem Rendering und Hydration auf dem Client stabil.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn eine Funktion registriert ist, fügt der Compiler von Nuxt automatisch einen eindeutigen Schlüssel als zusätzliches Argument ein, falls die Funktion mit weniger als der angegebenen Anzahl an Argumenten aufgerufen wird. Dieser Schlüssel bleibt zwischen serverseitigem Rendering und Hydration auf dem Client stabil."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

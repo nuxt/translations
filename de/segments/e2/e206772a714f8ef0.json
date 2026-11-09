@@ -1,0 +1,14 @@
+{
+  "hash": "e206772a714f8ef0",
+  "source": "If you were targeting the spa loading template with CSS or {0} you will need to update your selectors. For this purpose you can use the new {1} and {2} configuration options.",
+  "text": "Wenn du die SPA-Ladevorlage mit CSS oder {0} angesprochen hast, musst du deine Selektoren anpassen. Dafür kannst du die neuen Konfigurationsoptionen {1} und {2} verwenden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du die SPA-Ladevorlage mit CSS oder {0} angesprochen hast, musst du deine Selektoren anpassen. Dafür kannst du die neuen Konfigurationsoptionen {1} und {2} verwenden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

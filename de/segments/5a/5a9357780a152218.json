@@ -1,0 +1,14 @@
+{
+  "hash": "5a9357780a152218",
+  "source": "We have already proactively migrated the public Nuxt modules which we are aware use this hook. See {0}issue #25339{/0}.",
+  "text": "Wir haben bereits proaktiv die öffentlichen Nuxt-Module migriert, von denen wir wissen, dass sie diesen Hook verwenden. Siehe {0}Issue #25339{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wir haben bereits proaktiv die öffentlichen Nuxt-Module migriert, von denen wir wissen, dass sie diesen Hook verwenden. Siehe {0}Issue #25339{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

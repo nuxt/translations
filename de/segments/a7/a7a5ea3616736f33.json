@@ -1,0 +1,14 @@
+{
+  "hash": "a7a5ea3616736f33",
+  "source": "This helper makes writing Nuxt modules more straightforward by implementing many common patterns needed by modules, guaranteeing future compatibility and improving the experience for both module authors and users.",
+  "text": "Dieses Hilfsprogramm vereinfacht das Schreiben von Nuxt-Modulen, da es viele gängige Muster umsetzt, die Module benötigen, zukünftige Kompatibilität sicherstellt und die Erfahrung sowohl für Modulautoren als auch für Nutzende verbessert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dieses Hilfsprogramm vereinfacht das Schreiben von Nuxt-Modulen, da es viele gängige Muster umsetzt, die Module benötigen, zukünftige Kompatibilität sicherstellt und die Erfahrung sowohl für Modulautoren als auch für Nutzende verbessert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

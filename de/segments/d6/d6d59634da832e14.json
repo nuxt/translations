@@ -1,0 +1,14 @@
+{
+  "hash": "d6d59634da832e14",
+  "source": "Define a request handler.",
+  "text": "Definiert einen Anfrage-Handler.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Definiert einen Anfrage-Handler."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

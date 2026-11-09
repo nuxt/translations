@@ -1,0 +1,14 @@
+{
+  "hash": "cb062f850dbd39dd",
+  "source": "Options passed to {0}. By default, {1} uses the {2}, {3} and {4} options.",
+  "text": "Optionen, die an {0} übergeben werden. Standardmäßig verwendet {1} die Optionen {2}, {3} und {4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Optionen, die an {0} übergeben werden. Standardmäßig verwendet {1} die Optionen {2}, {3} und {4}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

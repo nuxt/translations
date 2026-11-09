@@ -1,0 +1,14 @@
+{
+  "hash": "19415e50fbe433d8",
+  "source": "If you place anything within square brackets, it will be turned into a {0}dynamic route{/0} parameter. You can mix and match multiple parameters and even non-dynamic text within a file name or directory.",
+  "text": "Wenn du etwas in eckige Klammern setzt, wird es zu einem Parameter einer {0}dynamischen Route{/0}. Du kannst mehrere Parameter und sogar nicht dynamischen Text in einem Dateinamen oder Verzeichnis beliebig kombinieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du etwas in eckige Klammern setzt, wird es zu einem Parameter einer {0}dynamischen Route{/0}. Du kannst mehrere Parameter und sogar nicht dynamischen Text in einem Dateinamen oder Verzeichnis beliebig kombinieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

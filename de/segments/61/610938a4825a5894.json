@@ -1,0 +1,14 @@
+{
+  "hash": "610938a4825a5894",
+  "source": "**New {0} option**: You can now customize the TypeScript configuration for Node.js build-time code.",
+  "text": "**Neue Option {0}**: Du kannst jetzt die TypeScript-Konfiguration für Node.js-Code zur Build-Zeit anpassen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Neue Option {0}**: Du kannst jetzt die TypeScript-Konfiguration für Node.js-Code zur Build-Zeit anpassen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

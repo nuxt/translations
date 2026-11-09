@@ -1,0 +1,14 @@
+{
+  "hash": "d8050d14d5d9c8b4",
+  "source": "Server-only components use {0} under the hood, meaning that {1} prop and {2} slot are both passed down to it.",
+  "text": "Reine Server-Komponenten verwenden intern {0}, sodass die Prop {1} und der Slot {2} beide an sie weitergereicht werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Reine Server-Komponenten verwenden intern {0}, sodass die Prop {1} und der Slot {2} beide an sie weitergereicht werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "217f18d37b81f225",
+  "source": "The {0} composable returns the global Nuxt error that is being handled and is available on both client and server. It provides a reactive, SSR-friendly error state across your app.",
+  "text": "Das Composable {0} gibt den globalen Nuxt-Fehler zurück, der gerade behandelt wird, und ist sowohl auf dem Client als auch auf dem Server verfügbar. Es stellt in deiner gesamten App einen reaktiven, SSR-kompatiblen Fehlerzustand bereit.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Composable {0} gibt den globalen Nuxt-Fehler zurück, der gerade behandelt wird, und ist sowohl auf dem Client als auch auf dem Server verfügbar. Es stellt in deiner gesamten App einen reaktiven, SSR-kompatiblen Fehlerzustand bereit."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

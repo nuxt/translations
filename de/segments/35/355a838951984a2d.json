@@ -1,0 +1,14 @@
+{
+  "hash": "355a838951984a2d",
+  "source": "Support {0} and {1} for automatically merging module options",
+  "text": "Unterstützung von {0} und {1}, um Moduloptionen automatisch zusammenzuführen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Unterstützung von {0} und {1}, um Moduloptionen automatisch zusammenzuführen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

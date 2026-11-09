@@ -1,0 +1,14 @@
+{
+  "hash": "83515e53ee199788",
+  "source": "Child Route Keys",
+  "text": "Schlüssel für untergeordnete Routen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Schlüssel für untergeordnete Routen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

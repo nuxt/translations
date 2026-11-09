@@ -1,0 +1,14 @@
+{
+  "hash": "7071c6de500b6130",
+  "source": "For environment-specific configuration in Nuxt 5+, use {0} instead:",
+  "text": "Für umgebungsspezifische Konfiguration in Nuxt 5+ verwendest du stattdessen {0}:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Für umgebungsspezifische Konfiguration in Nuxt 5+ verwendest du stattdessen {0}:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

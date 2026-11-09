@@ -1,0 +1,14 @@
+{
+  "hash": "e14049e8182a7478",
+  "source": "Alternatively, you can prerender your site with {0} (static single-page app). This will produce HTML pages with an empty {1} where your Vue app would normally be rendered. You will lose many SEO benefits of prerendering your site, so it is suggested instead to use {2} to wrap the portions of your site that cannot be server rendered (if any).",
+  "text": "Alternativ kannst du deine Website mit {0} (statische Single-Page-App) vorab rendern. Dadurch entstehen HTML-Seiten mit einem leeren {1}, in dem normalerweise deine Vue-Anwendung gerendert würde. Dabei gehen dir viele SEO-Vorteile des Vorab-Renderings deiner Website verloren. Daher empfiehlt es sich stattdessen, {2} zu verwenden, um die Teile deiner Website zu umschließen, die nicht serverseitig gerendert werden können (falls vorhanden).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Alternativ kannst du deine Website mit {0} (statische Single-Page-App) vorab rendern. Dadurch entstehen HTML-Seiten mit einem leeren {1}, in dem normalerweise deine Vue-Anwendung gerendert würde. Dabei gehen dir viele SEO-Vorteile des Vorab-Renderings deiner Website verloren. Daher empfiehlt es sich stattdessen, {2} zu verwenden, um die Teile deiner Website zu umschließen, die nicht serverseitig gerendert werden können (falls vorhanden)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

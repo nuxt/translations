@@ -1,0 +1,14 @@
+{
+  "hash": "92346e1bdc18ee0f",
+  "source": "**Opt-in project references**: New projects or those wanting better type checking can adopt TypeScript's project references feature.",
+  "text": "**Optionale Project References**: Neue Projekte oder solche, die eine bessere Typprüfung wünschen, können das Project-References-Feature von TypeScript nutzen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Optionale Project References**: Neue Projekte oder solche, die eine bessere Typprüfung wünschen, können das Project-References-Feature von TypeScript nutzen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

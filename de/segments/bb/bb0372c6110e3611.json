@@ -1,0 +1,14 @@
+{
+  "hash": "bb0372c6110e3611",
+  "source": "You can use the built-in {0} composable to set any server response header within your pages, components, and plugins.",
+  "text": "Mit dem integrierten Composable {0} kannst du beliebige Antwort-Header des Servers in deinen Seiten, Komponenten und Plugins setzen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit dem integrierten Composable {0} kannst du beliebige Antwort-Header des Servers in deinen Seiten, Komponenten und Plugins setzen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

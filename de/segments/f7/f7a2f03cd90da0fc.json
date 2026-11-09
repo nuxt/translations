@@ -1,0 +1,14 @@
+{
+  "hash": "f7a2f03cd90da0fc",
+  "source": "This experimental plugin provides improved TypeScript integration and development tooling for better DX when working with TypeScript in Nuxt applications.",
+  "text": "Dieses experimentelle plugin bietet eine bessere TypeScript-Integration und Entwicklungswerkzeuge für eine bessere DX bei der Arbeit mit TypeScript in Nuxt-Anwendungen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dieses experimentelle plugin bietet eine bessere TypeScript-Integration und Entwicklungswerkzeuge für eine bessere DX bei der Arbeit mit TypeScript in Nuxt-Anwendungen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

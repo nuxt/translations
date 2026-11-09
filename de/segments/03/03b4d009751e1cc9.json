@@ -1,0 +1,14 @@
+{
+  "hash": "03b4d009751e1cc9",
+  "source": "When using {0}, navigation will occur before fetching is complete. This means you must handle {1} and {2} states directly within your component's template.",
+  "text": "Bei der Verwendung von {0} erfolgt die Navigation, bevor der Abruf abgeschlossen ist. Das bedeutet, dass du die Zustände {1} und {2} direkt in der Vorlage deiner Komponente behandeln musst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bei der Verwendung von {0} erfolgt die Navigation, bevor der Abruf abgeschlossen ist. Das bedeutet, dass du die Zustände {1} und {2} direkt in der Vorlage deiner Komponente behandeln musst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

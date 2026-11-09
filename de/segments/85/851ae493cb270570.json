@@ -1,0 +1,14 @@
+{
+  "hash": "851ae493cb270570",
+  "source": "Join {0}",
+  "text": "{0} beitreten",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} beitreten"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

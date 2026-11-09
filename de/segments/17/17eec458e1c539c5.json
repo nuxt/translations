@@ -1,0 +1,14 @@
+{
+  "hash": "17eec458e1c539c5",
+  "source": "While you can publish your module by bumping its version and using the {0} command, the module starter comes with a release script that helps you make sure you publish a working version of your module to npm and more.",
+  "text": "Du kannst dein Modul zwar veröffentlichen, indem du die Version erhöhst und den Befehl {0} verwendest, das Modul-Starter-Template enthält aber ein Release-Skript. Es hilft dir unter anderem dabei, sicherzustellen, dass du eine funktionierende Version deines Moduls auf npm veröffentlichst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst dein Modul zwar veröffentlichen, indem du die Version erhöhst und den Befehl {0} verwendest, das Modul-Starter-Template enthält aber ein Release-Skript. Es hilft dir unter anderem dabei, sicherzustellen, dass du eine funktionierende Version deines Moduls auf npm veröffentlichst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

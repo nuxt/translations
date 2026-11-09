@@ -1,0 +1,14 @@
+{
+  "hash": "ecf414b88b8d1c53",
+  "source": "Template Compilation Changes",
+  "text": "Änderungen bei der Kompilierung von Vorlagen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Änderungen bei der Kompilierung von Vorlagen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

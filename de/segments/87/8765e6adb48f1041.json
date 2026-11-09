@@ -1,0 +1,14 @@
+{
+  "hash": "8765e6adb48f1041",
+  "source": "handler: The path to the file defining the handler. - route: The route under which the handler is available. This follows the conventions of {0}rou3{/0}. - method: The HTTP method of requests that should be handled. - middleware: Specifies whether it is a middleware handler. - lazy: Specifies whether to use lazy loading to import the handler.",
+  "text": "handler: Der Pfad zur Datei, die den Handler definiert. - route: Die Route, unter der der Handler verfügbar ist. Sie folgt den Konventionen von {0}rou3{/0}. - method: Die HTTP-Methode der Anfragen, die verarbeitet werden sollen. - middleware: Gibt an, ob es sich um einen Middleware-Handler handelt. - lazy: Gibt an, ob der Handler per verzögertem Laden importiert werden soll.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "handler: Der Pfad zur Datei, die den Handler definiert. - route: Die Route, unter der der Handler verfügbar ist. Sie folgt den Konventionen von {0}rou3{/0}. - method: Die HTTP-Methode der Anfragen, die verarbeitet werden sollen. - middleware: Gibt an, ob es sich um einen Middleware-Handler handelt. - lazy: Gibt an, ob der Handler per verzögertem Laden importiert werden soll."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

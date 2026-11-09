@@ -1,0 +1,14 @@
+{
+  "hash": "b43fbbc696b073aa",
+  "source": "Modify the {0} file with your custom MCP server configuration.",
+  "text": "Passe die Datei {0} mit deiner benutzerdefinierten MCP-Server-Konfiguration an.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Passe die Datei {0} mit deiner benutzerdefinierten MCP-Server-Konfiguration an."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

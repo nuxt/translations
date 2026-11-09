@@ -1,0 +1,14 @@
+{
+  "hash": "8b439b17cc443360",
+  "source": "Ensure using the latest {0}Node.js{/0}",
+  "text": "Stelle sicher, dass du die neueste Version von {0}Node.js{/0} verwendest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Stelle sicher, dass du die neueste Version von {0}Node.js{/0} verwendest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

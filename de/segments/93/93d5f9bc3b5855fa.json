@@ -1,0 +1,14 @@
+{
+  "hash": "93d5f9bc3b5855fa",
+  "source": "Listen to all network interfaces",
+  "text": "Auf allen Netzwerkschnittstellen lauschen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auf allen Netzwerkschnittstellen lauschen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

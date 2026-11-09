@@ -1,0 +1,14 @@
+{
+  "hash": "bad0477f2890093c",
+  "source": "handle error, e.g. report to a service",
+  "text": "Fehler behandeln, z. B. an einen Dienst melden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fehler behandeln, z. B. an einen Dienst melden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

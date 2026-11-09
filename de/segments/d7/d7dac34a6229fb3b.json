@@ -1,0 +1,14 @@
+{
+  "hash": "d7dac34a6229fb3b",
+  "source": "{0}: Character encoding for the document",
+  "text": "{0}: Zeichenkodierung des Dokuments",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Zeichenkodierung des Dokuments"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

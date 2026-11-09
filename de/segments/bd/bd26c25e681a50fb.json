@@ -1,0 +1,14 @@
+{
+  "hash": "bd26c25e681a50fb",
+  "source": "**Reloads** happen when you call {0} as a compilation finishes. The official app builders emit a {1} hook (for example {2} or {3}) that the server integration listens to in order to reload.",
+  "text": "**Neuladevorgänge** finden statt, wenn du {0} aufrufst, sobald eine Kompilierung abgeschlossen ist. Die offiziellen App-Builder senden einen {1}-hook (z. B. {2} oder {3}), auf den die Server-Integration lauscht, um neu zu laden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Neuladevorgänge** finden statt, wenn du {0} aufrufst, sobald eine Kompilierung abgeschlossen ist. Die offiziellen App-Builder senden einen {1}-hook (z. B. {2} oder {3}), auf den die Server-Integration lauscht, um neu zu laden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

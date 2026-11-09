@@ -1,0 +1,14 @@
+{
+  "hash": "f7bd60bb5186bf16",
+  "source": "TBA",
+  "text": "Noch offen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Noch offen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

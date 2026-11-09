@@ -1,0 +1,14 @@
+{
+  "hash": "ff8b739e99396070",
+  "source": "Vue Options API Disabled by Default",
+  "text": "Vue Options API standardmäßig deaktiviert",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vue Options API standardmäßig deaktiviert"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

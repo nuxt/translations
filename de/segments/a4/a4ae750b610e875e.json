@@ -1,0 +1,14 @@
+{
+  "hash": "a4ae750b610e875e",
+  "source": "Anchor",
+  "text": "Anker",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Anker"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "fb1af013b55df8bc",
+  "source": "This defines the behavior of the providers used.",
+  "text": "Damit legst du das Verhalten der verwendeten Provider fest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Damit legst du das Verhalten der verwendeten Provider fest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

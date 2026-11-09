@@ -1,0 +1,14 @@
+{
+  "hash": "5a721eb00afeef36",
+  "source": "Return to the \"Manage MCP Servers\" tab and click \"Refresh\". The Nuxt MCP server should now appear.",
+  "text": "Kehre zur Registerkarte „Manage MCP Servers“ zurück und klicke auf „Refresh“. Der Nuxt-MCP-Server sollte jetzt erscheinen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Kehre zur Registerkarte „Manage MCP Servers“ zurück und klicke auf „Refresh“. Der Nuxt-MCP-Server sollte jetzt erscheinen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

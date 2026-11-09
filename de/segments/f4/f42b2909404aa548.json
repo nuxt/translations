@@ -1,0 +1,14 @@
+{
+  "hash": "f42b2909404aa548",
+  "source": "Install the {0} module using the {1} CLI.",
+  "text": "Installiere das Modul {0} mit der {1}-Kommandozeilenschnittstelle (CLI).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Installiere das Modul {0} mit der {1}-Kommandozeilenschnittstelle (CLI)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

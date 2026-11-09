@@ -1,0 +1,14 @@
+{
+  "hash": "fda83119e419f4f1",
+  "source": "{0} now defaults to {1}, so page routes match URLs case-sensitively, consistent with Nitro. For example, {2} no longer matches {3}.",
+  "text": "{0} hat jetzt den Standardwert {1}, sodass Seitenrouten URLs unter Beachtung der Groß- und Kleinschreibung abgleichen, so wie es auch Nitro tut. Zum Beispiel stimmt {2} nicht mehr mit {3} überein.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} hat jetzt den Standardwert {1}, sodass Seitenrouten URLs unter Beachtung der Groß- und Kleinschreibung abgleichen, so wie es auch Nitro tut. Zum Beispiel stimmt {2} nicht mehr mit {3} überein."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

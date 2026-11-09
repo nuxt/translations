@@ -1,0 +1,14 @@
+{
+  "hash": "cd420e56314391e0",
+  "source": "This example below refreshes only data where the key matches to {0} and {1}.",
+  "text": "Das folgende Beispiel aktualisiert nur die Daten, deren Schlüssel mit {0} und {1} übereinstimmt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das folgende Beispiel aktualisiert nur die Daten, deren Schlüssel mit {0} und {1} übereinstimmt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

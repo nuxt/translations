@@ -1,0 +1,14 @@
+{
+  "hash": "fd7e48eb9af4b02e",
+  "source": "**Identical islands still share the same ids.** Two instances of the same island rendered with the same name, props and context share a single server render (and payload entry), so their HTML — including any {0}-generated ids — is identical, and the island context id used as prefix is the same. This results in duplicated {1} attributes in the DOM, which can break {2} references and {3} associations between the two instances. There is currently no workaround for this case.",
+  "text": "**Identische Islands teilen weiterhin dieselben IDs.** Zwei Instanzen desselben Islands, die mit gleichem Namen, gleichen Props und gleichem Kontext gerendert werden, teilen sich ein einziges Server-Rendering (und einen Payload-Eintrag). Ihr HTML – einschließlich aller mit {0} erzeugten IDs – ist daher identisch, und die als Präfix verwendete Island-Kontext-ID ist dieselbe. Das führt zu doppelten {1}-Attributen im DOM, wodurch {2}-Referenzen und {3}-Zuordnungen zwischen den beiden Instanzen fehlschlagen können. Für diesen Fall gibt es derzeit keinen Workaround.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Identische Islands teilen weiterhin dieselben IDs.** Zwei Instanzen desselben Islands, die mit gleichem Namen, gleichen Props und gleichem Kontext gerendert werden, teilen sich ein einziges Server-Rendering (und einen Payload-Eintrag). Ihr HTML – einschließlich aller mit {0} erzeugten IDs – ist daher identisch, und die als Präfix verwendete Island-Kontext-ID ist dieselbe. Das führt zu doppelten {1}-Attributen im DOM, wodurch {2}-Referenzen und {3}-Zuordnungen zwischen den beiden Instanzen fehlschlagen können. Für diesen Fall gibt es derzeit keinen Workaround."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

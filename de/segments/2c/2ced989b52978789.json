@@ -1,0 +1,14 @@
+{
+  "hash": "2ced989b52978789",
+  "source": "Regex constraints in route rule patterns, such as {0}, are matched against the percent-encoded path. The build fails if a constraint can match {1} or a character that is percent-encoded in a path, such as {2}, a space, {3}, {4} or a negated class like {5}, or if it uses a word boundary ({6} or {7}). List the characters a constraint allows instead, or use a parameter without a constraint (such as {8}) to match any value.",
+  "text": "Regex-Einschränkungen in Mustern von Route-Rules, etwa {0}, werden gegen den prozentkodierten Pfad abgeglichen. Der Build schlägt fehl, wenn eine Einschränkung auf {1} oder auf ein Zeichen passen kann, das in einem Pfad prozentkodiert wird, etwa {2}, ein Leerzeichen, {3}, {4} oder eine negierte Klasse wie {5}, oder wenn sie eine Wortgrenze ({6} oder {7}) verwendet. Liste stattdessen die Zeichen auf, die eine Einschränkung zulässt, oder verwende einen Parameter ohne Einschränkung (etwa {8}), um jeden Wert zu erfassen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Regex-Einschränkungen in Mustern von Route-Rules, etwa {0}, werden gegen den prozentkodierten Pfad abgeglichen. Der Build schlägt fehl, wenn eine Einschränkung auf {1} oder auf ein Zeichen passen kann, das in einem Pfad prozentkodiert wird, etwa {2}, ein Leerzeichen, {3}, {4} oder eine negierte Klasse wie {5}, oder wenn sie eine Wortgrenze ({6} oder {7}) verwendet. Liste stattdessen die Zeichen auf, die eine Einschränkung zulässt, oder verwende einen Parameter ohne Einschränkung (etwa {8}), um jeden Wert zu erfassen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

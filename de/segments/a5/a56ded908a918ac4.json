@@ -1,0 +1,14 @@
+{
+  "hash": "a56ded908a918ac4",
+  "source": "Enabling this means attributes ({0}, {1}, etc.) passed to {2} components will not appear in the SSR HTML. If you need styled placeholders to prevent layout shift, use {3} with a {4} slot instead.",
+  "text": "Wenn du dies aktivierst, erscheinen Attribute ({0}, {1} usw.), die an {2}-Komponenten übergeben werden, nicht im SSR-HTML. Wenn du gestaltete Platzhalter brauchst, um Layout-Verschiebungen zu vermeiden, verwende stattdessen {3} mit einem {4}-Slot.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du dies aktivierst, erscheinen Attribute ({0}, {1} usw.), die an {2}-Komponenten übergeben werden, nicht im SSR-HTML. Wenn du gestaltete Platzhalter brauchst, um Layout-Verschiebungen zu vermeiden, verwende stattdessen {3} mit einem {4}-Slot."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

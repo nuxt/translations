@@ -1,0 +1,14 @@
+{
+  "hash": "474e87f698b60f69",
+  "source": "The {0} function is an alias for {1} that works in exactly the same way but is more semantic for cases when the fetch is {2}not immediate{/2}.",
+  "text": "Die Funktion {0} ist ein Alias für {1}, funktioniert exakt gleich, ist aber semantisch passender, wenn der Abruf {2}nicht sofort{/2} erfolgen soll.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Funktion {0} ist ein Alias für {1}, funktioniert exakt gleich, ist aber semantisch passender, wenn der Abruf {2}nicht sofort{/2} erfolgen soll."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

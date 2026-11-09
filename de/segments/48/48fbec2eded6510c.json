@@ -1,0 +1,14 @@
+{
+  "hash": "48fbec2eded6510c",
+  "source": "Continue reading about Nuxt 3 modules in the {0}Modules Author Guide{/0}.",
+  "text": "Lies mehr über Nuxt-3-Module in der {0}Anleitung für Modulautoren{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lies mehr über Nuxt-3-Module in der {0}Anleitung für Modulautoren{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

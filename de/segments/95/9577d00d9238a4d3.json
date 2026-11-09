@@ -1,0 +1,14 @@
+{
+  "hash": "9577d00d9238a4d3",
+  "source": "If set to {0}, the type will be added to the Nuxt context.",
+  "text": "Wenn auf {0} gesetzt, wird der Typ dem Nuxt-Kontext hinzugefügt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn auf {0} gesetzt, wird der Typ dem Nuxt-Kontext hinzugefügt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "ee1169d3b701acad",
+  "source": "You can set environment variables in shell configuration files like {0} or {1}.",
+  "text": "Du kannst Umgebungsvariablen in Shell-Konfigurationsdateien wie {0} oder {1} setzen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst Umgebungsvariablen in Shell-Konfigurationsdateien wie {0} oder {1} setzen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

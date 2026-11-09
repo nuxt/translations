@@ -1,0 +1,14 @@
+{
+  "hash": "e667022526c1fd8d",
+  "source": "Modules that register handlers with {0} need no augmentation: those routes are reported by the server builder like any other, and typed automatically.",
+  "text": "Module, die Handler mit {0} registrieren, benötigen keine Erweiterung: Diese Routen werden wie alle anderen vom Server-Build gemeldet und automatisch typisiert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Module, die Handler mit {0} registrieren, benötigen keine Erweiterung: Diese Routen werden wie alle anderen vom Server-Build gemeldet und automatisch typisiert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

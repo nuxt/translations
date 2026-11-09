@@ -1,0 +1,14 @@
+{
+  "hash": "211c04cdbb7d3eca",
+  "source": "Unless {0} is enabled, values whose schema is set by a module with {1} are reported as a warning instead, and the server starts with their default.",
+  "text": "Sofern {0} nicht aktiviert ist, werden Werte, deren Schema ein Modul mit {1} festlegt, stattdessen als Warnung gemeldet, und der Server startet mit deren Standardwert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sofern {0} nicht aktiviert ist, werden Werte, deren Schema ein Modul mit {1} festlegt, stattdessen als Warnung gemeldet, und der Server startet mit deren Standardwert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

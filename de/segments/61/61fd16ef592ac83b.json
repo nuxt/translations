@@ -1,0 +1,14 @@
+{
+  "hash": "61fd16ef592ac83b",
+  "source": "We provide LLMs.txt routes to help AI tools access our documentation:",
+  "text": "Wir stellen LLMs.txt-Routen bereit, damit KI-Tools auf unsere Dokumentation zugreifen können:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wir stellen LLMs.txt-Routen bereit, damit KI-Tools auf unsere Dokumentation zugreifen können:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

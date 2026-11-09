@@ -1,0 +1,14 @@
+{
+  "hash": "c8dd491dd6bf1cf5",
+  "source": "(optional) if the component is a named (rather than default) export",
+  "text": "(optional) falls die Komponente ein benannter (statt eines Default-)Exports ist",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "(optional) falls die Komponente ein benannter (statt eines Default-)Exports ist"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

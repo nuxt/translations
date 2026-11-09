@@ -1,0 +1,14 @@
+{
+  "hash": "ceaa5c8b87a63ed0",
+  "source": "Select it",
+  "text": "Wähle den Eintrag aus",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wähle den Eintrag aus"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

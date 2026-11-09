@@ -1,0 +1,14 @@
+{
+  "hash": "6240cd505f12cfa5",
+  "source": "{0} creates a custom {1} composable with pre-defined options. The resulting composable is fully typed and works exactly like {2}, but with your defaults baked in.",
+  "text": "{0} erstellt ein eigenes {1}-Composable mit vordefinierten Optionen. Das resultierende Composable ist vollständig typisiert und funktioniert genau wie {2}, jedoch mit deinen fest eingebauten Standardwerten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} erstellt ein eigenes {1}-Composable mit vordefinierten Optionen. Das resultierende Composable ist vollständig typisiert und funktioniert genau wie {2}, jedoch mit deinen fest eingebauten Standardwerten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

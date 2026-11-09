@@ -1,0 +1,14 @@
+{
+  "hash": "e0a97e6297a17a12",
+  "source": "{0}: a {1} that is {2} while the request is in progress.",
+  "text": "{0}: ein {1}, der {2} ist, solange die Anfrage läuft.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: ein {1}, der {2} ist, solange die Anfrage läuft."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

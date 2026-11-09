@@ -1,0 +1,14 @@
+{
+  "hash": "ef4446963a720c74",
+  "source": "There is also a {0} namespace for early opting-in to new features that will become default in a future (possibly major) version of the framework.",
+  "text": "Es gibt außerdem einen Namespace {0}, um neue Features frühzeitig zu aktivieren, die in einer zukünftigen (möglicherweise Major-)Version des Frameworks zum Standard werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Es gibt außerdem einen Namespace {0}, um neue Features frühzeitig zu aktivieren, die in einer zukünftigen (möglicherweise Major-)Version des Frameworks zum Standard werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "dac7e128452f8091",
+  "source": "Add a {0}:",
+  "text": "Füge eine {0} hinzu:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Füge eine {0} hinzu:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

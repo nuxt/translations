@@ -1,0 +1,14 @@
+{
+  "hash": "bf9fbe7270a1cc97",
+  "source": "This is what we do for Nuxt Nitro; we output a {0} file. That tells Node.js to treat this file as a native ES module.",
+  "text": "Das tun wir bei Nuxt Nitro: Wir geben eine {0}-Datei aus. Sie weist Node.js an, diese Datei als natives ES Module zu behandeln.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das tun wir bei Nuxt Nitro: Wir geben eine {0}-Datei aus. Sie weist Node.js an, diese Datei als natives ES Module zu behandeln."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

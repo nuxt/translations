@@ -1,0 +1,14 @@
+{
+  "hash": "67b24ebc04066267",
+  "source": "{0}nuxt-modules/{/0} - community-contributed and maintained modules and libraries. There is a {1}process to migrate a module{/1} to {2}. While these modules have individual maintainers, they are not dependent on a single person.",
+  "text": "{0}nuxt-modules/{/0} – von der Community beigesteuerte und gepflegte Module und Bibliotheken. Es gibt einen {1}Prozess, um ein Modul zu {2} zu migrieren{/1}. Diese Module haben zwar einzelne Maintainer, hängen aber nicht von einer einzelnen Person ab.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}nuxt-modules/{/0} – von der Community beigesteuerte und gepflegte Module und Bibliotheken. Es gibt einen {1}Prozess, um ein Modul zu {2} zu migrieren{/1}. Diese Module haben zwar einzelne Maintainer, hängen aber nicht von einer einzelnen Person ab."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

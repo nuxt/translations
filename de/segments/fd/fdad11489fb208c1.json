@@ -1,0 +1,14 @@
+{
+  "hash": "fdad11489fb208c1",
+  "source": "Aliasing Libraries",
+  "text": "Bibliotheken mit Aliassen versehen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bibliotheken mit Aliassen versehen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

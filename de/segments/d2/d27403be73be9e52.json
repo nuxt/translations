@@ -1,0 +1,14 @@
+{
+  "hash": "d27403be73be9e52",
+  "source": "Using {0} in middleware is not recommended because it can lead to unexpected behavior. There is no concept of a \"current route\" in middleware. The {1} composable should only be used in the setup function of a Vue component or in a Nuxt plugin.",
+  "text": "{0} in Middleware zu verwenden, wird nicht empfohlen, da es zu unerwartetem Verhalten führen kann. In Middleware gibt es kein Konzept einer „aktuellen Route“. Das Composable {1} sollte nur in der Setup-Funktion einer Vue-Komponente oder in einem Nuxt-Plugin verwendet werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} in Middleware zu verwenden, wird nicht empfohlen, da es zu unerwartetem Verhalten führen kann. In Middleware gibt es kein Konzept einer „aktuellen Route“. Das Composable {1} sollte nur in der Setup-Funktion einer Vue-Komponente oder in einem Nuxt-Plugin verwendet werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

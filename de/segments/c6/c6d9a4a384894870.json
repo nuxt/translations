@@ -1,0 +1,14 @@
+{
+  "hash": "c6d9a4a384894870",
+  "source": "And finally, just ask the question! There's no need to {0}ask permission to ask a question{/0} or {1}wait for someone to reply to your 'hello'{/1}. If you do, you might not get a response because people are waiting for the whole question before engaging.",
+  "text": "Und schließlich: Stell einfach deine Frage! Du musst nicht {0}um Erlaubnis bitten, eine Frage zu stellen{/0}, oder {1}darauf warten, dass jemand auf dein „Hallo“ antwortet{/1}. Wenn du das tust, bekommst du möglicherweise keine Antwort, weil die Leute auf die vollständige Frage warten, bevor sie sich einbringen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Und schließlich: Stell einfach deine Frage! Du musst nicht {0}um Erlaubnis bitten, eine Frage zu stellen{/0}, oder {1}darauf warten, dass jemand auf dein „Hallo“ antwortet{/1}. Wenn du das tust, bekommst du möglicherweise keine Antwort, weil die Leute auf die vollständige Frage warten, bevor sie sich einbringen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

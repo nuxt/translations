@@ -1,0 +1,14 @@
+{
+  "hash": "93fc75a34aec8688",
+  "source": "Serialized client manifest for {0}.",
+  "text": "Serialisiertes Client-Manifest für {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Serialisiertes Client-Manifest für {0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

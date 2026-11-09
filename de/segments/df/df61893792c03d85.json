@@ -1,0 +1,14 @@
+{
+  "hash": "df61893792c03d85",
+  "source": "How Nuxt Works?",
+  "text": "Wie funktioniert Nuxt?",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wie funktioniert Nuxt?"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

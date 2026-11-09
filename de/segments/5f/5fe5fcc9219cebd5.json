@@ -1,0 +1,14 @@
+{
+  "hash": "5fe5fcc9219cebd5",
+  "source": "Prefer {0} to reading {1} in a module. {2} holds the default values only, without environment variables applied.",
+  "text": "Verwende in einem Modul bevorzugt {0}, statt {1} zu lesen. {2} enthält nur die Standardwerte, ohne angewendete Umgebungsvariablen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwende in einem Modul bevorzugt {0}, statt {1} zu lesen. {2} enthält nur die Standardwerte, ohne angewendete Umgebungsvariablen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

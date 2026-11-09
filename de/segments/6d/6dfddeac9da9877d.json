@@ -1,0 +1,14 @@
+{
+  "hash": "6dfddeac9da9877d",
+  "source": "A renderer owns everything it reads, so a bundle may create several. A module that renders something other than a route, such as an island handler, should render against the same loaded artifacts as the page renderer: create the state once with {0} from {1}, hand it to {2}, and render from it directly elsewhere.",
+  "text": "Ein Renderer besitzt alles, was er liest, daher kann ein Bundle mehrere davon erstellen. Ein Modul, das etwas anderes als eine Route rendert, etwa ein Island-Handler, sollte auf Basis derselben geladenen Artefakte rendern wie der Seiten-Renderer: Erstelle den Zustand einmal mit {0} aus {1}, übergib ihn an {2} und rendere an anderen Stellen direkt daraus.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein Renderer besitzt alles, was er liest, daher kann ein Bundle mehrere davon erstellen. Ein Modul, das etwas anderes als eine Route rendert, etwa ein Island-Handler, sollte auf Basis derselben geladenen Artefakte rendern wie der Seiten-Renderer: Erstelle den Zustand einmal mit {0} aus {1}, übergib ihn an {2} und rendere an anderen Stellen direkt daraus."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

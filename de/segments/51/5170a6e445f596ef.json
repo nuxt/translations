@@ -1,0 +1,14 @@
+{
+  "hash": "5170a6e445f596ef",
+  "source": "Run {0} to Install the dependencies with pnpm:",
+  "text": "Führe {0} aus, um die Abhängigkeiten mit pnpm zu installieren:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Führe {0} aus, um die Abhängigkeiten mit pnpm zu installieren:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

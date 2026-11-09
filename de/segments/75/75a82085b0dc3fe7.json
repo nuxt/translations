@@ -1,0 +1,14 @@
+{
+  "hash": "75a82085b0dc3fe7",
+  "source": "You can create your own custom events using the {0} method:",
+  "text": "Mit der Methode {0} kannst du eigene Events erstellen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit der Methode {0} kannst du eigene Events erstellen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

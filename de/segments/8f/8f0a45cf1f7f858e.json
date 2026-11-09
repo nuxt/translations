@@ -1,0 +1,14 @@
+{
+  "hash": "8f0a45cf1f7f858e",
+  "source": "For global configuration (affects all environments)",
+  "text": "Für globale Konfiguration (wirkt sich auf alle Umgebungen aus)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Für globale Konfiguration (wirkt sich auf alle Umgebungen aus)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

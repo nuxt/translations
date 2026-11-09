@@ -1,0 +1,14 @@
+{
+  "hash": "ac06d1dd4c06e895",
+  "source": "For more information on using MCP with GitHub Copilot coding agent, see {0}Extend coding agent with MCP{/0}.",
+  "text": "Weitere Informationen zur Verwendung von MCP mit dem GitHub Copilot Coding Agent findest du unter {0}Extend coding agent with MCP{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Weitere Informationen zur Verwendung von MCP mit dem GitHub Copilot Coding Agent findest du unter {0}Extend coding agent with MCP{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

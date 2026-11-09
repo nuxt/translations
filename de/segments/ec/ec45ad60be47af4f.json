@@ -1,0 +1,14 @@
+{
+  "hash": "ec45ad60be47af4f",
+  "source": "Environment name used to select {0} configuration overrides. Takes precedence over {1} set in {2}.",
+  "text": "Name der Umgebung, mit dem die Konfigurationsüberschreibungen für {0} ausgewählt werden. Hat Vorrang vor dem in {2} gesetzten {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Name der Umgebung, mit dem die Konfigurationsüberschreibungen für {0} ausgewählt werden. Hat Vorrang vor dem in {2} gesetzten {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

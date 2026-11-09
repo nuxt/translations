@@ -1,0 +1,14 @@
+{
+  "hash": "4848003d8e56d3bc",
+  "source": "Read the details about TypeScript in Nuxt",
+  "text": "Details zu TypeScript in Nuxt nachlesen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Details zu TypeScript in Nuxt nachlesen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "dce22508f7be014e",
+  "source": "Out-of-the-box, it supports **hot module replacement** and **auto-import** like the other parts of your Nuxt application.",
+  "text": "Sofort einsatzbereit unterstützt er wie die anderen Teile deiner Nuxt-Anwendung **hot module replacement** und **automatischen Import**.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sofort einsatzbereit unterstützt er wie die anderen Teile deiner Nuxt-Anwendung **hot module replacement** und **automatischen Import**."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

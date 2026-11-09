@@ -1,0 +1,14 @@
+{
+  "hash": "73357efb3ad3d88e",
+  "source": "Hooks to be installed for the module. If provided, the module will install the hooks.",
+  "text": "hooks, die für das Modul installiert werden sollen. Wenn sie angegeben werden, installiert das Modul die hooks.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "hooks, die für das Modul installiert werden sollen. Wenn sie angegeben werden, installiert das Modul die hooks."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

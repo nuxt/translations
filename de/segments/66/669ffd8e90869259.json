@@ -1,0 +1,14 @@
+{
+  "hash": "669ffd8e90869259",
+  "source": "**Object Plugin**: An object that can include various properties to configure the plugin's behavior, such as {0}, {1}, {2}, {3}, {4}, {5}, {6}, and {7}.",
+  "text": "**Objekt-Plugin**: Ein Objekt, das verschiedene Eigenschaften enthalten kann, um das Verhalten des Plugins zu konfigurieren, etwa {0}, {1}, {2}, {3}, {4}, {5}, {6} und {7}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Objekt-Plugin**: Ein Objekt, das verschiedene Eigenschaften enthalten kann, um das Verhalten des Plugins zu konfigurieren, etwa {0}, {1}, {2}, {3}, {4}, {5}, {6} und {7}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

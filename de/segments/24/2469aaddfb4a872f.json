@@ -1,0 +1,14 @@
+{
+  "hash": "2469aaddfb4a872f",
+  "source": "rendering your Vue app to HTML (during SSR)",
+  "text": "das Rendern deiner Vue-App zu HTML (während SSR)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "das Rendern deiner Vue-App zu HTML (während SSR)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

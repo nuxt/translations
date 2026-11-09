@@ -1,0 +1,14 @@
+{
+  "hash": "db0d621a0d954ad1",
+  "source": "Array of reactive sources to watch and auto-refresh. {0} disables watching.",
+  "text": "Array reaktiver Quellen, die beobachtet und automatisch neu abgerufen werden. {0} deaktiviert die Beobachtung.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Array reaktiver Quellen, die beobachtet und automatisch neu abgerufen werden. {0} deaktiviert die Beobachtung."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

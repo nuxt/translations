@@ -1,0 +1,14 @@
+{
+  "hash": "44d369bb5d8bd235",
+  "source": "If you're starting a new Nuxt project and want to develop inside a dev container, you can add the configuration yourself.",
+  "text": "Wenn du ein neues Nuxt-Projekt startest und in einem Dev Container entwickeln möchtest, kannst du die Konfiguration selbst hinzufügen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du ein neues Nuxt-Projekt startest und in einem Dev Container entwickeln möchtest, kannst du die Konfiguration selbst hinzufügen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

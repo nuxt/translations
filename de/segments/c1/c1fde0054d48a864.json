@@ -1,0 +1,14 @@
+{
+  "hash": "c1fde0054d48a864",
+  "source": "**TypeScript {0} ignored**: Generated TypeScript configurations {1}no longer use {2}{/1} to resolve Nuxt aliases",
+  "text": "**TypeScript-{0} wird ignoriert**: Generierte TypeScript-Konfigurationen {1}verwenden {2} nicht mehr{/1}, um Nuxt-Aliasse aufzulösen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**TypeScript-{0} wird ignoriert**: Generierte TypeScript-Konfigurationen {1}verwenden {2} nicht mehr{/1}, um Nuxt-Aliasse aufzulösen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

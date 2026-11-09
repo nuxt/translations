@@ -1,0 +1,14 @@
+{
+  "hash": "4f582f3a1e611817",
+  "source": "The main plugin function, equivalent to a function plugin.",
+  "text": "Die Hauptfunktion des Plugins, äquivalent zu einem Funktions-Plugin.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Hauptfunktion des Plugins, äquivalent zu einem Funktions-Plugin."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

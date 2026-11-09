@@ -1,0 +1,14 @@
+{
+  "hash": "70527c72472002bd",
+  "source": "Pass only JSON-serializable values (strings, numbers, booleans, {0}, arrays and plain objects), and move the logic that needs the function into the server component:",
+  "text": "Übergib nur JSON-serialisierbare Werte (Strings, Zahlen, boolesche Werte, {0}, Arrays und einfache Objekte) und verlagere die Logik, die die Funktion benötigt, in die Serverkomponente:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Übergib nur JSON-serialisierbare Werte (Strings, Zahlen, boolesche Werte, {0}, Arrays und einfache Objekte) und verlagere die Logik, die die Funktion benötigt, in die Serverkomponente:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

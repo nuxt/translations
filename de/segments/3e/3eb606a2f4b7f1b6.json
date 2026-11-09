@@ -1,0 +1,14 @@
+{
+  "hash": "3eb606a2f4b7f1b6",
+  "source": "**{0}**: Retrieves documentation page content and details by path",
+  "text": "**{0}**: Ruft den Inhalt und die Details einer Dokumentationsseite anhand ihres Pfads ab",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}**: Ruft den Inhalt und die Details einer Dokumentationsseite anhand ihres Pfads ab"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

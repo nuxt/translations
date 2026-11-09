@@ -1,0 +1,14 @@
+{
+  "hash": "50d957fb62d15907",
+  "source": "This enables early access to Nuxt features or flags.",
+  "text": "Dies ermöglicht den frühzeitigen Zugriff auf Nuxt-Features oder -Flags.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dies ermöglicht den frühzeitigen Zugriff auf Nuxt-Features oder -Flags."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

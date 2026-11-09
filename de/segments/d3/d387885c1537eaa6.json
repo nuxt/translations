@@ -1,0 +1,14 @@
+{
+  "hash": "d387885c1537eaa6",
+  "source": "Learn how to create Nuxt modules to integrate, enhance or extend any Nuxt application.",
+  "text": "Erfahre, wie du Nuxt-Module erstellst, um beliebige Nuxt-Anwendungen zu integrieren, zu verbessern oder zu erweitern.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erfahre, wie du Nuxt-Module erstellst, um beliebige Nuxt-Anwendungen zu integrieren, zu verbessern oder zu erweitern."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

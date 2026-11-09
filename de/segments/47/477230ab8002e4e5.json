@@ -1,0 +1,14 @@
+{
+  "hash": "477230ab8002e4e5",
+  "source": "Declare custom options by annotating the {0} {1} parameter with {2}. The options become part of the created composable's signature, fully typed for callers:",
+  "text": "Deklariere benutzerdefinierte Optionen, indem du den Parameter {1} von {0} mit {2} annotierst. Die Optionen werden Teil der Signatur des erstellten Composables und sind für Aufrufende vollständig typisiert:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Deklariere benutzerdefinierte Optionen, indem du den Parameter {1} von {0} mit {2} annotierst. Die Optionen werden Teil der Signatur des erstellten Composables und sind für Aufrufende vollständig typisiert:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

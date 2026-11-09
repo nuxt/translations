@@ -1,0 +1,14 @@
+{
+  "hash": "3cdb0836f2425dcb",
+  "source": "How to test your Nuxt application.",
+  "text": "So testest du deine Nuxt-Anwendung.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "So testest du deine Nuxt-Anwendung."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "01878561be7298f7",
+  "source": "Add routes to be prerendered to Nitro.",
+  "text": "Fügt Nitro Routen hinzu, die vorab gerendert werden sollen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fügt Nitro Routen hinzu, die vorab gerendert werden sollen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

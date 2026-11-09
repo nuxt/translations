@@ -1,0 +1,14 @@
+{
+  "hash": "f10f8bf12552d964",
+  "source": "**Typed runtime config environment variables**: Environment variables are {0}converted to the type of the runtime config value{/0} they replace, and runtime config can be declared with a schema",
+  "text": "**Typisierte Umgebungsvariablen der Laufzeitkonfiguration**: Umgebungsvariablen werden {0}in den Typ des Werts der Laufzeitkonfiguration umgewandelt{/0}, den sie ersetzen, und die Laufzeitkonfiguration kann mit einem Schema deklariert werden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Typisierte Umgebungsvariablen der Laufzeitkonfiguration**: Umgebungsvariablen werden {0}in den Typ des Werts der Laufzeitkonfiguration umgewandelt{/0}, den sie ersetzen, und die Laufzeitkonfiguration kann mit einem Schema deklariert werden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

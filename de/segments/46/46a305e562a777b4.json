@@ -1,0 +1,14 @@
+{
+  "hash": "46a305e562a777b4",
+  "source": "These values are available both in modules and in your {0}.",
+  "text": "Diese Werte sind sowohl in Modulen als auch in deiner {0} verfügbar.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese Werte sind sowohl in Modulen als auch in deiner {0} verfügbar."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

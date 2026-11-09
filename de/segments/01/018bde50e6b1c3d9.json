@@ -1,0 +1,14 @@
+{
+  "hash": "018bde50e6b1c3d9",
+  "source": "This code can run under {0} and under {1}, and will also keep running across an h3 or Nitro major, because Nuxt absorbs those changes centrally.",
+  "text": "Dieser Code kann unter {0} und unter {1} laufen und funktioniert auch über einen Major-Release von h3 oder Nitro hinweg weiter, weil Nuxt diese Änderungen zentral auffängt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dieser Code kann unter {0} und unter {1} laufen und funktioniert auch über einen Major-Release von h3 oder Nitro hinweg weiter, weil Nuxt diese Änderungen zentral auffängt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

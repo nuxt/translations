@@ -1,0 +1,14 @@
+{
+  "hash": "dd86360ac1d55bdb",
+  "source": "{0} Is No Longer Configurable",
+  "text": "{0} ist nicht mehr konfigurierbar",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ist nicht mehr konfigurierbar"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "972c6264f2c84025",
+  "source": "The Vite Environment API provides better consistency between development and production builds, more granular control over environment-specific configuration, and improved performance.",
+  "text": "Die Vite Environment API sorgt für mehr Konsistenz zwischen Entwicklungs- und Produktions-Builds, bietet eine feinere Kontrolle über umgebungsspezifische Konfiguration und verbessert die Performance.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Vite Environment API sorgt für mehr Konsistenz zwischen Entwicklungs- und Produktions-Builds, bietet eine feinere Kontrolle über umgebungsspezifische Konfiguration und verbessert die Performance."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

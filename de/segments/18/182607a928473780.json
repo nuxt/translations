@@ -1,0 +1,14 @@
+{
+  "hash": "182607a928473780",
+  "source": "By default, only the {0} directory is scanned. If you want to add other directories, or change how the components are scanned within a subfolder of this directory, you can add additional directories to the configuration:",
+  "text": "Standardmäßig wird nur das Verzeichnis {0} durchsucht. Wenn du weitere Verzeichnisse hinzufügen oder ändern möchtest, wie Komponenten in einem Unterverzeichnis dieses Verzeichnisses durchsucht werden, kannst du der Konfiguration zusätzliche Verzeichnisse hinzufügen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardmäßig wird nur das Verzeichnis {0} durchsucht. Wenn du weitere Verzeichnisse hinzufügen oder ändern möchtest, wie Komponenten in einem Unterverzeichnis dieses Verzeichnisses durchsucht werden, kannst du der Konfiguration zusätzliche Verzeichnisse hinzufügen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

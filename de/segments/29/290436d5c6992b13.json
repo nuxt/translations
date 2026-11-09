@@ -1,0 +1,14 @@
+{
+  "hash": "290436d5c6992b13",
+  "source": "Prefetch Links",
+  "text": "Links vorab laden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Links vorab laden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

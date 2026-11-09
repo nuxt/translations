@@ -1,0 +1,14 @@
+{
+  "hash": "503b239b071f52c3",
+  "source": "this component will only be rendered on client side",
+  "text": "diese Komponente wird nur auf der Client-Seite gerendert",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "diese Komponente wird nur auf der Client-Seite gerendert"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

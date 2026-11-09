@@ -1,0 +1,14 @@
+{
+  "hash": "8bf559fb184d1b2d",
+  "source": "Setting HTML Attributes",
+  "text": "HTML-Attribute festlegen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "HTML-Attribute festlegen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

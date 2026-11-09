@@ -1,0 +1,14 @@
+{
+  "hash": "f357328d8fff4d23",
+  "source": "name of the component to be used in vue templates",
+  "text": "Name der Komponente, der in Vue-Vorlagen verwendet wird",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Name der Komponente, der in Vue-Vorlagen verwendet wird"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

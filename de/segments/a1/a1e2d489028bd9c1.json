@@ -1,0 +1,14 @@
+{
+  "hash": "a1e2d489028bd9c1",
+  "source": "Passphrase for the TLS key or keystore",
+  "text": "Passphrase für den TLS-Schlüssel oder Schlüsselspeicher",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Passphrase für den TLS-Schlüssel oder Schlüsselspeicher"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

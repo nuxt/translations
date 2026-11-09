@@ -1,0 +1,14 @@
+{
+  "hash": "11bcfa49ae03a2ff",
+  "source": "Nuxt will throw an error.",
+  "text": "Nuxt löst einen Fehler aus.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt löst einen Fehler aus."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

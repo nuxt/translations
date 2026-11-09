@@ -1,0 +1,14 @@
+{
+  "hash": "f50194820c460df1",
+  "source": "Quick Edits",
+  "text": "Schnelle Änderungen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Schnelle Änderungen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

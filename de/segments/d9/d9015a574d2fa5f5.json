@@ -1,0 +1,14 @@
+{
+  "hash": "d9015a574d2fa5f5",
+  "source": "Check the {0}app source code{/0} for all available hooks.",
+  "text": "Alle verfügbaren hooks findest du im {0}Quellcode der App{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Alle verfügbaren hooks findest du im {0}Quellcode der App{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

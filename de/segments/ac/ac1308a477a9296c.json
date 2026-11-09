@@ -1,0 +1,14 @@
+{
+  "hash": "ac1308a477a9296c",
+  "source": "It can also occur on the client side when:",
+  "text": "Er kann auch auf dem Client auftreten, wenn:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Er kann auch auf dem Client auftreten, wenn:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "ca040318f766ee2f",
+  "source": "Discover all the options you can use in your nuxt.config.ts file.",
+  "text": "Entdecke alle Optionen, die du in deiner Datei nuxt.config.ts verwenden kannst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Entdecke alle Optionen, die du in deiner Datei nuxt.config.ts verwenden kannst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

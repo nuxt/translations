@@ -1,0 +1,14 @@
+{
+  "hash": "077b1fb11a7aaa47",
+  "source": "{0} is {1}, {2}, an array of origins or patterns, or a function: wrap a single origin in an array. {3} is a string of seconds, such as {4}, or {5}. Import the {6} type from {7}.",
+  "text": "{0} ist {1}, {2}, ein Array von Origins oder Mustern oder eine Funktion: Packe eine einzelne Origin in ein Array. {3} ist eine Zeichenkette mit Sekunden, etwa {4}, oder {5}. Importiere den Typ {6} aus {7}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ist {1}, {2}, ein Array von Origins oder Mustern oder eine Funktion: Packe eine einzelne Origin in ein Array. {3} ist eine Zeichenkette mit Sekunden, etwa {4}, oder {5}. Importiere den Typ {6} aus {7}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

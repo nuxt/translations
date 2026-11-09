@@ -1,0 +1,14 @@
+{
+  "hash": "9d003ec167ddb74c",
+  "source": "**Resolves fonts** – Looks for font files in public/, then checks web providers like Google, Bunny, and Fontshare.",
+  "text": "**Schriften auflösen** – Sucht in public/ nach Schriftdateien und prüft anschließend Web-Anbieter wie Google, Bunny und Fontshare.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Schriften auflösen** – Sucht in public/ nach Schriftdateien und prüft anschließend Web-Anbieter wie Google, Bunny und Fontshare."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

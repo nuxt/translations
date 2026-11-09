@@ -1,0 +1,14 @@
+{
+  "hash": "cb339d28cb35a3d3",
+  "source": "watch and rebuild routes template list when one of the pages changes",
+  "text": "die Vorlage der Routenliste überwachen und neu erzeugen, sobald sich eine der Seiten ändert",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "die Vorlage der Routenliste überwachen und neu erzeugen, sobald sich eine der Seiten ändert"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "8031a46e0e81b634",
+  "source": "Name of the {0} file to load alongside the config file, or {1} to load none.",
+  "text": "Name der {0}-Datei, die zusätzlich zur Konfigurationsdatei geladen wird, oder {1}, um keine zu laden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Name der {0}-Datei, die zusätzlich zur Konfigurationsdatei geladen wird, oder {1}, um keine zu laden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "362ca7784f491721",
+  "source": "Previously every route/page of a Nuxt application and server must use the same rendering mode, universal or client-side. In various cases, some pages could be generated at build time, while others should be client-side rendered. For example, think of a content website with an admin section. Every content page should be primarily static and generated once, but the admin section requires registration and behaves more like a dynamic application.",
+  "text": "Bisher mussten alle Routen und Seiten einer Nuxt-Anwendung und des Servers denselben Rendering-Modus verwenden, entweder universell oder clientseitig. In vielen Fällen könnten einige Seiten zur Build-Zeit generiert werden, während andere clientseitig gerendert werden sollten. Denke zum Beispiel an eine Website mit Inhalten und einem Admin-Bereich. Jede Inhaltsseite sollte überwiegend statisch sein und nur einmal generiert werden, der Admin-Bereich erfordert jedoch eine Registrierung und verhält sich eher wie eine dynamische Anwendung.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bisher mussten alle Routen und Seiten einer Nuxt-Anwendung und des Servers denselben Rendering-Modus verwenden, entweder universell oder clientseitig. In vielen Fällen könnten einige Seiten zur Build-Zeit generiert werden, während andere clientseitig gerendert werden sollten. Denke zum Beispiel an eine Website mit Inhalten und einem Admin-Bereich. Jede Inhaltsseite sollte überwiegend statisch sein und nur einmal generiert werden, der Admin-Bereich erfordert jedoch eine Registrierung und verhält sich eher wie eine dynamische Anwendung."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

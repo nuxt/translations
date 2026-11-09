@@ -1,0 +1,14 @@
+{
+  "hash": "29c7fa0d065819c9",
+  "source": "You can also pass an {0} to the {1}/{2} function to cancel individual requests manually.",
+  "text": "Du kannst der Funktion {1}/{2} auch ein {0} übergeben, um einzelne Anfragen manuell abzubrechen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst der Funktion {1}/{2} auch ein {0} übergeben, um einzelne Anfragen manuell abzubrechen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

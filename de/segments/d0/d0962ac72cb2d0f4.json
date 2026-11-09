@@ -1,0 +1,14 @@
+{
+  "hash": "d0962ac72cb2d0f4",
+  "source": "🛠️ Helpers",
+  "text": "🛠️ Hilfsprogramme",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "🛠️ Hilfsprogramme"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

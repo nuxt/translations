@@ -1,0 +1,14 @@
+{
+  "hash": "ee7da1d3f5eb410b",
+  "source": "Augmenting {0} or {1} from {2} changes the types only. Values are still converted according to their default, so an augmented type can describe a value your app never receives.",
+  "text": "Das Erweitern von {0} oder {1} aus {2} ändert nur die Typen. Werte werden weiterhin gemäß ihrem Standardwert konvertiert, sodass ein erweiterter Typ einen Wert beschreiben kann, den deine App nie erhält.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Erweitern von {0} oder {1} aus {2} ändert nur die Typen. Werte werden weiterhin gemäß ihrem Standardwert konvertiert, sodass ein erweiterter Typ einen Wert beschreiben kann, den deine App nie erhält."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

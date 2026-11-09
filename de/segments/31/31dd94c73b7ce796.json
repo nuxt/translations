@@ -1,0 +1,14 @@
+{
+  "hash": "31dd94c73b7ce796",
+  "source": "You can extend the generated {0} TypeScript configuration using this option.",
+  "text": "Mit dieser Option kannst du die generierte TypeScript-Konfiguration {0} erweitern.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit dieser Option kannst du die generierte TypeScript-Konfiguration {0} erweitern."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

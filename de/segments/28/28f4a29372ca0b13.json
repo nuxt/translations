@@ -1,0 +1,14 @@
+{
+  "hash": "28f4a29372ca0b13",
+  "source": "test context options",
+  "text": "Optionen für den Testkontext",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Optionen für den Testkontext"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

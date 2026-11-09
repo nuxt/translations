@@ -1,0 +1,14 @@
+{
+  "hash": "23906c2b20765b2f",
+  "source": "Removed Configuration Options",
+  "text": "Entfernte Konfigurationsoptionen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Entfernte Konfigurationsoptionen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

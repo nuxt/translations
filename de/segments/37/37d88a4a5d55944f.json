@@ -1,0 +1,14 @@
+{
+  "hash": "37d88a4a5d55944f",
+  "source": "There is no reactivity on the server side because Vue SSR renders the app top-down as static HTML, making it impossible to go back and modify content that has already been rendered.",
+  "text": "Auf der Serverseite gibt es keine Reaktivität, weil Vue SSR die App von oben nach unten als statisches HTML rendert. Dadurch ist es nicht möglich, bereits gerenderte Inhalte nachträglich zu ändern.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auf der Serverseite gibt es keine Reaktivität, weil Vue SSR die App von oben nach unten als statisches HTML rendert. Dadurch ist es nicht möglich, bereits gerenderte Inhalte nachträglich zu ändern."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

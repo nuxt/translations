@@ -1,0 +1,14 @@
+{
+  "hash": "0b384071b35bd8b5",
+  "source": "Validate and sanitize user-provided URLs before navigating. Allow only {0}, {1}, or relative paths.",
+  "text": "Validiere und bereinige von Nutzenden angegebene URLs, bevor du navigierst. Erlaube nur {0}, {1} oder relative Pfade.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Validiere und bereinige von Nutzenden angegebene URLs, bevor du navigierst. Erlaube nur {0}, {1} oder relative Pfade."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

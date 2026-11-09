@@ -1,0 +1,14 @@
+{
+  "hash": "600c8cbc1a62f914",
+  "source": "Calling {0} mounts the Vue application to the DOM. If the application uses SSR or SSG mode, Vue performs a hydration step to make the client-side application interactive. During hydration, Vue recreates the application (excluding {1}Server Components{/1}), matches each component to its corresponding DOM nodes, and attaches DOM event listeners.",
+  "text": "Der Aufruf von {0} mountet die Vue-Anwendung im DOM. Wenn die Anwendung im SSR- oder SSG-Modus läuft, führt Vue einen Hydration-Schritt aus, um die clientseitige Anwendung interaktiv zu machen. Während der Hydration erstellt Vue die Anwendung neu (ausgenommen {1}Server-Komponenten{/1}), ordnet jede Komponente den entsprechenden DOM-Knoten zu und hängt DOM-Event-Listener an.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Aufruf von {0} mountet die Vue-Anwendung im DOM. Wenn die Anwendung im SSR- oder SSG-Modus läuft, führt Vue einen Hydration-Schritt aus, um die clientseitige Anwendung interaktiv zu machen. Während der Hydration erstellt Vue die Anwendung neu (ausgenommen {1}Server-Komponenten{/1}), ordnet jede Komponente den entsprechenden DOM-Knoten zu und hängt DOM-Event-Listener an."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

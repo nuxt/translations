@@ -1,0 +1,14 @@
+{
+  "hash": "439bca875d221721",
+  "source": "A function that resolves a path relative to the base path and respects Nuxt alias and extensions options.",
+  "text": "Eine Funktion, die einen Pfad relativ zum Basispfad auflöst und dabei die Nuxt-Optionen für Aliasse und Dateiendungen berücksichtigt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine Funktion, die einen Pfad relativ zum Basispfad auflöst und dabei die Nuxt-Optionen für Aliasse und Dateiendungen berücksichtigt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

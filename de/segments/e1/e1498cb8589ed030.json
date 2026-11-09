@@ -1,0 +1,14 @@
+{
+  "hash": "e1498cb8589ed030",
+  "source": "Then, if your test suite went well, it will proceed to publish your module by:",
+  "text": "Wenn deine Test-Suite erfolgreich war, fährt es mit der Veröffentlichung deines Moduls fort, und zwar durch:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn deine Test-Suite erfolgreich war, fährt es mit der Veröffentlichung deines Moduls fort, und zwar durch:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

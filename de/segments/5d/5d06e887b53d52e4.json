@@ -1,0 +1,14 @@
+{
+  "hash": "5d06e887b53d52e4",
+  "source": "Static hosts need an HTML shell for client-side routes and missing paths. Nuxt emits two SPA fallbacks for that:",
+  "text": "Statische Hosts benötigen eine HTML-Hülle für clientseitige Routen und nicht vorhandene Pfade. Nuxt erzeugt dafür zwei SPA-Fallbacks:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Statische Hosts benötigen eine HTML-Hülle für clientseitige Routen und nicht vorhandene Pfade. Nuxt erzeugt dafür zwei SPA-Fallbacks:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "6c0948681f113121",
+  "source": "If you need to use a provided helper *within* another plugin, you can call {0} to get the typed version. But in general, this should be avoided unless you are certain of the plugins' order.",
+  "text": "Wenn du ein bereitgestelltes Hilfsprogramm *innerhalb* eines anderen Plugins verwenden musst, kannst du {0} aufrufen, um die typisierte Version zu erhalten. Grundsätzlich solltest du das jedoch vermeiden, es sei denn, du bist dir der Reihenfolge der Plugins sicher.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du ein bereitgestelltes Hilfsprogramm *innerhalb* eines anderen Plugins verwenden musst, kannst du {0} aufrufen, um die typisierte Version zu erhalten. Grundsätzlich solltest du das jedoch vermeiden, es sei denn, du bist dir der Reihenfolge der Plugins sicher."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

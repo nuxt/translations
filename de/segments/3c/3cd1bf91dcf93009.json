@@ -1,0 +1,14 @@
+{
+  "hash": "3cd1bf91dcf93009",
+  "source": "Short path to the component. If not provided, it will be generated from the component path.",
+  "text": "Kurzer Pfad zur Komponente. Wenn nicht angegeben, wird er aus dem Komponentenpfad generiert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Kurzer Pfad zur Komponente. Wenn nicht angegeben, wird er aus dem Komponentenpfad generiert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

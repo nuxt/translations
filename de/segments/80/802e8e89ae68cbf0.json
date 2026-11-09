@@ -1,0 +1,14 @@
+{
+  "hash": "802e8e89ae68cbf0",
+  "source": "Conditional Rendering Based on Client State",
+  "text": "Bedingtes Rendering auf Basis des Client-States",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bedingtes Rendering auf Basis des Client-States"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

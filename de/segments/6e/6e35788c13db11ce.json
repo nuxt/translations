@@ -1,0 +1,14 @@
+{
+  "hash": "6e35788c13db11ce",
+  "source": "You do not need to configure Nuxt Fonts but you can do so for finer-grained control, with the {0} property in your {1}:",
+  "text": "Du musst Nuxt Fonts nicht konfigurieren, kannst es aber für eine feinere Steuerung mit der Eigenschaft {0} in deiner {1} tun:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du musst Nuxt Fonts nicht konfigurieren, kannst es aber für eine feinere Steuerung mit der Eigenschaft {0} in deiner {1} tun:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

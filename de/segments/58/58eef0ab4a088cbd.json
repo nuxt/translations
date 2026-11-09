@@ -1,0 +1,14 @@
+{
+  "hash": "58eef0ab4a088cbd",
+  "source": "Universal rendering is very versatile and can fit almost any use case, and is especially appropriate for any content-oriented websites: **blogs, marketing websites, portfolios, e-commerce sites, and marketplaces.**",
+  "text": "Universelles Rendering ist sehr vielseitig, passt zu fast jedem Anwendungsfall und eignet sich besonders für inhaltsorientierte Websites: **Blogs, Marketing-Websites, Portfolios, E-Commerce-Websites und Marktplätze.**",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Universelles Rendering ist sehr vielseitig, passt zu fast jedem Anwendungsfall und eignet sich besonders für inhaltsorientierte Websites: **Blogs, Marketing-Websites, Portfolios, E-Commerce-Websites und Marktplätze.**"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

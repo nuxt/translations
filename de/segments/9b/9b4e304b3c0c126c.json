@@ -1,0 +1,14 @@
+{
+  "hash": "9b4e304b3c0c126c",
+  "source": "This can cause issues when using **server-only types** in your route files. For example, if a module creates a server-only virtual file using {0} and you declare types for it in {1}, those type declarations will only be available in the server context. When the app context type-checks your server routes, it won't recognize these server-only types and will report errors. To resolve this, you unfortunately need to declare such types in the app context as well.",
+  "text": "Das kann zu Problemen führen, wenn du in deinen Route-Dateien **reine Server-Typen** verwendest. Erstellt ein Modul zum Beispiel mit {0} eine virtuelle Datei nur für den Server und du deklarierst dafür Typen in {1}, sind diese Typdeklarationen nur im Server-Kontext verfügbar. Prüft der App-Kontext dann die Typen deiner Server-Routen, erkennt er diese reinen Server-Typen nicht und meldet Fehler. Um das zu beheben, musst du solche Typen leider auch im App-Kontext deklarieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das kann zu Problemen führen, wenn du in deinen Route-Dateien **reine Server-Typen** verwendest. Erstellt ein Modul zum Beispiel mit {0} eine virtuelle Datei nur für den Server und du deklarierst dafür Typen in {1}, sind diese Typdeklarationen nur im Server-Kontext verfügbar. Prüft der App-Kontext dann die Typen deiner Server-Routen, erkennt er diese reinen Server-Typen nicht und meldet Fehler. Um das zu beheben, musst du solche Typen leider auch im App-Kontext deklarieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b07374573cb8a7e5",
+  "source": "This composable is available in Nuxt v3.12+.",
+  "text": "Dieses Composable ist ab Nuxt v3.12 verfügbar.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dieses Composable ist ab Nuxt v3.12 verfügbar."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

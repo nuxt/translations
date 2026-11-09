@@ -1,0 +1,14 @@
+{
+  "hash": "c0ccbd27c4d63479",
+  "source": "**Dev-mode FOUC for SFC styles:** in development, Vite serves SFC {0} blocks as JavaScript modules that inject styles client-side after the module evaluates, with no corresponding {1} in the shell. With streaming, the browser starts painting the streamed DOM before those style-injection modules run, so SFC-defined styles flash unstyled briefly.",
+  "text": "**FOUC von SFC-Styles im Entwicklungsmodus:** In der Entwicklung liefert Vite SFC-{0}-Blöcke als JavaScript-Module aus, die Styles clientseitig einfügen, nachdem das Modul ausgewertet wurde, ohne entsprechendes {1} in der Shell. Beim Streaming beginnt der Browser, das gestreamte DOM zu zeichnen, bevor diese Style-Injektions-Module laufen, sodass in SFCs definierte Styles kurz ungestylt aufblitzen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**FOUC von SFC-Styles im Entwicklungsmodus:** In der Entwicklung liefert Vite SFC-{0}-Blöcke als JavaScript-Module aus, die Styles clientseitig einfügen, nachdem das Modul ausgewertet wurde, ohne entsprechendes {1} in der Shell. Beim Streaming beginnt der Browser, das gestreamte DOM zu zeichnen, bevor diese Style-Injektions-Module laufen, sodass in SFCs definierte Styles kurz ungestylt aufblitzen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

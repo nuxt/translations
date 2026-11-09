@@ -1,0 +1,14 @@
+{
+  "hash": "90b616b94a4ef7da",
+  "source": "Static islands like this work fine on {0} routes, since their HTML is embedded at render time.",
+  "text": "Statische Islands wie dieses funktionieren problemlos auf {0}-Routen, da ihr HTML beim Rendern eingebettet wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Statische Islands wie dieses funktionieren problemlos auf {0}-Routen, da ihr HTML beim Rendern eingebettet wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

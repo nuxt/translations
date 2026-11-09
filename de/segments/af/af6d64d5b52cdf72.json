@@ -1,0 +1,14 @@
+{
+  "hash": "af6d64d5b52cdf72",
+  "source": "In most instances, SEO meta tags don't need to be reactive as search engine robots primarily scan the initial page load.",
+  "text": "In den meisten Fällen müssen SEO-Meta-Tags nicht reaktiv sein, da Suchmaschinen-Robots hauptsächlich den initialen Seitenaufruf auswerten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In den meisten Fällen müssen SEO-Meta-Tags nicht reaktiv sein, da Suchmaschinen-Robots hauptsächlich den initialen Seitenaufruf auswerten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

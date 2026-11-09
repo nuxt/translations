@@ -1,0 +1,14 @@
+{
+  "hash": "df7dd6a3173a7ab2",
+  "source": "A preview records itself in {0}, so a second {1} for the same project deals with the one already running the way {2} deals with a running dev server:",
+  "text": "Eine Vorschau trägt sich selbst in {0} ein. Ein zweiter Aufruf von {1} für dasselbe Projekt behandelt die bereits laufende Vorschau daher so, wie {2} einen laufenden Entwicklungsserver behandelt:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine Vorschau trägt sich selbst in {0} ein. Ein zweiter Aufruf von {1} für dasselbe Projekt behandelt die bereits laufende Vorschau daher so, wie {2} einen laufenden Entwicklungsserver behandelt:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

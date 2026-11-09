@@ -1,0 +1,14 @@
+{
+  "hash": "92303849a5181b4c",
+  "source": "(Vue Router & Smart Prefetching)",
+  "text": "(Vue Router & intelligentes Prefetching)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "(Vue Router & intelligentes Prefetching)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

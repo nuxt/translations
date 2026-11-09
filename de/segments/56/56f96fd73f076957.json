@@ -1,0 +1,14 @@
+{
+  "hash": "56f96fd73f076957",
+  "source": "If no errors are thrown, a status code of {0} will be returned.",
+  "text": "Wenn keine Fehler ausgelöst werden, wird der Statuscode {0} zurückgegeben.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn keine Fehler ausgelöst werden, wird der Statuscode {0} zurückgegeben."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

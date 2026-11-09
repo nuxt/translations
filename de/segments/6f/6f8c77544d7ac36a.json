@@ -1,0 +1,14 @@
+{
+  "hash": "6f8c77544d7ac36a",
+  "source": "You can also useFetch as shortcut of useAsyncData + $fetch",
+  "text": "Du kannst auch useFetch als Kurzform für useAsyncData + $fetch verwenden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst auch useFetch als Kurzform für useAsyncData + $fetch verwenden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

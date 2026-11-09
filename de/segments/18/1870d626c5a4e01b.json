@@ -1,0 +1,14 @@
+{
+  "hash": "1870d626c5a4e01b",
+  "source": "But don't worry! We're a friendly community of developers and we'd love to help.",
+  "text": "Aber keine Sorge! Wir sind eine freundliche Community von Entwickelnden und helfen dir gerne.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Aber keine Sorge! Wir sind eine freundliche Community von Entwickelnden und helfen dir gerne."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

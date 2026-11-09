@@ -1,0 +1,14 @@
+{
+  "hash": "0c2e84f363335fe2",
+  "source": "List and run Nitro tasks on your dev server.",
+  "text": "Nitro-Tasks auf deinem Entwicklungsserver auflisten und ausführen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nitro-Tasks auf deinem Entwicklungsserver auflisten und ausführen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

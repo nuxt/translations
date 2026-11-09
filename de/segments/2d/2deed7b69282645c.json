@@ -1,0 +1,14 @@
+{
+  "hash": "2deed7b69282645c",
+  "source": "Whether Nuxt should throw an error (and fail to load) if a Nuxt module is incompatible.",
+  "text": "Legt fest, ob Nuxt einen Fehler auslösen (und das Laden abbrechen) soll, wenn ein Nuxt-Modul nicht kompatibel ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Legt fest, ob Nuxt einen Fehler auslösen (und das Laden abbrechen) soll, wenn ein Nuxt-Modul nicht kompatibel ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

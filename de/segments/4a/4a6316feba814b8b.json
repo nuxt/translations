@@ -1,0 +1,14 @@
+{
+  "hash": "4a6316feba814b8b",
+  "source": "the SSR app factory passed to {0}",
+  "text": "die SSR-App-Factory, die an {0} übergeben wird",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "die SSR-App-Factory, die an {0} übergeben wird"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

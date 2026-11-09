@@ -1,0 +1,14 @@
+{
+  "hash": "ff49dc3a96ee98b1",
+  "source": "Get underlying request event",
+  "text": "Zugrunde liegendes Anfrage-Event abrufen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Zugrunde liegendes Anfrage-Event abrufen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

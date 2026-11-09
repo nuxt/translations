@@ -1,0 +1,14 @@
+{
+  "hash": "8364f94ba48a40e4",
+  "source": "The file path to the middleware.",
+  "text": "Der Dateipfad zur Middleware.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Dateipfad zur Middleware."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

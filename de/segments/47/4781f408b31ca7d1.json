@@ -1,0 +1,14 @@
+{
+  "hash": "4781f408b31ca7d1",
+  "source": "You can augment the {0} interface to add type-safe custom metadata for pages when using {1} or the {2} hook:",
+  "text": "Du kannst das Interface {0} erweitern, um typsichere benutzerdefinierte Metadaten für Seiten hinzuzufügen, wenn du {1} oder den Hook {2} verwendest:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst das Interface {0} erweitern, um typsichere benutzerdefinierte Metadaten für Seiten hinzuzufügen, wenn du {1} oder den Hook {2} verwendest:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

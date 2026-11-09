@@ -1,0 +1,14 @@
+{
+  "hash": "b4b74312d5128f69",
+  "source": "Activate Nitro to your Nuxt 2 application with Nuxt Bridge.",
+  "text": "Aktiviere Nitro in deiner Nuxt-2-Anwendung mit Nuxt Bridge.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Aktiviere Nitro in deiner Nuxt-2-Anwendung mit Nuxt Bridge."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

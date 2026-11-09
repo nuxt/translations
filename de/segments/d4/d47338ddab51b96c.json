@@ -1,0 +1,14 @@
+{
+  "hash": "d47338ddab51b96c",
+  "source": "Scroll Behavior",
+  "text": "Scrollverhalten",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Scrollverhalten"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "70eca4c0853ee060",
+  "source": "We can now universally access {0} both when server-rendering the page and in the browser using {1} composable.",
+  "text": "Mit dem composable {1} kannst du jetzt universell auf {0} zugreifen, sowohl beim serverseitigen Rendern der Seite als auch im Browser.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit dem composable {1} kannst du jetzt universell auf {0} zugreifen, sowohl beim serverseitigen Rendern der Seite als auch im Browser."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "f5110aeb16be8526",
+  "source": "Navigation will occur before fetching is complete.",
+  "text": "Die Navigation erfolgt, bevor der Abruf abgeschlossen ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Navigation erfolgt, bevor der Abruf abgeschlossen ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

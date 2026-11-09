@@ -1,0 +1,14 @@
+{
+  "hash": "84f5d5bd8a09069d",
+  "source": "{0}: specify a content to be rendered on the server and displayed until {1} is mounted in the browser.",
+  "text": "{0}: Gibt einen Inhalt an, der auf dem Server gerendert und angezeigt wird, bis {1} im Browser eingebunden ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Gibt einen Inhalt an, der auf dem Server gerendert und angezeigt wird, bis {1} im Browser eingebunden ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "3ec5cac561a65d24",
+  "source": "When handling server requests, you might need to perform asynchronous tasks that shouldn't block the response to the client (for example, caching and logging). You can use {0} to await a promise in the background without delaying the response.",
+  "text": "Bei der Verarbeitung von Server-Anfragen musst du unter Umständen asynchrone Aufgaben ausführen, die die Antwort an den Client nicht blockieren sollen (zum Beispiel Caching und Protokollierung). Mit {0} kannst du im Hintergrund auf ein Promise warten, ohne die Antwort zu verzögern.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bei der Verarbeitung von Server-Anfragen musst du unter Umständen asynchrone Aufgaben ausführen, die die Antwort an den Client nicht blockieren sollen (zum Beispiel Caching und Protokollierung). Mit {0} kannst du im Hintergrund auf ein Promise warten, ohne die Antwort zu verzögern."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

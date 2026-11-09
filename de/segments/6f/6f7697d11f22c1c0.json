@@ -1,0 +1,14 @@
+{
+  "hash": "6f7697d11f22c1c0",
+  "source": "Accept Pattern that will be run against specified path.",
+  "text": "Akzeptiert ein Muster, das auf den angegebenen Pfad angewendet wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Akzeptiert ein Muster, das auf den angegebenen Pfad angewendet wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

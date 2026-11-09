@@ -1,0 +1,14 @@
+{
+  "hash": "5abe7a52428acae1",
+  "source": "server-side rendering but not hydration",
+  "text": "des serverseitigen Renderings, aber nicht der Hydration",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "des serverseitigen Renderings, aber nicht der Hydration"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

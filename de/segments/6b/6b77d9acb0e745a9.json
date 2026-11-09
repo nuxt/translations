@@ -1,0 +1,14 @@
+{
+  "hash": "6b77d9acb0e745a9",
+  "source": "Moving from Vue 2 to Vue 3, including defaulting to the Composition API and script setup.",
+  "text": "Der Wechsel von Vue 2 zu Vue 3, einschließlich der Composition API und von script setup als Standard.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Wechsel von Vue 2 zu Vue 3, einschließlich der Composition API und von script setup als Standard."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

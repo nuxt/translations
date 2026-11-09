@@ -1,0 +1,14 @@
+{
+  "hash": "589e1fd9331538f9",
+  "source": "Allows extending Vite default config. **Deprecated in Nuxt 5+.** In Nuxt 5, this operates on a shared configuration rather than separate client/server configs.",
+  "text": "Erlaubt das Erweitern der Vite-Standardkonfiguration. **Ab Nuxt 5 nicht mehr empfohlen.** In Nuxt 5 arbeitet dieser Hook mit einer gemeinsamen Konfiguration statt mit getrennten Client-/Server-Konfigurationen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erlaubt das Erweitern der Vite-Standardkonfiguration. **Ab Nuxt 5 nicht mehr empfohlen.** In Nuxt 5 arbeitet dieser Hook mit einer gemeinsamen Konfiguration statt mit getrennten Client-/Server-Konfigurationen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

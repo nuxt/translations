@@ -1,0 +1,14 @@
+{
+  "hash": "e9893ccd0fd1ed6f",
+  "source": "Producing the artifacts the server runtime needs to render and hydrate: the client manifest, the per-component styles map, and so on (see {0}The Build Output Contract{/0}).",
+  "text": "Das Erzeugen der Artefakte, die die Server-Laufzeit zum Rendern und für die Hydration benötigt: das Client-Manifest, die Style-Map pro Komponente und so weiter (siehe {0}Der Vertrag für die Build-Ausgabe{/0}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Erzeugen der Artefakte, die die Server-Laufzeit zum Rendern und für die Hydration benötigt: das Client-Manifest, die Style-Map pro Komponente und so weiter (siehe {0}Der Vertrag für die Build-Ausgabe{/0})."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

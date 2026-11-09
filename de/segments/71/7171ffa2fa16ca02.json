@@ -1,0 +1,14 @@
+{
+  "hash": "7171ffa2fa16ca02",
+  "source": "Expose the server via a Cloudflare quick tunnel",
+  "text": "Stellt den Server über einen Cloudflare Quick Tunnel bereit",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Stellt den Server über einen Cloudflare Quick Tunnel bereit"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

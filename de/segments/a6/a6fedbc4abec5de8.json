@@ -1,0 +1,14 @@
+{
+  "hash": "a6fedbc4abec5de8",
+  "source": "{0} (object) - When you fetch the data from an API endpoint using either {1} or {2} , resulting payload can be accessed from the {3}. This data is cached and helps you prevent fetching the same data in case an identical request is made more than once.",
+  "text": "{0} (object) – Wenn du Daten von einem API-Endpunkt mit {1} oder {2} abrufst, kannst du die resultierende Payload über {3} abrufen. Diese Daten werden zwischengespeichert und verhindern, dass dieselben Daten erneut abgerufen werden, wenn mehrfach eine identische Anfrage gestellt wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} (object) – Wenn du Daten von einem API-Endpunkt mit {1} oder {2} abrufst, kannst du die resultierende Payload über {3} abrufen. Diese Daten werden zwischengespeichert und verhindern, dass dieselben Daten erneut abgerufen werden, wenn mehrfach eine identische Anfrage gestellt wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

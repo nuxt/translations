@@ -1,0 +1,14 @@
+{
+  "hash": "677a9c61c9ee745f",
+  "source": "Set {0} to preload a single font face for every family. It picks a face from the first configured {1} entry (otherwise one covering Basic Latin), prefers upright over italic, and then prefers the weight closest to 400.",
+  "text": "Setze {0}, um für jede Familie eine einzelne Schriftart vorab zu laden. Sie wählt eine Schriftart aus dem ersten konfigurierten {1}-Eintrag (andernfalls eine, die Basic Latin abdeckt), bevorzugt aufrechte vor kursiven Varianten und dann die Schriftstärke, die 400 am nächsten kommt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Setze {0}, um für jede Familie eine einzelne Schriftart vorab zu laden. Sie wählt eine Schriftart aus dem ersten konfigurierten {1}-Eintrag (andernfalls eine, die Basic Latin abdeckt), bevorzugt aufrechte vor kursiven Varianten und dann die Schriftstärke, die 400 am nächsten kommt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

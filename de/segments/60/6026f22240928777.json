@@ -1,0 +1,14 @@
+{
+  "hash": "6026f22240928777",
+  "source": "In development, an app builder also serves and hot-reloads the app. Two things matter:",
+  "text": "In der Entwicklung stellt ein App-Builder die App außerdem bereit und lädt sie per Hot Reload neu. Zwei Dinge sind dabei wichtig:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In der Entwicklung stellt ein App-Builder die App außerdem bereit und lädt sie per Hot Reload neu. Zwei Dinge sind dabei wichtig:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

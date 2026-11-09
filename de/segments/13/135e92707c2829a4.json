@@ -1,0 +1,14 @@
+{
+  "hash": "135e92707c2829a4",
+  "source": "This is enabled by default in development mode. If you need to disable this feature, it is possible to do so:",
+  "text": "Im Entwicklungsmodus ist dies standardmäßig aktiviert. Wenn du diese Funktion deaktivieren möchtest, ist das möglich:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Im Entwicklungsmodus ist dies standardmäßig aktiviert. Wenn du diese Funktion deaktivieren möchtest, ist das möglich:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

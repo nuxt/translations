@@ -1,0 +1,14 @@
+{
+  "hash": "804c401aa00c6770",
+  "source": "If you have issues you should verify:",
+  "text": "Falls Probleme auftreten, prüfe Folgendes:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Falls Probleme auftreten, prüfe Folgendes:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

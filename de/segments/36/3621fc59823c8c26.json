@@ -1,0 +1,14 @@
+{
+  "hash": "3621fc59823c8c26",
+  "source": "Given the example above, the {0} route will be accessible at {1}.",
+  "text": "Beim obigen Beispiel ist die Route {0} unter {1} erreichbar.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Beim obigen Beispiel ist die Route {0} unter {1} erreichbar."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

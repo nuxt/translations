@@ -1,0 +1,14 @@
+{
+  "hash": "bd2e5ef48c6ce770",
+  "source": "The provided head configuration will be merged with any existing head configuration using deep merging, with your provided values taking precedence.",
+  "text": "Die angegebene Head-Konfiguration wird per Deep Merge mit einer bestehenden Head-Konfiguration zusammengeführt, wobei deine angegebenen Werte Vorrang haben.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die angegebene Head-Konfiguration wird per Deep Merge mit einer bestehenden Head-Konfiguration zusammengeführt, wobei deine angegebenen Werte Vorrang haben."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "13e80d9ebe981f58",
+  "source": "Nuxt's generated {0} enables {1}. This is a default in TypeScript 7, so adopting it early keeps your project aligned ahead of that upgrade.",
+  "text": "Die von Nuxt generierte {0} aktiviert {1}. Das ist in TypeScript 7 der Standard. Wenn du die Option früh übernimmst, ist dein Projekt bereits auf dieses Upgrade ausgerichtet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die von Nuxt generierte {0} aktiviert {1}. Das ist in TypeScript 7 der Standard. Wenn du die Option früh übernimmst, ist dein Projekt bereits auf dieses Upgrade ausgerichtet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

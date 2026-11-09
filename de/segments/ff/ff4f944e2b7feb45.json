@@ -1,0 +1,14 @@
+{
+  "hash": "ff4f944e2b7feb45",
+  "source": "Alternatively, use {0} with a schema validator such as Zod or Valibot for runtime and type safety.",
+  "text": "Alternativ kannst du {0} mit einem Schema-Validator wie Zod oder Valibot verwenden, um Laufzeit- und Typsicherheit zu gewährleisten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Alternativ kannst du {0} mit einem Schema-Validator wie Zod oder Valibot verwenden, um Laufzeit- und Typsicherheit zu gewährleisten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b5e20e72745898fb",
+  "source": "Set {0} to true and start to increase the {1} value. {2} accepts a {3} option to skip the interval and show the loading state immediately.",
+  "text": "Setzt {0} auf true und beginnt, den Wert von {1} zu erhöhen. {2} akzeptiert die Option {3}, um das Intervall zu überspringen und den Ladezustand sofort anzuzeigen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Setzt {0} auf true und beginnt, den Wert von {1} zu erhöhen. {2} akzeptiert die Option {3}, um das Intervall zu überspringen und den Ladezustand sofort anzuzeigen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

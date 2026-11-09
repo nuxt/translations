@@ -1,0 +1,14 @@
+{
+  "hash": "9b3cf70621dd567f",
+  "source": "This method does not allow you to provide reactive data. We recommend using {0} in {1}.",
+  "text": "Diese Methode erlaubt es nicht, reaktive Daten bereitzustellen. Wir empfehlen, stattdessen {0} in {1} zu verwenden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese Methode erlaubt es nicht, reaktive Daten bereitzustellen. Wir empfehlen, stattdessen {0} in {1} zu verwenden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

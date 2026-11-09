@@ -1,0 +1,14 @@
+{
+  "hash": "54873676df7ea611",
+  "source": "For typescript support, you can use {0}:",
+  "text": "Für TypeScript-Unterstützung kannst du {0} verwenden:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Für TypeScript-Unterstützung kannst du {0} verwenden:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

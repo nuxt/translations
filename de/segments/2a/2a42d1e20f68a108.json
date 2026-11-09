@@ -1,0 +1,14 @@
+{
+  "hash": "2a42d1e20f68a108",
+  "source": "3\\. Dev Containers CLI",
+  "text": "3\\. Dev-Containers-Kommandozeilenschnittstelle (CLI)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "3\\. Dev-Containers-Kommandozeilenschnittstelle (CLI)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

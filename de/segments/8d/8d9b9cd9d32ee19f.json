@@ -1,0 +1,14 @@
+{
+  "hash": "8d9b9cd9d32ee19f",
+  "source": "Read more about the browser's History API.",
+  "text": "Erfahre mehr über die History API des Browsers.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erfahre mehr über die History API des Browsers."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

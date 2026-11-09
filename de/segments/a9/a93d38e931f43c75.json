@@ -1,0 +1,14 @@
+{
+  "hash": "a93d38e931f43c75",
+  "source": "Routes using {0} or {1} also generate {2} files alongside HTML. Client-side navigation loads these cached payloads instead of re-fetching data. Read more about {3}payload extraction{/3}.",
+  "text": "Routen mit {0} oder {1} erzeugen neben dem HTML auch {2}-Dateien. Die clientseitige Navigation lädt diese zwischengespeicherten Payloads, statt die Daten erneut abzurufen. Mehr dazu unter {3}Payload-Extraktion{/3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Routen mit {0} oder {1} erzeugen neben dem HTML auch {2}-Dateien. Die clientseitige Navigation lädt diese zwischengespeicherten Payloads, statt die Daten erneut abzurufen. Mehr dazu unter {3}Payload-Extraktion{/3}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

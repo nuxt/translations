@@ -1,0 +1,14 @@
+{
+  "hash": "48f366d4ab3bf1cc",
+  "source": "Get all request headers",
+  "text": "Alle Anfrage-Header abrufen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Alle Anfrage-Header abrufen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "82cf8da4d457de89",
+  "source": "you can also pass a string or a computed property",
+  "text": "du kannst auch einen String oder eine berechnete Eigenschaft übergeben",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "du kannst auch einen String oder eine berechnete Eigenschaft übergeben"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

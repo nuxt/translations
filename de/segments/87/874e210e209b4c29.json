@@ -1,0 +1,14 @@
+{
+  "hash": "874e210e209b4c29",
+  "source": "Known Issues",
+  "text": "Bekannte Probleme",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bekannte Probleme"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

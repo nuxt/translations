@@ -1,0 +1,14 @@
+{
+  "hash": "a4488d3b59645cc6",
+  "source": "Use lazy loading to import the handler. This is useful when you only want to load the handler on demand.",
+  "text": "Verwendet verzögertes Laden, um den Handler zu importieren. Das ist nützlich, wenn du den Handler nur bei Bedarf laden möchtest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwendet verzögertes Laden, um den Handler zu importieren. Das ist nützlich, wenn du den Handler nur bei Bedarf laden möchtest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

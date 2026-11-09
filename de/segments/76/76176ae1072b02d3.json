@@ -1,0 +1,14 @@
+{
+  "hash": "76176ae1072b02d3",
+  "source": "You can disable this feature if it causes issues in your project.",
+  "text": "Du kannst diese Funktion deaktivieren, wenn sie in deinem Projekt Probleme verursacht.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst diese Funktion deaktivieren, wenn sie in deinem Projekt Probleme verursacht."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

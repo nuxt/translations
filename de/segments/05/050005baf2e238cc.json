@@ -1,0 +1,14 @@
+{
+  "hash": "050005baf2e238cc",
+  "source": "If you have a fixture or example in your module, add {0} package to its config (see {1}example{/1})",
+  "text": "Wenn dein Modul ein Fixture oder Beispiel enthält, füge das Paket {0} zu dessen Konfiguration hinzu (siehe {1}Beispiel{/1}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn dein Modul ein Fixture oder Beispiel enthält, füge das Paket {0} zu dessen Konfiguration hinzu (siehe {1}Beispiel{/1})."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

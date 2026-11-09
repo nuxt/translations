@@ -1,0 +1,14 @@
+{
+  "hash": "2acc242a83b3f187",
+  "source": "If you want to group components in a directory without affecting their name, you can use the parenthesis {0} {1} to name the grouping directory.",
+  "text": "Wenn du Komponenten in einem Verzeichnis gruppieren möchtest, ohne ihren Namen zu beeinflussen, kannst du für das Gruppierungsverzeichnis die runden Klammern {0} {1} verwenden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du Komponenten in einem Verzeichnis gruppieren möchtest, ohne ihren Namen zu beeinflussen, kannst du für das Gruppierungsverzeichnis die runden Klammern {0} {1} verwenden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

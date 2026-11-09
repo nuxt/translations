@@ -1,0 +1,14 @@
+{
+  "hash": "1fe055a837244950",
+  "source": "{0}Fontaine{/0}: Font metric fallback",
+  "text": "{0}Fontaine{/0}: Fallback für Schriftmetriken",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}Fontaine{/0}: Fallback für Schriftmetriken"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

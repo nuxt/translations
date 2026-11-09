@@ -1,0 +1,14 @@
+{
+  "hash": "35b6a691d01d9e50",
+  "source": "These aliases were removed, for greater clarity.",
+  "text": "Diese Aliase wurden zugunsten größerer Klarheit entfernt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese Aliase wurden zugunsten größerer Klarheit entfernt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

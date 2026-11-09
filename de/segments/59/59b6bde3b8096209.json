@@ -1,0 +1,14 @@
+{
+  "hash": "59b6bde3b8096209",
+  "source": "When documenting API pages (composables, utils, components), add the **minimal Nuxt version** when a feature or utility was introduced, so readers know which version they need.",
+  "text": "Wenn du API-Seiten (Composables, Utils, Komponenten) dokumentierst, gib die **minimale Nuxt-Version** an, in der ein Feature oder Utility eingeführt wurde, damit Lesende wissen, welche Version sie benötigen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du API-Seiten (Composables, Utils, Komponenten) dokumentierst, gib die **minimale Nuxt-Version** an, in der ein Feature oder Utility eingeführt wurde, damit Lesende wissen, welche Version sie benötigen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

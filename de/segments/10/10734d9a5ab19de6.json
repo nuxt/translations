@@ -1,0 +1,14 @@
+{
+  "hash": "10734d9a5ab19de6",
+  "source": "Boolean or a path to an HTML file with the contents of which will be inserted into any HTML page rendered with {0}.",
+  "text": "Boolean oder ein Pfad zu einer HTML-Datei, deren Inhalt in jede mit {0} gerenderte HTML-Seite eingefügt wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Boolean oder ein Pfad zu einer HTML-Datei, deren Inhalt in jede mit {0} gerenderte HTML-Seite eingefügt wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

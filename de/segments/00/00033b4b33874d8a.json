@@ -1,0 +1,14 @@
+{
+  "hash": "00033b4b33874d8a",
+  "source": "You can use a composable within another composable using auto imports:",
+  "text": "Du kannst ein Composable mithilfe automatischer Importe innerhalb eines anderen Composables verwenden:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst ein Composable mithilfe automatischer Importe innerhalb eines anderen Composables verwenden:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

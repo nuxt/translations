@@ -1,0 +1,14 @@
+{
+  "hash": "e8aee4f23c8188bd",
+  "source": "Type Safety for Resolved Options with {0}",
+  "text": "Typsicherheit für aufgelöste Optionen mit {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Typsicherheit für aufgelöste Optionen mit {0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

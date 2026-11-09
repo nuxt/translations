@@ -1,0 +1,14 @@
+{
+  "hash": "b5bbefab74cf7ac1",
+  "source": "Set prerender to true to configure it to be prerendered",
+  "text": "Setze prerender auf true, damit die Seite vorab gerendert wird",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Setze prerender auf true, damit die Seite vorab gerendert wird"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

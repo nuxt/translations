@@ -1,0 +1,14 @@
+{
+  "hash": "a97e84cfdb5e9911",
+  "source": "Layer Priority",
+  "text": "Priorität von Layers",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Priorität von Layers"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

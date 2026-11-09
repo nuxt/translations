@@ -1,0 +1,14 @@
+{
+  "hash": "d8bf87162cc7c8f3",
+  "source": "A unique key that identifies the data in your Nuxt application.",
+  "text": "Ein eindeutiger Schlüssel, der die Daten in deiner Nuxt-Anwendung identifiziert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein eindeutiger Schlüssel, der die Daten in deiner Nuxt-Anwendung identifiziert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

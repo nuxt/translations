@@ -1,0 +1,14 @@
+{
+  "hash": "89c4bda107b36ced",
+  "source": "Allows extending import directories.",
+  "text": "Erlaubt das Erweitern der Import-Verzeichnisse.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erlaubt das Erweitern der Import-Verzeichnisse."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

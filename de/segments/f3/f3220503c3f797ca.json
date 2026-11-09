@@ -1,0 +1,14 @@
+{
+  "hash": "f3220503c3f797ca",
+  "source": "If you or your modules use {0} with {1} or {2} chaining, switch to {3}:",
+  "text": "Wenn du oder deine Module {0} mit {1}- oder {2}-Verkettung verwenden, wechsle zu {3}:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du oder deine Module {0} mit {1}- oder {2}-Verkettung verwenden, wechsle zu {3}:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

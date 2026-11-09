@@ -1,0 +1,14 @@
+{
+  "hash": "ae7ca9d43e809486",
+  "source": "{0}: a factory function to set the default value of the {1}, before the async function resolves - useful with the {2} or {3} option",
+  "text": "{0}: eine Factory-Funktion, die den Standardwert von {1} festlegt, bevor die asynchrone Funktion aufgelöst wird – nützlich in Verbindung mit der Option {2} oder {3}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: eine Factory-Funktion, die den Standardwert von {1} festlegt, bevor die asynchrone Funktion aufgelöst wird – nützlich in Verbindung mit der Option {2} oder {3}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

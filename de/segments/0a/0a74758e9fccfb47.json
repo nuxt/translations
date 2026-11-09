@@ -1,0 +1,14 @@
+{
+  "hash": "0a74758e9fccfb47",
+  "source": "Nuxt Kit is an {0}esm-only package{/0} meaning that you **cannot** {1}. As a workaround, use dynamic import in the CommonJS context:",
+  "text": "Nuxt Kit ist ein {0}reines ESM-Paket{/0}. Das bedeutet, dass du {1} **nicht** verwenden kannst. Als Workaround kannst du im CommonJS-Kontext einen dynamischen Import nutzen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Kit ist ein {0}reines ESM-Paket{/0}. Das bedeutet, dass du {1} **nicht** verwenden kannst. Als Workaround kannst du im CommonJS-Kontext einen dynamischen Import nutzen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

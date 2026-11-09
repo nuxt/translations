@@ -1,0 +1,14 @@
+{
+  "hash": "64b43b7fc885b957",
+  "source": "As {0} uses sealed cookies to store session data, session cookies are encrypted using a secret key from the {1} environment variable.",
+  "text": "Da {0} versiegelte Cookies zum Speichern von Sitzungsdaten verwendet, werden Sitzungs-Cookies mit einem geheimen Schlüssel aus der Umgebungsvariable {1} verschlüsselt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Da {0} versiegelte Cookies zum Speichern von Sitzungsdaten verwendet, werden Sitzungs-Cookies mit einem geheimen Schlüssel aus der Umgebungsvariable {1} verschlüsselt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

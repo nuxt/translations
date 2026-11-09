@@ -1,0 +1,14 @@
+{
+  "hash": "95a46200e992f051",
+  "source": "**Route styles are streamed, JS hints are entry-only.** The shell is flushed before the route renders, so its {0} carries entry-chunk styles and hints only. Once render registers the page and layout modules, their CSS is streamed straight after the shell (inlined as {1} when {2} is enabled, otherwise as stylesheet links), so page, layout, and top-level async-component styles arrive before the body paints (nested async components are a FOUC caveat, covered below). Route-specific JS chunks are not preloaded from the shell; the browser discovers them after parsing the entry script. Streaming improves TTFB on every route; LCP gains are largest on routes whose JS overlaps the entry chunk.",
+  "text": "**Route-Styles werden gestreamt, JS-Hinweise gibt es nur für den Entry.** Die Shell wird gesendet, bevor die Route gerendert wird, daher enthält ihr {0} nur Styles und Hinweise des Entry-Chunks. Sobald das Rendering die Seiten- und Layout-Module registriert, wird deren CSS direkt nach der Shell gestreamt (als {1} eingebettet, wenn {2} aktiviert ist, andernfalls als Stylesheet-Links). Styles von Seiten, Layouts und asynchronen Komponenten der obersten Ebene treffen also ein, bevor der Body gezeichnet wird (verschachtelte asynchrone Komponenten sind ein FOUC-Sonderfall, siehe unten). Routenspezifische JS-Chunks werden von der Shell nicht vorab geladen; der Browser entdeckt sie, nachdem er das Entry-Skript geparst hat. Streaming verbessert die TTFB auf jeder Route; die LCP-Gewinne sind bei Routen am größten, deren JS sich mit dem Entry-Chunk überschneidet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Route-Styles werden gestreamt, JS-Hinweise gibt es nur für den Entry.** Die Shell wird gesendet, bevor die Route gerendert wird, daher enthält ihr {0} nur Styles und Hinweise des Entry-Chunks. Sobald das Rendering die Seiten- und Layout-Module registriert, wird deren CSS direkt nach der Shell gestreamt (als {1} eingebettet, wenn {2} aktiviert ist, andernfalls als Stylesheet-Links). Styles von Seiten, Layouts und asynchronen Komponenten der obersten Ebene treffen also ein, bevor der Body gezeichnet wird (verschachtelte asynchrone Komponenten sind ein FOUC-Sonderfall, siehe unten). Routenspezifische JS-Chunks werden von der Shell nicht vorab geladen; der Browser entdeckt sie, nachdem er das Entry-Skript geparst hat. Streaming verbessert die TTFB auf jeder Route; die LCP-Gewinne sind bei Routen am größten, deren JS sich mit dem Entry-Chunk überschneidet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

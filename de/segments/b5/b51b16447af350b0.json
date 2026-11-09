@@ -1,0 +1,14 @@
+{
+  "hash": "b51b16447af350b0",
+  "source": "Path prefix or route. If an empty string used, will be used as a middleware.",
+  "text": "Pfadpräfix oder Route. Wird eine leere Zeichenkette übergeben, wird der Handler als middleware verwendet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pfadpräfix oder Route. Wird eine leere Zeichenkette übergeben, wird der Handler als middleware verwendet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

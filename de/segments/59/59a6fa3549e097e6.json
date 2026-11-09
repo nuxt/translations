@@ -1,0 +1,14 @@
+{
+  "hash": "59a6fa3549e097e6",
+  "source": "If you write something like this:",
+  "text": "Wenn du etwas wie Folgendes schreibst:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du etwas wie Folgendes schreibst:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

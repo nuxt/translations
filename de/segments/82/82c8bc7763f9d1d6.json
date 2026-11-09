@@ -1,0 +1,14 @@
+{
+  "hash": "82c8bc7763f9d1d6",
+  "source": "Enable Nuxt Content",
+  "text": "Nuxt Content aktivieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Content aktivieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

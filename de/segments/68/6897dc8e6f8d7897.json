@@ -1,0 +1,14 @@
+{
+  "hash": "6897dc8e6f8d7897",
+  "source": "passing the route to the function to avoid calling {0} in middleware",
+  "text": "die Route an die Funktion übergeben, um den Aufruf von {0} in Middleware zu vermeiden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "die Route an die Funktion übergeben, um den Aufruf von {0} in Middleware zu vermeiden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

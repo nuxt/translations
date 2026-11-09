@@ -1,0 +1,14 @@
+{
+  "hash": "cd7bf8352b5b2204",
+  "source": "Where fonts are served from",
+  "text": "Woher Schriftarten ausgeliefert werden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Woher Schriftarten ausgeliefert werden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

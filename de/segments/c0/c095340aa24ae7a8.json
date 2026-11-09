@@ -1,0 +1,14 @@
+{
+  "hash": "c095340aa24ae7a8",
+  "source": "Failed to parse island response.",
+  "text": "Die Island-Antwort konnte nicht geparst werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Island-Antwort konnte nicht geparst werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

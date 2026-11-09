@@ -1,0 +1,14 @@
+{
+  "hash": "f526cb28d9f1f408",
+  "source": "As an advanced escape hatch, the extension object may include {0}, {1} or {2} functions. These are not merged into the instance. Instead they wrap the corresponding method of the awaitable promise, receiving the original method as their first argument.",
+  "text": "Als fortgeschrittene Ausweichmöglichkeit kann das Erweiterungsobjekt die Funktionen {0}, {1} oder {2} enthalten. Diese werden nicht in die Instanz übernommen. Stattdessen umschließen sie die entsprechende Methode des awaitable Promise und erhalten die ursprüngliche Methode als erstes Argument.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Als fortgeschrittene Ausweichmöglichkeit kann das Erweiterungsobjekt die Funktionen {0}, {1} oder {2} enthalten. Diese werden nicht in die Instanz übernommen. Stattdessen umschließen sie die entsprechende Methode des awaitable Promise und erhalten die ursprüngliche Methode als erstes Argument."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "62e61f00fbae7d5a",
+  "source": "Announces any dynamic content",
+  "text": "Kündigt beliebige dynamische Inhalte an",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Kündigt beliebige dynamische Inhalte an"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

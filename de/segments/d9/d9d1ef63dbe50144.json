@@ -1,0 +1,14 @@
+{
+  "hash": "d9d1ef63dbe50144",
+  "source": "Common problems",
+  "text": "Häufige Probleme",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Häufige Probleme"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

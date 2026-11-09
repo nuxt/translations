@@ -1,0 +1,14 @@
+{
+  "hash": "4714b127275d3c70",
+  "source": "See {0}@unhead/vue{/0} for more detailed types.",
+  "text": "Detailliertere Typen findest du in {0}@unhead/vue{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Detailliertere Typen findest du in {0}@unhead/vue{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

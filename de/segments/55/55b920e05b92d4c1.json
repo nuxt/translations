@@ -1,0 +1,14 @@
+{
+  "hash": "55b920e05b92d4c1",
+  "source": "To get auto imports working for nested modules, you could either re-export them (recommended) or configure the scanner to include nested directories:",
+  "text": "Damit automatische Importe für verschachtelte Module funktionieren, kannst du sie entweder erneut exportieren (empfohlen) oder den Scanner so konfigurieren, dass er verschachtelte Verzeichnisse einbezieht:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Damit automatische Importe für verschachtelte Module funktionieren, kannst du sie entweder erneut exportieren (empfohlen) oder den Scanner so konfigurieren, dass er verschachtelte Verzeichnisse einbezieht:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

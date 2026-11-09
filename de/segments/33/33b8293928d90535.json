@@ -1,0 +1,14 @@
+{
+  "hash": "33b8293928d90535",
+  "source": "CommonJS Modules",
+  "text": "CommonJS-Module",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "CommonJS-Module"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "c4845883db6ce4eb",
+  "source": "Nuxt 3+ is based on Vue 3. The new major Vue version introduces several changes that Nuxt takes advantage of:",
+  "text": "Nuxt 3+ basiert auf Vue 3. Die neue Hauptversion von Vue bringt mehrere Änderungen mit, von denen Nuxt profitiert:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt 3+ basiert auf Vue 3. Die neue Hauptversion von Vue bringt mehrere Änderungen mit, von denen Nuxt profitiert:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

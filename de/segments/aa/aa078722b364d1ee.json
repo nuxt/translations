@@ -1,0 +1,14 @@
+{
+  "hash": "aa078722b364d1ee",
+  "source": "Vue App Code in Nitro",
+  "text": "Code der Vue-App in Nitro",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Code der Vue-App in Nitro"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

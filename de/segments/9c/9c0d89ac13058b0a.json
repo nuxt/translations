@@ -1,0 +1,14 @@
+{
+  "hash": "9c0d89ac13058b0a",
+  "source": "Now, when {0} is passed, {1} will be {2} until the first request is made. This is a change from the previous behavior, where {3} was always {4} until the first request was made.",
+  "text": "Wenn jetzt {0} übergeben wird, ist {1} {2}, bis die erste Anfrage gestellt wird. Das ist eine Änderung gegenüber dem bisherigen Verhalten, bei dem {3} bis zur ersten Anfrage immer {4} war.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn jetzt {0} übergeben wird, ist {1} {2}, bis die erste Anfrage gestellt wird. Das ist eine Änderung gegenüber dem bisherigen Verhalten, bei dem {3} bis zur ersten Anfrage immer {4} war."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

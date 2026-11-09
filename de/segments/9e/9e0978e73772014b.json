@@ -1,0 +1,14 @@
+{
+  "hash": "9e0978e73772014b",
+  "source": "By default, any layers within your project in the {0} directory will be automatically registered as layers in your project.",
+  "text": "Standardmäßig werden alle Layers im Verzeichnis {0} deines Projekts automatisch als Layers in deinem Projekt registriert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardmäßig werden alle Layers im Verzeichnis {0} deines Projekts automatisch als Layers in deinem Projekt registriert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

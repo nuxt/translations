@@ -1,0 +1,14 @@
+{
+  "hash": "c657af2c5ccd7fa1",
+  "source": "The following options **must be consistent** across all calls with the same key:",
+  "text": "Die folgenden Optionen **müssen** in allen Aufrufen mit demselben Schlüssel **übereinstimmen**:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die folgenden Optionen **müssen** in allen Aufrufen mit demselben Schlüssel **übereinstimmen**:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

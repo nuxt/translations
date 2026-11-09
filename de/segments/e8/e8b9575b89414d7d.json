@@ -1,0 +1,14 @@
+{
+  "hash": "e8b9575b89414d7d",
+  "source": "This is a reserved namespace. You should not introduce additional keys inside {0}.",
+  "text": "Dies ist ein reservierter Namensraum. Du solltest in {0} keine zusätzlichen Schlüssel einführen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dies ist ein reservierter Namensraum. Du solltest in {0} keine zusätzlichen Schlüssel einführen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

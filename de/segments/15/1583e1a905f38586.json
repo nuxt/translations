@@ -1,0 +1,14 @@
+{
+  "hash": "1583e1a905f38586",
+  "source": "**Caching.** {0} and {1} come from {2}. For caching that runs anywhere, depend on a cache library directly.",
+  "text": "**Caching.** {0} und {1} stammen aus {2}. Für Caching, das überall läuft, verwende direkt eine Cache-Bibliothek.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Caching.** {0} und {1} stammen aus {2}. Für Caching, das überall läuft, verwende direkt eine Cache-Bibliothek."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

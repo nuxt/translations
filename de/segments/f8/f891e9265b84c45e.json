@@ -1,0 +1,14 @@
+{
+  "hash": "f891e9265b84c45e",
+  "source": "Understand Nuxt Kit utilities to create modules and control Nuxt.",
+  "text": "Lerne die Hilfsfunktionen des Nuxt Kit kennen, mit denen du Module erstellst und Nuxt steuerst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lerne die Hilfsfunktionen des Nuxt Kit kennen, mit denen du Module erstellst und Nuxt steuerst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

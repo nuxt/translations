@@ -1,0 +1,14 @@
+{
+  "hash": "b5b4fa35f6caa12d",
+  "source": "When the user navigates to {0}, {1} renders into the default {2} and {3} renders into {4}. Outlets without a matching named view are left empty.",
+  "text": "Wenn Nutzende zu {0} navigieren, wird {1} in das Standard-{2} gerendert und {3} in {4}. Outlets ohne passende benannte View bleiben leer.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn Nutzende zu {0} navigieren, wird {1} in das Standard-{2} gerendert und {3} in {4}. Outlets ohne passende benannte View bleiben leer."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

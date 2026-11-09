@@ -1,0 +1,14 @@
+{
+  "hash": "a47a1a7aa90ccb7b",
+  "source": "Try as we might, we will never completely eliminate bugs.",
+  "text": "So sehr wir uns auch bemühen, werden wir Fehler nie vollständig beseitigen können.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "So sehr wir uns auch bemühen, werden wir Fehler nie vollständig beseitigen können."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

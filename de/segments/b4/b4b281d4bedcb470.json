@@ -1,0 +1,14 @@
+{
+  "hash": "b4b281d4bedcb470",
+  "source": "Use your Vue components in Markdown files with the MDC syntax.",
+  "text": "Nutze deine Vue-Komponenten in Markdown-Dateien mit der MDC-Syntax.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nutze deine Vue-Komponenten in Markdown-Dateien mit der MDC-Syntax."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

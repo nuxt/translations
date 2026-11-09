@@ -1,0 +1,14 @@
+{
+  "hash": "37916f9ff300bc47",
+  "source": "Checks if constraints are met for the current Nuxt version. If not, returns an array of messages. Nuxt 2 version also checks for {0} support.",
+  "text": "Prüft, ob die Einschränkungen für die aktuelle Nuxt-Version erfüllt sind. Ist das nicht der Fall, gibt die Funktion ein Array mit Meldungen zurück. In Nuxt 2 wird zusätzlich die Unterstützung für {0} geprüft.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Prüft, ob die Einschränkungen für die aktuelle Nuxt-Version erfüllt sind. Ist das nicht der Fall, gibt die Funktion ein Array mit Meldungen zurück. In Nuxt 2 wird zusätzlich die Unterstützung für {0} geprüft."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

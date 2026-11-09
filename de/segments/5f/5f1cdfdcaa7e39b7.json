@@ -1,0 +1,14 @@
+{
+  "hash": "5f1cdfdcaa7e39b7",
+  "source": "{0} \\| {1}: Specify a fallback tag to be rendered if the slot fails to render on the server.",
+  "text": "{0} \\| {1}: Legt ein Fallback-Tag fest, das gerendert wird, wenn der Slot auf dem Server nicht gerendert werden kann.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} \\| {1}: Legt ein Fallback-Tag fest, das gerendert wird, wenn der Slot auf dem Server nicht gerendert werden kann."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

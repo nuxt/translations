@@ -1,0 +1,14 @@
+{
+  "hash": "5febff203d2bb673",
+  "source": "The {0} function will append returned values to current state, so be careful not to accidentally overwrite important state.",
+  "text": "Die Funktion {0} hängt die zurückgegebenen Werte an den aktuellen State an. Achte daher darauf, wichtigen State nicht versehentlich zu überschreiben.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Funktion {0} hängt die zurückgegebenen Werte an den aktuellen State an. Achte daher darauf, wichtigen State nicht versehentlich zu überschreiben."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

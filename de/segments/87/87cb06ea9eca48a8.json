@@ -1,0 +1,14 @@
+{
+  "hash": "87cb06ea9eca48a8",
+  "source": "abortNavigation() called outside middleware.",
+  "text": "abortNavigation() wurde außerhalb einer Middleware aufgerufen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "abortNavigation() wurde außerhalb einer Middleware aufgerufen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

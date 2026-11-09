@@ -1,0 +1,14 @@
+{
+  "hash": "ed1d6e448ab9ac9d",
+  "source": "Default crossfade",
+  "text": "Standardmäßige Überblendung",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardmäßige Überblendung"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

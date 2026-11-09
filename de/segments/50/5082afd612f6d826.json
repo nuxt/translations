@@ -1,0 +1,14 @@
+{
+  "hash": "5082afd612f6d826",
+  "source": "Global {0} File",
+  "text": "Globale {0}-Datei",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Globale {0}-Datei"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "8878f398c859acba",
+  "source": "Edge-side rendering is possible thanks to {0}Nitro{/0}, the {1}server engine{/1} that powers Nuxt. It offers cross-platform support for Node.js, Deno, Cloudflare Workers, and more.",
+  "text": "Edge-Side Rendering ist dank {0}Nitro{/0} möglich, der {1}Server-Engine{/1}, die Nuxt antreibt. Sie bietet plattformübergreifende Unterstützung für Node.js, Deno, Cloudflare Workers und mehr.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Edge-Side Rendering ist dank {0}Nitro{/0} möglich, der {1}Server-Engine{/1}, die Nuxt antreibt. Sie bietet plattformübergreifende Unterstützung für Node.js, Deno, Cloudflare Workers und mehr."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

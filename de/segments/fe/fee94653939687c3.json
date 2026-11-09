@@ -1,0 +1,14 @@
+{
+  "hash": "fee94653939687c3",
+  "source": "Vue Router decides which link matches from the route and its params, {0}not the query{/0}, so a link that differs from the current page only by its query is marked as the current page too: a set of filters or a list of {1} rows all announce \"current page\" at once. Only one element in a set should be current, so give such links an {2} of their own. It takes precedence over the router's, and {3} removes the attribute:",
+  "text": "Vue Router entscheidet anhand der Route und ihrer Parameter, welcher Link passt, {0}nicht anhand der Query{/0}. Ein Link, der sich von der aktuellen Seite nur durch seine Query unterscheidet, wird daher ebenfalls als aktuelle Seite markiert: Eine Reihe von Filtern oder eine Liste von {1}-Zeilen kündigt dann gleichzeitig jeweils „aktuelle Seite“ an. In einer Gruppe sollte nur ein Element aktuell sein, also gib solchen Links ein eigenes {2}. Es hat Vorrang vor dem des Routers, und {3} entfernt das Attribut:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vue Router entscheidet anhand der Route und ihrer Parameter, welcher Link passt, {0}nicht anhand der Query{/0}. Ein Link, der sich von der aktuellen Seite nur durch seine Query unterscheidet, wird daher ebenfalls als aktuelle Seite markiert: Eine Reihe von Filtern oder eine Liste von {1}-Zeilen kündigt dann gleichzeitig jeweils „aktuelle Seite“ an. In einer Gruppe sollte nur ein Element aktuell sein, also gib solchen Links ein eigenes {2}. Es hat Vorrang vor dem des Routers, und {3} entfernt das Attribut:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

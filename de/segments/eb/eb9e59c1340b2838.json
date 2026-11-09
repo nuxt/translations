@@ -1,0 +1,14 @@
+{
+  "hash": "eb9e59c1340b2838",
+  "source": "**Note**: Files from {0}, {1} and {2} will be automatically registered by Nuxt.",
+  "text": "**Hinweis**: Dateien aus {0}, {1} und {2} werden von Nuxt automatisch registriert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Hinweis**: Dateien aus {0}, {1} und {2} werden von Nuxt automatisch registriert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

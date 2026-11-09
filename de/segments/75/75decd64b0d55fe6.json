@@ -1,0 +1,14 @@
+{
+  "hash": "75decd64b0d55fe6",
+  "source": "Nuxt comes with the same {0} element that Vue has, and also has support for the experimental {1}View Transitions API{/1}.",
+  "text": "Nuxt bringt dasselbe Element {0} mit wie Vue und unterstützt außerdem die experimentelle {1}View Transitions API{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt bringt dasselbe Element {0} mit wie Vue und unterstützt außerdem die experimentelle {1}View Transitions API{/1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "01317ef56c29d883",
+  "source": "Cookies in API Routes",
+  "text": "Cookies in API-Routen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cookies in API-Routen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

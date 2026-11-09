@@ -1,0 +1,14 @@
+{
+  "hash": "6611ebfa3d3772c0",
+  "source": "With this new structure, the {0} alias now points to the {1} directory by default (your {2}). This means {3} resolves to {4}, {5} to {6}, etc.",
+  "text": "Mit dieser neuen Struktur zeigt der Alias {0} jetzt standardmäßig auf das Verzeichnis {1} (dein {2}). Das bedeutet, dass {3} zu {4} aufgelöst wird, {5} zu {6} und so weiter.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit dieser neuen Struktur zeigt der Alias {0} jetzt standardmäßig auf das Verzeichnis {1} (dein {2}). Das bedeutet, dass {3} zu {4} aufgelöst wird, {5} zu {6} und so weiter."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

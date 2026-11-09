@@ -1,0 +1,14 @@
+{
+  "hash": "f0e0ab4220ba0852",
+  "source": "Props are fully typed based on your layout's {0}. You'll get autocomplete and type-checking in your editor.",
+  "text": "Props sind anhand der {0} deines Layouts vollständig typisiert. In deinem Editor erhältst du Autovervollständigung und Typprüfung.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Props sind anhand der {0} deines Layouts vollständig typisiert. In deinem Editor erhältst du Autovervollständigung und Typprüfung."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

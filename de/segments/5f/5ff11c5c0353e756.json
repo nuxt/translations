@@ -1,0 +1,14 @@
+{
+  "hash": "5ff11c5c0353e756",
+  "source": "props are limited by URL length, so avoid passing large amounts of data",
+  "text": "Props sind durch die URL-Länge begrenzt, übergib daher keine großen Datenmengen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Props sind durch die URL-Länge begrenzt, übergib daher keine großen Datenmengen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

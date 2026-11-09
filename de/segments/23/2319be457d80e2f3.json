@@ -1,0 +1,14 @@
+{
+  "hash": "2319be457d80e2f3",
+  "source": "Accessing HTML Elements",
+  "text": "Auf HTML-Elemente zugreifen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auf HTML-Elemente zugreifen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

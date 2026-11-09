@@ -1,0 +1,14 @@
+{
+  "hash": "c72a28d2455dd5b3",
+  "source": "If you are using a self-signed certificate in development, you will need to set {0} in your environment.",
+  "text": "Wenn du in der Entwicklung ein selbstsigniertes Zertifikat verwendest, musst du in deiner Umgebung {0} setzen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du in der Entwicklung ein selbstsigniertes Zertifikat verwendest, musst du in deiner Umgebung {0} setzen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

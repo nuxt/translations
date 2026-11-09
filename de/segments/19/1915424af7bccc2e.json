@@ -1,0 +1,14 @@
+{
+  "hash": "1915424af7bccc2e",
+  "source": "Called before sending the response.",
+  "text": "Wird aufgerufen, bevor die Antwort gesendet wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird aufgerufen, bevor die Antwort gesendet wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

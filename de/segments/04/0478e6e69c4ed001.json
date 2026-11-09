@@ -1,0 +1,14 @@
+{
+  "hash": "0478e6e69c4ed001",
+  "source": "Static import",
+  "text": "Statischer Import",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Statischer Import"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

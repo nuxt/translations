@@ -1,0 +1,14 @@
+{
+  "hash": "bf6be28e83116a00",
+  "source": "We'll create a middleware in the {0} directory. Unlike on the server, client-side middleware is not automatically applied to all endpoints, and we'll need to specify where we want it applied.",
+  "text": "Wir erstellen eine Middleware im Verzeichnis {0}. Anders als auf dem Server wird clientseitige Middleware nicht automatisch auf alle Endpunkte angewendet. Du musst angeben, wo sie greifen soll.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wir erstellen eine Middleware im Verzeichnis {0}. Anders als auf dem Server wird clientseitige Middleware nicht automatisch auf alle Endpunkte angewendet. Du musst angeben, wo sie greifen soll."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

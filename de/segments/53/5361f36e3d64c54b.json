@@ -1,0 +1,14 @@
+{
+  "hash": "5361f36e3d64c54b",
+  "source": "If the module is not your own, report it to the module author.",
+  "text": "Wenn das Modul nicht von dir stammt, melde das Problem der Person, die das Modul entwickelt hat.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn das Modul nicht von dir stammt, melde das Problem der Person, die das Modul entwickelt hat."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

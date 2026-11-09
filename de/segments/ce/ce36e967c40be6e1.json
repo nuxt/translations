@@ -1,0 +1,14 @@
+{
+  "hash": "ce36e967c40be6e1",
+  "source": "Use it like any other component:",
+  "text": "Verwende sie wie jede andere Komponente:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwende sie wie jede andere Komponente:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

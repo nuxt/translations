@@ -1,0 +1,14 @@
+{
+  "hash": "e9e5a22cf9af19f0",
+  "source": "The {0} utility function (used by the {1} composable) is intentionally not globally configurable. This is important so that fetching behavior throughout your application remains consistent, and other integrations (like modules) can rely on the behavior of core utilities like {2}.",
+  "text": "Die Hilfsfunktion {0} (die vom Composable {1} verwendet wird) ist absichtlich nicht global konfigurierbar. Das ist wichtig, damit das Abrufverhalten in deiner gesamten Anwendung konsistent bleibt und andere Integrationen (wie Module) sich auf das Verhalten zentraler Hilfsfunktionen wie {2} verlassen können.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Hilfsfunktion {0} (die vom Composable {1} verwendet wird) ist absichtlich nicht global konfigurierbar. Das ist wichtig, damit das Abrufverhalten in deiner gesamten Anwendung konsistent bleibt und andere Integrationen (wie Module) sich auf das Verhalten zentraler Hilfsfunktionen wie {2} verlassen können."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

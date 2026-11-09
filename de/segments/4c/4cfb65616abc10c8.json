@@ -1,0 +1,14 @@
+{
+  "hash": "4cfb65616abc10c8",
+  "source": "The {0}Nuxt DevTools{/0} gives you insights and transparency about your Nuxt App to identify performance gaps and seamlessly manage your app configurations.",
+  "text": "Die {0}Nuxt DevTools{/0} geben dir Einblick und Transparenz in deine Nuxt-App, damit du Performance-Engpässe erkennen und die Konfiguration deiner App nahtlos verwalten kannst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die {0}Nuxt DevTools{/0} geben dir Einblick und Transparenz in deine Nuxt-App, damit du Performance-Engpässe erkennen und die Konfiguration deiner App nahtlos verwalten kannst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

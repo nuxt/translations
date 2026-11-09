@@ -1,0 +1,14 @@
+{
+  "hash": "31167875a359d70a",
+  "source": "Layouts directory ({0} by default)",
+  "text": "Layouts-Verzeichnis (standardmäßig {0})",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Layouts-Verzeichnis (standardmäßig {0})"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "120391db125639b6",
+  "source": "Each directory entry also accepts {0} and {1} glob options, which control which files are scanned within {2}. This is useful when your components live in nested folders that don't follow the default layout, such as a domain-driven structure:",
+  "text": "Jeder Verzeichniseintrag akzeptiert außerdem die Glob-Optionen {0} und {1}, die steuern, welche Dateien in {2} durchsucht werden. Das ist nützlich, wenn deine Komponenten in verschachtelten Verzeichnissen liegen, die nicht dem Standardaufbau folgen, etwa bei einer domänengetriebenen Struktur (Domain-driven):",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Jeder Verzeichniseintrag akzeptiert außerdem die Glob-Optionen {0} und {1}, die steuern, welche Dateien in {2} durchsucht werden. Das ist nützlich, wenn deine Komponenten in verschachtelten Verzeichnissen liegen, die nicht dem Standardaufbau folgen, etwa bei einer domänengetriebenen Struktur (Domain-driven):"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

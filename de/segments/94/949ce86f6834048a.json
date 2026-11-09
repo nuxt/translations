@@ -1,0 +1,14 @@
+{
+  "hash": "949ce86f6834048a",
+  "source": "apiKey: string // Required, no default provided",
+  "text": "apiKey: string // Erforderlich, kein Standardwert angegeben",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "apiKey: string // Erforderlich, kein Standardwert angegeben"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

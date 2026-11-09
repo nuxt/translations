@@ -1,0 +1,14 @@
+{
+  "hash": "dd9de2d8741d448a",
+  "source": "In Nuxt, your routing is defined by the structure of your files inside the {0}app/pages directory{/0}. However, since it uses {1}vue-router{/1} under the hood, Nuxt offers you several ways to add custom routes in your project.",
+  "text": "In Nuxt wird dein Routing durch die Struktur deiner Dateien im {0}Verzeichnis app/pages{/0} festgelegt. Da Nuxt intern jedoch {1}vue-router{/1} verwendet, stehen dir mehrere Möglichkeiten zur Verfügung, benutzerdefinierte Routen zu deinem Projekt hinzuzufügen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In Nuxt wird dein Routing durch die Struktur deiner Dateien im {0}Verzeichnis app/pages{/0} festgelegt. Da Nuxt intern jedoch {1}vue-router{/1} verwendet, stehen dir mehrere Möglichkeiten zur Verfügung, benutzerdefinierte Routen zu deinem Projekt hinzuzufügen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

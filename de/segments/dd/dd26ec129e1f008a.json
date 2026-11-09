@@ -1,0 +1,14 @@
+{
+  "hash": "dd26ec129e1f008a",
+  "source": "Migration to Vite 8",
+  "text": "Migration zu Vite 8",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Migration zu Vite 8"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

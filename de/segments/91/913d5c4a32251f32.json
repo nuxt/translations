@@ -1,0 +1,14 @@
+{
+  "hash": "913d5c4a32251f32",
+  "source": "This enables hydration strategies for {0} components, which improves performance by deferring hydration of components until they're needed.",
+  "text": "Dies aktiviert Hydration-Strategien für {0}-Komponenten und verbessert die Performance, indem die Hydration von Komponenten aufgeschoben wird, bis sie benötigt werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dies aktiviert Hydration-Strategien für {0}-Komponenten und verbessert die Performance, indem die Hydration von Komponenten aufgeschoben wird, bis sie benötigt werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

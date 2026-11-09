@@ -1,0 +1,14 @@
+{
+  "hash": "ec470c51358b2bf4",
+  "source": "Every time a dependency changes, the data will be fetched using the newly constructed URL. Combine this with {0}not-immediate{/0}, and you can wait until the reactive element changes before fetching.",
+  "text": "Jedes Mal, wenn sich eine Abhängigkeit ändert, werden die Daten über die neu erstellte URL abgerufen. Kombinierst du dies mit {0}nicht sofortigem Abruf{/0}, kannst du warten, bis sich das reaktive Element ändert, bevor die Daten abgerufen werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Jedes Mal, wenn sich eine Abhängigkeit ändert, werden die Daten über die neu erstellte URL abgerufen. Kombinierst du dies mit {0}nicht sofortigem Abruf{/0}, kannst du warten, bis sich das reaktive Element ändert, bevor die Daten abgerufen werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

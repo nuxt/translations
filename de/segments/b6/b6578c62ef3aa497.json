@@ -1,0 +1,14 @@
+{
+  "hash": "b6578c62ef3aa497",
+  "source": "Each nested island adds extra overhead, so be careful when nesting islands within other islands.",
+  "text": "Jedes verschachtelte Island verursacht zusätzlichen Overhead, sei daher vorsichtig beim Verschachteln von Islands in anderen Islands.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Jedes verschachtelte Island verursacht zusätzlichen Overhead, sei daher vorsichtig beim Verschachteln von Islands in anderen Islands."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

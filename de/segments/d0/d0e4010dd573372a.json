@@ -1,0 +1,14 @@
+{
+  "hash": "d0e4010dd573372a",
+  "source": "{0} No Longer Returns an {1} Instance",
+  "text": "{0} gibt keine {1}-Instanz mehr zurück",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} gibt keine {1}-Instanz mehr zurück"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

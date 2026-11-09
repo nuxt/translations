@@ -1,0 +1,14 @@
+{
+  "hash": "39eb2de1acf5f29a",
+  "source": "When you start Nuxt in development mode with {0} or building a production application with {1}, a common context will be created, referred to as {2} internally. It holds normalized options merged with {3} file, some internal state, and a powerful {4}hooking system{/4} powered by {5}unjs/hookable{/5} allowing different components to communicate with each other. You can think of it as **Builder Core**.",
+  "text": "Wenn du Nuxt im Entwicklungsmodus mit {0} startest oder eine Produktionsanwendung mit {1} erzeugst, wird ein gemeinsamer Kontext angelegt, der intern als {2} bezeichnet wird. Er enthält normalisierte Optionen, die mit der Datei {3} zusammengeführt wurden, einen internen Zustand und ein leistungsfähiges {4}Hook-System{/4} auf Basis von {5}unjs/hookable{/5}, über das verschiedene Komponenten miteinander kommunizieren können. Du kannst ihn dir als **Builder Core** vorstellen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du Nuxt im Entwicklungsmodus mit {0} startest oder eine Produktionsanwendung mit {1} erzeugst, wird ein gemeinsamer Kontext angelegt, der intern als {2} bezeichnet wird. Er enthält normalisierte Optionen, die mit der Datei {3} zusammengeführt wurden, einen internen Zustand und ein leistungsfähiges {4}Hook-System{/4} auf Basis von {5}unjs/hookable{/5}, über das verschiedene Komponenten miteinander kommunizieren können. Du kannst ihn dir als **Builder Core** vorstellen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

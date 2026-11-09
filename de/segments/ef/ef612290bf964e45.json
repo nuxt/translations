@@ -1,0 +1,14 @@
+{
+  "hash": "ef612290bf964e45",
+  "source": "Client-side rendering is a good choice for heavily interactive **web applications** that don't need indexing or whose users visit frequently. It can leverage browser caching to skip the download phase on subsequent visits, such as **SaaS, back-office applications, or online games**.",
+  "text": "Clientseitiges Rendering ist eine gute Wahl für stark interaktive **Webanwendungen**, die nicht indexiert werden müssen oder deren Nutzende sie häufig besuchen. Es kann das Browser-Caching nutzen, um bei späteren Besuchen die Download-Phase zu überspringen, etwa bei **SaaS-Anwendungen, Back-Office-Anwendungen oder Online-Spielen**.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Clientseitiges Rendering ist eine gute Wahl für stark interaktive **Webanwendungen**, die nicht indexiert werden müssen oder deren Nutzende sie häufig besuchen. Es kann das Browser-Caching nutzen, um bei späteren Besuchen die Download-Phase zu überspringen, etwa bei **SaaS-Anwendungen, Back-Office-Anwendungen oder Online-Spielen**."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

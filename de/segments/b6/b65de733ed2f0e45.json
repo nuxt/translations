@@ -1,0 +1,14 @@
+{
+  "hash": "b65de733ed2f0e45",
+  "source": "Within a rendered {0} it reflects the enclosing layout; outside of one (for example in {1}) it returns the layout that would be resolved for the current route.",
+  "text": "Innerhalb eines gerenderten {0} spiegelt es das umgebende Layout wider. Außerhalb davon (z. B. in {1}) gibt es das Layout zurück, das für die aktuelle Route aufgelöst würde.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Innerhalb eines gerenderten {0} spiegelt es das umgebende Layout wider. Außerhalb davon (z. B. in {1}) gibt es das Layout zurück, das für die aktuelle Route aufgelöst würde."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "6d56496a265b8404",
+  "source": "In the browser, {0} will return an empty object.",
+  "text": "Im Browser gibt {0} ein leeres Objekt zurück.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Im Browser gibt {0} ein leeres Objekt zurück."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

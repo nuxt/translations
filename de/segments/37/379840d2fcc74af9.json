@@ -1,0 +1,14 @@
+{
+  "hash": "379840d2fcc74af9",
+  "source": "Nuxt Kit provides a set of utilities to help you work with components. You can register components globally or locally, and also add directories to be scanned for components.",
+  "text": "Nuxt Kit stellt eine Reihe von Hilfsfunktionen für die Arbeit mit Komponenten bereit. Du kannst Komponenten global oder lokal registrieren und außerdem Verzeichnisse hinzufügen, die nach Komponenten durchsucht werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Kit stellt eine Reihe von Hilfsfunktionen für die Arbeit mit Komponenten bereit. Du kannst Komponenten global oder lokal registrieren und außerdem Verzeichnisse hinzufügen, die nach Komponenten durchsucht werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

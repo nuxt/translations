@@ -1,0 +1,14 @@
+{
+  "hash": "1e29de260cb3f318",
+  "source": "A {0}, streamed as the body.",
+  "text": "Ein {0}, das als Body gestreamt wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein {0}, das als Body gestreamt wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

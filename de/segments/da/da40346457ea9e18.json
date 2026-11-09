@@ -1,0 +1,14 @@
+{
+  "hash": "da40346457ea9e18",
+  "source": "This part of the lifecycle is fully executed in the browser, no matter which Nuxt mode you've chosen.",
+  "text": "Dieser Teil des Lifecycles wird vollständig im Browser ausgeführt, unabhängig davon, welchen Nuxt-Modus du gewählt hast.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dieser Teil des Lifecycles wird vollständig im Browser ausgeführt, unabhängig davon, welchen Nuxt-Modus du gewählt hast."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

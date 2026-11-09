@@ -1,0 +1,14 @@
+{
+  "hash": "b325d9e545c693de",
+  "source": "Resolved path to the file where the function is defined. Supports Nuxt aliases ({0}, {1}, etc.)",
+  "text": "Aufgelöster Pfad zur Datei, in der die Funktion definiert ist. Unterstützt Nuxt-Aliase ({0}, {1} usw.)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Aufgelöster Pfad zur Datei, in der die Funktion definiert ist. Unterstützt Nuxt-Aliase ({0}, {1} usw.)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

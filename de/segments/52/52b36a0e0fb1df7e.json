@@ -1,0 +1,14 @@
+{
+  "hash": "52b36a0e0fb1df7e",
+  "source": "If you need to force a refresh when other reactive values change, you can also {0}watch other values{/0}.",
+  "text": "Wenn du eine Aktualisierung erzwingen möchtest, sobald sich andere reaktive Werte ändern, kannst du auch {0}andere Werte beobachten{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du eine Aktualisierung erzwingen möchtest, sobald sich andere reaktive Werte ändern, kannst du auch {0}andere Werte beobachten{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

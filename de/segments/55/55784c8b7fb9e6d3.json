@@ -1,0 +1,14 @@
+{
+  "hash": "55784c8b7fb9e6d3",
+  "source": "Extending the Return Value",
+  "text": "Den Rückgabewert erweitern",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Den Rückgabewert erweitern"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

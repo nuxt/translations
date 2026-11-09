@@ -1,0 +1,14 @@
+{
+  "hash": "3fe321f98ec8d458",
+  "source": "For the {0} context, place the augmentation file in the {1} directory.",
+  "text": "Lege die Erweiterungsdatei für den Kontext {0} im Verzeichnis {1} ab.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lege die Erweiterungsdatei für den Kontext {0} im Verzeichnis {1} ab."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

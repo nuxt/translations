@@ -1,0 +1,14 @@
+{
+  "hash": "32a361944d9a5acd",
+  "source": "You can override a layer's alias by specifying it in the options next to the layer source.",
+  "text": "Du kannst den Alias eines Layers überschreiben, indem du ihn in den Optionen neben der Layer-Quelle angibst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst den Alias eines Layers überschreiben, indem du ihn in den Optionen neben der Layer-Quelle angibst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "fbf47abafc2730e0",
+  "source": "This can also be set at runtime by setting the NUXT\\_APP\\_BASE\\_URL environment variable.",
+  "text": "Er kann auch zur Laufzeit festgelegt werden, indem die Umgebungsvariable NUXT\\_APP\\_BASE\\_URL gesetzt wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Er kann auch zur Laufzeit festgelegt werden, indem die Umgebungsvariable NUXT\\_APP\\_BASE\\_URL gesetzt wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

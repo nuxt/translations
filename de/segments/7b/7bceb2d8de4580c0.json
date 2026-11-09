@@ -1,0 +1,14 @@
+{
+  "hash": "7bceb2d8de4580c0",
+  "source": "Nuxt allows pages to be statically rendered at build time to improve certain performance or SEO metrics",
+  "text": "Mit Nuxt können Seiten zur Build-Zeit statisch gerendert werden, um bestimmte Performance- oder SEO-Kennzahlen zu verbessern",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit Nuxt können Seiten zur Build-Zeit statisch gerendert werden, um bestimmte Performance- oder SEO-Kennzahlen zu verbessern"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

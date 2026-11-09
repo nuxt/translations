@@ -1,0 +1,14 @@
+{
+  "hash": "62eaefd96e625eb5",
+  "source": "Inlines styles when rendering HTML. This is currently available only when using Vite.",
+  "text": "Bindet Styles beim Rendern von HTML inline ein. Das ist derzeit nur bei Verwendung von Vite verfügbar.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bindet Styles beim Rendern von HTML inline ein. Das ist derzeit nur bei Verwendung von Vite verfügbar."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

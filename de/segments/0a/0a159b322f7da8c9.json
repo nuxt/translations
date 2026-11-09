@@ -1,0 +1,14 @@
+{
+  "hash": "0a159b322f7da8c9",
+  "source": "Rollback the data if the request failed.",
+  "text": "Die Daten zurücksetzen, falls die Anfrage fehlgeschlagen ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Daten zurücksetzen, falls die Anfrage fehlgeschlagen ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

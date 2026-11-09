@@ -1,0 +1,14 @@
+{
+  "hash": "bb4801a1946cf093",
+  "source": "The runtime config does not match its schema when the server starts.",
+  "text": "Die Laufzeitkonfiguration stimmt beim Start des Servers nicht mit ihrem Schema überein.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Laufzeitkonfiguration stimmt beim Start des Servers nicht mit ihrem Schema überein."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

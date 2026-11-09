@@ -1,0 +1,14 @@
+{
+  "hash": "3c69b5327184685e",
+  "source": "{0}: The color of the loading bar when {1} is set to {2}.",
+  "text": "{0}: Die Farbe des Ladebalkens, wenn {1} auf {2} gesetzt ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Die Farbe des Ladebalkens, wenn {1} auf {2} gesetzt ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

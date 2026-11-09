@@ -1,0 +1,14 @@
+{
+  "hash": "e1ed0bf602db4037",
+  "source": "Using islands can significantly increase the number of chunks generated at build time ({0}).",
+  "text": "Die Verwendung von Islands kann die Anzahl der zur Build-Zeit generierten Chunks deutlich erhöhen ({0}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Verwendung von Islands kann die Anzahl der zur Build-Zeit generierten Chunks deutlich erhöhen ({0})."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b7d375adeafe5eba",
+  "source": "These utils are only available within the Vue part of your app.{0}Only {1} are auto-imported in the {2} directory.",
+  "text": "Diese Utils sind nur im Vue-Teil deiner App verfügbar.{0}Im Verzeichnis {2} werden nur {1} automatisch importiert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese Utils sind nur im Vue-Teil deiner App verfügbar.{0}Im Verzeichnis {2} werden nur {1} automatisch importiert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "7f4669d9e1bc8c1d",
+  "source": "{0}Migrate New Composition API{/0}",
+  "text": "{0}Neue Composition API migrieren{/0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}Neue Composition API migrieren{/0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

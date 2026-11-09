@@ -1,0 +1,14 @@
+{
+  "hash": "86eeccc96564e31b",
+  "source": "Extends the Rsbuild configuration. The callback function is called once, with a configuration containing both the {0} and {1} environments.",
+  "text": "Erweitert die Rsbuild-Konfiguration. Die Callback-Funktion wird einmal aufgerufen, und zwar mit einer Konfiguration, die sowohl die Umgebung {0} als auch die Umgebung {1} enthält.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erweitert die Rsbuild-Konfiguration. Die Callback-Funktion wird einmal aufgerufen, und zwar mit einer Konfiguration, die sowohl die Umgebung {0} als auch die Umgebung {1} enthält."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

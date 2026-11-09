@@ -1,0 +1,14 @@
+{
+  "hash": "a3398c385fced405",
+  "source": "Built-in Features",
+  "text": "Integrierte Funktionen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Integrierte Funktionen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

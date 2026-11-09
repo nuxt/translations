@@ -1,0 +1,14 @@
+{
+  "hash": "4e5cc0718d9d5323",
+  "source": "Note that Nuxt Fonts will only generate CSS for the first font in a {0} declaration. Subsequent fonts in the list will be used to generate metrics for font fallbacks.",
+  "text": "Beachte, dass Nuxt Fonts nur für die erste Schriftart in einer {0}-Deklaration CSS generiert. Die folgenden Schriftarten in der Liste werden verwendet, um Metriken für Schrift-Fallbacks zu erzeugen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Beachte, dass Nuxt Fonts nur für die erste Schriftart in einer {0}-Deklaration CSS generiert. Die folgenden Schriftarten in der Liste werden verwendet, um Metriken für Schrift-Fallbacks zu erzeugen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

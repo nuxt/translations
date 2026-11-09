@@ -1,0 +1,14 @@
+{
+  "hash": "13e14f3402b854a7",
+  "source": "Enable this option if the global is read in a way Nuxt cannot detect at build time: dynamic property access (such as {0}), scripts loaded at runtime, inline scripts or scripts in {1}, CommonJS modules, or the browser console.",
+  "text": "Aktiviere diese Option, wenn das globale Objekt auf eine Weise gelesen wird, die Nuxt zur Build-Zeit nicht erkennen kann: dynamischer Eigenschaftszugriff (etwa {0}), zur Laufzeit geladene Skripte, Inline-Skripte oder Skripte in {1}, CommonJS-Module oder die Browserkonsole.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Aktiviere diese Option, wenn das globale Objekt auf eine Weise gelesen wird, die Nuxt zur Build-Zeit nicht erkennen kann: dynamischer Eigenschaftszugriff (etwa {0}), zur Laufzeit geladene Skripte, Inline-Skripte oder Skripte in {1}, CommonJS-Module oder die Browserkonsole."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

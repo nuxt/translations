@@ -1,0 +1,14 @@
+{
+  "hash": "531c681443c2554d",
+  "source": "We value clear, human communication over perfect grammar or spelling",
+  "text": "Uns ist klare, menschliche Kommunikation wichtiger als perfekte Grammatik oder Rechtschreibung",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Uns ist klare, menschliche Kommunikation wichtiger als perfekte Grammatik oder Rechtschreibung"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

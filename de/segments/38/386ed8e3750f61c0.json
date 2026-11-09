@@ -1,0 +1,14 @@
+{
+  "hash": "386ed8e3750f61c0",
+  "source": "Skip git repository initialization",
+  "text": "Überspringt die Initialisierung des Git-Repositorys",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Überspringt die Initialisierung des Git-Repositorys"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

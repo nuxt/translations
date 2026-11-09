@@ -1,0 +1,14 @@
+{
+  "hash": "b0605315c5f49fc5",
+  "source": "**HTTP Headers**: leave empty",
+  "text": "**HTTP Headers**: leer lassen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**HTTP Headers**: leer lassen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

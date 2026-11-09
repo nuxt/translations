@@ -1,0 +1,14 @@
+{
+  "hash": "b1d44885efd44ec7",
+  "source": "Explicit Imports",
+  "text": "Explizite Importe",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Explizite Importe"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

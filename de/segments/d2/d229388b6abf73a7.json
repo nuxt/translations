@@ -1,0 +1,14 @@
+{
+  "hash": "d229388b6abf73a7",
+  "source": "Build Nuxt and prerender static routes",
+  "text": "Nuxt erzeugen und statische Routen vorab rendern",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt erzeugen und statische Routen vorab rendern"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

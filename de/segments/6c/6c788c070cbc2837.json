@@ -1,0 +1,14 @@
+{
+  "hash": "6c788c070cbc2837",
+  "source": "Only the type of {0} is read, so pass {1}; the value is dropped before the request is made. The declared paths are matched **as written**. Do not prefix them with the {2}. A path built at runtime resolves to {3}.",
+  "text": "Nur der Typ von {0} wird ausgelesen, daher übergibst du {1}. Der Wert wird verworfen, bevor die Anfrage gesendet wird. Die deklarierten Pfade werden **wie geschrieben** abgeglichen. Stelle ihnen nicht {2} voran. Ein Pfad, der zur Laufzeit erzeugt wird, wird zu {3} aufgelöst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nur der Typ von {0} wird ausgelesen, daher übergibst du {1}. Der Wert wird verworfen, bevor die Anfrage gesendet wird. Die deklarierten Pfade werden **wie geschrieben** abgeglichen. Stelle ihnen nicht {2} voran. Ein Pfad, der zur Laufzeit erzeugt wird, wird zu {3} aufgelöst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

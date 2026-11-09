@@ -1,0 +1,14 @@
+{
+  "hash": "73dd33eb886e3535",
+  "source": "Used to set the modules directories for path resolving (for example, webpack's {0}, {1} and {2}).",
+  "text": "Legt die Modulverzeichnisse für die Pfadauflösung fest (z. B. {0}, {1} und {2} von webpack).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Legt die Modulverzeichnisse für die Pfadauflösung fest (z. B. {0}, {1} und {2} von webpack)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

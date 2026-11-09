@@ -1,0 +1,14 @@
+{
+  "hash": "05c3d45122fdfdcf",
+  "source": "There are three kinds of route middleware:",
+  "text": "Es gibt drei Arten von Routen-Middleware:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Es gibt drei Arten von Routen-Middleware:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

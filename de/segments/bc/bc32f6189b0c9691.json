@@ -1,0 +1,14 @@
+{
+  "hash": "bc32f6189b0c9691",
+  "source": "**Problem**: With the development of the project, there can be a case where there will be some unused code or a dependency. This additional functionality may not be used or needed while it will be increase the bundle size of our project.",
+  "text": "**Problem**: Im Laufe der Projektentwicklung kann es vorkommen, dass ungenutzter Code oder eine ungenutzte Abhängigkeit vorhanden ist. Diese zusätzliche Funktionalität wird möglicherweise weder verwendet noch benötigt, vergrößert aber das Bundle unseres Projekts.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Problem**: Im Laufe der Projektentwicklung kann es vorkommen, dass ungenutzter Code oder eine ungenutzte Abhängigkeit vorhanden ist. Diese zusätzliche Funktionalität wird möglicherweise weder verwendet noch benötigt, vergrößert aber das Bundle unseres Projekts."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

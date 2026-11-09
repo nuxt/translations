@@ -1,0 +1,14 @@
+{
+  "hash": "dd6b2dc890d8d02c",
+  "source": "Handlers can directly return objects/arrays for an automatically-handled JSON response",
+  "text": "Handler können Objekte oder Arrays direkt zurückgeben, woraus automatisch eine JSON-Antwort erzeugt wird",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Handler können Objekte oder Arrays direkt zurückgeben, woraus automatisch eine JSON-Antwort erzeugt wird"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

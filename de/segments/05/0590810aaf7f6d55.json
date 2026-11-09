@@ -1,0 +1,14 @@
+{
+  "hash": "0590810aaf7f6d55",
+  "source": "Watch a video from Vue School on API routes",
+  "text": "Sieh dir ein Video von Vue School über API-Routen an",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sieh dir ein Video von Vue School über API-Routen an"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

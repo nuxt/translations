@@ -1,0 +1,14 @@
+{
+  "hash": "e597874780f05e99",
+  "source": "Most of those helpers take the event as it is:",
+  "text": "Die meisten dieser Hilfsprogramme nehmen das Event unverändert entgegen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die meisten dieser Hilfsprogramme nehmen das Event unverändert entgegen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

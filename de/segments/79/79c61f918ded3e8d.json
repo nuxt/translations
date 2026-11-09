@@ -1,0 +1,14 @@
+{
+  "hash": "79c61f918ded3e8d",
+  "source": "Enables the experimental {0} component for rendering content on the client if there's an error in SSR.",
+  "text": "Aktiviert die experimentelle Komponente {0}, die Inhalte auf dem Client rendert, wenn bei SSR ein Fehler auftritt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Aktiviert die experimentelle Komponente {0}, die Inhalte auf dem Client rendert, wenn bei SSR ein Fehler auftritt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

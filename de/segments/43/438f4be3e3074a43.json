@@ -1,0 +1,14 @@
+{
+  "hash": "438f4be3e3074a43",
+  "source": "Enable the app manifest in your {0}:",
+  "text": "Aktiviere das App-Manifest in deiner {0}:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Aktiviere das App-Manifest in deiner {0}:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

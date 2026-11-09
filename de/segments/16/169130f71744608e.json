@@ -1,0 +1,14 @@
+{
+  "hash": "169130f71744608e",
+  "source": "Form Validation",
+  "text": "Formularvalidierung",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Formularvalidierung"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

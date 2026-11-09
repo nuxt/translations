@@ -1,0 +1,14 @@
+{
+  "hash": "a5d5d5b9b02c675b",
+  "source": "Read more about augmenting specific type contexts from **files outside those contexts** in the Module Author Guide.",
+  "text": "Mehr dazu, wie du bestimmte Typkontexte aus **Dateien außerhalb dieser Kontexte** erweiterst, findest du in der Anleitung für Modulautoren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mehr dazu, wie du bestimmte Typkontexte aus **Dateien außerhalb dieser Kontexte** erweiterst, findest du in der Anleitung für Modulautoren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e9d5456f5628bf2c",
+  "source": "By default, {0} pushes the given route into the Vue Router's instance on the client side.",
+  "text": "Standardmäßig fügt {0} die angegebene Route clientseitig in die Instanz von Vue Router ein.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardmäßig fügt {0} die angegebene Route clientseitig in die Instanz von Vue Router ein."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

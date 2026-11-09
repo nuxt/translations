@@ -1,0 +1,14 @@
+{
+  "hash": "c6603c626b2bb9f0",
+  "source": "Preload hints take effect as soon as the HTML is parsed. Prefetch hints are rendered with {0} in place of {1}, so the browser ignores them until Nuxt activates them once the app is ready (see {2}). They are also left out of the {3} response header and 103 Early Hints. That way they do not compete with the page's own resources while it loads. You can turn this off with {4}. On a connection with data saver enabled, or a 2G connection, they are not activated at all. Routes served with {5} have no client to activate them, so their non-script prefetch hints are rendered with {6}.",
+  "text": "Preload-Hints wirken, sobald das HTML geparst wurde. Prefetch-Hints werden mit {0} statt {1} gerendert, sodass der Browser sie ignoriert, bis Nuxt sie aktiviert, sobald die App bereit ist (siehe {2}). Sie werden außerdem im Antwort-Header {3} und in 103 Early Hints ausgelassen. So konkurrieren sie beim Laden nicht mit den eigenen Ressourcen der Seite. Du kannst dies mit {4} deaktivieren. Bei einer Verbindung mit aktiviertem Datensparmodus oder einer 2G-Verbindung werden sie gar nicht aktiviert. Routen, die mit {5} ausgeliefert werden, haben keinen Client, der sie aktivieren könnte, daher werden ihre Prefetch-Hints, die keine Skripte betreffen, mit {6} gerendert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Preload-Hints wirken, sobald das HTML geparst wurde. Prefetch-Hints werden mit {0} statt {1} gerendert, sodass der Browser sie ignoriert, bis Nuxt sie aktiviert, sobald die App bereit ist (siehe {2}). Sie werden außerdem im Antwort-Header {3} und in 103 Early Hints ausgelassen. So konkurrieren sie beim Laden nicht mit den eigenen Ressourcen der Seite. Du kannst dies mit {4} deaktivieren. Bei einer Verbindung mit aktiviertem Datensparmodus oder einer 2G-Verbindung werden sie gar nicht aktiviert. Routen, die mit {5} ausgeliefert werden, haben keinen Client, der sie aktivieren könnte, daher werden ihre Prefetch-Hints, die keine Skripte betreffen, mit {6} gerendert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

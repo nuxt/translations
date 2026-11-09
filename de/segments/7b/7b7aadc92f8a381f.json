@@ -1,0 +1,14 @@
+{
+  "hash": "7b7aadc92f8a381f",
+  "source": "{0} - does not make new requests at all if there is a pending request",
+  "text": "{0} – stellt gar keine neue Anfrage, wenn bereits eine Anfrage aussteht",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} – stellt gar keine neue Anfrage, wenn bereits eine Anfrage aussteht"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

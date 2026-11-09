@@ -1,0 +1,14 @@
+{
+  "hash": "1703005ec425766f",
+  "source": "You can enable hash history in SPA mode. In this mode, router uses a hash character (#) before the actual URL that is internally passed. When enabled, the **URL is never sent to the server** and **SSR is not supported**.",
+  "text": "Du kannst den Hash-Verlauf im SPA-Modus aktivieren. In diesem Modus verwendet der Router ein Hash-Zeichen (#) vor der eigentlichen URL, die intern weitergegeben wird. Ist er aktiviert, wird die **URL nie an den Server gesendet** und **SSR wird nicht unterstützt**.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst den Hash-Verlauf im SPA-Modus aktivieren. In diesem Modus verwendet der Router ein Hash-Zeichen (#) vor der eigentlichen URL, die intern weitergegeben wird. Ist er aktiviert, wird die **URL nie an den Server gesendet** und **SSR wird nicht unterstützt**."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

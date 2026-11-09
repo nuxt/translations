@@ -1,0 +1,14 @@
+{
+  "hash": "10507dd8d107c478",
+  "source": "Define the directory where generated types and {0} files will be placed.",
+  "text": "Legt das Verzeichnis fest, in dem generierte Typen und {0}-Dateien abgelegt werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Legt das Verzeichnis fest, in dem generierte Typen und {0}-Dateien abgelegt werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

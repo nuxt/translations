@@ -1,0 +1,14 @@
+{
+  "hash": "d50c4905baecc72e",
+  "source": "Configuration for Nuxt's TypeScript integration.",
+  "text": "Konfiguration für die TypeScript-Integration von Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Konfiguration für die TypeScript-Integration von Nuxt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

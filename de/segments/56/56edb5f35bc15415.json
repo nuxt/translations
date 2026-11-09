@@ -1,0 +1,14 @@
+{
+  "hash": "56edb5f35bc15415",
+  "source": "{0} / {1} register bundler-specific plugins.",
+  "text": "{0} / {1} registrieren Bundler-spezifische Plugins.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} / {1} registrieren Bundler-spezifische Plugins."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

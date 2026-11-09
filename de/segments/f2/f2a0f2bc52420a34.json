@@ -1,0 +1,14 @@
+{
+  "hash": "f2a0f2bc52420a34",
+  "source": "(\\*) Avoid depending on runtime hooks like {0} for production",
+  "text": "(\\*) Verlasse dich in der Produktion nicht auf Laufzeit-Hooks wie {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "(\\*) Verlasse dich in der Produktion nicht auf Laufzeit-Hooks wie {0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

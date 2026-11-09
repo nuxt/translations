@@ -1,0 +1,14 @@
+{
+  "hash": "ad76b8ce85627b10",
+  "source": "{0}: scripts are omitted in both development and production.",
+  "text": "{0}: Skripte werden sowohl in der Entwicklung als auch in der Produktion weggelassen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Skripte werden sowohl in der Entwicklung als auch in der Produktion weggelassen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

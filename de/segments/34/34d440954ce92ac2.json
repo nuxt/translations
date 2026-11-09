@@ -1,0 +1,14 @@
+{
+  "hash": "34d440954ce92ac2",
+  "source": "This allows modules to access additional metadata from the page metadata in the build context. If you are using this within a module, it's recommended also to {0}augment the {1} types with your keys{/0}.",
+  "text": "So können Module im Build-Kontext auf zusätzliche Metadaten aus den Seitenmetadaten zugreifen. Wenn du das in einem Modul verwendest, empfiehlt es sich außerdem, {0}die {1}-Typen um deine Schlüssel zu erweitern{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "So können Module im Build-Kontext auf zusätzliche Metadaten aus den Seitenmetadaten zugreifen. Wenn du das in einem Modul verwendest, empfiehlt es sich außerdem, {0}die {1}-Typen um deine Schlüssel zu erweitern{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "158062e68196008b",
+  "source": "{0} - Disables server-side rendering of the HTML for sections of your app and make them render only in the browser with {1}",
+  "text": "{0} – Deaktiviert das serverseitige Rendering des HTML für Teile deiner App, sodass diese nur im Browser mit {1} gerendert werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} – Deaktiviert das serverseitige Rendering des HTML für Teile deiner App, sodass diese nur im Browser mit {1} gerendert werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "10d54d50dff0df11",
+  "source": "The example below demonstrates:",
+  "text": "Das folgende Beispiel zeigt:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das folgende Beispiel zeigt:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

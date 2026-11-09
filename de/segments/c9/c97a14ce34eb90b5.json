@@ -1,0 +1,14 @@
+{
+  "hash": "c97a14ce34eb90b5",
+  "source": "Dynamic Styles With {0}",
+  "text": "Dynamische Styles mit {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dynamische Styles mit {0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

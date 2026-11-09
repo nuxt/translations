@@ -1,0 +1,14 @@
+{
+  "hash": "f3377519bbf2e8ea",
+  "source": "User-generated content that might contain malicious code",
+  "text": "Nutzergenerierte Inhalte, die schädlichen Code enthalten könnten",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nutzergenerierte Inhalte, die schädlichen Code enthalten könnten"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

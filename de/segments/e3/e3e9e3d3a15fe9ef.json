@@ -1,0 +1,14 @@
+{
+  "hash": "e3e9e3d3a15fe9ef",
+  "source": "{0} controls the {1} ref returned by {2} and {3}.",
+  "text": "{0} steuert die von {2} und {3} zurückgegebene Ref {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} steuert die von {2} und {3} zurückgegebene Ref {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "d712a519a4acbb6f",
+  "source": "Be aware that you have to run {0}, {1} or {2} in order to let Nuxt generate the types.",
+  "text": "Beachte, dass du {0}, {1} oder {2} ausführen musst, damit Nuxt die Typen generiert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Beachte, dass du {0}, {1} oder {2} ausführen musst, damit Nuxt die Typen generiert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

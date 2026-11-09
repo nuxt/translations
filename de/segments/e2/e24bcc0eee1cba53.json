@@ -1,0 +1,14 @@
+{
+  "hash": "e24bcc0eee1cba53",
+  "source": "Watch Daniel Roe's short video on the topic",
+  "text": "Sieh dir das kurze Video von Daniel Roe zu diesem Thema an",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sieh dir das kurze Video von Daniel Roe zu diesem Thema an"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

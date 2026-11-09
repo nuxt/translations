@@ -1,0 +1,14 @@
+{
+  "hash": "55bd444e42e9d211",
+  "source": "**After your server is built**, you are responsible for setting environment variables when you run the server.",
+  "text": "**Nachdem dein Server erzeugt wurde**, bist du selbst dafür verantwortlich, beim Ausführen des Servers Umgebungsvariablen zu setzen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Nachdem dein Server erzeugt wurde**, bist du selbst dafür verantwortlich, beim Ausführen des Servers Umgebungsvariablen zu setzen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

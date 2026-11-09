@@ -1,0 +1,14 @@
+{
+  "hash": "6fe649fd14ecb14a",
+  "source": "Once you've read the {0}general contribution guide{/0}, here are some specific points to make about contributions to the {1} repository.",
+  "text": "Nachdem du die {0}allgemeine Anleitung zum Mitwirken{/0} gelesen hast, folgen hier einige spezielle Hinweise zu Beiträgen zum {1}-Repository.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nachdem du die {0}allgemeine Anleitung zum Mitwirken{/0} gelesen hast, folgen hier einige spezielle Hinweise zu Beiträgen zum {1}-Repository."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

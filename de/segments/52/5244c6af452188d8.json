@@ -1,0 +1,14 @@
+{
+  "hash": "5244c6af452188d8",
+  "source": "This step is similar to traditional **server-side rendering** performed by PHP or Ruby applications. When the browser requests a URL with universal rendering enabled, Nuxt runs the JavaScript (Vue.js) code in a server environment and returns a fully rendered HTML page to the browser. Nuxt may also return a fully rendered HTML page from a cache if the page was generated in advance. Users immediately get the entirety of the initial content of the application, contrary to client-side rendering.",
+  "text": "Dieser Schritt ähnelt dem klassischen **serverseitigen Rendering**, wie es PHP- oder Ruby-Anwendungen durchführen. Wenn der Browser bei aktiviertem universellem Rendering eine URL anfragt, führt Nuxt den JavaScript-Code (Vue.js) in einer Serverumgebung aus und liefert dem Browser eine vollständig gerenderte HTML-Seite zurück. Nuxt kann außerdem eine vollständig gerenderte HTML-Seite aus einem Cache zurückgeben, wenn die Seite vorab generiert wurde. Im Gegensatz zum clientseitigen Rendering erhalten Nutzende sofort den gesamten Anfangsinhalt der Anwendung.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dieser Schritt ähnelt dem klassischen **serverseitigen Rendering**, wie es PHP- oder Ruby-Anwendungen durchführen. Wenn der Browser bei aktiviertem universellem Rendering eine URL anfragt, führt Nuxt den JavaScript-Code (Vue.js) in einer Serverumgebung aus und liefert dem Browser eine vollständig gerenderte HTML-Seite zurück. Nuxt kann außerdem eine vollständig gerenderte HTML-Seite aus einem Cache zurückgeben, wenn die Seite vorab generiert wurde. Im Gegensatz zum clientseitigen Rendering erhalten Nutzende sofort den gesamten Anfangsinhalt der Anwendung."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

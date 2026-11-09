@@ -1,0 +1,14 @@
+{
+  "hash": "8eb74ed8da65888c",
+  "source": "Nuxt 5 is **currently in development**. From Nuxt 4.2+ you can test many of its breaking changes by setting {0} to {1}:",
+  "text": "Nuxt 5 befindet sich **derzeit in Entwicklung**. Ab Nuxt 4.2+ kannst du viele der inkompatiblen Änderungen testen, indem du {0} auf {1} setzt:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt 5 befindet sich **derzeit in Entwicklung**. Ab Nuxt 4.2+ kannst du viele der inkompatiblen Änderungen testen, indem du {0} auf {1} setzt:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e630e71bbc28f510",
+  "source": "**In the Connectors tab, Create a new connector:**",
+  "text": "**Erstelle in der Registerkarte „Connectors“ einen neuen Konnektor:**",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Erstelle in der Registerkarte „Connectors“ einen neuen Konnektor:**"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

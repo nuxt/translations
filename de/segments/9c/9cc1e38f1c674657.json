@@ -1,0 +1,14 @@
+{
+  "hash": "9cc1e38f1c674657",
+  "source": "When enabled, changes to the following files will trigger a full rebuild:",
+  "text": "Wenn das Flag aktiviert ist, lösen Änderungen an den folgenden Dateien einen vollständigen Rebuild aus:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn das Flag aktiviert ist, lösen Änderungen an den folgenden Dateien einen vollständigen Rebuild aus:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

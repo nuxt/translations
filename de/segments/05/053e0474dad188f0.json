@@ -1,0 +1,14 @@
+{
+  "hash": "053e0474dad188f0",
+  "source": "With Custom Locale",
+  "text": "Mit benutzerdefiniertem Gebietsschema",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit benutzerdefiniertem Gebietsschema"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

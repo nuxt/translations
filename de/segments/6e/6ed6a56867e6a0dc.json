@@ -1,0 +1,14 @@
+{
+  "hash": "6ed6a56867e6a0dc",
+  "source": "Run {0} to generate {1}.",
+  "text": "Führe {0} aus, um {1} zu generieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Führe {0} aus, um {1} zu generieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

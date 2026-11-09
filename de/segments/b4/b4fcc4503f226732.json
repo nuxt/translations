@@ -1,0 +1,14 @@
+{
+  "hash": "b4fcc4503f226732",
+  "source": "Available options for both client and server:",
+  "text": "Verfügbare Optionen für Client und Server:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verfügbare Optionen für Client und Server:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

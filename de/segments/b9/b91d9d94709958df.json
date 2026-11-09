@@ -1,0 +1,14 @@
+{
+  "hash": "b91d9d94709958df",
+  "source": "{0} - Aborts the navigation, with an optional error message.",
+  "text": "{0} – Bricht die Navigation ab, optional mit einer Fehlermeldung.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} – Bricht die Navigation ab, optional mit einer Fehlermeldung."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "cd86648fd9e66602",
+  "source": "**{0}**: One or more package names to check, and to install if they are missing.",
+  "text": "**{0}**: Ein oder mehrere Paketnamen, die geprüft und bei Fehlen installiert werden sollen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}**: Ein oder mehrere Paketnamen, die geprüft und bei Fehlen installiert werden sollen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

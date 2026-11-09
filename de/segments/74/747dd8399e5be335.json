@@ -1,0 +1,14 @@
+{
+  "hash": "747dd8399e5be335",
+  "source": "If your module should augment types handled by Nuxt, you can use {0} to perform this operation:",
+  "text": "Wenn dein Modul von Nuxt verwaltete Typen erweitern soll, kannst du dafür {0} verwenden:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn dein Modul von Nuxt verwaltete Typen erweitern soll, kannst du dafür {0} verwenden:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

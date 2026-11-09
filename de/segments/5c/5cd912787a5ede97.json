@@ -1,0 +1,14 @@
+{
+  "hash": "5cd912787a5ede97",
+  "source": "Route rules are augmented on a different module again. See {0}Route Rule Types Move to {1}{/0}.",
+  "text": "Route Rules werden wiederum in einem anderen Modul erweitert. Siehe {0}Typen für Route Rules wechseln zu {1}{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Route Rules werden wiederum in einem anderen Modul erweitert. Siehe {0}Typen für Route Rules wechseln zu {1}{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

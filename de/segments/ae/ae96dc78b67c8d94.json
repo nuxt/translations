@@ -1,0 +1,14 @@
+{
+  "hash": "ae96dc78b67c8d94",
+  "source": "Time strategy is for components that can wait a specific amount of time.",
+  "text": "Die Time-Strategie eignet sich für Komponenten, die eine bestimmte Zeit warten können.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Time-Strategie eignet sich für Komponenten, die eine bestimmte Zeit warten können."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

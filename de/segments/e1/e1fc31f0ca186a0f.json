@@ -1,0 +1,14 @@
+{
+  "hash": "e1fc31f0ca186a0f",
+  "source": "Shortcut for {0}. Registers a single callback for a specific lifecycle hook.",
+  "text": "Kurzform für {0}. Registriert einen einzelnen Callback für einen bestimmten Lifecycle-Hook.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Kurzform für {0}. Registriert einen einzelnen Callback für einen bestimmten Lifecycle-Hook."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

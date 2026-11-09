@@ -1,0 +1,14 @@
+{
+  "hash": "542501b373469263",
+  "source": "**Benefits of server-side rendering:**",
+  "text": "**Vorteile des serverseitigen Renderings:**",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Vorteile des serverseitigen Renderings:**"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

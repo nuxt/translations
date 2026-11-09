@@ -1,0 +1,14 @@
+{
+  "hash": "737d994b80847dc4",
+  "source": "The {0} property is intended for short, HTTP-compliant status texts (e.g., \"Not Found\"). It should only contain horizontal tabs, spaces, and visible ASCII characters ({1}).",
+  "text": "Die Eigenschaft {0} ist für kurze, HTTP-konforme Statustexte vorgesehen (z. B. „Not Found“). Sie sollte nur horizontale Tabulatoren, Leerzeichen und sichtbare ASCII-Zeichen ({1}) enthalten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Eigenschaft {0} ist für kurze, HTTP-konforme Statustexte vorgesehen (z. B. „Not Found“). Sie sollte nur horizontale Tabulatoren, Leerzeichen und sichtbare ASCII-Zeichen ({1}) enthalten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

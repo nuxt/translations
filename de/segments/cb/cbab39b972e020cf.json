@@ -1,0 +1,14 @@
+{
+  "hash": "cbab39b972e020cf",
+  "source": "For example, you could enable the auto-import of the {0} composable from the {1} package like this:",
+  "text": "Du kannst zum Beispiel den automatischen Import des Composables {0} aus dem Paket {1} wie folgt aktivieren:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst zum Beispiel den automatischen Import des Composables {0} aus dem Paket {1} wie folgt aktivieren:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

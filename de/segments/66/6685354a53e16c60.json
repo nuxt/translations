@@ -1,0 +1,14 @@
+{
+  "hash": "6685354a53e16c60",
+  "source": "The type checker runs in its own process. Unless you set {0}, the heap limit of {1} is raised to half of the memory of your machine (or of the container it runs in), up to 8 GB and at most the memory currently available. It is never set lower than Node's default. Golar type-checks outside of the JavaScript heap, so its limit is left alone.",
+  "text": "Die Typprüfung läuft in einem eigenen Prozess. Sofern du {0} nicht setzt, wird das Heap-Limit von {1} auf die Hälfte des Arbeitsspeichers deines Rechners (oder des Containers, in dem sie läuft) angehoben, höchstens auf 8 GB und maximal auf den aktuell verfügbaren Speicher. Es wird nie niedriger als der Standardwert von Node gesetzt. Golar prüft Typen außerhalb des JavaScript-Heaps, daher bleibt dessen Limit unverändert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Typprüfung läuft in einem eigenen Prozess. Sofern du {0} nicht setzt, wird das Heap-Limit von {1} auf die Hälfte des Arbeitsspeichers deines Rechners (oder des Containers, in dem sie läuft) angehoben, höchstens auf 8 GB und maximal auf den aktuell verfügbaren Speicher. Es wird nie niedriger als der Standardwert von Node gesetzt. Golar prüft Typen außerhalb des JavaScript-Heaps, daher bleibt dessen Limit unverändert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

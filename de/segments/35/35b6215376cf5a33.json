@@ -1,0 +1,14 @@
+{
+  "hash": "35b6215376cf5a33",
+  "source": "In addition, any changes to files within {0} will trigger a rebuild of the Vue client/server bundle. Nitro will always be rebuilt (though work is in progress to allow Nitro to announce its cacheable artifacts and their hashes).",
+  "text": "Außerdem löst jede Änderung an Dateien in {0} einen Rebuild des Vue-Client-/Server-Bundles aus. Nitro wird immer neu erzeugt (es wird jedoch daran gearbeitet, dass Nitro seine cachebaren Artefakte und deren Hashes bekannt geben kann).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Außerdem löst jede Änderung an Dateien in {0} einen Rebuild des Vue-Client-/Server-Bundles aus. Nitro wird immer neu erzeugt (es wird jedoch daran gearbeitet, dass Nitro seine cachebaren Artefakte und deren Hashes bekannt geben kann)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

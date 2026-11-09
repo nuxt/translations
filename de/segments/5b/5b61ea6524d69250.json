@@ -1,0 +1,14 @@
+{
+  "hash": "5b61ea6524d69250",
+  "source": "**{0}**: Retrieves deployment provider details and instructions by path",
+  "text": "**{0}**: Ruft Details und Anleitungen eines Hosting-Anbieters anhand des Pfads ab",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}**: Ruft Details und Anleitungen eines Hosting-Anbieters anhand des Pfads ab"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

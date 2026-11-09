@@ -1,0 +1,14 @@
+{
+  "hash": "b545026bb61c7c46",
+  "source": "{0} file is used to ignore files in the root directory during the build phase.",
+  "text": "Die Datei {0} dient dazu, Dateien im Projektstammverzeichnis während der Build-Phase zu ignorieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Datei {0} dient dazu, Dateien im Projektstammverzeichnis während der Build-Phase zu ignorieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

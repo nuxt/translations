@@ -1,0 +1,14 @@
+{
+  "hash": "958b6dad88e67525",
+  "source": "How to detect them",
+  "text": "So erkennst du sie",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "So erkennst du sie"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

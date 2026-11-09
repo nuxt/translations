@@ -1,0 +1,14 @@
+{
+  "hash": "03216393f4720b08",
+  "source": "{0}: Checks if a route with a given name exists.",
+  "text": "{0}: Prüft, ob eine Route mit einem bestimmten Namen existiert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Prüft, ob eine Route mit einem bestimmten Namen existiert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

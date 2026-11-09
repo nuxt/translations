@@ -1,0 +1,14 @@
+{
+  "hash": "a98a2f1fe1f9c16a",
+  "source": "Server routes can use dynamic parameters within brackets in the file name like {0} and be accessed via {1}.",
+  "text": "Server-Routen können dynamische Parameter in eckigen Klammern im Dateinamen verwenden, z. B. {0}, und sind über {1} erreichbar.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Server-Routen können dynamische Parameter in eckigen Klammern im Dateinamen verwenden, z. B. {0}, und sind über {1} erreichbar."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

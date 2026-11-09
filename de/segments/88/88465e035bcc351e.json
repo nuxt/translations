@@ -1,0 +1,14 @@
+{
+  "hash": "88465e035bcc351e",
+  "source": "To display the {0} component, you have to insert the {1} component inside {2}:",
+  "text": "Um die Komponente {0} anzuzeigen, musst du die Komponente {1} in {2} einfügen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um die Komponente {0} anzuzeigen, musst du die Komponente {1} in {2} einfügen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

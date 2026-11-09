@@ -1,0 +1,14 @@
+{
+  "hash": "2c82eafd51bc710c",
+  "source": "A simple way to provide global state management with pinia would be:",
+  "text": "Eine einfache Möglichkeit, globale Zustandsverwaltung mit Pinia bereitzustellen, sieht so aus:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine einfache Möglichkeit, globale Zustandsverwaltung mit Pinia bereitzustellen, sieht so aus:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "eb36837df2b3d40c",
+  "source": "{0} provides some built-in mocks for the DOM environment. These are only available in the Nuxt environment.",
+  "text": "{0} stellt einige integrierte Mocks für die DOM-Umgebung bereit. Diese sind nur in der Nuxt-Umgebung verfügbar.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} stellt einige integrierte Mocks für die DOM-Umgebung bereit. Diese sind nur in der Nuxt-Umgebung verfügbar."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

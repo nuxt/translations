@@ -1,0 +1,14 @@
+{
+  "hash": "9dbf3cd89ba8e48f",
+  "source": "In this recipe we'll be setting up authentication in a full-stack Nuxt app using {0}Nuxt Auth Utils{/0} which provides convenient utilities for managing client-side and server-side session data.",
+  "text": "In diesem Rezept richten wir die Authentifizierung in einer Full-Stack-Nuxt-App mit {0}Nuxt Auth Utils{/0} ein. Das Modul bietet praktische Hilfsfunktionen zur Verwaltung von Sitzungsdaten auf Client- und Serverseite.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In diesem Rezept richten wir die Authentifizierung in einer Full-Stack-Nuxt-App mit {0}Nuxt Auth Utils{/0} ein. Das Modul bietet praktische Hilfsfunktionen zur Verwaltung von Sitzungsdaten auf Client- und Serverseite."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

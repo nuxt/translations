@@ -1,0 +1,14 @@
+{
+  "hash": "e83722c28bd5036c",
+  "source": "Nuxt provides composables to handle data fetching within your application.",
+  "text": "Nuxt stellt Composables bereit, mit denen du den Datenabruf in deiner Anwendung abwickelst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt stellt Composables bereit, mit denen du den Datenabruf in deiner Anwendung abwickelst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

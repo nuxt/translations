@@ -1,0 +1,14 @@
+{
+  "hash": "3e0ddd2c90abc672",
+  "source": "Nuxt has built-in support for loading {0} files. Avoid directly importing it from {1}.",
+  "text": "Nuxt unterstützt das Laden von {0}-Dateien integriert. Importiere sie nicht direkt aus {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt unterstützt das Laden von {0}-Dateien integriert. Importiere sie nicht direkt aus {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

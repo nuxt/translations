@@ -1,0 +1,14 @@
+{
+  "hash": "e173ce56c0e626fd",
+  "source": "Whether to clean up Nuxt static and asyncData caches on route navigation.",
+  "text": "Legt fest, ob die statischen Caches von Nuxt und die asyncData-Caches bei der Routennavigation bereinigt werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Legt fest, ob die statischen Caches von Nuxt und die asyncData-Caches bei der Routennavigation bereinigt werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

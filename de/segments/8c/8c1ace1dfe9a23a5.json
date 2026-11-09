@@ -1,0 +1,14 @@
+{
+  "hash": "8c1ace1dfe9a23a5",
+  "source": "When the error page is rendered on the server in production, it only receives the {0} and {1} of an error created with {2}. Any other error the app throws, such as a failed {3}, is marked {4} and reaches the error page and the payload with its status and a generic message. To show its details, catch it and throw a {5} with what the client may see.",
+  "text": "Wird die Fehlerseite in Produktion auf dem Server gerendert, erhält sie nur {0} und {1} eines mit {2} erzeugten Fehlers. Jeder andere Fehler, den die App auslöst, etwa ein fehlgeschlagenes {3}, wird als {4} markiert und gelangt mit seinem Status und einer generischen Meldung zur Fehlerseite und in die Payload. Um seine Details anzuzeigen, fange ihn ab und löse einen {5} mit den Informationen aus, die der Client sehen darf.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird die Fehlerseite in Produktion auf dem Server gerendert, erhält sie nur {0} und {1} eines mit {2} erzeugten Fehlers. Jeder andere Fehler, den die App auslöst, etwa ein fehlgeschlagenes {3}, wird als {4} markiert und gelangt mit seinem Status und einer generischen Meldung zur Fehlerseite und in die Payload. Um seine Details anzuzeigen, fange ihn ab und löse einen {5} mit den Informationen aus, die der Client sehen darf."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

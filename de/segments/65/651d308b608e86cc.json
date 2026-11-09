@@ -1,0 +1,14 @@
+{
+  "hash": "651d308b608e86cc",
+  "source": "Configure shared esbuild options used within Nuxt and passed to other builders, such as Vite or webpack.",
+  "text": "Konfiguriere gemeinsame esbuild-Optionen, die innerhalb von Nuxt verwendet und an andere Bundler wie Vite oder webpack weitergegeben werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Konfiguriere gemeinsame esbuild-Optionen, die innerhalb von Nuxt verwendet und an andere Bundler wie Vite oder webpack weitergegeben werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

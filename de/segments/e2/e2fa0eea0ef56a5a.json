@@ -1,0 +1,14 @@
+{
+  "hash": "e2fa0eea0ef56a5a",
+  "source": "To add imports for the Nitro server context, refer to the {0} function.",
+  "text": "Informationen zum Hinzufügen von Importen für den Nitro-Server-Kontext findest du bei der Funktion {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Informationen zum Hinzufügen von Importen für den Nitro-Server-Kontext findest du bei der Funktion {0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

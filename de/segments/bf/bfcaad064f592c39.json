@@ -1,0 +1,14 @@
+{
+  "hash": "bfcaad064f592c39",
+  "source": "A range is expanded to the characters it covers, so keep them tight. Ranges covering more than 65,536 codepoints in total are ignored with a warning.",
+  "text": "Ein Bereich wird auf die Zeichen aufgelöst, die er abdeckt, halte ihn also möglichst klein. Bereiche, die insgesamt mehr als 65.536 Codepoints abdecken, werden mit einer Warnung ignoriert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein Bereich wird auf die Zeichen aufgelöst, die er abdeckt, halte ihn also möglichst klein. Bereiche, die insgesamt mehr als 65.536 Codepoints abdecken, werden mit einer Warnung ignoriert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

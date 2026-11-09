@@ -1,0 +1,14 @@
+{
+  "hash": "f44c717cc9a1b3d6",
+  "source": "Recipe: Custom {0} Instance",
+  "text": "Rezept: Eigene {0}-Instanz",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Rezept: Eigene {0}-Instanz"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

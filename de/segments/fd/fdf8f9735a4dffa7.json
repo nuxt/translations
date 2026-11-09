@@ -1,0 +1,14 @@
+{
+  "hash": "fdf8f9735a4dffa7",
+  "source": "Idle Strategy",
+  "text": "Idle-Strategie",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Idle-Strategie"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

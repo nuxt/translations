@@ -1,0 +1,14 @@
+{
+  "hash": "7eef9e36d585116d",
+  "source": "{0}Panda CSS{/0}: CSS-in-JS engine that generates atomic CSS at build time",
+  "text": "{0}Panda CSS{/0}: CSS-in-JS-Engine, die zur Build-Zeit atomares CSS generiert",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}Panda CSS{/0}: CSS-in-JS-Engine, die zur Build-Zeit atomares CSS generiert"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

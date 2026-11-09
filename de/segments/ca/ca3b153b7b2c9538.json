@@ -1,0 +1,14 @@
+{
+  "hash": "ca3b153b7b2c9538",
+  "source": "More customizable than {0}: all files matching glob patterns specified inside the {1} array will be ignored in building.",
+  "text": "Anpassbarer als {0}: Alle Dateien, die den im Array {1} angegebenen Glob-Mustern entsprechen, werden beim Erstellen ignoriert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Anpassbarer als {0}: Alle Dateien, die den im Array {1} angegebenen Glob-Mustern entsprechen, werden beim Erstellen ignoriert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

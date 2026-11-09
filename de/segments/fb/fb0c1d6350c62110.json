@@ -1,0 +1,14 @@
+{
+  "hash": "fb0c1d6350c62110",
+  "source": "{0} (object) - NuxtApp payload object.",
+  "text": "{0} (object) – Payload-Objekt von NuxtApp.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} (object) – Payload-Objekt von NuxtApp."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

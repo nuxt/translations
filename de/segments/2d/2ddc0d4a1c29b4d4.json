@@ -1,0 +1,14 @@
+{
+  "hash": "2ddc0d4a1c29b4d4",
+  "source": "Nuxt Fonts reads the CSS Tailwind generates, so a font is only picked up if it ends up there. A {0} theme variable that is never used by a utility (and is declared with {1}) is removed by Tailwind before Nuxt Fonts sees it. Use the utility at least once, declare it with {2}, or set the font in {3} with {4}.",
+  "text": "Nuxt Fonts liest das von Tailwind generierte CSS, daher wird eine Schriftart nur erkannt, wenn sie dort landet. Eine Theme-Variable {0}, die von keiner Utility verwendet wird (und mit {1} deklariert ist), entfernt Tailwind, bevor Nuxt Fonts sie sieht. Verwende die Utility mindestens einmal, deklariere sie mit {2} oder lege die Schriftart in {3} mit {4} fest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Fonts liest das von Tailwind generierte CSS, daher wird eine Schriftart nur erkannt, wenn sie dort landet. Eine Theme-Variable {0}, die von keiner Utility verwendet wird (und mit {1} deklariert ist), entfernt Tailwind, bevor Nuxt Fonts sie sieht. Verwende die Utility mindestens einmal, deklariere sie mit {2} oder lege die Schriftart in {3} mit {4} fest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

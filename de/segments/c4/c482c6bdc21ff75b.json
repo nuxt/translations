@@ -1,0 +1,14 @@
+{
+  "hash": "c482c6bdc21ff75b",
+  "source": "You can define middleware to apply before loading this page. It will be merged with all the other middleware used in any matching parent/child routes. It can be a string, a function (an anonymous/inlined middleware function following {0}the global before guard pattern{/0}), or an array of strings/functions. {1}More about named middleware{/1}.",
+  "text": "Du kannst Middleware definieren, die vor dem Laden dieser Seite angewendet wird. Sie wird mit der gesamten anderen Middleware zusammengeführt, die in passenden übergeordneten oder untergeordneten Routen verwendet wird. Das kann ein String, eine Funktion (eine anonyme bzw. Inline-Middleware-Funktion nach dem Muster {0}des globalen Before-Guards{/0}) oder ein Array aus Strings bzw. Funktionen sein. {1}Mehr zu benannter Middleware{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst Middleware definieren, die vor dem Laden dieser Seite angewendet wird. Sie wird mit der gesamten anderen Middleware zusammengeführt, die in passenden übergeordneten oder untergeordneten Routen verwendet wird. Das kann ein String, eine Funktion (eine anonyme bzw. Inline-Middleware-Funktion nach dem Muster {0}des globalen Before-Guards{/0}) oder ein Array aus Strings bzw. Funktionen sein. {1}Mehr zu benannter Middleware{/1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

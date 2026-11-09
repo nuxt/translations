@@ -1,0 +1,14 @@
+{
+  "hash": "5902eacaf28b6f09",
+  "source": "In this example, since {0} is defined within the {1} namespace, it is universally accessible on both server and client-side, while {2} **is only accessible on the server-side**.",
+  "text": "Da {0} in diesem Beispiel im Namensraum {1} definiert ist, ist es sowohl auf dem Server als auch auf dem Client verfügbar, während {2} **nur auf dem Server zugänglich ist**.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Da {0} in diesem Beispiel im Namensraum {1} definiert ist, ist es sowohl auf dem Server als auch auf dem Client verfügbar, während {2} **nur auf dem Server zugänglich ist**."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "74f330110a410171",
+  "source": "We can use {0} to easily set a response header on a per-page basis.",
+  "text": "Mit {0} lässt sich ein Antwort-Header pro Seite festlegen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit {0} lässt sich ein Antwort-Header pro Seite festlegen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

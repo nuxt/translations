@@ -1,0 +1,14 @@
+{
+  "hash": "b372d68ac1aa895c",
+  "source": "Vue components",
+  "text": "Vue-Komponenten",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vue-Komponenten"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

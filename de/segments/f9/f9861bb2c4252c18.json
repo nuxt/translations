@@ -1,0 +1,14 @@
+{
+  "hash": "f9861bb2c4252c18",
+  "source": "Best practices for accessibility in Nuxt apps.",
+  "text": "Best Practices für Barrierefreiheit in Nuxt-Apps.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Best Practices für Barrierefreiheit in Nuxt-Apps."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

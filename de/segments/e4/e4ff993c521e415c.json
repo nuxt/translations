@@ -1,0 +1,14 @@
+{
+  "hash": "e4ff993c521e415c",
+  "source": "do something with the user",
+  "text": "etwas mit den Nutzenden tun",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "etwas mit den Nutzenden tun"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

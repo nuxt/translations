@@ -1,0 +1,14 @@
+{
+  "hash": "126846cf14f10322",
+  "source": "Tell Nuxt to scroll to the top before rendering the page or not. Navigation is independent from rendering, so scroll behavior is always triggered even when the page doesn't re-render (e.g. when using a fixed {0}). Set {1} to disable scrolling in such cases. If you want to overwrite the default scroll behavior of Nuxt, you can do so in {2} (see {3}custom routing{/3}) for more info.",
+  "text": "Legt fest, ob Nuxt vor dem Rendern der Seite nach oben scrollen soll. Die Navigation ist unabhängig vom Rendern, daher wird das Scrollverhalten immer ausgelöst, auch wenn die Seite nicht neu gerendert wird (z. B. bei Verwendung eines festen {0}). Setze {1}, um das Scrollen in solchen Fällen zu deaktivieren. Wenn du das Standard-Scrollverhalten von Nuxt überschreiben möchtest, kannst du das in {2} tun (weitere Informationen findest du unter {3}Benutzerdefiniertes Routing{/3}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Legt fest, ob Nuxt vor dem Rendern der Seite nach oben scrollen soll. Die Navigation ist unabhängig vom Rendern, daher wird das Scrollverhalten immer ausgelöst, auch wenn die Seite nicht neu gerendert wird (z. B. bei Verwendung eines festen {0}). Setze {1}, um das Scrollen in solchen Fällen zu deaktivieren. Wenn du das Standard-Scrollverhalten von Nuxt überschreiben möchtest, kannst du das in {2} tun (weitere Informationen findest du unter {3}Benutzerdefiniertes Routing{/3})."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

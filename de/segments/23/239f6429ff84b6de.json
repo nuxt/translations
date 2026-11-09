@@ -1,0 +1,14 @@
+{
+  "hash": "239f6429ff84b6de",
+  "source": "**Install required extensions** - Ensure you have {0}GitHub Copilot{/0} and {1}GitHub Copilot Chat{/1} extensions installed.",
+  "text": "**Erforderliche Erweiterungen installieren** – Stelle sicher, dass die Erweiterungen {0}GitHub Copilot{/0} und {1}GitHub Copilot Chat{/1} installiert sind.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Erforderliche Erweiterungen installieren** – Stelle sicher, dass die Erweiterungen {0}GitHub Copilot{/0} und {1}GitHub Copilot Chat{/1} installiert sind."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

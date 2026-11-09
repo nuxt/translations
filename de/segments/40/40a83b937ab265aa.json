@@ -1,0 +1,14 @@
+{
+  "hash": "40a83b937ab265aa",
+  "source": "To get the {0} of a page component, access it through {1}",
+  "text": "Um das {0} einer Seitenkomponente zu erhalten, greife über {1} darauf zu",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um das {0} einer Seitenkomponente zu erhalten, greife über {1} darauf zu"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

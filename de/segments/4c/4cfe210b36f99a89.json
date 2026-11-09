@@ -1,0 +1,14 @@
+{
+  "hash": "4cfe210b36f99a89",
+  "source": "The example below shows how you can use {0} in a route middleware to prevent unauthorized route access:",
+  "text": "Das folgende Beispiel zeigt, wie du {0} in einer Routen-Middleware verwenden kannst, um unautorisierten Zugriff auf eine Route zu verhindern:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das folgende Beispiel zeigt, wie du {0} in einer Routen-Middleware verwenden kannst, um unautorisierten Zugriff auf eine Route zu verhindern:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "3eb550fafbb7fe13",
+  "source": "Read more about exactly what {0} omits, and the app-wide {1} option.",
+  "text": "Lies mehr darüber, was {0} genau weglässt, und über die app-weite Option {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lies mehr darüber, was {0} genau weglässt, und über die app-weite Option {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

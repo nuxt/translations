@@ -1,0 +1,14 @@
+{
+  "hash": "cf1c3124e1677635",
+  "source": "{0} already existed in Nuxt 4 and was kept in sync with {1}, so this is a no-op if you were already using it.",
+  "text": "{0} gab es bereits in Nuxt 4 und wurde mit {1} synchron gehalten. Wenn du sie schon verwendet hast, ändert sich für dich also nichts.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} gab es bereits in Nuxt 4 und wurde mit {1} synchron gehalten. Wenn du sie schon verwendet hast, ändert sich für dich also nichts."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

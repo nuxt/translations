@@ -1,0 +1,14 @@
+{
+  "hash": "bbe592bf8afe06b4",
+  "source": "Avoid it by keeping paint-critical styling out of deeply nested async components:",
+  "text": "Du vermeidest das, indem du darstellungskritisches Styling aus tief verschachtelten asynchronen Komponenten heraushältst:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du vermeidest das, indem du darstellungskritisches Styling aus tief verschachtelten asynchronen Komponenten heraushältst:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

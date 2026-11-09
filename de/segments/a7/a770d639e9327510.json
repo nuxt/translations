@@ -1,0 +1,14 @@
+{
+  "hash": "a770d639e9327510",
+  "source": "Nuxt Kit provides utilities to help you work with layers and their directory structures.",
+  "text": "Nuxt Kit stellt Hilfsfunktionen bereit, mit denen du mit Layern und ihren Verzeichnisstrukturen arbeiten kannst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Kit stellt Hilfsfunktionen bereit, mit denen du mit Layern und ihren Verzeichnisstrukturen arbeiten kannst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

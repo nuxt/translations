@@ -1,0 +1,14 @@
+{
+  "hash": "c5c54f4cc1b2feed",
+  "source": "Unless the user enables {0}, a value that does not match a module's schema, or a missing required value, only causes a warning when the server starts, and the value keeps its default.",
+  "text": "Solange die Nutzenden {0} nicht aktivieren, führt ein Wert, der nicht zum Schema eines Moduls passt, oder ein fehlender erforderlicher Wert nur zu einer Warnung beim Start des Servers, und der Wert behält seinen Standardwert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Solange die Nutzenden {0} nicht aktivieren, führt ein Wert, der nicht zum Schema eines Moduls passt, oder ein fehlender erforderlicher Wert nur zu einer Warnung beim Start des Servers, und der Wert behält seinen Standardwert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

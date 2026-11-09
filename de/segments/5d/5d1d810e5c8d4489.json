@@ -1,0 +1,14 @@
+{
+  "hash": "5d1d810e5c8d4489",
+  "source": "When your module needs to perform one-time setup tasks (like generating configuration files, setting up databases, or installing dependencies), use lifecycle hooks instead of running the logic in your main {0} function.",
+  "text": "Wenn dein Modul einmalige Setup-Aufgaben ausführen muss (etwa Konfigurationsdateien erzeugen, Datenbanken einrichten oder Abhängigkeiten installieren), nutze Lifecycle-Hooks, statt die Logik in deiner Hauptfunktion {0} auszuführen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn dein Modul einmalige Setup-Aufgaben ausführen muss (etwa Konfigurationsdateien erzeugen, Datenbanken einrichten oder Abhängigkeiten installieren), nutze Lifecycle-Hooks, statt die Logik in deiner Hauptfunktion {0} auszuführen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

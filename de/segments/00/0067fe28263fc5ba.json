@@ -1,0 +1,14 @@
+{
+  "hash": "0067fe28263fc5ba",
+  "source": "Route rules with case-insensitive routing",
+  "text": "Routenregeln bei Routing ohne Unterscheidung von Groß- und Kleinschreibung",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Routenregeln bei Routing ohne Unterscheidung von Groß- und Kleinschreibung"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

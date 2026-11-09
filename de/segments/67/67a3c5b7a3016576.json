@@ -1,0 +1,14 @@
+{
+  "hash": "67a3c5b7a3016576",
+  "source": "Template to show a loading screen",
+  "text": "Vorlage für die Anzeige eines Ladebildschirms",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vorlage für die Anzeige eines Ladebildschirms"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

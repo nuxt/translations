@@ -1,0 +1,14 @@
+{
+  "hash": "95619b0f48f3a846",
+  "source": "The Build Lifecycle",
+  "text": "Der Build-Lebenszyklus",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Build-Lebenszyklus"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

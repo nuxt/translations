@@ -1,0 +1,14 @@
+{
+  "hash": "361ae92ffde4cabb",
+  "source": "The useServerSeoMeta composable lets you define your site's SEO meta tags as a flat object with full TypeScript support.",
+  "text": "Mit dem Composable useServerSeoMeta definierst du die SEO-Meta-Tags deiner Website als flaches Objekt mit vollständiger TypeScript-Unterstützung.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit dem Composable useServerSeoMeta definierst du die SEO-Meta-Tags deiner Website als flaches Objekt mit vollständiger TypeScript-Unterstützung."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

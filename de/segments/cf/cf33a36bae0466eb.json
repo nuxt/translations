@@ -1,0 +1,14 @@
+{
+  "hash": "cf33a36bae0466eb",
+  "source": "If you want to use the Vue {0} syntax, you need to use the {1} helper provided by Vue or import the component directly from {2} and pass it into {3} prop.",
+  "text": "Wenn du die Vue-Syntax {0} verwenden möchtest, musst du entweder das von Vue bereitgestellte Hilfsprogramm {1} verwenden oder die Komponente direkt aus {2} importieren und an die Prop {3} übergeben.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du die Vue-Syntax {0} verwenden möchtest, musst du entweder das von Vue bereitgestellte Hilfsprogramm {1} verwenden oder die Komponente direkt aus {2} importieren und an die Prop {3} übergeben."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

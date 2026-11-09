@@ -1,0 +1,14 @@
+{
+  "hash": "a9be568e7b34e205",
+  "source": "Cached routes ({0}, {1}, {2}) now key on the path only, and the query string is dropped before the handler runs. Set {3} to keep it, either as {4} or as a list of parameter names:",
+  "text": "Zwischengespeicherte Routen ({0}, {1}, {2}) verwenden jetzt nur noch den Pfad als Schlüssel, und der Query-String wird entfernt, bevor der Handler ausgeführt wird. Setze {3}, um ihn beizubehalten, entweder als {4} oder als Liste von Parameternamen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Zwischengespeicherte Routen ({0}, {1}, {2}) verwenden jetzt nur noch den Pfad als Schlüssel, und der Query-String wird entfernt, bevor der Handler ausgeführt wird. Setze {3}, um ihn beizubehalten, entweder als {4} oder als Liste von Parameternamen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

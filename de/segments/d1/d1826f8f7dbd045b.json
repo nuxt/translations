@@ -1,0 +1,14 @@
+{
+  "hash": "d1826f8f7dbd045b",
+  "source": "Dynamic Title",
+  "text": "Dynamischer Titel",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dynamischer Titel"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

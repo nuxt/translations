@@ -1,0 +1,14 @@
+{
+  "hash": "4d1223fa62ba9aa5",
+  "source": "Vue unsets the context",
+  "text": "Vue hebt den Kontext auf",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vue hebt den Kontext auf"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

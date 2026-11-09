@@ -1,0 +1,14 @@
+{
+  "hash": "fd26f236e7a4c37c",
+  "source": "Sending Redirect",
+  "text": "Weiterleitung senden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Weiterleitung senden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "608f0dc81d6257d4",
+  "source": "The following options **can differ** without triggering warnings:",
+  "text": "Die folgenden Optionen **können sich unterscheiden**, ohne Warnungen auszulösen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die folgenden Optionen **können sich unterscheiden**, ohne Warnungen auszulösen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "d4629871b28a368f",
+  "source": "In your application code, you should use {0}Runtime Config{/0} instead of plain env variables.",
+  "text": "In deinem Anwendungscode solltest du statt einfacher Umgebungsvariablen die {0}Laufzeitkonfiguration{/0} verwenden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In deinem Anwendungscode solltest du statt einfacher Umgebungsvariablen die {0}Laufzeitkonfiguration{/0} verwenden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

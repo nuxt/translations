@@ -1,0 +1,14 @@
+{
+  "hash": "74bad8ee0a78556c",
+  "source": "Add Keyed Functions",
+  "text": "Funktionen mit Schlüssel hinzufügen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Funktionen mit Schlüssel hinzufügen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

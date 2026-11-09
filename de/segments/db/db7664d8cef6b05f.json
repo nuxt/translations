@@ -1,0 +1,14 @@
+{
+  "hash": "db7664d8cef6b05f",
+  "source": "Required nuxt version in semver format.",
+  "text": "Erforderliche Nuxt-Version im semver-Format.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erforderliche Nuxt-Version im semver-Format."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

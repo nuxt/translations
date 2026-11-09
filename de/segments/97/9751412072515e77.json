@@ -1,0 +1,14 @@
+{
+  "hash": "9751412072515e77",
+  "source": "Whether to parse {0} when rendering a server error page.",
+  "text": "Legt fest, ob {0} beim Rendern einer Server-Fehlerseite geparst wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Legt fest, ob {0} beim Rendern einer Server-Fehlerseite geparst wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

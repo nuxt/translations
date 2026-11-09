@@ -1,0 +1,14 @@
+{
+  "hash": "eb162642cd551adf",
+  "source": "Whether to scan your {0} and {1} directories for composables to auto-import. Auto-imports registered by Nuxt or other modules, such as imports from {2} or {3}, will still be enabled.",
+  "text": "Legt fest, ob deine Verzeichnisse {0} und {1} nach Composables für den automatischen Import durchsucht werden. Von Nuxt oder anderen Modulen registrierte automatische Importe, etwa aus {2} oder {3}, bleiben weiterhin aktiviert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Legt fest, ob deine Verzeichnisse {0} und {1} nach Composables für den automatischen Import durchsucht werden. Von Nuxt oder anderen Modulen registrierte automatische Importe, etwa aus {2} oder {3}, bleiben weiterhin aktiviert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

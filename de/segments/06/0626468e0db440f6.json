@@ -1,0 +1,14 @@
+{
+  "hash": "0626468e0db440f6",
+  "source": "The {0} property accepts the {1} as an argument. You can return a boolean value to determine whether or not this is a valid route to be rendered with this page. If you return {2}, this will cause a 404 error. You can also directly return an object with {3}/{4} to customize the error returned.",
+  "text": "Die Eigenschaft {0} akzeptiert {1} als Argument. Du kannst einen booleschen Wert zurückgeben, um festzulegen, ob diese Route mit dieser Seite gerendert werden darf. Wenn du {2} zurückgibst, führt das zu einem 404-Fehler. Du kannst auch direkt ein Objekt mit {3}/{4} zurückgeben, um den zurückgegebenen Fehler anzupassen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Eigenschaft {0} akzeptiert {1} als Argument. Du kannst einen booleschen Wert zurückgeben, um festzulegen, ob diese Route mit dieser Seite gerendert werden darf. Wenn du {2} zurückgibst, führt das zu einem 404-Fehler. Du kannst auch direkt ein Objekt mit {3}/{4} zurückgeben, um den zurückgegebenen Fehler anzupassen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

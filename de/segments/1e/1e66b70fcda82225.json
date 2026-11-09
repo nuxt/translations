@@ -1,0 +1,14 @@
+{
+  "hash": "1e66b70fcda82225",
+  "source": "You can define your own custom hooks support by extending Nuxt's hook interfaces.",
+  "text": "Du kannst Unterstützung für eigene Hooks definieren, indem du die Hook-Schnittstellen von Nuxt erweiterst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst Unterstützung für eigene Hooks definieren, indem du die Hook-Schnittstellen von Nuxt erweiterst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

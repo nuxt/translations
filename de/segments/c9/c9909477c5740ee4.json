@@ -1,0 +1,14 @@
+{
+  "hash": "c9909477c5740ee4",
+  "source": "Out of the box, a traditional Vue.js application is rendered in the browser (or **client**). Then, Vue.js generates HTML elements after the browser downloads and parses all the JavaScript code containing the instructions to create the current interface.",
+  "text": "Standardmäßig wird eine klassische Vue.js-Anwendung im Browser (also auf dem **Client**) gerendert. Vue.js erzeugt die HTML-Elemente, nachdem der Browser den gesamten JavaScript-Code mit den Anweisungen zum Erstellen der aktuellen Oberfläche heruntergeladen und geparst hat.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardmäßig wird eine klassische Vue.js-Anwendung im Browser (also auf dem **Client**) gerendert. Vue.js erzeugt die HTML-Elemente, nachdem der Browser den gesamten JavaScript-Code mit den Anweisungen zum Erstellen der aktuellen Oberfläche heruntergeladen und geparst hat."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

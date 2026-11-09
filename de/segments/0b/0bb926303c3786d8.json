@@ -1,0 +1,14 @@
+{
+  "hash": "0bb926303c3786d8",
+  "source": "(If 'bridge' is set to false, your application will operate without any changes as before.)",
+  "text": "(Wenn „bridge“ auf false gesetzt ist, läuft deine Anwendung wie bisher ohne Änderungen.)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "(Wenn „bridge“ auf false gesetzt ist, läuft deine Anwendung wie bisher ohne Änderungen.)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

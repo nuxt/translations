@@ -1,0 +1,14 @@
+{
+  "hash": "b5825750506092f4",
+  "source": "Because modules aren't part of the application runtime, their options aren't either. However, in many cases, you might need access to some of these module options within your runtime code. We recommend exposing the needed config using Nuxt's {0}.",
+  "text": "Da Module nicht Teil der Laufzeit der Anwendung sind, gilt das auch für ihre Optionen. In vielen Fällen benötigst du jedoch Zugriff auf einige dieser Modul-Optionen in deinem Laufzeitcode. Wir empfehlen, die benötigte Konfiguration über die {0} von Nuxt bereitzustellen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Da Module nicht Teil der Laufzeit der Anwendung sind, gilt das auch für ihre Optionen. In vielen Fällen benötigst du jedoch Zugriff auf einige dieser Modul-Optionen in deinem Laufzeitcode. Wir empfehlen, die benötigte Konfiguration über die {0} von Nuxt bereitzustellen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

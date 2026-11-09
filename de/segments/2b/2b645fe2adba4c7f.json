@@ -1,0 +1,14 @@
+{
+  "hash": "2b645fe2adba4c7f",
+  "source": "The reactivity model of Vue, where a change in data automatically triggers a change in the interface.",
+  "text": "Das Reaktivitätsmodell von Vue, bei dem eine Änderung der Daten automatisch eine Änderung der Oberfläche auslöst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Reaktivitätsmodell von Vue, bei dem eine Änderung der Daten automatisch eine Änderung der Oberfläche auslöst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

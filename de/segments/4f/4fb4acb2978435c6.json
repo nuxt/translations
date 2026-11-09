@@ -1,0 +1,14 @@
+{
+  "hash": "4fb4acb2978435c6",
+  "source": "Finally, providing code serialization functions directly within Nuxt is not ideal. Instead, we maintain projects like {0}unjs/knitwork{/0} which can be dependencies of your project, and where security issues can be reported/resolved directly without requiring an upgrade of Nuxt itself.",
+  "text": "Schließlich ist es nicht ideal, Funktionen zur Code-Serialisierung direkt in Nuxt bereitzustellen. Stattdessen pflegen wir Projekte wie {0}unjs/knitwork{/0}, die als Abhängigkeiten deines Projekts dienen können und bei denen Sicherheitsprobleme direkt gemeldet und behoben werden können, ohne dass ein Upgrade von Nuxt selbst nötig ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Schließlich ist es nicht ideal, Funktionen zur Code-Serialisierung direkt in Nuxt bereitzustellen. Stattdessen pflegen wir Projekte wie {0}unjs/knitwork{/0}, die als Abhängigkeiten deines Projekts dienen können und bei denen Sicherheitsprobleme direkt gemeldet und behoben werden können, ohne dass ein Upgrade von Nuxt selbst nötig ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

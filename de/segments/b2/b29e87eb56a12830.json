@@ -1,0 +1,14 @@
+{
+  "hash": "b29e87eb56a12830",
+  "source": "Recipe: API Client with Auth",
+  "text": "Rezept: API-Client mit Authentifizierung",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Rezept: API-Client mit Authentifizierung"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

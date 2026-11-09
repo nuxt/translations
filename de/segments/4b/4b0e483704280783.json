@@ -1,0 +1,14 @@
+{
+  "hash": "4b0e483704280783",
+  "source": "Singleton Data Fetching Layer",
+  "text": "Singleton-Schicht für den Datenabruf",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Singleton-Schicht für den Datenabruf"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

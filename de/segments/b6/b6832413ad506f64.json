@@ -1,0 +1,14 @@
+{
+  "hash": "b6832413ad506f64",
+  "source": "Nuxt is powered by a new server engine: Nitro.",
+  "text": "Nuxt wird von einer neuen Server-Engine angetrieben: Nitro.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt wird von einer neuen Server-Engine angetrieben: Nitro."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

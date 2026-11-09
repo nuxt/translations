@@ -1,0 +1,14 @@
+{
+  "hash": "d5a2d70ba65b07ab",
+  "source": "{0}Cloudflare Pages{/0} with zero configuration using the git integration and the {1} command",
+  "text": "{0}Cloudflare Pages{/0} ohne Konfiguration über die Git-Integration und den Befehl {1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}Cloudflare Pages{/0} ohne Konfiguration über die Git-Integration und den Befehl {1}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

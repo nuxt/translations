@@ -1,0 +1,14 @@
+{
+  "hash": "f49241bedffff3b2",
+  "source": "All other {0} commands can be used against the {1} directory (e.g. {2}). Feel free to declare additional {3} scripts within your {4} referencing them for convenience.",
+  "text": "Alle anderen {0}-Befehle lassen sich auf das Verzeichnis {1} anwenden (z. B. {2}). Du kannst gerne zusätzliche {3}-Skripte in deiner {4} deklarieren, die darauf verweisen, um dir die Arbeit zu erleichtern.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Alle anderen {0}-Befehle lassen sich auf das Verzeichnis {1} anwenden (z. B. {2}). Du kannst gerne zusätzliche {3}-Skripte in deiner {4} deklarieren, die darauf verweisen, um dir die Arbeit zu erleichtern."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

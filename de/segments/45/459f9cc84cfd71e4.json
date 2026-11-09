@@ -1,0 +1,14 @@
+{
+  "hash": "459f9cc84cfd71e4",
+  "source": "In a production client build, {0} is installed by the code that reads it: any module, including one in {1}, that calls {2} without importing it or reads {3}, {4} or {5}. A client bundle that never reads {6} does not include {7}. Code Nuxt cannot see at build time, such as a script loaded at runtime or the browser console, should not rely on the global being set unless {8} is enabled.",
+  "text": "In einem Produktions-Build für den Client wird {0} von dem Code installiert, der es liest: jedes Modul, auch eines in {1}, das {2} aufruft, ohne es zu importieren, oder {3}, {4} oder {5} liest. Ein Client-Bundle, das {6} nie liest, enthält {7} nicht. Code, den Nuxt zur Build-Zeit nicht sehen kann, etwa ein zur Laufzeit geladenes Skript oder die Browserkonsole, sollte sich nicht darauf verlassen, dass die globale Variable gesetzt ist, sofern {8} nicht aktiviert ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In einem Produktions-Build für den Client wird {0} von dem Code installiert, der es liest: jedes Modul, auch eines in {1}, das {2} aufruft, ohne es zu importieren, oder {3}, {4} oder {5} liest. Ein Client-Bundle, das {6} nie liest, enthält {7} nicht. Code, den Nuxt zur Build-Zeit nicht sehen kann, etwa ein zur Laufzeit geladenes Skript oder die Browserkonsole, sollte sich nicht darauf verlassen, dass die globale Variable gesetzt ist, sofern {8} nicht aktiviert ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

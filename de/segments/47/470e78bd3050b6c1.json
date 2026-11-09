@@ -1,0 +1,14 @@
+{
+  "hash": "470e78bd3050b6c1",
+  "source": "To type a value that holds {0} itself, such as a {1} instance passed into a plugin or provided through {2}/{3}, use the {4} type (an alias of {5}):",
+  "text": "Um einen Wert zu typisieren, der {0} selbst enthält, etwa eine {1}-Instanz, die an ein Plugin übergeben oder über {2}/{3} bereitgestellt wird, verwende den Typ {4} (ein Alias für {5}):",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um einen Wert zu typisieren, der {0} selbst enthält, etwa eine {1}-Instanz, die an ein Plugin übergeben oder über {2}/{3} bereitgestellt wird, verwende den Typ {4} (ein Alias für {5}):"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

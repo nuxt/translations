@@ -1,0 +1,14 @@
+{
+  "hash": "6f4f95f5217c6544",
+  "source": "{0} isn't a re-export of h3, so if you need something else that h3 and Nitro offer, such as the server lifecycle ({1} and {2}) or Nitro's own runtime hooks, you would import it directly.",
+  "text": "{0} ist kein Re-Export von h3. Wenn du etwas anderes aus h3 und Nitro benötigst, etwa den Server-Lebenszyklus ({1} und {2}) oder die eigenen Runtime-Hooks von Nitro, importierst du es direkt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ist kein Re-Export von h3. Wenn du etwas anderes aus h3 und Nitro benötigst, etwa den Server-Lebenszyklus ({1} und {2}) oder die eigenen Runtime-Hooks von Nitro, importierst du es direkt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "91d0c6dee3a997bb",
+  "source": "Some of the references in the file are to files that are only generated within your {0} ({1}) and therefore for full typings, you will need to run {2} or {3}.",
+  "text": "Einige Verweise in der Datei zeigen auf Dateien, die nur in deinem Verzeichnis {0} ({1}) erzeugt werden. Für vollständige Typisierungen musst du daher {2} oder {3} ausführen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Einige Verweise in der Datei zeigen auf Dateien, die nur in deinem Verzeichnis {0} ({1}) erzeugt werden. Für vollständige Typisierungen musst du daher {2} oder {3} ausführen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

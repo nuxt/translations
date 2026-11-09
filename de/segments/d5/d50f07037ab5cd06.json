@@ -1,0 +1,14 @@
+{
+  "hash": "d50f07037ab5cd06",
+  "source": "A function that will be called with the {0} object. It should return a string or a promise that resolves to a string. If {1} is provided, this function will be ignored.",
+  "text": "Eine Funktion, die mit dem Objekt {0} aufgerufen wird. Sie sollte einen String oder ein Promise zurückgeben, das zu einem String aufgelöst wird. Wenn {1} angegeben ist, wird diese Funktion ignoriert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine Funktion, die mit dem Objekt {0} aufgerufen wird. Sie sollte einen String oder ein Promise zurückgeben, das zu einem String aufgelöst wird. Wenn {1} angegeben ist, wird diese Funktion ignoriert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

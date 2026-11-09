@@ -1,0 +1,14 @@
+{
+  "hash": "f0d5a957ec009be0",
+  "source": "This is used to control the behavior of presets in Nitro, Nuxt Image and other modules that may change behavior without a major version bump. We plan to improve the tooling around this feature in the future.",
+  "text": "Es steuert das Verhalten von Presets in Nitro, Nuxt Image und anderen Modulen, die ihr Verhalten ändern können, ohne dass sich die Hauptversion erhöht. Wir planen, das Tooling rund um diese Funktion in Zukunft zu verbessern.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Es steuert das Verhalten von Presets in Nitro, Nuxt Image und anderen Modulen, die ihr Verhalten ändern können, ohne dass sich die Hauptversion erhöht. Wir planen, das Tooling rund um diese Funktion in Zukunft zu verbessern."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b8030cc1bd12992e",
+  "source": "Returns a set of primitives for interacting with the user's terminal. When Nuxt is running inside an interactive host such as the {0} terminal UI, prompts, tasks and notifications are handed to it, so they are answerable and rendered in one place. Otherwise they fall back to logging.",
+  "text": "Gibt eine Reihe von Primitiven für die Interaktion mit dem Terminal der Nutzenden zurück. Läuft Nuxt innerhalb eines interaktiven Hosts wie der {0}-Terminal-Benutzeroberfläche, werden Eingabeaufforderungen, Aufgaben und Benachrichtigungen an diesen übergeben, sodass sie an einer zentralen Stelle beantwortet und dargestellt werden können. Andernfalls wird stattdessen protokolliert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gibt eine Reihe von Primitiven für die Interaktion mit dem Terminal der Nutzenden zurück. Läuft Nuxt innerhalb eines interaktiven Hosts wie der {0}-Terminal-Benutzeroberfläche, werden Eingabeaufforderungen, Aufgaben und Benachrichtigungen an diesen übergeben, sodass sie an einer zentralen Stelle beantwortet und dargestellt werden können. Andernfalls wird stattdessen protokolliert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "8aa9b84ec8653818",
+  "source": "Passing a {0} of at least 32 characters still seals with that instead.",
+  "text": "Wird ein {0} mit mindestens 32 Zeichen übergeben, wird die Session weiterhin damit versiegelt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird ein {0} mit mindestens 32 Zeichen übergeben, wird die Session weiterhin damit versiegelt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

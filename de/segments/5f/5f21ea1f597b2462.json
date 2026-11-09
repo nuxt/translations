@@ -1,0 +1,14 @@
+{
+  "hash": "5f21ea1f597b2462",
+  "source": "To disable auto-importing components from your own {0} directory, you can set {1} to an empty array (though note that this will not affect components added by modules).",
+  "text": "Um den automatischen Import von Komponenten aus deinem eigenen Verzeichnis {0} zu deaktivieren, kannst du {1} auf ein leeres Array setzen (das wirkt sich jedoch nicht auf Komponenten aus, die von Modulen hinzugefügt werden).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um den automatischen Import von Komponenten aus deinem eigenen Verzeichnis {0} zu deaktivieren, kannst du {1} auf ein leeres Array setzen (das wirkt sich jedoch nicht auf Komponenten aus, die von Modulen hinzugefügt werden)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

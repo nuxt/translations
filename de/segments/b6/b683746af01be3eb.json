@@ -1,0 +1,14 @@
+{
+  "hash": "b683746af01be3eb",
+  "source": "You can use {0} to have the same behavior as {1} with {2}.",
+  "text": "Du kannst {0} verwenden, um dasselbe Verhalten wie {1} mit {2} zu erreichen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst {0} verwenden, um dasselbe Verhalten wie {1} mit {2} zu erreichen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

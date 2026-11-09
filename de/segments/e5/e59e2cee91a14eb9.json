@@ -1,0 +1,14 @@
+{
+  "hash": "e59e2cee91a14eb9",
+  "source": "You can also use a function to conditionally transpile. The function will receive an object ().",
+  "text": "Du kannst auch eine Funktion verwenden, um bedingt zu transpilieren. Die Funktion erhält ein Objekt ().",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst auch eine Funktion verwenden, um bedingt zu transpilieren. Die Funktion erhält ein Objekt ()."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

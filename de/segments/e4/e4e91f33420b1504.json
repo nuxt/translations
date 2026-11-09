@@ -1,0 +1,14 @@
+{
+  "hash": "e4e91f33420b1504",
+  "source": "Run {0} to generate the tsconfig files.",
+  "text": "Führe {0} aus, um die tsconfig-Dateien zu generieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Führe {0} aus, um die tsconfig-Dateien zu generieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

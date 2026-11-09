@@ -1,0 +1,14 @@
+{
+  "hash": "99d7c55028b6574e",
+  "source": "Get the URL",
+  "text": "Die URL abrufen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die URL abrufen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "c613dea9c244c326",
+  "source": "This is also true of dynamic imports, like {0}.",
+  "text": "Das gilt auch für dynamische Importe wie {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das gilt auch für dynamische Importe wie {0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

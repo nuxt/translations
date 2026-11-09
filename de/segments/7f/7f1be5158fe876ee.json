@@ -1,0 +1,14 @@
+{
+  "hash": "7f1be5158fe876ee",
+  "source": "Share standard setup across projects",
+  "text": "Eine Standardeinrichtung projektübergreifend teilen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine Standardeinrichtung projektübergreifend teilen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

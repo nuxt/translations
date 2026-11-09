@@ -1,0 +1,14 @@
+{
+  "hash": "20026650a5530507",
+  "source": "When the route changes and id updates, the data will be automatically refetched",
+  "text": "Wenn sich die Route ändert und id aktualisiert wird, werden die Daten automatisch erneut abgerufen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn sich die Route ändert und id aktualisiert wird, werden die Daten automatisch erneut abgerufen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

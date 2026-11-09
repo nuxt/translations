@@ -1,0 +1,14 @@
+{
+  "hash": "cbae5c30c470b05d",
+  "source": "Create named route middleware using defineNuxtRouteMiddleware helper function.",
+  "text": "Erstelle benannte Routen-Middleware mit der Hilfsfunktion defineNuxtRouteMiddleware.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erstelle benannte Routen-Middleware mit der Hilfsfunktion defineNuxtRouteMiddleware."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

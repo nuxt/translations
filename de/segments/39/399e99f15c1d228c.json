@@ -1,0 +1,14 @@
+{
+  "hash": "399e99f15c1d228c",
+  "source": "Then in your {0} :",
+  "text": "Dann in deiner {0}:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dann in deiner {0}:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

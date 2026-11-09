@@ -1,0 +1,14 @@
+{
+  "hash": "2a0cafabdfc7dedb",
+  "source": "Custom serializer function",
+  "text": "Benutzerdefinierte Serialisierungsfunktion",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Benutzerdefinierte Serialisierungsfunktion"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

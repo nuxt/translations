@@ -1,0 +1,14 @@
+{
+  "hash": "ee0ae050abd7b895",
+  "source": "Providers that can instance a font server-side, such as Google Fonts, serve the file already resolved at those values. Otherwise the axis is applied to the downloaded file with {0}, which needs a glyph list to subset to: either the family's {1}, or the characters the face's {2} declares. Without either, the file is emitted untouched and a {3} descriptor renders the font at the requested values instead.",
+  "text": "Provider, die eine Schrift serverseitig instanziieren können, wie etwa Google Fonts, liefern die Datei bereits mit diesen Werten aufgelöst aus. Andernfalls wird die Achse mit {0} auf die heruntergeladene Datei angewendet, wozu eine Glyphenliste für das Subset nötig ist: entweder die {1} der Familie oder die Zeichen, die der {2} der Schriftart deklariert. Ohne beides wird die Datei unverändert ausgegeben, und ein {3}-Deskriptor stellt die Schrift stattdessen mit den angeforderten Werten dar.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Provider, die eine Schrift serverseitig instanziieren können, wie etwa Google Fonts, liefern die Datei bereits mit diesen Werten aufgelöst aus. Andernfalls wird die Achse mit {0} auf die heruntergeladene Datei angewendet, wozu eine Glyphenliste für das Subset nötig ist: entweder die {1} der Familie oder die Zeichen, die der {2} der Schriftart deklariert. Ohne beides wird die Datei unverändert ausgegeben, und ein {3}-Deskriptor stellt die Schrift stattdessen mit den angeforderten Werten dar."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b092742c10347aab",
+  "source": "Load a Node.js module directly (here it's a Sass file).",
+  "text": "Ein Node.js-Modul direkt laden (hier eine Sass-Datei).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein Node.js-Modul direkt laden (hier eine Sass-Datei)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

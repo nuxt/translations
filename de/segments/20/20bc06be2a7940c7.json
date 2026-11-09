@@ -1,0 +1,14 @@
+{
+  "hash": "20bc06be2a7940c7",
+  "source": "And its test:",
+  "text": "Und der zugehörige Test:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Und der zugehörige Test:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

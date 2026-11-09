@@ -1,0 +1,14 @@
+{
+  "hash": "24fa47813e97504b",
+  "source": "Plugin setup logic",
+  "text": "Setup-Logik des Plugins",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Setup-Logik des Plugins"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "c616cd4dfbaa7116",
+  "source": "In a built Nuxt 3 application, there is no runtime Nuxt dependency. That means your site will be highly performant, and ultra-slim. But it also means you can no longer hook into runtime Nuxt server hooks.",
+  "text": "In einer gebauten Nuxt-3-Anwendung gibt es keine Nuxt-Abhängigkeit zur Laufzeit. Das bedeutet, dass deine Website sehr performant und extrem schlank ist. Es bedeutet aber auch, dass du dich nicht mehr in Nuxt-Server-Hooks zur Laufzeit einklinken kannst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In einer gebauten Nuxt-3-Anwendung gibt es keine Nuxt-Abhängigkeit zur Laufzeit. Das bedeutet, dass deine Website sehr performant und extrem schlank ist. Es bedeutet aber auch, dass du dich nicht mehr in Nuxt-Server-Hooks zur Laufzeit einklinken kannst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

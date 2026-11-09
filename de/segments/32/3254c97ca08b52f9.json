@@ -1,0 +1,14 @@
+{
+  "hash": "3254c97ca08b52f9",
+  "source": "The current active version of {0}Nuxt{/0} is **v4** which is available as {1} on npm with the {2} tag.",
+  "text": "Die aktuell aktive Version von {0}Nuxt{/0} ist **v4**. Sie ist als {1} auf npm mit dem Tag {2} verfügbar.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die aktuell aktive Version von {0}Nuxt{/0} ist **v4**. Sie ist als {1} auf npm mit dem Tag {2} verfügbar."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "a46e499741a13ce4",
+  "source": "Generates responsive sizes when providing {0} option",
+  "text": "Erzeugt responsive Bildgrößen, wenn die Option {0} angegeben wird",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erzeugt responsive Bildgrößen, wenn die Option {0} angegeben wird"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

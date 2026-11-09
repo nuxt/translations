@@ -1,0 +1,14 @@
+{
+  "hash": "3265381ef83e0d7a",
+  "source": "Enable the new experimental typed router.",
+  "text": "Aktiviert den neuen experimentellen typisierten Router.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Aktiviert den neuen experimentellen typisierten Router."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "8b9c15cb3383637d",
+  "source": "Explore Nuxt Modules",
+  "text": "Nuxt-Module entdecken",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt-Module entdecken"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

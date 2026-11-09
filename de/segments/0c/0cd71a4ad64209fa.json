@@ -1,0 +1,14 @@
+{
+  "hash": "0cd71a4ad64209fa",
+  "source": "Then, test your changes against the {0}playground{/0} and {1}test{/1} your changes before submitting a pull request.",
+  "text": "Teste anschließend deine Änderungen im {0}Playground{/0} und {1}teste{/1} sie, bevor du einen Pull Request einreichst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Teste anschließend deine Änderungen im {0}Playground{/0} und {1}teste{/1} sie, bevor du einen Pull Request einreichst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

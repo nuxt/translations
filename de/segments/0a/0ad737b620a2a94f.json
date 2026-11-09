@@ -1,0 +1,14 @@
+{
+  "hash": "0ad737b620a2a94f",
+  "source": "**Remove any manual server {0}** files (like {1}) that extended {2}.",
+  "text": "**Entferne alle manuell angelegten Server-{0}-Dateien** (wie {1}), die {2} erweitert haben.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Entferne alle manuell angelegten Server-{0}-Dateien** (wie {1}), die {2} erweitert haben."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "75d0674accf07dca",
+  "source": "Your Nuxt project should include the following {0} file at the root of the project:",
+  "text": "Dein Nuxt-Projekt sollte im Stammverzeichnis die folgende {0}-Datei enthalten:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dein Nuxt-Projekt sollte im Stammverzeichnis die folgende {0}-Datei enthalten:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

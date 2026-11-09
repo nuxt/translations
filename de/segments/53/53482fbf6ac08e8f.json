@@ -1,0 +1,14 @@
+{
+  "hash": "53482fbf6ac08e8f",
+  "source": "Prevents Vue from hydrating the component.",
+  "text": "Verhindert, dass Vue die Komponente hydratisiert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verhindert, dass Vue die Komponente hydratisiert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

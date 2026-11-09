@@ -1,0 +1,14 @@
+{
+  "hash": "fa790d793709c45c",
+  "source": "Nuxt UI releases.",
+  "text": "Releases von Nuxt UI.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Releases von Nuxt UI."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

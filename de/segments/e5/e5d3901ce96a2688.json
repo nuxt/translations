@@ -1,0 +1,14 @@
+{
+  "hash": "e5d3901ce96a2688",
+  "source": "For each other composable you are using from {0}, follow the steps below.",
+  "text": "Für jedes andere Composable, das du aus {0} verwendest, befolge die folgenden Schritte.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Für jedes andere Composable, das du aus {0} verwendest, befolge die folgenden Schritte."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

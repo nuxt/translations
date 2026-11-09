@@ -1,0 +1,14 @@
+{
+  "hash": "80546b1146ef6dce",
+  "source": "shares the data with ComponentB - only one request is made",
+  "text": "teilt die Daten mit ComponentB – es wird nur eine Anfrage gesendet",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "teilt die Daten mit ComponentB – es wird nur eine Anfrage gesendet"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "bd84b35e09d21815",
+  "source": "The module definition is the entry point of your module. It's what gets loaded by Nuxt when your module is referenced within a Nuxt configuration.",
+  "text": "Die Moduldefinition ist der Einstiegspunkt deines Moduls. Sie wird von Nuxt geladen, sobald dein Modul in einer Nuxt-Konfiguration referenziert wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Moduldefinition ist der Einstiegspunkt deines Moduls. Sie wird von Nuxt geladen, sobald dein Modul in einer Nuxt-Konfiguration referenziert wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

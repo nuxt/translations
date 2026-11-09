@@ -1,0 +1,14 @@
+{
+  "hash": "34d331551443c328",
+  "source": "... check out the rest of the {0}unjs/{/0} organization for many more!",
+  "text": "... wirf einen Blick auf die übrigen Projekte der {0}unjs/{/0}-Organisation – es gibt noch viele mehr!",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "... wirf einen Blick auf die übrigen Projekte der {0}unjs/{/0}-Organisation – es gibt noch viele mehr!"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

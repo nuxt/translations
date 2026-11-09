@@ -1,0 +1,14 @@
+{
+  "hash": "6b675849bb05ebe4",
+  "source": "a route you registered by augmenting {0} by hand needs rewriting, as the two descriptions of a route differ (see {1}the upgrade guide{/1}). A route declared with {2} (imported from {3}) in the rewritten shape is typed with {4} both on and off, so you can rewrite it ahead of the switch",
+  "text": "eine Route, die du durch manuelles Erweitern von {0} registriert hast, muss neu geschrieben werden, da sich die beiden Beschreibungen einer Route unterscheiden (siehe {1}die Upgrade-Anleitung{/1}). Eine Route, die mit {2} (importiert aus {3}) in der neu geschriebenen Form deklariert ist, wird mit {4} sowohl aktiviert als auch deaktiviert typisiert, sodass du sie schon vor der Umstellung umschreiben kannst",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "eine Route, die du durch manuelles Erweitern von {0} registriert hast, muss neu geschrieben werden, da sich die beiden Beschreibungen einer Route unterscheiden (siehe {1}die Upgrade-Anleitung{/1}). Eine Route, die mit {2} (importiert aus {3}) in der neu geschriebenen Form deklariert ist, wird mit {4} sowohl aktiviert als auch deaktiviert typisiert, sodass du sie schon vor der Umstellung umschreiben kannst"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

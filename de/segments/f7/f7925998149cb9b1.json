@@ -1,0 +1,14 @@
+{
+  "hash": "f7925998149cb9b1",
+  "source": "The schema is replaced by its default value straight away, so later modules read plain values from {0}. A value the user has set at the same path, such as {1} in their {2}, is kept and becomes the default of the schema. A schema the user has declared at the same path takes precedence over the module's.",
+  "text": "Das Schema wird sofort durch seinen Standardwert ersetzt, sodass spätere Module einfache Werte aus {0} lesen. Ein Wert, den die Nutzenden am selben Pfad gesetzt haben, etwa {1} in ihrer {2}, bleibt erhalten und wird zum Standardwert des Schemas. Ein Schema, das die Nutzenden am selben Pfad deklariert haben, hat Vorrang vor dem Schema des Moduls.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Schema wird sofort durch seinen Standardwert ersetzt, sodass spätere Module einfache Werte aus {0} lesen. Ein Wert, den die Nutzenden am selben Pfad gesetzt haben, etwa {1} in ihrer {2}, bleibt erhalten und wird zum Standardwert des Schemas. Ein Schema, das die Nutzenden am selben Pfad deklariert haben, hat Vorrang vor dem Schema des Moduls."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "420c0db0a486a8a5",
+  "source": "{0}Nuxt Test Utils{/0} is the go-to library to help you test your module in an end-to-end way. Here's the workflow to adopt with it:",
+  "text": "{0}Nuxt Test Utils{/0} ist die erste Wahl, wenn du dein Modul per End-to-End-Test prüfen möchtest. So sieht der Ablauf damit aus:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}Nuxt Test Utils{/0} ist die erste Wahl, wenn du dein Modul per End-to-End-Test prüfen möchtest. So sieht der Ablauf damit aus:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

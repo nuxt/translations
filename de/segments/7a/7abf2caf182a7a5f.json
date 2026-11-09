@@ -1,0 +1,14 @@
+{
+  "hash": "7abf2caf182a7a5f",
+  "source": "In development, a builder is also responsible for serving and hot-reloading the app. Two things matter:",
+  "text": "In der Entwicklung ist ein Builder außerdem dafür zuständig, die App auszuliefern und per Hot Reload zu aktualisieren. Zwei Dinge sind dabei wichtig:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In der Entwicklung ist ein Builder außerdem dafür zuständig, die App auszuliefern und per Hot Reload zu aktualisieren. Zwei Dinge sind dabei wichtig:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

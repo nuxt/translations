@@ -1,0 +1,14 @@
+{
+  "hash": "a7b36ef4448d720c",
+  "source": "Open the {0} file and paste the following debug configuration:",
+  "text": "Öffne die Datei {0} und füge die folgende Debug-Konfiguration ein:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Öffne die Datei {0} und füge die folgende Debug-Konfiguration ein:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

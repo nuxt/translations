@@ -1,0 +1,14 @@
+{
+  "hash": "1bc79d727c48d231",
+  "source": "**Typed pages**: {0} is enabled by default for type-checked routing",
+  "text": "**Typisierte Seiten**: {0} ist standardmäßig aktiviert, für typgeprüftes Routing",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Typisierte Seiten**: {0} ist standardmäßig aktiviert, für typgeprüftes Routing"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

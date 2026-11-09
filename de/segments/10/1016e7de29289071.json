@@ -1,0 +1,14 @@
+{
+  "hash": "1016e7de29289071",
+  "source": "The current route matches a nested page, but the parent page component does not render {0}. Vue Router can only display a child page inside its parent's {1} outlet, so the child page is never shown.",
+  "text": "Die aktuelle Route entspricht einer verschachtelten Seite, aber die übergeordnete Seitenkomponente rendert {0} nicht. Vue Router kann eine untergeordnete Seite nur innerhalb des {1}-Outlets ihrer übergeordneten Seite anzeigen, sodass die untergeordnete Seite nie angezeigt wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die aktuelle Route entspricht einer verschachtelten Seite, aber die übergeordnete Seitenkomponente rendert {0} nicht. Vue Router kann eine untergeordnete Seite nur innerhalb des {1}-Outlets ihrer übergeordneten Seite anzeigen, sodass die untergeordnete Seite nie angezeigt wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

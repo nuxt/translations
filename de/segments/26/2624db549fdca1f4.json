@@ -1,0 +1,14 @@
+{
+  "hash": "2624db549fdca1f4",
+  "source": "Define a reusable addon that extends composables created with createUseAsyncData.",
+  "text": "Definiere ein wiederverwendbares Addon, das mit createUseAsyncData erstellte Composables erweitert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Definiere ein wiederverwendbares Addon, das mit createUseAsyncData erstellte Composables erweitert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

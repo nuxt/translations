@@ -1,0 +1,14 @@
+{
+  "hash": "1b69139e0e1bd5ac",
+  "source": "Interacting with a page before it has hydrated (for example, clicking a button before its event handler is attached) can make tests flaky.",
+  "text": "Wenn du mit einer Seite interagierst, bevor sie hydratisiert wurde (z. B. durch einen Klick auf eine Schaltfläche, bevor ihr Event-Handler angehängt ist), können Tests instabil werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du mit einer Seite interagierst, bevor sie hydratisiert wurde (z. B. durch einen Klick auf eine Schaltfläche, bevor ihr Event-Handler angehängt ist), können Tests instabil werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

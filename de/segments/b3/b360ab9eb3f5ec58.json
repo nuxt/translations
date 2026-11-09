@@ -1,0 +1,14 @@
+{
+  "hash": "b360ab9eb3f5ec58",
+  "source": "Directory to load {0} from.",
+  "text": "Verzeichnis, aus dem {0} geladen wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verzeichnis, aus dem {0} geladen wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

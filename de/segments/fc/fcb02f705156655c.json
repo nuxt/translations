@@ -1,0 +1,14 @@
+{
+  "hash": "fcb02f705156655c",
+  "source": "Types applied to any transition involving this page",
+  "text": "Typen, die bei jedem Übergang angewendet werden, an dem diese Seite beteiligt ist",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Typen, die bei jedem Übergang angewendet werden, an dem diese Seite beteiligt ist"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

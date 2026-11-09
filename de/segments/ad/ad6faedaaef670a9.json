@@ -1,0 +1,14 @@
+{
+  "hash": "ad6faedaaef670a9",
+  "source": "Payload Extraction",
+  "text": "Payload-Extraktion",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Payload-Extraktion"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

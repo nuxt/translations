@@ -1,0 +1,14 @@
+{
+  "hash": "7d7a8ec65a98f479",
+  "source": "To dynamically import a component (also known as lazy-loading a component) all you need to do is add the Lazy prefix to the component's name. This is useful if the component is not always needed.",
+  "text": "Um eine Komponente dynamisch zu importieren (auch als verzögertes Laden einer Komponente bekannt), musst du lediglich das Präfix Lazy zum Namen der Komponente hinzufügen. Das ist nützlich, wenn die Komponente nicht immer benötigt wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um eine Komponente dynamisch zu importieren (auch als verzögertes Laden einer Komponente bekannt), musst du lediglich das Präfix Lazy zum Namen der Komponente hinzufügen. Das ist nützlich, wenn die Komponente nicht immer benötigt wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "8784502575f33b07",
+  "source": "If you have not defined the prop with {0}, any props passed down to {1} can still be accessed directly from the page {2}:",
+  "text": "Wenn du die Prop nicht mit {0} definiert hast, kannst du trotzdem direkt über die Seite {2} auf alle an {1} übergebenen Props zugreifen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du die Prop nicht mit {0} definiert hast, kannst du trotzdem direkt über die Seite {2} auf alle an {1} übergebenen Props zugreifen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

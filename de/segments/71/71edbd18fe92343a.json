@@ -1,0 +1,14 @@
+{
+  "hash": "71edbd18fe92343a",
+  "source": "{0}: control when the {1} component is re-rendered.",
+  "text": "{0}: steuert, wann die Komponente {1} neu gerendert wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: steuert, wann die Komponente {1} neu gerendert wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

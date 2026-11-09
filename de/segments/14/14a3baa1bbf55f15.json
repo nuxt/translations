@@ -1,0 +1,14 @@
+{
+  "hash": "14a3baa1bbf55f15",
+  "source": "When running {0} with the Node server preset, the result will be an entry point that launches a ready-to-run Node server.",
+  "text": "Wenn du {0} mit dem Node-Server-Preset ausführst, entsteht ein Einstiegspunkt, der einen sofort lauffähigen Node-Server startet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du {0} mit dem Node-Server-Preset ausführst, entsteht ein Einstiegspunkt, der einen sofort lauffähigen Node-Server startet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

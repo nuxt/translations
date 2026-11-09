@@ -1,0 +1,14 @@
+{
+  "hash": "a9d707d6d055db7c",
+  "source": "The <NuxtTime> component displays time in a locale-friendly format with server-client consistency.",
+  "text": "Die Komponente <NuxtTime> zeigt die Zeit in einem für das Gebietsschema geeigneten Format an und sorgt für Konsistenz zwischen Server und Client.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Komponente <NuxtTime> zeigt die Zeit in einem für das Gebietsschema geeigneten Format an und sorgt für Konsistenz zwischen Server und Client."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

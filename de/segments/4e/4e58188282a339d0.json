@@ -1,0 +1,14 @@
+{
+  "hash": "4e58188282a339d0",
+  "source": "{0}: Granular control of which prefetch strategies to apply by default.",
+  "text": "{0}: Detaillierte Steuerung, welche Strategien zum Vorabladen standardmäßig angewendet werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Detaillierte Steuerung, welche Strategien zum Vorabladen standardmäßig angewendet werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

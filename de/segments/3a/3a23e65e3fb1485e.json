@@ -1,0 +1,14 @@
+{
+  "hash": "3a23e65e3fb1485e",
+  "source": "That works for any h3 helper that only reads the request, such as {0}, {1}, {2} and {3}.",
+  "text": "Das funktioniert mit jedem h3-Hilfsprogramm, das die Anfrage nur liest, etwa {0}, {1}, {2} und {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das funktioniert mit jedem h3-Hilfsprogramm, das die Anfrage nur liest, etwa {0}, {1}, {2} und {3}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

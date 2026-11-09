@@ -1,0 +1,14 @@
+{
+  "hash": "8b498e78b5abcec1",
+  "source": "Your own server code is not covered by default, because the errors you get are what show you where the work is. When {0} is off, {1} lists the files in your {2} directory that import from {3}, import h3 v1 helpers that h3 v2 no longer exports, or read {4}. If your project depends on h3 v1 itself, {5} imports in your server code resolve to it rather than to h3 v2, and {6} lists the files importing from {7} until you remove the dependency or turn on {8}. If you want to ship the upgrade before doing that work, turn on {9}:",
+  "text": "Dein eigener Servercode wird standardmäßig nicht abgedeckt, denn die Fehler, die du erhältst, zeigen dir, wo noch Arbeit nötig ist. Wenn {0} deaktiviert ist, listet {1} die Dateien in deinem {2}-Verzeichnis auf, die aus {3} importieren, h3-v1-Hilfsfunktionen importieren, die h3 v2 nicht mehr exportiert, oder {4} lesen. Wenn dein Projekt selbst von h3 v1 abhängt, werden {5}-Importe in deinem Servercode auf h3 v1 statt auf h3 v2 aufgelöst, und {6} listet die Dateien auf, die aus {7} importieren, bis du die Abhängigkeit entfernst oder {8} aktivierst. Wenn du das Upgrade veröffentlichen möchtest, bevor du diese Arbeit erledigt hast, aktiviere {9}:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dein eigener Servercode wird standardmäßig nicht abgedeckt, denn die Fehler, die du erhältst, zeigen dir, wo noch Arbeit nötig ist. Wenn {0} deaktiviert ist, listet {1} die Dateien in deinem {2}-Verzeichnis auf, die aus {3} importieren, h3-v1-Hilfsfunktionen importieren, die h3 v2 nicht mehr exportiert, oder {4} lesen. Wenn dein Projekt selbst von h3 v1 abhängt, werden {5}-Importe in deinem Servercode auf h3 v1 statt auf h3 v2 aufgelöst, und {6} listet die Dateien auf, die aus {7} importieren, bis du die Abhängigkeit entfernst oder {8} aktivierst. Wenn du das Upgrade veröffentlichen möchtest, bevor du diese Arbeit erledigt hast, aktiviere {9}:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

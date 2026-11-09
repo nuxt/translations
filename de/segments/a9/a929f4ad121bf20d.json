@@ -1,0 +1,14 @@
+{
+  "hash": "a929f4ad121bf20d",
+  "source": "Options to pass directly to {0}.",
+  "text": "Optionen, die direkt an {0} übergeben werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Optionen, die direkt an {0} übergeben werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

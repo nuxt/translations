@@ -1,0 +1,14 @@
+{
+  "hash": "3cf021d717efd30b",
+  "source": "**Reaches the client**: mutations from Nuxt and Nitro plugins, which run to completion before rendering begins.",
+  "text": "**Erreicht den Client**: Änderungen aus Nuxt- und Nitro-plugins, die vollständig ausgeführt werden, bevor das Rendern beginnt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Erreicht den Client**: Änderungen aus Nuxt- und Nitro-plugins, die vollständig ausgeführt werden, bevor das Rendern beginnt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

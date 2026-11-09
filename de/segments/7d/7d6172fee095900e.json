@@ -1,0 +1,14 @@
+{
+  "hash": "7d6172fee095900e",
+  "source": "relative path or alias also works",
+  "text": "relativer Pfad oder Alias funktioniert ebenfalls",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "relativer Pfad oder Alias funktioniert ebenfalls"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

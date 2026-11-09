@@ -1,0 +1,14 @@
+{
+  "hash": "96fb18a545b51c45",
+  "source": "You can define lifecycle hooks that run when your module is first installed or upgraded to a new version. These hooks are useful for performing one-time setup tasks, database migrations, or cleanup operations.",
+  "text": "Du kannst Lifecycle-Hooks definieren, die ausgeführt werden, wenn dein Modul zum ersten Mal installiert wird oder ein Upgrade auf eine neue Version erhält. Diese hooks eignen sich für einmalige Einrichtungsaufgaben, Datenbankmigrationen oder Aufräumarbeiten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst Lifecycle-Hooks definieren, die ausgeführt werden, wenn dein Modul zum ersten Mal installiert wird oder ein Upgrade auf eine neue Version erhält. Diese hooks eignen sich für einmalige Einrichtungsaufgaben, Datenbankmigrationen oder Aufräumarbeiten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "948089953e1453ba",
+  "source": "Tree-shaking of server-only head composables out of the client bundle is handled by the {0} plugin, which Nuxt registers when using {1}.",
+  "text": "Das Tree-Shaking von Head-Composables nur für den Server aus dem Client-Bundle übernimmt das Plugin {0}, das Nuxt bei Verwendung von {1} registriert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Tree-Shaking von Head-Composables nur für den Server aus dem Client-Bundle übernimmt das Plugin {0}, das Nuxt bei Verwendung von {1} registriert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

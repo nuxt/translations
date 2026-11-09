@@ -1,0 +1,14 @@
+{
+  "hash": "efd738a569baf0dd",
+  "source": "You can use it for composables that do not require {0}, or to simply check if context is available or not without an exception.",
+  "text": "Du kannst sie für Composables verwenden, die {0} nicht zwingend benötigen, oder um ohne Exception zu prüfen, ob ein Kontext verfügbar ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst sie für Composables verwenden, die {0} nicht zwingend benötigen, oder um ohne Exception zu prüfen, ob ein Kontext verfügbar ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

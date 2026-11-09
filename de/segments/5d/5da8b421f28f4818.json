@@ -1,0 +1,14 @@
+{
+  "hash": "5da8b421f28f4818",
+  "source": "Exclude Built Nitro Folder From Git",
+  "text": "Erzeugten Nitro-Ordner von Git ausschließen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erzeugten Nitro-Ordner von Git ausschließen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

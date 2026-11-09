@@ -1,0 +1,14 @@
+{
+  "hash": "ec7944839bd98287",
+  "source": "\"Find deployment guides for Cloudflare\"",
+  "text": "„Finde Anleitungen zur Bereitstellung auf Cloudflare“",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "„Finde Anleitungen zur Bereitstellung auf Cloudflare“"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "82cfa481352119c7",
+  "source": "This runs before environment setup",
+  "text": "Dies läuft vor der Einrichtung der Umgebung",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dies läuft vor der Einrichtung der Umgebung"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

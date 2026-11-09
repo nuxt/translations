@@ -1,0 +1,14 @@
+{
+  "hash": "2829bb4f6a1a8672",
+  "source": "In build mode, type information from each run is stored in the {0} of every project referenced by {1}, so later runs only re-check what changed. From Nuxt v4.7, Nuxt's generated project configs store it in {2}, which is kept by {3} and {4}. The cache is discarded when the type checker or TypeScript version changes, and is not used if any referenced project has no {5}. Pass {6} to remove the cached type information and type-check from scratch.",
+  "text": "Im Build-Modus werden die Typinformationen jedes Durchlaufs in {0} jedes Projekts gespeichert, das von {1} referenziert wird, sodass spätere Durchläufe nur prüfen, was sich geändert hat. Ab Nuxt v4.7 speichern die von Nuxt generierten Projektkonfigurationen sie in {2}, das von {3} und {4} beibehalten wird. Der Cache wird verworfen, wenn sich die Version der Typprüfung oder von TypeScript ändert, und er wird nicht verwendet, wenn ein referenziertes Projekt kein {5} hat. Mit {6} entfernst du die zwischengespeicherten Typinformationen und prüfst die Typen von Grund auf neu.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Im Build-Modus werden die Typinformationen jedes Durchlaufs in {0} jedes Projekts gespeichert, das von {1} referenziert wird, sodass spätere Durchläufe nur prüfen, was sich geändert hat. Ab Nuxt v4.7 speichern die von Nuxt generierten Projektkonfigurationen sie in {2}, das von {3} und {4} beibehalten wird. Der Cache wird verworfen, wenn sich die Version der Typprüfung oder von TypeScript ändert, und er wird nicht verwendet, wenn ein referenziertes Projekt kein {5} hat. Mit {6} entfernst du die zwischengespeicherten Typinformationen und prüfst die Typen von Grund auf neu."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

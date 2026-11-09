@@ -1,0 +1,14 @@
+{
+  "hash": "ff3efa3319a5fa39",
+  "source": "Layout props set via {0} are fully typed based on the layout's {1}. You'll get autocomplete and type-checking in your editor.",
+  "text": "Über {0} gesetzte Layout-Props sind anhand von {1} des Layouts vollständig typisiert. Du erhältst Autovervollständigung und Typprüfung in deinem Editor.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Über {0} gesetzte Layout-Props sind anhand von {1} des Layouts vollständig typisiert. Du erhältst Autovervollständigung und Typprüfung in deinem Editor."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

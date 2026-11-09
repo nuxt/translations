@@ -1,0 +1,14 @@
+{
+  "hash": "d1050b8cf5a2aa94",
+  "source": "Nuxt Kit provides a set of utilities to help you work with the builder. These functions allow you to extend the Vite and webpack configurations.",
+  "text": "Nuxt Kit stellt eine Reihe von Hilfsfunktionen bereit, die dir bei der Arbeit mit dem Builder helfen. Mit diesen Funktionen kannst du die Konfigurationen von Vite und webpack erweitern.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Kit stellt eine Reihe von Hilfsfunktionen bereit, die dir bei der Arbeit mit dem Builder helfen. Mit diesen Funktionen kannst du die Konfigurationen von Vite und webpack erweitern."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

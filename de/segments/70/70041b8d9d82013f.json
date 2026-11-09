@@ -1,0 +1,14 @@
+{
+  "hash": "70041b8d9d82013f",
+  "source": "Only submit contributions you fully understand and can explain",
+  "text": "Reiche nur Beiträge ein, die du vollständig verstehst und erklären kannst",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Reiche nur Beiträge ein, die du vollständig verstehst und erklären kannst"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

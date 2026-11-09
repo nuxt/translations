@@ -1,0 +1,14 @@
+{
+  "hash": "84123fb360232fce",
+  "source": "{0} on each family. It defaults to {1}, as before.",
+  "text": "{0} an jeder Schriftfamilie. Der Standardwert ist wie bisher {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} an jeder Schriftfamilie. Der Standardwert ist wie bisher {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

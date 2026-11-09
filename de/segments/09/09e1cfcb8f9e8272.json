@@ -1,0 +1,14 @@
+{
+  "hash": "09e1cfcb8f9e8272",
+  "source": "you cannot share state (provide/inject, Pinia, {0}) between the page and the island; pass data via props instead",
+  "text": "kannst du keinen Zustand (provide/inject, Pinia, {0}) zwischen der Seite und dem Island teilen; übergib Daten stattdessen über Props",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "kannst du keinen Zustand (provide/inject, Pinia, {0}) zwischen der Seite und dem Island teilen; übergib Daten stattdessen über Props"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

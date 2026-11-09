@@ -1,0 +1,14 @@
+{
+  "hash": "94788e5e0c99d692",
+  "source": "The default mode of {0} is to run code only once. For example, if the code runs on the server it won't run again on the client. It also won't run again if you {1} more than once on the client, for example by navigating back to this page.",
+  "text": "Standardmäßig führt {0} den Code nur einmal aus. Wird der Code beispielsweise auf dem Server ausgeführt, läuft er auf dem Client nicht erneut. Er läuft auch nicht erneut, wenn du {1} auf dem Client mehr als einmal aufrufst, etwa indem du zu dieser Seite zurücknavigierst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardmäßig führt {0} den Code nur einmal aus. Wird der Code beispielsweise auf dem Server ausgeführt, läuft er auf dem Client nicht erneut. Er läuft auch nicht erneut, wenn du {1} auf dem Client mehr als einmal aufrufst, etwa indem du zu dieser Seite zurücknavigierst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

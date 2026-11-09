@@ -1,0 +1,14 @@
+{
+  "hash": "19273494b947c43c",
+  "source": "useState key must be a string.",
+  "text": "Der Schlüssel von useState muss ein String sein.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Schlüssel von useState muss ein String sein."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

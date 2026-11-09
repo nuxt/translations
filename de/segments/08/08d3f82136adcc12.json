@@ -1,0 +1,14 @@
+{
+  "hash": "08d3f82136adcc12",
+  "source": "The directory which will be processed to auto-generate your application page routes.",
+  "text": "Das Verzeichnis, das verarbeitet wird, um die Seitenrouten deiner Anwendung automatisch zu generieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Verzeichnis, das verarbeitet wird, um die Seitenrouten deiner Anwendung automatisch zu generieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

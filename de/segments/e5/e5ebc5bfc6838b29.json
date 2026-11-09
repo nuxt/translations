@@ -1,0 +1,14 @@
+{
+  "hash": "e5ebc5bfc6838b29",
+  "source": "Nuxt is not opinionated about state management, so feel free to choose the right solution for your needs. There are multiple integrations with the most popular state management libraries, including:",
+  "text": "Nuxt macht keine Vorgaben zur Zustandsverwaltung, du kannst also die Lösung wählen, die zu deinen Anforderungen passt. Es gibt mehrere Integrationen für die beliebtesten Bibliotheken zur Zustandsverwaltung, darunter:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt macht keine Vorgaben zur Zustandsverwaltung, du kannst also die Lösung wählen, die zu deinen Anforderungen passt. Es gibt mehrere Integrationen für die beliebtesten Bibliotheken zur Zustandsverwaltung, darunter:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

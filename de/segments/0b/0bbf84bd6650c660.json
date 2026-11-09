@@ -1,0 +1,14 @@
+{
+  "hash": "0bbf84bd6650c660",
+  "source": "You can pass custom HTML or components through the loading indicator's default slot.",
+  "text": "Über den Standard-Slot des Ladeindikators kannst du eigenes HTML oder eigene Komponenten einfügen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Über den Standard-Slot des Ladeindikators kannst du eigenes HTML oder eigene Komponenten einfügen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

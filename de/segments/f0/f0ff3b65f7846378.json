@@ -1,0 +1,14 @@
+{
+  "hash": "f0ff3b65f7846378",
+  "source": "This has no effect when {0} is {1}, as the route record does not override the meta module in that case.",
+  "text": "Das hat keine Wirkung, wenn {0} auf {1} steht, da der Route-Eintrag das Meta-Modul in diesem Fall nicht überschreibt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das hat keine Wirkung, wenn {0} auf {1} steht, da der Route-Eintrag das Meta-Modul in diesem Fall nicht überschreibt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

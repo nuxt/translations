@@ -1,0 +1,14 @@
+{
+  "hash": "a0d769930f772532",
+  "source": "{0}: contains the server routes of the application (e.g. dynamic {1}).",
+  "text": "{0}: enthält die Server-Routen der Anwendung (z. B. dynamische {1}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: enthält die Server-Routen der Anwendung (z. B. dynamische {1})."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

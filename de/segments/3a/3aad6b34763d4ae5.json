@@ -1,0 +1,14 @@
+{
+  "hash": "3aad6b34763d4ae5",
+  "source": "App plugins",
+  "text": "App-Plugins",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "App-Plugins"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

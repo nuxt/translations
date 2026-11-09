@@ -1,0 +1,14 @@
+{
+  "hash": "af4a06260dbfa0ac",
+  "source": "For files directly in the shared directory",
+  "text": "Für Dateien direkt im Verzeichnis shared",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Für Dateien direkt im Verzeichnis shared"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

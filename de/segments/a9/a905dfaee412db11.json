@@ -1,0 +1,14 @@
+{
+  "hash": "a905dfaee412db11",
+  "source": "Set it to false to configure it to be skipped for prerendering",
+  "text": "Setze es auf false, damit die Seite beim Vorab-Rendering übersprungen wird",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Setze es auf false, damit die Seite beim Vorab-Rendering übersprungen wird"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

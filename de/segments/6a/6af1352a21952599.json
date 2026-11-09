@@ -1,0 +1,14 @@
+{
+  "hash": "6af1352a21952599",
+  "source": "This change should generally improve the expected behavior, but if you were expecting changing the key or options of a non-immediate {0}, you now will need to trigger it manually the first time.",
+  "text": "Diese Änderung sollte das erwartete Verhalten im Allgemeinen verbessern. Wenn du jedoch erwartet hast, dass eine Änderung des Schlüssels oder der Optionen eines nicht sofort ausgeführten {0} den Abruf auslöst, musst du ihn beim ersten Mal nun manuell anstoßen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese Änderung sollte das erwartete Verhalten im Allgemeinen verbessern. Wenn du jedoch erwartet hast, dass eine Änderung des Schlüssels oder der Optionen eines nicht sofort ausgeführten {0} den Abruf auslöst, musst du ihn beim ersten Mal nun manuell anstoßen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

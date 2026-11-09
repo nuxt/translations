@@ -1,0 +1,14 @@
+{
+  "hash": "fb933f11c099dd01",
+  "source": "Nuxt provides a way to perform {0} fetching within the Options API. You must wrap your component definition within {1} for this to work.",
+  "text": "Nuxt bietet eine Möglichkeit, den {0}-Abruf innerhalb der Options API durchzuführen. Dafür musst du deine Komponentendefinition in {1} einbetten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt bietet eine Möglichkeit, den {0}-Abruf innerhalb der Options API durchzuführen. Dafür musst du deine Komponentendefinition in {1} einbetten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

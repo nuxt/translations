@@ -1,0 +1,14 @@
+{
+  "hash": "dffa6c0fb22facf5",
+  "source": "Read more about the **View Transition API**.",
+  "text": "Mehr zur **View Transition API**.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mehr zur **View Transition API**."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

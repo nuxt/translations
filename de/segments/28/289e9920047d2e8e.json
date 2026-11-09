@@ -1,0 +1,14 @@
+{
+  "hash": "289e9920047d2e8e",
+  "source": "Nitro v2 auto-imported the exports of every file under {0}, including files in subdirectories. Nuxt 5 only scans the files directly in {1}, as it does for {2} and {3}. If server code uses an export from a nested file without importing it, the build warns with {4}.",
+  "text": "Nitro v2 hat die Exporte jeder Datei unter {0} automatisch importiert, auch aus Unterverzeichnissen. Nuxt 5 durchsucht nur die Dateien direkt in {1}, wie es auch bei {2} und {3} der Fall ist. Verwendet Servercode einen Export aus einer verschachtelten Datei ohne Import, gibt der Build die Warnung {4} aus.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nitro v2 hat die Exporte jeder Datei unter {0} automatisch importiert, auch aus Unterverzeichnissen. Nuxt 5 durchsucht nur die Dateien direkt in {1}, wie es auch bei {2} und {3} der Fall ist. Verwendet Servercode einen Export aus einer verschachtelten Datei ohne Import, gibt der Build die Warnung {4} aus."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

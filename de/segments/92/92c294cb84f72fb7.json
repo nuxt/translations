@@ -1,0 +1,14 @@
+{
+  "hash": "92c294cb84f72fb7",
+  "source": "Learn more about the Nuxt interface and the build vs. runtime split.",
+  "text": "Erfahre mehr über die Nuxt-Schnittstelle und die Trennung zwischen Build und Laufzeit.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erfahre mehr über die Nuxt-Schnittstelle und die Trennung zwischen Build und Laufzeit."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

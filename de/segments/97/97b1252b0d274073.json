@@ -1,0 +1,14 @@
+{
+  "hash": "97b1252b0d274073",
+  "source": "\"Help me migrate from Nuxt 3 to Nuxt 4\"",
+  "text": "„Hilf mir bei der Migration von Nuxt 3 auf Nuxt 4“",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "„Hilf mir bei der Migration von Nuxt 3 auf Nuxt 4“"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

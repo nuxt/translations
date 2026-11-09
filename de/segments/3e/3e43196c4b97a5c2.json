@@ -1,0 +1,14 @@
+{
+  "hash": "3e43196c4b97a5c2",
+  "source": "A typical mostly-static site ends up with:",
+  "text": "Eine typische überwiegend statische Website sieht am Ende so aus:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine typische überwiegend statische Website sieht am Ende so aus:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

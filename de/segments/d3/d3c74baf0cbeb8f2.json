@@ -1,0 +1,14 @@
+{
+  "hash": "d3c74baf0cbeb8f2",
+  "source": "{0} - Proxy requests to another URL using a string target or an object with {1} and H3 proxy options. Read more in {2}Nitro's route rules docs{/2}.",
+  "text": "{0} – Leitet Anfragen per Proxy an eine andere URL weiter, entweder mit einem String als Ziel oder mit einem Objekt aus {1} und H3-Proxy-Optionen. Mehr dazu findest du in der {2}Dokumentation zu Nitros Route-Rules{/2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} – Leitet Anfragen per Proxy an eine andere URL weiter, entweder mit einem String als Ziel oder mit einem Objekt aus {1} und H3-Proxy-Optionen. Mehr dazu findest du in der {2}Dokumentation zu Nitros Route-Rules{/2}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "8455452a1f265795",
+  "source": "When the placeholder {0} and the actual component root share the same tag name, Vue's runtime skips re-applying {1} during hydration. This causes scoped styles to be missing after the component mounts. Using a comment node avoids the tag name collision entirely.",
+  "text": "Wenn der Platzhalter {0} und das eigentliche Wurzelelement der Komponente denselben Tag-Namen haben, überspringt die Laufzeit von Vue das erneute Anwenden von {1} während der Hydration. Dadurch fehlen bereichsbezogene Styles, nachdem die Komponente eingehängt wurde. Ein Kommentarknoten vermeidet die Kollision der Tag-Namen vollständig.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn der Platzhalter {0} und das eigentliche Wurzelelement der Komponente denselben Tag-Namen haben, überspringt die Laufzeit von Vue das erneute Anwenden von {1} während der Hydration. Dadurch fehlen bereichsbezogene Styles, nachdem die Komponente eingehängt wurde. Ein Kommentarknoten vermeidet die Kollision der Tag-Namen vollständig."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

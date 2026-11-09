@@ -1,0 +1,14 @@
+{
+  "hash": "b13c18ca33f56d9e",
+  "source": "Custom File",
+  "text": "Benutzerdefinierte Datei",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Benutzerdefinierte Datei"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "d500dbc0801bc8d0",
+  "source": "the builder reuse its own watcher. The builder should register a",
+  "text": "sodass der Builder seinen eigenen Watcher wiederverwenden kann. Der Builder sollte",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "sodass der Builder seinen eigenen Watcher wiederverwenden kann. Der Builder sollte"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

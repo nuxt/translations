@@ -1,0 +1,14 @@
+{
+  "hash": "11ea2d7f88f77b5e",
+  "source": "It is also possible to update runtime configuration. This will be merged with the existing runtime configuration, and if Nitro has already been initialized it will trigger an HMR event to reload the Nitro runtime config.",
+  "text": "Die Laufzeitkonfiguration lässt sich auch aktualisieren. Die Änderungen werden mit der bestehenden Laufzeitkonfiguration zusammengeführt. Wurde Nitro bereits initialisiert, wird ein HMR-Ereignis ausgelöst, das die Laufzeitkonfiguration von Nitro neu lädt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Laufzeitkonfiguration lässt sich auch aktualisieren. Die Änderungen werden mit der bestehenden Laufzeitkonfiguration zusammengeführt. Wurde Nitro bereits initialisiert, wird ein HMR-Ereignis ausgelöst, das die Laufzeitkonfiguration von Nitro neu lädt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

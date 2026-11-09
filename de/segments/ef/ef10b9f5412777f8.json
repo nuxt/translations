@@ -1,0 +1,14 @@
+{
+  "hash": "ef10b9f5412777f8",
+  "source": "Stop a preview server already running on this project and take its place",
+  "text": "Eine bereits laufende Vorschau für dieses Projekt beenden und an ihrer Stelle starten",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine bereits laufende Vorschau für dieses Projekt beenden und an ihrer Stelle starten"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

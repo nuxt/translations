@@ -1,0 +1,14 @@
+{
+  "hash": "303d10151852c444",
+  "source": "With Vue 3 and Nuxt 3, a focus has been put on bundle size reduction. With version 3, most of Vue’s functionality, including template directives and built-in components, is tree-shakable. Your production bundle will not include them if you don’t use them.",
+  "text": "Bei Vue 3 und Nuxt 3 lag ein Schwerpunkt auf der Verringerung der Bundle-Größe. In Version 3 ist der Großteil der Vue-Funktionalität, einschließlich Vorlagen-Direktiven und integrierter Komponenten, Tree-Shaking-fähig. Dein Produktions-Bundle enthält sie nicht, wenn du sie nicht verwendest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bei Vue 3 und Nuxt 3 lag ein Schwerpunkt auf der Verringerung der Bundle-Größe. In Version 3 ist der Großteil der Vue-Funktionalität, einschließlich Vorlagen-Direktiven und integrierter Komponenten, Tree-Shaking-fähig. Dein Produktions-Bundle enthält sie nicht, wenn du sie nicht verwendest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

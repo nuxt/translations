@@ -1,0 +1,14 @@
+{
+  "hash": "7d538835f3cd96f4",
+  "source": "Font metadata is cached per project",
+  "text": "Schriftmetadaten werden pro Projekt zwischengespeichert",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Schriftmetadaten werden pro Projekt zwischengespeichert"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

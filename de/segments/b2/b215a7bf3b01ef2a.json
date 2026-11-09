@@ -1,0 +1,14 @@
+{
+  "hash": "b215a7bf3b01ef2a",
+  "source": "You can enable experimental restoration of this state by enabling the {0} option in your {1} file.",
+  "text": "Du kannst die experimentelle Wiederherstellung dieses Zustands aktivieren, indem du die Option {0} in deiner Datei {1} einschaltest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst die experimentelle Wiederherstellung dieses Zustands aktivieren, indem du die Option {0} in deiner Datei {1} einschaltest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

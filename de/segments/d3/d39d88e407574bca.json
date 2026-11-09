@@ -1,0 +1,14 @@
+{
+  "hash": "d39d88e407574bca",
+  "source": "Any prop change on a lazily hydrated component will trigger hydration immediately. (e.g., changing a prop on a component with {0} will cause it to hydrate)",
+  "text": "Jede Änderung einer Prop an einer verzögert hydratisierten Komponente löst die Hydration sofort aus. (z. B. führt das Ändern einer Prop an einer Komponente mit {0} dazu, dass sie hydratisiert wird)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Jede Änderung einer Prop an einer verzögert hydratisierten Komponente löst die Hydration sofort aus. (z. B. führt das Ändern einer Prop an einer Komponente mit {0} dazu, dass sie hydratisiert wird)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

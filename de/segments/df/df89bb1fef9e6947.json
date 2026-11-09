@@ -1,0 +1,14 @@
+{
+  "hash": "df89bb1fef9e6947",
+  "source": "Subsetting fonts to the glyphs you use",
+  "text": "Schriften auf die verwendeten Glyphen reduzieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Schriften auf die verwendeten Glyphen reduzieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

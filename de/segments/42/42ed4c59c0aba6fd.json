@@ -1,0 +1,14 @@
+{
+  "hash": "42ed4c59c0aba6fd",
+  "source": "Resolves the builder and calls {0}. **This is where your builder runs.**",
+  "text": "Ermittelt den Builder und ruft {0} auf. **Hier läuft dein Builder.**",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ermittelt den Builder und ruft {0} auf. **Hier läuft dein Builder.**"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

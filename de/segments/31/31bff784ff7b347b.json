@@ -1,0 +1,14 @@
+{
+  "hash": "31bff784ff7b347b",
+  "source": "Nuxt on CodeSandbox",
+  "text": "Nuxt auf CodeSandbox",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt auf CodeSandbox"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

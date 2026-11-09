@@ -1,0 +1,14 @@
+{
+  "hash": "d41459078c21a877",
+  "source": "Automatically resizes images based on {0} and {1}",
+  "text": "Passt die Bildgröße automatisch anhand von {0} und {1} an",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Passt die Bildgröße automatisch anhand von {0} und {1} an"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

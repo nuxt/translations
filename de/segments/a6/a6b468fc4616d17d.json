@@ -1,0 +1,14 @@
+{
+  "hash": "a6b468fc4616d17d",
+  "source": "Islands for Server-Rendered Widgets",
+  "text": "Islands für serverseitig gerenderte Widgets",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Islands für serverseitig gerenderte Widgets"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

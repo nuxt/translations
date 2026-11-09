@@ -1,0 +1,14 @@
+{
+  "hash": "22c679ae78c34b82",
+  "source": "Always install {0} on the client from the app entry. By default, a production client build only installs the global, and includes {1}, when a module reads it.",
+  "text": "Installiere {0} auf dem Client immer über den App-Einstiegspunkt. Standardmäßig installiert ein Client-Build für die Produktion das globale Objekt nur dann und bindet {1} nur dann ein, wenn ein Modul es liest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Installiere {0} auf dem Client immer über den App-Einstiegspunkt. Standardmäßig installiert ein Client-Build für die Produktion das globale Objekt nur dann und bindet {1} nur dann ein, wenn ein Modul es liest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

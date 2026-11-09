@@ -1,0 +1,14 @@
+{
+  "hash": "bccc3c60b91fa9d2",
+  "source": "Deprecations",
+  "text": "Abkündigungen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Abkündigungen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

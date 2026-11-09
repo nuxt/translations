@@ -1,0 +1,14 @@
+{
+  "hash": "9e714798f3cf5bad",
+  "source": "If a composable is called without access to the context, you may get an error stating that 'A composable that requires access to the Nuxt instance was called outside of a plugin, Nuxt hook, Nuxt middleware, or Vue setup function.' In that case, you can also explicitly call functions within this context by using {0}.",
+  "text": "Wird ein Composable ohne Zugriff auf den Kontext aufgerufen, kann die Fehlermeldung erscheinen: „A composable that requires access to the Nuxt instance was called outside of a plugin, Nuxt hook, Nuxt middleware, or Vue setup function.“ In diesem Fall kannst du Funktionen mit {0} auch explizit innerhalb dieses Kontexts aufrufen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird ein Composable ohne Zugriff auf den Kontext aufgerufen, kann die Fehlermeldung erscheinen: „A composable that requires access to the Nuxt instance was called outside of a plugin, Nuxt hook, Nuxt middleware, or Vue setup function.“ In diesem Fall kannst du Funktionen mit {0} auch explizit innerhalb dieses Kontexts aufrufen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

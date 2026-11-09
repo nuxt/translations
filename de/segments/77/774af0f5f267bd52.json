@@ -1,0 +1,14 @@
+{
+  "hash": "774af0f5f267bd52",
+  "source": "Module body exporting the per-component SSR styles map, and the CSS inlined for each emitted file.",
+  "text": "Modulinhalt, der die Map der SSR-Styles pro Komponente exportiert, sowie das für jede ausgegebene Datei inline eingebundene CSS.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Modulinhalt, der die Map der SSR-Styles pro Komponente exportiert, sowie das für jede ausgegebene Datei inline eingebundene CSS."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

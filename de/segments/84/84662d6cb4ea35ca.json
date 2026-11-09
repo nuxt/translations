@@ -1,0 +1,14 @@
+{
+  "hash": "84662d6cb4ea35ca",
+  "source": "This is suitable for files that have to keep their names (e.g. {0}) *or* likely won't change (e.g. {1}).",
+  "text": "Das eignet sich für Dateien, die ihren Namen behalten müssen (z. B. {0}) *oder* sich voraussichtlich nicht ändern (z. B. {1}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das eignet sich für Dateien, die ihren Namen behalten müssen (z. B. {0}) *oder* sich voraussichtlich nicht ändern (z. B. {1})."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

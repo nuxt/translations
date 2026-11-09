@@ -1,0 +1,14 @@
+{
+  "hash": "3e3822d260ff4f6c",
+  "source": "The default is {0}. It is forced to {1} when {2} is set.",
+  "text": "Der Standardwert ist {0}. Er wird auf {1} erzwungen, wenn {2} gesetzt ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Standardwert ist {0}. Er wird auf {1} erzwungen, wenn {2} gesetzt ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

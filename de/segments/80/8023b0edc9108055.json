@@ -1,0 +1,14 @@
+{
+  "hash": "8023b0edc9108055",
+  "source": "Error object if the asynchronous function threw an error.",
+  "text": "Fehlerobjekt, falls die asynchrone Funktion einen Fehler ausgelöst hat.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fehlerobjekt, falls die asynchrone Funktion einen Fehler ausgelöst hat."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

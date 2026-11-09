@@ -1,0 +1,14 @@
+{
+  "hash": "44a8dd5a8796112d",
+  "source": "**Reactive key support**: You can now use computed refs, plain refs or getter functions as keys, which enables automatic data refetching (and stores data separately).",
+  "text": "**Unterstützung für reaktive Schlüssel**: Du kannst jetzt Computed-Refs, einfache Refs oder Getter-Funktionen als Schlüssel verwenden. Das ermöglicht automatisches erneutes Abrufen der Daten (und speichert Daten getrennt).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Unterstützung für reaktive Schlüssel**: Du kannst jetzt Computed-Refs, einfache Refs oder Getter-Funktionen als Schlüssel verwenden. Das ermöglicht automatisches erneutes Abrufen der Daten (und speichert Daten getrennt)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

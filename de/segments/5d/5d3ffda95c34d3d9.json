@@ -1,0 +1,14 @@
+{
+  "hash": "5d3ffda95c34d3d9",
+  "source": "Register hooks that execute when Nitro shuts down.",
+  "text": "Hooks registrieren, die beim Herunterfahren von Nitro ausgeführt werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Hooks registrieren, die beim Herunterfahren von Nitro ausgeführt werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "7dfb83622c07e0f4",
+  "source": "If you are using pages, you can take full control by setting {0} and then using the {1} component within the page.",
+  "text": "Wenn du Seiten verwendest, kannst du die volle Kontrolle übernehmen, indem du {0} setzt und anschließend die Komponente {1} innerhalb der Seite verwendest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du Seiten verwendest, kannst du die volle Kontrolle übernehmen, indem du {0} setzt und anschließend die Komponente {1} innerhalb der Seite verwendest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

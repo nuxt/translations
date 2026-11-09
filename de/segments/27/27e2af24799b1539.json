@@ -1,0 +1,14 @@
+{
+  "hash": "27e2af24799b1539",
+  "source": "The {0} and {1} hooks need no switch. Whenever the layer is active, for your code or for a module's, Nuxt emits them from the Nitro v3 {2} hook and reports any case it can't handle.",
+  "text": "Die Hooks {0} und {1} benötigen keinen Schalter. Sobald der Layer aktiv ist, sei es für deinen Code oder für den eines Moduls, löst Nuxt sie über den Nitro-v3-Hook {2} aus und meldet jeden Fall, den er nicht verarbeiten kann.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Hooks {0} und {1} benötigen keinen Schalter. Sobald der Layer aktiv ist, sei es für deinen Code oder für den eines Moduls, löst Nuxt sie über den Nitro-v3-Hook {2} aus und meldet jeden Fall, den er nicht verarbeiten kann."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

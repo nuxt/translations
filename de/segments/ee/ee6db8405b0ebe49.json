@@ -1,0 +1,14 @@
+{
+  "hash": "ee6db8405b0ebe49",
+  "source": "{0}autoprefixer{/0} and {1}cssnano{/1} are optional peer dependencies. To use either, install it and name it in {2}:",
+  "text": "{0}autoprefixer{/0} und {1}cssnano{/1} sind optionale Peer-Abhängigkeiten. Um eines davon zu verwenden, installiere es und trage es in {2} ein:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}autoprefixer{/0} und {1}cssnano{/1} sind optionale Peer-Abhängigkeiten. Um eines davon zu verwenden, installiere es und trage es in {2} ein:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

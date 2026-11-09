@@ -1,0 +1,14 @@
+{
+  "hash": "63a6ee09934b6da7",
+  "source": "Click this button to build and open the project in a dev container.",
+  "text": "Klicke auf diese Schaltfläche, um das Projekt zu erzeugen und in einem Dev Container zu öffnen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Klicke auf diese Schaltfläche, um das Projekt zu erzeugen und in einem Dev Container zu öffnen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "fa6e4086a9f52f3a",
+  "source": "When using {0} option, {1}nitro{/1} must have been configured.",
+  "text": "Wenn du die Option {0} verwendest, muss {1}nitro{/1} konfiguriert sein.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du die Option {0} verwendest, muss {1}nitro{/1} konfiguriert sein."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

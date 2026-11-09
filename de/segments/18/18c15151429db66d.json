@@ -1,0 +1,14 @@
+{
+  "hash": "18c15151429db66d",
+  "source": "Nuxt has always used Vue as a frontend framework.",
+  "text": "Nuxt hat schon immer Vue als Frontend-Framework verwendet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt hat schon immer Vue als Frontend-Framework verwendet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

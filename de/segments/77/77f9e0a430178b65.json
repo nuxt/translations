@@ -1,0 +1,14 @@
+{
+  "hash": "77f9e0a430178b65",
+  "source": "This {0} composable uses {1} under the hood (rather than {2}) to manipulate your {3}. Accordingly, it is recommended not to use both the native Nuxt 2 {4} properties as well as {5} , as they may conflict.",
+  "text": "Dieses Composable {0} verwendet intern {1} (statt {2}), um deine {3} zu verwalten. Daher wird empfohlen, nicht gleichzeitig die nativen Nuxt-2-Eigenschaften von {4} und {5} zu verwenden, da sie in Konflikt geraten können.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dieses Composable {0} verwendet intern {1} (statt {2}), um deine {3} zu verwalten. Daher wird empfohlen, nicht gleichzeitig die nativen Nuxt-2-Eigenschaften von {4} und {5} zu verwenden, da sie in Konflikt geraten können."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

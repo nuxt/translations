@@ -1,0 +1,14 @@
+{
+  "hash": "5f2586eb6536ea41",
+  "source": "Typing a Value That Holds {0}",
+  "text": "Einen Wert typisieren, der {0} enthält",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Einen Wert typisieren, der {0} enthält"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

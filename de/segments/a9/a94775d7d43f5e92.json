@@ -1,0 +1,14 @@
+{
+  "hash": "a94775d7d43f5e92",
+  "source": "If you're missing certain fonts or their variations, please confirm the module is {0}configured to load{/0} the fonts you expected to see.",
+  "text": "Wenn dir bestimmte Schriftarten oder deren Varianten fehlen, prüfe bitte, ob das Modul so {0}konfiguriert ist, dass es{/0} die erwarteten Schriftarten lädt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn dir bestimmte Schriftarten oder deren Varianten fehlen, prüfe bitte, ob das Modul so {0}konfiguriert ist, dass es{/0} die erwarteten Schriftarten lädt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

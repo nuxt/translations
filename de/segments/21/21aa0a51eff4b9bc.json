@@ -1,0 +1,14 @@
+{
+  "hash": "21aa0a51eff4b9bc",
+  "source": "Nuxt supports multiple builders for the client-side application. By default, Vite is used, but you can switch to webpack, Rsbuild, or even provide a custom builder implementation.",
+  "text": "Nuxt unterstützt mehrere Builder für die clientseitige Anwendung. Standardmäßig wird Vite verwendet, du kannst aber zu webpack oder Rsbuild wechseln oder sogar eine eigene Builder-Implementierung bereitstellen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt unterstützt mehrere Builder für die clientseitige Anwendung. Standardmäßig wird Vite verwendet, du kannst aber zu webpack oder Rsbuild wechseln oder sogar eine eigene Builder-Implementierung bereitstellen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

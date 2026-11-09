@@ -1,0 +1,14 @@
+{
+  "hash": "6a32bf4b3f84eac9",
+  "source": "In the rest of the migration documentation, you will notice that key Nuxt and Vue utilities do not have explicit imports. This is not a typo; Nuxt will automatically import them for you, and you should get full type hinting if you have followed {0}the instructions{/0} to use Nuxt's TypeScript support.",
+  "text": "In der restlichen Migrationsdokumentation wirst du feststellen, dass zentrale Nuxt- und Vue-Hilfsfunktionen keine expliziten Importe haben. Das ist kein Tippfehler: Nuxt importiert sie automatisch für dich, und du erhältst vollständige Typhinweise, wenn du {0}den Anweisungen{/0} zur Nutzung der TypeScript-Unterstützung von Nuxt gefolgt bist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In der restlichen Migrationsdokumentation wirst du feststellen, dass zentrale Nuxt- und Vue-Hilfsfunktionen keine expliziten Importe haben. Das ist kein Tippfehler: Nuxt importiert sie automatisch für dich, und du erhältst vollständige Typhinweise, wenn du {0}den Anweisungen{/0} zur Nutzung der TypeScript-Unterstützung von Nuxt gefolgt bist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

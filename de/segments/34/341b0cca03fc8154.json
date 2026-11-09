@@ -1,0 +1,14 @@
+{
+  "hash": "341b0cca03fc8154",
+  "source": "Turn off rendering of Nuxt scripts and JavaScript resource hints. Can also be configured granularly within {0}.",
+  "text": "Deaktiviert das Rendern von Nuxt-Skripten und JavaScript-Resource-Hints. Kann auch detaillierter in {0} konfiguriert werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Deaktiviert das Rendern von Nuxt-Skripten und JavaScript-Resource-Hints. Kann auch detaillierter in {0} konfiguriert werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

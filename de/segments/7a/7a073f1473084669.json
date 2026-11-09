@@ -1,0 +1,14 @@
+{
+  "hash": "7a073f1473084669",
+  "source": "set the user session in the cookie",
+  "text": "die Nutzersitzung im Cookie setzen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "die Nutzersitzung im Cookie setzen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

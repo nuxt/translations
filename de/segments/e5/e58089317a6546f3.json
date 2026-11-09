@@ -1,0 +1,14 @@
+{
+  "hash": "e58089317a6546f3",
+  "source": "This is the recommended way to specify {0}router options{/0}.",
+  "text": "Dies ist der empfohlene Weg, {0}Router-Optionen{/0} festzulegen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dies ist der empfohlene Weg, {0}Router-Optionen{/0} festzulegen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

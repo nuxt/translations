@@ -1,0 +1,14 @@
+{
+  "hash": "9c80af6bc92067de",
+  "source": "Read counter cookie",
+  "text": "Counter-Cookie lesen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Counter-Cookie lesen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

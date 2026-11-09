@@ -1,0 +1,14 @@
+{
+  "hash": "c96d3e398b446230",
+  "source": "To keep h3's implementation, import it explicitly:",
+  "text": "Um die Implementierung von h3 beizubehalten, importiere sie explizit:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um die Implementierung von h3 beizubehalten, importiere sie explizit:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

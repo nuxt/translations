@@ -1,0 +1,14 @@
+{
+  "hash": "22c5fe52a86df4ca",
+  "source": "Install Dependency",
+  "text": "Abhängigkeit installieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Abhängigkeit installieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

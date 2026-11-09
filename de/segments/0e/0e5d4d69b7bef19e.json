@@ -1,0 +1,14 @@
+{
+  "hash": "0e5d4d69b7bef19e",
+  "source": "Defines the name of the font that should be given the option. This is required for every item in the {0} array.",
+  "text": "Legt den Namen der Schrift fest, für die die Option gelten soll. Dies ist für jedes Element im Array {0} erforderlich.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Legt den Namen der Schrift fest, für die die Option gelten soll. Dies ist für jedes Element im Array {0} erforderlich."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

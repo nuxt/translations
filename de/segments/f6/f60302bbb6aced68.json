@@ -1,0 +1,14 @@
+{
+  "hash": "f60302bbb6aced68",
+  "source": "Respect defaults when clearing {0}",
+  "text": "Standardwerte beim Zurücksetzen von {0} berücksichtigen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardwerte beim Zurücksetzen von {0} berücksichtigen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

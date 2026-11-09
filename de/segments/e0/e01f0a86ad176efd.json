@@ -1,0 +1,14 @@
+{
+  "hash": "e01f0a86ad176efd",
+  "source": "In most instances, the meta doesn't need to be reactive as robots will only scan the initial load. So we recommend using {0} as a performance-focused utility that will not do anything (or return a {1} object) on the client.",
+  "text": "In den meisten Fällen müssen die Metadaten nicht reaktiv sein, da Robots nur den initialen Ladevorgang erfassen. Wir empfehlen daher, {0} als leistungsorientiertes Hilfsmittel zu verwenden, das auf dem Client nichts tut (oder ein {1}-Objekt zurückgibt).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In den meisten Fällen müssen die Metadaten nicht reaktiv sein, da Robots nur den initialen Ladevorgang erfassen. Wir empfehlen daher, {0} als leistungsorientiertes Hilfsmittel zu verwenden, das auf dem Client nichts tut (oder ein {1}-Objekt zurückgibt)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

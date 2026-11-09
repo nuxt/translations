@@ -1,0 +1,14 @@
+{
+  "hash": "42aa66728916f44e",
+  "source": "Launch its development server with {0}, it should reload itself as you make changes to your module in the {1} directory",
+  "text": "Starte den Entwicklungsserver mit {0}. Er lädt sich automatisch neu, wenn du Änderungen an deinem Modul im Verzeichnis {1} vornimmst",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Starte den Entwicklungsserver mit {0}. Er lädt sich automatisch neu, wenn du Änderungen an deinem Modul im Verzeichnis {1} vornimmst"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

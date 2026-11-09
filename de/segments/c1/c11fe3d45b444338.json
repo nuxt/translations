@@ -1,0 +1,14 @@
+{
+  "hash": "c11fe3d45b444338",
+  "source": "The component is auto-imported by its file name, so you can use {0} as usual with your new defaults. {1} only sets the component's internal name (as shown in Vue DevTools); it does not change how the component is used in templates.",
+  "text": "Die Komponente wird anhand ihres Dateinamens automatisch importiert, sodass du {0} wie gewohnt mit deinen neuen Standardwerten verwenden kannst. {1} legt nur den internen Namen der Komponente fest (wie er in den Vue DevTools angezeigt wird); es ändert nicht, wie die Komponente in Vorlagen verwendet wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Komponente wird anhand ihres Dateinamens automatisch importiert, sodass du {0} wie gewohnt mit deinen neuen Standardwerten verwenden kannst. {1} legt nur den internen Namen der Komponente fest (wie er in den Vue DevTools angezeigt wird); es ändert nicht, wie die Komponente in Vorlagen verwendet wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

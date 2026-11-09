@@ -1,0 +1,14 @@
+{
+  "hash": "627edc4f41416a32",
+  "source": "The description also says how the server build relates to the app build. A server builder sets {0} to declare whether its build is a pass of its own, run after the app build (as {1} does), or whether the app builder is building everything and there is no separate pass (as with {2}). Anything that needs to know reads it from the description rather than sniffing for a Nitro instance.",
+  "text": "Die Beschreibung gibt außerdem an, in welchem Verhältnis der Server-Build zum App-Build steht. Ein Server-Builder setzt {0}, um festzulegen, ob sein Build ein eigener Durchlauf nach dem App-Build ist (wie bei {1}) oder ob der App-Builder alles erzeugt und es keinen separaten Durchlauf gibt (wie bei {2}). Wer das wissen muss, liest es aus der Beschreibung, statt nach einer Nitro-Instanz zu suchen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Beschreibung gibt außerdem an, in welchem Verhältnis der Server-Build zum App-Build steht. Ein Server-Builder setzt {0}, um festzulegen, ob sein Build ein eigener Durchlauf nach dem App-Build ist (wie bei {1}) oder ob der App-Builder alles erzeugt und es keinen separaten Durchlauf gibt (wie bei {2}). Wer das wissen muss, liest es aus der Beschreibung, statt nach einer Nitro-Instanz zu suchen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

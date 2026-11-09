@@ -1,0 +1,14 @@
+{
+  "hash": "772c729a5e7ef35f",
+  "source": "The boundary is the shell flush:",
+  "text": "Die Grenze ist das Ausliefern der Hülle:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Grenze ist das Ausliefern der Hülle:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

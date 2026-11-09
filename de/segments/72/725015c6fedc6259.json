@@ -1,0 +1,14 @@
+{
+  "hash": "725015c6fedc6259",
+  "source": "Direct Imports",
+  "text": "Direkte Importe",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Direkte Importe"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

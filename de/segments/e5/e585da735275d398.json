@@ -1,0 +1,14 @@
+{
+  "hash": "e585da735275d398",
+  "source": "Migrate {0} to {1}.",
+  "text": "Migriere {0} zu {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Migriere {0} zu {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

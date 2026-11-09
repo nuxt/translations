@@ -1,0 +1,14 @@
+{
+  "hash": "eb6d265051e59dce",
+  "source": "access runtime nuxt app instance",
+  "text": "Zugriff auf die Nuxt-App-Instanz zur Laufzeit",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Zugriff auf die Nuxt-App-Instanz zur Laufzeit"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

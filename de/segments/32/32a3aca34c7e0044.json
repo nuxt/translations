@@ -1,0 +1,14 @@
+{
+  "hash": "32a3aca34c7e0044",
+  "source": "Using an EJS template to generate a plugin",
+  "text": "Ein Plugin mit einer EJS-Vorlage generieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein Plugin mit einer EJS-Vorlage generieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

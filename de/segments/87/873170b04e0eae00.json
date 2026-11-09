@@ -1,0 +1,14 @@
+{
+  "hash": "873170b04e0eae00",
+  "source": "The issue came up when adding {0} as an option to {1}, and we removed the boolean values as they ended up being *opposites*.",
+  "text": "Das Problem trat auf, als {0} als Option zu {1} hinzugefügt wurde. Wir haben die booleschen Werte entfernt, da sie sich als *gegensätzlich* herausstellten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Problem trat auf, als {0} als Option zu {1} hinzugefügt wurde. Wir haben die booleschen Werte entfernt, da sie sich als *gegensätzlich* herausstellten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

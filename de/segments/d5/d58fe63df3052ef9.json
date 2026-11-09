@@ -1,0 +1,14 @@
+{
+  "hash": "d58fe63df3052ef9",
+  "source": "This is opt-in because it can break apps that rely on runtime routing:",
+  "text": "Die Option ist optional, da sie Apps beschädigen kann, die auf Routing zur Laufzeit angewiesen sind:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Option ist optional, da sie Apps beschädigen kann, die auf Routing zur Laufzeit angewiesen sind:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

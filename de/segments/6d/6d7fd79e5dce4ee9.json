@@ -1,0 +1,14 @@
+{
+  "hash": "6d7fd79e5dce4ee9",
+  "source": "You can add more helpers yourself inside the {0} directory. Only files directly in {1} are auto-imported; to auto-import a helper from a subdirectory, re-export it from a file at the top level.",
+  "text": "Du kannst im Verzeichnis {0} selbst weitere Hilfsfunktionen hinzufügen. Nur Dateien, die direkt in {1} liegen, werden automatisch importiert. Um eine Hilfsfunktion aus einem Unterverzeichnis automatisch zu importieren, exportiere sie in einer Datei auf oberster Ebene erneut.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst im Verzeichnis {0} selbst weitere Hilfsfunktionen hinzufügen. Nur Dateien, die direkt in {1} liegen, werden automatisch importiert. Um eine Hilfsfunktion aus einem Unterverzeichnis automatisch zu importieren, exportiere sie in einer Datei auf oberster Ebene erneut."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "83683cba958e25aa",
+  "source": "A few interactions to be aware of:",
+  "text": "Einige Wechselwirkungen, die du kennen solltest:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Einige Wechselwirkungen, die du kennen solltest:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

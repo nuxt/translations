@@ -1,0 +1,14 @@
+{
+  "hash": "dc657e4e50037d6e",
+  "source": "A family declared with {0} previously got no fallback metrics at all, which made the fonts most likely to cause layout shift the ones Nuxt Fonts did least about. Fallbacks are now generated wherever Nuxt Fonts can see the family being used, so {1} in your CSS becomes {2} with the matching metric-override rules alongside it, exactly as it would for a family that wasn't declared globally. Usage Nuxt Fonts can't scan (an SVG, or a family chosen at runtime) is unaffected and continues to rely on the global stylesheet alone.",
+  "text": "Eine mit {0} deklarierte Familie erhielt bisher überhaupt keine Fallback-Metriken, wodurch ausgerechnet die Schriften, die am ehesten Layoutverschiebungen verursachen, von Nuxt Fonts am wenigsten berücksichtigt wurden. Fallbacks werden jetzt überall erzeugt, wo Nuxt Fonts die Verwendung der Familie erkennen kann. Dadurch wird aus {1} in deinem CSS {2} mit den passenden Regeln zum Überschreiben der Metriken daneben, genau wie bei einer Familie, die nicht global deklariert wurde. Verwendung, die Nuxt Fonts nicht scannen kann (ein SVG oder eine zur Laufzeit gewählte Familie), ist nicht betroffen und verlässt sich weiterhin allein auf das globale Stylesheet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine mit {0} deklarierte Familie erhielt bisher überhaupt keine Fallback-Metriken, wodurch ausgerechnet die Schriften, die am ehesten Layoutverschiebungen verursachen, von Nuxt Fonts am wenigsten berücksichtigt wurden. Fallbacks werden jetzt überall erzeugt, wo Nuxt Fonts die Verwendung der Familie erkennen kann. Dadurch wird aus {1} in deinem CSS {2} mit den passenden Regeln zum Überschreiben der Metriken daneben, genau wie bei einer Familie, die nicht global deklariert wurde. Verwendung, die Nuxt Fonts nicht scannen kann (ein SVG oder eine zur Laufzeit gewählte Familie), ist nicht betroffen und verlässt sich weiterhin allein auf das globale Stylesheet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

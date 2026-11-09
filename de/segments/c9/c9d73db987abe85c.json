@@ -1,0 +1,14 @@
+{
+  "hash": "c9d73db987abe85c",
+  "source": "{0} is now its own class rather than a subclass of h3's {1}, so {2} no longer matches an error created with Nuxt's {3}. Everything else is unchanged: the error keeps the same properties, serialises the same way, and is still mapped to the right HTTP response during SSR.",
+  "text": "{0} ist jetzt eine eigene Klasse und keine Unterklasse von {1} aus h3 mehr. Deshalb stimmt {2} nicht mehr mit einem Fehler überein, der mit {3} von Nuxt erstellt wurde. Alles andere bleibt unverändert: Der Fehler behält dieselben Eigenschaften, wird auf dieselbe Weise serialisiert und bei SSR weiterhin der richtigen HTTP-Antwort zugeordnet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ist jetzt eine eigene Klasse und keine Unterklasse von {1} aus h3 mehr. Deshalb stimmt {2} nicht mehr mit einem Fehler überein, der mit {3} von Nuxt erstellt wurde. Alles andere bleibt unverändert: Der Fehler behält dieselben Eigenschaften, wird auf dieselbe Weise serialisiert und bei SSR weiterhin der richtigen HTTP-Antwort zugeordnet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

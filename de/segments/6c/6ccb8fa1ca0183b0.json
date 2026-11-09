@@ -1,0 +1,14 @@
+{
+  "hash": "6ccb8fa1ca0183b0",
+  "source": "Called when SSR rendering is done.",
+  "text": "Wird aufgerufen, wenn das SSR-Rendering abgeschlossen ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird aufgerufen, wenn das SSR-Rendering abgeschlossen ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

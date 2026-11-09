@@ -1,0 +1,14 @@
+{
+  "hash": "96d48859b1d99132",
+  "source": "The environment to use when resolving configuration overrides (default is {0} when building, and {1} when running the dev server)",
+  "text": "Die Umgebung, die beim Auflösen von Konfigurationsüberschreibungen verwendet wird (Standard ist {0} beim Erzeugen und {1} beim Ausführen des Entwicklungsservers)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Umgebung, die beim Auflösen von Konfigurationsüberschreibungen verwendet wird (Standard ist {0} beim Erzeugen und {1} beim Ausführen des Entwicklungsservers)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

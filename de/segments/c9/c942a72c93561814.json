@@ -1,0 +1,14 @@
+{
+  "hash": "c942a72c93561814",
+  "source": "If set to {0}, Nuxt will be ready to use after the {1} call. If set to {2}, you will need to call {3} to make sure Nuxt is ready to use.",
+  "text": "Wenn auf {0} gesetzt, ist Nuxt nach dem Aufruf von {1} einsatzbereit. Wenn auf {2} gesetzt, musst du {3} aufrufen, um sicherzustellen, dass Nuxt einsatzbereit ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn auf {0} gesetzt, ist Nuxt nach dem Aufruf von {1} einsatzbereit. Wenn auf {2} gesetzt, musst du {3} aufrufen, um sicherzustellen, dass Nuxt einsatzbereit ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

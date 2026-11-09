@@ -1,0 +1,14 @@
+{
+  "hash": "1b854c0fedbbc142",
+  "source": "This will register a layout named {0} that wraps pages with a header and footer.",
+  "text": "Dadurch wird ein Layout mit dem Namen {0} registriert, das Seiten mit einem Header und einem Footer umschließt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dadurch wird ein Layout mit dem Namen {0} registriert, das Seiten mit einem Header und einem Footer umschließt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

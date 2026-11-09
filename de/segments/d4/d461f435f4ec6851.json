@@ -1,0 +1,14 @@
+{
+  "hash": "d461f435f4ec6851",
+  "source": "The {0} directory is enabled by the {1}Nuxt Content{/1} module. It is used to create a file-based CMS for your application using Markdown files.",
+  "text": "Das Verzeichnis {0} wird durch das Modul {1}Nuxt Content{/1} aktiviert. Damit erstellst du mithilfe von Markdown-Dateien ein dateibasiertes CMS für deine Anwendung.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Verzeichnis {0} wird durch das Modul {1}Nuxt Content{/1} aktiviert. Damit erstellst du mithilfe von Markdown-Dateien ein dateibasiertes CMS für deine Anwendung."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

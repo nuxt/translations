@@ -1,0 +1,14 @@
+{
+  "hash": "1d64f23d1e9f035d",
+  "source": "Nested child routes under this route for layout or view nesting.",
+  "text": "Verschachtelte untergeordnete Routen dieser Route für die Verschachtelung von Layouts oder Ansichten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verschachtelte untergeordnete Routen dieser Route für die Verschachtelung von Layouts oder Ansichten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

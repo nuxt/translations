@@ -1,0 +1,14 @@
+{
+  "hash": "9d93a6261ded33f5",
+  "source": "In Nuxt 4, server code imports these from {0} or gets them as auto-imports, which ties it to h3 v1 and {1}. Importing from {2} instead works with whichever {3} is configured, so one file can serve Nuxt 4.6 (running either {4} v2 or Nitro v3) and Nuxt 5.",
+  "text": "In Nuxt 4 importiert Server-Code diese aus {0} oder erhält sie als automatische Importe. Dadurch ist er an h3 v1 und {1} gebunden. Der Import aus {2} funktioniert dagegen mit jedem konfigurierten {3}, sodass eine einzige Datei Nuxt 4.6 (mit {4} v2 oder Nitro v3) und Nuxt 5 bedienen kann.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In Nuxt 4 importiert Server-Code diese aus {0} oder erhält sie als automatische Importe. Dadurch ist er an h3 v1 und {1} gebunden. Der Import aus {2} funktioniert dagegen mit jedem konfigurierten {3}, sodass eine einzige Datei Nuxt 4.6 (mit {4} v2 oder Nitro v3) und Nuxt 5 bedienen kann."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

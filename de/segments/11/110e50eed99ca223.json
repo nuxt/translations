@@ -1,0 +1,14 @@
+{
+  "hash": "110e50eed99ca223",
+  "source": "To expose config and environment variables to the rest of your app, you will need to define configuration in {0} file.",
+  "text": "Um Konfiguration und Umgebungsvariablen für den Rest deiner App bereitzustellen, musst du die Konfiguration in der Datei {0} definieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um Konfiguration und Umgebungsvariablen für den Rest deiner App bereitzustellen, musst du die Konfiguration in der Datei {0} definieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

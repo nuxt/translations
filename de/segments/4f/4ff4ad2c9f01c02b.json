@@ -1,0 +1,14 @@
+{
+  "hash": "4ff4ad2c9f01c02b",
+  "source": "Files contained within the {0} directory are served at the root and are not modified by the build process. This is suitable for files that have to keep their names (e.g. {1}) *or* likely won't change (e.g. {2}).",
+  "text": "Dateien im Verzeichnis {0} werden im Stammverzeichnis bereitgestellt und vom Erstellungsprozess nicht verändert. Das eignet sich für Dateien, die ihren Namen behalten müssen (z. B. {1}), *oder* sich voraussichtlich nicht ändern (z. B. {2}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dateien im Verzeichnis {0} werden im Stammverzeichnis bereitgestellt und vom Erstellungsprozess nicht verändert. Das eignet sich für Dateien, die ihren Namen behalten müssen (z. B. {1}), *oder* sich voraussichtlich nicht ändern (z. B. {2})."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

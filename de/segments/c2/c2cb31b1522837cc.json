@@ -1,0 +1,14 @@
+{
+  "hash": "c2cb31b1522837cc",
+  "source": "{0} routes (already SPA-rendered)",
+  "text": "{0}-Routen (bereits als SPA gerendert)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}-Routen (bereits als SPA gerendert)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

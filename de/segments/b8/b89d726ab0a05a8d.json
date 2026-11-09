@@ -1,0 +1,14 @@
+{
+  "hash": "b89d726ab0a05a8d",
+  "source": "You may have been writing your app using ESM syntax for a long time. After all, it's natively supported by the browser, and in Nuxt 2 we compiled all the code you wrote to the appropriate format (CJS for server, ESM for browser).",
+  "text": "Möglicherweise schreibst du deine App schon lange mit ESM-Syntax. Schließlich wird sie vom Browser nativ unterstützt, und in Nuxt 2 haben wir den gesamten von dir geschriebenen Code in das jeweils passende Format kompiliert (CJS für den Server, ESM für den Browser).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Möglicherweise schreibst du deine App schon lange mit ESM-Syntax. Schließlich wird sie vom Browser nativ unterstützt, und in Nuxt 2 haben wir den gesamten von dir geschriebenen Code in das jeweils passende Format kompiliert (CJS für den Server, ESM für den Browser)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

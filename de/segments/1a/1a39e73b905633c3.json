@@ -1,0 +1,14 @@
+{
+  "hash": "1a39e73b905633c3",
+  "source": "Shorthand sugar to register Nuxt hooks",
+  "text": "Kurzschreibweise zum Registrieren von Nuxt-Hooks",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Kurzschreibweise zum Registrieren von Nuxt-Hooks"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

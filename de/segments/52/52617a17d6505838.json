@@ -1,0 +1,14 @@
+{
+  "hash": "52617a17d6505838",
+  "source": "is linked to from another page",
+  "text": "von einer anderen Seite aus verlinkt ist",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "von einer anderen Seite aus verlinkt ist"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

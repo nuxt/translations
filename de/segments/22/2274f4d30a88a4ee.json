@@ -1,0 +1,14 @@
+{
+  "hash": "2274f4d30a88a4ee",
+  "source": "You can then use this layout in your pages:",
+  "text": "Anschließend kannst du dieses Layout in deinen Seiten verwenden:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Anschließend kannst du dieses Layout in deinen Seiten verwenden:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

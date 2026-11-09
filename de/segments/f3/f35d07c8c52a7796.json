@@ -1,0 +1,14 @@
+{
+  "hash": "f35d07c8c52a7796",
+  "source": "Add the following configuration to your MCP settings:",
+  "text": "Füge die folgende Konfiguration zu deinen MCP-Einstellungen hinzu:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Füge die folgende Konfiguration zu deinen MCP-Einstellungen hinzu:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

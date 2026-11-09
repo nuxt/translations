@@ -1,0 +1,14 @@
+{
+  "hash": "a24584d87d66ebe8",
+  "source": "Tags are now sorted using Capo.js by default.",
+  "text": "Tags werden jetzt standardmäßig mit Capo.js sortiert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Tags werden jetzt standardmäßig mit Capo.js sortiert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

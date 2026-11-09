@@ -1,0 +1,14 @@
+{
+  "hash": "e4d1e61ef693b88f",
+  "source": "The {0} command should now be changed to the {1} command.",
+  "text": "Der Befehl {0} sollte jetzt durch den Befehl {1} ersetzt werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Befehl {0} sollte jetzt durch den Befehl {1} ersetzt werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

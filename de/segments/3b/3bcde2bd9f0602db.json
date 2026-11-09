@@ -1,0 +1,14 @@
+{
+  "hash": "3bcde2bd9f0602db",
+  "source": "**Parsed {0}**: {1} is forced on, so {2} reaches the error page unstringified",
+  "text": "**Geparstes {0}**: {1} ist erzwungen aktiviert, sodass {2} die Fehlerseite nicht in Textform erreicht",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Geparstes {0}**: {1} ist erzwungen aktiviert, sodass {2} die Fehlerseite nicht in Textform erreicht"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e53091930338542e",
+  "source": "The {0} command talks to the {1}Nitro tasks{/1} your project exposes, using the {2} server running for it. Pass {3} to target another server.",
+  "text": "Der Befehl {0} kommuniziert mit den {1}Nitro-Tasks{/1}, die dein Projekt bereitstellt, und nutzt dafür den dazugehörigen laufenden {2}-Server. Übergib {3}, um einen anderen Server anzusprechen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Befehl {0} kommuniziert mit den {1}Nitro-Tasks{/1}, die dein Projekt bereitstellt, und nutzt dafür den dazugehörigen laufenden {2}-Server. Übergib {3}, um einen anderen Server anzusprechen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

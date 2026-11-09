@@ -1,0 +1,14 @@
+{
+  "hash": "aa8b459f993961f5",
+  "source": "Extend TypeScript Config",
+  "text": "TypeScript-Konfiguration erweitern",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "TypeScript-Konfiguration erweitern"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

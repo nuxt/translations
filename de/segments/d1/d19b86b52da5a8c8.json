@@ -1,0 +1,14 @@
+{
+  "hash": "d19b86b52da5a8c8",
+  "source": "A composable for announcing messages to screen readers.",
+  "text": "Ein Composable, um Meldungen für Screenreader anzukündigen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein Composable, um Meldungen für Screenreader anzukündigen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

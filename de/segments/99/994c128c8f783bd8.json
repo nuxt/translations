@@ -1,0 +1,14 @@
+{
+  "hash": "994c128c8f783bd8",
+  "source": "Use your projects' {0} globs to choose the environment for a test file, rather than a {1} comment. The comment changes the environment without adding or removing the Nuxt Vite plugins configured by {2}.",
+  "text": "Verwende die {0}-Globs deiner Projekte, um die Umgebung einer Testdatei festzulegen, statt eines {1}-Kommentars. Der Kommentar ändert die Umgebung, ohne die von {2} konfigurierten Nuxt-Vite-Plugins hinzuzufügen oder zu entfernen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwende die {0}-Globs deiner Projekte, um die Umgebung einer Testdatei festzulegen, statt eines {1}-Kommentars. Der Kommentar ändert die Umgebung, ohne die von {2} konfigurierten Nuxt-Vite-Plugins hinzuzufügen oder zu entfernen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

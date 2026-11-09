@@ -1,0 +1,14 @@
+{
+  "hash": "4939f081d4130f56",
+  "source": "{0}: Whether or not to prefetch links by default.",
+  "text": "{0}: Legt fest, ob Links standardmäßig vorab geladen werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Legt fest, ob Links standardmäßig vorab geladen werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

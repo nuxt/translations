@@ -1,0 +1,14 @@
+{
+  "hash": "c253c55581160124",
+  "source": "An **app builder** bundles your application: the browser bundle and, when SSR is enabled, the SSR app entry. Nuxt ships three official app builders, {0}Vite{/0} (the default), {1}webpack{/1} and {2}Rspack{/2}. You select one with the {3} option, or supply your own. Throughout the rest of this guide, \"builder\" on its own means an app builder.",
+  "text": "Ein **App-Builder** bündelt deine Anwendung: das Browser-Bundle und, wenn SSR aktiviert ist, den SSR-App-Einstiegspunkt. Nuxt liefert drei offizielle App-Builder mit: {0}Vite{/0} (der Standard), {1}webpack{/1} und {2}Rspack{/2}. Du wählst einen davon mit der Option {3} aus oder stellst einen eigenen bereit. Im weiteren Verlauf dieser Anleitung bezeichnet „Builder“ ohne Zusatz immer einen App-Builder.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein **App-Builder** bündelt deine Anwendung: das Browser-Bundle und, wenn SSR aktiviert ist, den SSR-App-Einstiegspunkt. Nuxt liefert drei offizielle App-Builder mit: {0}Vite{/0} (der Standard), {1}webpack{/1} und {2}Rspack{/2}. Du wählst einen davon mit der Option {3} aus oder stellst einen eigenen bereit. Im weiteren Verlauf dieser Anleitung bezeichnet „Builder“ ohne Zusatz immer einen App-Builder."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

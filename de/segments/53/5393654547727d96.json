@@ -1,0 +1,14 @@
+{
+  "hash": "5393654547727d96",
+  "source": "{0} - a number in milliseconds to wait before timing out the request (defaults to {1}, which means no timeout)",
+  "text": "{0} – eine Zahl in Millisekunden, nach der die Anfrage als abgelaufen gilt (Standardwert: {1}, d. h. kein Timeout)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} – eine Zahl in Millisekunden, nach der die Anfrage als abgelaufen gilt (Standardwert: {1}, d. h. kein Timeout)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

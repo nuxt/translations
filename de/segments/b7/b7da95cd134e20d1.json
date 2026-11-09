@@ -1,0 +1,14 @@
+{
+  "hash": "b7da95cd134e20d1",
+  "source": "Enable enhanced TypeScript developer experience with the {0} module.",
+  "text": "Aktiviere mit dem Modul {0} eine verbesserte TypeScript-Developer-Experience.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Aktiviere mit dem Modul {0} eine verbesserte TypeScript-Developer-Experience."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

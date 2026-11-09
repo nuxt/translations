@@ -1,0 +1,14 @@
+{
+  "hash": "3faa02ca1df67a4b",
+  "source": "**{0}**: Lists all deployment providers and hosting platforms for Nuxt applications",
+  "text": "**{0}**: Listet alle Hosting-Anbieter und Hosting-Plattformen für Nuxt-Anwendungen auf",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}**: Listet alle Hosting-Anbieter und Hosting-Plattformen für Nuxt-Anwendungen auf"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

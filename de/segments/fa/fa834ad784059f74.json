@@ -1,0 +1,14 @@
+{
+  "hash": "fa834ad784059f74",
+  "source": "**Solution**: Establish rules and patterns in the project such as {0}Good practices and Design Patterns for Vue Composables{/0}",
+  "text": "**Lösung**: Lege im Projekt Regeln und Muster fest, etwa {0}Good practices and Design Patterns for Vue Composables{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Lösung**: Lege im Projekt Regeln und Muster fest, etwa {0}Good practices and Design Patterns for Vue Composables{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

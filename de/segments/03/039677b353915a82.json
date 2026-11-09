@@ -1,0 +1,14 @@
+{
+  "hash": "039677b353915a82",
+  "source": "You can use Nuxt Fonts with pure CSS by adding {0} declarations to your CSS:",
+  "text": "Du kannst Nuxt Fonts mit reinem CSS verwenden, indem du deinem CSS {0}-Deklarationen hinzufügst:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst Nuxt Fonts mit reinem CSS verwenden, indem du deinem CSS {0}-Deklarationen hinzufügst:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

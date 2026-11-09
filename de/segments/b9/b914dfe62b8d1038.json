@@ -1,0 +1,14 @@
+{
+  "hash": "b914dfe62b8d1038",
+  "source": "prerenderRoutes hints that an additional route should be prerendered.",
+  "text": "prerenderRoutes gibt den Hinweis, dass eine zusätzliche Route vorab gerendert werden soll.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "prerenderRoutes gibt den Hinweis, dass eine zusätzliche Route vorab gerendert werden soll."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

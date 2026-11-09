@@ -1,0 +1,14 @@
+{
+  "hash": "d550b675636fd520",
+  "source": "Restart with a cleared cache",
+  "text": "Mit geleertem Cache neu starten",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit geleertem Cache neu starten"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

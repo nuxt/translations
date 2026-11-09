@@ -1,0 +1,14 @@
+{
+  "hash": "51049fa377582d86",
+  "source": "You can use {0} to add a server handler from your module.",
+  "text": "Mit {0} kannst du aus deinem Modul einen Server-Handler hinzufügen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit {0} kannst du aus deinem Modul einen Server-Handler hinzufügen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

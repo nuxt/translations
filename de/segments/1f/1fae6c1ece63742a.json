@@ -1,0 +1,14 @@
+{
+  "hash": "1fae6c1ece63742a",
+  "source": "Call {0} in the setup function of a Vue component (e.g., in {1}) or in a plugin. It only has an effect when called on the server and will not be included in your client build.",
+  "text": "Rufe {0} in der Setup-Funktion einer Vue-Komponente (z. B. in {1}) oder in einem plugin auf. Der Aufruf hat nur dann eine Wirkung, wenn er auf dem Server erfolgt, und wird nicht in deinen Client-Build aufgenommen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Rufe {0} in der Setup-Funktion einer Vue-Komponente (z. B. in {1}) oder in einem plugin auf. Der Aufruf hat nur dann eine Wirkung, wenn er auf dem Server erfolgt, und wird nicht in deinen Client-Build aufgenommen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

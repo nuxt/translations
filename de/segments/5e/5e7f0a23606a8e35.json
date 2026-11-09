@@ -1,0 +1,14 @@
+{
+  "hash": "5e7f0a23606a8e35",
+  "source": "Nitro server preset",
+  "text": "Nitro-Server-Preset",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nitro-Server-Preset"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

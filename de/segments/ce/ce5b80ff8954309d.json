@@ -1,0 +1,14 @@
+{
+  "hash": "ce5b80ff8954309d",
+  "source": "Font metadata and downloaded font files are now cached in {0} relative to your project root rather than to the directory you run Nuxt from. The first build after upgrading will re-resolve and re-download fonts, and you can now configure the location with the new {1} option.",
+  "text": "Schriftmetadaten und heruntergeladene Schriftdateien werden jetzt in {0} relativ zu deinem Projektstammverzeichnis zwischengespeichert statt relativ zu dem Verzeichnis, aus dem du Nuxt startest. Der erste Build nach dem Upgrade löst Schriften erneut auf und lädt sie erneut herunter. Den Speicherort kannst du jetzt mit der neuen Option {1} konfigurieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Schriftmetadaten und heruntergeladene Schriftdateien werden jetzt in {0} relativ zu deinem Projektstammverzeichnis zwischengespeichert statt relativ zu dem Verzeichnis, aus dem du Nuxt startest. Der erste Build nach dem Upgrade löst Schriften erneut auf und lädt sie erneut herunter. Den Speicherort kannst du jetzt mit der neuen Option {1} konfigurieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

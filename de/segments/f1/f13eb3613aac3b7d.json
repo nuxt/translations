@@ -1,0 +1,14 @@
+{
+  "hash": "f13eb3613aac3b7d",
+  "source": "Read more about Nitro's {0} configuration.",
+  "text": "Mehr zur Nitro-Konfiguration {0} erfährst du hier.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mehr zur Nitro-Konfiguration {0} erfährst du hier."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

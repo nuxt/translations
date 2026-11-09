@@ -1,0 +1,14 @@
+{
+  "hash": "09e9ad4d320b5e85",
+  "source": "Scan top-level composables",
+  "text": "Composables auf oberster Ebene scannen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Composables auf oberster Ebene scannen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

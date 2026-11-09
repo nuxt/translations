@@ -1,0 +1,14 @@
+{
+  "hash": "5f0d457880ccc5d6",
+  "source": "Disable Nuxt 3 compatible {0} interface",
+  "text": "Nuxt-3-kompatible {0}-Schnittstelle deaktivieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt-3-kompatible {0}-Schnittstelle deaktivieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "54b7c75060eb9a75",
+  "source": "JavaScript Hooks",
+  "text": "JavaScript-Hooks",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "JavaScript-Hooks"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

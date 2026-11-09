@@ -1,0 +1,14 @@
+{
+  "hash": "d9b89d271ba34758",
+  "source": "{0} and other {1} composables do not track the current page route inside a server (island) component. The island is rendered in its own isolated Vue app keyed only on its props (and any explicit context), which is what keeps islands cacheable independently of the page they are rendered on. Inside an island, {2} will reflect the island's own request, not the page the user is on.",
+  "text": "{0} und andere {1}-Composables verfolgen innerhalb einer Serverkomponente (Island) nicht die aktuelle Seitenroute. Das Island wird in einer eigenen, isolierten Vue-App gerendert, die nur anhand ihrer Props (und eines eventuell expliziten Kontexts) identifiziert wird. Dadurch lassen sich Islands unabhängig von der Seite cachen, auf der sie gerendert werden. Innerhalb eines Islands spiegelt {2} die eigene Anfrage des Islands wider, nicht die Seite, auf der sich die Nutzenden befinden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} und andere {1}-Composables verfolgen innerhalb einer Serverkomponente (Island) nicht die aktuelle Seitenroute. Das Island wird in einer eigenen, isolierten Vue-App gerendert, die nur anhand ihrer Props (und eines eventuell expliziten Kontexts) identifiziert wird. Dadurch lassen sich Islands unabhängig von der Seite cachen, auf der sie gerendert werden. Innerhalb eines Islands spiegelt {2} die eigene Anfrage des Islands wider, nicht die Seite, auf der sich die Nutzenden befinden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

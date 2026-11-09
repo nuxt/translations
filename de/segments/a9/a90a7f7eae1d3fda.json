@@ -1,0 +1,14 @@
+{
+  "hash": "a90a7f7eae1d3fda",
+  "source": "Custom plugins in the {0} directory, such as those without a suffix (e.g., {1}) and with the {2} suffix (e.g., {3}), are executed on the client side.",
+  "text": "Eigene Plugins im Verzeichnis {0}, etwa solche ohne Suffix (z. B. {1}) und mit dem Suffix {2} (z. B. {3}), werden auf dem Client ausgeführt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eigene Plugins im Verzeichnis {0}, etwa solche ohne Suffix (z. B. {1}) und mit dem Suffix {2} (z. B. {3}), werden auf dem Client ausgeführt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

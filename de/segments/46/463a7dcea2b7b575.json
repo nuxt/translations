@@ -1,0 +1,14 @@
+{
+  "hash": "463a7dcea2b7b575",
+  "source": "Most applications need multiple pages and a way to navigate between them. This is called **routing**. Nuxt uses an {0} directory and naming conventions to directly create routes mapped to your files using the official {1}Vue Router library{/1}.",
+  "text": "Die meisten Anwendungen benötigen mehrere Seiten und eine Möglichkeit, zwischen ihnen zu navigieren. Das nennt man **Routing**. Nuxt verwendet ein Verzeichnis {0} und Namenskonventionen, um mit der offiziellen {1}Vue-Router-Bibliothek{/1} direkt Routen zu erstellen, die deinen Dateien zugeordnet sind.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die meisten Anwendungen benötigen mehrere Seiten und eine Möglichkeit, zwischen ihnen zu navigieren. Das nennt man **Routing**. Nuxt verwendet ein Verzeichnis {0} und Namenskonventionen, um mit der offiziellen {1}Vue-Router-Bibliothek{/1} direkt Routen zu erstellen, die deinen Dateien zugeordnet sind."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

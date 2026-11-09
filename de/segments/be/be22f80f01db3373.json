@@ -1,0 +1,14 @@
+{
+  "hash": "be22f80f01db3373",
+  "source": "Named route middleware, which are placed in the {0} directory and will be automatically loaded via asynchronous import when used on a page. (**Note**: The route middleware name is normalized to kebab-case, so {1} becomes {2}.)",
+  "text": "Benannte Routen-Middleware, die im Verzeichnis {0} abgelegt wird und bei Verwendung auf einer Seite automatisch per asynchronem Import geladen wird. (**Hinweis**: Der Name der Routen-Middleware wird in Kebab-Case normalisiert, sodass aus {1} {2} wird.)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Benannte Routen-Middleware, die im Verzeichnis {0} abgelegt wird und bei Verwendung auf einer Seite automatisch per asynchronem Import geladen wird. (**Hinweis**: Der Name der Routen-Middleware wird in Kebab-Case normalisiert, sodass aus {1} {2} wird.)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "3b88b8f48ad1b8d6",
+  "source": "❌ Won't work - re-exported through a barrel file",
+  "text": "❌ Funktioniert nicht – über eine Barrel-Datei re-exportiert",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "❌ Funktioniert nicht – über eine Barrel-Datei re-exportiert"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

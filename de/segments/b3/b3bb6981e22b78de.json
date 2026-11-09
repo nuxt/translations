@@ -1,0 +1,14 @@
+{
+  "hash": "b3bb6981e22b78de",
+  "source": "The {0} object returned from {1}, {2}, {3} and {4} is now a {5} rather than a {6}.",
+  "text": "Das von {1}, {2}, {3} und {4} zurückgegebene {0}-Objekt ist jetzt ein {5} statt eines {6}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das von {1}, {2}, {3} und {4} zurückgegebene {0}-Objekt ist jetzt ein {5} statt eines {6}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

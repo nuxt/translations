@@ -1,0 +1,14 @@
+{
+  "hash": "0e14f36913133d86",
+  "source": "It is also possible to define a plugin using an object syntax, for more advanced use cases. For example:",
+  "text": "Für fortgeschrittene Anwendungsfälle kannst du ein Plugin auch mit einer Objektsyntax definieren. Zum Beispiel:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Für fortgeschrittene Anwendungsfälle kannst du ein Plugin auch mit einer Objektsyntax definieren. Zum Beispiel:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "f5256e851b38baa6",
+  "source": "Programmatic usage can be helpful when you want to use Nuxt programmatically, for example, when building a {0}CLI tool{/0} or {1}test utils{/1}.",
+  "text": "Die programmatische Verwendung ist hilfreich, wenn du Nuxt programmatisch einsetzen möchtest, z. B. beim Entwickeln eines {0}Kommandozeilenwerkzeugs{/0} oder von {1}Test-Hilfsfunktionen{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die programmatische Verwendung ist hilfreich, wenn du Nuxt programmatisch einsetzen möchtest, z. B. beim Entwickeln eines {0}Kommandozeilenwerkzeugs{/0} oder von {1}Test-Hilfsfunktionen{/1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

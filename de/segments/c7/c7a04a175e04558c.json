@@ -1,0 +1,14 @@
+{
+  "hash": "c7a04a175e04558c",
+  "source": "To return other error codes, throw an exception with {0}:",
+  "text": "Um andere Fehlercodes zurückzugeben, löse eine Ausnahme mit {0} aus:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um andere Fehlercodes zurückzugeben, löse eine Ausnahme mit {0} aus:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

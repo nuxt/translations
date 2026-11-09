@@ -1,0 +1,14 @@
+{
+  "hash": "8e27f3a1a9e86ce8",
+  "source": "Rspack Builder Is Replaced by the Rsbuild Builder",
+  "text": "Der Rspack-Builder wird durch den Rsbuild-Builder ersetzt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Rspack-Builder wird durch den Rsbuild-Builder ersetzt"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

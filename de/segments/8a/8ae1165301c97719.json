@@ -1,0 +1,14 @@
+{
+  "hash": "8ae1165301c97719",
+  "source": "**Solution**: Disable detection with the {0} meta tag in your {1}:",
+  "text": "**Lösung**: Deaktiviere die Erkennung mit dem Meta-Tag {0} in deiner {1}:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Lösung**: Deaktiviere die Erkennung mit dem Meta-Tag {0} in deiner {1}:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

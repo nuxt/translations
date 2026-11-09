@@ -1,0 +1,14 @@
+{
+  "hash": "728cf6233f4e3693",
+  "source": "Nuxt and Nuxt modules are now build-time-only.",
+  "text": "Nuxt und Nuxt-Module werden jetzt nur noch zur Build-Zeit ausgeführt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt und Nuxt-Module werden jetzt nur noch zur Build-Zeit ausgeführt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "82a6ecabba92c884",
+  "source": "Accessing Route Groups",
+  "text": "Auf Routengruppen zugreifen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auf Routengruppen zugreifen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

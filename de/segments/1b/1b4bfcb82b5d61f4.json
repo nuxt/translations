@@ -1,0 +1,14 @@
+{
+  "hash": "1b4bfcb82b5d61f4",
+  "source": "Components inside {0} are rendered only after being mounted. To access the rendered elements in the DOM, you can watch a template ref:",
+  "text": "Komponenten innerhalb von {0} werden erst nach dem Einbinden gerendert. Um auf die gerenderten Elemente im DOM zuzugreifen, kannst du eine Template-Ref beobachten:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Komponenten innerhalb von {0} werden erst nach dem Einbinden gerendert. Um auf die gerenderten Elemente im DOM zuzugreifen, kannst du eine Template-Ref beobachten:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

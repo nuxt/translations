@@ -1,0 +1,14 @@
+{
+  "hash": "3fb6623afcb80fcc",
+  "source": "Serializing Data From API Routes",
+  "text": "Daten aus API-Routen serialisieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Daten aus API-Routen serialisieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

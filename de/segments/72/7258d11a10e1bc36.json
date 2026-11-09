@@ -1,0 +1,14 @@
+{
+  "hash": "7258d11a10e1bc36",
+  "source": "Full control of the server-side part of your app",
+  "text": "Volle Kontrolle über den serverseitigen Teil deiner Anwendung",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Volle Kontrolle über den serverseitigen Teil deiner Anwendung"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

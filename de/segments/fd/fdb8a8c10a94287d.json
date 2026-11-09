@@ -1,0 +1,14 @@
+{
+  "hash": "fdb8a8c10a94287d",
+  "source": "You can read more about how to use this composable in {0}the Nuxt 3 docs{/0}.",
+  "text": "Mehr dazu, wie du dieses Composable verwendest, findest du in {0}der Nuxt-3-Dokumentation{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mehr dazu, wie du dieses Composable verwendest, findest du in {0}der Nuxt-3-Dokumentation{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "dc9ddb0cd8491ff6",
+  "source": "Nuxt srcDir ({0} by default)",
+  "text": "srcDir von Nuxt (standardmäßig {0})",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "srcDir von Nuxt (standardmäßig {0})"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b7c75463ce1eaf45",
+  "source": "Note that the API is entirely different, despite similar sounding names. Importantly, you should not attempt to change the value of other variables outside the composable (as you may have been doing with the previous {0}).",
+  "text": "Beachte, dass die API trotz ähnlich klingender Namen völlig anders ist. Wichtig: Du solltest nicht versuchen, den Wert anderer Variablen außerhalb des Composables zu ändern (wie du es vielleicht mit dem bisherigen {0} getan hast).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Beachte, dass die API trotz ähnlich klingender Namen völlig anders ist. Wichtig: Du solltest nicht versuchen, den Wert anderer Variablen außerhalb des Composables zu ändern (wie du es vielleicht mit dem bisherigen {0} getan hast)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

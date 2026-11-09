@@ -1,0 +1,14 @@
+{
+  "hash": "f2163f3a4882b21d",
+  "source": "Tasks are also not supported by {0}.",
+  "text": "Tasks werden von {0} ebenfalls nicht unterstützt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Tasks werden von {0} ebenfalls nicht unterstützt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

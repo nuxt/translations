@@ -1,0 +1,14 @@
+{
+  "hash": "37cdf25289764d69",
+  "source": "If {0}, Enable {1}",
+  "text": "Wenn {0}, {1} aktivieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn {0}, {1} aktivieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

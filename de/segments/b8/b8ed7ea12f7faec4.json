@@ -1,0 +1,14 @@
+{
+  "hash": "b8ed7ea12f7faec4",
+  "source": "Adding Type Templates to the Nitro Context",
+  "text": "Typvorlagen zum Nitro-Kontext hinzufügen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Typvorlagen zum Nitro-Kontext hinzufügen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

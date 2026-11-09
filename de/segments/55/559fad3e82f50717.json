@@ -1,0 +1,14 @@
+{
+  "hash": "559fad3e82f50717",
+  "source": "You can also pair a {0} component with a {1} component of the same name for {2}separate server and client implementations{/2}. In that case the component is not an island: the client half hydrates normally.",
+  "text": "Du kannst eine {0}-Komponente auch mit einer gleichnamigen {1}-Komponente für {2}getrennte Server- und Client-Implementierungen{/2} kombinieren. In diesem Fall ist die Komponente kein Island: Die Client-Hälfte wird normal hydratisiert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst eine {0}-Komponente auch mit einer gleichnamigen {1}-Komponente für {2}getrennte Server- und Client-Implementierungen{/2} kombinieren. In diesem Fall ist die Komponente kein Island: Die Client-Hälfte wird normal hydratisiert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

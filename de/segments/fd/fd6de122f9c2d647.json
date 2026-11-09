@@ -1,0 +1,14 @@
+{
+  "hash": "fd6de122f9c2d647",
+  "source": "You need to add the {0} component to your app for the announcements to be rendered in the DOM.",
+  "text": "Du musst die Komponente {0} zu deiner App hinzufügen, damit die Ankündigungen im DOM gerendert werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du musst die Komponente {0} zu deiner App hinzufügen, damit die Ankündigungen im DOM gerendert werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

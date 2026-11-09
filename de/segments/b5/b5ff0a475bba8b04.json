@@ -1,0 +1,14 @@
+{
+  "hash": "b5ff0a475bba8b04",
+  "source": "Previously, Vue assigned component names based on the filename. This meant multiple pages like {0} and {1} would both have the component name {2}. This made {3} with {4}/{5} filters unreliable and required manually adding {6} to each page.",
+  "text": "Bisher hat Vue Komponentennamen anhand des Dateinamens vergeben. Dadurch hätten mehrere Seiten wie {0} und {1} beide den Komponentennamen {2} gehabt. Das machte {3} mit den Filtern {4}/{5} unzuverlässig und erforderte, {6} manuell zu jeder Seite hinzuzufügen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bisher hat Vue Komponentennamen anhand des Dateinamens vergeben. Dadurch hätten mehrere Seiten wie {0} und {1} beide den Komponentennamen {2} gehabt. Das machte {3} mit den Filtern {4}/{5} unzuverlässig und erforderte, {6} manuell zu jeder Seite hinzuzufügen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

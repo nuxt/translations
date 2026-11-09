@@ -1,0 +1,14 @@
+{
+  "hash": "7522c3b67193809d",
+  "source": "This guide explains how builders fit into the Nuxt build, what contract a builder must fulfil, and how to author one.",
+  "text": "Diese Anleitung erklärt, wie Builder in den Nuxt-Build eingebunden sind, welchen Vertrag ein Builder erfüllen muss und wie du einen entwickelst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese Anleitung erklärt, wie Builder in den Nuxt-Build eingebunden sind, welchen Vertrag ein Builder erfüllen muss und wie du einen entwickelst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

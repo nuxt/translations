@@ -1,0 +1,14 @@
+{
+  "hash": "a0c332e22a1d6a46",
+  "source": "**Layers in {0}** config - first entry has higher priority than second",
+  "text": "**Layers in der Konfiguration {0}** – der erste Eintrag hat höhere Priorität als der zweite",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Layers in der Konfiguration {0}** – der erste Eintrag hat höhere Priorität als der zweite"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

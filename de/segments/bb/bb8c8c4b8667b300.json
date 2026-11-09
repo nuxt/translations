@@ -1,0 +1,14 @@
+{
+  "hash": "bb8c8c4b8667b300",
+  "source": "Defines the font-weights that should be downloaded for a font.",
+  "text": "Legt die Schriftstärken fest, die für eine Schrift heruntergeladen werden sollen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Legt die Schriftstärken fest, die für eine Schrift heruntergeladen werden sollen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "6e1f74c71f0f48c2",
+  "source": "Remove literal double quotes that were only there to keep a value a string, such as {0}. With a string default, the quotes are now part of the value.",
+  "text": "Entferne wörtliche doppelte Anführungszeichen, die nur dazu dienten, einen Wert als String zu erhalten, etwa {0}. Bei einem String als Standardwert sind die Anführungszeichen jetzt Teil des Werts.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Entferne wörtliche doppelte Anführungszeichen, die nur dazu dienten, einen Wert als String zu erhalten, etwa {0}. Bei einem String als Standardwert sind die Anführungszeichen jetzt Teil des Werts."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e5cb059dbf857c95",
+  "source": "Where a provider can subset server-side, such as Google Fonts, the characters are passed through to it so the full file is never downloaded. Every other font file is subsetted after download, which needs the {0} package. We will offer to install it the first time you run Nuxt with {1} set, or you can add it yourself:",
+  "text": "Wenn ein Provider serverseitig Subsets erzeugen kann, wie etwa Google Fonts, werden die Zeichen an ihn weitergereicht, sodass die vollständige Datei nie heruntergeladen wird. Jede andere Schriftdatei wird nach dem Download auf ein Subset reduziert, wofür das Paket {0} benötigt wird. Wir bieten an, es zu installieren, wenn du Nuxt zum ersten Mal mit gesetztem {1} ausführst, oder du kannst es selbst hinzufügen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn ein Provider serverseitig Subsets erzeugen kann, wie etwa Google Fonts, werden die Zeichen an ihn weitergereicht, sodass die vollständige Datei nie heruntergeladen wird. Jede andere Schriftdatei wird nach dem Download auf ein Subset reduziert, wofür das Paket {0} benötigt wird. Wir bieten an, es zu installieren, wenn du Nuxt zum ersten Mal mit gesetztem {1} ausführst, oder du kannst es selbst hinzufügen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

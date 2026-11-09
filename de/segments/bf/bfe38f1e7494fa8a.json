@@ -1,0 +1,14 @@
+{
+  "hash": "bfe38f1e7494fa8a",
+  "source": "The Nuxt Interface",
+  "text": "Die Nuxt-Schnittstelle",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Nuxt-Schnittstelle"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

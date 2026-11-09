@@ -1,0 +1,14 @@
+{
+  "hash": "e8e65bc0ff68ef9b",
+  "source": "Called with an array of server-side logs that have been passed to the client (if {0} is enabled).",
+  "text": "Wird mit einem Array von serverseitigen Protokollen aufgerufen, die an den Client übergeben wurden (wenn {0} aktiviert ist).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird mit einem Array von serverseitigen Protokollen aufgerufen, die an den Client übergeben wurden (wenn {0} aktiviert ist)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

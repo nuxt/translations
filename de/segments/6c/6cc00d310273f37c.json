@@ -1,0 +1,14 @@
+{
+  "hash": "6cc00d310273f37c",
+  "source": "Where it runs",
+  "text": "Wo sie läuft",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wo sie läuft"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

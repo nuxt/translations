@@ -1,0 +1,14 @@
+{
+  "hash": "98c5a706ccb798cd",
+  "source": "Rsbuild plugin",
+  "text": "Rsbuild-Plugin",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Rsbuild-Plugin"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

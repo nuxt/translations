@@ -1,0 +1,14 @@
+{
+  "hash": "fad69234891af81d",
+  "source": "**Self-hosted in production**: fonts are downloaded at build time and served from your own origin with long-lived cache headers.",
+  "text": "**Selbst gehostet in Produktion**: Schriftarten werden zur Build-Zeit heruntergeladen und mit langlebigen Cache-Headern von deinem eigenen Ursprung ausgeliefert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Selbst gehostet in Produktion**: Schriftarten werden zur Build-Zeit heruntergeladen und mit langlebigen Cache-Headern von deinem eigenen Ursprung ausgeliefert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "bf44558a32e5af89",
+  "source": "If set to {0}, the plugin will be included in both client and server bundles. If set to {1}, the plugin will only be included in the server bundle. If set to {2}, the plugin will only be included in the client bundle. You can also use {3} and {4} modifiers when specifying {5} option to use plugin only in client or server side.",
+  "text": "Bei {0} wird das Plugin sowohl in die Client- als auch in die Server-Bundles aufgenommen. Bei {1} wird das Plugin nur in das Server-Bundle aufgenommen. Bei {2} wird das Plugin nur in das Client-Bundle aufgenommen. Du kannst außerdem die Modifikatoren {3} und {4} in der Option {5} angeben, um das Plugin nur clientseitig oder nur serverseitig zu verwenden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bei {0} wird das Plugin sowohl in die Client- als auch in die Server-Bundles aufgenommen. Bei {1} wird das Plugin nur in das Server-Bundle aufgenommen. Bei {2} wird das Plugin nur in das Client-Bundle aufgenommen. Du kannst außerdem die Modifikatoren {3} und {4} in der Option {5} angeben, um das Plugin nur clientseitig oder nur serverseitig zu verwenden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

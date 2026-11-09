@@ -1,0 +1,14 @@
+{
+  "hash": "dcb137496867570f",
+  "source": "{0}: Remove an existing route by its name.",
+  "text": "{0}: Entfernt eine bestehende Route anhand ihres Namens.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Entfernt eine bestehende Route anhand ihres Namens."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

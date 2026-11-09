@@ -1,0 +1,14 @@
+{
+  "hash": "15bd6e5e74561454",
+  "source": "Set the {0} prop of {1}.",
+  "text": "Setze die Prop {0} von {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Setze die Prop {0} von {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

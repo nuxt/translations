@@ -1,0 +1,14 @@
+{
+  "hash": "346b3924ba3958d0",
+  "source": "Find the individual post from the cache and set it as the default value.",
+  "text": "Den einzelnen Beitrag im Cache suchen und als Standardwert festlegen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Den einzelnen Beitrag im Cache suchen und als Standardwert festlegen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "0b00ea8df7e491b7",
+  "source": "Taking over a running preview",
+  "text": "Eine laufende Vorschau übernehmen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine laufende Vorschau übernehmen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "43ea1f25e55cdf42",
+  "source": "Ref and Reactive",
+  "text": "Ref und Reactive",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ref und Reactive"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

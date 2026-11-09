@@ -1,0 +1,14 @@
+{
+  "hash": "458645c8a00e4065",
+  "source": "Use the shared/ directory to share functionality between the Vue app and the Nitro server.",
+  "text": "Verwende das Verzeichnis shared/, um Funktionalität zwischen der Vue-App und dem Nitro-Server zu teilen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwende das Verzeichnis shared/, um Funktionalität zwischen der Vue-App und dem Nitro-Server zu teilen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

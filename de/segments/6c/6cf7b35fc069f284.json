@@ -1,0 +1,14 @@
+{
+  "hash": "6cf7b35fc069f284",
+  "source": "Show all shortcuts",
+  "text": "Alle Tastenkürzel anzeigen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Alle Tastenkürzel anzeigen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

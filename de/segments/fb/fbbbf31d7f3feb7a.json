@@ -1,0 +1,14 @@
+{
+  "hash": "fbbbf31d7f3feb7a",
+  "source": "CommonJS (CJS) is a format introduced by Node.js that allows sharing functionality between isolated JavaScript modules ({0}read more{/0}). You might be already familiar with this syntax:",
+  "text": "CommonJS (CJS) ist ein von Node.js eingeführtes Format, mit dem sich Funktionalität zwischen voneinander isolierten JavaScript-Modulen teilen lässt ({0}mehr dazu{/0}). Diese Syntax kennst du vielleicht schon:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "CommonJS (CJS) ist ein von Node.js eingeführtes Format, mit dem sich Funktionalität zwischen voneinander isolierten JavaScript-Modulen teilen lässt ({0}mehr dazu{/0}). Diese Syntax kennst du vielleicht schon:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

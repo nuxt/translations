@@ -1,0 +1,14 @@
+{
+  "hash": "79fd2caab1f897e8",
+  "source": "If set to {0}, the callback function will be called when building in development mode.",
+  "text": "Wenn der Wert auf {0} gesetzt ist, wird die Callback-Funktion beim Erzeugen im Entwicklungsmodus aufgerufen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn der Wert auf {0} gesetzt ist, wird die Callback-Funktion beim Erzeugen im Entwicklungsmodus aufgerufen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

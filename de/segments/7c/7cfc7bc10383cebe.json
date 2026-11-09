@@ -1,0 +1,14 @@
+{
+  "hash": "7cfc7bc10383cebe",
+  "source": "Hydrates upon user interaction (e.g., click, hover).",
+  "text": "Hydratisiert bei einer Interaktion der Nutzenden (z. B. Klick, Hover).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Hydratisiert bei einer Interaktion der Nutzenden (z. B. Klick, Hover)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

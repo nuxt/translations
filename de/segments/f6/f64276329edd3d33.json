@@ -1,0 +1,14 @@
+{
+  "hash": "f64276329edd3d33",
+  "source": "Server-only pages must have a single root element. (HTML comments are considered elements as well.)",
+  "text": "Seiten nur für den Server müssen genau ein Wurzelelement haben. (HTML-Kommentare gelten ebenfalls als Elemente.)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Seiten nur für den Server müssen genau ein Wurzelelement haben. (HTML-Kommentare gelten ebenfalls als Elemente.)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

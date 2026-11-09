@@ -1,0 +1,14 @@
+{
+  "hash": "6fa3cbf451b2a1d5",
+  "source": "Sessions",
+  "text": "Sitzungen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sitzungen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

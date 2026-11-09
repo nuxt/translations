@@ -1,0 +1,14 @@
+{
+  "hash": "8744782394310aba",
+  "source": "Scoped Styles",
+  "text": "Bereichsbezogene Styles",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bereichsbezogene Styles"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

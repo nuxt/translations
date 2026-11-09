@@ -1,0 +1,14 @@
+{
+  "hash": "60e1e14d19597203",
+  "source": "Browse served requests",
+  "text": "Bearbeitete Anfragen durchsuchen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bearbeitete Anfragen durchsuchen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

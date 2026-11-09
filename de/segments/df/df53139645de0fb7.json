@@ -1,0 +1,14 @@
+{
+  "hash": "df53139645de0fb7",
+  "source": "Inside the runtime directory, you can provide any kind of assets related to the Nuxt app:",
+  "text": "Im Runtime-Verzeichnis kannst du beliebige Assets bereitstellen, die zur Nuxt-Anwendung gehören:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Im Runtime-Verzeichnis kannst du beliebige Assets bereitstellen, die zur Nuxt-Anwendung gehören:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

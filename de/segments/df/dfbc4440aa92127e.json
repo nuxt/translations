@@ -1,0 +1,14 @@
+{
+  "hash": "dfbc4440aa92127e",
+  "source": "Some of these significant changes include:",
+  "text": "Zu diesen erheblichen Änderungen gehören unter anderem:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Zu diesen erheblichen Änderungen gehören unter anderem:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

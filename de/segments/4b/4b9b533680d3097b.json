@@ -1,0 +1,14 @@
+{
+  "hash": "4b9b533680d3097b",
+  "source": "The route to match. End it in {0} to match the paths below it as well. On a {1} v2 host, a route without {2} also matches the paths below it. If an empty string is used, the handler is registered as middleware.",
+  "text": "Die zu treffende Route. Mit {0} am Ende passt sie auch auf die darunterliegenden Pfade. Bei einem {1}-v2-Host passt eine Route ohne {2} ebenfalls auf die darunterliegenden Pfade. Bei einem leeren String wird der Handler als Middleware registriert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die zu treffende Route. Mit {0} am Ende passt sie auch auf die darunterliegenden Pfade. Bei einem {1}-v2-Host passt eine Route ohne {2} ebenfalls auf die darunterliegenden Pfade. Bei einem leeren String wird der Handler als Middleware registriert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

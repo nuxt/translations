@@ -1,0 +1,14 @@
+{
+  "hash": "052f19703597dfb1",
+  "source": "Nuxt 5 upgrades to {0}Nitro v3{/0}, which is a major rewrite of the server engine. Nitro v3 is built on {1}srvx{/1} and {2}h3 v2{/2}, adopting Web standard {3}/{4} APIs throughout. This brings performance improvements and a more consistent API, but includes several breaking changes to server-side code.",
+  "text": "Nuxt 5 steigt auf {0}Nitro v3{/0} um, eine umfassende Neuentwicklung der Server-Engine. Nitro v3 basiert auf {1}srvx{/1} und {2}h3 v2{/2} und setzt durchgängig auf die Web-Standard-APIs {3}/{4}. Das bringt Leistungsverbesserungen und eine konsistentere API, enthält aber mehrere inkompatible Änderungen am serverseitigen Code.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt 5 steigt auf {0}Nitro v3{/0} um, eine umfassende Neuentwicklung der Server-Engine. Nitro v3 basiert auf {1}srvx{/1} und {2}h3 v2{/2} und setzt durchgängig auf die Web-Standard-APIs {3}/{4}. Das bringt Leistungsverbesserungen und eine konsistentere API, enthält aber mehrere inkompatible Änderungen am serverseitigen Code."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

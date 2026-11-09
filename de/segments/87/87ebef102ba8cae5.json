@@ -1,0 +1,14 @@
+{
+  "hash": "87ebef102ba8cae5",
+  "source": "Enhance code organization by implementing a modular architecture and support Domain-Driven Design (DDD) pattern in large scale projects.",
+  "text": "Die Code-Organisation durch eine modulare Architektur verbessern und das Muster des Domain-Driven Design (DDD) in großen Projekten unterstützen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Code-Organisation durch eine modulare Architektur verbessern und das Muster des Domain-Driven Design (DDD) in großen Projekten unterstützen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

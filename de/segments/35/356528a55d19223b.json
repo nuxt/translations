@@ -1,0 +1,14 @@
+{
+  "hash": "356528a55d19223b",
+  "source": "will open '{0} in a new tab",
+  "text": "öffnet '{0} in einer neuen Registerkarte",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "öffnet '{0} in einer neuen Registerkarte"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

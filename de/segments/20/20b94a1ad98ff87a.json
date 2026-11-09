@@ -1,0 +1,14 @@
+{
+  "hash": "20b94a1ad98ff87a",
+  "source": "Configuration that overrides user settings",
+  "text": "Konfiguration, die Einstellungen der Nutzenden überschreibt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Konfiguration, die Einstellungen der Nutzenden überschreibt"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

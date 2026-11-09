@@ -1,0 +1,14 @@
+{
+  "hash": "98274ba7583fc7e1",
+  "source": "Fatal errors thrown during initial render (before the shell flushes)",
+  "text": "Schwerwiegende Fehler, die beim ersten Rendern ausgelöst werden (bevor die Hülle ausgeliefert wird)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Schwerwiegende Fehler, die beim ersten Rendern ausgelöst werden (bevor die Hülle ausgeliefert wird)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

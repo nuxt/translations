@@ -1,0 +1,14 @@
+{
+  "hash": "9c2c475e26fb3ee6",
+  "source": "{0} renders incoming content via {1}, which is then wrapped around Vue’s {2} component to activate layout transition. For this to work as expected, it is recommended that {3} is **not** the root element of the page component.",
+  "text": "{0} rendert eingehenden Inhalt über {1}, der dann von der Vue-Komponente {2} umschlossen wird, um den Layout-Übergang zu aktivieren. Damit das wie erwartet funktioniert, solltest du {3} **nicht** als Wurzelelement der Seitenkomponente verwenden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} rendert eingehenden Inhalt über {1}, der dann von der Vue-Komponente {2} umschlossen wird, um den Layout-Übergang zu aktivieren. Damit das wie erwartet funktioniert, solltest du {3} **nicht** als Wurzelelement der Seitenkomponente verwenden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

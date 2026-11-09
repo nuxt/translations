@@ -1,0 +1,14 @@
+{
+  "hash": "84b8d03aeaa9e633",
+  "source": "It is possible to add more router options files by adding files within the {0} hook. Later items in the array override earlier ones.",
+  "text": "Du kannst weitere Dateien mit Router-Optionen hinzufügen, indem du Dateien im Hook {0} ergänzt. Spätere Einträge im Array überschreiben frühere.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst weitere Dateien mit Router-Optionen hinzufügen, indem du Dateien im Hook {0} ergänzt. Spätere Einträge im Array überschreiben frühere."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

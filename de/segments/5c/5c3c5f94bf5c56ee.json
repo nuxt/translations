@@ -1,0 +1,14 @@
+{
+  "hash": "5c3c5f94bf5c56ee",
+  "source": "Max age in seconds for the cookie, i.e. the value for the {0}{1} {2} attribute{/0}. The given number will be converted to an integer by rounding down. By default, no maximum age is set.",
+  "text": "Maximales Alter des Cookies in Sekunden, d. h. der Wert für das {0}{1}-{2}-Attribut{/0}. Die angegebene Zahl wird durch Abrunden in eine Ganzzahl umgewandelt. Standardmäßig ist kein maximales Alter festgelegt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Maximales Alter des Cookies in Sekunden, d. h. der Wert für das {0}{1}-{2}-Attribut{/0}. Die angegebene Zahl wird durch Abrunden in eine Ganzzahl umgewandelt. Standardmäßig ist kein maximales Alter festgelegt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

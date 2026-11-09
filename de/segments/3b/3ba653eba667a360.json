@@ -1,0 +1,14 @@
+{
+  "hash": "3ba653eba667a360",
+  "source": "When building an application for production, {0} will generate a standalone build in the {1} directory, independent of {2} and {3}Nuxt modules{/3}.",
+  "text": "Wenn du eine Anwendung für die Produktion erzeugst, generiert {0} einen eigenständigen Build im Verzeichnis {1}, der unabhängig von {2} und {3}Nuxt-Modulen{/3} ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du eine Anwendung für die Produktion erzeugst, generiert {0} einen eigenständigen Build im Verzeichnis {1}, der unabhängig von {2} und {3}Nuxt-Modulen{/3} ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

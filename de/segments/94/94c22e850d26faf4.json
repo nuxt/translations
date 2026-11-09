@@ -1,0 +1,14 @@
+{
+  "hash": "94c22e850d26faf4",
+  "source": "Press {0}+{1} to save. The MCP server is available immediately without restarting the CLI.",
+  "text": "Drücke {0}+{1}, um zu speichern. Der MCP-Server ist sofort verfügbar, ohne dass die Kommandozeilenschnittstelle neu gestartet werden muss.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Drücke {0}+{1}, um zu speichern. Der MCP-Server ist sofort verfügbar, ohne dass die Kommandozeilenschnittstelle neu gestartet werden muss."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

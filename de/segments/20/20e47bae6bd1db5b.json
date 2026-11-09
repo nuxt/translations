@@ -1,0 +1,14 @@
+{
+  "hash": "20e47bae6bd1db5b",
+  "source": "Schema for the module options. If provided, options will be applied to the schema.",
+  "text": "Schema für die Modulooptionen. Wenn es angegeben wird, werden die Optionen auf das Schema angewendet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Schema für die Modulooptionen. Wenn es angegeben wird, werden die Optionen auf das Schema angewendet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

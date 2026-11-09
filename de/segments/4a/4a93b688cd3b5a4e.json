@@ -1,0 +1,14 @@
+{
+  "hash": "4a93b688cd3b5a4e",
+  "source": "Path to the template. If {0} is not provided, {1} must be provided instead.",
+  "text": "Pfad zur Vorlage. Wenn {0} nicht angegeben ist, muss stattdessen {1} angegeben werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pfad zur Vorlage. Wenn {0} nicht angegeben ist, muss stattdessen {1} angegeben werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

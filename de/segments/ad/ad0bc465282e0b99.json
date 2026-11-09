@@ -1,0 +1,14 @@
+{
+  "hash": "ad0bc465282e0b99",
+  "source": "Standalone server components will always be rendered on the server, also known as Islands components.",
+  "text": "Eigenständige Server-Komponenten werden immer auf dem Server gerendert. Sie sind auch als Island-Komponenten bekannt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eigenständige Server-Komponenten werden immer auf dem Server gerendert. Sie sind auch als Island-Komponenten bekannt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

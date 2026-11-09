@@ -1,0 +1,14 @@
+{
+  "hash": "38be1b7a09bb7550",
+  "source": "Property path of the changed value, with array indices as numbers, such as {0}. Prefer this when reading the value back out of a config object.",
+  "text": "Eigenschaftspfad des geänderten Werts, wobei Array-Indizes als Zahlen angegeben werden, z. B. {0}. Verwende diesen Wert, wenn du den Wert wieder aus einem Konfigurationsobjekt auslesen möchtest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eigenschaftspfad des geänderten Werts, wobei Array-Indizes als Zahlen angegeben werden, z. B. {0}. Verwende diesen Wert, wenn du den Wert wieder aus einem Konfigurationsobjekt auslesen möchtest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

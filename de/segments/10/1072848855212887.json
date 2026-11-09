@@ -1,0 +1,14 @@
+{
+  "hash": "1072848855212887",
+  "source": "When you pass a plain object, the factory options act as **defaults**. Callers can override any option:",
+  "text": "Wenn du ein einfaches Objekt übergibst, dienen die Optionen der Factory als **Standardwerte**. Aufrufende können jede Option überschreiben:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du ein einfaches Objekt übergibst, dienen die Optionen der Factory als **Standardwerte**. Aufrufende können jede Option überschreiben:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

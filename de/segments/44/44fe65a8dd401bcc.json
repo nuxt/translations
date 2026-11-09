@@ -1,0 +1,14 @@
+{
+  "hash": "44fe65a8dd401bcc",
+  "source": "The option is disabled automatically in development, when {0} is enabled, when a root-level catch-all page (such as {1}) matches every path, and when a custom {2} file may modify {3} (a file whose default export is a plain object without a {4} key remains compatible).",
+  "text": "Die Option wird automatisch deaktiviert: in der Entwicklung, wenn {0} aktiviert ist, wenn eine Catch-all-Seite auf oberster Ebene (z. B. {1}) jeden Pfad abdeckt und wenn eine benutzerdefinierte {2}-Datei {3} ändern könnte (eine Datei, deren Default-Export ein einfaches Objekt ohne {4}-Schlüssel ist, bleibt kompatibel).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Option wird automatisch deaktiviert: in der Entwicklung, wenn {0} aktiviert ist, wenn eine Catch-all-Seite auf oberster Ebene (z. B. {1}) jeden Pfad abdeckt und wenn eine benutzerdefinierte {2}-Datei {3} ändern könnte (eine Datei, deren Default-Export ein einfaches Objekt ohne {4}-Schlüssel ist, bleibt kompatibel)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

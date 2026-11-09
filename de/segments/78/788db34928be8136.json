@@ -1,0 +1,14 @@
+{
+  "hash": "788db34928be8136",
+  "source": "{0}: array of normalized matched routes with current route location",
+  "text": "{0}: Array normalisierter, übereinstimmender Routen mit der aktuellen Routenposition",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Array normalisierter, übereinstimmender Routen mit der aktuellen Routenposition"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

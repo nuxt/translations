@@ -1,0 +1,14 @@
+{
+  "hash": "cbeb9a836d82079d",
+  "source": "Multiple Pages Directories",
+  "text": "Mehrere Seitenverzeichnisse",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mehrere Seitenverzeichnisse"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

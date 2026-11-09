@@ -1,0 +1,14 @@
+{
+  "hash": "fd042bbebca0fd0b",
+  "source": "files ending in {0} - these are expected to use ESM syntax",
+  "text": "Dateien mit der Endung {0} – bei diesen wird ESM-Syntax erwartet",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dateien mit der Endung {0} – bei diesen wird ESM-Syntax erwartet"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

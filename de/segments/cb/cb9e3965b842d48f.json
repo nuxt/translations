@@ -1,0 +1,14 @@
+{
+  "hash": "cb9e3965b842d48f",
+  "source": "Handling Pending State",
+  "text": "Pending-Zustand behandeln",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pending-Zustand behandeln"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

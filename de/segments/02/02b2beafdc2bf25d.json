@@ -1,0 +1,14 @@
+{
+  "hash": "02b2beafdc2bf25d",
+  "source": "Nuxt Environment Options",
+  "text": "Optionen der Nuxt-Umgebung",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Optionen der Nuxt-Umgebung"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

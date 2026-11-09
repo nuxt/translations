@@ -1,0 +1,14 @@
+{
+  "hash": "fcdb2611dcaac5b6",
+  "source": "What Kinds of Problems Can There Be?",
+  "text": "Welche Probleme können auftreten?",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Welche Probleme können auftreten?"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

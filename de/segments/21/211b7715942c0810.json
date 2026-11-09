@@ -1,0 +1,14 @@
+{
+  "hash": "211b7715942c0810",
+  "source": "Node only reads proxy environment variables when {0} is set, and the CLI passes that setting on to the processes it spawns, so a package manager install started by {1} sees the same proxy configuration you do.",
+  "text": "Node liest Proxy-Umgebungsvariablen nur, wenn {0} gesetzt ist, und die Kommandozeilenschnittstelle gibt diese Einstellung an die von ihr gestarteten Prozesse weiter. Eine von {1} gestartete Installation über den Paketmanager sieht daher dieselbe Proxy-Konfiguration wie du.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Node liest Proxy-Umgebungsvariablen nur, wenn {0} gesetzt ist, und die Kommandozeilenschnittstelle gibt diese Einstellung an die von ihr gestarteten Prozesse weiter. Eine von {1} gestartete Installation über den Paketmanager sieht daher dieselbe Proxy-Konfiguration wie du."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

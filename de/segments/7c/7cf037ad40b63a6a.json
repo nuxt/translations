@@ -1,0 +1,14 @@
+{
+  "hash": "7cf037ad40b63a6a",
+  "source": "Access the incoming request event with the useRequestEvent composable.",
+  "text": "Greife mit dem Composable useRequestEvent auf das Event der eingehenden Anfrage zu.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Greife mit dem Composable useRequestEvent auf das Event der eingehenden Anfrage zu."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

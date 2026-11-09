@@ -1,0 +1,14 @@
+{
+  "hash": "b930c78eac73b9d6",
+  "source": "For a handler that needs h3's own helpers, such as {0}, {1}, {2}, {3}, {4} or {5}, or that reads {6} or {7}, import {8} from {9} for that handler:",
+  "text": "Für einen Handler, der die eigenen Hilfsprogramme von h3 benötigt, etwa {0}, {1}, {2}, {3}, {4} oder {5}, oder der {6} oder {7} liest, importierst du {8} für diesen Handler aus {9}:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Für einen Handler, der die eigenen Hilfsprogramme von h3 benötigt, etwa {0}, {1}, {2}, {3}, {4} oder {5}, oder der {6} oder {7} liest, importierst du {8} für diesen Handler aus {9}:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

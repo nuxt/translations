@@ -1,0 +1,14 @@
+{
+  "hash": "c2eb21ec9243dae1",
+  "source": "{0}: The unique key that identifies the cached data. This key should match the one used during the original data fetch.",
+  "text": "{0}: Der eindeutige Schlüssel, der die zwischengespeicherten Daten identifiziert. Dieser Schlüssel sollte mit dem beim ursprünglichen Datenabruf verwendeten übereinstimmen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Der eindeutige Schlüssel, der die zwischengespeicherten Daten identifiziert. Dieser Schlüssel sollte mit dem beim ursprünglichen Datenabruf verwendeten übereinstimmen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

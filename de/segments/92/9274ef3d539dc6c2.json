@@ -1,0 +1,14 @@
+{
+  "hash": "9274ef3d539dc6c2",
+  "source": "Nuxt automatically resolves the {0} and {1} by scanning and rendering all Vue component files found in the {2} directory.",
+  "text": "Nuxt löst {0} und {1} automatisch auf, indem es alle Vue-Komponentendateien im Verzeichnis {2} durchsucht und rendert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt löst {0} und {1} automatisch auf, indem es alle Vue-Komponentendateien im Verzeichnis {2} durchsucht und rendert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

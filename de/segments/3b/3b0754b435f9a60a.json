@@ -1,0 +1,14 @@
+{
+  "hash": "3b0754b435f9a60a",
+  "source": "Fonts are served from {0} in Vite builds",
+  "text": "Schriften werden in Vite-Builds von {0} ausgeliefert",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Schriften werden in Vite-Builds von {0} ausgeliefert"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

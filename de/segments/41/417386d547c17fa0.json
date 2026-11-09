@@ -1,0 +1,14 @@
+{
+  "hash": "417386d547c17fa0",
+  "source": "This file system routing uses naming conventions to create dynamic and nested routes:",
+  "text": "Dieses dateisystembasierte Routing verwendet Namenskonventionen, um dynamische und verschachtelte Routen zu erstellen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dieses dateisystembasierte Routing verwendet Namenskonventionen, um dynamische und verschachtelte Routen zu erstellen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "6e1fecf2e8107f36",
+  "source": "This means your rendered {0} declarations will typically have fewer {1} entries, reducing overall CSS size.",
+  "text": "Das bedeutet, dass deine gerenderten {0}-Deklarationen in der Regel weniger {1}-Einträge enthalten, was die CSS-Gesamtgröße verringert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das bedeutet, dass deine gerenderten {0}-Deklarationen in der Regel weniger {1}-Einträge enthalten, was die CSS-Gesamtgröße verringert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

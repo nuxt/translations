@@ -1,0 +1,14 @@
+{
+  "hash": "25671079b8194ade",
+  "source": "**Solution**: Use SSR-friendly state:",
+  "text": "**Lösung**: Verwende SSR-freundlichen State:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Lösung**: Verwende SSR-freundlichen State:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

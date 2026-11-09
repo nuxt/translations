@@ -1,0 +1,14 @@
+{
+  "hash": "a27b936fa0d9fd88",
+  "source": "In each {0} block where you are taking advantage of the {1} helper methods, you will need to set up the test context before beginning.",
+  "text": "In jedem {0}-Block, in dem du die {1}-Hilfsmethoden nutzt, musst du zuerst den Testkontext einrichten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In jedem {0}-Block, in dem du die {1}-Hilfsmethoden nutzt, musst du zuerst den Testkontext einrichten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

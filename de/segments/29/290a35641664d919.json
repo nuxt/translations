@@ -1,0 +1,14 @@
+{
+  "hash": "290a35641664d919",
+  "source": "See full explanation on the GitHub pull-request.",
+  "text": "Die ausführliche Erklärung findest du im Pull-Request auf GitHub.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die ausführliche Erklärung findest du im Pull-Request auf GitHub."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

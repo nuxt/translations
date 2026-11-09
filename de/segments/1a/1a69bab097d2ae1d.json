@@ -1,0 +1,14 @@
+{
+  "hash": "1a69bab097d2ae1d",
+  "source": "Let's pretend here that:",
+  "text": "Nehmen wir hier Folgendes an:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nehmen wir hier Folgendes an:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

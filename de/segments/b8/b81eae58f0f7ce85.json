@@ -1,0 +1,14 @@
+{
+  "hash": "b81eae58f0f7ce85",
+  "source": "To use a different package manager, replace {0} with your preferred manager (for example, {1}) and update the {2} accordingly.",
+  "text": "Wenn du einen anderen Paketmanager verwenden möchtest, ersetze {0} durch deinen bevorzugten Paketmanager (zum Beispiel {1}) und passe {2} entsprechend an.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du einen anderen Paketmanager verwenden möchtest, ersetze {0} durch deinen bevorzugten Paketmanager (zum Beispiel {1}) und passe {2} entsprechend an."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

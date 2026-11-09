@@ -1,0 +1,14 @@
+{
+  "hash": "df576fb9f67ea017",
+  "source": "Removed props: {0}, {1}, {2}, {3}.",
+  "text": "Entfernte Props: {0}, {1}, {2}, {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Entfernte Props: {0}, {1}, {2}, {3}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

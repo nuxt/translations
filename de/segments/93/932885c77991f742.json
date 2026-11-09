@@ -1,0 +1,14 @@
+{
+  "hash": "932885c77991f742",
+  "source": "Sometimes you need to resolve a path relative to the current module without knowing the name or extension. For example, you may want to add a plugin that is located in the same directory as the module. To handle these cases, Nuxt provides a set of utilities to resolve paths. {0} and {1} are used to resolve paths relative to the current module. {2} is used to find the first existing file in a given set of paths. {3} is used to create a resolver relative to the base path.",
+  "text": "Manchmal musst du einen Pfad relativ zum aktuellen Modul auflösen, ohne den Namen oder die Dateiendung zu kennen. Zum Beispiel möchtest du vielleicht ein plugin hinzufügen, das im selben Verzeichnis wie das Modul liegt. Für solche Fälle stellt Nuxt eine Reihe von Hilfsfunktionen zum Auflösen von Pfaden bereit. {0} und {1} lösen Pfade relativ zum aktuellen Modul auf. {2} findet die erste vorhandene Datei in einer vorgegebenen Menge von Pfaden. {3} erstellt einen Resolver relativ zum Basispfad.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Manchmal musst du einen Pfad relativ zum aktuellen Modul auflösen, ohne den Namen oder die Dateiendung zu kennen. Zum Beispiel möchtest du vielleicht ein plugin hinzufügen, das im selben Verzeichnis wie das Modul liegt. Für solche Fälle stellt Nuxt eine Reihe von Hilfsfunktionen zum Auflösen von Pfaden bereit. {0} und {1} lösen Pfade relativ zum aktuellen Modul auf. {2} findet die erste vorhandene Datei in einer vorgegebenen Menge von Pfaden. {3} erstellt einen Resolver relativ zum Basispfad."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

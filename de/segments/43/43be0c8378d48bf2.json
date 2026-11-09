@@ -1,0 +1,14 @@
+{
+  "hash": "43be0c8378d48bf2",
+  "source": "Query your content with a MongoDB-like API.",
+  "text": "Frage deine Inhalte mit einer MongoDB-ähnlichen API ab.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Frage deine Inhalte mit einer MongoDB-ähnlichen API ab."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

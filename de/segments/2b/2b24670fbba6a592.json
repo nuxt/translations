@@ -1,0 +1,14 @@
+{
+  "hash": "2b24670fbba6a592",
+  "source": "Vue's server builds include the full compiler toolchain, pulling {0} (465KB) and other compiler packages into the server bundle unnecessarily. These compiler packages are only needed when {1} is enabled for runtime template compilation.",
+  "text": "Die Server-Builds von Vue enthalten die vollständige Compiler-Toolchain und ziehen {0} (465 KB) sowie weitere Compiler-Pakete unnötigerweise in das Server-Bundle. Diese Compiler-Pakete werden nur benötigt, wenn {1} für die Kompilierung von Vorlagen zur Laufzeit aktiviert ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Server-Builds von Vue enthalten die vollständige Compiler-Toolchain und ziehen {0} (465 KB) sowie weitere Compiler-Pakete unnötigerweise in das Server-Bundle. Diese Compiler-Pakete werden nur benötigt, wenn {1} für die Kompilierung von Vorlagen zur Laufzeit aktiviert ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

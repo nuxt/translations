@@ -1,0 +1,14 @@
+{
+  "hash": "359a1ef5127ac41b",
+  "source": "This guide helps explain what ES Modules are and how to make a Nuxt app (or upstream library) compatible with ESM.",
+  "text": "Diese Anleitung erklärt, was ES Modules sind und wie du eine Nuxt-App (oder eine vorgelagerte Bibliothek) ESM-kompatibel machst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese Anleitung erklärt, was ES Modules sind und wie du eine Nuxt-App (oder eine vorgelagerte Bibliothek) ESM-kompatibel machst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

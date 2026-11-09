@@ -1,0 +1,14 @@
+{
+  "hash": "fe5baca93cbcbe12",
+  "source": "{0} accepts the same parameters as {1}, with the {2} option automatically set to {3}.",
+  "text": "{0} akzeptiert dieselben Parameter wie {1}, wobei die Option {2} automatisch auf {3} gesetzt wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} akzeptiert dieselben Parameter wie {1}, wobei die Option {2} automatisch auf {3} gesetzt wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

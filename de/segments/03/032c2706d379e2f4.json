@@ -1,0 +1,14 @@
+{
+  "hash": "032c2706d379e2f4",
+  "source": "Apart from dynamic parameters and query parameters, {0} also provides the following computed references related to the current route:",
+  "text": "Neben dynamischen Parametern und Query-Parametern stellt {0} auch die folgenden berechneten Referenzen zur aktuellen Route bereit:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Neben dynamischen Parametern und Query-Parametern stellt {0} auch die folgenden berechneten Referenzen zur aktuellen Route bereit:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "3b4798b4f1f97685",
+  "source": "Layer auto-registration was introduced in Nuxt v3.12.0.",
+  "text": "Die automatische Registrierung von Layers wurde in Nuxt v3.12.0 eingeführt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die automatische Registrierung von Layers wurde in Nuxt v3.12.0 eingeführt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

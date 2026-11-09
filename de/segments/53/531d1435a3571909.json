@@ -1,0 +1,14 @@
+{
+  "hash": "531d1435a3571909",
+  "source": "Add Nuxt modules and layers to your application.",
+  "text": "Füge deiner Anwendung Nuxt-Module und Layer hinzu.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Füge deiner Anwendung Nuxt-Module und Layer hinzu."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

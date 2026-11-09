@@ -1,0 +1,14 @@
+{
+  "hash": "cd683462b18c218b",
+  "source": "Write E2E Tests",
+  "text": "E2E-Tests schreiben",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "E2E-Tests schreiben"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

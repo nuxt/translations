@@ -1,0 +1,14 @@
+{
+  "hash": "8200355c8b4fdd5a",
+  "source": "Most of the pipeline above lives in framework-agnostic packages that you can use without Nuxt:",
+  "text": "Der Großteil der obigen Pipeline steckt in Framework-unabhängigen Paketen, die du auch ohne Nuxt verwenden kannst:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Großteil der obigen Pipeline steckt in Framework-unabhängigen Paketen, die du auch ohne Nuxt verwenden kannst:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "769d1f20be615b59",
+  "source": "Learn more about {0} limitations.",
+  "text": "Erfahre mehr über die Einschränkungen von {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erfahre mehr über die Einschränkungen von {0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

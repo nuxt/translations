@@ -1,0 +1,14 @@
+{
+  "hash": "ca8eb67e82d7ae5d",
+  "source": "Best of all, Nuxt modules can be distributed in npm packages. This makes it possible for them to be reused across projects and shared with the community, helping create an ecosystem of high-quality add-ons.",
+  "text": "Das Beste daran: Nuxt-Module können als npm-Pakete verteilt werden. So lassen sie sich in mehreren Projekten wiederverwenden und mit der Community teilen, was zu einem Ökosystem hochwertiger Erweiterungen beiträgt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Beste daran: Nuxt-Module können als npm-Pakete verteilt werden. So lassen sie sich in mehreren Projekten wiederverwenden und mit der Community teilen, was zu einem Ökosystem hochwertiger Erweiterungen beiträgt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

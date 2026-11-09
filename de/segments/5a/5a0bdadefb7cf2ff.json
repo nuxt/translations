@@ -1,0 +1,14 @@
+{
+  "hash": "5a0bdadefb7cf2ff",
+  "source": "processing your Nuxt plugins",
+  "text": "deine Nuxt-Plugins verarbeitet werden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "deine Nuxt-Plugins verarbeitet werden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

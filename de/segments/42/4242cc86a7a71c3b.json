@@ -1,0 +1,14 @@
+{
+  "hash": "4242cc86a7a71c3b",
+  "source": "Trigger custom hydration strategy...",
+  "text": "Benutzerdefinierte Hydration-Strategie auslösen ...",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Benutzerdefinierte Hydration-Strategie auslösen ..."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

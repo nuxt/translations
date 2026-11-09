@@ -1,0 +1,14 @@
+{
+  "hash": "26064ae7352545e0",
+  "source": "When migrating from Nuxt 2 to Nuxt 3, you will have to update how you programmatically navigate your users. In Nuxt 2, you had access to the underlying Vue Router with {0}. In Nuxt 3, you can use the {1} utility method which allows you to pass a route and parameters to Vue Router.",
+  "text": "Bei der Migration von Nuxt 2 zu Nuxt 3 musst du anpassen, wie du Nutzende programmatisch navigieren lässt. In Nuxt 2 hattest du mit {0} Zugriff auf den zugrunde liegenden Vue Router. In Nuxt 3 kannst du die Hilfsmethode {1} verwenden, mit der du eine Route und Parameter an Vue Router übergeben kannst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bei der Migration von Nuxt 2 zu Nuxt 3 musst du anpassen, wie du Nutzende programmatisch navigieren lässt. In Nuxt 2 hattest du mit {0} Zugriff auf den zugrunde liegenden Vue Router. In Nuxt 3 kannst du die Hilfsmethode {1} verwenden, mit der du eine Route und Parameter an Vue Router übergeben kannst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

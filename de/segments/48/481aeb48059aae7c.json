@@ -1,0 +1,14 @@
+{
+  "hash": "481aeb48059aae7c",
+  "source": "Disable composables auto importing",
+  "text": "Automatischen Import von Composables deaktivieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Automatischen Import von Composables deaktivieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

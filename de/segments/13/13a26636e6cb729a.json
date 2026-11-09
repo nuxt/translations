@@ -1,0 +1,14 @@
+{
+  "hash": "13a26636e6cb729a",
+  "source": "Set minimize to {0} to disable all minimizers. (It is disabled in development by default).",
+  "text": "Setze minimize auf {0}, um alle Minimizer zu deaktivieren. (In der Entwicklung ist dies standardmäßig deaktiviert.)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Setze minimize auf {0}, um alle Minimizer zu deaktivieren. (In der Entwicklung ist dies standardmäßig deaktiviert.)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

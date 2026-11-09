@@ -1,0 +1,14 @@
+{
+  "hash": "8bb43f2494e7e6ad",
+  "source": "Please use the options below for the {0} method.",
+  "text": "Verwende für die Methode {0} bitte die folgenden Optionen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwende für die Methode {0} bitte die folgenden Optionen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

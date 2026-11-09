@@ -1,0 +1,14 @@
+{
+  "hash": "c29cee8f8e453132",
+  "source": "Building the module ({0})",
+  "text": "Erzeugen des Moduls ({0})",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erzeugen des Moduls ({0})"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

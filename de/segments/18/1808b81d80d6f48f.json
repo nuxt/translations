@@ -1,0 +1,14 @@
+{
+  "hash": "1808b81d80d6f48f",
+  "source": "But it is also possible to type your runtime config manually:",
+  "text": "Du kannst deine Laufzeitkonfiguration aber auch manuell typisieren:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst deine Laufzeitkonfiguration aber auch manuell typisieren:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

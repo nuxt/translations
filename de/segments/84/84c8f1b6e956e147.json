@@ -1,0 +1,14 @@
+{
+  "hash": "84c8f1b6e956e147",
+  "source": "You might have noticed already that we use ESLint to enforce a coding standard.",
+  "text": "Dir ist vielleicht schon aufgefallen, dass wir ESLint verwenden, um einen Coding-Standard durchzusetzen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dir ist vielleicht schon aufgefallen, dass wir ESLint verwenden, um einen Coding-Standard durchzusetzen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

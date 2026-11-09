@@ -1,0 +1,14 @@
+{
+  "hash": "209c3703f61c1b55",
+  "source": "This is called for each route during prerendering. You can use this for fine-grained handling of each route that gets prerendered.",
+  "text": "Dieser Hook wird während des Vorab-Renderings für jede Route aufgerufen. Damit kannst du jede vorab gerenderte Route gezielt behandeln.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dieser Hook wird während des Vorab-Renderings für jede Route aufgerufen. Damit kannst du jede vorab gerenderte Route gezielt behandeln."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

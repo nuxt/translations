@@ -1,0 +1,14 @@
+{
+  "hash": "1c044b2645b05a42",
+  "source": "a server API route throws an error",
+  "text": "eine Server-API-Route einen Fehler auslöst",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "eine Server-API-Route einen Fehler auslöst"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "13adb2f2b5e623fe",
+  "source": "Load Nuxt configuration. It will return the promise with the configuration object.",
+  "text": "Lädt die Nuxt-Konfiguration. Die Funktion gibt ein Promise mit dem Konfigurationsobjekt zurück.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lädt die Nuxt-Konfiguration. Die Funktion gibt ein Promise mit dem Konfigurationsobjekt zurück."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

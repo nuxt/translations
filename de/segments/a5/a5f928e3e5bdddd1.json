@@ -1,0 +1,14 @@
+{
+  "hash": "a5f928e3e5bdddd1",
+  "source": "Deduplication of Route Metadata",
+  "text": "Deduplizierung von Routen-Metadaten",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Deduplizierung von Routen-Metadaten"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

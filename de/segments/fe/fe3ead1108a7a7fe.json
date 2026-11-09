@@ -1,0 +1,14 @@
+{
+  "hash": "fe3ead1108a7a7fe",
+  "source": "Once you've reproduced the issue, remove as much code from your reproduction as you can (while still recreating the bug). The time spent making the reproduction as minimal as possible will make a huge difference to whoever sets out to fix the issue.",
+  "text": "Sobald du das Problem reproduziert hast, entferne so viel Code wie möglich aus deinem Reproduktionsbeispiel (solange der Fehler weiterhin auftritt). Die Zeit, die du darauf verwendest, das Beispiel so minimal wie möglich zu halten, macht für alle, die sich an die Behebung des Problems machen, einen enormen Unterschied.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sobald du das Problem reproduziert hast, entferne so viel Code wie möglich aus deinem Reproduktionsbeispiel (solange der Fehler weiterhin auftritt). Die Zeit, die du darauf verwendest, das Beispiel so minimal wie möglich zu halten, macht für alle, die sich an die Behebung des Problems machen, einen enormen Unterschied."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

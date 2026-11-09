@@ -1,0 +1,14 @@
+{
+  "hash": "b42b839d52e90a03",
+  "source": "Most of these things should be done for you automatically if you're using modern platforms like Cloudflare, Netlify or Vercel. You can find an LCP optimization guide on {0}web.dev{/0}.",
+  "text": "Das meiste davon sollte automatisch für dich erledigt werden, wenn du moderne Plattformen wie Cloudflare, Netlify oder Vercel verwendest. Eine Anleitung zur LCP-Optimierung findest du auf {0}web.dev{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das meiste davon sollte automatisch für dich erledigt werden, wenn du moderne Plattformen wie Cloudflare, Netlify oder Vercel verwendest. Eine Anleitung zur LCP-Optimierung findest du auf {0}web.dev{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

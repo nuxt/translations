@@ -1,0 +1,14 @@
+{
+  "hash": "60ef7af48da74a91",
+  "source": "Read more about the {0} component.",
+  "text": "Weitere Informationen zur {0}-Komponente.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Weitere Informationen zur {0}-Komponente."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

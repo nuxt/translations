@@ -1,0 +1,14 @@
+{
+  "hash": "c1e05ec97b8dc259",
+  "source": "The {0} function should be **side-effect free** to ensure predictable behavior during SSR and CSR hydration. If you need to trigger side effects, use the {1} utility to do so.",
+  "text": "Die Funktion {0} sollte **frei von Seiteneffekten** sein, um ein vorhersehbares Verhalten bei SSR und CSR-Hydration sicherzustellen. Wenn du Seiteneffekte auslösen musst, verwende dafür das Hilfsmittel {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Funktion {0} sollte **frei von Seiteneffekten** sein, um ein vorhersehbares Verhalten bei SSR und CSR-Hydration sicherzustellen. Wenn du Seiteneffekte auslösen musst, verwende dafür das Hilfsmittel {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

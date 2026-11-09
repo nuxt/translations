@@ -1,0 +1,14 @@
+{
+  "hash": "58940939f1482270",
+  "source": "Navigating to a server-only page needs a request to render it, so when a {0} to one is prefetched, Nuxt prefetches that response as well.",
+  "text": "Für die Navigation zu einer Seite nur für den Server ist eine Anfrage zum Rendern nötig. Wird also ein {0} auf eine solche Seite vorab geladen, lädt Nuxt auch diese Antwort vorab.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Für die Navigation zu einer Seite nur für den Server ist eine Anfrage zum Rendern nötig. Wird also ein {0} auf eine solche Seite vorab geladen, lädt Nuxt auch diese Antwort vorab."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

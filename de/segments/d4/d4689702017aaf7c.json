@@ -1,0 +1,14 @@
+{
+  "hash": "d4689702017aaf7c",
+  "source": "On the server, the following steps are executed for every initial request to your application:",
+  "text": "Auf dem Server werden für jede erste Anfrage an deine Anwendung die folgenden Schritte ausgeführt:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auf dem Server werden für jede erste Anfrage an deine Anwendung die folgenden Schritte ausgeführt:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

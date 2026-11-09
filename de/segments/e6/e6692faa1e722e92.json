@@ -1,0 +1,14 @@
+{
+  "hash": "e6692faa1e722e92",
+  "source": "If you use {0} to call an (external) HTTPS URL with a self-signed certificate in development, you will need to set {1} in your environment.",
+  "text": "Wenn du {0} verwendest, um in der Entwicklung eine (externe) HTTPS-URL mit selbstsigniertem Zertifikat aufzurufen, musst du {1} in deiner Umgebung setzen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du {0} verwendest, um in der Entwicklung eine (externe) HTTPS-URL mit selbstsigniertem Zertifikat aufzurufen, musst du {1} in deiner Umgebung setzen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "40ebb91f42664ba4",
+  "source": "When using the same key for multiple {0} calls, they will share the same {1}, {2}, {3} and {4} refs. This ensures consistency across components but requires option consistency.",
+  "text": "Wenn du denselben Schlüssel für mehrere {0}-Aufrufe verwendest, teilen sie sich dieselben Refs {1}, {2}, {3} und {4}. Das sorgt für Konsistenz zwischen Komponenten, erfordert aber konsistente Optionen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du denselben Schlüssel für mehrere {0}-Aufrufe verwendest, teilen sie sich dieselben Refs {1}, {2}, {3} und {4}. Das sorgt für Konsistenz zwischen Komponenten, erfordert aber konsistente Optionen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

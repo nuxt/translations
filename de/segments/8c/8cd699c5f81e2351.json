@@ -1,0 +1,14 @@
+{
+  "hash": "8cd699c5f81e2351",
+  "source": "Check {0}Nuxt App{/0} for more information about this interface.",
+  "text": "Weitere Informationen zu dieser Schnittstelle findest du unter {0}Nuxt App{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Weitere Informationen zu dieser Schnittstelle findest du unter {0}Nuxt App{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

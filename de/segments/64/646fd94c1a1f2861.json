@@ -1,0 +1,14 @@
+{
+  "hash": "646fd94c1a1f2861",
+  "source": "runtime-dependent",
+  "text": "abhängig von der Laufzeitumgebung",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "abhängig von der Laufzeitumgebung"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

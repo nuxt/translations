@@ -1,0 +1,14 @@
+{
+  "hash": "75712f7762e17500",
+  "source": "Exposing a dev server in development, and triggering reloads when the build changes.",
+  "text": "Das Bereitstellen eines Entwicklungsservers in der Entwicklung und das Auslösen von Neuladevorgängen, wenn sich der Build ändert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Bereitstellen eines Entwicklungsservers in der Entwicklung und das Auslösen von Neuladevorgängen, wenn sich der Build ändert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

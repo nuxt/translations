@@ -1,0 +1,14 @@
+{
+  "hash": "678115ed90c716a8",
+  "source": "**dangerouslyLoadClientComponents**: Required to load client components from a remote source.",
+  "text": "**dangerouslyLoadClientComponents**: Erforderlich, um Client-Komponenten aus einer externen Quelle zu laden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**dangerouslyLoadClientComponents**: Erforderlich, um Client-Komponenten aus einer externen Quelle zu laden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

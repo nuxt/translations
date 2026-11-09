@@ -1,0 +1,14 @@
+{
+  "hash": "4989d81196bfb7d5",
+  "source": "Setting a top-level {0} disables every other provider, including {1}, so a per-family {2} will not be used.",
+  "text": "Wenn du auf oberster Ebene {0} setzt, werden alle anderen Provider deaktiviert, einschließlich {1}. Ein {2} pro Schriftfamilie wird dann nicht verwendet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du auf oberster Ebene {0} setzt, werden alle anderen Provider deaktiviert, einschließlich {1}. Ein {2} pro Schriftfamilie wird dann nicht verwendet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

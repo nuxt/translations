@@ -1,0 +1,14 @@
+{
+  "hash": "cb08913fd3e2ac41",
+  "source": "If you want to fetch or refresh data manually, use the {0} or {1} function provided by the composables.",
+  "text": "Wenn du Daten manuell abrufen oder aktualisieren möchtest, verwende die Funktion {0} oder {1}, die von den Composables bereitgestellt wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du Daten manuell abrufen oder aktualisieren möchtest, verwende die Funktion {0} oder {1}, die von den Composables bereitgestellt wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

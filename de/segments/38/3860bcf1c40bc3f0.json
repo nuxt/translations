@@ -1,0 +1,14 @@
+{
+  "hash": "3860bcf1c40bc3f0",
+  "source": "We recommend taking a look at {0}how to report bugs{/0}. Nuxt is still in active development, and every issue helps make it better.",
+  "text": "Wir empfehlen dir, einen Blick darauf zu werfen, {0}wie du Bugs meldest{/0}. Nuxt wird weiterhin aktiv entwickelt, und jedes Issue hilft, es besser zu machen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wir empfehlen dir, einen Blick darauf zu werfen, {0}wie du Bugs meldest{/0}. Nuxt wird weiterhin aktiv entwickelt, und jedes Issue hilft, es besser zu machen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

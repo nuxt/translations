@@ -1,0 +1,14 @@
+{
+  "hash": "cd6e03428723abcb",
+  "source": "The key of each entry identifies the module to depend on. You can use an npm package name, a path to a local module directory, or a Nuxt alias such as {0} or {1}.",
+  "text": "Der Schlüssel jedes Eintrags gibt das Modul an, von dem abhängt wird. Du kannst einen npm-Paketnamen, einen Pfad zu einem lokalen Modulverzeichnis oder einen Nuxt-Alias wie {0} oder {1} verwenden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Schlüssel jedes Eintrags gibt das Modul an, von dem abhängt wird. Du kannst einen npm-Paketnamen, einen Pfad zu einem lokalen Modulverzeichnis oder einen Nuxt-Alias wie {0} oder {1} verwenden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

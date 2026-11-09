@@ -1,0 +1,14 @@
+{
+  "hash": "c3ae4f7fbfe411ee",
+  "source": "Storage: {0} ({1} in Nitro v2) and its driver configuration",
+  "text": "Storage: {0} ({1} in Nitro v2) und die zugehörige Treiberkonfiguration",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Storage: {0} ({1} in Nitro v2) und die zugehörige Treiberkonfiguration"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

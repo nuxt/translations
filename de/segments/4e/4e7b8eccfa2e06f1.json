@@ -1,0 +1,14 @@
+{
+  "hash": "4e7b8eccfa2e06f1",
+  "source": "Combined with the {0} option, this can be useful for data that is not needed on the first render (for example, non-SEO sensitive data).",
+  "text": "In Kombination mit der Option {0} kann das für Daten nützlich sein, die beim ersten Rendern nicht benötigt werden (zum Beispiel nicht SEO-relevante Daten).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In Kombination mit der Option {0} kann das für Daten nützlich sein, die beim ersten Rendern nicht benötigt werden (zum Beispiel nicht SEO-relevante Daten)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

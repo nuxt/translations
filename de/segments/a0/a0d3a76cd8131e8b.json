@@ -1,0 +1,14 @@
+{
+  "hash": "a0d3a76cd8131e8b",
+  "source": "Path to the event handler, or one path per server API. Nuxt registers the implementation the application's server can run.",
+  "text": "Pfad zum Event-Handler oder ein Pfad pro Server-API. Nuxt registriert die Implementierung, die der Server der Anwendung ausführen kann.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pfad zum Event-Handler oder ein Pfad pro Server-API. Nuxt registriert die Implementierung, die der Server der Anwendung ausführen kann."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

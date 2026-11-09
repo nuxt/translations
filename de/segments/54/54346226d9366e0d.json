@@ -1,0 +1,14 @@
+{
+  "hash": "54346226d9366e0d",
+  "source": "this should point to your Nuxt {0}, which is {1} by default",
+  "text": "dies sollte auf dein Nuxt-{0} zeigen, das standardmäßig {1} ist",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "dies sollte auf dein Nuxt-{0} zeigen, das standardmäßig {1} ist"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "a772d18cbd5c6a19",
+  "source": "This is important to understand since pages that are not linked to a discoverable page can't be pre-rendered automatically.",
+  "text": "Das ist wichtig zu wissen, denn Seiten, die von keiner auffindbaren Seite aus verlinkt sind, können nicht automatisch vorab gerendert werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das ist wichtig zu wissen, denn Seiten, die von keiner auffindbaren Seite aus verlinkt sind, können nicht automatisch vorab gerendert werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

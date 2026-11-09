@@ -1,0 +1,14 @@
+{
+  "hash": "5b8742c89ff3f89b",
+  "source": "Preview mode allows you to see how your changes would be displayed on a live site without revealing them to users.",
+  "text": "Mit dem Vorschaumodus kannst du sehen, wie deine Änderungen auf einer Live-Website dargestellt würden, ohne sie für Nutzende sichtbar zu machen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit dem Vorschaumodus kannst du sehen, wie deine Änderungen auf einer Live-Website dargestellt würden, ohne sie für Nutzende sichtbar zu machen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

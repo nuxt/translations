@@ -1,0 +1,14 @@
+{
+  "hash": "1e2a529a3b23bab8",
+  "source": "You can modify the example app in {0}, and run:",
+  "text": "Du kannst die Beispielanwendung in {0} anpassen und Folgendes ausführen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst die Beispielanwendung in {0} anpassen und Folgendes ausführen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

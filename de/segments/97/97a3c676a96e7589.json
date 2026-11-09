@@ -1,0 +1,14 @@
+{
+  "hash": "97a3c676a96e7589",
+  "source": "Generate a plugin template with different options",
+  "text": "Eine Plugin-Vorlage mit unterschiedlichen Optionen generieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine Plugin-Vorlage mit unterschiedlichen Optionen generieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

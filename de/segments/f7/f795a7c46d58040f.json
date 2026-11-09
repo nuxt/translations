@@ -1,0 +1,14 @@
+{
+  "hash": "f795a7c46d58040f",
+  "source": "Whenever possible, route rules will be automatically applied to the deployment platform's native rules for optimal performances (Netlify and Vercel are currently supported).",
+  "text": "Wann immer möglich, werden Route-Rules automatisch in die nativen Regeln der Bereitstellungsplattform übersetzt, um die Leistung zu optimieren (derzeit werden Netlify und Vercel unterstützt).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wann immer möglich, werden Route-Rules automatisch in die nativen Regeln der Bereitstellungsplattform übersetzt, um die Leistung zu optimieren (derzeit werden Netlify und Vercel unterstützt)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

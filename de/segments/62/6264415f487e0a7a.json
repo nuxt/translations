@@ -1,0 +1,14 @@
+{
+  "hash": "6264415f487e0a7a",
+  "source": "{0} is no longer accepted, since it was only ever an alias for {1}",
+  "text": "{0} wird nicht mehr akzeptiert, da es ohnehin nur ein Alias für {1} war",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} wird nicht mehr akzeptiert, da es ohnehin nur ein Alias für {1} war"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

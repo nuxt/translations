@@ -1,0 +1,14 @@
+{
+  "hash": "4dca1088796bebbe",
+  "source": "The {0} alias can only be used within the {1} directory. Importing from {2} in client code will result in an error.",
+  "text": "Der Alias {0} kann nur innerhalb des Verzeichnisses {1} verwendet werden. Ein Import aus {2} im Client-Code führt zu einem Fehler.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Alias {0} kann nur innerhalb des Verzeichnisses {1} verwendet werden. Ein Import aus {2} im Client-Code führt zu einem Fehler."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

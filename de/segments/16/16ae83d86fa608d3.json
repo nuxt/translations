@@ -1,0 +1,14 @@
+{
+  "hash": "16ae83d86fa608d3",
+  "source": "Nuxt then renders {0} at build time with a synthetic 404 error and writes the result to {1}, which hydrates in place at whatever URL your host served it from. Pass an array of status codes between 400 and 599 ({2}) to emit additional pages, if your host can serve them.",
+  "text": "Nuxt rendert dann {0} zur Build-Zeit mit einem synthetischen 404-Fehler und schreibt das Ergebnis nach {1}. Die Datei wird an der URL, unter der dein Host sie ausgeliefert hat, direkt hydratisiert. Übergib ein Array mit Statuscodes zwischen 400 und 599 ({2}), um zusätzliche Seiten zu erzeugen, falls dein Host sie ausliefern kann.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt rendert dann {0} zur Build-Zeit mit einem synthetischen 404-Fehler und schreibt das Ergebnis nach {1}. Die Datei wird an der URL, unter der dein Host sie ausgeliefert hat, direkt hydratisiert. Übergib ein Array mit Statuscodes zwischen 400 und 599 ({2}), um zusätzliche Seiten zu erzeugen, falls dein Host sie ausliefern kann."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

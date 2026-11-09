@@ -1,0 +1,14 @@
+{
+  "hash": "2cbdcf95aa1c49c3",
+  "source": "Open the Command Palette ({0} on Mac, {1} on Windows/Linux)",
+  "text": "Öffne die Befehlspalette ({0} auf dem Mac, {1} unter Windows/Linux)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Öffne die Befehlspalette ({0} auf dem Mac, {1} unter Windows/Linux)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b7d7a702d61de532",
+  "source": "Function to manually refresh the data. By default, Nuxt waits until a {0} is finished before it can be executed again.",
+  "text": "Funktion zum manuellen Aktualisieren der Daten. Standardmäßig wartet Nuxt, bis ein {0} abgeschlossen ist, bevor es erneut ausgeführt werden kann.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Funktion zum manuellen Aktualisieren der Daten. Standardmäßig wartet Nuxt, bis ein {0} abgeschlossen ist, bevor es erneut ausgeführt werden kann."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

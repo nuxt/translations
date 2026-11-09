@@ -1,0 +1,14 @@
+{
+  "hash": "1fa45cc16386ac8a",
+  "source": "Nuxt composables have the same design as the Vue Composition API and therefore need a similar solution to magically do this transform. Check out {0}unjs/unctx#2{/0} (proposal), {1}unjs/unctx#4{/1} (transform implementation), and {2}nuxt/framework#3884{/2} (Integration to Nuxt).",
+  "text": "Nuxt-Composables sind genauso aufgebaut wie die Vue Composition API und benötigen daher eine ähnliche Lösung, um diese Transformation automatisch durchzuführen. Sieh dir {0}unjs/unctx#2{/0} (Vorschlag), {1}unjs/unctx#4{/1} (Implementierung der Transformation) und {2}nuxt/framework#3884{/2} (Integration in Nuxt) an.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt-Composables sind genauso aufgebaut wie die Vue Composition API und benötigen daher eine ähnliche Lösung, um diese Transformation automatisch durchzuführen. Sieh dir {0}unjs/unctx#2{/0} (Vorschlag), {1}unjs/unctx#4{/1} (Implementierung der Transformation) und {2}nuxt/framework#3884{/2} (Integration in Nuxt) an."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "4dd0bdaded399eea",
+  "source": "Route groups the page belongs to, based on the folder structure. Automatically populated for pages within {0}route groups{/0}.",
+  "text": "Routengruppen, zu denen die Seite basierend auf der Verzeichnisstruktur gehört. Wird für Seiten innerhalb von {0}Routengruppen{/0} automatisch befüllt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Routengruppen, zu denen die Seite basierend auf der Verzeichnisstruktur gehört. Wird für Seiten innerhalb von {0}Routengruppen{/0} automatisch befüllt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

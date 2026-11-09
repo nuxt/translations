@@ -1,0 +1,14 @@
+{
+  "hash": "f57473f09a09d2e1",
+  "source": "This component is included with Nuxt and therefore you don't have to import it as you do with other components.",
+  "text": "Diese Komponente ist in Nuxt enthalten, daher musst du sie nicht wie andere Komponenten importieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese Komponente ist in Nuxt enthalten, daher musst du sie nicht wie andere Komponenten importieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

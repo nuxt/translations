@@ -1,0 +1,14 @@
+{
+  "hash": "3e8f1ba399f31afc",
+  "source": "**Improved IDE experience**: Better IntelliSense and error reporting for different parts of your codebase.",
+  "text": "**Verbesserte IDE-Unterstützung**: Besseres IntelliSense und bessere Fehlermeldungen für verschiedene Teile deiner Codebasis.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Verbesserte IDE-Unterstützung**: Besseres IntelliSense und bessere Fehlermeldungen für verschiedene Teile deiner Codebasis."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "4e1ddf314ec710b0",
+  "source": "or vite:configResolved",
+  "text": "oder vite:configResolved",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "oder vite:configResolved"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

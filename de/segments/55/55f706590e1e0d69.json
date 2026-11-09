@@ -1,0 +1,14 @@
+{
+  "hash": "55f706590e1e0d69",
+  "source": "A path built at runtime, an absolute URL and a {0} object all resolve to {1}, because there is nothing to match them against. In this case you can provide an explicit return type:",
+  "text": "Ein zur Laufzeit erzeugter Pfad, eine absolute URL und ein {0}-Objekt werden alle zu {1} aufgelöst, da es nichts gibt, womit sie abgeglichen werden könnten. In diesem Fall kannst du einen expliziten Rückgabetyp angeben:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein zur Laufzeit erzeugter Pfad, eine absolute URL und ein {0}-Objekt werden alle zu {1} aufgelöst, da es nichts gibt, womit sie abgeglichen werden könnten. In diesem Fall kannst du einen expliziten Rückgabetyp angeben:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

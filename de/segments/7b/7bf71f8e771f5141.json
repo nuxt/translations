@@ -1,0 +1,14 @@
+{
+  "hash": "7bf71f8e771f5141",
+  "source": "{0}, merged over the default",
+  "text": "{0}, über den Standardwert gemerged",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}, über den Standardwert gemerged"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

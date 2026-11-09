@@ -1,0 +1,14 @@
+{
+  "hash": "9ea785c710704aa1",
+  "source": "Click on \"View raw config\"",
+  "text": "Klicke auf „View raw config“",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Klicke auf „View raw config“"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

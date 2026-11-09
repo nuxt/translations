@@ -1,0 +1,14 @@
+{
+  "hash": "1a64a000e83ca326",
+  "source": "This brings a **significant** performance improvement for deeply nested objects and arrays because Vue does not need to watch every single property/array for modification. In most cases, {0} should also be immutable.",
+  "text": "Das bringt eine **erhebliche** Leistungsverbesserung bei tief verschachtelten Objekten und Arrays, da Vue nicht jede einzelne Eigenschaft bzw. jedes einzelne Array auf Änderungen überwachen muss. In den meisten Fällen sollte {0} außerdem unveränderlich sein.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das bringt eine **erhebliche** Leistungsverbesserung bei tief verschachtelten Objekten und Arrays, da Vue nicht jede einzelne Eigenschaft bzw. jedes einzelne Array auf Änderungen überwachen muss. In den meisten Fällen sollte {0} außerdem unveränderlich sein."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

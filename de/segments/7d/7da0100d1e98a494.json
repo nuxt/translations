@@ -1,0 +1,14 @@
+{
+  "hash": "7da0100d1e98a494",
+  "source": "Note that we highly recommend using {0} instead of providing helpers to avoid polluting the global namespace and keep your main bundle entry small.",
+  "text": "Beachte, dass wir dringend empfehlen, {0} zu verwenden, anstatt Hilfsprogramme bereitzustellen. So vermeidest du, den globalen Namensraum zu überladen, und hältst den Haupt-Bundle-Einstiegspunkt klein.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Beachte, dass wir dringend empfehlen, {0} zu verwenden, anstatt Hilfsprogramme bereitzustellen. So vermeidest du, den globalen Namensraum zu überladen, und hältst den Haupt-Bundle-Einstiegspunkt klein."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

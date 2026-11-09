@@ -1,0 +1,14 @@
+{
+  "hash": "2aeac767643e1216",
+  "source": "We chose to build Nuxt on top of Vue for these reasons:",
+  "text": "Aus diesen Gründen haben wir Nuxt auf Vue aufgebaut:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Aus diesen Gründen haben wir Nuxt auf Vue aufgebaut:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

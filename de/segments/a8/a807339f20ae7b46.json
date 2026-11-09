@@ -1,0 +1,14 @@
+{
+  "hash": "a807339f20ae7b46",
+  "source": "**Adding templates from multiple layers:**",
+  "text": "**Vorlagen aus mehreren Layern hinzufügen:**",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Vorlagen aus mehreren Layern hinzufügen:**"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

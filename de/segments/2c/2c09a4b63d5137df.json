@@ -1,0 +1,14 @@
+{
+  "hash": "2c09a4b63d5137df",
+  "source": "If you navigate to another route, the error will be cleared automatically.",
+  "text": "Wenn du zu einer anderen Route navigierst, wird der Fehler automatisch zurückgesetzt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du zu einer anderen Route navigierst, wird der Fehler automatisch zurückgesetzt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

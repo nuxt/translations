@@ -1,0 +1,14 @@
+{
+  "hash": "c636f4e2a86c316e",
+  "source": "Provide the serialized client manifest.",
+  "text": "Das serialisierte Client-Manifest bereitstellen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das serialisierte Client-Manifest bereitstellen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

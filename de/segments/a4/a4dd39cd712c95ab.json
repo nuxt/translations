@@ -1,0 +1,14 @@
+{
+  "hash": "a4dd39cd712c95ab",
+  "source": "Learn more about Nuxt's opt-in features.",
+  "text": "Mehr über die optionalen Funktionen von Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mehr über die optionalen Funktionen von Nuxt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

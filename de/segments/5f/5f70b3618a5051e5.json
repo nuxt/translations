@@ -1,0 +1,14 @@
+{
+  "hash": "5f70b3618a5051e5",
+  "source": "Timings",
+  "text": "Zeitlimits",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Zeitlimits"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

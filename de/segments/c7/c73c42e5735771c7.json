@@ -1,0 +1,14 @@
+{
+  "hash": "c73c42e5735771c7",
+  "source": "Overrides the preload behaviour for this font family. The option is used wherever the family is preloaded, which is every route it is used on unless a route rule names the family, in which case it is preloaded on the routes that match the rule, with the option the rule gives for it, and on no others.",
+  "text": "Überschreibt das Preload-Verhalten für diese Schriftfamilie. Die Option gilt überall dort, wo die Familie vorgeladen wird. Das ist jede Route, auf der sie verwendet wird, es sei denn, eine Routenregel nennt die Familie. In diesem Fall wird sie nur auf den Routen vorgeladen, die zur Regel passen, und zwar mit der Option, die die Regel dafür angibt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Überschreibt das Preload-Verhalten für diese Schriftfamilie. Die Option gilt überall dort, wo die Familie vorgeladen wird. Das ist jede Route, auf der sie verwendet wird, es sei denn, eine Routenregel nennt die Familie. In diesem Fall wird sie nur auf den Routen vorgeladen, die zur Regel passen, und zwar mit der Option, die die Regel dafür angibt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

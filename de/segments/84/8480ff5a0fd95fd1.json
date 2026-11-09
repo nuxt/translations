@@ -1,0 +1,14 @@
+{
+  "hash": "8480ff5a0fd95fd1",
+  "source": "Returns a logger instance. It uses {0}consola{/0} under the hood.",
+  "text": "Gibt eine Logger-Instanz zurück. Sie verwendet intern {0}consola{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gibt eine Logger-Instanz zurück. Sie verwendet intern {0}consola{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

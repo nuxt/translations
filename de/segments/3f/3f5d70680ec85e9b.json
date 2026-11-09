@@ -1,0 +1,14 @@
+{
+  "hash": "3f5d70680ec85e9b",
+  "source": "If you want to auto-import a component from an npm package, and the component is a named export (rather than the default), you can use the {0} option to specify it.",
+  "text": "Wenn du eine Komponente aus einem npm-Paket automatisch importieren möchtest und es sich dabei um einen benannten Export (statt des Default-Exports) handelt, kannst du ihn mit der Option {0} angeben.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du eine Komponente aus einem npm-Paket automatisch importieren möchtest und es sich dabei um einen benannten Export (statt des Default-Exports) handelt, kannst du ihn mit der Option {0} angeben."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

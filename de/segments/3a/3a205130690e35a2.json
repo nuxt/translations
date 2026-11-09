@@ -1,0 +1,14 @@
+{
+  "hash": "3a205130690e35a2",
+  "source": "Whether to fetch on the server.",
+  "text": "Legt fest, ob der Abruf auf dem Server erfolgen soll.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Legt fest, ob der Abruf auf dem Server erfolgen soll."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

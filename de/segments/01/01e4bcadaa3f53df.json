@@ -1,0 +1,14 @@
+{
+  "hash": "01e4bcadaa3f53df",
+  "source": "Browsers don't send {0}URL fragments{/0} (for example {1}) when making requests. So using {2} to affect the template can trigger hydration issues because this will include the fragment on client but not the server.",
+  "text": "Browser senden bei Anfragen keine {0}URL-Fragmente{/0} (zum Beispiel {1}). Wenn du {2} verwendest, um die Vorlage zu beeinflussen, kann das Hydration-Probleme auslösen, da das Fragment dann auf dem Client enthalten ist, auf dem Server aber nicht.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Browser senden bei Anfragen keine {0}URL-Fragmente{/0} (zum Beispiel {1}). Wenn du {2} verwendest, um die Vorlage zu beeinflussen, kann das Hydration-Probleme auslösen, da das Fragment dann auf dem Client enthalten ist, auf dem Server aber nicht."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

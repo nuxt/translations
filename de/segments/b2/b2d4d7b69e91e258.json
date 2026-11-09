@@ -1,0 +1,14 @@
+{
+  "hash": "b2d4d7b69e91e258",
+  "source": "The page now applies the {0} transition when going to the next id and {1} for the previous:",
+  "text": "Die Seite wendet jetzt den Übergang {0} an, wenn zur nächsten ID gewechselt wird, und {1} für die vorherige:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Seite wendet jetzt den Übergang {0} an, wenn zur nächsten ID gewechselt wird, und {1} für die vorherige:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

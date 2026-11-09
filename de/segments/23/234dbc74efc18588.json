@@ -1,0 +1,14 @@
+{
+  "hash": "234dbc74efc18588",
+  "source": "Avoid using {0} unless necessary. Use {1} if you simply need to register plugins after Nuxt defaults.",
+  "text": "Vermeide {0}, sofern es nicht nötig ist. Verwende {1}, wenn du Plugins lediglich nach den Nuxt-Standardwerten registrieren möchtest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vermeide {0}, sofern es nicht nötig ist. Verwende {1}, wenn du Plugins lediglich nach den Nuxt-Standardwerten registrieren möchtest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

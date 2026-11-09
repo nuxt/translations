@@ -1,0 +1,14 @@
+{
+  "hash": "22b8d77aa093db5e",
+  "source": "Set {0} when running the server. Some dependencies (notably Vue Router) only strip development-only warnings when this is set, so leaving it unset can flood your logs with messages like {1} on unmatched routes.",
+  "text": "Setze {0}, wenn du den Server ausführst. Einige Abhängigkeiten (insbesondere Vue Router) entfernen Warnungen, die nur für die Entwicklung gedacht sind, erst dann, wenn dies gesetzt ist. Bleibt es ungesetzt, können deine Protokolle bei nicht übereinstimmenden Routen mit Meldungen wie {1} überflutet werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Setze {0}, wenn du den Server ausführst. Einige Abhängigkeiten (insbesondere Vue Router) entfernen Warnungen, die nur für die Entwicklung gedacht sind, erst dann, wenn dies gesetzt ist. Bleibt es ungesetzt, können deine Protokolle bei nicht übereinstimmenden Routen mit Meldungen wie {1} überflutet werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

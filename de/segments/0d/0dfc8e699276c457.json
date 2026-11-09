@@ -1,0 +1,14 @@
+{
+  "hash": "0dfc8e699276c457",
+  "source": "{0} when a fetch has started but not yet completed",
+  "text": "{0}, wenn ein Abruf gestartet, aber noch nicht abgeschlossen wurde",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}, wenn ein Abruf gestartet, aber noch nicht abgeschlossen wurde"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "74841fa207370025",
+  "source": "Only {0} and {1} would be registered.",
+  "text": "Nur {0} und {1} würden registriert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nur {0} und {1} würden registriert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

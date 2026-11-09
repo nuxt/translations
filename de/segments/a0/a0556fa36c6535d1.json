@@ -1,0 +1,14 @@
+{
+  "hash": "a0556fa36c6535d1",
+  "source": "Formatting Props",
+  "text": "Props zur Formatierung",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Props zur Formatierung"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

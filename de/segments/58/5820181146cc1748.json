@@ -1,0 +1,14 @@
+{
+  "hash": "5820181146cc1748",
+  "source": "All fetch options can be given a {0} or {1} value. These will be watched and new requests made automatically with any new values if they are updated.",
+  "text": "Allen Fetch-Optionen kann ein {0}- oder {1}-Wert übergeben werden. Diese werden beobachtet, und bei Änderungen werden automatisch neue Anfragen mit den neuen Werten gestellt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Allen Fetch-Optionen kann ein {0}- oder {1}-Wert übergeben werden. Diese werden beobachtet, und bei Änderungen werden automatisch neue Anfragen mit den neuen Werten gestellt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

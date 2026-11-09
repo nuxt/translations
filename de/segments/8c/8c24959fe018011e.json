@@ -1,0 +1,14 @@
+{
+  "hash": "8c24959fe018011e",
+  "source": "Your module should work even if it's only added to {0} (instead of {1}). For example:",
+  "text": "Dein Modul sollte auch funktionieren, wenn es nur zu {0} hinzugefügt wird (statt zu {1}). Zum Beispiel:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dein Modul sollte auch funktionieren, wenn es nur zu {0} hinzugefügt wird (statt zu {1}). Zum Beispiel:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "a24e1193810d7f79",
+  "source": "The key difference is that in Nuxt, the composable ensures that the route is updated **only after** the page content has changed after navigation. In contrast, the {0} version updates the route **immediately**, which can lead to synchronization issues between different parts of the template that rely on the route metadata, for example.",
+  "text": "Der entscheidende Unterschied: In Nuxt stellt das Composable sicher, dass die Route erst **nach** der Navigation aktualisiert wird, sobald sich der Inhalt der Seite geändert hat. Die Version aus {0} hingegen aktualisiert die Route **sofort**. Das kann zu Synchronisierungsproblemen zwischen verschiedenen Teilen der Vorlage führen, die sich zum Beispiel auf die Metadaten der Route stützen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der entscheidende Unterschied: In Nuxt stellt das Composable sicher, dass die Route erst **nach** der Navigation aktualisiert wird, sobald sich der Inhalt der Seite geändert hat. Die Version aus {0} hingegen aktualisiert die Route **sofort**. Das kann zu Synchronisierungsproblemen zwischen verschiedenen Teilen der Vorlage führen, die sich zum Beispiel auf die Metadaten der Route stützen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

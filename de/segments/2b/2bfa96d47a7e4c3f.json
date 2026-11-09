@@ -1,0 +1,14 @@
+{
+  "hash": "2bfa96d47a7e4c3f",
+  "source": "Body and HTML Attributes",
+  "text": "Body- und HTML-Attribute",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Body- und HTML-Attribute"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "60f6f6824f4e6a4f",
+  "source": "A path that only matches as the prefix of a route is reported: with only {0}, a link to {1} has no page to render.",
+  "text": "Ein Pfad, der nur als Präfix einer Route passt, wird gemeldet: Wenn nur {0} existiert, gibt es für einen Link auf {1} keine Seite, die gerendert werden könnte.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein Pfad, der nur als Präfix einer Route passt, wird gemeldet: Wenn nur {0} existiert, gibt es für einen Link auf {1} keine Seite, die gerendert werden könnte."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

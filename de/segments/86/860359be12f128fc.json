@@ -1,0 +1,14 @@
+{
+  "hash": "860359be12f128fc",
+  "source": "Kebab case component name. If not provided, it will be generated from the component name.",
+  "text": "Name der Komponente in kebab-case. Wenn nicht angegeben, wird er aus dem Komponentennamen generiert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Name der Komponente in kebab-case. Wenn nicht angegeben, wird er aus dem Komponentennamen generiert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

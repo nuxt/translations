@@ -1,0 +1,14 @@
+{
+  "hash": "46b1d7d6bb28aed3",
+  "source": "{0}Strict checks{/0} are enabled by default in Nuxt when the {1} option is enabled to give you greater type safety.",
+  "text": "{0}Strikte Prüfungen{/0} sind in Nuxt standardmäßig aktiviert, wenn die Option {1} eingeschaltet ist, um dir mehr Typsicherheit zu bieten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}Strikte Prüfungen{/0} sind in Nuxt standardmäßig aktiviert, wenn die Option {1} eingeschaltet ist, um dir mehr Typsicherheit zu bieten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

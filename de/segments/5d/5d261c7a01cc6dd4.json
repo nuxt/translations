@@ -1,0 +1,14 @@
+{
+  "hash": "5d261c7a01cc6dd4",
+  "source": "You can use a git repository to share your Nuxt layer. Some examples:",
+  "text": "Du kannst ein Git-Repository verwenden, um deinen Nuxt-Layer zu teilen. Einige Beispiele:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst ein Git-Repository verwenden, um deinen Nuxt-Layer zu teilen. Einige Beispiele:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

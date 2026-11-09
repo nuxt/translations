@@ -1,0 +1,14 @@
+{
+  "hash": "078e78677fc02845",
+  "source": "Only write a version segment when you deliberately mean *another* version's docs (the release table in the roadmap, for example). In that case use the full URL, {0}, so the intent is obvious in review.",
+  "text": "Schreibe ein Versionssegment nur dann, wenn du bewusst die Dokumentation einer *anderen* Version meinst (zum Beispiel die Release-Tabelle in der Roadmap). Verwende in diesem Fall die vollständige URL {0}, damit die Absicht im Review klar erkennbar ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Schreibe ein Versionssegment nur dann, wenn du bewusst die Dokumentation einer *anderen* Version meinst (zum Beispiel die Release-Tabelle in der Roadmap). Verwende in diesem Fall die vollständige URL {0}, damit die Absicht im Review klar erkennbar ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

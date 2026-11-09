@@ -1,0 +1,14 @@
+{
+  "hash": "728265e1d4e82e6b",
+  "source": "Stricter Side-Effect Imports",
+  "text": "Strengere Side-Effect-Importe",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Strengere Side-Effect-Importe"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

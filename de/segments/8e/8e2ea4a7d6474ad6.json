@@ -1,0 +1,14 @@
+{
+  "hash": "8e2ea4a7d6474ad6",
+  "source": "{0} is a compiler macro that helps you create a component with a specific lazy hydration strategy. Lazy hydration defers hydration until components become visible or until the browser has completed more critical tasks. This can significantly reduce the initial performance cost, especially for non-essential components.",
+  "text": "{0} ist ein Compiler-Makro, mit dem du eine Komponente mit einer bestimmten Lazy-Hydration-Strategie erstellst. Lazy Hydration verschiebt die Hydration, bis Komponenten sichtbar werden oder der Browser wichtigere Aufgaben abgeschlossen hat. Das kann die anfänglichen Performance-Kosten deutlich senken, insbesondere bei nicht essenziellen Komponenten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ist ein Compiler-Makro, mit dem du eine Komponente mit einer bestimmten Lazy-Hydration-Strategie erstellst. Lazy Hydration verschiebt die Hydration, bis Komponenten sichtbar werden oder der Browser wichtigere Aufgaben abgeschlossen hat. Das kann die anfänglichen Performance-Kosten deutlich senken, insbesondere bei nicht essenziellen Komponenten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

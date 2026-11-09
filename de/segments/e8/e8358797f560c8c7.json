@@ -1,0 +1,14 @@
+{
+  "hash": "e8358797f560c8c7",
+  "source": "Nuxt is fully typed and provides helpful shortcuts to ensure you have access to accurate type information when you are coding.",
+  "text": "Nuxt ist vollständig typisiert und bietet praktische Shortcuts, damit du beim Programmieren Zugriff auf genaue Typinformationen hast.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt ist vollständig typisiert und bietet praktische Shortcuts, damit du beim Programmieren Zugriff auf genaue Typinformationen hast."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

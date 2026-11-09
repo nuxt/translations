@@ -1,0 +1,14 @@
+{
+  "hash": "afeea23c1b3bf6bc",
+  "source": "You can also configure {0}, {1} and {2} in your {3} file.",
+  "text": "Du kannst {0}, {1} und {2} auch in deiner {3}-Datei konfigurieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst {0}, {1} und {2} auch in deiner {3}-Datei konfigurieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

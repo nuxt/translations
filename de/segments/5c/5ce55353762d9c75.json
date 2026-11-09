@@ -1,0 +1,14 @@
+{
+  "hash": "5ce55353762d9c75",
+  "source": "Nuxt provides a powerful hooking system to expand almost every aspect using hooks.",
+  "text": "Nuxt bietet ein leistungsstarkes Hook-System, mit dem sich nahezu jeder Bereich über Hooks erweitern lässt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt bietet ein leistungsstarkes Hook-System, mit dem sich nahezu jeder Bereich über Hooks erweitern lässt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

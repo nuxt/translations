@@ -1,0 +1,14 @@
+{
+  "hash": "6849afc1caea87f9",
+  "source": "Plain values that default to {0} or {1} are replaced with an empty string, so they are set as strings too. A schema such as {2} keeps its {3} default.",
+  "text": "Einfache Werte mit dem Standardwert {0} oder {1} werden durch einen leeren String ersetzt und daher ebenfalls als Strings gesetzt. Ein Schema wie {2} behält seinen Standardwert {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Einfache Werte mit dem Standardwert {0} oder {1} werden durch einen leeren String ersetzt und daher ebenfalls als Strings gesetzt. Ein Schema wie {2} behält seinen Standardwert {3}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

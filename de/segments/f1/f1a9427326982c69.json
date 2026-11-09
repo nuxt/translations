@@ -1,0 +1,14 @@
+{
+  "hash": "f1a9427326982c69",
+  "source": "**Earlier layers override later layers** in the array",
+  "text": "**Frühere Layer überschreiben spätere Layer** im Array",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Frühere Layer überschreiben spätere Layer** im Array"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

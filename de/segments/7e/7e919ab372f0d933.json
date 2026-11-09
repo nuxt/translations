@@ -1,0 +1,14 @@
+{
+  "hash": "7e919ab372f0d933",
+  "source": "Page's Ref",
+  "text": "Ref der Seite",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ref der Seite"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

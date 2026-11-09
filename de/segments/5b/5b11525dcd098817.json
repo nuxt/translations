@@ -1,0 +1,14 @@
+{
+  "hash": "5b11525dcd098817",
+  "source": "**{0}**: The value for that key: a (possibly async) function returning the module body as a string, read lazily when the server build resolves the corresponding {1} import.",
+  "text": "**{0}**: Der Wert für diesen Schlüssel: eine (möglicherweise asynchrone) Funktion, die den Modulinhalt als String zurückgibt. Er wird verzögert gelesen, wenn der Server-Build den entsprechenden {1}-Import auflöst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}**: Der Wert für diesen Schlüssel: eine (möglicherweise asynchrone) Funktion, die den Modulinhalt als String zurückgibt. Er wird verzögert gelesen, wenn der Server-Build den entsprechenden {1}-Import auflöst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

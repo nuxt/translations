@@ -1,0 +1,14 @@
+{
+  "hash": "b4768d711d6e54dc",
+  "source": "Nuxt applies {0} as {1} for now and warns, so an unmigrated rule keeps its status rather than silently falling back to the default. The fallback will be removed.",
+  "text": "Nuxt wendet {0} vorerst als {1} an und gibt eine Warnung aus. So behält eine nicht migrierte Regel ihren Status, statt stillschweigend auf den Standard zurückzufallen. Der Fallback wird entfernt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt wendet {0} vorerst als {1} an und gibt eine Warnung aus. So behält eine nicht migrierte Regel ihren Status, statt stillschweigend auf den Standard zurückzufallen. Der Fallback wird entfernt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "2be0d4b315f5fbe4",
+  "source": "Longer Edits",
+  "text": "Umfangreichere Änderungen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Umfangreichere Änderungen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

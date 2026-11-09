@@ -1,0 +1,14 @@
+{
+  "hash": "4aaccb1129fc2256",
+  "source": "The Nuxt ecosystem includes many different projects and organizations:",
+  "text": "Das Nuxt-Ökosystem umfasst viele verschiedene Projekte und Organisationen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Nuxt-Ökosystem umfasst viele verschiedene Projekte und Organisationen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

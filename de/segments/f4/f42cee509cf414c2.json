@@ -1,0 +1,14 @@
+{
+  "hash": "f42cee509cf414c2",
+  "source": "Builder-agnostic version of {0}, {1} and {2}. It will add the plugin to the Vite, webpack and Rsbuild configurations if they are present.",
+  "text": "Builder-unabhängige Version von {0}, {1} und {2}. Sie fügt das Plugin den Konfigurationen von Vite, webpack und Rsbuild hinzu, sofern diese vorhanden sind.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Builder-unabhängige Version von {0}, {1} und {2}. Sie fügt das Plugin den Konfigurationen von Vite, webpack und Rsbuild hinzu, sofern diese vorhanden sind."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

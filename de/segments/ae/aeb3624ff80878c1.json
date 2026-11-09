@@ -1,0 +1,14 @@
+{
+  "hash": "aeb3624ff80878c1",
+  "source": "Default array value",
+  "text": "Standardwert des Arrays",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardwert des Arrays"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

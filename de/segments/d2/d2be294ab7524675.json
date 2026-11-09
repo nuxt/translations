@@ -1,0 +1,14 @@
+{
+  "hash": "d2be294ab7524675",
+  "source": "Due to {0} being a reserved prop, {1} prop is used instead.",
+  "text": "Da {0} eine reservierte Prop ist, wird stattdessen die Prop {1} verwendet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Da {0} eine reservierte Prop ist, wird stattdessen die Prop {1} verwendet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "9d15d0519b038aa7",
+  "source": "In addition, {0} has had a succession of security issues. These do not really apply to Nuxt projects because it is being used at build-time, not runtime, and by trusted code. However, they still appear in security audits. Moreover, {1} is a hefty dependency and is unused by most projects.",
+  "text": "Außerdem gab es bei {0} eine Reihe von Sicherheitsproblemen. Diese betreffen Nuxt-Projekte eigentlich nicht, da es zur Build-Zeit und nicht zur Laufzeit sowie von vertrauenswürdigem Code verwendet wird. Dennoch tauchen sie in Sicherheitsaudits auf. Außerdem ist {1} eine umfangreiche Abhängigkeit, die die meisten Projekte nicht nutzen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Außerdem gab es bei {0} eine Reihe von Sicherheitsproblemen. Diese betreffen Nuxt-Projekte eigentlich nicht, da es zur Build-Zeit und nicht zur Laufzeit sowie von vertrauenswürdigem Code verwendet wird. Dennoch tauchen sie in Sicherheitsaudits auf. Außerdem ist {1} eine umfangreiche Abhängigkeit, die die meisten Projekte nicht nutzen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

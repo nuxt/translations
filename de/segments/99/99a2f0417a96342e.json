@@ -1,0 +1,14 @@
+{
+  "hash": "99a2f0417a96342e",
+  "source": "First, upgrade to Nuxt 4:",
+  "text": "Führe zunächst das Upgrade auf Nuxt 4 durch:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Führe zunächst das Upgrade auf Nuxt 4 durch:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

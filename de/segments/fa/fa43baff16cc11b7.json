@@ -1,0 +1,14 @@
+{
+  "hash": "fa43baff16cc11b7",
+  "source": "Returns the same {0} object as {1}:",
+  "text": "Gibt dasselbe {0}-Objekt zurück wie {1}:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gibt dasselbe {0}-Objekt zurück wie {1}:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

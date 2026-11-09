@@ -1,0 +1,14 @@
+{
+  "hash": "192318b46cdea59a",
+  "source": "Previously, Nuxt used {0} to compile templates located on the file system using the {1} file format/syntax.",
+  "text": "Früher hat Nuxt {0} verwendet, um Vorlagen aus dem Dateisystem im Dateiformat bzw. in der Syntax von {1} zu kompilieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Früher hat Nuxt {0} verwendet, um Vorlagen aus dem Dateisystem im Dateiformat bzw. in der Syntax von {1} zu kompilieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

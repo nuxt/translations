@@ -1,0 +1,14 @@
+{
+  "hash": "40b7a7aaa9add47b",
+  "source": "Customize bundle filenames.",
+  "text": "Passt die Dateinamen der Bundles an.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Passt die Dateinamen der Bundles an."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

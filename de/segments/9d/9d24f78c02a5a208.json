@@ -1,0 +1,14 @@
+{
+  "hash": "9d24f78c02a5a208",
+  "source": "An addon can declare custom call-site options, wrap the handler with middleware, attach custom reactive logic or extend the returned object.",
+  "text": "Ein Addon kann eigene Optionen für den Aufrufort deklarieren, den Handler mit Middleware umschließen, eigene reaktive Logik hinzufügen oder das zurückgegebene Objekt erweitern.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein Addon kann eigene Optionen für den Aufrufort deklarieren, den Handler mit Middleware umschließen, eigene reaktive Logik hinzufügen oder das zurückgegebene Objekt erweitern."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

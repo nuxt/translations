@@ -1,0 +1,14 @@
+{
+  "hash": "a0c5d086505f604a",
+  "source": "Nitro offers the ability to deploy your Nuxt app anywhere, from a bare metal server to the edge network, with a start time of just a few milliseconds. That's fast!",
+  "text": "Mit Nitro kannst du deine Nuxt-Anwendung überall bereitstellen – vom Bare-Metal-Server bis zum Edge-Netzwerk – bei einer Startzeit von nur wenigen Millisekunden. Das ist schnell!",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit Nitro kannst du deine Nuxt-Anwendung überall bereitstellen – vom Bare-Metal-Server bis zum Edge-Netzwerk – bei einer Startzeit von nur wenigen Millisekunden. Das ist schnell!"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

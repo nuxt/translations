@@ -1,0 +1,14 @@
+{
+  "hash": "c2b3961780e3f6b3",
+  "source": "Provide a Demo",
+  "text": "Eine Demo bereitstellen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine Demo bereitstellen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

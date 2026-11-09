@@ -1,0 +1,14 @@
+{
+  "hash": "4fd38bb796011500",
+  "source": "We'll do our best to follow our {0}internal issue decision making flowchart{/0} when responding to issues.",
+  "text": "Wir bemühen uns, bei der Beantwortung von Issues unserem {0}internen Entscheidungsflussdiagramm für Issues{/0} zu folgen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wir bemühen uns, bei der Beantwortung von Issues unserem {0}internen Entscheidungsflussdiagramm für Issues{/0} zu folgen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

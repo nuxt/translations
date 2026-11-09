@@ -1,0 +1,14 @@
+{
+  "hash": "e72062300b35d2cf",
+  "source": "Earlier items in the array have higher priority and override later ones",
+  "text": "Frühere Einträge im Array haben eine höhere Priorität und überschreiben spätere",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Frühere Einträge im Array haben eine höhere Priorität und überschreiben spätere"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

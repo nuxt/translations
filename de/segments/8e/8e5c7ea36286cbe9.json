@@ -1,0 +1,14 @@
+{
+  "hash": "8e5c7ea36286cbe9",
+  "source": "Alternatively, you can render the template alongside the Nuxt app root by setting it to {0}:",
+  "text": "Alternativ kannst du die Vorlage neben dem Nuxt-App-Root rendern, indem du die Option auf {0} setzt:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Alternativ kannst du die Vorlage neben dem Nuxt-App-Root rendern, indem du die Option auf {0} setzt:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "abe1ebc2524894c5",
+  "source": "{0} uses the provided URL as a key. Alternatively, a {1} value can be provided in the {2} object passed as a last argument.",
+  "text": "{0} verwendet die angegebene URL als Schlüssel. Alternativ kann im Objekt {2}, das als letztes Argument übergeben wird, ein {1}-Wert angegeben werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} verwendet die angegebene URL als Schlüssel. Alternativ kann im Objekt {2}, das als letztes Argument übergeben wird, ein {1}-Wert angegeben werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b5d5ff63da4ccb86",
+  "source": "You can use the {0} option on applicable tags to append them to the end of the {1} tag.",
+  "text": "Mit der Option {0} kannst du passende Tags am Ende des Tags {1} einfügen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit der Option {0} kannst du passende Tags am Ende des Tags {1} einfügen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

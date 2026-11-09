@@ -1,0 +1,14 @@
+{
+  "hash": "d5921204eec1e515",
+  "source": "Named Layer Aliases",
+  "text": "Benannte Layer-Aliase",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Benannte Layer-Aliase"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

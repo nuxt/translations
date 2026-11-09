@@ -1,0 +1,14 @@
+{
+  "hash": "ed7d2dbfdef658aa",
+  "source": "The same applies to handlers wrapped in {0} (or {1} under {2}), including ones that modules register: {3} returns an empty object inside them. Pass {4} in the handler's options, or set a default for every cached handler with {5}:",
+  "text": "Dasselbe gilt für Handler, die mit {0} (oder {1} unter {2}) umschlossen sind, auch für solche, die Module registrieren: {3} gibt in ihnen ein leeres Objekt zurück. Übergib {4} in den Optionen des Handlers oder lege mit {5} einen Standardwert für alle zwischengespeicherten Handler fest:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dasselbe gilt für Handler, die mit {0} (oder {1} unter {2}) umschlossen sind, auch für solche, die Module registrieren: {3} gibt in ihnen ein leeres Objekt zurück. Übergib {4} in den Optionen des Handlers oder lege mit {5} einen Standardwert für alle zwischengespeicherten Handler fest:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

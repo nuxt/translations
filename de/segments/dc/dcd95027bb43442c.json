@@ -1,0 +1,14 @@
+{
+  "hash": "dcd95027bb43442c",
+  "source": "You can optionally override history mode using a function that accepts the base URL and returns the history mode. If it returns {0} or {1}, Nuxt will fallback to the default history.",
+  "text": "Du kannst den Verlaufsmodus optional mit einer Funktion überschreiben, die die Basis-URL entgegennimmt und den Verlaufsmodus zurückgibt. Gibt sie {0} oder {1} zurück, greift Nuxt auf den Standardverlauf zurück.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst den Verlaufsmodus optional mit einer Funktion überschreiben, die die Basis-URL entgegennimmt und den Verlaufsmodus zurückgibt. Gibt sie {0} oder {1} zurück, greift Nuxt auf den Standardverlauf zurück."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "6b71466de26f300e",
+  "source": "extend tsconfig.app.json",
+  "text": "tsconfig.app.json erweitern",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "tsconfig.app.json erweitern"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

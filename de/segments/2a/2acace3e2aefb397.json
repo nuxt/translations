@@ -1,0 +1,14 @@
+{
+  "hash": "2acace3e2aefb397",
+  "source": "You can also use the {0} helper to change the layout dynamically:",
+  "text": "Du kannst auch das Hilfsprogramm {0} verwenden, um das Layout dynamisch zu ändern:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst auch das Hilfsprogramm {0} verwenden, um das Layout dynamisch zu ändern:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

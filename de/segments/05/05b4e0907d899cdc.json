@@ -1,0 +1,14 @@
+{
+  "hash": "05b4e0907d899cdc",
+  "source": "Render your content with built-in components.",
+  "text": "Stelle deine Inhalte mit integrierten Komponenten dar.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Stelle deine Inhalte mit integrierten Komponenten dar."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

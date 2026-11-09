@@ -1,0 +1,14 @@
+{
+  "hash": "24cb38a442ba9bac",
+  "source": "adding {0} as a custom property:",
+  "text": "wie {0} als benutzerdefinierte Eigenschaft hinzugefügt wird:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "wie {0} als benutzerdefinierte Eigenschaft hinzugefügt wird:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

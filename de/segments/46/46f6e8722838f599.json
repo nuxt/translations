@@ -1,0 +1,14 @@
+{
+  "hash": "46f6e8722838f599",
+  "source": "About route rules configurations, you can get more detail in {0}Hybrid Rendering > Route Rules{/0}.",
+  "text": "Mehr Details zu Konfigurationen von Routing-Regeln findest du unter {0}Hybrides Rendering > Routing-Regeln{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mehr Details zu Konfigurationen von Routing-Regeln findest du unter {0}Hybrides Rendering > Routing-Regeln{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

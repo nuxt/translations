@@ -1,0 +1,14 @@
+{
+  "hash": "3c58bfef930380ea",
+  "source": "For better performance, you can wrap your {0} calls in a server-only condition when the meta tags don't need to be reactive:",
+  "text": "Für bessere Performance kannst du deine {0}-Aufrufe in eine Bedingung einschließen, die nur auf dem Server greift, wenn die Meta-Tags nicht reaktiv sein müssen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Für bessere Performance kannst du deine {0}-Aufrufe in eine Bedingung einschließen, die nur auf dem Server greift, wenn die Meta-Tags nicht reaktiv sein müssen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

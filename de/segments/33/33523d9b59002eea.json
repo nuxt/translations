@@ -1,0 +1,14 @@
+{
+  "hash": "33523d9b59002eea",
+  "source": "constructor parameter properties ({0}) with an explicit assignment",
+  "text": "Parameter-Properties im Konstruktor ({0}) durch eine explizite Zuweisung",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Parameter-Properties im Konstruktor ({0}) durch eine explizite Zuweisung"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

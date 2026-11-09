@@ -1,0 +1,14 @@
+{
+  "hash": "4fdf7ea9f3d3e783",
+  "source": "Parsed {0}",
+  "text": "Geparstes {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Geparstes {0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

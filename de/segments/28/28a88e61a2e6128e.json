@@ -1,0 +1,14 @@
+{
+  "hash": "28a88e61a2e6128e",
+  "source": "Chrome DevTools come with two useful tabs for measuring performance; {0} and {1}.",
+  "text": "Die Chrome DevTools enthalten zwei nützliche Registerkarten zum Messen der Performance: {0} und {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Chrome DevTools enthalten zwei nützliche Registerkarten zum Messen der Performance: {0} und {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

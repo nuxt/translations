@@ -1,0 +1,14 @@
+{
+  "hash": "518ec71856762fab",
+  "source": "You can use {0}composables{/0} as well as {1}utils{/1} within Nuxt plugins:",
+  "text": "In Nuxt-Plugins kannst du sowohl {0}Composables{/0} als auch {1}Utils{/1} verwenden:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In Nuxt-Plugins kannst du sowohl {0}Composables{/0} als auch {1}Utils{/1} verwenden:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b4e99e0d63b56a49",
+  "source": "Scripted pages emit their own speculation rules tag scoped to the {0} route patterns, so browsers can prefetch and prerender those targets before a full-page navigation to them. When view transitions are enabled, these pages also opt into declarative cross-document view transitions to animate the navigation.",
+  "text": "Seiten mit Skripten geben ein eigenes Speculation-Rules-Tag aus, das auf die Routenmuster von {0} beschränkt ist, sodass Browser diese Ziele vor einer vollständigen Seitennavigation vorab abrufen und vorab rendern können. Sind View Transitions aktiviert, nutzen diese Seiten außerdem deklarative dokumentübergreifende View Transitions, um die Navigation zu animieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Seiten mit Skripten geben ein eigenes Speculation-Rules-Tag aus, das auf die Routenmuster von {0} beschränkt ist, sodass Browser diese Ziele vor einer vollständigen Seitennavigation vorab abrufen und vorab rendern können. Sind View Transitions aktiviert, nutzen diese Seiten außerdem deklarative dokumentübergreifende View Transitions, um die Navigation zu animieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

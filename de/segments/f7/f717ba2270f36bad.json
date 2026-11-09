@@ -1,0 +1,14 @@
+{
+  "hash": "f717ba2270f36bad",
+  "source": "The {0} command runs {1} or {2}Golar{/2} to check types throughout your app. If neither is installed you are offered the install command for your package manager.",
+  "text": "Der Befehl {0} führt {1} oder {2}Golar{/2} aus, um die Typen in deiner gesamten App zu prüfen. Ist keines von beiden installiert, wird dir der Installationsbefehl für deinen Paketmanager angeboten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Befehl {0} führt {1} oder {2}Golar{/2} aus, um die Typen in deiner gesamten App zu prüfen. Ist keines von beiden installiert, wird dir der Installationsbefehl für deinen Paketmanager angeboten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

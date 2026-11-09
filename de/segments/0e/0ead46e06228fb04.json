@@ -1,0 +1,14 @@
+{
+  "hash": "0ead46e06228fb04",
+  "source": "Called during Nuxt initialization, before installing user modules.",
+  "text": "Wird während der Nuxt-Initialisierung aufgerufen, bevor die Module der Nutzenden installiert werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird während der Nuxt-Initialisierung aufgerufen, bevor die Module der Nutzenden installiert werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "9732c9edd4c543fb",
+  "source": "By using {0}auto-imported composables{/0} we can define global type-safe states and import them across the app.",
+  "text": "Mit {0}automatisch importierten Composables{/0} können wir typsichere globale Zustände definieren und in der gesamten App importieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit {0}automatisch importierten Composables{/0} können wir typsichere globale Zustände definieren und in der gesamten App importieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

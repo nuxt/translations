@@ -1,0 +1,14 @@
+{
+  "hash": "fb8f9614382ee752",
+  "source": "{0} is only usable inside a {1}route middleware handler{/1}.",
+  "text": "{0} kann nur innerhalb eines {1}Routen-Middleware-Handlers{/1} verwendet werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} kann nur innerhalb eines {1}Routen-Middleware-Handlers{/1} verwendet werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

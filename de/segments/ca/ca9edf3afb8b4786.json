@@ -1,0 +1,14 @@
+{
+  "hash": "ca9edf3afb8b4786",
+  "source": "Note that there may be changes before this finally lands in the JS standard.",
+  "text": "Beachte, dass sich noch Änderungen ergeben können, bevor dies endgültig in den JS-Standard aufgenommen wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Beachte, dass sich noch Änderungen ergeben können, bevor dies endgültig in den JS-Standard aufgenommen wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

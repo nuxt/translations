@@ -1,0 +1,14 @@
+{
+  "hash": "7622e0c4a3346ac4",
+  "source": "SFC style blocks support preprocessor syntax. Vite comes with built-in support for .scss, .sass, .less, .styl and .stylus files without configuration. You just need to install them first, and they will be available directly in SFC with the lang attribute.",
+  "text": "SFC-Style-Blöcke unterstützen die Syntax von Preprocessors. Vite bringt ohne Konfiguration integrierte Unterstützung für die Dateien .scss, .sass, .less, .styl und .stylus mit. Du musst sie nur vorher installieren, dann stehen sie in SFC direkt über das Attribut lang zur Verfügung.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "SFC-Style-Blöcke unterstützen die Syntax von Preprocessors. Vite bringt ohne Konfiguration integrierte Unterstützung für die Dateien .scss, .sass, .less, .styl und .stylus mit. Du musst sie nur vorher installieren, dann stehen sie in SFC direkt über das Attribut lang zur Verfügung."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

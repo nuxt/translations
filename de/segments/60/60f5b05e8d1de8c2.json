@@ -1,0 +1,14 @@
+{
+  "hash": "60f5b05e8d1de8c2",
+  "source": "With {0} (the default when {1} is enabled), scripts are only stripped from rendered HTML in production builds. In development the page still ships JavaScript, so behavior that depends on it (lazy hydration strategies, {2} components inside server components) appears to work in dev and then silently breaks after deployment.",
+  "text": "Mit {0} (der Standardeinstellung, wenn {1} aktiviert ist) werden Skripte nur in Produktions-Builds aus dem gerenderten HTML entfernt. In der Entwicklung liefert die Seite weiterhin JavaScript aus. Daher scheint Verhalten, das davon abhängt (Strategien für Lazy Hydration, {2}-Komponenten innerhalb von Server-Komponenten), in der Entwicklung zu funktionieren und bricht nach der Bereitstellung unbemerkt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit {0} (der Standardeinstellung, wenn {1} aktiviert ist) werden Skripte nur in Produktions-Builds aus dem gerenderten HTML entfernt. In der Entwicklung liefert die Seite weiterhin JavaScript aus. Daher scheint Verhalten, das davon abhängt (Strategien für Lazy Hydration, {2}-Komponenten innerhalb von Server-Komponenten), in der Entwicklung zu funktionieren und bricht nach der Bereitstellung unbemerkt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "9921596cd2295fa6",
+  "source": "Make sure that any unique key of your data is always resolvable to the same data. For example, if you are using {0} to fetch data related to a particular page, you should provide a key that uniquely matches that data. ({1} should do this automatically for you.)",
+  "text": "Stelle sicher, dass jeder eindeutige Schlüssel deiner Daten immer auf dieselben Daten aufgelöst wird. Wenn du zum Beispiel {0} verwendest, um Daten für eine bestimmte Seite abzurufen, solltest du einen Schlüssel angeben, der eindeutig zu diesen Daten passt. ({1} sollte das automatisch für dich erledigen.)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Stelle sicher, dass jeder eindeutige Schlüssel deiner Daten immer auf dieselben Daten aufgelöst wird. Wenn du zum Beispiel {0} verwendest, um Daten für eine bestimmte Seite abzurufen, solltest du einen Schlüssel angeben, der eindeutig zu diesen Daten passt. ({1} sollte das automatisch für dich erledigen.)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

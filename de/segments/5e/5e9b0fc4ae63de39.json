@@ -1,0 +1,14 @@
+{
+  "hash": "5e9b0fc4ae63de39",
+  "source": "You can enable support for processing CSS variables for font family names.",
+  "text": "Du kannst die Verarbeitung von CSS-Variablen für Schriftfamiliennamen aktivieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst die Verarbeitung von CSS-Variablen für Schriftfamiliennamen aktivieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

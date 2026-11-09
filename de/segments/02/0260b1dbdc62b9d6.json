@@ -1,0 +1,14 @@
+{
+  "hash": "0260b1dbdc62b9d6",
+  "source": "Passing Props to Layouts {0}",
+  "text": "Props an Layouts übergeben {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Props an Layouts übergeben {0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

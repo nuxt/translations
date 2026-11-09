@@ -1,0 +1,14 @@
+{
+  "hash": "51fb840d8de73b41",
+  "source": "**Problem**: Libraries that modify the DOM or have browser dependencies (this happens a LOT with tag managers).",
+  "text": "**Problem**: Bibliotheken, die das DOM verändern oder Abhängigkeiten vom Browser haben (das passiert sehr oft bei Tag-Managern).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Problem**: Bibliotheken, die das DOM verändern oder Abhängigkeiten vom Browser haben (das passiert sehr oft bei Tag-Managern)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

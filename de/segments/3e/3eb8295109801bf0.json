@@ -1,0 +1,14 @@
+{
+  "hash": "3eb8295109801bf0",
+  "source": "the deployable static assets within it",
+  "text": "die darin enthaltenen bereitstellbaren statischen Assets",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "die darin enthaltenen bereitstellbaren statischen Assets"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

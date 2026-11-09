@@ -1,0 +1,14 @@
+{
+  "hash": "2fe11a48a10f6af6",
+  "source": "Integration with module builder tooling",
+  "text": "Integration in Tools zum Erstellen von Modulen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Integration in Tools zum Erstellen von Modulen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

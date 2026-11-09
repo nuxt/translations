@@ -1,0 +1,14 @@
+{
+  "hash": "2293e403c1ccaf5f",
+  "source": "When running {0}, the home page will be pre-rendered in {1} and statically served.",
+  "text": "Beim Ausführen von {0} wird die Startseite in {1} vorab gerendert und statisch ausgeliefert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Beim Ausführen von {0} wird die Startseite in {1} vorab gerendert und statisch ausgeliefert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

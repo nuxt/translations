@@ -1,0 +1,14 @@
+{
+  "hash": "06251fb6c46938d5",
+  "source": "Ordering Global Middleware",
+  "text": "Reihenfolge globaler Middleware festlegen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Reihenfolge globaler Middleware festlegen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

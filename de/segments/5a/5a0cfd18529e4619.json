@@ -1,0 +1,14 @@
+{
+  "hash": "5a0cfd18529e4619",
+  "source": "The {0} command searches the Nuxt documentation and opens the best match in your browser. Without a query it opens the documentation home page.",
+  "text": "Der Befehl {0} durchsucht die Nuxt-Dokumentation und öffnet den besten Treffer in deinem Browser. Ohne Suchanfrage öffnet er die Startseite der Dokumentation.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Befehl {0} durchsucht die Nuxt-Dokumentation und öffnet den besten Treffer in deinem Browser. Ohne Suchanfrage öffnet er die Startseite der Dokumentation."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

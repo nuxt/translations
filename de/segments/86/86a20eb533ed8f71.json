@@ -1,0 +1,14 @@
+{
+  "hash": "86a20eb533ed8f71",
+  "source": "Nitro allows 'direct' calling of routes via the globally-available {0} helper. This will make an API call to the server if run on the browser, but will directly call the relevant function if run on the server, **saving an additional API call**.",
+  "text": "Nitro ermöglicht den „direkten“ Aufruf von Routen über das global verfügbare Hilfsprogramm {0}. Im Browser löst es einen API-Aufruf an den Server aus, auf dem Server hingegen ruft es direkt die entsprechende Funktion auf und **spart so einen zusätzlichen API-Aufruf**.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nitro ermöglicht den „direkten“ Aufruf von Routen über das global verfügbare Hilfsprogramm {0}. Im Browser löst es einen API-Aufruf an den Server aus, auf dem Server hingegen ruft es direkt die entsprechende Funktion auf und **spart so einen zusätzlichen API-Aufruf**."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

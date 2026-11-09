@@ -1,0 +1,14 @@
+{
+  "hash": "25e48ba19b9e885c",
+  "source": "{0}Vapor Mode{/0} is an alternative compilation strategy introduced in Vue 3.6 that renders components without the Virtual DOM, lowering memory use and improving runtime performance.",
+  "text": "Der {0}Vapor Mode{/0} ist eine alternative Kompilierungsstrategie, die mit Vue 3.6 eingeführt wurde. Sie rendert Komponenten ohne Virtual DOM, senkt den Speicherverbrauch und verbessert die Laufzeitleistung.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der {0}Vapor Mode{/0} ist eine alternative Kompilierungsstrategie, die mit Vue 3.6 eingeführt wurde. Sie rendert Komponenten ohne Virtual DOM, senkt den Speicherverbrauch und verbessert die Laufzeitleistung."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

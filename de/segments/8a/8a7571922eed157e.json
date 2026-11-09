@@ -1,0 +1,14 @@
+{
+  "hash": "8a7571922eed157e",
+  "source": "If enabled, registers components as islands. You can read more about islands in {0} component description.",
+  "text": "Wenn aktiviert, werden die Komponenten als Islands registriert. Mehr zu Islands findest du in der Beschreibung der Komponente {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn aktiviert, werden die Komponenten als Islands registriert. Mehr zu Islands findest du in der Beschreibung der Komponente {0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

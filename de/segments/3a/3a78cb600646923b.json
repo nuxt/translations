@@ -1,0 +1,14 @@
+{
+  "hash": "3a78cb600646923b",
+  "source": "Typing Custom Page Metadata",
+  "text": "Benutzerdefinierte Seiten-Metadaten typisieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Benutzerdefinierte Seiten-Metadaten typisieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

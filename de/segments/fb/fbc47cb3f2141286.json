@@ -1,0 +1,14 @@
+{
+  "hash": "fbc47cb3f2141286",
+  "source": "In this example, we use a component-local counter state. Any other component that uses {0} shares the same reactive state.",
+  "text": "In diesem Beispiel verwenden wir einen komponentenlokalen Zähler-Zustand. Jede andere Komponente, die {0} verwendet, teilt sich denselben reaktiven Zustand.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In diesem Beispiel verwenden wir einen komponentenlokalen Zähler-Zustand. Jede andere Komponente, die {0} verwendet, teilt sich denselben reaktiven Zustand."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

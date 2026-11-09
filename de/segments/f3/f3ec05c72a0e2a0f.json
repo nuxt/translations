@@ -1,0 +1,14 @@
+{
+  "hash": "f3ec05c72a0e2a0f",
+  "source": "If your module should provide other kinds of assets, they can also be injected. Here's a simple example module injecting a stylesheet through Nuxt's {0} array.",
+  "text": "Wenn dein Modul weitere Arten von Assets bereitstellen soll, kannst du sie ebenfalls einbinden. Hier ist ein einfaches Beispielmodul, das ein Stylesheet über das Array {0} von Nuxt einfügt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn dein Modul weitere Arten von Assets bereitstellen soll, kannst du sie ebenfalls einbinden. Hier ist ein einfaches Beispielmodul, das ein Stylesheet über das Array {0} von Nuxt einfügt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

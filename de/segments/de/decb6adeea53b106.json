@@ -1,0 +1,14 @@
+{
+  "hash": "decb6adeea53b106",
+  "source": "Use {0} only if you need comprehensive implementation details and your AI tool supports large contexts (200K+ tokens).",
+  "text": "Verwende {0} nur, wenn du umfassende Implementierungsdetails benötigst und dein KI-Tool große Kontexte (200K+ Token) unterstützt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwende {0} nur, wenn du umfassende Implementierungsdetails benötigst und dein KI-Tool große Kontexte (200K+ Token) unterstützt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

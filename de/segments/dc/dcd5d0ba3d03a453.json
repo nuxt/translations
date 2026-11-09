@@ -1,0 +1,14 @@
+{
+  "hash": "dcd5d0ba3d03a453",
+  "source": "Default values for view transitions.",
+  "text": "Standardwerte für View Transitions.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardwerte für View Transitions."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

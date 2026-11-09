@@ -1,0 +1,14 @@
+{
+  "hash": "7b407f45e162c455",
+  "source": "Project: nuxt.config.ts",
+  "text": "Projekt: nuxt.config.ts",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Projekt: nuxt.config.ts"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

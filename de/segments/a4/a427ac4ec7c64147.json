@@ -1,0 +1,14 @@
+{
+  "hash": "a427ac4ec7c64147",
+  "source": "Client-side Only Rendering",
+  "text": "Ausschließlich clientseitiges Rendering",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ausschließlich clientseitiges Rendering"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

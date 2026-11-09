@@ -1,0 +1,14 @@
+{
+  "hash": "1fb845f69c9685c9",
+  "source": "The {0} file will be mapped to the {1} route of your application.",
+  "text": "Die Datei {0} wird der Route {1} deiner Anwendung zugeordnet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Datei {0} wird der Route {1} deiner Anwendung zugeordnet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

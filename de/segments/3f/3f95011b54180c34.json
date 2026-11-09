@@ -1,0 +1,14 @@
+{
+  "hash": "3f95011b54180c34",
+  "source": "You are asked, defaulting to not starting.",
+  "text": "Du wirst gefragt, wobei standardmäßig nicht gestartet wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du wirst gefragt, wobei standardmäßig nicht gestartet wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

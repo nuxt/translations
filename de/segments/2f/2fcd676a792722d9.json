@@ -1,0 +1,14 @@
+{
+  "hash": "2fcd676a792722d9",
+  "source": "Route Rules: {0} Matches Nested Paths",
+  "text": "Route-Rules: {0} passt auf verschachtelte Pfade",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Route-Rules: {0} passt auf verschachtelte Pfade"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

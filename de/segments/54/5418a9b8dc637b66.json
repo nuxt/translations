@@ -1,0 +1,14 @@
+{
+  "hash": "5418a9b8dc637b66",
+  "source": "How Islands Are Rendered",
+  "text": "So werden Islands gerendert",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "So werden Islands gerendert"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

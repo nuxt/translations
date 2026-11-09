@@ -1,0 +1,14 @@
+{
+  "hash": "af7b754c922130d5",
+  "source": "Path to the plugin, or one path per nitro major for a module shipping an implementation for each. The plugin must export a default function that accepts the Nitro instance as an argument.",
+  "text": "Pfad zum Plugin oder ein Pfad pro Nitro-Hauptversion bei einem Modul, das für jede Version eine eigene Implementierung mitliefert. Das Plugin muss eine Default-Funktion exportieren, die die Nitro-Instanz als Argument entgegennimmt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pfad zum Plugin oder ein Pfad pro Nitro-Hauptversion bei einem Modul, das für jede Version eine eigene Implementierung mitliefert. Das Plugin muss eine Default-Funktion exportieren, die die Nitro-Instanz als Argument entgegennimmt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

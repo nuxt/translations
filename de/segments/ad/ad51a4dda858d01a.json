@@ -1,0 +1,14 @@
+{
+  "hash": "ad51a4dda858d01a",
+  "source": "Nuxt builds and bundles project using Node.js but also has a runtime side.",
+  "text": "Nuxt erzeugt und bündelt das Projekt mit Node.js, hat aber auch eine Laufzeitseite.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt erzeugt und bündelt das Projekt mit Node.js, hat aber auch eine Laufzeitseite."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "0461bad2d2d909fe",
+  "source": "You can partially hydrate a component by setting a {0} attribute on the component you wish to be loaded client-side.",
+  "text": "Du kannst eine Komponente teilweise hydratisieren, indem du das Attribut {0} an der Komponente setzt, die clientseitig geladen werden soll.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst eine Komponente teilweise hydratisieren, indem du das Attribut {0} an der Komponente setzt, die clientseitig geladen werden soll."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

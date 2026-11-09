@@ -1,0 +1,14 @@
+{
+  "hash": "006478b2760330e4",
+  "source": "Why You Cannot Mix Vue and Nitro Code",
+  "text": "Warum du Vue- und Nitro-Code nicht mischen kannst",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Warum du Vue- und Nitro-Code nicht mischen kannst"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

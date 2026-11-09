@@ -1,0 +1,14 @@
+{
+  "hash": "5a61a80dc658990f",
+  "source": "will cancel the latest pending handler",
+  "text": "bricht den neuesten ausstehenden Handler ab",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "bricht den neuesten ausstehenden Handler ab"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

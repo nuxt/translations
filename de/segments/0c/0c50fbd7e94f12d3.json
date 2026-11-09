@@ -1,0 +1,14 @@
+{
+  "hash": "0c50fbd7e94f12d3",
+  "source": "This means your project files will override any layer, and {0} will override anything in {1}.",
+  "text": "Das bedeutet, dass deine Projektdateien jeden Layer überschreiben und {0} alles in {1} überschreibt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das bedeutet, dass deine Projektdateien jeden Layer überschreiben und {0} alles in {1} überschreibt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

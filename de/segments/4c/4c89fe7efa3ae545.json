@@ -1,0 +1,14 @@
+{
+  "hash": "4c89fe7efa3ae545",
+  "source": "The webpack and rspack builders still configure both, along with {0} and {1}.",
+  "text": "Die Builder für webpack und rspack konfigurieren weiterhin beide, zusammen mit {0} und {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Builder für webpack und rspack konfigurieren weiterhin beide, zusammen mit {0} und {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "6305e2dcd8520168",
+  "source": "Customize Nuxt SPA loading template element attributes.",
+  "text": "Passe die Attribute des Elements der Nuxt-SPA-Ladevorlage an.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Passe die Attribute des Elements der Nuxt-SPA-Ladevorlage an."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b6fd60e4d0b9f0b4",
+  "source": "If a handler validates its request, this is typed for you when you fetch from that route. This works with any {0}Standard Schema{/0} library:",
+  "text": "Wenn ein Handler seine Anfrage validiert, wird diese beim Abruf von dieser Route automatisch typisiert. Das funktioniert mit jeder {0}Standard-Schema{/0}-Bibliothek:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn ein Handler seine Anfrage validiert, wird diese beim Abruf von dieser Route automatisch typisiert. Das funktioniert mit jeder {0}Standard-Schema{/0}-Bibliothek:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

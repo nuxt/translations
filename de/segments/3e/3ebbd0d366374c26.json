@@ -1,0 +1,14 @@
+{
+  "hash": "3ebbd0d366374c26",
+  "source": "The migration steps for each change, and everything else the upgrade brings, are documented in the {0}Nuxt 5 upgrade guide{/0}.",
+  "text": "Die Migrationsschritte für jede Änderung und alles Weitere, was das Upgrade mit sich bringt, sind in der {0}Upgrade-Anleitung für Nuxt 5{/0} dokumentiert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Migrationsschritte für jede Änderung und alles Weitere, was das Upgrade mit sich bringt, sind in der {0}Upgrade-Anleitung für Nuxt 5{/0} dokumentiert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

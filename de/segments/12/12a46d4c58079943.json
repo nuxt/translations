@@ -1,0 +1,14 @@
+{
+  "hash": "12a46d4c58079943",
+  "source": "If your module takes more than **1 second** to setup, Nuxt will emit a warning about it.",
+  "text": "Wenn das Setup deines Moduls länger als **1 Sekunde** dauert, gibt Nuxt dazu eine Warnung aus.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn das Setup deines Moduls länger als **1 Sekunde** dauert, gibt Nuxt dazu eine Warnung aus."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

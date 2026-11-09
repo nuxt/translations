@@ -1,0 +1,14 @@
+{
+  "hash": "e81f592cb6eaeb68",
+  "source": "Option 1: Environment variable at build time",
+  "text": "Option 1: Umgebungsvariable zur Build-Zeit",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Option 1: Umgebungsvariable zur Build-Zeit"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

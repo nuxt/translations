@@ -1,0 +1,14 @@
+{
+  "hash": "8634a11de95d0620",
+  "source": "If your server code or your modules were written for Nitro v2 (they import from {0}, {1} or {2}, or call {3}), set {4} first to get the app running, then migrate one part at a time. See {5}Nitro v2 Compatibility{/5}.",
+  "text": "Wenn dein Servercode oder deine Module für Nitro v2 geschrieben wurden (sie importieren aus {0}, {1} oder {2} oder rufen {3} auf), setze zuerst {4}, damit die Anwendung läuft, und migriere dann Schritt für Schritt. Siehe {5}Nitro-v2-Kompatibilität{/5}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn dein Servercode oder deine Module für Nitro v2 geschrieben wurden (sie importieren aus {0}, {1} oder {2} oder rufen {3} auf), setze zuerst {4}, damit die Anwendung läuft, und migriere dann Schritt für Schritt. Siehe {5}Nitro-v2-Kompatibilität{/5}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

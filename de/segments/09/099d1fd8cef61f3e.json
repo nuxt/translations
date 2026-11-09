@@ -1,0 +1,14 @@
+{
+  "hash": "099d1fd8cef61f3e",
+  "source": "{0}: whether to resolve the async function after loading the route, instead of blocking client-side navigation (defaults to {1})",
+  "text": "{0}: legt fest, ob die asynchrone Funktion erst nach dem Laden der Route aufgelöst wird, statt die clientseitige Navigation zu blockieren (Standardwert: {1})",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: legt fest, ob die asynchrone Funktion erst nach dem Laden der Route aufgelöst wird, statt die clientseitige Navigation zu blockieren (Standardwert: {1})"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

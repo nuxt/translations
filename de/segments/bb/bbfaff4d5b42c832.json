@@ -1,0 +1,14 @@
+{
+  "hash": "bbfaff4d5b42c832",
+  "source": "With {0}, routing is case-sensitive by default to match Nitro. Set {1} to {2} to opt out.",
+  "text": "Mit {0} unterscheidet das Routing standardmäßig zwischen Groß- und Kleinschreibung, passend zu Nitro. Setze {1} auf {2}, um das zu deaktivieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit {0} unterscheidet das Routing standardmäßig zwischen Groß- und Kleinschreibung, passend zu Nitro. Setze {1} auf {2}, um das zu deaktivieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

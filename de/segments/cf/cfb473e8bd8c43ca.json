@@ -1,0 +1,14 @@
+{
+  "hash": "cfb473e8bd8c43ca",
+  "source": "Access to the cached value of useAsyncData in todos.vue",
+  "text": "Zugriff auf den zwischengespeicherten Wert von useAsyncData in todos.vue",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Zugriff auf den zwischengespeicherten Wert von useAsyncData in todos.vue"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

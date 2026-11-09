@@ -1,0 +1,14 @@
+{
+  "hash": "9d5a7e9765e9aea9",
+  "source": "Nuxt Kit provides a set of utilities to help you access and modify Nuxt runtime configuration.",
+  "text": "Nuxt Kit stellt eine Reihe von Hilfsfunktionen bereit, mit denen du auf die Laufzeitkonfiguration von Nuxt zugreifen und sie ändern kannst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Kit stellt eine Reihe von Hilfsfunktionen bereit, mit denen du auf die Laufzeitkonfiguration von Nuxt zugreifen und sie ändern kannst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

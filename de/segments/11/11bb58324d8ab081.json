@@ -1,0 +1,14 @@
+{
+  "hash": "11bb58324d8ab081",
+  "source": "Global route middleware, placed in the {0} with a {1} suffix and is run on every route change.",
+  "text": "Globale Routen-Middleware wird im Verzeichnis {0} abgelegt, trägt das Suffix {1} und wird bei jedem Routenwechsel ausgeführt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Globale Routen-Middleware wird im Verzeichnis {0} abgelegt, trägt das Suffix {1} und wird bei jedem Routenwechsel ausgeführt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "3bccc688dd832167",
+  "source": "A collaborative project for a stable translation process for Nuxt docs. Currently pending for ideas and documentation tooling support.",
+  "text": "Ein gemeinschaftliches Projekt für einen stabilen Übersetzungsprozess der Nuxt-Dokumentation. Derzeit stehen noch Ideen und Unterstützung durch Dokumentations-Tooling aus.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein gemeinschaftliches Projekt für einen stabilen Übersetzungsprozess der Nuxt-Dokumentation. Derzeit stehen noch Ideen und Unterstützung durch Dokumentations-Tooling aus."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "9a956e827f0ce569",
+  "source": "During client-side navigation, Nuxt fetches the {0} file for the destination route and reuses the extracted data instead of running the data fetching again in the browser.",
+  "text": "Bei der clientseitigen Navigation ruft Nuxt die {0}-Datei der Zielroute ab und verwendet die extrahierten Daten wieder, anstatt den Datenabruf im Browser erneut auszuführen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bei der clientseitigen Navigation ruft Nuxt die {0}-Datei der Zielroute ab und verwendet die extrahierten Daten wieder, anstatt den Datenabruf im Browser erneut auszuführen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

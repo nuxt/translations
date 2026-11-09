@@ -1,0 +1,14 @@
+{
+  "hash": "27c65e8a16b87ffb",
+  "source": "This allows the {0} module to be used within the Nitro context.",
+  "text": "Dadurch kann das Modul {0} im Nitro-Kontext verwendet werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dadurch kann das Modul {0} im Nitro-Kontext verwendet werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

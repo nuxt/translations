@@ -1,0 +1,14 @@
+{
+  "hash": "680f43abb9dc75fb",
+  "source": "The {0} transformation to automatically restore context seems buggy with {1} statements containing {2} which ultimately needs to be solved in order to remove the requirement of the workaround suggested above.",
+  "text": "Die Transformation von {0} zur automatischen Wiederherstellung des Kontexts scheint bei {1}-Anweisungen, die {2} enthalten, fehlerhaft zu sein. Das muss letztlich behoben werden, damit der oben vorgeschlagene Workaround nicht mehr nötig ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Transformation von {0} zur automatischen Wiederherstellung des Kontexts scheint bei {1}-Anweisungen, die {2} enthalten, fehlerhaft zu sein. Das muss letztlich behoben werden, damit der oben vorgeschlagene Workaround nicht mehr nötig ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

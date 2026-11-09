@@ -1,0 +1,14 @@
+{
+  "hash": "d3784c90efe18eaa",
+  "source": "Server components are still marked experimental. You can follow the roadmap on GitHub.",
+  "text": "Serverkomponenten sind weiterhin als experimentell markiert. Du kannst die Roadmap auf GitHub verfolgen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Serverkomponenten sind weiterhin als experimentell markiert. Du kannst die Roadmap auf GitHub verfolgen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

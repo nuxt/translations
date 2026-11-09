@@ -1,0 +1,14 @@
+{
+  "hash": "5dc95c73bf998f69",
+  "source": "Put styles that gate the initial paint in a global CSS file ({0}); these reach the shell {1}.",
+  "text": "Lege Styles, die den ersten Paint beeinflussen, in einer globalen CSS-Datei ({0}) ab; diese erreichen den Shell-{1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lege Styles, die den ersten Paint beeinflussen, in einer globalen CSS-Datei ({0}) ab; diese erreichen den Shell-{1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

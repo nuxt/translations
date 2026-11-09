@@ -1,0 +1,14 @@
+{
+  "hash": "9a6b98892158ab54",
+  "source": "Choosing the Right File",
+  "text": "Die passende Datei auswählen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die passende Datei auswählen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

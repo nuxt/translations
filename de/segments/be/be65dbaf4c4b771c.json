@@ -1,0 +1,14 @@
+{
+  "hash": "be65dbaf4c4b771c",
+  "source": "**{0} and {1} are not Nitro v3 hooks.** They will work in the compatibility layer, but you should move to the {2} hook, which receives the built {3}. Note that (even with the compatibility layer) a hook that replaces {4}, or reads it while streaming, is not supported.",
+  "text": "**{0} und {1} sind keine Nitro-v3-hooks.** Sie funktionieren in der Kompatibilitätsschicht, du solltest aber auf den hook {2} umsteigen, der das erstellte {3} erhält. Beachte, dass ein hook, der {4} ersetzt oder beim Streaming liest, auch mit der Kompatibilitätsschicht nicht unterstützt wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0} und {1} sind keine Nitro-v3-hooks.** Sie funktionieren in der Kompatibilitätsschicht, du solltest aber auf den hook {2} umsteigen, der das erstellte {3} erhält. Beachte, dass ein hook, der {4} ersetzt oder beim Streaming liest, auch mit der Kompatibilitätsschicht nicht unterstützt wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

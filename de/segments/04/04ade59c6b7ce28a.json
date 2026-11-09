@@ -1,0 +1,14 @@
+{
+  "hash": "04ade59c6b7ce28a",
+  "source": "{0}: Request is in progress",
+  "text": "{0}: Die Anfrage läuft",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Die Anfrage läuft"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

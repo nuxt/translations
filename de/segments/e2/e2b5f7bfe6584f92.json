@@ -1,0 +1,14 @@
+{
+  "hash": "e2b5f7bfe6584f92",
+  "source": "Both Vue 3 and Nuxt 3+ are written in TypeScript. A fully typed codebase prevents mistakes and documents APIs usage. This doesn’t mean that you have to write your application in TypeScript to take advantage of it. With Nuxt 3, you can opt-in by renaming your file from {0} to {1} , or add {2} in a component.",
+  "text": "Sowohl Vue 3 als auch Nuxt 3+ sind in TypeScript geschrieben. Eine vollständig typisierte Codebasis verhindert Fehler und dokumentiert die Verwendung von APIs. Das heißt nicht, dass du deine Anwendung in TypeScript schreiben musst, um davon zu profitieren. Mit Nuxt 3 kannst du TypeScript aktivieren, indem du deine Datei von {0} in {1} umbenennst oder {2} in einer Komponente hinzufügst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sowohl Vue 3 als auch Nuxt 3+ sind in TypeScript geschrieben. Eine vollständig typisierte Codebasis verhindert Fehler und dokumentiert die Verwendung von APIs. Das heißt nicht, dass du deine Anwendung in TypeScript schreiben musst, um davon zu profitieren. Mit Nuxt 3 kannst du TypeScript aktivieren, indem du deine Datei von {0} in {1} umbenennst oder {2} in einer Komponente hinzufügst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

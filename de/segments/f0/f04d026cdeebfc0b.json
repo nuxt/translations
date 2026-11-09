@@ -1,0 +1,14 @@
+{
+  "hash": "f04d026cdeebfc0b",
+  "source": "useHead customizes the head properties of individual pages of your Nuxt app.",
+  "text": "useHead passt die Head-Eigenschaften einzelner Seiten deiner Nuxt-App an.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "useHead passt die Head-Eigenschaften einzelner Seiten deiner Nuxt-App an."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

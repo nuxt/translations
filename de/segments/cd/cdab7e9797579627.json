@@ -1,0 +1,14 @@
+{
+  "hash": "cdab7e9797579627",
+  "source": "'chokidar' or 'parcel' are also options",
+  "text": "'chokidar' oder 'parcel' sind ebenfalls möglich",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "'chokidar' oder 'parcel' sind ebenfalls möglich"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

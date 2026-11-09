@@ -1,0 +1,14 @@
+{
+  "hash": "9fc39b3ca4900964",
+  "source": "A family that is only used in an inline {0} attribute, an SVG, or a family chosen at runtime is not found. Declare it with {1} to load it on every page, as before:",
+  "text": "Eine Schriftfamilie, die nur in einem Inline-Attribut {0}, in einer SVG oder als zur Laufzeit gewählte Familie verwendet wird, wird nicht gefunden. Deklariere sie mit {1}, um sie wie bisher auf jeder Seite zu laden:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine Schriftfamilie, die nur in einem Inline-Attribut {0}, in einer SVG oder als zur Laufzeit gewählte Familie verwendet wird, wird nicht gefunden. Deklariere sie mit {1}, um sie wie bisher auf jeder Seite zu laden:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

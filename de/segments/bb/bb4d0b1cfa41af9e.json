@@ -1,0 +1,14 @@
+{
+  "hash": "bb4d0b1cfa41af9e",
+  "source": "{0} - Extend the default middleware",
+  "text": "{0} – Erweitert die Standard-Middleware",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} – Erweitert die Standard-Middleware"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

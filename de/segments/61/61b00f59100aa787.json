@@ -1,0 +1,14 @@
+{
+  "hash": "61b00f59100aa787",
+  "source": "Called after Nitro is initialized, which allows registering Nitro hooks and interacting directly with Nitro.",
+  "text": "Wird aufgerufen, nachdem Nitro initialisiert wurde. Damit lassen sich Nitro-Hooks registrieren und direkt mit Nitro interagieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird aufgerufen, nachdem Nitro initialisiert wurde. Damit lassen sich Nitro-Hooks registrieren und direkt mit Nitro interagieren."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

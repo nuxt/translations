@@ -1,0 +1,14 @@
+{
+  "hash": "96b7cf3f1a58d91e",
+  "source": "Font providers are designed to be pluggable and extensible, so no matter your setup you should be able to use an existing provider or write your own.",
+  "text": "Font-Provider sind modular und erweiterbar aufgebaut. Egal wie dein Setup aussieht, du kannst einen vorhandenen Provider verwenden oder einen eigenen schreiben.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Font-Provider sind modular und erweiterbar aufgebaut. Egal wie dein Setup aussieht, du kannst einen vorhandenen Provider verwenden oder einen eigenen schreiben."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

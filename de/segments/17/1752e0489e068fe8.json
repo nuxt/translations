@@ -1,0 +1,14 @@
+{
+  "hash": "1752e0489e068fe8",
+  "source": "Linking to Static Files",
+  "text": "Auf statische Dateien verlinken",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auf statische Dateien verlinken"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "2d0bac1756a037a5",
+  "source": "If the page error is fixed and this is still reported, the failure is inside head rendering itself. Check any {0} tag getter that reads state which may not exist while the app is in an error state, and please report it with the cause shown in the diagnostic.",
+  "text": "Wenn der Seitenfehler behoben ist und diese Meldung weiterhin erscheint, liegt der Fehler im Head-Rendering selbst. Prüfe alle Getter für {0}-Tags, die einen Zustand lesen, der möglicherweise nicht existiert, während sich die App in einem Fehlerzustand befindet, und melde das Problem bitte mit der in der Diagnose angezeigten Ursache.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn der Seitenfehler behoben ist und diese Meldung weiterhin erscheint, liegt der Fehler im Head-Rendering selbst. Prüfe alle Getter für {0}-Tags, die einen Zustand lesen, der möglicherweise nicht existiert, während sich die App in einem Fehlerzustand befindet, und melde das Problem bitte mit der in der Diagnose angezeigten Ursache."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "65ead872a86c94c9",
+  "source": "Each family is preloaded with the option given for it, which takes the same shape as the {0} option of a family. A family named in more than one rule is preloaded with the faces the first of them asks for.",
+  "text": "Jede Familie wird mit der für sie angegebenen Option vorgeladen, die dieselbe Form hat wie die Option {0} einer Familie. Wird eine Familie in mehr als einer Regel genannt, wird sie mit den Schriftschnitten vorgeladen, die die erste dieser Regeln anfordert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Jede Familie wird mit der für sie angegebenen Option vorgeladen, die dieselbe Form hat wie die Option {0} einer Familie. Wird eine Familie in mehr als einer Regel genannt, wird sie mit den Schriftschnitten vorgeladen, die die erste dieser Regeln anfordert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

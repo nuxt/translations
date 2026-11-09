@@ -1,0 +1,14 @@
+{
+  "hash": "a6aea23240cefbf9",
+  "source": "This wrapper around useFetch triggers navigation immediately.",
+  "text": "Dieser Wrapper um useFetch löst die Navigation sofort aus.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dieser Wrapper um useFetch löst die Navigation sofort aus."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

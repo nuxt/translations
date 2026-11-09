@@ -1,0 +1,14 @@
+{
+  "hash": "0cac825d0eb15d8b",
+  "source": "This produces the following result when navigating between pages:",
+  "text": "Beim Navigieren zwischen Seiten ergibt das folgendes Ergebnis:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Beim Navigieren zwischen Seiten ergibt das folgendes Ergebnis:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

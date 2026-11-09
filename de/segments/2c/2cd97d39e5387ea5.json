@@ -1,0 +1,14 @@
+{
+  "hash": "2cd97d39e5387ea5",
+  "source": "The {0}Nuxt module ecosystem{/0} represents more than 35 million monthly NPM downloads and provides extended functionalities and integrations with all sort of tools. You can be part of this ecosystem!",
+  "text": "Das {0}Nuxt-Modul-Ökosystem{/0} kommt auf mehr als 35 Millionen NPM-Downloads pro Monat und bietet erweiterte Funktionen sowie Integrationen mit allen möglichen Tools. Du kannst Teil dieses Ökosystems werden!",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das {0}Nuxt-Modul-Ökosystem{/0} kommt auf mehr als 35 Millionen NPM-Downloads pro Monat und bietet erweiterte Funktionen sowie Integrationen mit allen möglichen Tools. Du kannst Teil dieses Ökosystems werden!"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

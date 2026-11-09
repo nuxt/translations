@@ -1,0 +1,14 @@
+{
+  "hash": "7202de931f780ec9",
+  "source": "Nuxt is a full-stack framework, which means there are several sources of unpreventable user runtime errors that can happen in different contexts:",
+  "text": "Nuxt ist ein Full-Stack-Framework. Daher gibt es mehrere Quellen unvermeidbarer Laufzeitfehler für Nutzende, die in unterschiedlichen Kontexten auftreten können:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt ist ein Full-Stack-Framework. Daher gibt es mehrere Quellen unvermeidbarer Laufzeitfehler für Nutzende, die in unterschiedlichen Kontexten auftreten können:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

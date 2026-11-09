@@ -1,0 +1,14 @@
+{
+  "hash": "91e6bafe8fe963af",
+  "source": "Default values for KeepAlive configuration between pages.",
+  "text": "Standardwerte für die KeepAlive-Konfiguration zwischen Seiten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardwerte für die KeepAlive-Konfiguration zwischen Seiten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

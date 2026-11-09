@@ -1,0 +1,14 @@
+{
+  "hash": "88addca696a80c23",
+  "source": "The option of a family belongs either here or in the {0} option of the family, not in both. A family named in a rule is not preloaded on any other route, so an option set for it in {1} has no effect.",
+  "text": "Die Option einer Familie gehört entweder hierher oder in die Option {0} der Familie, nicht in beide. Eine Familie, die in einer Regel genannt wird, wird auf keiner anderen Route vorgeladen, daher hat eine dafür in {1} gesetzte Option keine Wirkung.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Option einer Familie gehört entweder hierher oder in die Option {0} der Familie, nicht in beide. Eine Familie, die in einer Regel genannt wird, wird auf keiner anderen Route vorgeladen, daher hat eine dafür in {1} gesetzte Option keine Wirkung."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

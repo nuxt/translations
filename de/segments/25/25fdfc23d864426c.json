@@ -1,0 +1,14 @@
+{
+  "hash": "25fdfc23d864426c",
+  "source": "These behaviors changed with Nitro v3 and may require further updates in your code:",
+  "text": "Dieses Verhalten hat sich mit Nitro v3 geändert und erfordert möglicherweise weitere Anpassungen in deinem Code:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dieses Verhalten hat sich mit Nitro v3 geändert und erfordert möglicherweise weitere Anpassungen in deinem Code:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

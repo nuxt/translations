@@ -1,0 +1,14 @@
+{
+  "hash": "615169e4b6bd4109",
+  "source": "Customize the default error page by adding {0} in the source directory of your application, alongside {1}.",
+  "text": "Passe die Standard-Fehlerseite an, indem du {0} im Quellverzeichnis deiner Anwendung neben {1} hinzufügst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Passe die Standard-Fehlerseite an, indem du {0} im Quellverzeichnis deiner Anwendung neben {1} hinzufügst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

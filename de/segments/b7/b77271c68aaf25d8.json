@@ -1,0 +1,14 @@
+{
+  "hash": "b77271c68aaf25d8",
+  "source": "**Broken interactivity**: Event listeners may not attach properly, leaving buttons and forms non-functional",
+  "text": "**Fehlende Interaktivität**: Event-Listener werden möglicherweise nicht korrekt angehängt, sodass Buttons und Formulare nicht funktionieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Fehlende Interaktivität**: Event-Listener werden möglicherweise nicht korrekt angehängt, sodass Buttons und Formulare nicht funktionieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

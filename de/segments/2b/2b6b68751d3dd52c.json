@@ -1,0 +1,14 @@
+{
+  "hash": "2b6b68751d3dd52c",
+  "source": "Registered Plugins",
+  "text": "Registrierte Plugins",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Registrierte Plugins"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

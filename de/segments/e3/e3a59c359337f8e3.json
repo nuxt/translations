@@ -1,0 +1,14 @@
+{
+  "hash": "e3a59c359337f8e3",
+  "source": "When userId changes, the data will be automatically refetched",
+  "text": "Wenn sich userId ändert, werden die Daten automatisch erneut abgerufen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn sich userId ändert, werden die Daten automatisch erneut abgerufen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

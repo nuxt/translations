@@ -1,0 +1,14 @@
+{
+  "hash": "8fe9684613741cec",
+  "source": "the {0} hook with {1}: runtime, per request (e.g. for routes that conditionally set a 404).",
+  "text": "der {0}-Hook mit {1}: zur Laufzeit, pro Anfrage (z. B. für Routen, die bedingt einen 404-Status setzen).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "der {0}-Hook mit {1}: zur Laufzeit, pro Anfrage (z. B. für Routen, die bedingt einen 404-Status setzen)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

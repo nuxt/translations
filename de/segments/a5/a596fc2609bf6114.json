@@ -1,0 +1,14 @@
+{
+  "hash": "a596fc2609bf6114",
+  "source": "Array of reactive sources to watch and auto-refresh.",
+  "text": "Array reaktiver Quellen, die beobachtet und bei Änderungen automatisch neu geladen werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Array reaktiver Quellen, die beobachtet und bei Änderungen automatisch neu geladen werden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

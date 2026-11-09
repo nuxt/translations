@@ -1,0 +1,14 @@
+{
+  "hash": "f30a512d0a3cead1",
+  "source": "Watch Vue School video about passing and exposing Nuxt module options.",
+  "text": "Sieh dir das Vue-School-Video über das Übergeben und Bereitstellen von Nuxt-Modul-Optionen an.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sieh dir das Vue-School-Video über das Übergeben und Bereitstellen von Nuxt-Modul-Optionen an."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

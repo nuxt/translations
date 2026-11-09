@@ -1,0 +1,14 @@
+{
+  "hash": "1fd72df42961dfeb",
+  "source": "SCSS file in the project",
+  "text": "SCSS-Datei im Projekt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "SCSS-Datei im Projekt"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

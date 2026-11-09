@@ -1,0 +1,14 @@
+{
+  "hash": "ad0597a873817af1",
+  "source": "needs Redis >= 6",
+  "text": "benötigt Redis >= 6",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "benötigt Redis >= 6"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

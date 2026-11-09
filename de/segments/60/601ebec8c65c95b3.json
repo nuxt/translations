@@ -1,0 +1,14 @@
+{
+  "hash": "601ebec8c65c95b3",
+  "source": "This allows specifying the default options for core Nuxt components and composables.",
+  "text": "Hiermit lassen sich die Standardoptionen für zentrale Nuxt-Komponenten und Composables festlegen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Hiermit lassen sich die Standardoptionen für zentrale Nuxt-Komponenten und Composables festlegen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "a5beb3489c86a495",
+  "source": "{0} - Add specific headers to sections of your site - for example, your assets",
+  "text": "{0} – Fügt bestimmten Teilen deiner Website spezifische Header hinzu, zum Beispiel deinen Assets.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} – Fügt bestimmten Teilen deiner Website spezifische Header hinzu, zum Beispiel deinen Assets."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

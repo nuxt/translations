@@ -1,0 +1,14 @@
+{
+  "hash": "8ed5d3fbb17cc82e",
+  "source": "Controls which {0} declarations get a {1} in the initially rendered HTML. Preload hints are only rendered in production builds.",
+  "text": "Steuert, welche {0}-Deklarationen im initial gerenderten HTML einen {1} erhalten. Preload-Hinweise werden nur in Produktions-Builds gerendert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Steuert, welche {0}-Deklarationen im initial gerenderten HTML einen {1} erhalten. Preload-Hinweise werden nur in Produktions-Builds gerendert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e1b3bf712b01ce3f",
+  "source": "**The Options API is not supported** in Vapor components, so {0} and {1} via {2} are unavailable. Use {3} with {4} instead.",
+  "text": "**Die Options API wird in Vapor-Komponenten nicht unterstützt**, daher sind {0} und {1} über {2} nicht verfügbar. Verwende stattdessen {3} mit {4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Die Options API wird in Vapor-Komponenten nicht unterstützt**, daher sind {0} und {1} über {2} nicht verfügbar. Verwende stattdessen {3} mit {4}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "839a80e02c8742c2",
+  "source": "For handling more complex situations and more safety, we recommend {0}mlly{/0}, which can preserve named exports.",
+  "text": "Für komplexere Situationen und mehr Sicherheit empfehlen wir {0}mlly{/0}, das benannte Exporte beibehalten kann.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Für komplexere Situationen und mehr Sicherheit empfehlen wir {0}mlly{/0}, das benannte Exporte beibehalten kann."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

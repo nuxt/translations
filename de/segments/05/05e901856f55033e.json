@@ -1,0 +1,14 @@
+{
+  "hash": "05e901856f55033e",
+  "source": "This flag indicates, component should be loaded async (with a separate chunk) regardless of using Lazy prefix or not.",
+  "text": "Dieses Flag gibt an, dass die Komponente asynchron (in einem separaten Chunk) geladen werden soll, unabhängig davon, ob das Präfix Lazy verwendet wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dieses Flag gibt an, dass die Komponente asynchron (in einem separaten Chunk) geladen werden soll, unabhängig davon, ob das Präfix Lazy verwendet wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

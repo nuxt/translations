@@ -1,0 +1,14 @@
+{
+  "hash": "c8a793c2619b99e4",
+  "source": "Nuxt auto-imports components, composables, helper functions and Vue APIs.",
+  "text": "Nuxt importiert Komponenten, Composables, Hilfsfunktionen und Vue-APIs automatisch.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt importiert Komponenten, Composables, Hilfsfunktionen und Vue-APIs automatisch."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

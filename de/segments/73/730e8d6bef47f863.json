@@ -1,0 +1,14 @@
+{
+  "hash": "730e8d6bef47f863",
+  "source": "The Nuxt Context",
+  "text": "Der Nuxt-Kontext",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Nuxt-Kontext"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "c774c0a3a9f5cdea",
+  "source": "File names and paths: {0}, {1}",
+  "text": "Dateinamen und Pfade: {0}, {1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dateinamen und Pfade: {0}, {1}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

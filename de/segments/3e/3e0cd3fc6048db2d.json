@@ -1,0 +1,14 @@
+{
+  "hash": "3e0cd3fc6048db2d",
+  "source": "libraries are not included in your client bundle",
+  "text": "Syntaxhervorhebung sind nicht in deinem Client-Bundle enthalten",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Syntaxhervorhebung sind nicht in deinem Client-Bundle enthalten"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "fa02f8f3ba0d5e9b",
+  "source": "Optional, when using transitions",
+  "text": "Optional, wenn Übergänge verwendet werden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Optional, wenn Übergänge verwendet werden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

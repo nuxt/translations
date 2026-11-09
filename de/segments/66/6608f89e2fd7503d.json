@@ -1,0 +1,14 @@
+{
+  "hash": "6608f89e2fd7503d",
+  "source": "{0}, as shown {1}above{/1}. Only needed for families you want to configure.",
+  "text": "{0}, wie {1}oben{/1} gezeigt. Nur für Schriftfamilien nötig, die du konfigurieren möchtest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}, wie {1}oben{/1} gezeigt. Nur für Schriftfamilien nötig, die du konfigurieren möchtest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

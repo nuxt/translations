@@ -1,0 +1,14 @@
+{
+  "hash": "a2d460083dcb91d7",
+  "source": "This will be stringified and passed from server to client",
+  "text": "Dies wird serialisiert und vom Server an den Client übergeben",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dies wird serialisiert und vom Server an den Client übergeben"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

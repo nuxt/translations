@@ -1,0 +1,14 @@
+{
+  "hash": "5de456a976a6a353",
+  "source": "This option exists only while both typings are supported. From Nuxt 5 the generated route set is the only source and the option is gone.",
+  "text": "Diese Option gibt es nur, solange beide Typisierungen unterstützt werden. Ab Nuxt 5 ist die generierte Routenmenge die einzige Quelle und die Option entfällt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese Option gibt es nur, solange beide Typisierungen unterstützt werden. Ab Nuxt 5 ist die generierte Routenmenge die einzige Quelle und die Option entfällt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

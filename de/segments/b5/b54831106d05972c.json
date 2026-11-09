@@ -1,0 +1,14 @@
+{
+  "hash": "b54831106d05972c",
+  "source": "An object of aliases. Default is Nuxt configured aliases.",
+  "text": "Ein Objekt mit Aliassen. Standardmäßig die in Nuxt konfigurierten Aliasse.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein Objekt mit Aliassen. Standardmäßig die in Nuxt konfigurierten Aliasse."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

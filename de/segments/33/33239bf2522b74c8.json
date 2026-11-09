@@ -1,0 +1,14 @@
+{
+  "hash": "33239bf2522b74c8",
+  "source": "You can also define the common structure of your application directly in {0}. This is useful when you want to include global elements such as a header or footer:",
+  "text": "Du kannst die gemeinsame Struktur deiner Anwendung auch direkt in {0} definieren. Das ist nützlich, wenn du globale Elemente wie eine Kopf- oder Fußzeile einbinden möchtest:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst die gemeinsame Struktur deiner Anwendung auch direkt in {0} definieren. Das ist nützlich, wenn du globale Elemente wie eine Kopf- oder Fußzeile einbinden möchtest:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

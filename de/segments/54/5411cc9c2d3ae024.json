@@ -1,0 +1,14 @@
+{
+  "hash": "5411cc9c2d3ae024",
+  "source": "You can read more about Nitro route rules in the {0}Nitro documentation{/0}.",
+  "text": "Mehr über Nitro-Routing-Regeln erfährst du in der {0}Nitro-Dokumentation{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mehr über Nitro-Routing-Regeln erfährst du in der {0}Nitro-Dokumentation{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

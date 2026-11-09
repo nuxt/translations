@@ -1,0 +1,14 @@
+{
+  "hash": "b944cc0d2c9dd535",
+  "source": "Override route rule config, default is false",
+  "text": "Routing-Regel-Konfiguration überschreiben, Standardwert ist false",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Routing-Regel-Konfiguration überschreiben, Standardwert ist false"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

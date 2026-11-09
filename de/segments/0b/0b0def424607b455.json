@@ -1,0 +1,14 @@
+{
+  "hash": "0b0def424607b455",
+  "source": "Breaking or significant changes are documented below along with migration steps and available configuration options.",
+  "text": "Inkompatible oder bedeutende Änderungen sind unten zusammen mit den Migrationsschritten und den verfügbaren Konfigurationsoptionen dokumentiert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Inkompatible oder bedeutende Änderungen sind unten zusammen mit den Migrationsschritten und den verfügbaren Konfigurationsoptionen dokumentiert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

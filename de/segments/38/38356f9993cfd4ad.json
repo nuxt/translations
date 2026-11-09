@@ -1,0 +1,14 @@
+{
+  "hash": "38356f9993cfd4ad",
+  "source": "{0}: re-render the component with new props. Also records a {1} trace mark.",
+  "text": "{0}: rendert die Komponente mit neuen Props erneut. Erfasst außerdem eine {1}-Trace-Markierung.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: rendert die Komponente mit neuen Props erneut. Erfasst außerdem eine {1}-Trace-Markierung."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

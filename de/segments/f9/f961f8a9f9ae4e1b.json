@@ -1,0 +1,14 @@
+{
+  "hash": "f961f8a9f9ae4e1b",
+  "source": "Configuration loading and extends support is handled by {0}unjs/c12{/0}, merged using {1}unjs/defu{/1} and remote git sources are supported using {2}unjs/giget{/2}. Check the docs and source code to learn more.",
+  "text": "Das Laden der Konfiguration und die Unterstützung von extends übernimmt {0}unjs/c12{/0}, das Zusammenführen erfolgt mit {1}unjs/defu{/1}, und Remote-Git-Quellen werden mit {2}unjs/giget{/2} unterstützt. Weitere Informationen findest du in der Dokumentation und im Quellcode.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Laden der Konfiguration und die Unterstützung von extends übernimmt {0}unjs/c12{/0}, das Zusammenführen erfolgt mit {1}unjs/defu{/1}, und Remote-Git-Quellen werden mit {2}unjs/giget{/2} unterstützt. Weitere Informationen findest du in der Dokumentation und im Quellcode."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

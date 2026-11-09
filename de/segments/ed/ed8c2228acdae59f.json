@@ -1,0 +1,14 @@
+{
+  "hash": "ed8c2228acdae59f",
+  "source": "Here are some advanced patterns for authoring modules, including hooks, templates, and type augmentation.",
+  "text": "Hier findest du einige fortgeschrittene Muster für die Entwicklung von Modulen, darunter Hooks, Vorlagen und Typerweiterungen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Hier findest du einige fortgeschrittene Muster für die Entwicklung von Modulen, darunter Hooks, Vorlagen und Typerweiterungen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

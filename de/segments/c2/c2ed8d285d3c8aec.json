@@ -1,0 +1,14 @@
+{
+  "hash": "c2ed8d285d3c8aec",
+  "source": "This only works with static or strings/arrays rather than variables or conditional assignment. See {0}original issue{/0} for more information and context.",
+  "text": "Das funktioniert nur mit statischen Werten bzw. Strings und Arrays, nicht mit Variablen oder bedingter Zuweisung. Weitere Informationen und Hintergründe findest du im {0}ursprünglichen Issue{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das funktioniert nur mit statischen Werten bzw. Strings und Arrays, nicht mit Variablen oder bedingter Zuweisung. Weitere Informationen und Hintergründe findest du im {0}ursprünglichen Issue{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

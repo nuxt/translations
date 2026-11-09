@@ -1,0 +1,14 @@
+{
+  "hash": "51167d3c3158890b",
+  "source": "Read more about the available commands.",
+  "text": "Mehr über die verfügbaren Befehle erfährst du hier.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mehr über die verfügbaren Befehle erfährst du hier."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

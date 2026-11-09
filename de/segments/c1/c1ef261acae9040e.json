@@ -1,0 +1,14 @@
+{
+  "hash": "c1ef261acae9040e",
+  "source": "Payload extraction also works for routes using ISR (Incremental Static Regeneration) or SWR (Stale-While-Revalidate) caching strategies. This allows CDNs to cache payload files alongside HTML, improving client-side navigation performance for cached routes.",
+  "text": "Die Payload-Extraktion funktioniert auch für Routen, die ISR (Incremental Static Regeneration) oder SWR (Stale-While-Revalidate) als Caching-Strategie verwenden. So können CDNs Payload-Dateien zusammen mit HTML cachen, was die clientseitige Navigation für zwischengespeicherte Routen beschleunigt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Payload-Extraktion funktioniert auch für Routen, die ISR (Incremental Static Regeneration) oder SWR (Stale-While-Revalidate) als Caching-Strategie verwenden. So können CDNs Payload-Dateien zusammen mit HTML cachen, was die clientseitige Navigation für zwischengespeicherte Routen beschleunigt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

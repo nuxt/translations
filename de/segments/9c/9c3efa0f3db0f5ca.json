@@ -1,0 +1,14 @@
+{
+  "hash": "9c3efa0f3db0f5ca",
+  "source": "Vue currently only supports async context restoration for {0} for async/await usage. In Nuxt, the transform support for {1} and {2} was added, which means when you use them Nuxt automatically transforms them with context restoration.",
+  "text": "Vue unterstützt die asynchrone Wiederherstellung des Kontexts derzeit nur für {0} bei der Verwendung von async/await. In Nuxt wurde Unterstützung für die Transformation von {1} und {2} hinzugefügt. Das bedeutet: Wenn du sie verwendest, transformiert Nuxt sie automatisch mit Kontextwiederherstellung.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vue unterstützt die asynchrone Wiederherstellung des Kontexts derzeit nur für {0} bei der Verwendung von async/await. In Nuxt wurde Unterstützung für die Transformation von {1} und {2} hinzugefügt. Das bedeutet: Wenn du sie verwendest, transformiert Nuxt sie automatisch mit Kontextwiederherstellung."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

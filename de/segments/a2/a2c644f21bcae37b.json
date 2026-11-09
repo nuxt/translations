@@ -1,0 +1,14 @@
+{
+  "hash": "a2c644f21bcae37b",
+  "source": "**{0}**: The name to register the layout under (e.g., {1}, {2}, etc.).",
+  "text": "**{0}**: Der Name, unter dem das Layout registriert wird (z. B. {1}, {2} usw.).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}**: Der Name, unter dem das Layout registriert wird (z. B. {1}, {2} usw.)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

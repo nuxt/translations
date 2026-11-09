@@ -1,0 +1,14 @@
+{
+  "hash": "34f5aafd098fa5c5",
+  "source": "To opt out of this behavior:",
+  "text": "So deaktivierst du dieses Verhalten:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "So deaktivierst du dieses Verhalten:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

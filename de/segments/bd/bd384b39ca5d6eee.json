@@ -1,0 +1,14 @@
+{
+  "hash": "bd384b39ca5d6eee",
+  "source": "You can follow the server components roadmap on GitHub.",
+  "text": "Du kannst die Roadmap für Serverkomponenten auf GitHub verfolgen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst die Roadmap für Serverkomponenten auf GitHub verfolgen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

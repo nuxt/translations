@@ -1,0 +1,14 @@
+{
+  "hash": "05308ee925bffe56",
+  "source": "Because a single file is served for every missing path, the error page cannot depend on the request: {0}, {1} and data fetched with the current path will hold the build-time values in the prerendered HTML and be corrected on hydration. Wrap request-specific markup in {2}, and skip request-specific data fetching with {3}:",
+  "text": "Da für jeden nicht vorhandenen Pfad dieselbe Datei ausgeliefert wird, darf die Fehlerseite nicht von der Anfrage abhängen: {0}, {1} und mit dem aktuellen Pfad abgerufene Daten enthalten im vorab gerenderten HTML die Werte der Build-Zeit und werden bei der Hydration korrigiert. Umschließe anfragespezifisches Markup mit {2} und überspringe anfragespezifische Datenabrufe mit {3}:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Da für jeden nicht vorhandenen Pfad dieselbe Datei ausgeliefert wird, darf die Fehlerseite nicht von der Anfrage abhängen: {0}, {1} und mit dem aktuellen Pfad abgerufene Daten enthalten im vorab gerenderten HTML die Werte der Build-Zeit und werden bei der Hydration korrigiert. Umschließe anfragespezifisches Markup mit {2} und überspringe anfragespezifische Datenabrufe mit {3}:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

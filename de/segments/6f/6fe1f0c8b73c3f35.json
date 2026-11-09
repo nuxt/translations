@@ -1,0 +1,14 @@
+{
+  "hash": "6fe1f0c8b73c3f35",
+  "source": "You can automate this step by running {0}",
+  "text": "Du kannst diesen Schritt automatisieren, indem du {0} ausführst",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst diesen Schritt automatisieren, indem du {0} ausführst"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

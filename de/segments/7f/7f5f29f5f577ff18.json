@@ -1,0 +1,14 @@
+{
+  "hash": "7f5f29f5f577ff18",
+  "source": "If you have a {0} directory, {1} is identical in behavior to the one provided by {2}.",
+  "text": "Wenn du ein Verzeichnis {0} hast, verhält sich {1} identisch zu dem von {2} bereitgestellten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du ein Verzeichnis {0} hast, verhält sich {1} identisch zu dem von {2} bereitgestellten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

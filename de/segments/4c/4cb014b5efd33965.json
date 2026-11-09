@@ -1,0 +1,14 @@
+{
+  "hash": "4cb014b5efd33965",
+  "source": "When every property of a page's {0} can be resolved statically, the route no longer imports that page's meta module at all, which removes one module per page from the dev module graph.",
+  "text": "Wenn sich alle Eigenschaften des {0} einer Seite statisch auflösen lassen, importiert die Route das Meta-Modul dieser Seite gar nicht mehr. Dadurch entfällt pro Seite ein Modul im Modulgraphen des Entwicklungsservers.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn sich alle Eigenschaften des {0} einer Seite statisch auflösen lassen, importiert die Route das Meta-Modul dieser Seite gar nicht mehr. Dadurch entfällt pro Seite ein Modul im Modulgraphen des Entwicklungsservers."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

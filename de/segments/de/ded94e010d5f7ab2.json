@@ -1,0 +1,14 @@
+{
+  "hash": "ded94e010d5f7ab2",
+  "source": "Resolves path aliases respecting Nuxt alias options.",
+  "text": "Löst Pfad-Aliasse auf und berücksichtigt dabei die Nuxt-Alias-Optionen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Löst Pfad-Aliasse auf und berücksichtigt dabei die Nuxt-Alias-Optionen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

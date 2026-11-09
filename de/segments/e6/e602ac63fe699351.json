@@ -1,0 +1,14 @@
+{
+  "hash": "e602ac63fe699351",
+  "source": "{0}nuxt/{/0} - core repositories for the Nuxt framework itself. {1}**nuxt/nuxt**{/1} contains the Nuxt framework (both versions 2 and 3).",
+  "text": "{0}nuxt/{/0} – zentrale Repositorys für das Nuxt-Framework selbst. {1}**nuxt/nuxt**{/1} enthält das Nuxt-Framework (sowohl Version 2 als auch Version 3).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}nuxt/{/0} – zentrale Repositorys für das Nuxt-Framework selbst. {1}**nuxt/nuxt**{/1} enthält das Nuxt-Framework (sowohl Version 2 als auch Version 3)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

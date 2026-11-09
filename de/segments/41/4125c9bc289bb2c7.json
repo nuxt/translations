@@ -1,0 +1,14 @@
+{
+  "hash": "4125c9bc289bb2c7",
+  "source": "Define route rules at the page level using {0}.",
+  "text": "Definiere Route-Rules auf Seitenebene mit {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Definiere Route-Rules auf Seitenebene mit {0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

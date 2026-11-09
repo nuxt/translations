@@ -1,0 +1,14 @@
+{
+  "hash": "58be56762e44de2c",
+  "source": "A dependency pinned to a pnpm catalog ({0}) is upgraded in {1}, where the version actually lives, rather than in {2}.",
+  "text": "Eine Abhängigkeit, die an einen pnpm-Katalog ({0}) gebunden ist, wird in {1} aktualisiert, wo die Version tatsächlich steht, und nicht in {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine Abhängigkeit, die an einen pnpm-Katalog ({0}) gebunden ist, wird in {1} aktualisiert, wo die Version tatsächlich steht, und nicht in {2}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

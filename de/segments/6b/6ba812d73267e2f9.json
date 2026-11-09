@@ -1,0 +1,14 @@
+{
+  "hash": "6ba812d73267e2f9",
+  "source": "This wrapper around useAsyncData triggers navigation immediately.",
+  "text": "Dieser Wrapper um useAsyncData löst die Navigation sofort aus.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dieser Wrapper um useAsyncData löst die Navigation sofort aus."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

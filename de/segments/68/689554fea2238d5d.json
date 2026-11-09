@@ -1,0 +1,14 @@
+{
+  "hash": "689554fea2238d5d",
+  "source": "Use **American English** spelling (*behavior* rather than *behaviour*, *customize* rather than *customise*).",
+  "text": "Verwende die Schreibweise des **amerikanischen Englisch** (*behavior* statt *behaviour*, *customize* statt *customise*).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwende die Schreibweise des **amerikanischen Englisch** (*behavior* statt *behaviour*, *customize* statt *customise*)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

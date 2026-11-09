@@ -1,0 +1,14 @@
+{
+  "hash": "196708af494422d1",
+  "source": "Much like {0} or {1} (see {2}Vue docs{/2}), {3} is a **compiler macro**. It will be compiled away so you cannot reference it within your component. Instead, the metadata passed to it will be hoisted out of the component. Therefore, the page meta object cannot reference the component. However, it can reference imported bindings, as well as locally defined **pure functions**.",
+  "text": "Ähnlich wie {0} oder {1} (siehe {2}Vue-Dokumentation{/2}) ist {3} ein **Compiler-Makro**. Es wird beim Kompilieren entfernt, sodass du innerhalb deiner Komponente nicht darauf verweisen kannst. Stattdessen werden die übergebenen Metadaten aus der Komponente herausgehoben. Daher kann das Seiten-Meta-Objekt nicht auf die Komponente verweisen. Es kann jedoch auf importierte Bindings sowie lokal definierte **reine Funktionen** verweisen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ähnlich wie {0} oder {1} (siehe {2}Vue-Dokumentation{/2}) ist {3} ein **Compiler-Makro**. Es wird beim Kompilieren entfernt, sodass du innerhalb deiner Komponente nicht darauf verweisen kannst. Stattdessen werden die übergebenen Metadaten aus der Komponente herausgehoben. Daher kann das Seiten-Meta-Objekt nicht auf die Komponente verweisen. Es kann jedoch auf importierte Bindings sowie lokal definierte **reine Funktionen** verweisen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

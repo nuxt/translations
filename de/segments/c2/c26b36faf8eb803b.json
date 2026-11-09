@@ -1,0 +1,14 @@
+{
+  "hash": "c26b36faf8eb803b",
+  "source": "Called after copying public assets. Allows modifying public assets before Nitro server is built.",
+  "text": "Wird aufgerufen, nachdem öffentliche Assets kopiert wurden. Erlaubt es, öffentliche Assets zu ändern, bevor der Nitro-Server erzeugt wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird aufgerufen, nachdem öffentliche Assets kopiert wurden. Erlaubt es, öffentliche Assets zu ändern, bevor der Nitro-Server erzeugt wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

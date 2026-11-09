@@ -1,0 +1,14 @@
+{
+  "hash": "7552bb786fdb8edc",
+  "source": "Or set at the page level",
+  "text": "Oder auf Seitenebene festlegen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Oder auf Seitenebene festlegen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

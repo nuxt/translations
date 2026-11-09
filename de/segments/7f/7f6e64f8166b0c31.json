@@ -1,0 +1,14 @@
+{
+  "hash": "7f6e64f8166b0c31",
+  "source": "👉 See {0}PR #31507{/0} and {1}issue #25719{/1} for more details.",
+  "text": "👉 Weitere Details findest du in {0}PR #31507{/0} und {1}Issue #25719{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "👉 Weitere Details findest du in {0}PR #31507{/0} und {1}Issue #25719{/1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

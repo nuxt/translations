@@ -1,0 +1,14 @@
+{
+  "hash": "96371b93f01044ec",
+  "source": "Module Conventions",
+  "text": "Modulkonventionen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Modulkonventionen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

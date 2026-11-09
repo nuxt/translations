@@ -1,0 +1,14 @@
+{
+  "hash": "270c8cbecc22e69c",
+  "source": "Use {0} for in-app navigation. It renders a real {1}, which means it is focusable, appears in the tab order, and works with middle-click and \"open in new tab\", all of which you would have to reimplement on a {2} with a {3} handler calling {4}.",
+  "text": "Verwende {0} für die Navigation innerhalb der App. Es rendert einen echten {1}, der fokussierbar ist, in der Tab-Reihenfolge erscheint und mit Mittelklick sowie „In neuem Tab öffnen“ funktioniert. All das müsstest du bei einem {2} mit einem {3}-Handler, der {4} aufruft, selbst nachbauen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwende {0} für die Navigation innerhalb der App. Es rendert einen echten {1}, der fokussierbar ist, in der Tab-Reihenfolge erscheint und mit Mittelklick sowie „In neuem Tab öffnen“ funktioniert. All das müsstest du bei einem {2} mit einem {3}-Handler, der {4} aufruft, selbst nachbauen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

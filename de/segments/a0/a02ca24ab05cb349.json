@@ -1,0 +1,14 @@
+{
+  "hash": "a02ca24ab05cb349",
+  "source": "Time Strategy",
+  "text": "Time-Strategie",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Time-Strategie"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

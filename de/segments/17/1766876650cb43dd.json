@@ -1,0 +1,14 @@
+{
+  "hash": "1766876650cb43dd",
+  "source": "Showing Error Page",
+  "text": "Fehlerseite anzeigen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fehlerseite anzeigen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

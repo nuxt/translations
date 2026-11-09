@@ -1,0 +1,14 @@
+{
+  "hash": "70aafc64e1201029",
+  "source": "To preview the docs locally, follow the steps on {0}nuxt/nuxt.com{/0} repository.",
+  "text": "Um die Dokumentation lokal in der Vorschau anzusehen, folge den Schritten im Repository {0}nuxt/nuxt.com{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um die Dokumentation lokal in der Vorschau anzusehen, folge den Schritten im Repository {0}nuxt/nuxt.com{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

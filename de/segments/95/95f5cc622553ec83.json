@@ -1,0 +1,14 @@
+{
+  "hash": "95f5cc622553ec83",
+  "source": "{0} is deprecated. Wrap {1} in an {2} block instead. The auto-import is removed under {3}.",
+  "text": "{0} wird nicht mehr empfohlen. Umschließe stattdessen {1} mit einem {2}-Block. Der automatische Import wird unter {3} entfernt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} wird nicht mehr empfohlen. Umschließe stattdessen {1} mit einem {2}-Block. Der automatische Import wird unter {3} entfernt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

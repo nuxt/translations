@@ -1,0 +1,14 @@
+{
+  "hash": "ce90e8d95a11be6c",
+  "source": "**{0}**: A plugin object or a string with the path to the plugin. If a string is provided, it will be converted to a plugin object with {1} set to the string value.",
+  "text": "**{0}**: Ein Plugin-Objekt oder ein String mit dem Pfad zum Plugin. Wird ein String übergeben, wird er in ein Plugin-Objekt umgewandelt, bei dem {1} auf den String-Wert gesetzt ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}**: Ein Plugin-Objekt oder ein String mit dem Pfad zum Plugin. Wird ein String übergeben, wird er in ein Plugin-Objekt umgewandelt, bei dem {1} auf den String-Wert gesetzt ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

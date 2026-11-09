@@ -1,0 +1,14 @@
+{
+  "hash": "3d34d9cfa422ba4e",
+  "source": "Route groups are automatically available in the route metadata as {0}. This allows you to access the group information in your components for conditional logic, styling, or other purposes.",
+  "text": "Routengruppen sind in den Routen-Metadaten automatisch als {0} verfügbar. So kannst du in deinen Komponenten auf die Gruppeninformationen zugreifen, z. B. für bedingte Logik, Styling oder andere Zwecke.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Routengruppen sind in den Routen-Metadaten automatisch als {0} verfügbar. So kannst du in deinen Komponenten auf die Gruppeninformationen zugreifen, z. B. für bedingte Logik, Styling oder andere Zwecke."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

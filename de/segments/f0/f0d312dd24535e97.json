@@ -1,0 +1,14 @@
+{
+  "hash": "f0d312dd24535e97",
+  "source": "Static sites",
+  "text": "Statische Websites",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Statische Websites"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

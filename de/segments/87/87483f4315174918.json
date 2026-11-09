@@ -1,0 +1,14 @@
+{
+  "hash": "87483f4315174918",
+  "source": "Extends the Vite configuration. Callback function can be called multiple times, when applying to both client and server builds.",
+  "text": "Erweitert die Vite-Konfiguration. Die Callback-Funktion kann mehrfach aufgerufen werden, wenn sie sowohl auf den Client- als auch auf den Server-Build angewendet wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erweitert die Vite-Konfiguration. Die Callback-Funktion kann mehrfach aufgerufen werden, wenn sie sowohl auf den Client- als auch auf den Server-Build angewendet wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

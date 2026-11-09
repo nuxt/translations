@@ -1,0 +1,14 @@
+{
+  "hash": "c0987867f655d863",
+  "source": "Understand Module Types",
+  "text": "Modultypen verstehen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Modultypen verstehen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

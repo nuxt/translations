@@ -1,0 +1,14 @@
+{
+  "hash": "5a6291dee18b3dd6",
+  "source": "Nuxt **used to rely** on the Vuex library to provide global state management. If you are migrating from Nuxt 2, please head to {0}the migration guide{/0}.",
+  "text": "Nuxt **setzte früher** auf die Bibliothek Vuex, um eine globale Zustandsverwaltung bereitzustellen. Wenn du von Nuxt 2 migrierst, findest du alles Weitere in {0}der Migrationsanleitung{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt **setzte früher** auf die Bibliothek Vuex, um eine globale Zustandsverwaltung bereitzustellen. Wenn du von Nuxt 2 migrierst, findest du alles Weitere in {0}der Migrationsanleitung{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

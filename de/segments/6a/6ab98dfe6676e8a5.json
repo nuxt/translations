@@ -1,0 +1,14 @@
+{
+  "hash": "6ab98dfe6676e8a5",
+  "source": "If you have been using just {0} and not {1}, then things are very straightforward.",
+  "text": "Wenn du nur {0} und nicht {1} verwendet hast, ist die Migration sehr unkompliziert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du nur {0} und nicht {1} verwendet hast, ist die Migration sehr unkompliziert."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

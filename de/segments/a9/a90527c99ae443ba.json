@@ -1,0 +1,14 @@
+{
+  "hash": "a90527c99ae443ba",
+  "source": "**Runtime hooks**: {0}, {1} and {2} have been replaced by {3}. The {4} hook is no longer emitted; to respond before a page renders, return a {5} from a server middleware.",
+  "text": "**Runtime-Hooks**: {0}, {1} und {2} wurden durch {3} ersetzt. Der Hook {4} wird nicht mehr ausgelöst; um vor dem Rendern einer Seite zu antworten, gib aus einer Server-Middleware ein {5} zurück.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Runtime-Hooks**: {0}, {1} und {2} wurden durch {3} ersetzt. Der Hook {4} wird nicht mehr ausgelöst; um vor dem Rendern einer Seite zu antworten, gib aus einer Server-Middleware ein {5} zurück."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

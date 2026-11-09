@@ -1,0 +1,14 @@
+{
+  "hash": "9993c7f0a53244aa",
+  "source": "You should not touch any files inside since the whole directory will be re-created when running {0}.",
+  "text": "Du solltest keine Dateien darin verändern, da das gesamte Verzeichnis beim Ausführen von {0} neu erstellt wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du solltest keine Dateien darin verändern, da das gesamte Verzeichnis beim Ausführen von {0} neu erstellt wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

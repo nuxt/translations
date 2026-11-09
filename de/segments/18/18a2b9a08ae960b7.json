@@ -1,0 +1,14 @@
+{
+  "hash": "18a2b9a08ae960b7",
+  "source": "We recommend using the helper functions above for performing redirects or stopping navigation. Other possible return values described in {0}the vue-router docs{/0} may work but there may be breaking changes in future.",
+  "text": "Wir empfehlen, für Umleitungen oder das Stoppen der Navigation die oben genannten Hilfsfunktionen zu verwenden. Andere mögliche Rückgabewerte, die in {0}der vue-router-Dokumentation{/0} beschrieben sind, funktionieren eventuell auch, es kann aber in Zukunft zu inkompatiblen Änderungen kommen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wir empfehlen, für Umleitungen oder das Stoppen der Navigation die oben genannten Hilfsfunktionen zu verwenden. Andere mögliche Rückgabewerte, die in {0}der vue-router-Dokumentation{/0} beschrieben sind, funktionieren eventuell auch, es kann aber in Zukunft zu inkompatiblen Änderungen kommen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

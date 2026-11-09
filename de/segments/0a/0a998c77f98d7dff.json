@@ -1,0 +1,14 @@
+{
+  "hash": "0a998c77f98d7dff",
+  "source": "**The event object.** With the default builder, {0} is h3 v2's event. The layer adds back some things h3 v2 dropped, such as {1}, {2} and a Node-shaped {3} on runtimes that don't have one.",
+  "text": "**Das Event-Objekt.** Mit dem Standard-Builder ist {0} das Event von h3 v2. Der Layer ergänzt einige Dinge, die h3 v2 entfernt hat, etwa {1}, {2} und ein Node-förmiges {3} auf Laufzeitumgebungen, die keines bieten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Das Event-Objekt.** Mit dem Standard-Builder ist {0} das Event von h3 v2. Der Layer ergänzt einige Dinge, die h3 v2 entfernt hat, etwa {1}, {2} und ein Node-förmiges {3} auf Laufzeitumgebungen, die keines bieten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

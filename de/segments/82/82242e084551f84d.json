@@ -1,0 +1,14 @@
+{
+  "hash": "82242e084551f84d",
+  "source": "Learn how Nuxt builders work and how to author your own.",
+  "text": "Erfahre, wie Nuxt-Builder funktionieren und wie du einen eigenen entwickelst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erfahre, wie Nuxt-Builder funktionieren und wie du einen eigenen entwickelst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

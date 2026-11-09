@@ -1,0 +1,14 @@
+{
+  "hash": "5b1736cf459d402c",
+  "source": "{0}, {1}, {2}, the {3} modules, and the renderer helpers in {4} are experimental, and will change without a major release while a second server builder is being built out.",
+  "text": "{0}, {1}, {2}, die Module {3} und die Renderer-Hilfsfunktionen in {4} sind experimentell und ändern sich ohne Major-Release, solange ein zweiter Server-Builder entwickelt wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}, {1}, {2}, die Module {3} und die Renderer-Hilfsfunktionen in {4} sind experimentell und ändern sich ohne Major-Release, solange ein zweiter Server-Builder entwickelt wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

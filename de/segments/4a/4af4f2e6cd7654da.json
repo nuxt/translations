@@ -1,0 +1,14 @@
+{
+  "hash": "4af4f2e6cd7654da",
+  "source": "Read more about pre-rendering and static hosting.",
+  "text": "Mehr über Vorab-Rendering und statisches Hosting erfährst du hier.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mehr über Vorab-Rendering und statisches Hosting erfährst du hier."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

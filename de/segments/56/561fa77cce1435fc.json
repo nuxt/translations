@@ -1,0 +1,14 @@
+{
+  "hash": "561fa77cce1435fc",
+  "source": "To find the version, check {0} in JSDoc in the source, the {1}release notes{/1}, or the {2}Nuxt blog{/2}.",
+  "text": "Die Version findest du über {0} in JSDoc im Quellcode, in den {1}Release Notes{/1} oder im {2}Nuxt-Blog{/2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Version findest du über {0} in JSDoc im Quellcode, in den {1}Release Notes{/1} oder im {2}Nuxt-Blog{/2}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

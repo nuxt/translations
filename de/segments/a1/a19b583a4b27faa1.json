@@ -1,0 +1,14 @@
+{
+  "hash": "a19b583a4b27faa1",
+  "source": "The {0} prop controls an additional layer of risk: whether to also download and execute client components from the remote source. Even with {1} disabled (the default), you are still trusting the remote server's HTML output.",
+  "text": "Die Prop {0} steuert eine zusätzliche Risikostufe: ob auch Client-Komponenten aus der externen Quelle heruntergeladen und ausgeführt werden. Selbst wenn {1} deaktiviert ist (Standardeinstellung), vertraust du weiterhin der HTML-Ausgabe des externen Servers.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Prop {0} steuert eine zusätzliche Risikostufe: ob auch Client-Komponenten aus der externen Quelle heruntergeladen und ausgeführt werden. Selbst wenn {1} deaktiviert ist (Standardeinstellung), vertraust du weiterhin der HTML-Ausgabe des externen Servers."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e0bea3b18c8b73af",
+  "source": "Nuxt 2 to Nuxt 3+",
+  "text": "Nuxt 2 auf Nuxt 3+",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt 2 auf Nuxt 3+"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

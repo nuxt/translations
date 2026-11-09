@@ -1,0 +1,14 @@
+{
+  "hash": "0fc84715e447b97c",
+  "source": "Builder-agnostic version of {0} and {1}. It will add the plugin to both Vite and webpack configurations if they are present.",
+  "text": "Builder-unabhängige Version von {0} und {1}. Sie fügt das Plugin den Konfigurationen von Vite und webpack hinzu, sofern diese vorhanden sind.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Builder-unabhängige Version von {0} und {1}. Sie fügt das Plugin den Konfigurationen von Vite und webpack hinzu, sofern diese vorhanden sind."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "2a15ca6ac8baa481",
+  "source": "Removal of Experimental Features",
+  "text": "Entfernung experimenteller Funktionen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Entfernung experimenteller Funktionen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

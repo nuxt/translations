@@ -1,0 +1,14 @@
+{
+  "hash": "cce185f830d1dd66",
+  "source": "**Important:** The {0} hook runs before {1} and modifies the global configuration. Use {2} for environment-specific configuration changes.",
+  "text": "**Wichtig:** Der {0}-hook läuft vor {1} und ändert die globale Konfiguration. Verwende {2} für umgebungsspezifische Konfigurationsänderungen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Wichtig:** Der {0}-hook läuft vor {1} und ändert die globale Konfiguration. Verwende {2} für umgebungsspezifische Konfigurationsänderungen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

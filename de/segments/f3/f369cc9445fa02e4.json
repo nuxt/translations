@@ -1,0 +1,14 @@
+{
+  "hash": "f369cc9445fa02e4",
+  "source": "Custom History (advanced)",
+  "text": "Benutzerdefinierter Verlauf (fortgeschritten)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Benutzerdefinierter Verlauf (fortgeschritten)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

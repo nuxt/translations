@@ -1,0 +1,14 @@
+{
+  "hash": "7f638f1c5cc7ffc5",
+  "source": "True when running the Nuxt dev server.",
+  "text": "True, wenn der Nuxt-Entwicklungsserver läuft.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "True, wenn der Nuxt-Entwicklungsserver läuft."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "ebd673a036848db9",
+  "source": "{0} is the event that {1} utilities operate from, including the request, its URL, the response to be sent, and the request context.",
+  "text": "{0} ist das Event, auf dem die {1}-Hilfsfunktionen arbeiten. Es umfasst die Anfrage, ihre URL, die zu sendende Antwort und den Anfragekontext.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ist das Event, auf dem die {1}-Hilfsfunktionen arbeiten. Es umfasst die Anfrage, ihre URL, die zu sendende Antwort und den Anfragekontext."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

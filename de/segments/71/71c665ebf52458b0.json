@@ -1,0 +1,14 @@
+{
+  "hash": "71c665ebf52458b0",
+  "source": "Path to component's declaration file. It is used to generate components' {0}type templates{/0}; if not provided, {1} is used instead.",
+  "text": "Pfad zur Deklarationsdatei der Komponente. Sie wird verwendet, um die {0}Typvorlagen{/0} der Komponenten zu generieren; wenn sie nicht angegeben ist, wird stattdessen {1} verwendet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pfad zur Deklarationsdatei der Komponente. Sie wird verwendet, um die {0}Typvorlagen{/0} der Komponenten zu generieren; wenn sie nicht angegeben ist, wird stattdessen {1} verwendet."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

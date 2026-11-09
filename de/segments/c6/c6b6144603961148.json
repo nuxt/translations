@@ -1,0 +1,14 @@
+{
+  "hash": "c6b6144603961148",
+  "source": "The Rspack builder ({0}, using {1}) is deprecated in favour of the Rsbuild builder, which is built on top of Rspack. See the {2}upgrade guide{/2} for how to migrate.",
+  "text": "Der Rspack-Builder ({0}, mit {1}) wird zugunsten des Rsbuild-Builders, der auf Rspack aufbaut, nicht mehr empfohlen. Wie du migrierst, steht in der {2}Upgrade-Anleitung{/2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Rspack-Builder ({0}, mit {1}) wird zugunsten des Rsbuild-Builders, der auf Rspack aufbaut, nicht mehr empfohlen. Wie du migrierst, steht in der {2}Upgrade-Anleitung{/2}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

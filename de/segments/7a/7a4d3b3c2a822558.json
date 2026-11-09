@@ -1,0 +1,14 @@
+{
+  "hash": "7a4d3b3c2a822558",
+  "source": "Nuxt Kit provides utilities to help you manage head configuration in modules.",
+  "text": "Nuxt Kit stellt Hilfsfunktionen bereit, mit denen du die Head-Konfiguration in Modulen verwalten kannst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Kit stellt Hilfsfunktionen bereit, mit denen du die Head-Konfiguration in Modulen verwalten kannst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "063b4bc5813fa8c5",
+  "source": "When using {0} and {1} to transfer data fetched on server to the client (as well as anything else that utilizes {2}the Nuxt payload{/2}), the payload is serialized with {3}. This allows us to transfer not just basic JSON but also to serialize and revive/deserialize more advanced kinds of data, such as regular expressions, Dates, Map and Set, {4}, {5}, {6}, {7} and {8} - and more.",
+  "text": "Wenn du {0} und {1} verwendest, um auf dem Server abgerufene Daten an den Client zu übertragen (sowie alles andere, das {2}die Nuxt-Payload{/2} nutzt), wird die Payload mit {3} serialisiert. So lassen sich nicht nur einfaches JSON übertragen, sondern auch komplexere Datentypen serialisieren und wiederherstellen bzw. deserialisieren, etwa reguläre Ausdrücke, Dates, Map und Set, {4}, {5}, {6}, {7} und {8} – und mehr.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du {0} und {1} verwendest, um auf dem Server abgerufene Daten an den Client zu übertragen (sowie alles andere, das {2}die Nuxt-Payload{/2} nutzt), wird die Payload mit {3} serialisiert. So lassen sich nicht nur einfaches JSON übertragen, sondern auch komplexere Datentypen serialisieren und wiederherstellen bzw. deserialisieren, etwa reguläre Ausdrücke, Dates, Map und Set, {4}, {5}, {6}, {7} und {8} – und mehr."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "0d80e77c4a94e952",
+  "source": "This composable returns a {0} that can be awaited, which makes it possible to use {1} directly within the {2} (i.e. a value will be present, instead of being undefined). You can also directly pull the values without awaiting the return value, in which case {3} can be undefined within {4} until the fetch completes.",
+  "text": "Dieses Composable gibt ein {0} zurück, auf das du mit await warten kannst. So kannst du {1} direkt innerhalb von {2} verwenden (d. h. es ist ein Wert vorhanden, statt undefined zu sein). Du kannst die Werte auch direkt abgreifen, ohne auf den Rückgabewert zu warten. In diesem Fall kann {3} innerhalb von {4} undefined sein, bis der Abruf abgeschlossen ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dieses Composable gibt ein {0} zurück, auf das du mit await warten kannst. So kannst du {1} direkt innerhalb von {2} verwenden (d. h. es ist ein Wert vorhanden, statt undefined zu sein). Du kannst die Werte auch direkt abgreifen, ohne auf den Rückgabewert zu warten. In diesem Fall kann {3} innerhalb von {4} undefined sein, bis der Abruf abgeschlossen ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

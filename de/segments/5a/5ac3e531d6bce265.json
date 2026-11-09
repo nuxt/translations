@@ -1,0 +1,14 @@
+{
+  "hash": "5ac3e531d6bce265",
+  "source": "This approach separates breaking changes into manageable phases, allowing for better ecosystem testing and smoother migrations.",
+  "text": "Dieser Ansatz teilt inkompatible Änderungen in überschaubare Phasen auf. Das ermöglicht bessere Tests im Ökosystem und reibungslosere Migrationen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dieser Ansatz teilt inkompatible Änderungen in überschaubare Phasen auf. Das ermöglicht bessere Tests im Ökosystem und reibungslosere Migrationen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

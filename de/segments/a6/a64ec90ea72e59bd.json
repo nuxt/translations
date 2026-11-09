@@ -1,0 +1,14 @@
+{
+  "hash": "a64ec90ea72e59bd",
+  "source": "{0}: Make the component non-blocking.",
+  "text": "{0}: Macht die Komponente nicht blockierend.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Macht die Komponente nicht blockierend."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

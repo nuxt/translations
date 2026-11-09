@@ -1,0 +1,14 @@
+{
+  "hash": "5371002b411497d1",
+  "source": "Then in {0} you can use the {1} hook:",
+  "text": "Anschließend kannst du in {0} den Hook {1} verwenden:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Anschließend kannst du in {0} den Hook {1} verwenden:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

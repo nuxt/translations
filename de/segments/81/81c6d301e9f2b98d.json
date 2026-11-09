@@ -1,0 +1,14 @@
+{
+  "hash": "81c6d301e9f2b98d",
+  "source": "Any file in {0}, {1}, {2}, and {3} directories will be ignored during the build process if its filename starts with the prefix specified by {4}. This is intended to prevent certain files from being processed or served in the built application. By default, the {5} is set to '-', ignoring any files starting with '-'.",
+  "text": "Jede Datei in den Verzeichnissen {0}, {1}, {2} und {3} wird im Erstellungsprozess ignoriert, wenn ihr Dateiname mit dem in {4} angegebenen Präfix beginnt. So soll verhindert werden, dass bestimmte Dateien verarbeitet oder in der erzeugten Anwendung ausgeliefert werden. Standardmäßig ist {5} auf '-' gesetzt, sodass alle Dateien ignoriert werden, die mit '-' beginnen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Jede Datei in den Verzeichnissen {0}, {1}, {2} und {3} wird im Erstellungsprozess ignoriert, wenn ihr Dateiname mit dem in {4} angegebenen Präfix beginnt. So soll verhindert werden, dass bestimmte Dateien verarbeitet oder in der erzeugten Anwendung ausgeliefert werden. Standardmäßig ist {5} auf '-' gesetzt, sodass alle Dateien ignoriert werden, die mit '-' beginnen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "2d70b9ebf928ea74",
+  "source": "If a module is still named by {0}, check for a newer release, and open an issue if there isn't one.",
+  "text": "Wenn ein Modul weiterhin von {0} genannt wird, prüfe, ob es ein neueres Release gibt, und eröffne ein Issue, falls nicht.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn ein Modul weiterhin von {0} genannt wird, prüfe, ob es ein neueres Release gibt, und eröffne ein Issue, falls nicht."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

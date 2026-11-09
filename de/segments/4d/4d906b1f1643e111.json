@@ -1,0 +1,14 @@
+{
+  "hash": "4d906b1f1643e111",
+  "source": "highest priority",
+  "text": "höchste Priorität",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "höchste Priorität"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "10382a31731f0f8e",
+  "source": "For files nested in a folder within utils",
+  "text": "Für Dateien in einem Unterverzeichnis von utils",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Für Dateien in einem Unterverzeichnis von utils"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "bf415f027cbed9af",
+  "source": "Use Lifecycle Hooks",
+  "text": "Lifecycle-Hooks verwenden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lifecycle-Hooks verwenden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

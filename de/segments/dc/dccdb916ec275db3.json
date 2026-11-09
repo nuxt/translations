@@ -1,0 +1,14 @@
+{
+  "hash": "dccdb916ec275db3",
+  "source": "**Experimental**: This is an experimental feature and API may change in the future.",
+  "text": "**Experimentell**: Dies ist eine experimentelle Funktion, und die API kann sich in Zukunft ändern.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Experimentell**: Dies ist eine experimentelle Funktion, und die API kann sich in Zukunft ändern."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

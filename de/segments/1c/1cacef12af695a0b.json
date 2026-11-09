@@ -1,0 +1,14 @@
+{
+  "hash": "1cacef12af695a0b",
+  "source": "{0} only works in the {1}Nuxt context{/1}.",
+  "text": "{0} funktioniert nur im {1}Nuxt-Kontext{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} funktioniert nur im {1}Nuxt-Kontext{/1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

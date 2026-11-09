@@ -1,0 +1,14 @@
+{
+  "hash": "90d0c9be7901ed97",
+  "source": "Add cors headers on API routes",
+  "text": "CORS-Header zu API-Routen hinzufügen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "CORS-Header zu API-Routen hinzufügen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "40ac35e4f111aa65",
+  "source": "{0} is the module that provides {1}. Nuxt reads it whether or not you replace anything else.",
+  "text": "{0} ist das Modul, das {1} bereitstellt. Nuxt liest es unabhängig davon, ob du etwas anderes ersetzt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ist das Modul, das {1} bereitstellt. Nuxt liest es unabhängig davon, ob du etwas anderes ersetzt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

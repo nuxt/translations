@@ -1,0 +1,14 @@
+{
+  "hash": "b304370d929ae940",
+  "source": "Package manager choice",
+  "text": "Auswahl des Paketmanagers",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auswahl des Paketmanagers"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

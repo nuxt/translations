@@ -1,0 +1,14 @@
+{
+  "hash": "69dcf4b98dcfc72d",
+  "source": "We recommend not using the native Nuxt 2 {0} properties in addition to {1} , as they may conflict.",
+  "text": "Wir empfehlen, die nativen {0}-Eigenschaften von Nuxt 2 nicht zusätzlich zu {1} zu verwenden, da sie in Konflikt geraten können.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wir empfehlen, die nativen {0}-Eigenschaften von Nuxt 2 nicht zusätzlich zu {1} zu verwenden, da sie in Konflikt geraten können."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

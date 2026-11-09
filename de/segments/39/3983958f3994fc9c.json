@@ -1,0 +1,14 @@
+{
+  "hash": "3983958f3994fc9c",
+  "source": "Checkout our ongoing development to bring more improvements for layers support on GitHub.",
+  "text": "Verfolge auf GitHub unsere laufende Entwicklung, die weitere Verbesserungen für die Unterstützung von Layern bringen soll.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verfolge auf GitHub unsere laufende Entwicklung, die weitere Verbesserungen für die Unterstützung von Layern bringen soll."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

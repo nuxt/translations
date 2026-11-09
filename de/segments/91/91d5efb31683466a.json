@@ -1,0 +1,14 @@
+{
+  "hash": "91d5efb31683466a",
+  "source": "Pass {0} as a function when a value isn't final until later in the build. Nuxt calls it each time it reads the module body.",
+  "text": "Übergib {0} als Funktion, wenn ein Wert erst später im Build feststeht. Nuxt ruft sie jedes Mal auf, wenn es den Modulrumpf liest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Übergib {0} als Funktion, wenn ein Wert erst später im Build feststeht. Nuxt ruft sie jedes Mal auf, wenn es den Modulrumpf liest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

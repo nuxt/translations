@@ -1,0 +1,14 @@
+{
+  "hash": "5a5c192268d4c0cd",
+  "source": "Task payload, either as a JSON object or as {0} pairs",
+  "text": "Payload der Task, entweder als JSON-Objekt oder als {0}-Paare",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Payload der Task, entweder als JSON-Objekt oder als {0}-Paare"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

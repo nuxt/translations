@@ -1,0 +1,14 @@
+{
+  "hash": "eb3af8a6978e3b69",
+  "source": "Nitro only scans your {0} directory when tasks are enabled, so a server with none exposed may just need this:",
+  "text": "Nitro durchsucht dein Verzeichnis {0} nur dann nach Tasks, wenn Tasks aktiviert sind. Wenn ein Server keine Tasks bereitstellt, genügt daher möglicherweise Folgendes:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nitro durchsucht dein Verzeichnis {0} nur dann nach Tasks, wenn Tasks aktiviert sind. Wenn ein Server keine Tasks bereitstellt, genügt daher möglicherweise Folgendes:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

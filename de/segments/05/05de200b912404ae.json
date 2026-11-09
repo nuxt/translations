@@ -1,0 +1,14 @@
+{
+  "hash": "05de200b912404ae",
+  "source": "Previously {0} was initialized to {1} but reset in {2} to {3}. {4} was initialized to {5}. This change is to bring greater consistency.",
+  "text": "Bisher wurde {0} mit {1} initialisiert, aber in {2} auf {3} zurückgesetzt. {4} wurde mit {5} initialisiert. Diese Änderung sorgt für mehr Konsistenz.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bisher wurde {0} mit {1} initialisiert, aber in {2} auf {3} zurückgesetzt. {4} wurde mit {5} initialisiert. Diese Änderung sorgt für mehr Konsistenz."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

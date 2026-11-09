@@ -1,0 +1,14 @@
+{
+  "hash": "ada1535b5edcd1b8",
+  "source": "This tells supporting browsers (Chrome 136+) to compile every function in these chunks eagerly while the script is downloading, rather than lazily on the main thread when each function first runs during hydration. Other browsers ignore the comment.",
+  "text": "Das weist unterstützende Browser (Chrome 136+) an, jede Funktion in diesen Chunks bereits während des Downloads des Skripts sofort zu kompilieren, statt verzögert im Haupt-Thread, wenn die jeweilige Funktion während der Hydration erstmals ausgeführt wird. Andere Browser ignorieren den Kommentar.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das weist unterstützende Browser (Chrome 136+) an, jede Funktion in diesen Chunks bereits während des Downloads des Skripts sofort zu kompilieren, statt verzögert im Haupt-Thread, wenn die jeweilige Funktion während der Hydration erstmals ausgeführt wird. Andere Browser ignorieren den Kommentar."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

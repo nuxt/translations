@@ -1,0 +1,14 @@
+{
+  "hash": "fae46313de75903c",
+  "source": "{0}pathe{/0} - universal path utilities (replacement for node {1})",
+  "text": "{0}pathe{/0} – universelle Pfad-Werkzeuge (Ersatz für Node-{1})",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}pathe{/0} – universelle Pfad-Werkzeuge (Ersatz für Node-{1})"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

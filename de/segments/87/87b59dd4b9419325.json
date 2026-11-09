@@ -1,0 +1,14 @@
+{
+  "hash": "87b59dd4b9419325",
+  "source": "You can use a computed ref or a plain ref as the URL, allowing for dynamic data fetching that automatically updates when the URL changes:",
+  "text": "Du kannst eine berechnete Ref (Computed Ref) oder eine einfache Ref als URL verwenden. So ist ein dynamischer Datenabruf möglich, der sich automatisch aktualisiert, wenn sich die URL ändert:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst eine berechnete Ref (Computed Ref) oder eine einfache Ref als URL verwenden. So ist ein dynamischer Datenabruf möglich, der sich automatisch aktualisiert, wenn sich die URL ändert:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

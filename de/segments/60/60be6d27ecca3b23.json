@@ -1,0 +1,14 @@
+{
+  "hash": "60be6d27ecca3b23",
+  "source": "Filename of the template.",
+  "text": "Dateiname der Vorlage.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dateiname der Vorlage."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

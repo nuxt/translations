@@ -1,0 +1,14 @@
+{
+  "hash": "1aaecb6ff1affa56",
+  "source": "With ESR, the rendering process is pushed to the 'edge' of the network - the CDN's edge servers. Note that ESR is more a deployment target than an actual rendering mode.",
+  "text": "Bei ESR wird der Rendering-Prozess an den „Edge“ des Netzwerks verlagert – die Edge-Server des CDN. Beachte, dass ESR eher ein Bereitstellungsziel als ein tatsächlicher Rendering-Modus ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bei ESR wird der Rendering-Prozess an den „Edge“ des Netzwerks verlagert – die Edge-Server des CDN. Beachte, dass ESR eher ein Bereitstellungsziel als ein tatsächlicher Rendering-Modus ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

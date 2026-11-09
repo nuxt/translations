@@ -1,0 +1,14 @@
+{
+  "hash": "e2e59bc06468db13",
+  "source": "For a handler that needs the runtime's own event, such as one calling {0}, {1}, {2} or {3}, or reading {4}, {5} or {6}, import {7} from {8} for that handler:",
+  "text": "Für einen Handler, der das Event der Laufzeitumgebung benötigt, etwa einen, der {0}, {1}, {2} oder {3} aufruft oder {4}, {5} oder {6} liest, importierst du {7} für diesen Handler aus {8}:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Für einen Handler, der das Event der Laufzeitumgebung benötigt, etwa einen, der {0}, {1}, {2} oder {3} aufruft oder {4}, {5} oder {6} liest, importierst du {7} für diesen Handler aus {8}:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

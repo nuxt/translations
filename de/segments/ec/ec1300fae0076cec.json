@@ -1,0 +1,14 @@
+{
+  "hash": "ec1300fae0076cec",
+  "source": "Displayed public URL (used for QR code)",
+  "text": "Angezeigte öffentliche URL (wird für den QR-Code verwendet)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Angezeigte öffentliche URL (wird für den QR-Code verwendet)"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "1e5a68b4f8832f88",
+  "source": "That's it! Now in your project, you can import your UI library as a Nuxt module in your {0} file:",
+  "text": "Das war's! Jetzt kannst du deine Benutzeroberflächen-Bibliothek in deinem Projekt als Nuxt-Modul in deiner Datei {0} einbinden:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das war's! Jetzt kannst du deine Benutzeroberflächen-Bibliothek in deinem Projekt als Nuxt-Modul in deiner Datei {0} einbinden:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

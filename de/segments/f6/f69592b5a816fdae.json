@@ -1,0 +1,14 @@
+{
+  "hash": "f69592b5a816fdae",
+  "source": "The Rsbuild builder is based on Rspack and applies the {0} plugin when one is provided, so plugins run in the order they are added. The {1} plugin is only used when there is no {2} plugin.",
+  "text": "Der Rsbuild-Builder basiert auf Rspack und wendet das {0}-Plugin an, wenn eines angegeben ist, sodass Plugins in der Reihenfolge ausgeführt werden, in der sie hinzugefügt wurden. Das {1}-Plugin wird nur verwendet, wenn kein {2}-Plugin vorhanden ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Rsbuild-Builder basiert auf Rspack und wendet das {0}-Plugin an, wenn eines angegeben ist, sodass Plugins in der Reihenfolge ausgeführt werden, in der sie hinzugefügt wurden. Das {1}-Plugin wird nur verwendet, wenn kein {2}-Plugin vorhanden ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

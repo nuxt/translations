@@ -1,0 +1,14 @@
+{
+  "hash": "eaefd922bbc86568",
+  "source": "Type of {0} is inferred as string even though we returned a Date object",
+  "text": "Der Typ von {0} wird als string abgeleitet, obwohl wir ein Date-Objekt zurückgegeben haben",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Typ von {0} wird als string abgeleitet, obwohl wir ein Date-Objekt zurückgegeben haben"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

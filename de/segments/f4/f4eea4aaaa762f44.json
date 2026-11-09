@@ -1,0 +1,14 @@
+{
+  "hash": "f4eea4aaaa762f44",
+  "source": "Nuxt accessibility",
+  "text": "Nuxt-Barrierefreiheit",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt-Barrierefreiheit"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

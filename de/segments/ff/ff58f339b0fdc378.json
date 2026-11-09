@@ -1,0 +1,14 @@
+{
+  "hash": "ff58f339b0fdc378",
+  "source": "Options for the import directory. If {0} is {1}, the directory is added to the beginning of the scan list.",
+  "text": "Optionen für das Import-Verzeichnis. Wenn {0} auf {1} gesetzt ist, wird das Verzeichnis am Anfang der Suchliste eingefügt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Optionen für das Import-Verzeichnis. Wenn {0} auf {1} gesetzt ist, wird das Verzeichnis am Anfang der Suchliste eingefügt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

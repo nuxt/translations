@@ -1,0 +1,14 @@
+{
+  "hash": "109c257abf61748f",
+  "source": "{0}: Adds an error handler that is called every time a non caught error happens during navigation.",
+  "text": "{0}: Fügt einen Fehlerhandler hinzu, der bei jedem nicht abgefangenen Fehler während der Navigation aufgerufen wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Fügt einen Fehlerhandler hinzu, der bei jedem nicht abgefangenen Fehler während der Navigation aufgerufen wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

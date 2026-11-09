@@ -1,0 +1,14 @@
+{
+  "hash": "1278d2869f2a27b0",
+  "source": "Learn more about how to structure your pages using the {0} directory.",
+  "text": "Erfahre mehr darüber, wie du deine Seiten mit dem Verzeichnis {0} strukturierst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erfahre mehr darüber, wie du deine Seiten mit dem Verzeichnis {0} strukturierst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "68f8dd63d6a88026",
+  "source": "Local env files",
+  "text": "Lokale env-Dateien",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lokale env-Dateien"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

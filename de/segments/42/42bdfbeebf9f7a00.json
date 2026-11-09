@@ -1,0 +1,14 @@
+{
+  "hash": "42bdfbeebf9f7a00",
+  "source": "Watch a video from Alexander Lichter about why and when to use useState",
+  "text": "Sieh dir ein Video von Alexander Lichter an, warum und wann du useState verwenden solltest",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sieh dir ein Video von Alexander Lichter an, warum und wann du useState verwenden solltest"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

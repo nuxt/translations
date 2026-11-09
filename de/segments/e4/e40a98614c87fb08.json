@@ -1,0 +1,14 @@
+{
+  "hash": "e40a98614c87fb08",
+  "source": "The call returns four things:",
+  "text": "Der Aufruf liefert vier Dinge zurück:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Aufruf liefert vier Dinge zurück:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

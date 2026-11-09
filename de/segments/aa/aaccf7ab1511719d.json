@@ -1,0 +1,14 @@
+{
+  "hash": "aaccf7ab1511719d",
+  "source": "Apply {0}CORS{/0} headers and answer preflight requests.",
+  "text": "Wendet {0}CORS{/0}-Header an und beantwortet Preflight-Anfragen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wendet {0}CORS{/0}-Header an und beantwortet Preflight-Anfragen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "f89295ad25a0809b",
+  "source": "**Problem**: iOS Safari detects phone numbers (and other data such as dates, addresses and email addresses) in the rendered text and wraps them in links. This changes the DOM before Vue hydrates it, causing a hydration mismatch on iOS only.",
+  "text": "**Problem**: iOS Safari erkennt Telefonnummern (und andere Daten wie Datumsangaben, Adressen und E-Mail-Adressen) im gerenderten Text und umschließt sie mit Links. Dadurch verändert sich das DOM, bevor Vue es hydratisiert, was ausschließlich unter iOS zu einem Hydration-Mismatch führt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Problem**: iOS Safari erkennt Telefonnummern (und andere Daten wie Datumsangaben, Adressen und E-Mail-Adressen) im gerenderten Text und umschließt sie mit Links. Dadurch verändert sich das DOM, bevor Vue es hydratisiert, was ausschließlich unter iOS zu einem Hydration-Mismatch führt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

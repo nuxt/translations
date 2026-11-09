@@ -1,0 +1,14 @@
+{
+  "hash": "b5037849b547c54f",
+  "source": "Watch a video from Alexander Lichter on how to easily set up custom auto imports",
+  "text": "Sieh dir ein Video von Alexander Lichter an, in dem er zeigt, wie du eigene automatische Importe einrichtest",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sieh dir ein Video von Alexander Lichter an, in dem er zeigt, wie du eigene automatische Importe einrichtest"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

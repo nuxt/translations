@@ -1,0 +1,14 @@
+{
+  "hash": "e21a447de36d7389",
+  "source": "Profile performance, writing a V8 CPU profile and a JSON report on exit. Use {0} for a full console report.",
+  "text": "Analysiert die Performance und schreibt beim Beenden ein V8-CPU-Profil und einen JSON-Bericht. Verwende {0} für einen vollständigen Bericht in der Konsole.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Analysiert die Performance und schreibt beim Beenden ein V8-CPU-Profil und einen JSON-Bericht. Verwende {0} für einen vollständigen Bericht in der Konsole."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

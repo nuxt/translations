@@ -1,0 +1,14 @@
+{
+  "hash": "4845e357ab7d4016",
+  "source": "The {0} function is called",
+  "text": "die Funktion {0} aufgerufen wird",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "die Funktion {0} aufgerufen wird"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

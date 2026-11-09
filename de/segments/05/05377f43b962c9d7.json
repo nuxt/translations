@@ -1,0 +1,14 @@
+{
+  "hash": "05377f43b962c9d7",
+  "source": "This pattern is useful for creating base layers with defaults that can be progressively overridden by more specific layers.",
+  "text": "Dieses Muster ist nützlich, um Basis-Layer mit Standardwerten zu erstellen, die von spezifischeren Layern schrittweise überschrieben werden können.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dieses Muster ist nützlich, um Basis-Layer mit Standardwerten zu erstellen, die von spezifischeren Layern schrittweise überschrieben werden können."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

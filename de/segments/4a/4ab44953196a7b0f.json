@@ -1,0 +1,14 @@
+{
+  "hash": "4ab44953196a7b0f",
+  "source": "You can read more about Nuxt's TypeScript support {0}in the docs{/0}.",
+  "text": "Mehr über die TypeScript-Unterstützung von Nuxt erfährst du {0}in der Dokumentation{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mehr über die TypeScript-Unterstützung von Nuxt erfährst du {0}in der Dokumentation{/0}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

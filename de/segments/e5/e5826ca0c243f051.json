@@ -1,0 +1,14 @@
+{
+  "hash": "e5826ca0c243f051",
+  "source": "payload.message will be 'Welcome to our app!'",
+  "text": "payload.message ist 'Welcome to our app!'",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "payload.message ist 'Welcome to our app!'"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

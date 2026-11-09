@@ -1,0 +1,14 @@
+{
+  "hash": "27ec7ea0d58c4533",
+  "source": "For example, an addon that refreshes the data whenever the window regains focus, gated behind a custom {0} option, so callers opt in per call:",
+  "text": "Ein Beispiel ist ein Addon, das die Daten aktualisiert, sobald das Fenster den Fokus zurückerhält. Es wird über eine eigene {0}-Option gesteuert, sodass Aufrufende es für jeden Aufruf gezielt aktivieren:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein Beispiel ist ein Addon, das die Daten aktualisiert, sobald das Fenster den Fokus zurückerhält. Es wird über eine eigene {0}-Option gesteuert, sodass Aufrufende es für jeden Aufruf gezielt aktivieren:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

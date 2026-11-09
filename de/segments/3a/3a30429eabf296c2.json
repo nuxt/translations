@@ -1,0 +1,14 @@
+{
+  "hash": "3a30429eabf296c2",
+  "source": "**Parameters**: Describe each input, including its type, default value, and available options.",
+  "text": "**Parameters**: Beschreibe jede Eingabe, einschließlich Typ, Standardwert und verfügbarer Optionen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Parameters**: Beschreibe jede Eingabe, einschließlich Typ, Standardwert und verfügbarer Optionen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

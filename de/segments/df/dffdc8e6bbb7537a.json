@@ -1,0 +1,14 @@
+{
+  "hash": "dffdc8e6bbb7537a",
+  "source": "Available options: {0}, {1}, {2}, or a custom prefix. Default is {3}. Note that {4} might cause some performance impacts.",
+  "text": "Verfügbare Optionen: {0}, {1}, {2} oder ein benutzerdefiniertes Präfix. Standardwert ist {3}. Beachte, dass {4} sich auf die Performance auswirken kann.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verfügbare Optionen: {0}, {1}, {2} oder ein benutzerdefiniertes Präfix. Standardwert ist {3}. Beachte, dass {4} sich auf die Performance auswirken kann."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

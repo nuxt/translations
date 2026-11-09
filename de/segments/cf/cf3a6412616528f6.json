@@ -1,0 +1,14 @@
+{
+  "hash": "cf3a6412616528f6",
+  "source": "**Server imports**: Server utilities come from {0}, including {1}session helpers{/1}",
+  "text": "**Server-Importe**: Server-Hilfsfunktionen kommen aus {0}, darunter auch die {1}Session-Hilfsfunktionen{/1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Server-Importe**: Server-Hilfsfunktionen kommen aus {0}, darunter auch die {1}Session-Hilfsfunktionen{/1}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

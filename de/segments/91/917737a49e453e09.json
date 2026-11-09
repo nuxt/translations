@@ -1,0 +1,14 @@
+{
+  "hash": "917737a49e453e09",
+  "source": "Whenever possible, favor composition over plugins. Just like in Vue, many utilities and composables can be used directly without the need for a plugin. This keeps your project lightweight and improves maintainability.",
+  "text": "Bevorzuge nach Möglichkeit Composition gegenüber Plugins. Wie in Vue lassen sich viele Hilfsfunktionen und Composables direkt verwenden, ohne dass ein Plugin nötig ist. So bleibt dein Projekt schlank und lässt sich besser warten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bevorzuge nach Möglichkeit Composition gegenüber Plugins. Wie in Vue lassen sich viele Hilfsfunktionen und Composables direkt verwenden, ohne dass ein Plugin nötig ist. So bleibt dein Projekt schlank und lässt sich besser warten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

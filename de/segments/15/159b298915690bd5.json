@@ -1,0 +1,14 @@
+{
+  "hash": "159b298915690bd5",
+  "source": "Returns a Vue {0} representing the cookie value. Updating the ref will update the cookie (unless {1} is set). The ref is SSR-friendly and will work on both client and server.",
+  "text": "Gibt eine Vue-{0} zurück, die den Cookie-Wert darstellt. Wenn du die Ref aktualisierst, wird auch das Cookie aktualisiert (es sei denn, {1} ist gesetzt). Die Ref ist SSR-kompatibel und funktioniert sowohl auf dem Client als auch auf dem Server.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gibt eine Vue-{0} zurück, die den Cookie-Wert darstellt. Wenn du die Ref aktualisierst, wird auch das Cookie aktualisiert (es sei denn, {1} ist gesetzt). Die Ref ist SSR-kompatibel und funktioniert sowohl auf dem Client als auch auf dem Server."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

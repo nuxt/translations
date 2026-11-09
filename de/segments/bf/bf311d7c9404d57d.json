@@ -1,0 +1,14 @@
+{
+  "hash": "bf311d7c9404d57d",
+  "source": "**Nitro auto-imports off**: server code {0}imports its helpers explicitly{/0}, such as from {1}, rather than relying on the auto-import compatibility layer. Set {2} to keep them",
+  "text": "**Automatische Nitro-Importe deaktiviert**: Servercode {0}importiert seine Hilfsfunktionen explizit{/0}, etwa aus {1}, statt sich auf den Kompatibilitäts-Layer für automatische Importe zu verlassen. Setze {2}, um sie beizubehalten",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Automatische Nitro-Importe deaktiviert**: Servercode {0}importiert seine Hilfsfunktionen explizit{/0}, etwa aus {1}, statt sich auf den Kompatibilitäts-Layer für automatische Importe zu verlassen. Setze {2}, um sie beizubehalten"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

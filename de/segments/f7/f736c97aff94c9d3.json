@@ -1,0 +1,14 @@
+{
+  "hash": "f736c97aff94c9d3",
+  "source": "If you set {0} to {1}, Nuxt no longer uses {2} to compile templates by default. You can still enable it via the {3} option, but support for EJS templates will be removed entirely in the next major version.",
+  "text": "Wenn du {0} auf {1} setzt, verwendet Nuxt standardmäßig {2} nicht mehr zum Kompilieren von Vorlagen. Du kannst es weiterhin über die Option {3} aktivieren, aber die Unterstützung für EJS-Vorlagen wird in der nächsten Major-Version vollständig entfernt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du {0} auf {1} setzt, verwendet Nuxt standardmäßig {2} nicht mehr zum Kompilieren von Vorlagen. Du kannst es weiterhin über die Option {3} aktivieren, aber die Unterstützung für EJS-Vorlagen wird in der nächsten Major-Version vollständig entfernt."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "85a23893b6701d71",
+  "source": "Using Composables",
+  "text": "Composables verwenden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Composables verwenden"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

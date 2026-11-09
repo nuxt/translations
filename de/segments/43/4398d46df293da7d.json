@@ -1,0 +1,14 @@
+{
+  "hash": "4398d46df293da7d",
+  "source": "If you were passing a custom page key or keep-alive props to {0}, you will now use {1} to set these options.",
+  "text": "Wenn du einen benutzerdefinierten Seitenschlüssel oder Keep-alive-Props an {0} übergeben hast, verwendest du jetzt {1}, um diese Optionen festzulegen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du einen benutzerdefinierten Seitenschlüssel oder Keep-alive-Props an {0} übergeben hast, verwendest du jetzt {1}, um diese Optionen festzulegen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "ad150d483ad4d8a9",
+  "source": "prerenderRoutes hints to Nitro to prerender an additional route.",
+  "text": "prerenderRoutes weist Nitro an, eine zusätzliche Route vorab zu rendern.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "prerenderRoutes weist Nitro an, eine zusätzliche Route vorab zu rendern."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

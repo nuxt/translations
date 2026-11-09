@@ -1,0 +1,14 @@
+{
+  "hash": "3a3f586736c25b5c",
+  "source": "Converts {0} to provider optimized URLs with modern formats such as WebP or Avif",
+  "text": "Wandelt {0} in vom Provider optimierte URLs mit modernen Formaten wie WebP oder Avif um",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wandelt {0} in vom Provider optimierte URLs mit modernen Formaten wie WebP oder Avif um"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

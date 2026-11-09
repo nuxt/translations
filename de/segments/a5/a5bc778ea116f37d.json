@@ -1,0 +1,14 @@
+{
+  "hash": "a5bc778ea116f37d",
+  "source": "The {0} prop explicitly indicates that the link is external. {1} will render the link as a standard HTML {2} tag. This ensures the link behaves correctly, bypassing Vue Router’s logic and directly pointing to the resource.",
+  "text": "Die Prop {0} kennzeichnet den Link ausdrücklich als extern. {1} rendert den Link dann als normalen HTML-Tag {2}. So verhält sich der Link korrekt, umgeht die Logik von Vue Router und verweist direkt auf die Ressource.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Prop {0} kennzeichnet den Link ausdrücklich als extern. {1} rendert den Link dann als normalen HTML-Tag {2}. So verhält sich der Link korrekt, umgeht die Logik von Vue Router und verweist direkt auf die Ressource."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

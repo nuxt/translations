@@ -1,0 +1,14 @@
+{
+  "hash": "1b67f689c468edaf",
+  "source": "Check out webpack website for more information about its configuration.",
+  "text": "Weitere Informationen zur Konfiguration findest du auf der webpack-Website.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Weitere Informationen zur Konfiguration findest du auf der webpack-Website."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "4cd562d2c05852ea",
+  "source": "With the option on, a typo and a method the route does not answer are both errors:",
+  "text": "Ist die Option aktiviert, sind sowohl ein Tippfehler als auch eine Methode, auf die die Route nicht antwortet, Fehler:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ist die Option aktiviert, sind sowohl ein Tippfehler als auch eine Methode, auf die die Route nicht antwortet, Fehler:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

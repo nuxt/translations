@@ -1,0 +1,14 @@
+{
+  "hash": "458893e32302c737",
+  "source": "First, it will run your test suite by:",
+  "text": "Zuerst führt es deine Test-Suite aus, und zwar durch:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Zuerst führt es deine Test-Suite aus, und zwar durch:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

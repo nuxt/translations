@@ -1,0 +1,14 @@
+{
+  "hash": "e46a862ec9c5204d",
+  "source": "**{0}**: Lists all Nuxt blog posts with metadata including dates, categories, and tags",
+  "text": "**{0}**: Listet alle Nuxt-Blogbeiträge mit Metadaten wie Datum, Kategorien und Tags auf",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}**: Listet alle Nuxt-Blogbeiträge mit Metadaten wie Datum, Kategorien und Tags auf"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

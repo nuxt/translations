@@ -1,0 +1,14 @@
+{
+  "hash": "167bbf9999dc6e99",
+  "source": "For finer control, the {0} variable can be:",
+  "text": "Für eine feinere Steuerung kann die Variable {0} folgende Werte annehmen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Für eine feinere Steuerung kann die Variable {0} folgende Werte annehmen:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

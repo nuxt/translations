@@ -1,0 +1,14 @@
+{
+  "hash": "8b8341d12daf08de",
+  "source": "Supports native {0} as well as other {1} attributes",
+  "text": "Unterstützt natives {0} sowie weitere {1}-Attribute",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Unterstützt natives {0} sowie weitere {1}-Attribute"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

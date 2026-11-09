@@ -1,0 +1,14 @@
+{
+  "hash": "da2913b24b7c8161",
+  "source": "You can use {0}Node inspector{/0} to debug Nuxt server-side.",
+  "text": "Mit dem {0}Node Inspector{/0} kannst du Nuxt serverseitig debuggen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit dem {0}Node Inspector{/0} kannst du Nuxt serverseitig debuggen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

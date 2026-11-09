@@ -1,0 +1,14 @@
+{
+  "hash": "66d6fd16689a01f5",
+  "source": "The top-level {0} configuration option is no longer available in Nuxt 4. This includes all of its properties:",
+  "text": "Die Konfigurationsoption {0} auf oberster Ebene ist in Nuxt 4 nicht mehr verfügbar. Das gilt auch für alle ihre Eigenschaften:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Konfigurationsoption {0} auf oberster Ebene ist in Nuxt 4 nicht mehr verfügbar. Das gilt auch für alle ihre Eigenschaften:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

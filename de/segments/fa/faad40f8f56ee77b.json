@@ -1,0 +1,14 @@
+{
+  "hash": "faad40f8f56ee77b",
+  "source": "- Display upgrade notes",
+  "text": "- Hinweise zum Upgrade anzeigen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "- Hinweise zum Upgrade anzeigen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

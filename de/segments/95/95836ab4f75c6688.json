@@ -1,0 +1,14 @@
+{
+  "hash": "95836ab4f75c6688",
+  "source": "no server: skip anything that would only run there",
+  "text": "kein Server: alles überspringen, was nur dort laufen würde",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "kein Server: alles überspringen, was nur dort laufen würde"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

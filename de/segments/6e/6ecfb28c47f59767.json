@@ -1,0 +1,14 @@
+{
+  "hash": "6ecfb28c47f59767",
+  "source": "Without using {0}, the {1} parameter would be typed as the raw {2} interface, where {3} and {4} could be {5} even when defaults are provided. The {6} method enables TypeScript to understand that default values make those properties non-optional in the resolved options.",
+  "text": "Ohne {0} wäre der Parameter {1} als das ursprüngliche Interface {2} typisiert, bei dem {3} und {4} auch dann {5} sein könnten, wenn Standardwerte angegeben sind. Die Methode {6} ermöglicht es TypeScript zu erkennen, dass Standardwerte diese Eigenschaften in den aufgelösten Optionen nicht optional machen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ohne {0} wäre der Parameter {1} als das ursprüngliche Interface {2} typisiert, bei dem {3} und {4} auch dann {5} sein könnten, wenn Standardwerte angegeben sind. Die Methode {6} ermöglicht es TypeScript zu erkennen, dass Standardwerte diese Eigenschaften in den aufgelösten Optionen nicht optional machen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

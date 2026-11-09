@@ -1,0 +1,14 @@
+{
+  "hash": "3ab0f99cd844fbd0",
+  "source": "disables automatic watching of id",
+  "text": "deaktiviert die automatische Beobachtung von id",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "deaktiviert die automatische Beobachtung von id"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

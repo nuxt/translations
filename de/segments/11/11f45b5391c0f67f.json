@@ -1,0 +1,14 @@
+{
+  "hash": "11f45b5391c0f67f",
+  "source": "The contract above is deliberately builder-agnostic. It works for both the legacy path, where the app builder runs its own bundle and the server builder bundles the deployable separately through its own pass, and the newer {0}Vite Environment API{/0} path, where Nitro runs as a Vite environment.",
+  "text": "Der obige Vertrag ist bewusst unabhängig vom Builder gehalten. Er funktioniert sowohl für den älteren Pfad, bei dem der App-Builder sein eigenes Bundle ausführt und der Server-Builder das bereitstellbare Artefakt in einem eigenen Durchlauf separat bündelt, als auch für den neueren Pfad über die {0}Vite Environment API{/0}, bei dem Nitro als Vite-Environment läuft.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der obige Vertrag ist bewusst unabhängig vom Builder gehalten. Er funktioniert sowohl für den älteren Pfad, bei dem der App-Builder sein eigenes Bundle ausführt und der Server-Builder das bereitstellbare Artefakt in einem eigenen Durchlauf separat bündelt, als auch für den neueren Pfad über die {0}Vite Environment API{/0}, bei dem Nitro als Vite-Environment läuft."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

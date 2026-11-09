@@ -1,0 +1,14 @@
+{
+  "hash": "7a3cdf532cdc8e23",
+  "source": "The main API is {0}",
+  "text": "Die Haupt-API ist {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Haupt-API ist {0}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

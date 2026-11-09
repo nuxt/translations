@@ -1,0 +1,14 @@
+{
+  "hash": "1ea670a1dbec4493",
+  "source": "A simple link to the {0} page in your {1} folder:",
+  "text": "Ein einfacher Link zur Seite {0} in deinem Verzeichnis {1}:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein einfacher Link zur Seite {0} in deinem Verzeichnis {1}:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

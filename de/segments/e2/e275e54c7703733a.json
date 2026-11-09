@@ -1,0 +1,14 @@
+{
+  "hash": "e275e54c7703733a",
+  "source": "{0}: custom data attached to the record",
+  "text": "{0}: benutzerdefinierte Daten, die dem Eintrag angehängt sind",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: benutzerdefinierte Daten, die dem Eintrag angehängt sind"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

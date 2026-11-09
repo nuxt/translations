@@ -1,0 +1,14 @@
+{
+  "hash": "63ce7afb43df508c",
+  "source": "If you have an error with custom fields they will be lost; you should assign them to {0} instead:",
+  "text": "Wenn du einen Fehler mit benutzerdefinierten Feldern hast, gehen diese verloren. Weise sie stattdessen {0} zu:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du einen Fehler mit benutzerdefinierten Feldern hast, gehen diese verloren. Weise sie stattdessen {0} zu:"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

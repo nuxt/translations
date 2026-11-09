@@ -1,0 +1,14 @@
+{
+  "hash": "df1b017d81f39484",
+  "source": "Advanced: access/set {0} yourself",
+  "text": "Fortgeschritten: {0} selbst auslesen/setzen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fortgeschritten: {0} selbst auslesen/setzen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

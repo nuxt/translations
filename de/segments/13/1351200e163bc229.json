@@ -1,0 +1,14 @@
+{
+  "hash": "1351200e163bc229",
+  "source": "Optional dependencies won't be installed but ensure that options",
+  "text": "Optionale Abhängigkeiten werden nicht installiert, stellen aber sicher, dass Optionen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Optionale Abhängigkeiten werden nicht installiert, stellen aber sicher, dass Optionen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

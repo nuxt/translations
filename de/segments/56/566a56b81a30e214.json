@@ -1,0 +1,14 @@
+{
+  "hash": "566a56b81a30e214",
+  "source": "Migrate {0} to {1} throughout the Vue part of your app.",
+  "text": "Migriere {0} im gesamten Vue-Teil deiner App zu {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Migriere {0} im gesamten Vue-Teil deiner App zu {1}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

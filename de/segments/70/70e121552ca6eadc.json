@@ -1,0 +1,14 @@
+{
+  "hash": "70e121552ca6eadc",
+  "source": "To keep a phone number tappable, wrap it in an {0} element so the link is part of the server-rendered HTML.",
+  "text": "Damit eine Telefonnummer weiterhin antippbar bleibt, umschließe sie mit einem {0}-Element, sodass der Link Teil des auf dem Server gerenderten HTML ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Damit eine Telefonnummer weiterhin antippbar bleibt, umschließe sie mit einem {0}-Element, sodass der Link Teil des auf dem Server gerenderten HTML ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

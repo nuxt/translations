@@ -1,0 +1,14 @@
+{
+  "hash": "ed72e0ca72de8229",
+  "source": "Nuxt will automatically wrap your page in {0}the Vue {1} component{/0} if you set {2} in your {3}. This might be useful to do, for example, in a parent route that has dynamic child routes, if you want to preserve page state across route changes.",
+  "text": "Nuxt umschließt deine Seite automatisch mit {0}der Vue-Komponente {1}{/0}, wenn du {2} in deinem {3} setzt. Das kann zum Beispiel in einer übergeordneten Route mit dynamischen untergeordneten Routen nützlich sein, wenn du den Seitenzustand über Routenwechsel hinweg beibehalten möchtest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt umschließt deine Seite automatisch mit {0}der Vue-Komponente {1}{/0}, wenn du {2} in deinem {3} setzt. Das kann zum Beispiel in einer übergeordneten Route mit dynamischen untergeordneten Routen nützlich sein, wenn du den Seitenzustand über Routenwechsel hinweg beibehalten möchtest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

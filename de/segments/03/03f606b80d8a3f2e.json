@@ -1,0 +1,14 @@
+{
+  "hash": "03f606b80d8a3f2e",
+  "source": "On a {0} v2 host, a handler reads {1} relative to the base of its route, because Nitro v2 strips the base. For a request to {2}, {3} is {4}. The full URL is still available from {5}, and the {6} variant reads it from {7}.",
+  "text": "Auf einem {0}-v2-Host liest ein Handler {1} relativ zur Basis seiner Route, weil Nitro v2 die Basis entfernt. Bei einer Anfrage an {2} ist {3} gleich {4}. Die vollständige URL ist weiterhin über {5} verfügbar, und die Variante {6} liest sie aus {7}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auf einem {0}-v2-Host liest ein Handler {1} relativ zur Basis seiner Route, weil Nitro v2 die Basis entfernt. Bei einer Anfrage an {2} ist {3} gleich {4}. Die vollständige URL ist weiterhin über {5} verfügbar, und die Variante {6} liest sie aus {7}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

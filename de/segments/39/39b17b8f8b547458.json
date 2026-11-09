@@ -1,0 +1,14 @@
+{
+  "hash": "39b17b8f8b547458",
+  "source": "This feature is not yet supported in Nuxt 3. If you want to overwrite the default scroll behavior of {0}, you can do so in an {1} (see {2}docs{/2}) for more info. Similar to {3}, specify it within the {4} compiler macro.",
+  "text": "Diese Funktion wird in Nuxt 3 noch nicht unterstützt. Wenn du das Standard-Scrollverhalten von {0} überschreiben möchtest, kannst du das in einer {1} tun (weitere Informationen findest du in der {2}Dokumentation{/2}). Wie bei {3} gibst du sie im Compiler-Makro {4} an.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese Funktion wird in Nuxt 3 noch nicht unterstützt. Wenn du das Standard-Scrollverhalten von {0} überschreiben möchtest, kannst du das in einer {1} tun (weitere Informationen findest du in der {2}Dokumentation{/2}). Wie bei {3} gibst du sie im Compiler-Makro {4} an."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "040206a3a60f4d18",
+  "source": "{0} - Allows you to define middleware that should or should not run for page paths within the Vue app part of your application (that is, not your Nitro routes)",
+  "text": "{0} – Ermöglicht es dir, Middleware zu definieren, die für Seitenpfade im Vue-Teil deiner Anwendung ausgeführt werden soll oder nicht (also nicht für deine Nitro-Routen).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} – Ermöglicht es dir, Middleware zu definieren, die für Seitenpfade im Vue-Teil deiner Anwendung ausgeführt werden soll oder nicht (also nicht für deine Nitro-Routen)."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e5cca369743eb1db",
+  "source": "{0}: (optional) if true, the handler will only be used for the first matching request and then automatically removed",
+  "text": "{0}: (optional) Wenn true, wird der Handler nur für die erste passende Anfrage verwendet und danach automatisch entfernt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: (optional) Wenn true, wird der Handler nur für die erste passende Anfrage verwendet und danach automatisch entfernt"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

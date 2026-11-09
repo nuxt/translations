@@ -1,0 +1,14 @@
+{
+  "hash": "471a0f7a3324ef25",
+  "source": "You can use TypeScript syntax for Nuxt 2 and 3 modules and plugins without any extra dependencies.",
+  "text": "Du kannst die TypeScript-Syntax für Nuxt-2- und Nuxt-3-Module und -Plugins ohne zusätzliche Abhängigkeiten verwenden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Du kannst die TypeScript-Syntax für Nuxt-2- und Nuxt-3-Module und -Plugins ohne zusätzliche Abhängigkeiten verwenden."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

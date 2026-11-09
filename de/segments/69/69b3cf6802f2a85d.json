@@ -1,0 +1,14 @@
+{
+  "hash": "69b3cf6802f2a85d",
+  "source": "The injected key is a hash derived from the file path and call location.",
+  "text": "Der eingefügte Schlüssel ist ein Hash, der aus dem Dateipfad und der Aufrufposition abgeleitet wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der eingefügte Schlüssel ist ein Hash, der aus dem Dateipfad und der Aufrufposition abgeleitet wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

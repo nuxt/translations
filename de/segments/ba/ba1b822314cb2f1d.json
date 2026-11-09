@@ -1,0 +1,14 @@
+{
+  "hash": "ba1b822314cb2f1d",
+  "source": "Default {0} and {1} values in {2} and {3}",
+  "text": "Standardwerte für {0} und {1} in {2} und {3}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardwerte für {0} und {1} in {2} und {3}"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

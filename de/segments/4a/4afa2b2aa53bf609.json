@@ -1,0 +1,14 @@
+{
+  "hash": "4afa2b2aa53bf609",
+  "source": "This global {0} file allows you to define default settings that apply to all Nuxt projects on your system. However, project-level {1} files will override these global settings, and {2} will take precedence over both.",
+  "text": "Mit dieser globalen {0}-Datei kannst du Standardeinstellungen definieren, die für alle Nuxt-Projekte auf deinem System gelten. Die {1}-Dateien auf Projektebene überschreiben diese globalen Einstellungen jedoch, und {2} hat vor beiden Vorrang.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit dieser globalen {0}-Datei kannst du Standardeinstellungen definieren, die für alle Nuxt-Projekte auf deinem System gelten. Die {1}-Dateien auf Projektebene überschreiben diese globalen Einstellungen jedoch, und {2} hat vor beiden Vorrang."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

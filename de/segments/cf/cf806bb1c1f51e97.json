@@ -1,0 +1,14 @@
+{
+  "hash": "cf806bb1c1f51e97",
+  "source": "4. Perform checks related to this fixture",
+  "text": "4. Führe Prüfungen für diese Fixture durch",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "4. Führe Prüfungen für diese Fixture durch"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

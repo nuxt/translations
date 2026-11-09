@@ -1,0 +1,14 @@
+{
+  "hash": "307484e81dc1ee9d",
+  "source": "With that, you will need both the {0} to handle the fetch lifecycle, and {1} to start the data fetch.",
+  "text": "Damit benötigst du sowohl {0}, um den Lebenszyklus des Abrufs zu steuern, als auch {1}, um den Datenabruf zu starten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Damit benötigst du sowohl {0}, um den Lebenszyklus des Abrufs zu steuern, als auch {1}, um den Datenabruf zu starten."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

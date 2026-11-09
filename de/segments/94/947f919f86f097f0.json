@@ -1,0 +1,14 @@
+{
+  "hash": "947f919f86f097f0",
+  "source": "This method is useful if you want to invalidate the state of {0}.",
+  "text": "Diese Methode ist nützlich, wenn du den Zustand von {0} ungültig machen möchtest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese Methode ist nützlich, wenn du den Zustand von {0} ungültig machen möchtest."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

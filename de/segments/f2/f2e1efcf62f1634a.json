@@ -1,0 +1,14 @@
+{
+  "hash": "f2e1efcf62f1634a",
+  "source": "... or disable a default layout",
+  "text": "... oder ein Standard-Layout deaktivieren",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "... oder ein Standard-Layout deaktivieren"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

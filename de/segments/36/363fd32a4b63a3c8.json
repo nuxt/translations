@@ -1,0 +1,14 @@
+{
+  "hash": "363fd32a4b63a3c8",
+  "source": "Set the {0} value to a specific value. {1} accepts a {2} option to skip the interval and show the loading state immediately.",
+  "text": "Setzt den Wert von {0} auf einen bestimmten Wert. {1} akzeptiert die Option {2}, um das Intervall zu überspringen und den Ladezustand sofort anzuzeigen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Setzt den Wert von {0} auf einen bestimmten Wert. {1} akzeptiert die Option {2}, um das Intervall zu überspringen und den Ladezustand sofort anzuzeigen."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

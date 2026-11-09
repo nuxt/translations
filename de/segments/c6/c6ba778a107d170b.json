@@ -1,0 +1,14 @@
+{
+  "hash": "c6ba778a107d170b",
+  "source": "Setting {0} to {1} is similar to {2} to {3}.",
+  "text": "Das Setzen von {0} auf {1} ähnelt dem Setzen von {2} auf {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Setzen von {0} auf {1} ähnelt dem Setzen von {2} auf {3}."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

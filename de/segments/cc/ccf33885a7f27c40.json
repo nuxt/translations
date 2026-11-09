@@ -1,0 +1,14 @@
+{
+  "hash": "ccf33885a7f27c40",
+  "source": "Optional error to be thrown by {0}.",
+  "text": "Optionaler Fehler, der von {0} ausgelöst wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Optionaler Fehler, der von {0} ausgelöst wird."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

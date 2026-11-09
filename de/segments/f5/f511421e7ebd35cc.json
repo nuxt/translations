@@ -1,0 +1,14 @@
+{
+  "hash": "f511421e7ebd35cc",
+  "source": "The module uses secured & sealed cookies to store session data, so you don't need to setup a database to store session data.",
+  "text": "Das Modul speichert Sitzungsdaten in gesicherten und versiegelten Cookies, sodass du keine Datenbank dafür einrichten musst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Modul speichert Sitzungsdaten in gesicherten und versiegelten Cookies, sodass du keine Datenbank dafür einrichten musst."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

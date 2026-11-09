@@ -1,0 +1,14 @@
+{
+  "hash": "3d827193f2a0cbc4",
+  "source": "Skip dependency uninstall",
+  "text": "Deinstallation der Abhängigkeit überspringen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Deinstallation der Abhängigkeit überspringen"
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}

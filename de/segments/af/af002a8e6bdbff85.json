@@ -1,0 +1,14 @@
+{
+  "hash": "af002a8e6bdbff85",
+  "source": "In this case, the template is removed as soon as Vue mounts the app, so the screen may be blank until the first page is ready to render.",
+  "text": "In diesem Fall wird die Vorlage entfernt, sobald Vue die App mountet. Daher kann der Bildschirm leer bleiben, bis die erste Seite zum Rendern bereit ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In diesem Fall wird die Vorlage entfernt, sobald Vue die App mountet. Daher kann der Bildschirm leer bleiben, bis die erste Seite zum Rendern bereit ist."
+  },
+  "updatedAt": "2026-11-09T17:24:55.822Z"
+}
