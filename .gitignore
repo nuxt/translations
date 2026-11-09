@@ -3,3 +3,4 @@
 .x18n/
 node_modules
 .idea
+.env
