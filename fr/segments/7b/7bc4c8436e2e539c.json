@@ -1,0 +1,15 @@
+{
+  "hash": "7bc4c8436e2e539c",
+  "source": "**Server plugins.** {0} comes from {1}. A module that only registers render hooks can register a {2}renderer plugin{/2} instead, which runs under any server builder. Inside a plugin, {3} from {4} registers the renderer hooks (including {5}) and those declared on {6}; Nitro's own hooks, such as {7}, {8} and {9}, come from {10} in {11}.",
+  "text": "**Plugins serveur.** {0} provient de {1}. Un module qui ne fait qu'enregistrer des hooks de rendu peut enregistrer à la place un {2}plugin de rendu{/2}, qui s'exécute avec n'importe quel builder serveur. Dans un plugin, {3} depuis {4} enregistre les hooks du moteur de rendu (dont {5}) et ceux déclarés sur {6} ; les hooks propres à Nitro, comme {7}, {8} et {9}, proviennent de {10} dans {11}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "1091d23c51573330",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Plugins serveur.** {0} provient de {1}. Un module qui ne fait qu'enregistrer des hooks de rendu peut enregistrer à la place un {2}plugin de rendu{/2}, qui s'exécute avec n'importe quel builder serveur. Dans un plugin, {3} depuis {4} enregistre les hooks du moteur de rendu (dont {5}) et ceux déclarés sur {6} ; les hooks propres à Nitro, comme {7}, {8} et {9}, proviennent de {10} dans {11}."
+  },
+  "updatedAt": "2026-11-09T22:30:59.188Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "38afd2dd75861336",
+  "source": "The plugin can register {0}, {1}, {2}, {3} and {4}. {5} and {6} are called for every page the renderer produces, including error pages and routes with an {7} route rule; {8} and {9} only for a streamed response, and {10} for a server component. Each is called before the same hook registered on the server runtime, such as by a Nitro plugin. The plugin is called synchronously, and a promise it returns is not awaited.",
+  "text": "Le plugin peut enregistrer {0}, {1}, {2}, {3} et {4}. {5} et {6} sont appelés pour chaque page produite par le moteur de rendu, y compris les pages d'erreur et les routes avec une règle de route {7} ; {8} et {9} uniquement pour une réponse en streaming, et {10} pour un composant serveur. Chacun est appelé avant le même hook enregistré sur le runtime serveur, par exemple par un plugin Nitro. Le plugin est appelé de manière synchrone, et une promesse qu'il retourne n'est pas attendue.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le plugin peut enregistrer {0}, {1}, {2}, {3} et {4}. {5} et {6} sont appelés pour chaque page produite par le moteur de rendu, y compris les pages d'erreur et les routes avec une règle de route {7} ; {8} et {9} uniquement pour une réponse en streaming, et {10} pour un composant serveur. Chacun est appelé avant le même hook enregistré sur le runtime serveur, par exemple par un plugin Nitro. Le plugin est appelé de manière synchrone, et une promesse qu'il retourne n'est pas attendue."
+  },
+  "updatedAt": "2026-11-09T22:30:59.188Z"
+}

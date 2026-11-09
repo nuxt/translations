@@ -1,0 +1,14 @@
+{
+  "hash": "1413cf42c9f91e25",
+  "source": "Called once per request, before rendering begins. Set {0} to {1} to render the request without streaming.",
+  "text": "Wird einmal pro Anfrage aufgerufen, bevor das Rendern beginnt. Setze {0} auf {1}, um die Anfrage ohne Streaming zu rendern.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird einmal pro Anfrage aufgerufen, bevor das Rendern beginnt. Setze {0} auf {1}, um die Anfrage ohne Streaming zu rendern."
+  },
+  "updatedAt": "2026-11-09T22:30:59.188Z"
+}

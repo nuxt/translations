@@ -1,0 +1,14 @@
+{
+  "hash": "4e9e9fc96e2aad9c",
+  "source": "When Nuxt runs on Nitro, a server plugin can also register them on {0}.",
+  "text": "Lorsque Nuxt s'exécute sur Nitro, un plugin serveur peut également les enregistrer sur {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque Nuxt s'exécute sur Nitro, un plugin serveur peut également les enregistrer sur {0}."
+  },
+  "updatedAt": "2026-11-09T22:30:59.188Z"
+}

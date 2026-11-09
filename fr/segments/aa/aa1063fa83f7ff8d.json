@@ -1,0 +1,14 @@
+{
+  "hash": "aa1063fa83f7ff8d",
+  "source": "Renderer Hooks (Runtime)",
+  "text": "Hooks du moteur de rendu (runtime)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Hooks du moteur de rendu (runtime)"
+  },
+  "updatedAt": "2026-11-09T22:30:59.188Z"
+}

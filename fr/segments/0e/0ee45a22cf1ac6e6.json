@@ -1,0 +1,14 @@
+{
+  "hash": "0ee45a22cf1ac6e6",
+  "source": "Called before a server component response is sent. Server components are only rendered on Nitro.",
+  "text": "Appelé avant l'envoi d'une réponse de composant serveur. Les composants serveur ne sont rendus que sur Nitro.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé avant l'envoi d'une réponse de composant serveur. Les composants serveur ne sont rendus que sur Nitro."
+  },
+  "updatedAt": "2026-11-09T22:30:59.188Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "65ba8d91d8eed618",
+  "source": "These hooks are called by Nitro, so they are only available when Nuxt runs on Nitro. See {0}Nitro{/0} for all available hooks.",
+  "text": "Ces hooks sont appelés par Nitro, ils ne sont donc disponibles que lorsque Nuxt s'exécute sur Nitro. Consultez {0}Nitro{/0} pour tous les hooks disponibles.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ces hooks sont appelés par Nitro, ils ne sont donc disponibles que lorsque Nuxt s'exécute sur Nitro. Consultez {0}Nitro{/0} pour tous les hooks disponibles."
+  },
+  "updatedAt": "2026-11-09T22:30:59.188Z"
+}

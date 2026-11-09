@@ -1,0 +1,14 @@
+{
+  "hash": "9ec6784d1fe8cc2f",
+  "source": "Explore all available renderer hooks.",
+  "text": "Alle verfügbaren Renderer-Hooks ansehen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Alle verfügbaren Renderer-Hooks ansehen."
+  },
+  "updatedAt": "2026-11-09T22:30:59.188Z"
+}

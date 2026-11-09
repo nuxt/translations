@@ -1,0 +1,14 @@
+{
+  "hash": "8b1bec7f6a2b4c65",
+  "source": "Renderer Plugins",
+  "text": "Plugins de rendu",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Plugins de rendu"
+  },
+  "updatedAt": "2026-11-09T22:30:59.188Z"
+}

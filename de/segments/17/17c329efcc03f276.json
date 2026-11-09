@@ -1,0 +1,14 @@
+{
+  "hash": "17c329efcc03f276",
+  "source": "Path to the renderer plugin, or the renderer plugin as {0} alongside the Nitro plugins to register instead on a version of Nuxt without renderer plugins. The renderer plugin must export a default function that accepts {1}.",
+  "text": "Pfad zum Renderer-plugin oder das Renderer-plugin als {0} neben den Nitro-plugins, die stattdessen bei einer Nuxt-Version ohne Renderer-plugins registriert werden. Das Renderer-plugin muss eine Standardfunktion exportieren, die {1} akzeptiert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pfad zum Renderer-plugin oder das Renderer-plugin als {0} neben den Nitro-plugins, die stattdessen bei einer Nuxt-Version ohne Renderer-plugins registriert werden. Das Renderer-plugin muss eine Standardfunktion exportieren, die {1} akzeptiert."
+  },
+  "updatedAt": "2026-11-09T22:30:59.188Z"
+}

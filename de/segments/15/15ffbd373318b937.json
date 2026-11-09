@@ -1,0 +1,14 @@
+{
+  "hash": "15ffbd373318b937",
+  "source": "The Nuxt renderer calls these hooks while it renders a page, such as {0} to change the HTML before it is sent. A module registers them from a renderer plugin, which runs under any server builder.",
+  "text": "Der Nuxt-Renderer ruft diese Hooks auf, während er eine Seite rendert, z. B. {0}, um das HTML vor dem Senden zu ändern. Ein Modul registriert sie über ein Renderer-Plugin, das unter jedem Server-Builder läuft.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Nuxt-Renderer ruft diese Hooks auf, während er eine Seite rendert, z. B. {0}, um das HTML vor dem Senden zu ändern. Ein Modul registriert sie über ein Renderer-Plugin, das unter jedem Server-Builder läuft."
+  },
+  "updatedAt": "2026-11-09T22:30:59.188Z"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "f8a642578de03ca5",
+  "source": "These hooks are available for {0}server plugins{/0} to hook into Nitro's runtime behavior, so they are only called when Nuxt runs on Nitro.",
+  "text": "Ces hooks sont disponibles pour les {0}plugins serveur{/0} afin de s'intégrer au comportement d'exécution de Nitro, ils ne sont donc appelés que lorsque Nuxt s'exécute sur Nitro.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "db47e25c00fc6f47",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ces hooks sont disponibles pour les {0}plugins serveur{/0} afin de s'intégrer au comportement d'exécution de Nitro, ils ne sont donc appelés que lorsque Nuxt s'exécute sur Nitro."
+  },
+  "updatedAt": "2026-11-09T22:30:59.188Z"
+}

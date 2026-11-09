@@ -1,0 +1,14 @@
+{
+  "hash": "9ec6784d1fe8cc2f",
+  "source": "Explore all available renderer hooks.",
+  "text": "Découvrez tous les hooks du moteur de rendu disponibles.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Découvrez tous les hooks du moteur de rendu disponibles."
+  },
+  "updatedAt": "2026-11-09T22:30:59.188Z"
+}

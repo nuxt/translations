@@ -1,0 +1,15 @@
+{
+  "hash": "5f8c8e3ef0d08263",
+  "source": "Server plugins take variants too, although they are specific to Nitro so there is no generic {0} variant to register. A plugin that only registers render hooks can be a {1}renderer plugin{/1} instead.",
+  "text": "Auch Server-Plugins akzeptieren Varianten, sie sind aber Nitro-spezifisch, sodass es keine generische {0}-Variante zum Registrieren gibt. Ein Plugin, das nur Render-Hooks registriert, kann stattdessen ein {1}Renderer-Plugin{/1} sein.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "da6625c8cdaf0fc6",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auch Server-Plugins akzeptieren Varianten, sie sind aber Nitro-spezifisch, sodass es keine generische {0}-Variante zum Registrieren gibt. Ein Plugin, das nur Render-Hooks registriert, kann stattdessen ein {1}Renderer-Plugin{/1} sein."
+  },
+  "updatedAt": "2026-11-09T22:30:59.188Z"
+}

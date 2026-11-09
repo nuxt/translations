@@ -1,0 +1,14 @@
+{
+  "hash": "170e28e9abe2dd98",
+  "source": "If your module registers render hooks, such as {0} to add a script to the {1} of every page, register a renderer plugin with {2}. Every SSR renderer calls it once, before it renders, with the hooks it calls while rendering. It runs under any server builder and in whatever runtime the server renders in, including deploy targets such as Cloudflare Workers.",
+  "text": "Si votre module enregistre des hooks de rendu, tels que {0} pour ajouter un script dans le {1} de chaque page, enregistrez un plugin de rendu avec {2}. Chaque moteur de rendu SSR l'appelle une fois, avant le rendu, avec les hooks qu'il appelle pendant le rendu. Il s'exécute avec n'importe quel builder de serveur et dans n'importe quel runtime où le serveur effectue le rendu, y compris sur des cibles de déploiement comme Cloudflare Workers.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si votre module enregistre des hooks de rendu, tels que {0} pour ajouter un script dans le {1} de chaque page, enregistrez un plugin de rendu avec {2}. Chaque moteur de rendu SSR l'appelle une fois, avant le rendu, avec les hooks qu'il appelle pendant le rendu. Il s'exécute avec n'importe quel builder de serveur et dans n'importe quel runtime où le serveur effectue le rendu, y compris sur des cibles de déploiement comme Cloudflare Workers."
+  },
+  "updatedAt": "2026-11-09T22:30:59.188Z"
+}

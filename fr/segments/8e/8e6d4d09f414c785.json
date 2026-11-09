@@ -1,0 +1,14 @@
+{
+  "hash": "8e6d4d09f414c785",
+  "source": "Called when the body of a streamed response has been rendered, before the closing tags. Push to {0} to add markup at the end of the body.",
+  "text": "Appelé lorsque le corps d'une réponse en streaming a été rendu, avant les balises de fermeture. Ajoutez des éléments à {0} avec push pour insérer du balisage à la fin du corps.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé lorsque le corps d'une réponse en streaming a été rendu, avant les balises de fermeture. Ajoutez des éléments à {0} avec push pour insérer du balisage à la fin du corps."
+  },
+  "updatedAt": "2026-11-09T22:30:59.188Z"
+}

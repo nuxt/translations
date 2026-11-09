@@ -1,0 +1,15 @@
+{
+  "hash": "68c6925a35fe47f7",
+  "source": "A module built on Nitro plugins, storage or caching has no {0} variant, because {1} doesn't cover those areas. Register its files as {2} now, and add a {3} variant when you port them.",
+  "text": "Ein Modul, das auf Nitro-Plugins, Storage oder Caching aufbaut, hat keine {0}-Variante, da {1} diese Bereiche nicht abdeckt. Registriere seine Dateien vorerst als {2} und füge eine {3}-Variante hinzu, wenn du sie portierst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "5de2866f9fa9736e",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein Modul, das auf Nitro-Plugins, Storage oder Caching aufbaut, hat keine {0}-Variante, da {1} diese Bereiche nicht abdeckt. Registriere seine Dateien vorerst als {2} und füge eine {3}-Variante hinzu, wenn du sie portierst."
+  },
+  "updatedAt": "2026-11-09T22:30:59.188Z"
+}

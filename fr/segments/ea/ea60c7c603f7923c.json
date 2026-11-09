@@ -1,0 +1,14 @@
+{
+  "hash": "ea60c7c603f7923c",
+  "source": "A Nitro plugin only runs when Nuxt runs on Nitro. A module can register the same hook from a {0}renderer plugin{/0}, which runs under any server builder.",
+  "text": "Un plugin Nitro ne s'exécute que lorsque Nuxt tourne sur Nitro. Un module peut enregistrer le même hook depuis un {0}plugin de rendu{/0}, qui s'exécute avec n'importe quel serveur de build.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un plugin Nitro ne s'exécute que lorsque Nuxt tourne sur Nitro. Un module peut enregistrer le même hook depuis un {0}plugin de rendu{/0}, qui s'exécute avec n'importe quel serveur de build."
+  },
+  "updatedAt": "2026-11-09T22:30:59.188Z"
+}

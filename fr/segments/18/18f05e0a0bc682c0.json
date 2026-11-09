@@ -1,0 +1,14 @@
+{
+  "hash": "18f05e0a0bc682c0",
+  "source": "See how renderer plugins run on each server builder, and on versions of Nuxt without them.",
+  "text": "Découvrez comment les plugins de moteur de rendu s'exécutent sur chaque server builder, ainsi que sur les versions de Nuxt qui n'en disposent pas.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Découvrez comment les plugins de moteur de rendu s'exécutent sur chaque server builder, ainsi que sur les versions de Nuxt qui n'en disposent pas."
+  },
+  "updatedAt": "2026-11-09T22:30:59.188Z"
+}

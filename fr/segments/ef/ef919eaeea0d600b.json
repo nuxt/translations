@@ -1,0 +1,14 @@
+{
+  "hash": "ef919eaeea0d600b",
+  "source": "There is no {0} hook. To set a response header for a page, set it on {1} from {2}, which is called before the response is created.",
+  "text": "Il n'existe pas de hook {0}. Pour définir un en-tête de réponse pour une page, définissez-le sur {1} depuis {2}, qui est appelé avant la création de la réponse.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il n'existe pas de hook {0}. Pour définir un en-tête de réponse pour une page, définissez-le sur {1} depuis {2}, qui est appelé avant la création de la réponse."
+  },
+  "updatedAt": "2026-11-09T22:30:59.188Z"
+}

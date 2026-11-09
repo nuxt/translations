@@ -1,0 +1,14 @@
+{
+  "hash": "e6d6c6120b909d3d",
+  "source": "Response headers set here are sent with the page.",
+  "text": "Les en-têtes de réponse définis ici sont envoyés avec la page.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les en-têtes de réponse définis ici sont envoyés avec la page."
+  },
+  "updatedAt": "2026-11-09T22:30:59.188Z"
+}

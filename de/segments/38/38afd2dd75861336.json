@@ -1,0 +1,14 @@
+{
+  "hash": "38afd2dd75861336",
+  "source": "The plugin can register {0}, {1}, {2}, {3} and {4}. {5} and {6} are called for every page the renderer produces, including error pages and routes with an {7} route rule; {8} and {9} only for a streamed response, and {10} for a server component. Each is called before the same hook registered on the server runtime, such as by a Nitro plugin. The plugin is called synchronously, and a promise it returns is not awaited.",
+  "text": "Das Plugin kann {0}, {1}, {2}, {3} und {4} registrieren. {5} und {6} werden für jede Seite aufgerufen, die der Renderer erzeugt, einschließlich Fehlerseiten und Routen mit einer {7}-Routenregel; {8} und {9} nur bei einer gestreamten Antwort und {10} bei einer Serverkomponente. Jeder dieser Hooks wird vor dem gleichnamigen Hook aufgerufen, der in der Server-Laufzeitumgebung registriert ist, etwa durch ein Nitro-Plugin. Das Plugin wird synchron aufgerufen, und ein von ihm zurückgegebenes Promise wird nicht abgewartet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Plugin kann {0}, {1}, {2}, {3} und {4} registrieren. {5} und {6} werden für jede Seite aufgerufen, die der Renderer erzeugt, einschließlich Fehlerseiten und Routen mit einer {7}-Routenregel; {8} und {9} nur bei einer gestreamten Antwort und {10} bei einer Serverkomponente. Jeder dieser Hooks wird vor dem gleichnamigen Hook aufgerufen, der in der Server-Laufzeitumgebung registriert ist, etwa durch ein Nitro-Plugin. Das Plugin wird synchron aufgerufen, und ein von ihm zurückgegebenes Promise wird nicht abgewartet."
+  },
+  "updatedAt": "2026-11-09T22:30:59.188Z"
+}

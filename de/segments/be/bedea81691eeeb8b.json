@@ -1,0 +1,14 @@
+{
+  "hash": "bedea81691eeeb8b",
+  "source": "Renderer Hooks (Runtime, Server-Side)",
+  "text": "Renderer-Hooks (Laufzeit, serverseitig)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Renderer-Hooks (Laufzeit, serverseitig)"
+  },
+  "updatedAt": "2026-11-09T22:30:59.188Z"
+}

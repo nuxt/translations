@@ -1,0 +1,14 @@
+{
+  "hash": "ef919eaeea0d600b",
+  "source": "There is no {0} hook. To set a response header for a page, set it on {1} from {2}, which is called before the response is created.",
+  "text": "Es gibt keinen {0}-Hook. Um einen Antwort-Header für eine Seite zu setzen, setze ihn auf {1} aus {2}, das aufgerufen wird, bevor die Antwort erstellt wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Es gibt keinen {0}-Hook. Um einen Antwort-Header für eine Seite zu setzen, setze ihn auf {1} aus {2}, das aufgerufen wird, bevor die Antwort erstellt wird."
+  },
+  "updatedAt": "2026-11-09T22:30:59.188Z"
+}

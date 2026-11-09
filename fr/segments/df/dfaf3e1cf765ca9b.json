@@ -1,0 +1,14 @@
+{
+  "hash": "dfaf3e1cf765ca9b",
+  "source": "Called with the parts of the HTML document ({0}, {1}, {2}, {3}, {4} and {5}) before they are joined. For a streamed response, it is called before the shell is sent, with {6}, and changes to {7} and {8} are dropped.",
+  "text": "Appelé avec les parties du document HTML ({0}, {1}, {2}, {3}, {4} et {5}) avant qu'elles ne soient assemblées. Pour une réponse en streaming, il est appelé avant l'envoi du shell, avec {6}, et les modifications apportées à {7} et {8} sont ignorées.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé avec les parties du document HTML ({0}, {1}, {2}, {3}, {4} et {5}) avant qu'elles ne soient assemblées. Pour une réponse en streaming, il est appelé avant l'envoi du shell, avec {6}, et les modifications apportées à {7} et {8} sont ignorées."
+  },
+  "updatedAt": "2026-11-09T22:30:59.188Z"
+}

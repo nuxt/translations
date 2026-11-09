@@ -1,0 +1,15 @@
+{
+  "hash": "341f1daf870a9e61",
+  "source": "Nitro is an open source TypeScript framework to build ultra-fast web servers. Nuxt uses Nitro as its server engine. You can use {0} to access the Nitro instance (or {1} if your module should also work without Nitro), {2} to add a server handler, {3} to add a server handler to be used only in development mode, {4} to add a plugin to extend Nitro's runtime behavior, {5} to register render hooks under any server builder, and {6} to add routes to be prerendered by Nitro.",
+  "text": "Nitro ist ein quelloffenes TypeScript-Framework zum Erstellen extrem schneller Web-Server. Nuxt verwendet Nitro als Server-Engine. Mit {0} greifst du auf die Nitro-Instanz zu (oder mit {1}, falls dein Modul auch ohne Nitro funktionieren soll), mit {2} fügst du einen Server-Handler hinzu, mit {3} einen Server-Handler, der nur im Entwicklungsmodus verwendet wird, mit {4} ein plugin, das das Laufzeitverhalten von Nitro erweitert, mit {5} registrierst du Render-Hooks unter einem beliebigen Server-Builder und mit {6} Routen, die Nitro vorab rendern soll.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "aef679189dff7267",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nitro ist ein quelloffenes TypeScript-Framework zum Erstellen extrem schneller Web-Server. Nuxt verwendet Nitro als Server-Engine. Mit {0} greifst du auf die Nitro-Instanz zu (oder mit {1}, falls dein Modul auch ohne Nitro funktionieren soll), mit {2} fügst du einen Server-Handler hinzu, mit {3} einen Server-Handler, der nur im Entwicklungsmodus verwendet wird, mit {4} ein plugin, das das Laufzeitverhalten von Nitro erweitert, mit {5} registrierst du Render-Hooks unter einem beliebigen Server-Builder und mit {6} Routen, die Nitro vorab rendern soll."
+  },
+  "updatedAt": "2026-11-09T22:30:59.188Z"
+}

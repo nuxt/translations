@@ -1,0 +1,14 @@
+{
+  "hash": "170e28e9abe2dd98",
+  "source": "If your module registers render hooks, such as {0} to add a script to the {1} of every page, register a renderer plugin with {2}. Every SSR renderer calls it once, before it renders, with the hooks it calls while rendering. It runs under any server builder and in whatever runtime the server renders in, including deploy targets such as Cloudflare Workers.",
+  "text": "Wenn dein Modul Render-Hooks registriert, etwa {0}, um ein Skript in das {1} jeder Seite einzufügen, registriere ein Renderer-Plugin mit {2}. Jeder SSR-Renderer ruft es einmal vor dem Rendern auf und übergibt die Hooks, die er beim Rendern aufruft. Es läuft mit jedem Server-Builder und in jeder Laufzeitumgebung, in der der Server rendert, einschließlich Bereitstellungszielen wie Cloudflare Workers.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn dein Modul Render-Hooks registriert, etwa {0}, um ein Skript in das {1} jeder Seite einzufügen, registriere ein Renderer-Plugin mit {2}. Jeder SSR-Renderer ruft es einmal vor dem Rendern auf und übergibt die Hooks, die er beim Rendern aufruft. Es läuft mit jedem Server-Builder und in jeder Laufzeitumgebung, in der der Server rendert, einschließlich Bereitstellungszielen wie Cloudflare Workers."
+  },
+  "updatedAt": "2026-11-09T22:30:59.188Z"
+}

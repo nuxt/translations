@@ -1,0 +1,14 @@
+{
+  "hash": "8e6d4d09f414c785",
+  "source": "Called when the body of a streamed response has been rendered, before the closing tags. Push to {0} to add markup at the end of the body.",
+  "text": "Wird aufgerufen, wenn der Body einer gestreamten Antwort gerendert wurde, noch vor den schließenden Tags. Füge mit Push zu {0} Markup am Ende des Body hinzu.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird aufgerufen, wenn der Body einer gestreamten Antwort gerendert wurde, noch vor den schließenden Tags. Füge mit Push zu {0} Markup am Ende des Body hinzu."
+  },
+  "updatedAt": "2026-11-09T22:30:59.188Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "0ee45a22cf1ac6e6",
+  "source": "Called before a server component response is sent. Server components are only rendered on Nitro.",
+  "text": "Wird aufgerufen, bevor die Antwort einer Serverkomponente gesendet wird. Serverkomponenten werden nur auf Nitro gerendert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird aufgerufen, bevor die Antwort einer Serverkomponente gesendet wird. Serverkomponenten werden nur auf Nitro gerendert."
+  },
+  "updatedAt": "2026-11-09T22:30:59.188Z"
+}

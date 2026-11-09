@@ -1,0 +1,14 @@
+{
+  "hash": "18f05e0a0bc682c0",
+  "source": "See how renderer plugins run on each server builder, and on versions of Nuxt without them.",
+  "text": "Hier siehst du, wie Renderer-plugins auf den einzelnen Server-Buildern laufen und wie sie sich auf Nuxt-Versionen ohne Renderer-plugins verhalten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Hier siehst du, wie Renderer-plugins auf den einzelnen Server-Buildern laufen und wie sie sich auf Nuxt-Versionen ohne Renderer-plugins verhalten."
+  },
+  "updatedAt": "2026-11-09T22:30:59.188Z"
+}

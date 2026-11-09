@@ -1,0 +1,14 @@
+{
+  "hash": "b4e2d9a3868ff84c",
+  "source": "On a version of Nuxt without renderer plugins, {0} registers the same file as a Nitro plugin, which needs {1} with {2} in your module's {3}. Nitro calls it with its app, whose {4} are the ones the renderer calls, so the plugin works there too as long as it only reads {5} and imports nothing a server of that version cannot resolve. If it does, pass the Nitro plugin to register instead:",
+  "text": "Bei einer Nuxt-Version ohne Renderer-Plugins registriert {0} dieselbe Datei als Nitro-Plugin, wofür in der {3} deines Moduls {1} mit {2} nötig ist. Nitro ruft es mit seiner App auf, deren {4} die sind, die der Renderer aufruft. Das Plugin funktioniert dort also ebenfalls, solange es nur {5} liest und nichts importiert, was ein Server dieser Version nicht auflösen kann. Ist das der Fall, übergib stattdessen das Nitro-Plugin zur Registrierung:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bei einer Nuxt-Version ohne Renderer-Plugins registriert {0} dieselbe Datei als Nitro-Plugin, wofür in der {3} deines Moduls {1} mit {2} nötig ist. Nitro ruft es mit seiner App auf, deren {4} die sind, die der Renderer aufruft. Das Plugin funktioniert dort also ebenfalls, solange es nur {5} liest und nichts importiert, was ein Server dieser Version nicht auflösen kann. Ist das der Fall, übergib stattdessen das Nitro-Plugin zur Registrierung:"
+  },
+  "updatedAt": "2026-11-09T22:30:59.188Z"
+}

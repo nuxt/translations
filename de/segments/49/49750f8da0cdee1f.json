@@ -1,0 +1,14 @@
+{
+  "hash": "49750f8da0cdee1f",
+  "source": "The Nuxt renderer calls these hooks while it renders a page, under any server builder. A module registers them from a {0}renderer plugin{/0}. When Nuxt runs on Nitro, a {1}server plugin{/1} can also register them on {2}. Their types are declared on {3}, exported from {4}.",
+  "text": "Der Nuxt-Renderer ruft diese Hooks auf, während er eine Seite rendert – unabhängig vom verwendeten Server-Builder. Ein Modul registriert sie über ein {0}Renderer-Plugin{/0}. Wenn Nuxt auf Nitro läuft, kann auch ein {1}Server-Plugin{/1} sie auf {2} registrieren. Ihre Typen sind in {3} deklariert und werden aus {4} exportiert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Nuxt-Renderer ruft diese Hooks auf, während er eine Seite rendert – unabhängig vom verwendeten Server-Builder. Ein Modul registriert sie über ein {0}Renderer-Plugin{/0}. Wenn Nuxt auf Nitro läuft, kann auch ein {1}Server-Plugin{/1} sie auf {2} registrieren. Ihre Typen sind in {3} deklariert und werden aus {4} exportiert."
+  },
+  "updatedAt": "2026-11-09T22:30:59.188Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "c711ded86277bbdc",
+  "source": "There is no {0} hook. Response headers set on {1} from {2} are sent with the page.",
+  "text": "Il n'existe pas de hook {0}. Les en-têtes de réponse définis sur {1} depuis {2} sont envoyés avec la page.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il n'existe pas de hook {0}. Les en-têtes de réponse définis sur {1} depuis {2} sont envoyés avec la page."
+  },
+  "updatedAt": "2026-11-09T22:30:59.188Z"
+}

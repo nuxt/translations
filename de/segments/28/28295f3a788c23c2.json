@@ -1,0 +1,14 @@
+{
+  "hash": "28295f3a788c23c2",
+  "source": "Add a plugin to the SSR renderer, which every renderer calls once, before it renders, with the hooks it calls while rendering. It runs under any server builder.",
+  "text": "Füge dem SSR-Renderer ein plugin hinzu. Jeder Renderer ruft es einmal vor dem Rendern auf und übergibt ihm die Hooks, die er während des Renderings aufruft. Es läuft unter jedem Server-Builder.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Füge dem SSR-Renderer ein plugin hinzu. Jeder Renderer ruft es einmal vor dem Rendern auf und übergibt ihm die Hooks, die er während des Renderings aufruft. Es läuft unter jedem Server-Builder."
+  },
+  "updatedAt": "2026-11-09T22:30:59.188Z"
+}

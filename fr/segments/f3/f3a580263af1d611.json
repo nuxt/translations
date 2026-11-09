@@ -1,0 +1,14 @@
+{
+  "hash": "f3a580263af1d611",
+  "source": "Called for each chunk of a streamed response before it is sent. Replace {0}, a {1}, to transform it.",
+  "text": "Appelé pour chaque chunk d'une réponse en streaming avant son envoi. Remplacez {0}, un {1}, pour le transformer.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé pour chaque chunk d'une réponse en streaming avant son envoi. Remplacez {0}, un {1}, pour le transformer."
+  },
+  "updatedAt": "2026-11-09T22:30:59.188Z"
+}
