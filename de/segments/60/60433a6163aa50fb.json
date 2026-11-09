@@ -3,12 +3,16 @@
   "source": "Example of an {0} middleware protecting the {1} page:",
   "text": "Beispiel für eine {0}-Middleware, die die Seite {1} schützt:",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Beispiel für eine {0}-Middleware, die die Seite {1} schützt:"
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-09T19:13:00.803Z"
+  },
+  "updatedAt": "2026-11-09T19:13:00.803Z"
 }

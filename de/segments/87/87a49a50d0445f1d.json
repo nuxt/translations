@@ -1,14 +1,15 @@
 {
   "hash": "87a49a50d0445f1d",
   "source": "The {0} component links pages between them. It renders an {1} tag with the {2} attribute set to the route of the page. Once the application is hydrated, page transitions are performed in JavaScript by updating the browser URL. This prevents full-page refreshes and allows for animated transitions.",
-  "text": "Die Komponente {0} verlinkt Seiten miteinander. Sie rendert ein {1}-Tag, dessen Attribut {2} auf die Route der Seite gesetzt ist. Sobald die Anwendung hydratisiert ist, erfolgen Seitenwechsel in JavaScript, indem die URL im Browser aktualisiert wird. Dadurch werden vollständige Seitenaktualisierungen vermieden und animierte Übergänge ermöglicht.",
-  "origin": "mt",
-  "review": "none",
+  "text": "Die Komponente {0} verlinkt Seiten miteinander. Sie rendert einen {1}-Tag, dessen Attribut {2} auf die Route der Seite gesetzt ist. Sobald die Anwendung hydratisiert ist, erfolgen Seitenwechsel in JavaScript, indem die URL im Browser aktualisiert wird. Dadurch werden vollständige Seitenaktualisierungen vermieden und animierte Übergänge ermöglicht.",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Die Komponente {0} verlinkt Seiten miteinander. Sie rendert ein {1}-Tag, dessen Attribut {2} auf die Route der Seite gesetzt ist. Sobald die Anwendung hydratisiert ist, erfolgen Seitenwechsel in JavaScript, indem die URL im Browser aktualisiert wird. Dadurch werden vollständige Seitenaktualisierungen vermieden und animierte Übergänge ermöglicht."
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-09T19:13:00.803Z"
 }

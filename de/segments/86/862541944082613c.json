@@ -3,12 +3,16 @@
   "source": "Nuxt offers route validation via the {0} property in {1} in each page you wish to validate.",
   "text": "Nuxt bietet Routenvalidierung über die Eigenschaft {0} in {1} auf jeder Seite, die du validieren möchtest.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Nuxt bietet Routenvalidierung über die Eigenschaft {0} in {1} auf jeder Seite, die du validieren möchtest."
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-09T19:13:00.803Z"
+  },
+  "updatedAt": "2026-11-09T19:13:00.803Z"
 }

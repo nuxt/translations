@@ -3,12 +3,16 @@
   "source": "Code-splitting is enabled by default and is recommended for most apps. If you have a specific reason to ship a single bundle instead, you can disable it in your {0}:",
   "text": "Code-Splitting ist standardmäßig aktiviert und wird für die meisten Apps empfohlen. Wenn du einen bestimmten Grund hast, stattdessen ein einzelnes Bundle auszuliefern, kannst du es in deiner {0} deaktivieren:",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Code-Splitting ist standardmäßig aktiviert und wird für die meisten Apps empfohlen. Wenn du einen bestimmten Grund hast, stattdessen ein einzelnes Bundle auszuliefern, kannst du es in deiner {0} deaktivieren:"
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-09T19:13:00.803Z"
+  },
+  "updatedAt": "2026-11-09T19:13:00.803Z"
 }

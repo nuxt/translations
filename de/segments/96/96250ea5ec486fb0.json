@@ -3,12 +3,16 @@
   "source": "Route Middleware",
   "text": "Routen-Middleware",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Routen-Middleware"
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-09T19:13:00.803Z"
+  },
+  "updatedAt": "2026-11-09T19:13:00.803Z"
 }

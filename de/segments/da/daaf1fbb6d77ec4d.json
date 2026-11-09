@@ -3,12 +3,16 @@
   "source": "Global route middleware, which are placed in the {0} directory (with a {1} suffix) and will be automatically run on every route change.",
   "text": "Globale Routen-Middleware, die im Verzeichnis {0} abgelegt wird (mit dem Suffix {1}) und bei jedem Routenwechsel automatisch ausgeführt wird.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Globale Routen-Middleware, die im Verzeichnis {0} abgelegt wird (mit dem Suffix {1}) und bei jedem Routenwechsel automatisch ausgeführt wird."
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-09T19:13:00.803Z"
+  },
+  "updatedAt": "2026-11-09T19:13:00.803Z"
 }

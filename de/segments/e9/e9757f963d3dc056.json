@@ -3,12 +3,16 @@
   "source": "This ships all JavaScript in a single file. It is rarely beneficial — it usually increases the initial download, even on slow connections — so only disable code-splitting if you have measured that it helps your case.",
   "text": "Dadurch wird das gesamte JavaScript in einer einzigen Datei ausgeliefert. Das ist selten von Vorteil – es vergrößert meist den initialen Download, auch bei langsamen Verbindungen – deaktiviere Code-Splitting daher nur, wenn du gemessen hast, dass es in deinem Fall hilft.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Dadurch wird das gesamte JavaScript in einer einzigen Datei ausgeliefert. Das ist selten von Vorteil – es vergrößert meist den initialen Download, auch bei langsamen Verbindungen – deaktiviere Code-Splitting daher nur, wenn du gemessen hast, dass es in deinem Fall hilft."
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-09T19:13:00.803Z"
+  },
+  "updatedAt": "2026-11-09T19:13:00.803Z"
 }
