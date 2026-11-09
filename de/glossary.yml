@@ -3,6 +3,13 @@ terms:
   match: \blayers?\b
   note: the Nuxt layers feature (extends); der Layer, die Layer (nicht "Schicht" oder "Ebene")
   decision: keep
+- term: layout
+  match: \blayouts?\b
+  note: Nuxt-Layouts (layouts/-Verzeichnis, <NuxtLayout>); das Layout, die Layouts (nicht "Gestaltung", "Aufbau" oder
+    "Vorlage")
+  decision: keep
+  accept:
+  - Layouts
 - term: module
   match: \bmodules?\b
   note: Nuxt-Modul
