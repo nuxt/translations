@@ -1,0 +1,14 @@
+{
+  "hash": "a081ddd323fd28c0",
+  "source": "This does not apply to middleware. On a Nitro 2 host, a middleware {0} is a literal path prefix: {1} runs for {2} and every path that starts with it, while {3} only runs for paths that start with the characters {4}. Register middleware on its base path there.",
+  "text": "Cela ne s'applique pas aux middleware. Sur un hôte Nitro 2, un middleware {0} est un préfixe de chemin littéral : {1} s'exécute pour {2} et pour tous les chemins qui commencent par celui-ci, tandis que {3} ne s'exécute que pour les chemins qui commencent par les caractères {4}. Enregistrez-y le middleware sur son chemin de base.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela ne s'applique pas aux middleware. Sur un hôte Nitro 2, un middleware {0} est un préfixe de chemin littéral : {1} s'exécute pour {2} et pour tous les chemins qui commencent par celui-ci, tandis que {3} ne s'exécute que pour les chemins qui commencent par les caractères {4}. Enregistrez-y le middleware sur son chemin de base."
+  },
+  "updatedAt": "2026-11-10T12:41:18.761Z"
+}

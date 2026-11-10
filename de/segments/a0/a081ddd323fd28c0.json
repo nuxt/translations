@@ -1,0 +1,14 @@
+{
+  "hash": "a081ddd323fd28c0",
+  "source": "This does not apply to middleware. On a Nitro 2 host, a middleware {0} is a literal path prefix: {1} runs for {2} and every path that starts with it, while {3} only runs for paths that start with the characters {4}. Register middleware on its base path there.",
+  "text": "Das gilt nicht für Middleware. Auf einem Nitro-2-Host ist der Pfad {0} einer Middleware ein wörtliches Pfadpräfix: {1} wird für {2} und jeden Pfad ausgeführt, der damit beginnt, während {3} nur für Pfade ausgeführt wird, die mit den Zeichen {4} beginnen. Registriere Middleware dort unter ihrem Basispfad.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das gilt nicht für Middleware. Auf einem Nitro-2-Host ist der Pfad {0} einer Middleware ein wörtliches Pfadpräfix: {1} wird für {2} und jeden Pfad ausgeführt, der damit beginnt, während {3} nur für Pfade ausgeführt wird, die mit den Zeichen {4} beginnen. Registriere Middleware dort unter ihrem Basispfad."
+  },
+  "updatedAt": "2026-11-10T12:41:18.761Z"
+}
