@@ -1,0 +1,14 @@
+{
+  "hash": "d9c4016566ffbfcc",
+  "source": "{0} also exports {1} as an alias of {2}, so renaming your handlers is optional.",
+  "text": "{0} exporte également {1} comme alias de {2}, il n'est donc pas obligatoire de renommer vos gestionnaires.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} exporte également {1} comme alias de {2}, il n'est donc pas obligatoire de renommer vos gestionnaires."
+  },
+  "updatedAt": "2026-11-10T21:53:20.160Z"
+}

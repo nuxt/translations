@@ -1,0 +1,15 @@
+{
+  "hash": "4a5fb1fb65eb6238",
+  "source": "Forwarding Headers",
+  "text": "Transmission des en-têtes",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "45c57d2b56060677",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Transmission des en-têtes"
+  },
+  "updatedAt": "2026-11-10T21:53:20.160Z"
+}

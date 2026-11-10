@@ -1,0 +1,14 @@
+{
+  "hash": "d57c07eed1fd6d23",
+  "source": "Define a request handler. {0} is an alias, which also works in Nuxt 4.6.",
+  "text": "Définissez un gestionnaire de requêtes. {0} est un alias, qui fonctionne également dans Nuxt 4.6.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définissez un gestionnaire de requêtes. {0} est un alias, qui fonctionne également dans Nuxt 4.6."
+  },
+  "updatedAt": "2026-11-10T21:53:20.160Z"
+}

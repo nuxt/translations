@@ -1,0 +1,15 @@
+{
+  "hash": "8182e60a597f40f2",
+  "source": "Each file should export a default function defined with {0} ({1} is an alias).",
+  "text": "Chaque fichier doit exporter une fonction par défaut définie avec {0} ({1} est un alias).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "b0602df5186ff44c",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chaque fichier doit exporter une fonction par défaut définie avec {0} ({1} est un alias)."
+  },
+  "updatedAt": "2026-11-10T21:53:20.160Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "edb64ad0b91e381e",
+  "source": "Pass {0} with a list of header names to forward a different set, or {1} to forward none:",
+  "text": "Übergib {0} mit einer Liste von Header-Namen, um eine andere Auswahl weiterzuleiten, oder {1}, um keinen weiterzuleiten:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Übergib {0} mit einer Liste von Header-Namen, um eine andere Auswahl weiterzuleiten, oder {1}, um keinen weiterzuleiten:"
+  },
+  "updatedAt": "2026-11-10T21:53:20.160Z"
+}

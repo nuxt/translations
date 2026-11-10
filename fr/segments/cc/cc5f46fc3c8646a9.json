@@ -1,0 +1,15 @@
+{
+  "hash": "cc5f46fc3c8646a9",
+  "source": "By default, the headers from the incoming request are not forwarded when making fetch requests in server routes. You can use {0} to call a route of your app with the {1} and {2} headers of the incoming request forwarded.",
+  "text": "Par défaut, les en-têtes de la requête entrante ne sont pas transmis lors des requêtes fetch dans les routes serveur. Vous pouvez utiliser {0} pour appeler une route de votre application en transmettant les en-têtes {1} et {2} de la requête entrante.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "fed9b162e0261599",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut, les en-têtes de la requête entrante ne sont pas transmis lors des requêtes fetch dans les routes serveur. Vous pouvez utiliser {0} pour appeler une route de votre application en transmettant les en-têtes {1} et {2} de la requête entrante."
+  },
+  "updatedAt": "2026-11-10T21:53:20.160Z"
+}

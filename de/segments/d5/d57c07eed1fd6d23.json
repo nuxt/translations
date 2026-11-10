@@ -1,0 +1,14 @@
+{
+  "hash": "d57c07eed1fd6d23",
+  "source": "Define a request handler. {0} is an alias, which also works in Nuxt 4.6.",
+  "text": "Definiert einen Handler für Anfragen. {0} ist ein Alias, der auch in Nuxt 4.6 funktioniert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Definiert einen Handler für Anfragen. {0} ist ein Alias, der auch in Nuxt 4.6 funktioniert."
+  },
+  "updatedAt": "2026-11-10T21:53:20.160Z"
+}

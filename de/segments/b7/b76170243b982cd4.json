@@ -1,0 +1,14 @@
+{
+  "hash": "b76170243b982cd4",
+  "source": "Legacy support is possible using {0}h3js/h3{/0}, but it is advised to avoid legacy handlers as much as you can. They need a Node.js request and response, so they fail on non-Node deployment presets and for in-process requests, such as {1} or {2} to your own routes during server rendering.",
+  "text": "Legacy-Unterstützung ist über {0}h3js/h3{/0} möglich, es wird jedoch empfohlen, Legacy-Handler so weit wie möglich zu vermeiden. Sie benötigen eine Node.js-Anfrage und -Antwort, daher schlagen sie bei Nicht-Node-Presets für die Bereitstellung und bei prozessinternen Anfragen fehl, etwa bei {1} oder {2} an deine eigenen Routen während des Server-Renderings.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Legacy-Unterstützung ist über {0}h3js/h3{/0} möglich, es wird jedoch empfohlen, Legacy-Handler so weit wie möglich zu vermeiden. Sie benötigen eine Node.js-Anfrage und -Antwort, daher schlagen sie bei Nicht-Node-Presets für die Bereitstellung und bei prozessinternen Anfragen fehl, etwa bei {1} oder {2} an deine eigenen Routen während des Server-Renderings."
+  },
+  "updatedAt": "2026-11-10T21:53:20.160Z"
+}

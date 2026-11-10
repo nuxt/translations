@@ -1,0 +1,14 @@
+{
+  "hash": "edb64ad0b91e381e",
+  "source": "Pass {0} with a list of header names to forward a different set, or {1} to forward none:",
+  "text": "Passez {0} avec une liste de noms d'en-têtes pour en transmettre un ensemble différent, ou {1} pour n'en transmettre aucun :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Passez {0} avec une liste de noms d'en-têtes pour en transmettre un ensemble différent, ou {1} pour n'en transmettre aucun :"
+  },
+  "updatedAt": "2026-11-10T21:53:20.160Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b76170243b982cd4",
+  "source": "Legacy support is possible using {0}h3js/h3{/0}, but it is advised to avoid legacy handlers as much as you can. They need a Node.js request and response, so they fail on non-Node deployment presets and for in-process requests, such as {1} or {2} to your own routes during server rendering.",
+  "text": "La prise en charge des gestionnaires hérités est possible avec {0}h3js/h3{/0}, mais il est conseillé d'éviter autant que possible ces gestionnaires. Ils nécessitent une requête et une réponse Node.js, et échouent donc sur les presets de déploiement non Node ainsi que pour les requêtes en cours de processus, comme {1} ou {2} vers vos propres routes pendant le rendu côté serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La prise en charge des gestionnaires hérités est possible avec {0}h3js/h3{/0}, mais il est conseillé d'éviter autant que possible ces gestionnaires. Ils nécessitent une requête et une réponse Node.js, et échouent donc sur les presets de déploiement non Node ainsi que pour les requêtes en cours de processus, comme {1} ou {2} vers vos propres routes pendant le rendu côté serveur."
+  },
+  "updatedAt": "2026-11-10T21:53:20.160Z"
+}

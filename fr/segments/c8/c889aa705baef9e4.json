@@ -1,0 +1,15 @@
+{
+  "hash": "c889aa705baef9e4",
+  "source": "A handler file must default-export the result of {0} (or its alias {1}) from {2}. A bare function, or one wrapped by h3's {3}, receives the server runtime's own event instead.",
+  "text": "Un fichier de handler doit exporter par défaut le résultat de {0} (ou de son alias {1}) depuis {2}. Une fonction seule, ou une fonction enveloppée par {3} de h3, reçoit à la place l'événement propre au runtime du serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "b7a476b8dcef8495",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un fichier de handler doit exporter par défaut le résultat de {0} (ou de son alias {1}) depuis {2}. Une fonction seule, ou une fonction enveloppée par {3} de h3, reçoit à la place l'événement propre au runtime du serveur."
+  },
+  "updatedAt": "2026-11-10T21:53:20.160Z"
+}
