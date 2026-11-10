@@ -1,14 +1,15 @@
 {
   "hash": "637b0aa0873db9c5",
   "source": "form input tags",
-  "text": "Tags der Formulareingabe",
-  "origin": "mt",
-  "review": "none",
+  "text": "Formular Eingabe-Tags",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Tags der Formulareingabe"
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-10T13:27:39.790Z"
 }

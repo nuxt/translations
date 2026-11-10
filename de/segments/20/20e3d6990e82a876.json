@@ -3,12 +3,16 @@
   "source": "{0} is the simplest way to make a network request.",
   "text": "{0} ist der einfachste Weg, eine Netzwerkanfrage auszuführen.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "{0} ist der einfachste Weg, eine Netzwerkanfrage auszuführen."
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-10T13:27:39.790Z"
+  },
+  "updatedAt": "2026-11-10T13:27:39.790Z"
 }

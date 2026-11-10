@@ -3,12 +3,16 @@
   "source": "{0} is a wrapper around {1} that fetches data only once in {2}universal rendering{/2}.",
   "text": "{0} ist ein Wrapper um {1}, der Daten im {2}universellen Rendering{/2} nur einmal abruft.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "{0} ist ein Wrapper um {1}, der Daten im {2}universellen Rendering{/2} nur einmal abruft."
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-10T13:27:39.790Z"
+  },
+  "updatedAt": "2026-11-10T13:27:39.790Z"
 }

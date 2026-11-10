@@ -3,12 +3,16 @@
   "source": "In a nutshell:",
   "text": "Kurz gesagt:",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Kurz gesagt:"
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-10T13:27:39.790Z"
+  },
+  "updatedAt": "2026-11-10T13:27:39.790Z"
 }

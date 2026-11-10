@@ -3,12 +3,16 @@
   "source": "{0} is similar to {1} but offers more fine-grained control.",
   "text": "{0} ähnelt {1}, bietet aber eine feinere Steuerung.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "{0} ähnelt {1}, bietet aber eine feinere Steuerung."
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-10T13:27:39.790Z"
+  },
+  "updatedAt": "2026-11-10T13:27:39.790Z"
 }

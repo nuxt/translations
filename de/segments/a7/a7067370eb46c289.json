@@ -3,12 +3,16 @@
   "source": "Nuxt comes with two composables and a built-in library to perform data-fetching in browser or server environments: {0}, {1} and {2}.",
   "text": "Nuxt bringt zwei Composables und eine integrierte Bibliothek mit, um Daten in Browser- oder Serverumgebungen abzurufen: {0}, {1} und {2}.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Nuxt bringt zwei Composables und eine integrierte Bibliothek mit, um Daten in Browser- oder Serverumgebungen abzurufen: {0}, {1} und {2}."
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-10T13:27:39.790Z"
+  },
+  "updatedAt": "2026-11-10T13:27:39.790Z"
 }

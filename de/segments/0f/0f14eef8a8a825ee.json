@@ -3,12 +3,16 @@
   "source": "Both {0} and {1} share a common set of options and patterns that we will detail in the last sections.",
   "text": "{0} und {1} teilen sich einen gemeinsamen Satz an Optionen und Mustern, die wir in den letzten Abschnitten genauer beschreiben.",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "{0} und {1} teilen sich einen gemeinsamen Satz an Optionen und Mustern, die wir in den letzten Abschnitten genauer beschreiben."
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-10T13:27:39.790Z"
+  },
+  "updatedAt": "2026-11-10T13:27:39.790Z"
 }

@@ -1,14 +1,15 @@
 {
   "hash": "2692d72634caccf5",
   "source": "Nuxt is a framework which can run isomorphic (or universal) code in both server and client environments. If the {0}{1} function{/0} is used to perform data fetching in the setup function of a Vue component, this may cause data to be fetched twice, once on the server (to render the HTML) and once again on the client (when the HTML is hydrated). This can cause hydration issues, increase the time to interactivity and cause unpredictable behavior.",
-  "text": "Nuxt ist ein Framework, das isomorphen (oder universellen) Code sowohl auf dem Server als auch im Client ausführen kann. Wenn die {0}Funktion {1}{/0} für den Datenabruf in der Setup-Funktion einer Vue-Komponente verwendet wird, werden die Daten unter Umständen doppelt abgerufen: einmal auf dem Server (um das HTML zu rendern) und noch einmal im Client (wenn das HTML hydratisiert wird). Das kann Hydration-Probleme verursachen, die Zeit bis zur Interaktivität verlängern und zu unvorhersehbarem Verhalten führen.",
-  "origin": "mt",
-  "review": "none",
+  "text": "Nuxt ist ein Framework, das isomorphen (oder universellen) Code sowohl auf dem Server als auch im Client ausführen kann. Wenn die {0}Funktion {1}{/0} für den Datenabruf in der Setup-Funktion einer Vue-Komponente verwendet wird, werden die Daten unter Umständen doppelt abgerufen: einmal auf dem Server (um das HTML zu rendern) und noch einmal im Client (wenn das HTML hydratisiert wird). Das kann Hydrations-Probleme verursachen, die Zeit bis zur Interaktivität verlängern und zu unvorhersehbarem Verhalten führen.",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Nuxt ist ein Framework, das isomorphen (oder universellen) Code sowohl auf dem Server als auch im Client ausführen kann. Wenn die {0}Funktion {1}{/0} für den Datenabruf in der Setup-Funktion einer Vue-Komponente verwendet wird, werden die Daten unter Umständen doppelt abgerufen: einmal auf dem Server (um das HTML zu rendern) und noch einmal im Client (wenn das HTML hydratisiert wird). Das kann Hydration-Probleme verursachen, die Zeit bis zur Interaktivität verlängern und zu unvorhersehbarem Verhalten führen."
   },
-  "updatedAt": "2026-11-09T17:24:55.822Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-10T13:27:39.790Z"
 }
