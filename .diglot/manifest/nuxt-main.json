@@ -2,7 +2,7 @@
   "version": 1,
   "source": "nuxt-main",
   "ref": "main",
-  "sha": "8b7f2633c6d1642cc5dbcd7b4e4e5f1c55233e17",
+  "sha": "4c07dcbf9cfcfe73467c86b23c79de671a86ebfc",
   "policy": "f6e446c627d4102c",
   "files": {
     "docs/.navigation.yml": [
@@ -8373,6 +8373,7 @@
       {"hash":"a00644508de97e85","kind":"table-cell","format":"markdown","words":0,"skeleton":"{0}","placeholders":["code"]},
       {"hash":"0f103f7c5f0b2fcc","kind":"table-cell","format":"markdown","words":17,"skeleton":"Router method matcher. If handler name contains method name, it will be used as a default value."},
       {"hash":"3b7eec29018ac64e","kind":"paragraph","format":"markdown","words":46,"skeleton":"A route ending in {0} matches its base path too, so {1} serves {2} and everything below it. On a Nitro 2 host, whose router matches only the paths below the base, Nuxt registers the base path as a second route so that one registration behaves the same on both.","placeholders":["code","code","code"]},
+      {"hash":"a081ddd323fd28c0","kind":"paragraph","format":"markdown","words":43,"skeleton":"This does not apply to middleware. On a Nitro 2 host, a middleware {0} is a literal path prefix: {1} runs for {2} and every path that starts with it, while {3} only runs for paths that start with the characters {4}. Register middleware on its base path there.","placeholders":["code","code","code","code","code"]},
       {"hash":"eb087380f686173a","kind":"component-slot","format":"markdown","words":17,"skeleton":"Learn when to register one path per server API, and which key to write your handler against."},
       {"hash":"d029f87e3d80f8fd","kind":"heading","format":"markdown","words":1,"skeleton":"Example"},
       {"hash":"c327c6b5809f441c","kind":"heading","format":"markdown","words":2,"skeleton":"Basic Usage"},
