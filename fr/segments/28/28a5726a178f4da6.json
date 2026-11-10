@@ -1,0 +1,14 @@
+{
+  "hash": "28a5726a178f4da6",
+  "source": "A middleware {0} is matched case-sensitively, even when pages are not. With {1}, a middleware that protects pages does not run for a case variant of its route, such as {2} for {3} (see {4}server middleware with case-insensitive routing{/4}).",
+  "text": "Un middleware {0} est mis en correspondance en respectant la casse, même lorsque ce n'est pas le cas des pages. Avec {1}, un middleware qui protège des pages ne s'exécute pas pour une variante de casse de sa route, comme {2} pour {3} (voir {4}middleware serveur avec routage insensible à la casse{/4}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un middleware {0} est mis en correspondance en respectant la casse, même lorsque ce n'est pas le cas des pages. Avec {1}, un middleware qui protège des pages ne s'exécute pas pour une variante de casse de sa route, comme {2} pour {3} (voir {4}middleware serveur avec routage insensible à la casse{/4})."
+  },
+  "updatedAt": "2026-11-10T15:15:53.796Z"
+}

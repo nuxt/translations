@@ -1,0 +1,14 @@
+{
+  "hash": "3f6f3f56ddb8f2bd",
+  "source": "Server middleware with case-insensitive routing",
+  "text": "Server-Middleware mit Routing ohne Beachtung der Groß- und Kleinschreibung",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Server-Middleware mit Routing ohne Beachtung der Groß- und Kleinschreibung"
+  },
+  "updatedAt": "2026-11-10T15:15:53.796Z"
+}

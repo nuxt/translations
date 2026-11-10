@@ -1,0 +1,14 @@
+{
+  "hash": "28a5726a178f4da6",
+  "source": "A middleware {0} is matched case-sensitively, even when pages are not. With {1}, a middleware that protects pages does not run for a case variant of its route, such as {2} for {3} (see {4}server middleware with case-insensitive routing{/4}).",
+  "text": "Ein middleware-{0} wird unabhängig von der Groß- und Kleinschreibung nicht berücksichtigt – genauer: Der Abgleich erfolgt mit Beachtung der Groß- und Kleinschreibung, auch wenn das bei Seiten nicht der Fall ist. Mit {1} wird eine middleware, die Seiten schützt, für eine Schreibvariante ihrer Route, etwa {2} statt {3}, nicht ausgeführt (siehe {4}Server-middleware mit Routing ohne Beachtung der Groß- und Kleinschreibung{/4}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein middleware-{0} wird unabhängig von der Groß- und Kleinschreibung nicht berücksichtigt – genauer: Der Abgleich erfolgt mit Beachtung der Groß- und Kleinschreibung, auch wenn das bei Seiten nicht der Fall ist. Mit {1} wird eine middleware, die Seiten schützt, für eine Schreibvariante ihrer Route, etwa {2} statt {3}, nicht ausgeführt (siehe {4}Server-middleware mit Routing ohne Beachtung der Groß- und Kleinschreibung{/4})."
+  },
+  "updatedAt": "2026-11-10T15:15:53.796Z"
+}

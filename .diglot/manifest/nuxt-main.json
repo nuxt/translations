@@ -2,7 +2,7 @@
   "version": 1,
   "source": "nuxt-main",
   "ref": "main",
-  "sha": "4c07dcbf9cfcfe73467c86b23c79de671a86ebfc",
+  "sha": "5880d9fda657cc94dcb5bed7a2663ede4f708951",
   "policy": "f6e446c627d4102c",
   "files": {
     "docs/.navigation.yml": [
@@ -4512,6 +4512,8 @@
       {"hash":"0067fe28263fc5ba","kind":"heading","format":"markdown","words":5,"skeleton":"Route rules with case-insensitive routing"},
       {"hash":"0928c004af67bb16","kind":"paragraph","format":"markdown","words":33,"skeleton":"With {0}, Nuxt matches {1}route rules{/1} by lower-casing both the request path and the rule pattern. Regex constraints in the pattern are kept as written, so they must be written for lower-case letters: {2} matches {3}.","placeholders":["code","link","code","code"]},
       {"hash":"7d4db2625e8650c2","kind":"paragraph","format":"markdown","words":33,"skeleton":"The build fails if a constraint matches an upper-case letter but not its lower-case form, such as {0}, {1} or {2}, or is a negated class that excludes only one of them, such as {3}. Use {4} instead.","placeholders":["code","code","code","code","code"]},
+      {"hash":"3f6f3f56ddb8f2bd","kind":"heading","format":"markdown","words":5,"skeleton":"Server middleware with case-insensitive routing"},
+      {"hash":"a8fd127949b73f26","kind":"paragraph","format":"markdown","words":39,"skeleton":"Nitro matches the {0} of a server middleware case-sensitively. With {1}, a middleware registered for {2} with {3} or {4} does not run for {5}, but the page router still renders the page at {6}. If you use server middleware to protect pages, keep {7} set to {8}.","placeholders":["code","code","code","link","link","code","code","code","code"]},
       {"hash":"070ea2cf87563443","kind":"heading","format":"markdown","words":3,"skeleton":"Hash Mode (SPA)"},
       {"hash":"d2f52cfa819af022","kind":"paragraph","format":"markdown","words":42,"skeleton":"You can enable hash history in SPA mode using the {0} {1}config{/1}. In this mode, router uses a hash character (#) before the actual URL that is internally passed. When enabled, the **URL is never sent to the server** and **SSR is not supported**.","placeholders":["code","link"]},
       {"hash":"6728ab21e39229df","kind":"heading","format":"markdown","words":5,"skeleton":"Scroll Behavior for hash links"},
@@ -8374,6 +8376,7 @@
       {"hash":"0f103f7c5f0b2fcc","kind":"table-cell","format":"markdown","words":17,"skeleton":"Router method matcher. If handler name contains method name, it will be used as a default value."},
       {"hash":"3b7eec29018ac64e","kind":"paragraph","format":"markdown","words":46,"skeleton":"A route ending in {0} matches its base path too, so {1} serves {2} and everything below it. On a Nitro 2 host, whose router matches only the paths below the base, Nuxt registers the base path as a second route so that one registration behaves the same on both.","placeholders":["code","code","code"]},
       {"hash":"a081ddd323fd28c0","kind":"paragraph","format":"markdown","words":43,"skeleton":"This does not apply to middleware. On a Nitro 2 host, a middleware {0} is a literal path prefix: {1} runs for {2} and every path that starts with it, while {3} only runs for paths that start with the characters {4}. Register middleware on its base path there.","placeholders":["code","code","code","code","code"]},
+      {"hash":"28a5726a178f4da6","kind":"paragraph","format":"markdown","words":35,"skeleton":"A middleware {0} is matched case-sensitively, even when pages are not. With {1}, a middleware that protects pages does not run for a case variant of its route, such as {2} for {3} (see {4}server middleware with case-insensitive routing{/4}).","placeholders":["code","code","code","code","link"]},
       {"hash":"eb087380f686173a","kind":"component-slot","format":"markdown","words":17,"skeleton":"Learn when to register one path per server API, and which key to write your handler against."},
       {"hash":"d029f87e3d80f8fd","kind":"heading","format":"markdown","words":1,"skeleton":"Example"},
       {"hash":"c327c6b5809f441c","kind":"heading","format":"markdown","words":2,"skeleton":"Basic Usage"},
