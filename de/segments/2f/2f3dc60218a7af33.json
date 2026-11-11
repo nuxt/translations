@@ -1,18 +1,15 @@
 {
   "hash": "2f3dc60218a7af33",
   "source": "Nuxt Concepts",
-  "text": "Nuxt-Konzepte",
-  "origin": "mt",
-  "review": "verified",
+  "text": "Grundkonzepte",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Nuxt-Konzepte"
   },
-  "verifiedBy": {
-    "by": "OrbisK",
-    "at": "2026-11-08T15:00:37.487Z"
-  },
-  "updatedAt": "2026-11-08T15:00:37.487Z"
+  "by": "OrbisK",
+  "updatedAt": "2026-11-11T16:16:22.163Z"
 }
