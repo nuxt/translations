@@ -1,0 +1,14 @@
+{
+  "hash": "9995ea755bef20bd",
+  "source": "Learn how to optimize images in your Nuxt application with Nuxt Image.",
+  "text": "Découvrez comment optimiser les images de votre application Nuxt avec Nuxt Image.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Découvrez comment optimiser les images de votre application Nuxt avec Nuxt Image."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

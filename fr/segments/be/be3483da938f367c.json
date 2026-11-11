@@ -1,0 +1,14 @@
+{
+  "hash": "be3483da938f367c",
+  "source": "**Visual stability:** Reserve space for images with {0} and {1} to prevent {2}layout shift{/2}.",
+  "text": "**Stabilité visuelle :** réservez de l'espace pour les images avec {0} et {1} afin d'éviter les {2}décalages de mise en page{/2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Stabilité visuelle :** réservez de l'espace pour les images avec {0} et {1} afin d'éviter les {2}décalages de mise en page{/2}."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

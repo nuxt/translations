@@ -1,0 +1,14 @@
+{
+  "hash": "edba842f16fdedd4",
+  "source": "Use {0} instead of {1}, and {2} instead of {3}. You don't need to import them:",
+  "text": "Verwende {0} anstelle von {1} und {2} anstelle von {3}. Du musst sie nicht importieren:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwende {0} anstelle von {1} und {2} anstelle von {3}. Du musst sie nicht importieren:"
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "3c2a797cdd77dbfa",
+  "source": "Nuxt has a core module ({0}) to optimize your web fonts and remove external network requests for improved privacy and performance:",
+  "text": "Nuxt hat ein Kernmodul ({0}), das deine Web-Schriftarten optimiert und externe Netzwerkanfragen entfernt – für mehr Datenschutz und bessere Performance:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt hat ein Kernmodul ({0}), das deine Web-Schriftarten optimiert und externe Netzwerkanfragen entfernt – für mehr Datenschutz und bessere Performance:"
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "c2d04fd03ba8609e",
+  "source": "See the Nuxt Fonts documentation for all its features:",
+  "text": "Alle Funktionen von Nuxt Fonts findest du in der Dokumentation:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Alle Funktionen von Nuxt Fonts findest du in der Dokumentation:"
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

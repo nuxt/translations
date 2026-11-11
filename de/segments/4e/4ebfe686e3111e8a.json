@@ -1,0 +1,14 @@
+{
+  "hash": "4ebfe686e3111e8a",
+  "source": "To use a font, add a {0} declaration to your CSS:",
+  "text": "Um eine Schriftart zu verwenden, füge eine {0}-Deklaration zu deinem CSS hinzu:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um eine Schriftart zu verwenden, füge eine {0}-Deklaration zu deinem CSS hinzu:"
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

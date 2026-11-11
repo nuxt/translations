@@ -1,0 +1,14 @@
+{
+  "hash": "b58a619c55247906",
+  "source": "By default, Nuxt Fonts loads the {0} weight range in {1} and {2} styles. Google Fonts and Fontsource serve a {3}variable font{/3} when the family has one. A variable font covers a range of weights with one file, instead of one file for each weight.",
+  "text": "Par défaut, Nuxt Fonts charge la plage de graisses {0} avec les styles {1} et {2}. Google Fonts et Fontsource servent une {3}police variable{/3} lorsque la famille en propose une. Une police variable couvre une plage de graisses avec un seul fichier, au lieu d'un fichier par graisse.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut, Nuxt Fonts charge la plage de graisses {0} avec les styles {1} et {2}. Google Fonts et Fontsource servent une {3}police variable{/3} lorsque la famille en propose une. Une police variable couvre une plage de graisses avec un seul fichier, au lieu d'un fichier par graisse."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

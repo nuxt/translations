@@ -1,0 +1,14 @@
+{
+  "hash": "a6a3c26937f70893",
+  "source": "In this example, the image fills the screen width on small screens, half of it from the {0} breakpoint, and is 800 pixels wide from the {1} breakpoint. Nuxt Image generates a {2} with one image for each size, at both 1x and 2x pixel density. The {3} prop doesn't set the displayed width of the image, so use CSS to give the image these widths.",
+  "text": "In diesem Beispiel füllt das Bild auf kleinen Bildschirmen die gesamte Breite aus, ab dem Breakpoint {0} die Hälfte davon und ab dem Breakpoint {1} ist es 800 Pixel breit. Nuxt Image erzeugt ein {2} mit einem Bild für jede Größe, jeweils in 1x- und 2x-Pixeldichte. Die Prop {3} legt nicht die angezeigte Breite des Bildes fest. Gib dem Bild diese Breiten daher per CSS.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In diesem Beispiel füllt das Bild auf kleinen Bildschirmen die gesamte Breite aus, ab dem Breakpoint {0} die Hälfte davon und ab dem Breakpoint {1} ist es 800 Pixel breit. Nuxt Image erzeugt ein {2} mit einem Bild für jede Größe, jeweils in 1x- und 2x-Pixeldichte. Die Prop {3} legt nicht die angezeigte Breite des Bildes fest. Gib dem Bild diese Breiten daher per CSS."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

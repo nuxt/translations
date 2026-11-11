@@ -1,0 +1,14 @@
+{
+  "hash": "8fbf405bf8ba473e",
+  "source": "This command installs {0} and adds it to the {1} of your {2}.",
+  "text": "Dieser Befehl installiert {0} und fügt es zu den {1} deiner {2} hinzu.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dieser Befehl installiert {0} und fügt es zu den {1} deiner {2} hinzu."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

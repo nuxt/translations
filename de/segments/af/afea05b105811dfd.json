@@ -1,0 +1,14 @@
+{
+  "hash": "afea05b105811dfd",
+  "source": "Load every weight of the variable Inter font",
+  "text": "Alle Schriftgewichte der variablen Schriftart Inter laden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Alle Schriftgewichte der variablen Schriftart Inter laden"
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

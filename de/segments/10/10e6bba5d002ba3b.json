@@ -1,0 +1,14 @@
+{
+  "hash": "10e6bba5d002ba3b",
+  "source": "**No code to write:** Name a font in a {0} declaration in your CSS. Nuxt Fonts finds the font and generates the {1} rules for you.",
+  "text": "**Kein Code nötig:** Nenne eine Schriftart in einer {0}-Deklaration in deinem CSS. Nuxt Fonts findet die Schriftart und erzeugt die {1}-Regeln für dich.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Kein Code nötig:** Nenne eine Schriftart in einer {0}-Deklaration in deinem CSS. Nuxt Fonts findet die Schriftart und erzeugt die {1}-Regeln für dich."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

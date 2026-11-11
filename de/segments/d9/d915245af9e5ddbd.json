@@ -1,0 +1,14 @@
+{
+  "hash": "d915245af9e5ddbd",
+  "source": "Learn how to optimize web fonts in your Nuxt application with Nuxt Fonts.",
+  "text": "Erfahre, wie du Web-Schriftarten in deiner Nuxt-Anwendung mit Nuxt Fonts optimierst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erfahre, wie du Web-Schriftarten in deiner Nuxt-Anwendung mit Nuxt Fonts optimierst."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

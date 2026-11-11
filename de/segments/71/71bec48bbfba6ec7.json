@@ -1,0 +1,14 @@
+{
+  "hash": "71bec48bbfba6ec7",
+  "source": "{0}Providers{/0}: configure the built-in providers, such as Adobe Fonts, or write your own.",
+  "text": "{0}Anbieter{/0}: Konfiguriere die integrierten Anbieter, wie Adobe Fonts, oder schreibe deinen eigenen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}Anbieter{/0}: Konfiguriere die integrierten Anbieter, wie Adobe Fonts, oder schreibe deinen eigenen."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

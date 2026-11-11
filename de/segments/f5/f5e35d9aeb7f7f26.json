@@ -1,0 +1,14 @@
+{
+  "hash": "f5e35d9aeb7f7f26",
+  "source": "**Less layout shift:** Nuxt Fonts adjusts a local system font to match the metrics of each web font. Text barely moves when the web font loads.",
+  "text": "**Weniger Layout-Verschiebungen:** Nuxt Fonts passt eine lokale Systemschriftart an die Metriken jeder Web-Schriftart an. Der Text verschiebt sich kaum, wenn die Web-Schriftart geladen wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Weniger Layout-Verschiebungen:** Nuxt Fonts passt eine lokale Systemschriftart an die Metriken jeder Web-Schriftart an. Der Text verschiebt sich kaum, wenn die Web-Schriftart geladen wird."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

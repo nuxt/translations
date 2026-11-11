@@ -1,0 +1,14 @@
+{
+  "hash": "ba0368e15149dc95",
+  "source": "Loading Priority",
+  "text": "Priorité de chargement",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Priorité de chargement"
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

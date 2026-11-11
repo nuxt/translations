@@ -1,0 +1,14 @@
+{
+  "hash": "4e19753872d2986b",
+  "source": "Nuxt Fonts resolves fonts from several web font providers, such as {0}Google Fonts{/0}, {1}Bunny Fonts{/1}, {2}Fontshare{/2}, and {3}Fontsource{/3}. You don't need to configure them: the first provider that has the font serves it.",
+  "text": "Nuxt Fonts löst Schriftarten über mehrere Anbieter von Web-Schriftarten auf, etwa {0}Google Fonts{/0}, {1}Bunny Fonts{/1}, {2}Fontshare{/2} und {3}Fontsource{/3}. Du musst sie nicht konfigurieren: Der erste Anbieter, der die Schriftart hat, liefert sie aus.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Fonts löst Schriftarten über mehrere Anbieter von Web-Schriftarten auf, etwa {0}Google Fonts{/0}, {1}Bunny Fonts{/1}, {2}Fontshare{/2} und {3}Fontsource{/3}. Du musst sie nicht konfigurieren: Der erste Anbieter, der die Schriftart hat, liefert sie aus."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

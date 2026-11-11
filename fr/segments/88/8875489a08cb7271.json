@@ -1,0 +1,14 @@
+{
+  "hash": "8875489a08cb7271",
+  "source": "See the Nuxt Image documentation for all its features:",
+  "text": "Consultez la documentation de Nuxt Image pour découvrir toutes ses fonctionnalités :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Consultez la documentation de Nuxt Image pour découvrir toutes ses fonctionnalités :"
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

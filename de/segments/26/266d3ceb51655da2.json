@@ -1,0 +1,14 @@
+{
+  "hash": "266d3ceb51655da2",
+  "source": "For these fonts, set {0} in {1}. Nuxt Fonts then adds the {2} rules of the font to every page:",
+  "text": "Setze für diese Schriftarten {0} in {1}. Nuxt Fonts fügt dann die {2}-Regeln der Schriftart zu jeder Seite hinzu:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Setze für diese Schriftarten {0} in {1}. Nuxt Fonts fügt dann die {2}-Regeln der Schriftart zu jeder Seite hinzu:"
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

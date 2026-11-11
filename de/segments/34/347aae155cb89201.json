@@ -1,0 +1,14 @@
+{
+  "hash": "347aae155cb89201",
+  "source": "Use the {0} prop to generate several image widths and let the browser pick the right one for the screen. Each value applies from a screen size and up. The screen sizes match the {1}Tailwind CSS breakpoints{/1} by default:",
+  "text": "Verwende die Prop {0}, um mehrere Bildbreiten zu erzeugen und den Browser die passende für den Bildschirm auswählen zu lassen. Jeder Wert gilt ab einer bestimmten Bildschirmgröße. Die Bildschirmgrößen entsprechen standardmäßig den {1}Breakpoints von Tailwind CSS{/1}:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwende die Prop {0}, um mehrere Bildbreiten zu erzeugen und den Browser die passende für den Bildschirm auswählen zu lassen. Jeder Wert gilt ab einer bestimmten Bildschirmgröße. Die Bildschirmgrößen entsprechen standardmäßig den {1}Breakpoints von Tailwind CSS{/1}:"
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

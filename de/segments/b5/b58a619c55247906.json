@@ -1,0 +1,14 @@
+{
+  "hash": "b58a619c55247906",
+  "source": "By default, Nuxt Fonts loads the {0} weight range in {1} and {2} styles. Google Fonts and Fontsource serve a {3}variable font{/3} when the family has one. A variable font covers a range of weights with one file, instead of one file for each weight.",
+  "text": "Standardmäßig lädt Nuxt Fonts den Gewichtsbereich {0} in den Stilen {1} und {2}. Google Fonts und Fontsource liefern eine {3}variable Schriftart{/3}, wenn die Schriftfamilie eine hat. Eine variable Schriftart deckt einen Bereich von Schriftgewichten mit einer einzigen Datei ab, statt einer Datei pro Gewicht.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardmäßig lädt Nuxt Fonts den Gewichtsbereich {0} in den Stilen {1} und {2}. Google Fonts und Fontsource liefern eine {3}variable Schriftart{/3}, wenn die Schriftfamilie eine hat. Eine variable Schriftart deckt einen Bereich von Schriftgewichten mit einer einzigen Datei ab, statt einer Datei pro Gewicht."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

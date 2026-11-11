@@ -1,0 +1,14 @@
+{
+  "hash": "92d58dd256a94454",
+  "source": "{0} replaces the placeholder with the full image in the browser, so placeholders require JavaScript. Without it, the page keeps showing the placeholder.",
+  "text": "{0} remplace le placeholder par l'image complète dans le navigateur, les placeholders nécessitent donc JavaScript. Sans lui, la page continue d'afficher le placeholder.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} remplace le placeholder par l'image complète dans le navigateur, les placeholders nécessitent donc JavaScript. Sans lui, la page continue d'afficher le placeholder."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

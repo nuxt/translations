@@ -1,0 +1,14 @@
+{
+  "hash": "c7a5255554b16387",
+  "source": "To load other weights, or to choose a provider for a font, configure the font in the {0} option of your {1}:",
+  "text": "Pour charger d'autres graisses, ou pour choisir un fournisseur pour une police, configurez la police dans l'option {0} de votre {1} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour charger d'autres graisses, ou pour choisir un fournisseur pour une police, configurez la police dans l'option {0} de votre {1} :"
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

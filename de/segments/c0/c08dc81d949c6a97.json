@@ -1,0 +1,14 @@
+{
+  "hash": "c08dc81d949c6a97",
+  "source": "**Responsive ready:** Serve resized images for each screen size and device pixel density.",
+  "text": "**Bereit für Responsive Design:** Liefere für jede Bildschirmgröße und Pixeldichte des Geräts passend skalierte Bilder aus.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Bereit für Responsive Design:** Liefere für jede Bildschirmgröße und Pixeldichte des Geräts passend skalierte Bilder aus."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

@@ -2,7 +2,7 @@
   "version": 1,
   "source": "nuxt-main",
   "ref": "main",
-  "sha": "c603ebeb02cc3c20a77f8ec9744145128d477e07",
+  "sha": "648527eb87b80c2e7505964d5632603b430e02e4",
   "policy": "f6e446c627d4102c",
   "files": {
     "docs/.navigation.yml": [
@@ -244,6 +244,7 @@
       {"hash":"ea420fca75755dd9","kind":"paragraph","format":"markdown","words":20,"skeleton":"You can get a file in the {0} directory from your application's code or from a browser by the root URL {1}.","placeholders":["link","code"]},
       {"hash":"d029f87e3d80f8fd","kind":"heading","format":"markdown","words":1,"skeleton":"Example"},
       {"hash":"690e041e44fbb961","kind":"paragraph","format":"markdown","words":14,"skeleton":"For example, referencing an image file in the {0} directory, available at the static URL {1}:","placeholders":["code","code"]},
+      {"hash":"827cd3c0859a2a6b","kind":"paragraph","format":"markdown","words":11,"skeleton":"To resize and optimize your images, read the {0}Image Optimization{/0} guide.","placeholders":["link"]},
       {"hash":"46d32efc64a7e91e","kind":"heading","format":"markdown","words":2,"skeleton":"Assets Directory"},
       {"hash":"057e9884a9975816","kind":"paragraph","format":"markdown","words":68,"skeleton":"Nuxt uses {0}Vite{/0} (default) or {1}webpack{/1} to build and bundle your application. The main function of these build tools is to process JavaScript files, but they can be extended through {2}plugins{/2} (for Vite) or {3}loaders{/3} (for webpack) to process other kinds of assets, like stylesheets, fonts or SVGs. This step transforms the original file, mainly for performance or caching purposes (such as stylesheet minification or browser cache invalidation).","placeholders":["link","link","link","link"]},
       {"hash":"f6bd0305d45d2b4c","kind":"paragraph","format":"markdown","words":28,"skeleton":"By convention, Nuxt uses the {0} directory to store these files but there is no auto-scan functionality for this directory, and you can use any other name for it.","placeholders":["link"]},
@@ -290,6 +291,7 @@
       {"hash":"927b1f867ae3d478","kind":"heading","format":"markdown","words":3,"skeleton":"Working With Fonts"},
       {"hash":"eb97fba1c920c980","kind":"paragraph","format":"markdown","words":20,"skeleton":"Place your local fonts files in your {0} directory, for example in {1}. You can then reference them in your stylesheets using {2}.","placeholders":["code","code","code"]},
       {"hash":"29f54d5ad1505fd1","kind":"paragraph","format":"markdown","words":12,"skeleton":"Then reference your fonts by name in your stylesheets, pages or components:"},
+      {"hash":"9411d1f7450dd2be","kind":"prop","format":"plain","words":2,"skeleton":"Font Optimization"},
       {"hash":"1baef4dbd3158dd5","kind":"heading","format":"markdown","words":4,"skeleton":"Stylesheets Distributed Through NPM"},
       {"hash":"f579caf5464ca811","kind":"paragraph","format":"markdown","words":18,"skeleton":"You can also reference stylesheets that are distributed through npm. Let's use the popular {0} library as an example.","placeholders":["code"]},
       {"hash":"6bbba05bb315979d","kind":"paragraph","format":"markdown","words":12,"skeleton":"Then you can reference it directly in your pages, layouts and components:"},
@@ -388,7 +390,112 @@
       {"hash":"ed22add3068d9ff7","kind":"code-comment","format":"plain","words":12,"skeleton":"start from the end of the array and go to the beginning"},
       {"hash":"7f803998035dc4ef","kind":"code-comment","format":"plain","words":10,"skeleton":"if it starts with 'entry', remove it from the list"}
     ],
-    "docs/1.getting-started/07.routing.md": [
+    "docs/1.getting-started/07.images.md": [
+      {"hash":"65dd77fa3457e629","kind":"frontmatter","format":"plain","words":2,"skeleton":"Image Optimization"},
+      {"hash":"9995ea755bef20bd","kind":"frontmatter","format":"plain","words":12,"skeleton":"Learn how to optimize images in your Nuxt application with Nuxt Image."},
+      {"hash":"0674183d4790d90d","kind":"paragraph","format":"markdown","words":15,"skeleton":"Nuxt has a core module ({0}) to resize, transform and serve optimized images in your application:","placeholders":["link"]},
+      {"hash":"6da0a470931d89b9","kind":"list-item","format":"markdown","words":9,"skeleton":"**Drop-in replacement:** Use {0} and {1} where you would write {2} and {3}.","placeholders":["link","link","code","code"]},
+      {"hash":"61992feee8c39d3a","kind":"list-item","format":"markdown","words":15,"skeleton":"**Built-in resizer:** Optimize local and remote images with {0}IPX{/0}, the default provider, with no configuration.","placeholders":["link"]},
+      {"hash":"4d394292369f2eec","kind":"list-item","format":"markdown","words":21,"skeleton":"**40+ providers supported:** Use the image service of your CDN or CMS instead, or {0}write your own provider{/0}, with no vendor lock-in.","placeholders":["link"]},
+      {"hash":"c08dc81d949c6a97","kind":"list-item","format":"markdown","words":13,"skeleton":"**Responsive ready:** Serve resized images for each screen size and device pixel density."},
+      {"hash":"fe5c4a60c0ded1dc","kind":"list-item","format":"markdown","words":14,"skeleton":"**Modern formats:** Convert images to WebP or AVIF for the browsers that support them."},
+      {"hash":"c1aae166b830c0ee","kind":"list-item","format":"markdown","words":21,"skeleton":"**Faster page loads:** Load images only when they enter the viewport with native lazy loading, and show placeholders while they load."},
+      {"hash":"be3483da938f367c","kind":"list-item","format":"markdown","words":12,"skeleton":"**Visual stability:** Reserve space for images with {0} and {1} to prevent {2}layout shift{/2}.","placeholders":["code","code","link"]},
+      {"hash":"c3fc54aa5390dc2c","kind":"heading","format":"markdown","words":1,"skeleton":"Installation"},
+      {"hash":"d3d601c0f4d2863d","kind":"paragraph","format":"markdown","words":8,"skeleton":"Add the Nuxt Image module to your project:"},
+      {"hash":"14a99b9f9dea3897","kind":"code-label","format":"plain","words":1,"skeleton":"Terminal"},
+      {"hash":"8fbf405bf8ba473e","kind":"paragraph","format":"markdown","words":10,"skeleton":"This command installs {0} and adds it to the {1} of your {2}.","placeholders":["code","code","code"]},
+      {"hash":"1242a6924ad6563e","kind":"component-slot","format":"markdown","words":18,"skeleton":"When you use {0} or {1} in development without the module, Nuxt detects it and asks to install {2} for you.","placeholders":["code","code","code"]},
+      {"hash":"8d59829c1e15afe1","kind":"heading","format":"markdown","words":1,"skeleton":"Usage"},
+      {"hash":"edba842f16fdedd4","kind":"paragraph","format":"markdown","words":12,"skeleton":"Use {0} instead of {1}, and {2} instead of {3}. You don't need to import them:","placeholders":["code","code","code","code"]},
+      {"hash":"28a321786063bb00","kind":"code-label","format":"plain","words":1,"skeleton":"NuxtImg"},
+      {"hash":"7f951261a28e53a3","kind":"code-label","format":"plain","words":1,"skeleton":"NuxtPicture"},
+      {"hash":"412b14a70229e5da","kind":"paragraph","format":"markdown","words":9,"skeleton":"The {0} property can be a {1}local{/1} or {2}remote{/2} image.","placeholders":["code","link","link"]},
+      {"hash":"176695ddb0d7be9e","kind":"heading","format":"markdown","words":2,"skeleton":"Local Images"},
+      {"hash":"48cf6dec6465bf44","kind":"paragraph","format":"markdown","words":18,"skeleton":"Store your images in the {0} directory and reference them from the root URL ({1}). For example, {2} is available as {3}:","placeholders":["link","code","code","code"]},
+      {"hash":"fd3f265bd14c2fb7","kind":"paragraph","format":"markdown","words":49,"skeleton":"Nuxt Image resizes the image to the given {0} and {1}. The browser also uses these values to reserve space for the image before it loads, which prevents layout shift. Nuxt Image doesn't read the intrinsic dimensions of your files, so always set {2} and {3} for images that aren't sized by CSS.","placeholders":["code","code","code","code"]},
+      {"hash":"69153dc31f9950e8","kind":"paragraph","format":"markdown","words":30,"skeleton":"By default, Nuxt Image uses {0}IPX{/0}, a self-hosted optimizer that runs on your Nuxt server. When you prerender your site with {1}, Nuxt Image optimizes the images at build time instead.","placeholders":["link","code"]},
+      {"hash":"10a46d0957a80b91","kind":"paragraph","format":"markdown","words":54,"skeleton":"Prerendering only generates the image sizes that are in the server-rendered HTML. An image that only renders in the browser, such as in a modal or a client-only component, has no generated file, so its URL returns a 404 error. List these images in {0}, or use an {1}image provider{/1}. See {2}static images{/2} for more details.","placeholders":["code","link","link"]},
+      {"hash":"a24a704213328663","kind":"component-slot","format":"markdown","words":32,"skeleton":"IPX doesn't run in worker runtimes. When you deploy to one, such as Cloudflare Workers, Nuxt Image serves your original images without optimization. Configure an {0}image provider{/0}, such as {1}, to optimize them.","placeholders":["link","code"]},
+      {"hash":"cf7d58690e8cc863","kind":"component-slot","format":"markdown","words":23,"skeleton":"Nuxt Image doesn't process images in the {0} directory, because your build tool manages them. To keep source images out of {1}, set the {2} option.","placeholders":["link","code","link"]},
+      {"hash":"a0126268a3b7e579","kind":"heading","format":"markdown","words":2,"skeleton":"Responsive Images"},
+      {"hash":"347aae155cb89201","kind":"paragraph","format":"markdown","words":38,"skeleton":"Use the {0} prop to generate several image widths and let the browser pick the right one for the screen. Each value applies from a screen size and up. The screen sizes match the {1}Tailwind CSS breakpoints{/1} by default:","placeholders":["code","link"]},
+      {"hash":"a6a3c26937f70893","kind":"paragraph","format":"markdown","words":61,"skeleton":"In this example, the image fills the screen width on small screens, half of it from the {0} breakpoint, and is 800 pixels wide from the {1} breakpoint. Nuxt Image generates a {2} with one image for each size, at both 1x and 2x pixel density. The {3} prop doesn't set the displayed width of the image, so use CSS to give the image these widths.","placeholders":["code","code","code","code"]},
+      {"hash":"3108a486ef999442","kind":"paragraph","format":"markdown","words":41,"skeleton":"Images without {0}, such as icons or avatars, get a 1x and a 2x version by default, so they stay sharp on high-density screens. To change the pixel densities, use the {1}{2} prop{/1} for a single image, or the {3} option for every image.","placeholders":["code","link","code","link"]},
+      {"hash":"eba64345b72a702a","kind":"heading","format":"markdown","words":2,"skeleton":"Image Formats"},
+      {"hash":"4f3ae5f3b8e10b3f","kind":"paragraph","format":"markdown","words":11,"skeleton":"Use the {0} prop to convert an image to a modern format:","placeholders":["code"]},
+      {"hash":"24a0e3af6355b86f","kind":"paragraph","format":"markdown","words":32,"skeleton":"To serve the best format that each browser supports, use {0}. It renders a {1} element with one source for each format, and a fallback in a legacy format such as JPEG or PNG:","placeholders":["code","code"]},
+      {"hash":"ba0368e15149dc95","kind":"heading","format":"markdown","words":2,"skeleton":"Loading Priority"},
+      {"hash":"77defa16f0e354b9","kind":"paragraph","format":"markdown","words":23,"skeleton":"Images below the fold can wait until the user scrolls to them. Set {0} to load an image only when it enters the viewport:","placeholders":["code"]},
+      {"hash":"dbb1a0b101874598","kind":"paragraph","format":"markdown","words":39,"skeleton":"The image that is the {0}Largest Contentful Paint (LCP){/0} of your page, such as a hero image, must load as early as possible. Use the {1} prop to add a {2} tag to the page head with a high fetch priority:","placeholders":["link","code","code"]},
+      {"hash":"89cd50263d87a700","kind":"heading","format":"markdown","words":1,"skeleton":"Placeholders"},
+      {"hash":"7c62fea536379d08","kind":"paragraph","format":"markdown","words":17,"skeleton":"To show a blurred, low-quality version of the image while the full image loads, add the {0} prop:","placeholders":["code"]},
+      {"hash":"92d58dd256a94454","kind":"paragraph","format":"markdown","words":22,"skeleton":"{0} replaces the placeholder with the full image in the browser, so placeholders require JavaScript. Without it, the page keeps showing the placeholder.","placeholders":["code"]},
+      {"hash":"2a9e90e8e8682687","kind":"paragraph","format":"markdown","words":21,"skeleton":"You can also pass your own placeholder image, or set its size, quality, and blur. See the {0}{1} prop{/0} for all options.","placeholders":["link","code"]},
+      {"hash":"54eb9886943263c2","kind":"heading","format":"markdown","words":2,"skeleton":"Remote Images"},
+      {"hash":"6378ac10ec7c454c","kind":"paragraph","format":"markdown","words":11,"skeleton":"To use a remote image, provide its URL in the {0} property:","placeholders":["code"]},
+      {"hash":"ba449e66f785122a","kind":"paragraph","format":"markdown","words":33,"skeleton":"To prevent other websites from using your server to optimize any image on the internet, Nuxt Image only optimizes remote images from domains that you allow. Add them to the {0} option in your {1}:","placeholders":["code","code"]},
+      {"hash":"b0d7b3a1e77aa0a9","kind":"paragraph","format":"markdown","words":25,"skeleton":"With the default IPX provider, Nuxt Image renders images from other domains with their original URL, without optimization. Other {0}providers{/0} can handle these images differently.","placeholders":["link"]},
+      {"hash":"7e2776193f03774e","kind":"heading","format":"markdown","words":2,"skeleton":"Image Providers"},
+      {"hash":"b15362dcc5407e28","kind":"paragraph","format":"markdown","words":55,"skeleton":"If you already host your images on an image CDN or a headless CMS, Nuxt Image can use its transformation service instead of IPX. Nuxt Image supports {0}more than 40 providers{/0}, such as Cloudinary, Imgix, Sanity, and Storyblok. When you deploy to Vercel, Netlify, or AWS Amplify, Nuxt Image detects and uses the platform's image service.","placeholders":["link"]},
+      {"hash":"158554b50bc56bdd","kind":"paragraph","format":"markdown","words":14,"skeleton":"To use a provider, set it as the default {0} and configure it in your {1}:","placeholders":["code","code"]},
+      {"hash":"1ac391956a36cfd5","kind":"paragraph","format":"markdown","words":11,"skeleton":"The {0} of your images is then a path on the provider:","placeholders":["code"]},
+      {"hash":"8d338862d7f7a109","kind":"paragraph","format":"markdown","words":13,"skeleton":"You can also use a provider for a single image with the {0} prop.","placeholders":["link"]},
+      {"hash":"759f4c0213571add","kind":"heading","format":"markdown","words":2,"skeleton":"Next Steps"},
+      {"hash":"8875489a08cb7271","kind":"paragraph","format":"markdown","words":9,"skeleton":"See the Nuxt Image documentation for all its features:"},
+      {"hash":"606481043866c3a9","kind":"list-item","format":"markdown","words":6,"skeleton":"{0}: all props of the image component.","placeholders":["link"]},
+      {"hash":"756e5c493a8fe0bc","kind":"list-item","format":"markdown","words":4,"skeleton":"{0}: serve several image formats.","placeholders":["link"]},
+      {"hash":"9bdd5f939241a16d","kind":"list-item","format":"markdown","words":12,"skeleton":"{0}: generate optimized image URLs in your code, for example for CSS backgrounds.","placeholders":["link"]},
+      {"hash":"b856e70801bdf58a","kind":"list-item","format":"markdown","words":11,"skeleton":"{0}Configuration{/0}: set defaults such as quality, formats, screen sizes, and presets.","placeholders":["link"]}
+    ],
+    "docs/1.getting-started/08.fonts.md": [
+      {"hash":"9411d1f7450dd2be","kind":"frontmatter","format":"plain","words":2,"skeleton":"Font Optimization"},
+      {"hash":"d915245af9e5ddbd","kind":"frontmatter","format":"plain","words":13,"skeleton":"Learn how to optimize web fonts in your Nuxt application with Nuxt Fonts."},
+      {"hash":"3c2a797cdd77dbfa","kind":"paragraph","format":"markdown","words":20,"skeleton":"Nuxt has a core module ({0}) to optimize your web fonts and remove external network requests for improved privacy and performance:","placeholders":["link"]},
+      {"hash":"3767067ddb9d4ad2","kind":"list-item","format":"markdown","words":50,"skeleton":"**Self-hosting:** Nuxt Fonts downloads fonts at build time and serves them from your own domain with long-lived cache headers. The browser sends no requests to Google or other font providers for these fonts. Remove any {0} tags or {1} rules that load fonts from a provider, because Nuxt Fonts doesn't process them.","placeholders":["code","code"]},
+      {"hash":"f5e35d9aeb7f7f26","kind":"list-item","format":"markdown","words":26,"skeleton":"**Less layout shift:** Nuxt Fonts adjusts a local system font to match the metrics of each web font. Text barely moves when the web font loads."},
+      {"hash":"10e6bba5d002ba3b","kind":"list-item","format":"markdown","words":24,"skeleton":"**No code to write:** Name a font in a {0} declaration in your CSS. Nuxt Fonts finds the font and generates the {1} rules for you.","placeholders":["code","code"]},
+      {"hash":"c3fc54aa5390dc2c","kind":"heading","format":"markdown","words":1,"skeleton":"Installation"},
+      {"hash":"a9ed0672b11d339c","kind":"paragraph","format":"markdown","words":8,"skeleton":"Add the Nuxt Fonts module to your project:"},
+      {"hash":"14a99b9f9dea3897","kind":"code-label","format":"plain","words":1,"skeleton":"Terminal"},
+      {"hash":"8fbf405bf8ba473e","kind":"paragraph","format":"markdown","words":10,"skeleton":"This command installs {0} and adds it to the {1} of your {2}.","placeholders":["code","code","code"]},
+      {"hash":"8d59829c1e15afe1","kind":"heading","format":"markdown","words":1,"skeleton":"Usage"},
+      {"hash":"4ebfe686e3111e8a","kind":"paragraph","format":"markdown","words":10,"skeleton":"To use a font, add a {0} declaration to your CSS:","placeholders":["code"]},
+      {"hash":"d077b18271a6524d","kind":"paragraph","format":"markdown","words":19,"skeleton":"Nuxt Fonts detects {0} and resolves it from a font provider. It then injects the {1} rules into the same stylesheet.","placeholders":["code","code"]},
+      {"hash":"8de5318aa718140d","kind":"paragraph","format":"markdown","words":30,"skeleton":"Fonts load where your CSS uses them. To apply a font to your entire application, declare it in a global stylesheet and add the stylesheet to the {0}{1} property{/0} of your {2}:","placeholders":["link","code","code"]},
+      {"hash":"da8676c3c9c9f387","kind":"paragraph","format":"markdown","words":25,"skeleton":"Nuxt Fonts only resolves the first font in a {0} list. It uses the other fonts in the list, such as {1}, to generate the fallback metrics.","placeholders":["code","code"]},
+      {"hash":"56b323b73a6eb706","kind":"component-slot","format":"markdown","words":20,"skeleton":"Nuxt Fonts only processes CSS stylesheets and {0} blocks. A {1} in an inline {2} attribute isn't detected. See {3}fonts that aren't detected{/3}.","placeholders":["code","code","code","link"]},
+      {"hash":"55e31146e3205ea1","kind":"heading","format":"markdown","words":2,"skeleton":"Web Fonts"},
+      {"hash":"4e19753872d2986b","kind":"paragraph","format":"markdown","words":33,"skeleton":"Nuxt Fonts resolves fonts from several web font providers, such as {0}Google Fonts{/0}, {1}Bunny Fonts{/1}, {2}Fontshare{/2}, and {3}Fontsource{/3}. You don't need to configure them: the first provider that has the font serves it.","placeholders":["link","link","link","link"]},
+      {"hash":"b58a619c55247906","kind":"paragraph","format":"markdown","words":42,"skeleton":"By default, Nuxt Fonts loads the {0} weight range in {1} and {2} styles. Google Fonts and Fontsource serve a {3}variable font{/3} when the family has one. A variable font covers a range of weights with one file, instead of one file for each weight.","placeholders":["code","code","code","link"]},
+      {"hash":"c7a5255554b16387","kind":"paragraph","format":"markdown","words":20,"skeleton":"To load other weights, or to choose a provider for a font, configure the font in the {0} option of your {1}:","placeholders":["code","code"]},
+      {"hash":"afea05b105811dfd","kind":"code-comment","format":"plain","words":8,"skeleton":"Load every weight of the variable Inter font"},
+      {"hash":"1a2c15b791b513cc","kind":"code-comment","format":"plain","words":9,"skeleton":"Only load these weights of Roboto, from Google Fonts"},
+      {"hash":"603552557cb71a2b","kind":"paragraph","format":"markdown","words":37,"skeleton":"To use the same options for all fonts, set them in {0} instead. You can also change the subsets that Nuxt Fonts loads, for example to support Cyrillic or Arabic text. See the {1}font options{/1} for all options.","placeholders":["code","link"]},
+      {"hash":"c6c3e702762875ab","kind":"heading","format":"markdown","words":2,"skeleton":"Local Fonts"},
+      {"hash":"2306591622ad7c88","kind":"paragraph","format":"markdown","words":25,"skeleton":"To use your own font files, store them in the {0} directory. Nuxt Fonts scans it for {1}, {2}, {3}, {4}, and {5} files that match the {6} names in your CSS.","placeholders":["link","code","code","code","code","code","code"]},
+      {"hash":"640d45af28ce55c8","kind":"paragraph","format":"markdown","words":25,"skeleton":"The filename tells Nuxt Fonts the weight and style of each file. A file without a weight or style is the {0} weight in the {1} style:","placeholders":["code","code"]},
+      {"hash":"f74c16467d8ac5aa","kind":"code-label","format":"plain","words":2,"skeleton":"Directory structure"},
+      {"hash":"e50f84f2f0c321a8","kind":"paragraph","format":"markdown","words":7,"skeleton":"Then use the font by its name:"},
+      {"hash":"2b490571b0a56aa7","kind":"paragraph","format":"markdown","words":9,"skeleton":"Nuxt Fonts converts {0} to {1} to look up the files.","placeholders":["code","code"]},
+      {"hash":"e5947ff0b6615e5a","kind":"paragraph","format":"markdown","words":56,"skeleton":"For a variable font, put its weight range in the filename, such as {0}. A filename marked {1} or {2} without a range covers {3}. Nuxt Fonts only declares the {4}default weights{/4}, {5}, even for a variable font file, so other weights render at the nearest one in that range. To use its full range, configure the weights of the font:","placeholders":["code","code","code","code","link","code"]},
+      {"hash":"e50f84f2f0c321a8","kind":"paragraph","format":"markdown","words":7,"skeleton":"Then use the font by its name:"},
+      {"hash":"9f8364b6c63fa07b","kind":"paragraph","format":"markdown","words":30,"skeleton":"To use a font file with a different name, or a file hosted elsewhere, set its {0} in {1}. You can repeat a font name to add a file for each weight:","placeholders":["code","code"]},
+      {"hash":"567f752fc2ad220f","kind":"heading","format":"markdown","words":4,"skeleton":"Fonts That Aren't Detected"},
+      {"hash":"caed5107e17f7de1","kind":"paragraph","format":"markdown","words":33,"skeleton":"Nuxt Fonts only resolves the fonts that it finds in your CSS. It doesn't detect fonts in inline styles, in inline SVG, in third-party stylesheets, or fonts that you only apply at runtime."},
+      {"hash":"266d3ceb51655da2","kind":"paragraph","format":"markdown","words":17,"skeleton":"For these fonts, set {0} in {1}. Nuxt Fonts then adds the {2} rules of the font to every page:","placeholders":["code","code","code"]},
+      {"hash":"eb9e29206f7fc9ab","kind":"paragraph","format":"markdown","words":18,"skeleton":"Every visitor downloads the CSS for each global font, so only use this option when you need it."},
+      {"hash":"ecc28268c00c1433","kind":"paragraph","format":"markdown","words":30,"skeleton":"This option doesn't apply to SVG files that you load with an {0} tag, because they can't use the fonts of the page. Embed the font in these SVG files instead.","placeholders":["code"]},
+      {"hash":"6fec5b215920e00b","kind":"heading","format":"markdown","words":2,"skeleton":"Tailwind CSS"},
+      {"hash":"1c5d6144aa241013","kind":"paragraph","format":"markdown","words":18,"skeleton":"Nuxt Fonts reads the CSS that Tailwind CSS generates, so you can declare your fonts as theme variables:"},
+      {"hash":"0a2ae439887dde48","kind":"paragraph","format":"markdown","words":20,"skeleton":"Then apply the font with the {0} utility class. See the {1}Nuxt Fonts usage guide{/1} for more details, and for UnoCSS.","placeholders":["code","link"]},
+      {"hash":"759f4c0213571add","kind":"heading","format":"markdown","words":2,"skeleton":"Next Steps"},
+      {"hash":"c2d04fd03ba8609e","kind":"paragraph","format":"markdown","words":9,"skeleton":"See the Nuxt Fonts documentation for all its features:"},
+      {"hash":"5777daace475dcb6","kind":"list-item","format":"markdown","words":11,"skeleton":"{0}Configuration{/0}: set the weights, styles, subsets, and preloading of your fonts.","placeholders":["link"]},
+      {"hash":"71bec48bbfba6ec7","kind":"list-item","format":"markdown","words":13,"skeleton":"{0}Providers{/0}: configure the built-in providers, such as Adobe Fonts, or write your own.","placeholders":["link"]},
+      {"hash":"cd9f8616e1a6d03c","kind":"list-item","format":"markdown","words":13,"skeleton":"{0}How it works{/0}: learn how Nuxt Fonts resolves fonts and generates fallback metrics.","placeholders":["link"]}
+    ],
+    "docs/1.getting-started/09.routing.md": [
       {"hash":"db340debe95c1319","kind":"frontmatter","format":"plain","words":1,"skeleton":"Routing"},
       {"hash":"c4578b57b2ebf8ff","kind":"frontmatter","format":"plain","words":13,"skeleton":"Nuxt file-system routing creates a route for every file in the pages/ directory."},
       {"hash":"40ba7847308c866c","kind":"paragraph","format":"markdown","words":50,"skeleton":"One core feature of Nuxt is the file system router. Every Vue file inside the {0} directory creates a corresponding URL (or route) that displays the contents of the file. By using dynamic imports for each page, Nuxt leverages code-splitting to ship the minimum amount of JavaScript for the requested route.","placeholders":["link"]},
@@ -421,7 +528,7 @@
       {"hash":"4d77e3eac60f5607","kind":"paragraph","format":"markdown","words":16,"skeleton":"If you have a more complex use case, then you can use anonymous route middleware instead."},
       {"hash":"108c27c0ee561b73","kind":"code-comment","format":"plain","words":9,"skeleton":"Check if the id is made up of digits"}
     ],
-    "docs/1.getting-started/08.seo-meta.md": [
+    "docs/1.getting-started/10.seo-meta.md": [
       {"hash":"3927997a0b5e7a84","kind":"frontmatter","format":"plain","words":3,"skeleton":"SEO and Meta"},
       {"hash":"0e4cfe653a936341","kind":"frontmatter","format":"plain","words":12,"skeleton":"Improve your Nuxt app's SEO with powerful head config, composables and components."},
       {"hash":"d32ca1ded0be5266","kind":"paragraph","format":"markdown","words":28,"skeleton":"Nuxt head tag management is powered by {0}Unhead{/0}. It provides sensible defaults, several powerful composables and numerous configuration options to manage your app's head and SEO meta tags.","placeholders":["link"]},
@@ -481,7 +588,7 @@
       {"hash":"1013ed17c82b2ac2","kind":"heading","format":"markdown","words":2,"skeleton":"External CSS"},
       {"hash":"11c4daab352642eb","kind":"paragraph","format":"markdown","words":21,"skeleton":"The example below shows how you might enable Google Fonts using either the {0} property of the {1} composable or using the {2} component:","placeholders":["code","link","code"]}
     ],
-    "docs/1.getting-started/09.transitions.md": [
+    "docs/1.getting-started/11.transitions.md": [
       {"hash":"8ba24778829c38db","kind":"frontmatter","format":"plain","words":1,"skeleton":"Transitions"},
       {"hash":"cfd8a59b5e33f8bd","kind":"frontmatter","format":"plain","words":13,"skeleton":"Apply transitions between pages and layouts with Vue or native browser View Transitions."},
       {"hash":"510026cafe4fbd1a","kind":"component-slot","format":"markdown","words":11,"skeleton":"Nuxt leverages Vue's {0} component to apply transitions between pages and layouts.","placeholders":["link"]},
@@ -548,7 +655,7 @@
       {"hash":"874e210e209b4c29","kind":"heading","format":"markdown","words":2,"skeleton":"Known Issues"},
       {"hash":"5be531d9f1124199","kind":"list-item","format":"markdown","words":66,"skeleton":"If you perform data fetching within your page setup functions, you may wish to reconsider using this feature for the moment. (By design, View Transitions completely freeze DOM updates while they are taking place.) We're looking at restricting the View Transition to the final moments before {0} resolves, but in the interim you may want to consider carefully whether to adopt this feature if this describes you.","placeholders":["code"]}
     ],
-    "docs/1.getting-started/10.data-fetching.md": [
+    "docs/1.getting-started/12.data-fetching.md": [
       {"hash":"32ae5196126e3328","kind":"frontmatter","format":"plain","words":2,"skeleton":"Data Fetching"},
       {"hash":"e83722c28bd5036c","kind":"frontmatter","format":"plain","words":10,"skeleton":"Nuxt provides composables to handle data fetching within your application."},
       {"hash":"a7067370eb46c289","kind":"paragraph","format":"markdown","words":18,"skeleton":"Nuxt comes with two composables and a built-in library to perform data-fetching in browser or server environments: {0}, {1} and {2}.","placeholders":["code","link","code"]},
@@ -767,7 +874,7 @@
       {"hash":"dea3058b1130c4dc","kind":"paragraph","format":"markdown","words":17,"skeleton":"When requests don't rely on each other, you can make them in parallel with {0} to boost performance.","placeholders":["code"]},
       {"hash":"9b99cead7107e743","kind":"prop","format":"plain","words":10,"skeleton":"Watch a video from Vue School on parallel data fetching"}
     ],
-    "docs/1.getting-started/11.state-management.md": [
+    "docs/1.getting-started/13.state-management.md": [
       {"hash":"7486acec58c23b61","kind":"frontmatter","format":"plain","words":2,"skeleton":"State Management"},
       {"hash":"9100f212a0eb358c","kind":"frontmatter","format":"plain","words":18,"skeleton":"Nuxt provides powerful state management libraries and the useState composable to create a reactive and SSR-friendly shared state."},
       {"hash":"511983ebfb0dcb69","kind":"paragraph","format":"markdown","words":14,"skeleton":"Nuxt provides the {0} composable to create a reactive and SSR-friendly shared state across components.","placeholders":["link"]},
@@ -799,7 +906,7 @@
       {"hash":"a4659948304a891a","kind":"list-item","format":"markdown","words":5,"skeleton":"{0}Harlem{/0} - immutable global state management","placeholders":["link"]},
       {"hash":"0c7afda926b42484","kind":"list-item","format":"markdown","words":13,"skeleton":"{0}XState{/0} - state machine approach with tools for visualizing and testing your state logic","placeholders":["link"]}
     ],
-    "docs/1.getting-started/12.error-handling.md": [
+    "docs/1.getting-started/14.error-handling.md": [
       {"hash":"02a6cda162dffe05","kind":"frontmatter","format":"plain","words":2,"skeleton":"Error Handling"},
       {"hash":"fcefce207bcfc93b","kind":"frontmatter","format":"plain","words":9,"skeleton":"Learn how to catch and handle errors in Nuxt."},
       {"hash":"7202de931f780ec9","kind":"paragraph","format":"markdown","words":22,"skeleton":"Nuxt is a full-stack framework, which means there are several sources of unpreventable user runtime errors that can happen in different contexts:"},
@@ -880,7 +987,7 @@
       {"hash":"bd575d3c61b7b158","kind":"code-comment","format":"plain","words":2,"skeleton":"some content"},
       {"hash":"247dc02a30ca202a","kind":"code-comment","format":"plain","words":9,"skeleton":"You use the default slot to render your content"}
     ],
-    "docs/1.getting-started/13.server.md": [
+    "docs/1.getting-started/15.server.md": [
       {"hash":"4ca7615cff13c049","kind":"frontmatter","format":"plain","words":1,"skeleton":"Server"},
       {"hash":"4fff8842529fd7aa","kind":"frontmatter","format":"plain","words":37,"skeleton":"Build full-stack applications with Nuxt's server framework. You can fetch data from your database or another server, create APIs, or even generate static server-side content like a sitemap or a RSS feed - all from a single codebase."},
       {"hash":"e75aa3e7b859c38e","kind":"heading","format":"markdown","words":3,"skeleton":"Powered by Nitro"},
@@ -918,7 +1025,7 @@
       {"hash":"970f1eb943f69697","kind":"paragraph","format":"markdown","words":8,"skeleton":"Some route rules ({0}, {1} and {2}) also affect client-side behavior.","placeholders":["code","code","code"]},
       {"hash":"55af16747bfd21e3","kind":"paragraph","format":"markdown","words":15,"skeleton":"Nitro is used to build the app for server side rendering, as well as pre-rendering."}
     ],
-    "docs/1.getting-started/14.layers.md": [
+    "docs/1.getting-started/16.layers.md": [
       {"hash":"6492ba879f94b735","kind":"frontmatter","format":"plain","words":1,"skeleton":"Layers"},
       {"hash":"dbf919d50e21add8","kind":"frontmatter","format":"plain","words":17,"skeleton":"Nuxt provides a powerful system that allows you to extend the default files, configs, and much more."},
       {"hash":"b7801e9d49b97d3b","kind":"paragraph","format":"markdown","words":45,"skeleton":"One of the core features of Nuxt is the layers and extending support. You can extend a default Nuxt application to reuse components, utils, and configuration. The layers structure is almost identical to a standard Nuxt application which makes them easy to author and maintain."},
@@ -992,7 +1099,7 @@
       {"hash":"98fe37d901cafcf0","kind":"prop","format":"plain","words":2,"skeleton":"Content Wind"},
       {"hash":"47a5656601e723d1","kind":"component-slot","format":"markdown","words":17,"skeleton":"A lightweight Nuxt theme to build a Markdown driven website. Powered by Nuxt Content, TailwindCSS and Iconify."}
     ],
-    "docs/1.getting-started/15.prerendering.md": [
+    "docs/1.getting-started/17.prerendering.md": [
       {"hash":"0272e3a53f92aafb","kind":"frontmatter","format":"plain","words":1,"skeleton":"Prerendering"},
       {"hash":"7bceb2d8de4580c0","kind":"frontmatter","format":"plain","words":17,"skeleton":"Nuxt allows pages to be statically rendered at build time to improve certain performance or SEO metrics"},
       {"hash":"e1296ceb05ff199b","kind":"paragraph","format":"markdown","words":29,"skeleton":"Nuxt allows for select pages from your application to be rendered at build time. Nuxt will serve the prebuilt pages when requested instead of generating them on the fly."},
@@ -1048,7 +1155,7 @@
       {"hash":"29292c42aeb3665e","kind":"heading","format":"markdown","words":2,"skeleton":"{0} Nitro hook","placeholders":["code"]},
       {"hash":"209c3703f61c1b55","kind":"paragraph","format":"markdown","words":21,"skeleton":"This is called for each route during prerendering. You can use this for fine-grained handling of each route that gets prerendered."}
     ],
-    "docs/1.getting-started/16.deployment.md": [
+    "docs/1.getting-started/18.deployment.md": [
       {"hash":"67baa2409d64f491","kind":"frontmatter","format":"plain","words":1,"skeleton":"Deployment"},
       {"hash":"3f7d916cc7429b65","kind":"frontmatter","format":"plain","words":11,"skeleton":"Learn how to deploy your Nuxt application to any hosting provider."},
       {"hash":"0a73b32c7af32f70","kind":"paragraph","format":"markdown","words":23,"skeleton":"A Nuxt application can be deployed on a Node.js server, pre-rendered for static hosting, or deployed to serverless or edge (CDN) environments."},
@@ -1111,7 +1218,7 @@
       {"hash":"725814d5069f7a24","kind":"paragraph","format":"markdown","words":22,"skeleton":"With these settings, you can be sure that Cloudflare won't inject scripts into your Nuxt application that may cause unwanted side effects."},
       {"hash":"f90e8fc2b363a3eb","kind":"component-slot","format":"markdown","words":14,"skeleton":"Their location on the Cloudflare dashboard sometimes changes so don't hesitate to look around."}
     ],
-    "docs/1.getting-started/17.testing.md": [
+    "docs/1.getting-started/19.testing.md": [
       {"hash":"fb00708fe1ba4015","kind":"frontmatter","format":"plain","words":1,"skeleton":"Testing"},
       {"hash":"3cdb0836f2425dcb","kind":"frontmatter","format":"plain","words":6,"skeleton":"How to test your Nuxt application."},
       {"hash":"91ee774e2cd2bde5","kind":"component-slot","format":"markdown","words":17,"skeleton":"If you are a module author, you can find more specific information in the {0}Module Author's guide{/0}.","placeholders":["link"]},
@@ -1344,7 +1451,7 @@
       {"hash":"1497fde3697c1f27","kind":"paragraph","format":"markdown","words":9,"skeleton":"Your test file should then use {0} and {1} directly from {2}:","placeholders":["code","code","code"]},
       {"hash":"7364dcc92db42e68","kind":"paragraph","format":"markdown","words":12,"skeleton":"You can alternatively configure your Nuxt server directly within your test file:"}
     ],
-    "docs/1.getting-started/18.upgrade.md": [
+    "docs/1.getting-started/20.upgrade.md": [
       {"hash":"a61cf5bab0626d69","kind":"frontmatter","format":"plain","words":2,"skeleton":"Upgrade Guide"},
       {"hash":"38a6553cdc172ff4","kind":"frontmatter","format":"plain","words":9,"skeleton":"Learn how to upgrade to the latest Nuxt version."},
       {"hash":"752460da3ced4499","kind":"heading","format":"markdown","words":2,"skeleton":"Upgrading Nuxt"},

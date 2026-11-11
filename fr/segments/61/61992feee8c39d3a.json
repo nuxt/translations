@@ -1,0 +1,14 @@
+{
+  "hash": "61992feee8c39d3a",
+  "source": "**Built-in resizer:** Optimize local and remote images with {0}IPX{/0}, the default provider, with no configuration.",
+  "text": "**Redimensionneur intégré :** optimisez les images locales et distantes avec {0}IPX{/0}, le fournisseur par défaut, sans aucune configuration.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Redimensionneur intégré :** optimisez les images locales et distantes avec {0}IPX{/0}, le fournisseur par défaut, sans aucune configuration."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

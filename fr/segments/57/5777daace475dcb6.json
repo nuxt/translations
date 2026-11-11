@@ -1,0 +1,14 @@
+{
+  "hash": "5777daace475dcb6",
+  "source": "{0}Configuration{/0}: set the weights, styles, subsets, and preloading of your fonts.",
+  "text": "{0}Configuration{/0} : définissez les graisses, les styles, les sous-ensembles et le préchargement de vos polices.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}Configuration{/0} : définissez les graisses, les styles, les sous-ensembles et le préchargement de vos polices."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

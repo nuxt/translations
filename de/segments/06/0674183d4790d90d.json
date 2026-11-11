@@ -1,0 +1,14 @@
+{
+  "hash": "0674183d4790d90d",
+  "source": "Nuxt has a core module ({0}) to resize, transform and serve optimized images in your application:",
+  "text": "Nuxt hat ein zentrales Modul ({0}), mit dem du optimierte Bilder in deiner Anwendung skalieren, transformieren und ausliefern kannst:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt hat ein zentrales Modul ({0}), mit dem du optimierte Bilder in deiner Anwendung skalieren, transformieren und ausliefern kannst:"
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

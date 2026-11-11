@@ -1,0 +1,14 @@
+{
+  "hash": "77defa16f0e354b9",
+  "source": "Images below the fold can wait until the user scrolls to them. Set {0} to load an image only when it enters the viewport:",
+  "text": "Bilder außerhalb des sichtbaren Bereichs können warten, bis Nutzende zu ihnen scrollen. Setze {0}, damit ein Bild erst geladen wird, wenn es den Viewport erreicht:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bilder außerhalb des sichtbaren Bereichs können warten, bis Nutzende zu ihnen scrollen. Setze {0}, damit ein Bild erst geladen wird, wenn es den Viewport erreicht:"
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

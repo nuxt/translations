@@ -1,0 +1,14 @@
+{
+  "hash": "756e5c493a8fe0bc",
+  "source": "{0}: serve several image formats.",
+  "text": "{0} : servir plusieurs formats d'image.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : servir plusieurs formats d'image."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

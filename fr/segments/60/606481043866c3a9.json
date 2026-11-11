@@ -1,0 +1,14 @@
+{
+  "hash": "606481043866c3a9",
+  "source": "{0}: all props of the image component.",
+  "text": "{0} : toutes les props du composant d'image.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : toutes les props du composant d'image."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

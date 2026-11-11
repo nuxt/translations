@@ -1,0 +1,14 @@
+{
+  "hash": "55e31146e3205ea1",
+  "source": "Web Fonts",
+  "text": "Web-Schriftarten",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Web-Schriftarten"
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

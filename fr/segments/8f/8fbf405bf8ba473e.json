@@ -1,0 +1,14 @@
+{
+  "hash": "8fbf405bf8ba473e",
+  "source": "This command installs {0} and adds it to the {1} of your {2}.",
+  "text": "Cette commande installe {0} et l'ajoute à la propriété {1} de votre {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette commande installe {0} et l'ajoute à la propriété {1} de votre {2}."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

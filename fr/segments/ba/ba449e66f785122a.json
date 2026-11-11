@@ -1,0 +1,14 @@
+{
+  "hash": "ba449e66f785122a",
+  "source": "To prevent other websites from using your server to optimize any image on the internet, Nuxt Image only optimizes remote images from domains that you allow. Add them to the {0} option in your {1}:",
+  "text": "Pour empêcher d'autres sites web d'utiliser votre serveur afin d'optimiser n'importe quelle image d'Internet, Nuxt Image n'optimise que les images distantes provenant des domaines que vous autorisez. Ajoutez-les à l'option {0} dans votre {1} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour empêcher d'autres sites web d'utiliser votre serveur afin d'optimiser n'importe quelle image d'Internet, Nuxt Image n'optimise que les images distantes provenant des domaines que vous autorisez. Ajoutez-les à l'option {0} dans votre {1} :"
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

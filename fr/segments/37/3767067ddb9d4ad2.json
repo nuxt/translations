@@ -1,0 +1,14 @@
+{
+  "hash": "3767067ddb9d4ad2",
+  "source": "**Self-hosting:** Nuxt Fonts downloads fonts at build time and serves them from your own domain with long-lived cache headers. The browser sends no requests to Google or other font providers for these fonts. Remove any {0} tags or {1} rules that load fonts from a provider, because Nuxt Fonts doesn't process them.",
+  "text": "**Auto-hébergement :** Nuxt Fonts télécharge les polices au moment du build et les sert depuis votre propre domaine avec des en-têtes de cache de longue durée. Le navigateur n'envoie aucune requête à Google ou à d'autres fournisseurs de polices pour ces polices. Supprimez toutes les balises {0} ou les règles {1} qui chargent des polices depuis un fournisseur, car Nuxt Fonts ne les traite pas.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Auto-hébergement :** Nuxt Fonts télécharge les polices au moment du build et les sert depuis votre propre domaine avec des en-têtes de cache de longue durée. Le navigateur n'envoie aucune requête à Google ou à d'autres fournisseurs de polices pour ces polices. Supprimez toutes les balises {0} ou les règles {1} qui chargent des polices depuis un fournisseur, car Nuxt Fonts ne les traite pas."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

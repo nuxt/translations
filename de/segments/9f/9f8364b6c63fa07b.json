@@ -1,0 +1,14 @@
+{
+  "hash": "9f8364b6c63fa07b",
+  "source": "To use a font file with a different name, or a file hosted elsewhere, set its {0} in {1}. You can repeat a font name to add a file for each weight:",
+  "text": "Um eine Schriftdatei mit einem anderen Namen oder eine anderswo gehostete Datei zu verwenden, setze ihre {0} in {1}. Du kannst einen Schriftnamen wiederholen, um für jedes Gewicht eine Datei hinzuzufügen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um eine Schriftdatei mit einem anderen Namen oder eine anderswo gehostete Datei zu verwenden, setze ihre {0} in {1}. Du kannst einen Schriftnamen wiederholen, um für jedes Gewicht eine Datei hinzuzufügen:"
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

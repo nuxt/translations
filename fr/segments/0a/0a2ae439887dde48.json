@@ -1,0 +1,14 @@
+{
+  "hash": "0a2ae439887dde48",
+  "source": "Then apply the font with the {0} utility class. See the {1}Nuxt Fonts usage guide{/1} for more details, and for UnoCSS.",
+  "text": "Appliquez ensuite la police avec la classe utilitaire {0}. Consultez le {1}guide d'utilisation de Nuxt Fonts{/1} pour plus de détails, et pour UnoCSS.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appliquez ensuite la police avec la classe utilitaire {0}. Consultez le {1}guide d'utilisation de Nuxt Fonts{/1} pour plus de détails, et pour UnoCSS."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

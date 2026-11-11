@@ -1,0 +1,14 @@
+{
+  "hash": "afea05b105811dfd",
+  "source": "Load every weight of the variable Inter font",
+  "text": "Charger toutes les graisses de la police variable Inter",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Charger toutes les graisses de la police variable Inter"
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "a24a704213328663",
+  "source": "IPX doesn't run in worker runtimes. When you deploy to one, such as Cloudflare Workers, Nuxt Image serves your original images without optimization. Configure an {0}image provider{/0}, such as {1}, to optimize them.",
+  "text": "IPX ne fonctionne pas dans les environnements d'exécution de type worker. Lorsque vous déployez sur l'un d'eux, comme Cloudflare Workers, Nuxt Image sert vos images d'origine sans optimisation. Configurez un {0}fournisseur d'images{/0}, tel que {1}, pour les optimiser.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "IPX ne fonctionne pas dans les environnements d'exécution de type worker. Lorsque vous déployez sur l'un d'eux, comme Cloudflare Workers, Nuxt Image sert vos images d'origine sans optimisation. Configurez un {0}fournisseur d'images{/0}, tel que {1}, pour les optimiser."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

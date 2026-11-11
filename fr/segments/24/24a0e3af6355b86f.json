@@ -1,0 +1,14 @@
+{
+  "hash": "24a0e3af6355b86f",
+  "source": "To serve the best format that each browser supports, use {0}. It renders a {1} element with one source for each format, and a fallback in a legacy format such as JPEG or PNG:",
+  "text": "Pour servir le meilleur format pris en charge par chaque navigateur, utilisez {0}. Il génère un élément {1} avec une source pour chaque format, ainsi qu'un format de secours dans un format ancien comme JPEG ou PNG :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour servir le meilleur format pris en charge par chaque navigateur, utilisez {0}. Il génère un élément {1} avec une source pour chaque format, ainsi qu'un format de secours dans un format ancien comme JPEG ou PNG :"
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

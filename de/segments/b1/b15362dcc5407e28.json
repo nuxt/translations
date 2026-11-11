@@ -1,0 +1,14 @@
+{
+  "hash": "b15362dcc5407e28",
+  "source": "If you already host your images on an image CDN or a headless CMS, Nuxt Image can use its transformation service instead of IPX. Nuxt Image supports {0}more than 40 providers{/0}, such as Cloudinary, Imgix, Sanity, and Storyblok. When you deploy to Vercel, Netlify, or AWS Amplify, Nuxt Image detects and uses the platform's image service.",
+  "text": "Wenn du deine Bilder bereits bei einem Bild-CDN oder einem Headless-CMS hostest, kann Nuxt Image dessen Transformationsdienst statt IPX verwenden. Nuxt Image unterstützt {0}mehr als 40 Provider{/0}, darunter Cloudinary, Imgix, Sanity und Storyblok. Wenn du auf Vercel, Netlify oder AWS Amplify bereitstellst, erkennt Nuxt Image den Bilddienst der Plattform und verwendet ihn.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du deine Bilder bereits bei einem Bild-CDN oder einem Headless-CMS hostest, kann Nuxt Image dessen Transformationsdienst statt IPX verwenden. Nuxt Image unterstützt {0}mehr als 40 Provider{/0}, darunter Cloudinary, Imgix, Sanity und Storyblok. Wenn du auf Vercel, Netlify oder AWS Amplify bereitstellst, erkennt Nuxt Image den Bilddienst der Plattform und verwendet ihn."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

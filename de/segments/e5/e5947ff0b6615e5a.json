@@ -1,0 +1,14 @@
+{
+  "hash": "e5947ff0b6615e5a",
+  "source": "For a variable font, put its weight range in the filename, such as {0}. A filename marked {1} or {2} without a range covers {3}. Nuxt Fonts only declares the {4}default weights{/4}, {5}, even for a variable font file, so other weights render at the nearest one in that range. To use its full range, configure the weights of the font:",
+  "text": "Gib bei einer variablen Schriftart den Gewichtsbereich im Dateinamen an, etwa {0}. Ein Dateiname mit der Kennzeichnung {1} oder {2} ohne Bereich deckt {3} ab. Nuxt Fonts deklariert auch bei einer Datei mit variabler Schriftart nur die {4}Standardgewichte{/4} {5}, sodass andere Gewichte mit dem nächstgelegenen Gewicht in diesem Bereich dargestellt werden. Um den vollen Bereich zu nutzen, konfiguriere die Schriftgewichte der Schriftart:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gib bei einer variablen Schriftart den Gewichtsbereich im Dateinamen an, etwa {0}. Ein Dateiname mit der Kennzeichnung {1} oder {2} ohne Bereich deckt {3} ab. Nuxt Fonts deklariert auch bei einer Datei mit variabler Schriftart nur die {4}Standardgewichte{/4} {5}, sodass andere Gewichte mit dem nächstgelegenen Gewicht in diesem Bereich dargestellt werden. Um den vollen Bereich zu nutzen, konfiguriere die Schriftgewichte der Schriftart:"
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

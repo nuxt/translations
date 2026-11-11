@@ -1,0 +1,14 @@
+{
+  "hash": "1a2c15b791b513cc",
+  "source": "Only load these weights of Roboto, from Google Fonts",
+  "text": "Charger uniquement ces graisses de Roboto, depuis Google Fonts",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Charger uniquement ces graisses de Roboto, depuis Google Fonts"
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

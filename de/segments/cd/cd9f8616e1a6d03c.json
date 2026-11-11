@@ -1,0 +1,14 @@
+{
+  "hash": "cd9f8616e1a6d03c",
+  "source": "{0}How it works{/0}: learn how Nuxt Fonts resolves fonts and generates fallback metrics.",
+  "text": "{0}Funktionsweise{/0}: Erfahre, wie Nuxt Fonts Schriftarten auflöst und Fallback-Metriken erzeugt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}Funktionsweise{/0}: Erfahre, wie Nuxt Fonts Schriftarten auflöst und Fallback-Metriken erzeugt."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

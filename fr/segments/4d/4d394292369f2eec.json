@@ -1,0 +1,14 @@
+{
+  "hash": "4d394292369f2eec",
+  "source": "**40+ providers supported:** Use the image service of your CDN or CMS instead, or {0}write your own provider{/0}, with no vendor lock-in.",
+  "text": "**Plus de 40 fournisseurs pris en charge :** utilisez plutôt le service d'images de votre CDN ou CMS, ou {0}écrivez votre propre fournisseur{/0}, sans dépendance vis-à-vis d'un fournisseur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Plus de 40 fournisseurs pris en charge :** utilisez plutôt le service d'images de votre CDN ou CMS, ou {0}écrivez votre propre fournisseur{/0}, sans dépendance vis-à-vis d'un fournisseur."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

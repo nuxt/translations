@@ -1,0 +1,14 @@
+{
+  "hash": "412b14a70229e5da",
+  "source": "The {0} property can be a {1}local{/1} or {2}remote{/2} image.",
+  "text": "Die Eigenschaft {0} kann ein {1}lokales{/1} oder {2}externes{/2} Bild sein.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Eigenschaft {0} kann ein {1}lokales{/1} oder {2}externes{/2} Bild sein."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

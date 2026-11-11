@@ -1,0 +1,14 @@
+{
+  "hash": "10a46d0957a80b91",
+  "source": "Prerendering only generates the image sizes that are in the server-rendered HTML. An image that only renders in the browser, such as in a modal or a client-only component, has no generated file, so its URL returns a 404 error. List these images in {0}, or use an {1}image provider{/1}. See {2}static images{/2} for more details.",
+  "text": "Das Vorab-Rendering erzeugt nur die Bildgrößen, die im serverseitig gerenderten HTML enthalten sind. Für ein Bild, das nur im Browser gerendert wird, etwa in einem Modal oder in einer reinen Client-Komponente, wird keine Datei erzeugt, sodass seine URL einen 404-Fehler zurückgibt. Führe diese Bilder in {0} auf oder verwende einen {1}Bild-Provider{/1}. Weitere Details findest du unter {2}Statische Bilder{/2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Vorab-Rendering erzeugt nur die Bildgrößen, die im serverseitig gerenderten HTML enthalten sind. Für ein Bild, das nur im Browser gerendert wird, etwa in einem Modal oder in einer reinen Client-Komponente, wird keine Datei erzeugt, sodass seine URL einen 404-Fehler zurückgibt. Führe diese Bilder in {0} auf oder verwende einen {1}Bild-Provider{/1}. Weitere Details findest du unter {2}Statische Bilder{/2}."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "6da0a470931d89b9",
+  "source": "**Drop-in replacement:** Use {0} and {1} where you would write {2} and {3}.",
+  "text": "**Direkter Ersatz:** Verwende {0} und {1} anstelle von {2} und {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Direkter Ersatz:** Verwende {0} und {1} anstelle von {2} und {3}."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

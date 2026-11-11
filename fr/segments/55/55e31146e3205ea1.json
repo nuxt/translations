@@ -1,0 +1,14 @@
+{
+  "hash": "55e31146e3205ea1",
+  "source": "Web Fonts",
+  "text": "Polices web",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Polices web"
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

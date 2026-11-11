@@ -1,0 +1,14 @@
+{
+  "hash": "4f3ae5f3b8e10b3f",
+  "source": "Use the {0} prop to convert an image to a modern format:",
+  "text": "Verwende die Prop {0}, um ein Bild in ein modernes Format umzuwandeln:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwende die Prop {0}, um ein Bild in ein modernes Format umzuwandeln:"
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

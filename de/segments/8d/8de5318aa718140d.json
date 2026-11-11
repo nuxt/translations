@@ -1,0 +1,14 @@
+{
+  "hash": "8de5318aa718140d",
+  "source": "Fonts load where your CSS uses them. To apply a font to your entire application, declare it in a global stylesheet and add the stylesheet to the {0}{1} property{/0} of your {2}:",
+  "text": "Schriftarten werden dort geladen, wo dein CSS sie verwendet. Um eine Schriftart auf deine gesamte Anwendung anzuwenden, deklariere sie in einem globalen Stylesheet und füge das Stylesheet zur {0}{1}-Eigenschaft{/0} deiner {2} hinzu:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Schriftarten werden dort geladen, wo dein CSS sie verwendet. Um eine Schriftart auf deine gesamte Anwendung anzuwenden, deklariere sie in einem globalen Stylesheet und füge das Stylesheet zur {0}{1}-Eigenschaft{/0} deiner {2} hinzu:"
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

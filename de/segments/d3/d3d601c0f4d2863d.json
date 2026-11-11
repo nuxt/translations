@@ -1,0 +1,14 @@
+{
+  "hash": "d3d601c0f4d2863d",
+  "source": "Add the Nuxt Image module to your project:",
+  "text": "Füge das Nuxt-Image-Modul zu deinem Projekt hinzu:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Füge das Nuxt-Image-Modul zu deinem Projekt hinzu:"
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

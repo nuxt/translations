@@ -1,0 +1,14 @@
+{
+  "hash": "10e6bba5d002ba3b",
+  "source": "**No code to write:** Name a font in a {0} declaration in your CSS. Nuxt Fonts finds the font and generates the {1} rules for you.",
+  "text": "**Aucun code à écrire :** Indiquez le nom d'une police dans une déclaration {0} de votre CSS. Nuxt Fonts trouve la police et génère les règles {1} pour vous.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Aucun code à écrire :** Indiquez le nom d'une police dans une déclaration {0} de votre CSS. Nuxt Fonts trouve la police et génère les règles {1} pour vous."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

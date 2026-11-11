@@ -1,0 +1,14 @@
+{
+  "hash": "b856e70801bdf58a",
+  "source": "{0}Configuration{/0}: set defaults such as quality, formats, screen sizes, and presets.",
+  "text": "{0}Configuration{/0} : définir des valeurs par défaut comme la qualité, les formats, les tailles d'écran et les presets.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}Configuration{/0} : définir des valeurs par défaut comme la qualité, les formats, les tailles d'écran et les presets."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

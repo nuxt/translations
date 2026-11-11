@@ -1,0 +1,14 @@
+{
+  "hash": "c6c3e702762875ab",
+  "source": "Local Fonts",
+  "text": "Polices locales",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Polices locales"
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

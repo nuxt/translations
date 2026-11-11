@@ -1,0 +1,14 @@
+{
+  "hash": "a9ed0672b11d339c",
+  "source": "Add the Nuxt Fonts module to your project:",
+  "text": "Ajoutez le module Nuxt Fonts à votre projet :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ajoutez le module Nuxt Fonts à votre projet :"
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

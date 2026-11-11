@@ -1,0 +1,14 @@
+{
+  "hash": "266d3ceb51655da2",
+  "source": "For these fonts, set {0} in {1}. Nuxt Fonts then adds the {2} rules of the font to every page:",
+  "text": "Pour ces polices, définissez {0} dans {1}. Nuxt Fonts ajoute alors les règles {2} de la police à chaque page :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour ces polices, définissez {0} dans {1}. Nuxt Fonts ajoute alors les règles {2} de la police à chaque page :"
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e50f84f2f0c321a8",
+  "source": "Then use the font by its name:",
+  "text": "Verwende die Schriftart dann über ihren Namen:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwende die Schriftart dann über ihren Namen:"
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

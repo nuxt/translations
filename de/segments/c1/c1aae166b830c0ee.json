@@ -1,0 +1,14 @@
+{
+  "hash": "c1aae166b830c0ee",
+  "source": "**Faster page loads:** Load images only when they enter the viewport with native lazy loading, and show placeholders while they load.",
+  "text": "**Schnellere Ladezeiten:** Lade Bilder mit nativem verzögertem Laden erst, wenn sie in den Viewport gelangen, und zeige Platzhalter an, während sie laden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Schnellere Ladezeiten:** Lade Bilder mit nativem verzögertem Laden erst, wenn sie in den Viewport gelangen, und zeige Platzhalter an, während sie laden."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

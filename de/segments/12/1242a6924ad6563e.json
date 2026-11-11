@@ -1,0 +1,14 @@
+{
+  "hash": "1242a6924ad6563e",
+  "source": "When you use {0} or {1} in development without the module, Nuxt detects it and asks to install {2} for you.",
+  "text": "Wenn du {0} oder {1} in der Entwicklung ohne das Modul verwendest, erkennt Nuxt das und bietet an, {2} für dich zu installieren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du {0} oder {1} in der Entwicklung ohne das Modul verwendest, erkennt Nuxt das und bietet an, {2} für dich zu installieren."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b0d7b3a1e77aa0a9",
+  "source": "With the default IPX provider, Nuxt Image renders images from other domains with their original URL, without optimization. Other {0}providers{/0} can handle these images differently.",
+  "text": "Mit dem Standard-Provider IPX rendert Nuxt Image Bilder von anderen Domains mit ihrer ursprünglichen URL und ohne Optimierung. Andere {0}Provider{/0} können diese Bilder anders behandeln.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit dem Standard-Provider IPX rendert Nuxt Image Bilder von anderen Domains mit ihrer ursprünglichen URL und ohne Optimierung. Andere {0}Provider{/0} können diese Bilder anders behandeln."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

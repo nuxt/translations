@@ -1,0 +1,14 @@
+{
+  "hash": "2b490571b0a56aa7",
+  "source": "Nuxt Fonts converts {0} to {1} to look up the files.",
+  "text": "Nuxt Fonts wandelt {0} in {1} um, um die Dateien zu finden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Fonts wandelt {0} in {1} um, um die Dateien zu finden."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "7c62fea536379d08",
+  "source": "To show a blurred, low-quality version of the image while the full image loads, add the {0} prop:",
+  "text": "Um eine unscharfe Version des Bildes in niedriger Qualität anzuzeigen, während das vollständige Bild lädt, füge die Prop {0} hinzu:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um eine unscharfe Version des Bildes in niedriger Qualität anzuzeigen, während das vollständige Bild lädt, füge die Prop {0} hinzu:"
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

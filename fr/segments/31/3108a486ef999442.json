@@ -1,0 +1,14 @@
+{
+  "hash": "3108a486ef999442",
+  "source": "Images without {0}, such as icons or avatars, get a 1x and a 2x version by default, so they stay sharp on high-density screens. To change the pixel densities, use the {1}{2} prop{/1} for a single image, or the {3} option for every image.",
+  "text": "Les images sans {0}, comme les icônes ou les avatars, ont par défaut une version 1x et une version 2x, afin de rester nettes sur les écrans à haute densité. Pour modifier les densités de pixels, utilisez {1}la prop {2}{/1} pour une seule image, ou l'option {3} pour toutes les images.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les images sans {0}, comme les icônes ou les avatars, ont par défaut une version 1x et une version 2x, afin de rester nettes sur les écrans à haute densité. Pour modifier les densités de pixels, utilisez {1}la prop {2}{/1} pour une seule image, ou l'option {3} pour toutes les images."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

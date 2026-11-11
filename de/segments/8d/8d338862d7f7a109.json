@@ -1,0 +1,14 @@
+{
+  "hash": "8d338862d7f7a109",
+  "source": "You can also use a provider for a single image with the {0} prop.",
+  "text": "Mit der Prop {0} kannst du einen Provider auch für ein einzelnes Bild verwenden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit der Prop {0} kannst du einen Provider auch für ein einzelnes Bild verwenden."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

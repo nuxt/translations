@@ -1,0 +1,14 @@
+{
+  "hash": "e5947ff0b6615e5a",
+  "source": "For a variable font, put its weight range in the filename, such as {0}. A filename marked {1} or {2} without a range covers {3}. Nuxt Fonts only declares the {4}default weights{/4}, {5}, even for a variable font file, so other weights render at the nearest one in that range. To use its full range, configure the weights of the font:",
+  "text": "Pour une police variable, indiquez sa plage de graisses dans le nom du fichier, par exemple {0}. Un nom de fichier marqué {1} ou {2} sans plage couvre {3}. Nuxt Fonts ne déclare que les {4}graisses par défaut{/4}, {5}, même pour un fichier de police variable ; les autres graisses s'affichent donc avec la graisse la plus proche de cette plage. Pour utiliser toute sa plage, configurez les graisses de la police :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour une police variable, indiquez sa plage de graisses dans le nom du fichier, par exemple {0}. Un nom de fichier marqué {1} ou {2} sans plage couvre {3}. Nuxt Fonts ne déclare que les {4}graisses par défaut{/4}, {5}, même pour un fichier de police variable ; les autres graisses s'affichent donc avec la graisse la plus proche de cette plage. Pour utiliser toute sa plage, configurez les graisses de la police :"
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

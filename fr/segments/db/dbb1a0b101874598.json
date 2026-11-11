@@ -1,0 +1,14 @@
+{
+  "hash": "dbb1a0b101874598",
+  "source": "The image that is the {0}Largest Contentful Paint (LCP){/0} of your page, such as a hero image, must load as early as possible. Use the {1} prop to add a {2} tag to the page head with a high fetch priority:",
+  "text": "L'image qui constitue le {0}Largest Contentful Paint (LCP){/0} de votre page, comme une image hero, doit se charger le plus tôt possible. Utilisez la prop {1} pour ajouter une balise {2} dans le head de la page avec une priorité de chargement élevée :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'image qui constitue le {0}Largest Contentful Paint (LCP){/0} de votre page, comme une image hero, doit se charger le plus tôt possible. Utilisez la prop {1} pour ajouter une balise {2} dans le head de la page avec une priorité de chargement élevée :"
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

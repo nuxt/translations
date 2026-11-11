@@ -1,0 +1,14 @@
+{
+  "hash": "567f752fc2ad220f",
+  "source": "Fonts That Aren't Detected",
+  "text": "Nicht erkannte Schriftarten",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nicht erkannte Schriftarten"
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

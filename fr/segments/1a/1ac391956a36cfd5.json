@@ -1,0 +1,14 @@
+{
+  "hash": "1ac391956a36cfd5",
+  "source": "The {0} of your images is then a path on the provider:",
+  "text": "Le {0} de vos images est alors un chemin sur le provider :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le {0} de vos images est alors un chemin sur le provider :"
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

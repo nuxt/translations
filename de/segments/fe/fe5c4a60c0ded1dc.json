@@ -1,0 +1,14 @@
+{
+  "hash": "fe5c4a60c0ded1dc",
+  "source": "**Modern formats:** Convert images to WebP or AVIF for the browsers that support them.",
+  "text": "**Moderne Formate:** Konvertiere Bilder in WebP oder AVIF für Browser, die diese Formate unterstützen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Moderne Formate:** Konvertiere Bilder in WebP oder AVIF für Browser, die diese Formate unterstützen."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

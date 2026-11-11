@@ -1,0 +1,14 @@
+{
+  "hash": "54eb9886943263c2",
+  "source": "Remote Images",
+  "text": "Externe Bilder",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Externe Bilder"
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

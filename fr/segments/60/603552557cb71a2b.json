@@ -1,0 +1,14 @@
+{
+  "hash": "603552557cb71a2b",
+  "source": "To use the same options for all fonts, set them in {0} instead. You can also change the subsets that Nuxt Fonts loads, for example to support Cyrillic or Arabic text. See the {1}font options{/1} for all options.",
+  "text": "Pour utiliser les mêmes options pour toutes les polices, définissez-les plutôt dans {0}. Vous pouvez aussi modifier les sous-ensembles que Nuxt Fonts charge, par exemple pour prendre en charge le texte cyrillique ou arabe. Consultez les {1}options des polices{/1} pour toutes les options.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour utiliser les mêmes options pour toutes les polices, définissez-les plutôt dans {0}. Vous pouvez aussi modifier les sous-ensembles que Nuxt Fonts charge, par exemple pour prendre en charge le texte cyrillique ou arabe. Consultez les {1}options des polices{/1} pour toutes les options."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

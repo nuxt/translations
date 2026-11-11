@@ -1,0 +1,14 @@
+{
+  "hash": "eb9e29206f7fc9ab",
+  "source": "Every visitor downloads the CSS for each global font, so only use this option when you need it.",
+  "text": "Alle Besuchenden laden das CSS für jede globale Schriftart herunter. Verwende diese Option daher nur, wenn du sie brauchst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Alle Besuchenden laden das CSS für jede globale Schriftart herunter. Verwende diese Option daher nur, wenn du sie brauchst."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

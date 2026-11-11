@@ -1,0 +1,14 @@
+{
+  "hash": "d915245af9e5ddbd",
+  "source": "Learn how to optimize web fonts in your Nuxt application with Nuxt Fonts.",
+  "text": "Découvrez comment optimiser les polices web dans votre application Nuxt avec Nuxt Fonts.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Découvrez comment optimiser les polices web dans votre application Nuxt avec Nuxt Fonts."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

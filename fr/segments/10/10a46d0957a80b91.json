@@ -1,0 +1,14 @@
+{
+  "hash": "10a46d0957a80b91",
+  "source": "Prerendering only generates the image sizes that are in the server-rendered HTML. An image that only renders in the browser, such as in a modal or a client-only component, has no generated file, so its URL returns a 404 error. List these images in {0}, or use an {1}image provider{/1}. See {2}static images{/2} for more details.",
+  "text": "Le prérendu ne génère que les tailles d'image présentes dans le HTML rendu côté serveur. Une image qui ne s'affiche que dans le navigateur, par exemple dans une modale ou un composant uniquement côté client, n'a pas de fichier généré, et son URL renvoie donc une erreur 404. Listez ces images dans {0}, ou utilisez un {1}fournisseur d'images{/1}. Consultez {2}les images statiques{/2} pour plus de détails.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le prérendu ne génère que les tailles d'image présentes dans le HTML rendu côté serveur. Une image qui ne s'affiche que dans le navigateur, par exemple dans une modale ou un composant uniquement côté client, n'a pas de fichier généré, et son URL renvoie donc une erreur 404. Listez ces images dans {0}, ou utilisez un {1}fournisseur d'images{/1}. Consultez {2}les images statiques{/2} pour plus de détails."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

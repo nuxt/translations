@@ -1,0 +1,14 @@
+{
+  "hash": "4ebfe686e3111e8a",
+  "source": "To use a font, add a {0} declaration to your CSS:",
+  "text": "Pour utiliser une police, ajoutez une déclaration {0} à votre CSS :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour utiliser une police, ajoutez une déclaration {0} à votre CSS :"
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

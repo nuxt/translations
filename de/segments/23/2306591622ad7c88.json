@@ -1,0 +1,14 @@
+{
+  "hash": "2306591622ad7c88",
+  "source": "To use your own font files, store them in the {0} directory. Nuxt Fonts scans it for {1}, {2}, {3}, {4}, and {5} files that match the {6} names in your CSS.",
+  "text": "Um deine eigenen Schriftdateien zu verwenden, lege sie im Verzeichnis {0} ab. Nuxt Fonts durchsucht es nach {1}-, {2}-, {3}-, {4}- und {5}-Dateien, die zu den {6}-Namen in deinem CSS passen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um deine eigenen Schriftdateien zu verwenden, lege sie im Verzeichnis {0} ab. Nuxt Fonts durchsucht es nach {1}-, {2}-, {3}-, {4}- und {5}-Dateien, die zu den {6}-Namen in deinem CSS passen."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

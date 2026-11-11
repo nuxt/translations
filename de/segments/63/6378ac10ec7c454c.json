@@ -1,0 +1,14 @@
+{
+  "hash": "6378ac10ec7c454c",
+  "source": "To use a remote image, provide its URL in the {0} property:",
+  "text": "Um ein externes Bild zu verwenden, gib seine URL in der Eigenschaft {0} an:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um ein externes Bild zu verwenden, gib seine URL in der Eigenschaft {0} an:"
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

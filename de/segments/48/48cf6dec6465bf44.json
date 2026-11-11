@@ -1,0 +1,14 @@
+{
+  "hash": "48cf6dec6465bf44",
+  "source": "Store your images in the {0} directory and reference them from the root URL ({1}). For example, {2} is available as {3}:",
+  "text": "Lege deine Bilder im Verzeichnis {0} ab und verweise über die Root-URL ({1}) auf sie. Zum Beispiel ist {2} unter {3} verfügbar:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lege deine Bilder im Verzeichnis {0} ab und verweise über die Root-URL ({1}) auf sie. Zum Beispiel ist {2} unter {3} verfügbar:"
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

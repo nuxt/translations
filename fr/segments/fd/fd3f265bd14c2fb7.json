@@ -1,0 +1,14 @@
+{
+  "hash": "fd3f265bd14c2fb7",
+  "source": "Nuxt Image resizes the image to the given {0} and {1}. The browser also uses these values to reserve space for the image before it loads, which prevents layout shift. Nuxt Image doesn't read the intrinsic dimensions of your files, so always set {2} and {3} for images that aren't sized by CSS.",
+  "text": "Nuxt Image redimensionne l'image selon les valeurs {0} et {1} indiquées. Le navigateur utilise aussi ces valeurs pour réserver de l'espace pour l'image avant son chargement, ce qui évite les décalages de mise en page. Nuxt Image ne lit pas les dimensions intrinsèques de vos fichiers ; définissez donc toujours {2} et {3} pour les images dont la taille n'est pas définie par CSS.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Image redimensionne l'image selon les valeurs {0} et {1} indiquées. Le navigateur utilise aussi ces valeurs pour réserver de l'espace pour l'image avant son chargement, ce qui évite les décalages de mise en page. Nuxt Image ne lit pas les dimensions intrinsèques de vos fichiers ; définissez donc toujours {2} et {3} pour les images dont la taille n'est pas définie par CSS."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

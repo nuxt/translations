@@ -1,0 +1,14 @@
+{
+  "hash": "640d45af28ce55c8",
+  "source": "The filename tells Nuxt Fonts the weight and style of each file. A file without a weight or style is the {0} weight in the {1} style:",
+  "text": "Le nom du fichier indique à Nuxt Fonts la graisse et le style de chaque fichier. Un fichier sans graisse ni style correspond à la graisse {0} dans le style {1} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le nom du fichier indique à Nuxt Fonts la graisse et le style de chaque fichier. Un fichier sans graisse ni style correspond à la graisse {0} dans le style {1} :"
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

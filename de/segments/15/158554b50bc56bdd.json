@@ -1,0 +1,14 @@
+{
+  "hash": "158554b50bc56bdd",
+  "source": "To use a provider, set it as the default {0} and configure it in your {1}:",
+  "text": "Um einen Provider zu verwenden, lege ihn als Standard-{0} fest und konfiguriere ihn in deiner {1}:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um einen Provider zu verwenden, lege ihn als Standard-{0} fest und konfiguriere ihn in deiner {1}:"
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

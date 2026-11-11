@@ -1,0 +1,14 @@
+{
+  "hash": "827cd3c0859a2a6b",
+  "source": "To resize and optimize your images, read the {0}Image Optimization{/0} guide.",
+  "text": "Pour redimensionner et optimiser vos images, consultez le guide {0}Optimisation des images{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour redimensionner et optimiser vos images, consultez le guide {0}Optimisation des images{/0}."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

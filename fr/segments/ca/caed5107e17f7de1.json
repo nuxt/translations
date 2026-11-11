@@ -1,0 +1,14 @@
+{
+  "hash": "caed5107e17f7de1",
+  "source": "Nuxt Fonts only resolves the fonts that it finds in your CSS. It doesn't detect fonts in inline styles, in inline SVG, in third-party stylesheets, or fonts that you only apply at runtime.",
+  "text": "Nuxt Fonts ne résout que les polices qu'il trouve dans votre CSS. Il ne détecte pas les polices dans les styles en ligne, dans les SVG en ligne, dans les feuilles de style tierces, ni les polices que vous n'appliquez qu'à l'exécution.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Fonts ne résout que les polices qu'il trouve dans votre CSS. Il ne détecte pas les polices dans les styles en ligne, dans les SVG en ligne, dans les feuilles de style tierces, ni les polices que vous n'appliquez qu'à l'exécution."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

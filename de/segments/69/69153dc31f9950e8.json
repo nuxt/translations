@@ -1,0 +1,14 @@
+{
+  "hash": "69153dc31f9950e8",
+  "source": "By default, Nuxt Image uses {0}IPX{/0}, a self-hosted optimizer that runs on your Nuxt server. When you prerender your site with {1}, Nuxt Image optimizes the images at build time instead.",
+  "text": "Standardmäßig verwendet Nuxt Image {0}IPX{/0}, einen selbst gehosteten Optimierer, der auf deinem Nuxt-Server läuft. Wenn du deine Website mit {1} vorab renderst, optimiert Nuxt Image die Bilder stattdessen zur Build-Zeit.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardmäßig verwendet Nuxt Image {0}IPX{/0}, einen selbst gehosteten Optimierer, der auf deinem Nuxt-Server läuft. Wenn du deine Website mit {1} vorab renderst, optimiert Nuxt Image die Bilder stattdessen zur Build-Zeit."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

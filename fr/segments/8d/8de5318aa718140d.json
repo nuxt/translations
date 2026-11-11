@@ -1,0 +1,14 @@
+{
+  "hash": "8de5318aa718140d",
+  "source": "Fonts load where your CSS uses them. To apply a font to your entire application, declare it in a global stylesheet and add the stylesheet to the {0}{1} property{/0} of your {2}:",
+  "text": "Les polices se chargent là où votre CSS les utilise. Pour appliquer une police à toute votre application, déclarez-la dans une feuille de style globale et ajoutez cette feuille de style à la {0}propriété {1}{/0} de votre {2} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les polices se chargent là où votre CSS les utilise. Pour appliquer une police à toute votre application, déclarez-la dans une feuille de style globale et ajoutez cette feuille de style à la {0}propriété {1}{/0} de votre {2} :"
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

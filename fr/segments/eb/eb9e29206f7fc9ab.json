@@ -1,0 +1,14 @@
+{
+  "hash": "eb9e29206f7fc9ab",
+  "source": "Every visitor downloads the CSS for each global font, so only use this option when you need it.",
+  "text": "Chaque visiteur télécharge le CSS de chaque police globale ; n'utilisez donc cette option que lorsque vous en avez besoin.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chaque visiteur télécharge le CSS de chaque police globale ; n'utilisez donc cette option que lorsque vous en avez besoin."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "caed5107e17f7de1",
+  "source": "Nuxt Fonts only resolves the fonts that it finds in your CSS. It doesn't detect fonts in inline styles, in inline SVG, in third-party stylesheets, or fonts that you only apply at runtime.",
+  "text": "Nuxt Fonts löst nur die Schriftarten auf, die es in deinem CSS findet. Es erkennt keine Schriftarten in Inline-Styles, in Inline-SVG, in Stylesheets von Drittanbietern oder Schriftarten, die du erst zur Laufzeit anwendest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Fonts löst nur die Schriftarten auf, die es in deinem CSS findet. Es erkennt keine Schriftarten in Inline-Styles, in Inline-SVG, in Stylesheets von Drittanbietern oder Schriftarten, die du erst zur Laufzeit anwendest."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

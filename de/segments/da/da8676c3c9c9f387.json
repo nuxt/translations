@@ -1,0 +1,14 @@
+{
+  "hash": "da8676c3c9c9f387",
+  "source": "Nuxt Fonts only resolves the first font in a {0} list. It uses the other fonts in the list, such as {1}, to generate the fallback metrics.",
+  "text": "Nuxt Fonts löst nur die erste Schriftart in einer {0}-Liste auf. Die anderen Schriftarten in der Liste, wie {1}, verwendet es, um die Fallback-Metriken zu erzeugen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Fonts löst nur die erste Schriftart in einer {0}-Liste auf. Die anderen Schriftarten in der Liste, wie {1}, verwendet es, um die Fallback-Metriken zu erzeugen."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

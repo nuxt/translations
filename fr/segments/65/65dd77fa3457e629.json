@@ -1,0 +1,14 @@
+{
+  "hash": "65dd77fa3457e629",
+  "source": "Image Optimization",
+  "text": "Optimisation des images",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Optimisation des images"
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

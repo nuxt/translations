@@ -1,0 +1,14 @@
+{
+  "hash": "56b323b73a6eb706",
+  "source": "Nuxt Fonts only processes CSS stylesheets and {0} blocks. A {1} in an inline {2} attribute isn't detected. See {3}fonts that aren't detected{/3}.",
+  "text": "Nuxt Fonts ne traite que les feuilles de style CSS et les blocs {0}. Une {1} dans un attribut {2} en ligne n'est pas détectée. Voir les {3}polices non détectées{/3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Fonts ne traite que les feuilles de style CSS et les blocs {0}. Une {1} dans un attribut {2} en ligne n'est pas détectée. Voir les {3}polices non détectées{/3}."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

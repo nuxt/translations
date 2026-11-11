@@ -1,0 +1,14 @@
+{
+  "hash": "7e2776193f03774e",
+  "source": "Image Providers",
+  "text": "Bild-Provider",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bild-Provider"
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "9bdd5f939241a16d",
+  "source": "{0}: generate optimized image URLs in your code, for example for CSS backgrounds.",
+  "text": "{0}: optimierte Bild-URLs in deinem Code erzeugen, zum Beispiel für CSS-Hintergründe.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: optimierte Bild-URLs in deinem Code erzeugen, zum Beispiel für CSS-Hintergründe."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

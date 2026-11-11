@@ -1,0 +1,14 @@
+{
+  "hash": "ecc28268c00c1433",
+  "source": "This option doesn't apply to SVG files that you load with an {0} tag, because they can't use the fonts of the page. Embed the font in these SVG files instead.",
+  "text": "Diese Option gilt nicht für SVG-Dateien, die du mit einem {0}-Tag lädst, da sie die Schriftarten der Seite nicht nutzen können. Binde die Schriftart stattdessen in diese SVG-Dateien ein.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese Option gilt nicht für SVG-Dateien, die du mit einem {0}-Tag lädst, da sie die Schriftarten der Seite nicht nutzen können. Binde die Schriftart stattdessen in diese SVG-Dateien ein."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

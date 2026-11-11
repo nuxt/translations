@@ -1,0 +1,14 @@
+{
+  "hash": "d077b18271a6524d",
+  "source": "Nuxt Fonts detects {0} and resolves it from a font provider. It then injects the {1} rules into the same stylesheet.",
+  "text": "Nuxt Fonts erkennt {0} und löst die Schriftart über einen Schriftanbieter auf. Anschließend fügt es die {1}-Regeln in dasselbe Stylesheet ein.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Fonts erkennt {0} und löst die Schriftart über einen Schriftanbieter auf. Anschließend fügt es die {1}-Regeln in dasselbe Stylesheet ein."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

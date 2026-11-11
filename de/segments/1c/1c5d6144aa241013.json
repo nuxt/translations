@@ -1,0 +1,14 @@
+{
+  "hash": "1c5d6144aa241013",
+  "source": "Nuxt Fonts reads the CSS that Tailwind CSS generates, so you can declare your fonts as theme variables:",
+  "text": "Nuxt Fonts liest das CSS, das Tailwind CSS erzeugt, sodass du deine Schriftarten als Theme-Variablen deklarieren kannst:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Fonts liest das CSS, das Tailwind CSS erzeugt, sodass du deine Schriftarten als Theme-Variablen deklarieren kannst:"
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

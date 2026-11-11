@@ -1,0 +1,14 @@
+{
+  "hash": "77defa16f0e354b9",
+  "source": "Images below the fold can wait until the user scrolls to them. Set {0} to load an image only when it enters the viewport:",
+  "text": "Les images situées sous la ligne de flottaison peuvent attendre que l'utilisateur fasse défiler la page jusqu'à elles. Définissez {0} pour ne charger une image que lorsqu'elle entre dans le viewport :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les images situées sous la ligne de flottaison peuvent attendre que l'utilisateur fasse défiler la page jusqu'à elles. Définissez {0} pour ne charger une image que lorsqu'elle entre dans le viewport :"
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

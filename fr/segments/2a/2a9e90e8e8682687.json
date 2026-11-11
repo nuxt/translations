@@ -1,0 +1,14 @@
+{
+  "hash": "2a9e90e8e8682687",
+  "source": "You can also pass your own placeholder image, or set its size, quality, and blur. See the {0}{1} prop{/0} for all options.",
+  "text": "Vous pouvez aussi fournir votre propre image de placeholder, ou définir sa taille, sa qualité et son flou. Consultez {0}la prop {1}{/0} pour voir toutes les options.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez aussi fournir votre propre image de placeholder, ou définir sa taille, sa qualité et son flou. Consultez {0}la prop {1}{/0} pour voir toutes les options."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

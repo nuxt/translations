@@ -1,0 +1,14 @@
+{
+  "hash": "0a2ae439887dde48",
+  "source": "Then apply the font with the {0} utility class. See the {1}Nuxt Fonts usage guide{/1} for more details, and for UnoCSS.",
+  "text": "Wende die Schriftart dann mit der Utility-Klasse {0} an. Weitere Details und Informationen zu UnoCSS findest du in der {1}Nuxt-Fonts-Anleitung zur Verwendung{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wende die Schriftart dann mit der Utility-Klasse {0} an. Weitere Details und Informationen zu UnoCSS findest du in der {1}Nuxt-Fonts-Anleitung zur Verwendung{/1}."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}

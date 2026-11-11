@@ -1,0 +1,14 @@
+{
+  "hash": "cf7d58690e8cc863",
+  "source": "Nuxt Image doesn't process images in the {0} directory, because your build tool manages them. To keep source images out of {1}, set the {2} option.",
+  "text": "Nuxt Image ne traite pas les images du répertoire {0}, car votre outil de build les gère. Pour exclure les images sources de {1}, définissez l'option {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Image ne traite pas les images du répertoire {0}, car votre outil de build les gère. Pour exclure les images sources de {1}, définissez l'option {2}."
+  },
+  "updatedAt": "2026-11-11T00:32:04.040Z"
+}
