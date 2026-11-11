@@ -1,0 +1,14 @@
+{
+  "hash": "9f9c97afc5059130",
+  "source": "The {0}architecture overview{/0} explains how these packages fit together and which kind of test a change needs.",
+  "text": "Die {0}Architekturübersicht{/0} erklärt, wie diese Pakete zusammenspielen und welche Art von Test eine Änderung benötigt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die {0}Architekturübersicht{/0} erklärt, wie diese Pakete zusammenspielen und welche Art von Test eine Änderung benötigt."
+  },
+  "updatedAt": "2026-11-11T11:50:57.792Z"
+}

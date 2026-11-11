@@ -1,0 +1,14 @@
+{
+  "hash": "bd664abbe7750ca1",
+  "source": "{0}: Source of the built-in HTML templates for Nuxt (error pages, loading screen, welcome page).",
+  "text": "{0}: Quelle der integrierten HTML-Vorlagen für Nuxt (Fehlerseiten, Ladebildschirm, Willkommensseite).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Quelle der integrierten HTML-Vorlagen für Nuxt (Fehlerseiten, Ladebildschirm, Willkommensseite)."
+  },
+  "updatedAt": "2026-11-11T11:50:57.792Z"
+}

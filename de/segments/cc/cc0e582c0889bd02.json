@@ -1,0 +1,14 @@
+{
+  "hash": "cc0e582c0889bd02",
+  "source": "{0}: The default server builder for Nuxt, using {1}Nitro{/1}, published as {2}.",
+  "text": "{0}: Der Standard-Server-Builder für Nuxt, der {1}Nitro{/1} verwendet und als {2} veröffentlicht wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Der Standard-Server-Builder für Nuxt, der {1}Nitro{/1} verwendet und als {2} veröffentlicht wird."
+  },
+  "updatedAt": "2026-11-11T11:50:57.792Z"
+}

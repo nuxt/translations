@@ -1,0 +1,14 @@
+{
+  "hash": "874386dfbb235157",
+  "source": "Every new feature and bug fix should have a corresponding test, at the cheapest layer that covers it (a unit test if possible). The {0}tests section of the architecture overview{/0} describes each layer and when to use it.",
+  "text": "Jedes neue Feature und jede Fehlerbehebung sollte einen passenden Test haben – und zwar auf der günstigsten Ebene, die den Fall abdeckt (wenn möglich ein Unit-Test). Der {0}Abschnitt zu Tests in der Architekturübersicht{/0} beschreibt jede Ebene und wann du sie einsetzt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Jedes neue Feature und jede Fehlerbehebung sollte einen passenden Test haben – und zwar auf der günstigsten Ebene, die den Fall abdeckt (wenn möglich ein Unit-Test). Der {0}Abschnitt zu Tests in der Architekturübersicht{/0} beschreibt jede Ebene und wann du sie einsetzt."
+  },
+  "updatedAt": "2026-11-11T11:50:57.792Z"
+}

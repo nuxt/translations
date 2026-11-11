@@ -1,0 +1,14 @@
+{
+  "hash": "c97d50631f252fc6",
+  "source": "{0}: The experimental pure Vite server builder for Nuxt, published as {1}.",
+  "text": "{0} : le server builder expérimental basé uniquement sur Vite pour Nuxt, publié sous le nom {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : le server builder expérimental basé uniquement sur Vite pour Nuxt, publié sous le nom {1}."
+  },
+  "updatedAt": "2026-11-11T11:50:57.792Z"
+}
