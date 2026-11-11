@@ -1,0 +1,14 @@
+{
+  "hash": "9aacb37770ec33f6",
+  "source": "Nitro matches the {0} of a server middleware case-sensitively. Unless {1} is {2}, a middleware registered for {3} with {4} or {5} does not run for {6} or {7}, but the page router still renders the pages at {8} and {9}. If you use server middleware to protect pages, set {10} to {11}.",
+  "text": "Nitro gleicht den {0} einer Server-Middleware unter Beachtung der Groß- und Kleinschreibung ab. Solange {1} nicht {2} ist, wird eine Middleware, die mit {4} oder {5} für {3} registriert wurde, nicht für {6} oder {7} ausgeführt, der Seiten-Router rendert die Seiten unter {8} und {9} aber trotzdem. Wenn du Server-Middleware zum Schutz von Seiten verwendest, setze {10} auf {11}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nitro gleicht den {0} einer Server-Middleware unter Beachtung der Groß- und Kleinschreibung ab. Solange {1} nicht {2} ist, wird eine Middleware, die mit {4} oder {5} für {3} registriert wurde, nicht für {6} oder {7} ausgeführt, der Seiten-Router rendert die Seiten unter {8} und {9} aber trotzdem. Wenn du Server-Middleware zum Schutz von Seiten verwendest, setze {10} auf {11}."
+  },
+  "updatedAt": "2026-11-11T04:28:39.109Z"
+}
