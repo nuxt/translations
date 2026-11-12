@@ -1,0 +1,15 @@
+{
+  "hash": "affb4e9012886575",
+  "source": "There is no {0} hook. Response headers set on {1} from {2} are sent with the page, and {3} can replace the serialised document.",
+  "text": "Es gibt keinen {0}-Hook. Antwort-Header, die mit {1} aus {2} gesetzt werden, werden zusammen mit der Seite gesendet, und {3} kann das serialisierte Dokument ersetzen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "c711ded86277bbdc",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Es gibt keinen {0}-Hook. Antwort-Header, die mit {1} aus {2} gesetzt werden, werden zusammen mit der Seite gesendet, und {3} kann das serialisierte Dokument ersetzen."
+  },
+  "updatedAt": "2026-11-12T14:52:58.339Z"
+}

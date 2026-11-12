@@ -1,0 +1,14 @@
+{
+  "hash": "6603d1451427ee33",
+  "source": "Called with the serialised HTML document of a response that is not streamed, once every {0} handler has run. Replace {1} to change it. Not called for a server component.",
+  "text": "Appelé avec le document HTML sérialisé d'une réponse qui n'est pas diffusée en flux, une fois que tous les gestionnaires {0} ont été exécutés. Remplacez {1} pour le modifier. Non appelé pour un composant serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé avec le document HTML sérialisé d'une réponse qui n'est pas diffusée en flux, une fois que tous les gestionnaires {0} ont été exécutés. Remplacez {1} pour le modifier. Non appelé pour un composant serveur."
+  },
+  "updatedAt": "2026-11-12T14:52:58.339Z"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "044afbb7967de176",
+  "source": "Before finalizing and sending the HTML, the renderer calls the {0} hook. This hook allows you to manipulate the generated HTML, such as injecting additional scripts or modifying meta tags. Once every {1} handler has run, the {2} hook is called with the serialised document of a response that is not streamed.",
+  "text": "Bevor das HTML finalisiert und gesendet wird, ruft der Renderer den Hook {0} auf. Mit diesem Hook kannst du das generierte HTML manipulieren, etwa indem du zusätzliche Skripte einfügst oder Meta-Tags änderst. Sobald jeder {1}-Handler ausgeführt wurde, wird der Hook {2} mit dem serialisierten Dokument einer Antwort aufgerufen, die nicht gestreamt wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "a8cf1e1db804b477",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bevor das HTML finalisiert und gesendet wird, ruft der Renderer den Hook {0} auf. Mit diesem Hook kannst du das generierte HTML manipulieren, etwa indem du zusätzliche Skripte einfügst oder Meta-Tags änderst. Sobald jeder {1}-Handler ausgeführt wurde, wird der Hook {2} mit dem serialisierten Dokument einer Antwort aufgerufen, die nicht gestreamt wird."
+  },
+  "updatedAt": "2026-11-12T14:52:58.339Z"
+}

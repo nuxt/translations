@@ -1,0 +1,15 @@
+{
+  "hash": "65f3569d668a1fde",
+  "source": "A static SPA built with {0} ({1}) has no server, so its document is rendered through the {2} and {3} hooks of renderer plugins as a prerendered route: once per build, for the base URL, with {4} set. Anything the hooks add is the same for every visitor. In development, the document is rendered for each navigation. No other renderer hook is called for it.",
+  "text": "Eine mit {0} ({1}) erzeugte statische SPA hat keinen Server. Ihr Dokument wird daher über die {2}- und {3}-Hooks von Renderer-Plugins als vorab gerenderte Route gerendert: einmal pro Build, für die Basis-URL, mit gesetztem {4}. Alles, was die Hooks hinzufügen, ist für alle Besuchenden gleich. In der Entwicklung wird das Dokument bei jeder Navigation gerendert. Für das Dokument wird kein anderer Renderer-Hook aufgerufen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "068c7d04cc90e394",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine mit {0} ({1}) erzeugte statische SPA hat keinen Server. Ihr Dokument wird daher über die {2}- und {3}-Hooks von Renderer-Plugins als vorab gerenderte Route gerendert: einmal pro Build, für die Basis-URL, mit gesetztem {4}. Alles, was die Hooks hinzufügen, ist für alle Besuchenden gleich. In der Entwicklung wird das Dokument bei jeder Navigation gerendert. Für das Dokument wird kein anderer Renderer-Hook aufgerufen."
+  },
+  "updatedAt": "2026-11-12T14:52:58.339Z"
+}

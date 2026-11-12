@@ -1,0 +1,14 @@
+{
+  "hash": "0f70f299700b6da3",
+  "source": "A module that processes the whole page, such as to inline critical CSS, can register {0}. It is called with the serialised HTML document once every {1} handler has run, including those registered on the server runtime, and the response is built from the {2} it leaves.",
+  "text": "Ein Modul, das die gesamte Seite verarbeitet, etwa um kritisches CSS inline einzubinden, kann {0} registrieren. Der Hook wird mit dem serialisierten HTML-Dokument aufgerufen, sobald alle {1}-Handler ausgeführt wurden, auch die auf der Server-Runtime registrierten, und die Antwort wird aus dem {2} erzeugt, das er zurückgibt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein Modul, das die gesamte Seite verarbeitet, etwa um kritisches CSS inline einzubinden, kann {0} registrieren. Der Hook wird mit dem serialisierten HTML-Dokument aufgerufen, sobald alle {1}-Handler ausgeführt wurden, auch die auf der Server-Runtime registrierten, und die Antwort wird aus dem {2} erzeugt, das er zurückgibt."
+  },
+  "updatedAt": "2026-11-12T14:52:58.339Z"
+}

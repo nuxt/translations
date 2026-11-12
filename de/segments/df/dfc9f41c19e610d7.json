@@ -1,0 +1,15 @@
+{
+  "hash": "dfc9f41c19e610d7",
+  "source": "The plugin can register {0}, {1}, {2}, {3}, {4} and {5}. {6} and {7} are called for every page the renderer produces, including error pages and routes with an {8} route rule; {9} and {10} only for a streamed response, {11} only for a response that is not streamed, and {12} for a server component. Each is called before the same hook registered on the server runtime, such as by a Nitro plugin. The plugin is called synchronously, and a promise it returns is not awaited.",
+  "text": "Das Plugin kann {0}, {1}, {2}, {3}, {4} und {5} registrieren. {6} und {7} werden für jede Seite aufgerufen, die der Renderer erzeugt, einschließlich Fehlerseiten und Routen mit einer {8}-Routenregel; {9} und {10} nur bei einer gestreamten Antwort, {11} nur bei einer Antwort, die nicht gestreamt wird, und {12} bei einer Serverkomponente. Jeder dieser Hooks wird vor dem gleichnamigen Hook aufgerufen, der in der Server-Laufzeitumgebung registriert ist, etwa durch ein Nitro-Plugin. Das Plugin wird synchron aufgerufen, und ein von ihm zurückgegebenes Promise wird nicht abgewartet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "38afd2dd75861336",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Plugin kann {0}, {1}, {2}, {3}, {4} und {5} registrieren. {6} und {7} werden für jede Seite aufgerufen, die der Renderer erzeugt, einschließlich Fehlerseiten und Routen mit einer {8}-Routenregel; {9} und {10} nur bei einer gestreamten Antwort, {11} nur bei einer Antwort, die nicht gestreamt wird, und {12} bei einer Serverkomponente. Jeder dieser Hooks wird vor dem gleichnamigen Hook aufgerufen, der in der Server-Laufzeitumgebung registriert ist, etwa durch ein Nitro-Plugin. Das Plugin wird synchron aufgerufen, und ein von ihm zurückgegebenes Promise wird nicht abgewartet."
+  },
+  "updatedAt": "2026-11-12T14:52:58.339Z"
+}

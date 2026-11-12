@@ -1,0 +1,14 @@
+{
+  "hash": "6603d1451427ee33",
+  "source": "Called with the serialised HTML document of a response that is not streamed, once every {0} handler has run. Replace {1} to change it. Not called for a server component.",
+  "text": "Wird mit dem serialisierten HTML-Dokument einer Antwort aufgerufen, die nicht gestreamt wird, sobald jeder {0}-Handler ausgeführt wurde. Ersetze {1}, um es zu ändern. Wird für eine Serverkomponente nicht aufgerufen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird mit dem serialisierten HTML-Dokument einer Antwort aufgerufen, die nicht gestreamt wird, sobald jeder {0}-Handler ausgeführt wurde. Ersetze {1}, um es zu ändern. Wird für eine Serverkomponente nicht aufgerufen."
+  },
+  "updatedAt": "2026-11-12T14:52:58.339Z"
+}
