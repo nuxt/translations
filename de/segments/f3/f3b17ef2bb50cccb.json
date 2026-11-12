@@ -1,0 +1,14 @@
+{
+  "hash": "f3b17ef2bb50cccb",
+  "source": "{0}: When the error was caught during server-side rendering, re-render the default slot on the client once mounted. Use this for content that only fails on the server (for example, a component that accesses {1}): the {2} slot is served in the HTML, then replaced by the real content in the browser. If the default slot throws on the client as well, the {3} slot is rendered again with the client-side error.",
+  "text": "{0}: Wenn der Fehler beim serverseitigen Rendering abgefangen wurde, wird der Default-Slot nach dem Mounten auf dem Client erneut gerendert. Nutze dies für Inhalte, die nur auf dem Server fehlschlagen (zum Beispiel eine Komponente, die auf {1} zugreift): Der {2}-Slot wird im HTML ausgeliefert und anschließend im Browser durch den eigentlichen Inhalt ersetzt. Wenn der Default-Slot auch auf dem Client einen Fehler auslöst, wird der {3}-Slot erneut mit dem clientseitigen Fehler gerendert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Wenn der Fehler beim serverseitigen Rendering abgefangen wurde, wird der Default-Slot nach dem Mounten auf dem Client erneut gerendert. Nutze dies für Inhalte, die nur auf dem Server fehlschlagen (zum Beispiel eine Komponente, die auf {1} zugreift): Der {2}-Slot wird im HTML ausgeliefert und anschließend im Browser durch den eigentlichen Inhalt ersetzt. Wenn der Default-Slot auch auf dem Client einen Fehler auslöst, wird der {3}-Slot erneut mit dem clientseitigen Fehler gerendert."
+  },
+  "updatedAt": "2026-11-12T17:57:12.684Z"
+}

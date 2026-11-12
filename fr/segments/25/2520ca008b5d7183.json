@@ -1,0 +1,14 @@
+{
+  "hash": "2520ca008b5d7183",
+  "source": "When content in the default slot throws, the {0} slot is rendered in its place. This works during server-side rendering as well as on the client: a server-side error results in the {1} slot being part of the HTML response (with a {2} status), and the error is passed to the client so that it hydrates into the same state. Calling {3} on the client then re-renders the default slot.",
+  "text": "Lorsque le contenu du slot par défaut lève une erreur, le slot {0} est rendu à sa place. Cela fonctionne pendant le rendu côté serveur comme sur le client : une erreur côté serveur fait en sorte que le slot {1} fasse partie de la réponse HTML (avec un statut {2}), et l'erreur est transmise au client afin qu'il s'hydrate dans le même état. Appeler {3} sur le client refait ensuite le rendu du slot par défaut.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque le contenu du slot par défaut lève une erreur, le slot {0} est rendu à sa place. Cela fonctionne pendant le rendu côté serveur comme sur le client : une erreur côté serveur fait en sorte que le slot {1} fasse partie de la réponse HTML (avec un statut {2}), et l'erreur est transmise au client afin qu'il s'hydrate dans le même état. Appeler {3} sur le client refait ensuite le rendu du slot par défaut."
+  },
+  "updatedAt": "2026-11-12T17:57:12.684Z"
+}

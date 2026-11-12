@@ -1,0 +1,14 @@
+{
+  "hash": "b69794c6174ab61b",
+  "source": "{0}: Event emitted when the default slot of the component throws an error. For an error caught during server-side rendering, it is emitted on the server only.",
+  "text": "{0} : événement émis lorsque le slot par défaut du composant lève une erreur. Pour une erreur capturée pendant le rendu côté serveur, il n'est émis que sur le serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : événement émis lorsque le slot par défaut du composant lève une erreur. Pour une erreur capturée pendant le rendu côté serveur, il n'est émis que sur le serveur."
+  },
+  "updatedAt": "2026-11-12T17:57:12.684Z"
+}

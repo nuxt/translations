@@ -1,0 +1,14 @@
+{
+  "hash": "b69794c6174ab61b",
+  "source": "{0}: Event emitted when the default slot of the component throws an error. For an error caught during server-side rendering, it is emitted on the server only.",
+  "text": "{0}: Ereignis, das ausgelöst wird, wenn der Default-Slot der Komponente einen Fehler auslöst. Bei einem Fehler, der beim serverseitigen Rendering abgefangen wurde, wird es nur auf dem Server ausgelöst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}: Ereignis, das ausgelöst wird, wenn der Default-Slot der Komponente einen Fehler auslöst. Bei einem Fehler, der beim serverseitigen Rendering abgefangen wurde, wird es nur auf dem Server ausgelöst."
+  },
+  "updatedAt": "2026-11-12T17:57:12.684Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "a2d4dc48fad808c0",
+  "source": "Allows {0} to catch errors thrown while server-rendering its default slot. The boundary then renders its {1} slot on the server, and the caught error is serialised into the payload so the client hydrates into the same state, instead of the error escaping to the top-level error page.",
+  "text": "Permet à {0} d'intercepter les erreurs levées pendant le rendu côté serveur de son slot par défaut. Le composant affiche alors son slot {1} sur le serveur, et l'erreur interceptée est sérialisée dans le payload (charge utile) afin que le client effectue l'hydratation vers le même état, au lieu que l'erreur ne remonte jusqu'à la page d'erreur de niveau supérieur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Permet à {0} d'intercepter les erreurs levées pendant le rendu côté serveur de son slot par défaut. Le composant affiche alors son slot {1} sur le serveur, et l'erreur interceptée est sérialisée dans le payload (charge utile) afin que le client effectue l'hydratation vers le même état, au lieu que l'erreur ne remonte jusqu'à la page d'erreur de niveau supérieur."
+  },
+  "updatedAt": "2026-11-12T17:57:12.684Z"
+}

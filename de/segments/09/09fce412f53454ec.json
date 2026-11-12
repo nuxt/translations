@@ -1,0 +1,14 @@
+{
+  "hash": "09fce412f53454ec",
+  "source": "Server-side catching is controlled by the {0} option, which is enabled by default. When disabled, the boundary only catches client-side errors.",
+  "text": "Das serverseitige Abfangen wird über die Option {0} gesteuert, die standardmäßig aktiviert ist. Ist sie deaktiviert, fängt die Boundary nur clientseitige Fehler ab.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das serverseitige Abfangen wird über die Option {0} gesteuert, die standardmäßig aktiviert ist. Ist sie deaktiviert, fängt die Boundary nur clientseitige Fehler ab."
+  },
+  "updatedAt": "2026-11-12T17:57:12.684Z"
+}

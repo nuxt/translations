@@ -1,0 +1,14 @@
+{
+  "hash": "6b9eaaa652111dd6",
+  "source": "{0} Catches Server-Side Errors",
+  "text": "{0} fängt serverseitige Fehler ab",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} fängt serverseitige Fehler ab"
+  },
+  "updatedAt": "2026-11-12T17:57:12.684Z"
+}

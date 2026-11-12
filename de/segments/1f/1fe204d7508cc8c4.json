@@ -1,0 +1,14 @@
+{
+  "hash": "1fe204d7508cc8c4",
+  "source": "{0}, {1}, {2}, {3} props",
+  "text": "Props {0}, {1}, {2}, {3}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Props {0}, {1}, {2}, {3}"
+  },
+  "updatedAt": "2026-11-12T17:57:12.684Z"
+}

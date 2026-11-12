@@ -1,0 +1,14 @@
+{
+  "hash": "d18b593dc5ce4954",
+  "source": "{0} is only emitted on the server, whereas {1} is also emitted for errors thrown in the browser. Guard handlers with {2} if they should only run on the server.",
+  "text": "{0} wird nur auf dem Server ausgelöst, während {1} auch bei Fehlern ausgelöst wird, die im Browser auftreten. Schütze Handler mit {2}, wenn sie nur auf dem Server laufen sollen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} wird nur auf dem Server ausgelöst, während {1} auch bei Fehlern ausgelöst wird, die im Browser auftreten. Schütze Handler mit {2}, wenn sie nur auf dem Server laufen sollen."
+  },
+  "updatedAt": "2026-11-12T17:57:12.684Z"
+}

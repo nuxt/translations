@@ -1,0 +1,14 @@
+{
+  "hash": "0bc6307025edbcd1",
+  "source": "{0} is now enabled by default. When content inside a {1} throws during server-side rendering, the boundary renders its {2} slot in the HTML response with a {3} status, and the client hydrates into the same state. Previously the error escaped to the full-screen error page, with the error's status code.",
+  "text": "{0} est désormais activé par défaut. Lorsqu'un contenu à l'intérieur d'un composant {1} lève une erreur pendant le rendu côté serveur, la limite d'erreur affiche son slot {2} dans la réponse HTML avec un statut {3}, et le client s'hydrate dans le même état. Auparavant, l'erreur s'échappait vers la page d'erreur plein écran, avec le code de statut de l'erreur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est désormais activé par défaut. Lorsqu'un contenu à l'intérieur d'un composant {1} lève une erreur pendant le rendu côté serveur, la limite d'erreur affiche son slot {2} dans la réponse HTML avec un statut {3}, et le client s'hydrate dans le même état. Auparavant, l'erreur s'échappait vers la page d'erreur plein écran, avec le code de statut de l'erreur."
+  },
+  "updatedAt": "2026-11-12T17:57:12.684Z"
+}

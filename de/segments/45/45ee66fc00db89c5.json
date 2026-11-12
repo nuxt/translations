@@ -1,0 +1,15 @@
+{
+  "hash": "45ee66fc00db89c5",
+  "source": "The <NuxtErrorBoundary> component handles errors happening in its default slot, on the server and on the client.",
+  "text": "Die Komponente <NuxtErrorBoundary> behandelt Fehler, die in ihrem Standard-Slot auftreten, auf dem Server und auf dem Client.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "779d6201b4f3bd53",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Komponente <NuxtErrorBoundary> behandelt Fehler, die in ihrem Standard-Slot auftreten, auf dem Server und auf dem Client."
+  },
+  "updatedAt": "2026-11-12T17:57:12.684Z"
+}

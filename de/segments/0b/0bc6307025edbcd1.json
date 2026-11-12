@@ -1,0 +1,14 @@
+{
+  "hash": "0bc6307025edbcd1",
+  "source": "{0} is now enabled by default. When content inside a {1} throws during server-side rendering, the boundary renders its {2} slot in the HTML response with a {3} status, and the client hydrates into the same state. Previously the error escaped to the full-screen error page, with the error's status code.",
+  "text": "{0} ist jetzt standardmäßig aktiviert. Wenn Inhalte innerhalb von {1} beim serverseitigen Rendering einen Fehler auslösen, rendert die Fehlergrenze ihren {2}-Slot in der HTML-Antwort mit dem Status {3}, und der Client führt die Hydration in demselben Zustand durch. Zuvor gelangte der Fehler mit dem Statuscode des Fehlers bis zur Vollbild-Fehlerseite.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ist jetzt standardmäßig aktiviert. Wenn Inhalte innerhalb von {1} beim serverseitigen Rendering einen Fehler auslösen, rendert die Fehlergrenze ihren {2}-Slot in der HTML-Antwort mit dem Status {3}, und der Client führt die Hydration in demselben Zustand durch. Zuvor gelangte der Fehler mit dem Statuscode des Fehlers bis zur Vollbild-Fehlerseite."
+  },
+  "updatedAt": "2026-11-12T17:57:12.684Z"
+}

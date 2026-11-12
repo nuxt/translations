@@ -1,0 +1,14 @@
+{
+  "hash": "3cc105e36866945f",
+  "source": "Server-side catching is controlled by the {0} option, which is enabled by default.",
+  "text": "La capture côté serveur est contrôlée par l'option {0}, qui est activée par défaut.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La capture côté serveur est contrôlée par l'option {0}, qui est activée par défaut."
+  },
+  "updatedAt": "2026-11-12T17:57:12.684Z"
+}

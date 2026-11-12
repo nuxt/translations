@@ -1,0 +1,14 @@
+{
+  "hash": "23710ea19aa0179c",
+  "source": "This includes errors created with {0} in a page's {1}: if {2} or a layout's {3} is wrapped in a boundary, such a page now responds with {4} and the boundary's {5} slot.",
+  "text": "Cela inclut les erreurs créées avec {0} dans le {1} d'une page : si {2} ou le {3} d'un layout est enveloppé dans une limite d'erreur, une telle page répond désormais avec {4} et le slot {5} de la limite d'erreur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela inclut les erreurs créées avec {0} dans le {1} d'une page : si {2} ou le {3} d'un layout est enveloppé dans une limite d'erreur, une telle page répond désormais avec {4} et le slot {5} de la limite d'erreur."
+  },
+  "updatedAt": "2026-11-12T17:57:12.684Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "0200cc227e087b38",
+  "source": "The boundary catches everything thrown while rendering its default slot, including errors created with {0}. It does not intercept errors that bypass the component tree, such as calls to {1}, errors thrown in route middleware, or {2}/{3} failures (which are returned in {4} rather than thrown). A default slot rendered by a vapor component is only caught on the client.",
+  "text": "Die Boundary fängt alles ab, was beim Rendern ihres Default-Slots ausgelöst wird, einschließlich Fehlern, die mit {0} erstellt wurden. Fehler, die den Komponentenbaum umgehen, fängt sie nicht ab, etwa Aufrufe von {1}, Fehler in der Routen-Middleware oder Fehlschläge von {2}/{3} (die in {4} zurückgegeben statt ausgelöst werden). Ein Default-Slot, der von einer Vapor-Komponente gerendert wird, wird nur auf dem Client abgefangen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Boundary fängt alles ab, was beim Rendern ihres Default-Slots ausgelöst wird, einschließlich Fehlern, die mit {0} erstellt wurden. Fehler, die den Komponentenbaum umgehen, fängt sie nicht ab, etwa Aufrufe von {1}, Fehler in der Routen-Middleware oder Fehlschläge von {2}/{3} (die in {4} zurückgegeben statt ausgelöst werden). Ein Default-Slot, der von einer Vapor-Komponente gerendert wird, wird nur auf dem Client abgefangen."
+  },
+  "updatedAt": "2026-11-12T17:57:12.684Z"
+}

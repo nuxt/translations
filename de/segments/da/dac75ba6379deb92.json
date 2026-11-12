@@ -1,0 +1,14 @@
+{
+  "hash": "dac75ba6379deb92",
+  "source": "In production, a server-side error that is not an HTTP error (such as one created with {0}) reaches the {1} slot as a generic {2} error, so its message and data are not sent to the browser. HTTP errors keep their {3}, {4} and {5}.",
+  "text": "In der Produktion erreicht ein serverseitiger Fehler, der kein HTTP-Fehler ist (etwa einer, der mit {0} erstellt wurde), den {1}-Slot als generischer {2}-Fehler, sodass seine Meldung und seine Daten nicht an den Browser gesendet werden. HTTP-Fehler behalten ihren {3}, {4} und {5}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In der Produktion erreicht ein serverseitiger Fehler, der kein HTTP-Fehler ist (etwa einer, der mit {0} erstellt wurde), den {1}-Slot als generischer {2}-Fehler, sodass seine Meldung und seine Daten nicht an den Browser gesendet werden. HTTP-Fehler behalten ihren {3}, {4} und {5}."
+  },
+  "updatedAt": "2026-11-12T17:57:12.684Z"
+}

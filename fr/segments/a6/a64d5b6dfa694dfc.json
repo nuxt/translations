@@ -1,0 +1,14 @@
+{
+  "hash": "a64d5b6dfa694dfc",
+  "source": "Deprecated: use {0} instead. This relies on {1}, which is enabled by default.",
+  "text": "Obsolète : utilisez plutôt {0}. Cela repose sur {1}, qui est activé par défaut.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Obsolète : utilisez plutôt {0}. Cela repose sur {1}, qui est activé par défaut."
+  },
+  "updatedAt": "2026-11-12T17:57:12.684Z"
+}

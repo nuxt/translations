@@ -1,0 +1,14 @@
+{
+  "hash": "f3b17ef2bb50cccb",
+  "source": "{0}: When the error was caught during server-side rendering, re-render the default slot on the client once mounted. Use this for content that only fails on the server (for example, a component that accesses {1}): the {2} slot is served in the HTML, then replaced by the real content in the browser. If the default slot throws on the client as well, the {3} slot is rendered again with the client-side error.",
+  "text": "{0} : lorsque l'erreur a été capturée pendant le rendu côté serveur, refait le rendu du slot par défaut sur le client une fois monté. Utilisez-le pour du contenu qui n'échoue que sur le serveur (par exemple, un composant qui accède à {1}) : le slot {2} est servi dans le HTML, puis remplacé par le véritable contenu dans le navigateur. Si le slot par défaut lève aussi une erreur sur le client, le slot {3} est rendu à nouveau avec l'erreur côté client.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : lorsque l'erreur a été capturée pendant le rendu côté serveur, refait le rendu du slot par défaut sur le client une fois monté. Utilisez-le pour du contenu qui n'échoue que sur le serveur (par exemple, un composant qui accède à {1}) : le slot {2} est servi dans le HTML, puis remplacé par le véritable contenu dans le navigateur. Si le slot par défaut lève aussi une erreur sur le client, le slot {3} est rendu à nouveau avec l'erreur côté client."
+  },
+  "updatedAt": "2026-11-12T17:57:12.684Z"
+}

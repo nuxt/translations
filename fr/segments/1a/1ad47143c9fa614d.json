@@ -1,0 +1,14 @@
+{
+  "hash": "1ad47143c9fa614d",
+  "source": "The boundary catches everything thrown while rendering its default slot, including errors created with {0}. It does not intercept errors that bypass the component tree: calling {1} directly, errors thrown in route middleware or during navigation (such as a 404 for an unmatched route), or {2}/{3} failures, which are returned in {4} rather than thrown. A default slot rendered by a vapor component is only caught on the client.",
+  "text": "La boundary capture tout ce qui est levé pendant le rendu de son slot par défaut, y compris les erreurs créées avec {0}. Elle n'intercepte pas les erreurs qui contournent l'arbre des composants : l'appel direct de {1}, les erreurs levées dans un middleware de route ou pendant la navigation (comme un 404 pour une route sans correspondance), ou les échecs de {2}/{3}, qui sont retournés dans {4} au lieu d'être levés. Un slot par défaut rendu par un composant vapor n'est capturé que côté client.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La boundary capture tout ce qui est levé pendant le rendu de son slot par défaut, y compris les erreurs créées avec {0}. Elle n'intercepte pas les erreurs qui contournent l'arbre des composants : l'appel direct de {1}, les erreurs levées dans un middleware de route ou pendant la navigation (comme un 404 pour une route sans correspondance), ou les échecs de {2}/{3}, qui sont retournés dans {4} au lieu d'être levés. Un slot par défaut rendu par un composant vapor n'est capturé que côté client."
+  },
+  "updatedAt": "2026-11-12T17:57:12.684Z"
+}

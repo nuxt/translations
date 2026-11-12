@@ -1,0 +1,14 @@
+{
+  "hash": "a5e663993cc6555a",
+  "source": "If a page relies on throwing an error to respond with the error page and its status code, move the boundary so that it does not wrap the page, or call {0} instead of throwing. To keep the previous behaviour:",
+  "text": "Wenn sich eine Seite darauf verlässt, durch das Auslösen eines Fehlers mit der Fehlerseite und ihrem Statuscode zu antworten, verschiebe die Fehlergrenze so, dass sie die Seite nicht umschließt, oder rufe {0} auf, anstatt den Fehler auszulösen. Um das bisherige Verhalten beizubehalten:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn sich eine Seite darauf verlässt, durch das Auslösen eines Fehlers mit der Fehlerseite und ihrem Statuscode zu antworten, verschiebe die Fehlergrenze so, dass sie die Seite nicht umschließt, oder rufe {0} auf, anstatt den Fehler auszulösen. Um das bisherige Verhalten beizubehalten:"
+  },
+  "updatedAt": "2026-11-12T17:57:12.684Z"
+}

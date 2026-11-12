@@ -1,0 +1,14 @@
+{
+  "hash": "a4443a8abd5cb787",
+  "source": "markup in the {0} slot",
+  "text": "Markup im Slot {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Markup im Slot {0}"
+  },
+  "updatedAt": "2026-11-12T17:57:12.684Z"
+}

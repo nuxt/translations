@@ -1,0 +1,14 @@
+{
+  "hash": "08bcf7055bfcdb2b",
+  "source": "This flag is enabled by default. When disabled, {0} only catches client-side errors, and a server-rendered page whose content throws still shows the error page.",
+  "text": "Cette option est activée par défaut. Lorsqu'elle est désactivée, {0} n'intercepte que les erreurs côté client, et une page rendue côté serveur dont le contenu lève une erreur affiche toujours la page d'erreur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette option est activée par défaut. Lorsqu'elle est désactivée, {0} n'intercepte que les erreurs côté client, et une page rendue côté serveur dont le contenu lève une erreur affiche toujours la page d'erreur."
+  },
+  "updatedAt": "2026-11-12T17:57:12.684Z"
+}

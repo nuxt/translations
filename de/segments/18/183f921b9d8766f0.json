@@ -1,0 +1,15 @@
+{
+  "hash": "183f921b9d8766f0",
+  "source": "Nuxt also provides a {0} component that allows you to handle errors within your app, without replacing your entire site with an error page.",
+  "text": "Nuxt stellt außerdem eine Komponente {0} bereit, mit der du Fehler innerhalb deiner App behandeln kannst, ohne die gesamte Website durch eine Fehlerseite zu ersetzen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "f3e2c5dcaa6f4744",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt stellt außerdem eine Komponente {0} bereit, mit der du Fehler innerhalb deiner App behandeln kannst, ohne die gesamte Website durch eine Fehlerseite zu ersetzen."
+  },
+  "updatedAt": "2026-11-12T17:57:12.684Z"
+}

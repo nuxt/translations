@@ -1,0 +1,14 @@
+{
+  "hash": "2520ca008b5d7183",
+  "source": "When content in the default slot throws, the {0} slot is rendered in its place. This works during server-side rendering as well as on the client: a server-side error results in the {1} slot being part of the HTML response (with a {2} status), and the error is passed to the client so that it hydrates into the same state. Calling {3} on the client then re-renders the default slot.",
+  "text": "Wenn Inhalte im Default-Slot einen Fehler auslösen, wird stattdessen der {0}-Slot gerendert. Das funktioniert sowohl beim serverseitigen Rendering als auch auf dem Client: Ein serverseitiger Fehler führt dazu, dass der {1}-Slot Teil der HTML-Antwort ist (mit dem Status {2}), und der Fehler wird an den Client übergeben, sodass dieser in denselben Zustand hydratisiert. Ein Aufruf von {3} auf dem Client rendert den Default-Slot anschließend erneut.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn Inhalte im Default-Slot einen Fehler auslösen, wird stattdessen der {0}-Slot gerendert. Das funktioniert sowohl beim serverseitigen Rendering als auch auf dem Client: Ein serverseitiger Fehler führt dazu, dass der {1}-Slot Teil der HTML-Antwort ist (mit dem Status {2}), und der Fehler wird an den Client übergeben, sodass dieser in denselben Zustand hydratisiert. Ein Aufruf von {3} auf dem Client rendert den Default-Slot anschließend erneut."
+  },
+  "updatedAt": "2026-11-12T17:57:12.684Z"
+}

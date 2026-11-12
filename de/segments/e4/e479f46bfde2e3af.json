@@ -1,0 +1,14 @@
+{
+  "hash": "e479f46bfde2e3af",
+  "source": "**Server-side error boundaries**: {0} {1}catches errors thrown while server-rendering its default slot{/1} instead of letting them reach the error page",
+  "text": "**Fehlergrenzen auf dem Server**: {0} {1}fängt Fehler ab, die beim serverseitigen Rendering seines Default-Slots auftreten{/1}, anstatt sie bis zur Fehlerseite durchdringen zu lassen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Fehlergrenzen auf dem Server**: {0} {1}fängt Fehler ab, die beim serverseitigen Rendering seines Default-Slots auftreten{/1}, anstatt sie bis zur Fehlerseite durchdringen zu lassen"
+  },
+  "updatedAt": "2026-11-12T17:57:12.684Z"
+}

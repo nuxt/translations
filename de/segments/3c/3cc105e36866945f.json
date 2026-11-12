@@ -1,0 +1,14 @@
+{
+  "hash": "3cc105e36866945f",
+  "source": "Server-side catching is controlled by the {0} option, which is enabled by default.",
+  "text": "Das Abfangen auf dem Server wird über die Option {0} gesteuert, die standardmäßig aktiviert ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Abfangen auf dem Server wird über die Option {0} gesteuert, die standardmäßig aktiviert ist."
+  },
+  "updatedAt": "2026-11-12T17:57:12.684Z"
+}
