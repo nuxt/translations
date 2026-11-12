@@ -1,0 +1,14 @@
+{
+  "hash": "edb4c13a6e4bbde5",
+  "source": "Whether to install the dependency as a dev dependency.",
+  "text": "Indique s'il faut installer la dépendance en tant que dépendance de développement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Indique s'il faut installer la dépendance en tant que dépendance de développement."
+  },
+  "updatedAt": "2026-11-12T12:30:14.168Z"
+}

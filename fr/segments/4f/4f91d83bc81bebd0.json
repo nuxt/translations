@@ -1,0 +1,14 @@
+{
+  "hash": "4f91d83bc81bebd0",
+  "source": "Nuxt warns at startup if the installed {0} or {1} does not satisfy the range it supports.",
+  "text": "Nuxt affiche un avertissement au démarrage si la version installée de {0} ou de {1} ne satisfait pas la plage de versions prise en charge.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt affiche un avertissement au démarrage si la version installée de {0} ou de {1} ne satisfait pas la plage de versions prise en charge."
+  },
+  "updatedAt": "2026-11-12T12:30:14.168Z"
+}

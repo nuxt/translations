@@ -1,0 +1,14 @@
+{
+  "hash": "9c9a022c0260816a",
+  "source": "{0} no longer installs its own copy of {1} and {2}. Both are peer dependencies, and Nuxt builds and runs your app with the copy your project installs. {3} is optional, and only needed when pages are enabled (for example, when your app has a {4} directory or sets {5}).",
+  "text": "{0} n'installe plus sa propre copie de {1} et de {2}. Les deux sont des dépendances peer, et Nuxt compile et exécute votre application avec la copie installée par votre projet. {3} est optionnel, et n'est nécessaire que lorsque les pages sont activées (par exemple, lorsque votre application possède un répertoire {4} ou définit {5}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} n'installe plus sa propre copie de {1} et de {2}. Les deux sont des dépendances peer, et Nuxt compile et exécute votre application avec la copie installée par votre projet. {3} est optionnel, et n'est nécessaire que lorsque les pages sont activées (par exemple, lorsque votre application possède un répertoire {4} ou définit {5})."
+  },
+  "updatedAt": "2026-11-12T12:30:14.168Z"
+}

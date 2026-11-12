@@ -1,0 +1,14 @@
+{
+  "hash": "0fe499ebf07346e6",
+  "source": "Vue keeps its rendering state per copy, so every component in an app has to use the same copy of Vue. Taking {0} from your project means Nuxt, your app and your modules all share the copy you install.",
+  "text": "Vue hält seinen Rendering-Zustand pro Kopie vor, deshalb muss jede Komponente in einer App dieselbe Kopie von Vue verwenden. Wenn {0} aus deinem Projekt bezogen wird, teilen sich Nuxt, deine App und deine Module die Kopie, die du installierst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vue hält seinen Rendering-Zustand pro Kopie vor, deshalb muss jede Komponente in einer App dieselbe Kopie von Vue verwenden. Wenn {0} aus deinem Projekt bezogen wird, teilen sich Nuxt, deine App und deine Module die Kopie, die du installierst."
+  },
+  "updatedAt": "2026-11-12T12:30:14.168Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "525a82cc4f3418ed",
+  "source": "**Peer dependencies**: {0}{1} and {2}{/0} come from your project, with {3} only needed when pages are enabled",
+  "text": "**Dépendances peer** : {0}{1} et {2}{/0} proviennent de votre projet, {3} n'étant nécessaire que lorsque les pages sont activées",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Dépendances peer** : {0}{1} et {2}{/0} proviennent de votre projet, {3} n'étant nécessaire que lorsque les pages sont activées"
+  },
+  "updatedAt": "2026-11-12T12:30:14.168Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "8cef505aa9d51dc7",
+  "source": "New Nuxt projects have listed {0} and {1} in their {2} for a long time, so most projects need no changes. If yours does not, Nuxt prompts you to install {3} when it starts, and {4} when pages are enabled. Nuxt requires {5} v5, so if your {6} still lists {7}, upgrade it as well (see the {8}Vue Router migration guide{/8}). You can also add them yourself:",
+  "text": "Les nouveaux projets Nuxt listent {0} et {1} dans leur {2} depuis longtemps, donc la plupart des projets n'ont besoin d'aucun changement. Si ce n'est pas le cas du vôtre, Nuxt vous invite à installer {3} au démarrage, et {4} lorsque les pages sont activées. Nuxt requiert {5} v5 ; si votre {6} liste encore {7}, mettez-le également à jour (consultez le {8}guide de migration de Vue Router{/8}). Vous pouvez aussi les ajouter vous-même :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les nouveaux projets Nuxt listent {0} et {1} dans leur {2} depuis longtemps, donc la plupart des projets n'ont besoin d'aucun changement. Si ce n'est pas le cas du vôtre, Nuxt vous invite à installer {3} au démarrage, et {4} lorsque les pages sont activées. Nuxt requiert {5} v5 ; si votre {6} liste encore {7}, mettez-le également à jour (consultez le {8}guide de migration de Vue Router{/8}). Vous pouvez aussi les ajouter vous-même :"
+  },
+  "updatedAt": "2026-11-12T12:30:14.168Z"
+}

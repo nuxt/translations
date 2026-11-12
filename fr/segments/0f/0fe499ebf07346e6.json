@@ -1,0 +1,14 @@
+{
+  "hash": "0fe499ebf07346e6",
+  "source": "Vue keeps its rendering state per copy, so every component in an app has to use the same copy of Vue. Taking {0} from your project means Nuxt, your app and your modules all share the copy you install.",
+  "text": "Vue conserve son état de rendu par copie, donc chaque composant d'une application doit utiliser la même copie de Vue. Utiliser {0} depuis votre projet signifie que Nuxt, votre application et vos modules partagent tous la copie que vous installez.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vue conserve son état de rendu par copie, donc chaque composant d'une application doit utiliser la même copie de Vue. Utiliser {0} depuis votre projet signifie que Nuxt, votre application et vos modules partagent tous la copie que vous installez."
+  },
+  "updatedAt": "2026-11-12T12:30:14.168Z"
+}

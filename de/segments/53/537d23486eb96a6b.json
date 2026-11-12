@@ -1,0 +1,14 @@
+{
+  "hash": "537d23486eb96a6b",
+  "source": "{0} and {1} Are Peer Dependencies",
+  "text": "{0} und {1} sind Peer-Abhängigkeiten",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} und {1} sind Peer-Abhängigkeiten"
+  },
+  "updatedAt": "2026-11-12T12:30:14.168Z"
+}
