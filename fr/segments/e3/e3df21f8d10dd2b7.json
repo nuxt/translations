@@ -1,0 +1,14 @@
+{
+  "hash": "e3df21f8d10dd2b7",
+  "source": "This component is responsible for handling errors that occur within its default slot. It will prevent the error from bubbling up to the top level, and will render the {0} slot instead. With {1} enabled, this also applies during server-side rendering: if content inside the boundary throws on the server, the {2} slot is rendered in the HTML response (with a {3} status) and the client hydrates into the same state.",
+  "text": "Ce composant est chargé de gérer les erreurs qui se produisent dans son slot par défaut. Il empêche l'erreur de remonter jusqu'au niveau supérieur et affiche à la place le slot {0}. Lorsque {1} est activé, cela s'applique également pendant le rendu côté serveur : si un contenu à l'intérieur de la boundary lève une erreur sur le serveur, le slot {2} est rendu dans la réponse HTML (avec un statut {3}) et le client s'hydrate dans le même état.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ce composant est chargé de gérer les erreurs qui se produisent dans son slot par défaut. Il empêche l'erreur de remonter jusqu'au niveau supérieur et affiche à la place le slot {0}. Lorsque {1} est activé, cela s'applique également pendant le rendu côté serveur : si un contenu à l'intérieur de la boundary lève une erreur sur le serveur, le slot {2} est rendu dans la réponse HTML (avec un statut {3}) et le client s'hydrate dans le même état."
+  },
+  "updatedAt": "2026-11-12T22:45:40.276Z"
+}

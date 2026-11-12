@@ -1,0 +1,15 @@
+{
+  "hash": "05db7a4c4b956d41",
+  "source": "These names are not auto-imported from {0}. In server code, the {1}auto-imported{/1} names of the same spelling are h3's own helpers, which take the h3 event and behave differently in places ({2}, {3}, {4} and {5} among them), so import from {6} explicitly. That includes {7} and its alias {8}: the {9} helpers read the event it hands the handler.",
+  "text": "Ces noms ne sont pas importés automatiquement depuis {0}. Dans le code serveur, les noms {1}importés automatiquement{/1} de même orthographe sont les helpers propres à h3, qui prennent l'événement h3 et se comportent différemment à certains endroits ({2}, {3}, {4} et {5} entre autres) ; importez donc explicitement depuis {6}. Cela inclut {7} et son alias {8} : les helpers de {9} lisent l'événement qu'il transmet au handler.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "a91ddc7fcd45107b",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ces noms ne sont pas importés automatiquement depuis {0}. Dans le code serveur, les noms {1}importés automatiquement{/1} de même orthographe sont les helpers propres à h3, qui prennent l'événement h3 et se comportent différemment à certains endroits ({2}, {3}, {4} et {5} entre autres) ; importez donc explicitement depuis {6}. Cela inclut {7} et son alias {8} : les helpers de {9} lisent l'événement qu'il transmet au handler."
+  },
+  "updatedAt": "2026-11-12T22:45:40.276Z"
+}

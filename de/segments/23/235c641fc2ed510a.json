@@ -1,0 +1,14 @@
+{
+  "hash": "235c641fc2ed510a",
+  "source": "This flag is enabled when {0} is set to {1} or higher. When disabled, {2} only catches client-side errors, and a server-rendered page whose content throws still shows the error page. You can also enable it explicitly:",
+  "text": "Dieses Flag ist aktiviert, wenn {0} auf {1} oder höher gesetzt ist. Ist es deaktiviert, fängt {2} nur clientseitige Fehler ab, und eine serverseitig gerenderte Seite, deren Inhalt einen Fehler auslöst, zeigt weiterhin die Fehlerseite an. Du kannst es auch explizit aktivieren:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dieses Flag ist aktiviert, wenn {0} auf {1} oder höher gesetzt ist. Ist es deaktiviert, fängt {2} nur clientseitige Fehler ab, und eine serverseitig gerenderte Seite, deren Inhalt einen Fehler auslöst, zeigt weiterhin die Fehlerseite an. Du kannst es auch explizit aktivieren:"
+  },
+  "updatedAt": "2026-11-12T22:45:40.276Z"
+}

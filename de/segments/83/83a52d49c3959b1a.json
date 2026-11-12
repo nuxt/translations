@@ -1,0 +1,14 @@
+{
+  "hash": "83a52d49c3959b1a",
+  "source": "Moving to the Rsbuild Builder",
+  "text": "Wechsel zum Rsbuild-Builder",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wechsel zum Rsbuild-Builder"
+  },
+  "updatedAt": "2026-11-12T22:45:40.276Z"
+}

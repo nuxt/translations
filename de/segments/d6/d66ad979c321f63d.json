@@ -1,0 +1,14 @@
+{
+  "hash": "d66ad979c321f63d",
+  "source": "Deprecated: use {0} instead. This relies on {1}, which is enabled when {2} is set to {3}.",
+  "text": "Wird nicht mehr empfohlen: Verwende stattdessen {0}. Dies setzt {1} voraus, das aktiviert ist, wenn {2} auf {3} gesetzt ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird nicht mehr empfohlen: Verwende stattdessen {0}. Dies setzt {1} voraus, das aktiviert ist, wenn {2} auf {3} gesetzt ist."
+  },
+  "updatedAt": "2026-11-12T22:45:40.276Z"
+}

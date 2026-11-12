@@ -1,0 +1,14 @@
+{
+  "hash": "d66ad979c321f63d",
+  "source": "Deprecated: use {0} instead. This relies on {1}, which is enabled when {2} is set to {3}.",
+  "text": "Obsolète : utilisez {0} à la place. Cela repose sur {1}, qui est activé lorsque {2} est défini sur {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Obsolète : utilisez {0} à la place. Cela repose sur {1}, qui est activé lorsque {2} est défini sur {3}."
+  },
+  "updatedAt": "2026-11-12T22:45:40.276Z"
+}

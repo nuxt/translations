@@ -1,0 +1,14 @@
+{
+  "hash": "286a47b55a532822",
+  "source": "The Rsbuild builder does not read the {0} options, and some Rspack hooks change. See the {1}Nuxt 5 upgrade guide{/1} for the options, loaders and hooks to migrate.",
+  "text": "Le builder Rsbuild ne lit pas les options {0}, et certains hooks Rspack changent. Consultez le {1}guide de mise à niveau vers Nuxt 5{/1} pour connaître les options, loaders et hooks à migrer.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le builder Rsbuild ne lit pas les options {0}, et certains hooks Rspack changent. Consultez le {1}guide de mise à niveau vers Nuxt 5{/1} pour connaître les options, loaders et hooks à migrer."
+  },
+  "updatedAt": "2026-11-12T22:45:40.276Z"
+}

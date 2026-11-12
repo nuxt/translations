@@ -1,0 +1,14 @@
+{
+  "hash": "1e451052cc1ec54d",
+  "source": "A version of Nuxt without renderer plugins does not call {0}. There, a Nitro plugin can use the {1} hook, which is called with the finished document as {2}.",
+  "text": "Eine Nuxt-Version ohne Renderer-Plugins ruft {0} nicht auf. Dort kann ein Nitro-Plugin den Hook {1} verwenden, der mit dem fertigen Dokument als {2} aufgerufen wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine Nuxt-Version ohne Renderer-Plugins ruft {0} nicht auf. Dort kann ein Nitro-Plugin den Hook {1} verwenden, der mit dem fertigen Dokument als {2} aufgerufen wird."
+  },
+  "updatedAt": "2026-11-12T22:45:40.276Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "429a0ddfba1ea788",
+  "source": "The handlers receive the request event in the same shape as a {0} handler, whichever server builder runs the app: {1}, {2} and {3} are web-standard, and the event can be passed to the {4} helpers. Hooks registered on the server runtime, such as by a Nitro plugin, still receive the server runtime's own event.",
+  "text": "Les handlers reçoivent l'événement de requête sous la même forme qu'un handler {0}, quel que soit le builder de serveur qui exécute l'application : {1}, {2} et {3} sont conformes aux standards du web, et l'événement peut être transmis aux helpers {4}. Les hooks enregistrés sur le runtime serveur, par exemple par un plugin Nitro, reçoivent toujours l'événement propre au runtime serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les handlers reçoivent l'événement de requête sous la même forme qu'un handler {0}, quel que soit le builder de serveur qui exécute l'application : {1}, {2} et {3} sont conformes aux standards du web, et l'événement peut être transmis aux helpers {4}. Les hooks enregistrés sur le runtime serveur, par exemple par un plugin Nitro, reçoivent toujours l'événement propre au runtime serveur."
+  },
+  "updatedAt": "2026-11-12T22:45:40.276Z"
+}

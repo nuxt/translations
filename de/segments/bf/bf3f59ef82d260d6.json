@@ -1,0 +1,14 @@
+{
+  "hash": "bf3f59ef82d260d6",
+  "source": "Replace the package and update the builder in your {0}:",
+  "text": "Ersetze das Paket und aktualisiere den Builder in deiner {0}:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ersetze das Paket und aktualisiere den Builder in deiner {0}:"
+  },
+  "updatedAt": "2026-11-12T22:45:40.276Z"
+}

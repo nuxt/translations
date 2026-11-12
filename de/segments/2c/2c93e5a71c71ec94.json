@@ -1,0 +1,14 @@
+{
+  "hash": "2c93e5a71c71ec94",
+  "source": "Server-side catching is controlled by the {0} option, which is enabled when {1} is set to {2}.",
+  "text": "Das Abfangen von Fehlern auf dem Server wird über die Option {0} gesteuert, die aktiviert ist, wenn {1} auf {2} gesetzt ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Abfangen von Fehlern auf dem Server wird über die Option {0} gesteuert, die aktiviert ist, wenn {1} auf {2} gesetzt ist."
+  },
+  "updatedAt": "2026-11-12T22:45:40.276Z"
+}

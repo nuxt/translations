@@ -1,0 +1,14 @@
+{
+  "hash": "342d3423598aa260",
+  "source": "From Nuxt 4.7, {0} is deprecated in favour of {1}, which builds your app with {2}Rsbuild{/2} and is configured with the {3} option. {4} logs a warning but keeps working.",
+  "text": "À partir de Nuxt 4.7, {0} est obsolète au profit de {1}, qui construit votre application avec {2}Rsbuild{/2} et se configure avec l'option {3}. {4} affiche un avertissement mais continue de fonctionner.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "À partir de Nuxt 4.7, {0} est obsolète au profit de {1}, qui construit votre application avec {2}Rsbuild{/2} et se configure avec l'option {3}. {4} affiche un avertissement mais continue de fonctionner."
+  },
+  "updatedAt": "2026-11-12T22:45:40.276Z"
+}

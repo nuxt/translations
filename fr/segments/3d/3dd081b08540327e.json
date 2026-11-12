@@ -1,0 +1,14 @@
+{
+  "hash": "3dd081b08540327e",
+  "source": "{0} is a Nitro hook rather than a renderer hook, so a renderer plugin cannot register it.",
+  "text": "{0} est un hook Nitro et non un hook du moteur de rendu, de sorte qu'un plugin de moteur de rendu ne peut pas l'enregistrer.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est un hook Nitro et non un hook du moteur de rendu, de sorte qu'un plugin de moteur de rendu ne peut pas l'enregistrer."
+  },
+  "updatedAt": "2026-11-12T22:45:40.276Z"
+}

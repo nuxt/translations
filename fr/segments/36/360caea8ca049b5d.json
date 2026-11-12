@@ -1,0 +1,14 @@
+{
+  "hash": "360caea8ca049b5d",
+  "source": "{0} is a Nitro hook rather than a renderer hook, so it is only called when Nuxt runs on Nitro, and a renderer plugin cannot register it. A renderer plugin can use {1} to replace the serialised document.",
+  "text": "{0} est un hook Nitro plutôt qu'un hook du moteur de rendu : il n'est donc appelé que lorsque Nuxt s'exécute sur Nitro, et un plugin de moteur de rendu ne peut pas l'enregistrer. Un plugin de moteur de rendu peut utiliser {1} pour remplacer le document sérialisé.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est un hook Nitro plutôt qu'un hook du moteur de rendu : il n'est donc appelé que lorsque Nuxt s'exécute sur Nitro, et un plugin de moteur de rendu ne peut pas l'enregistrer. Un plugin de moteur de rendu peut utiliser {1} pour remplacer le document sérialisé."
+  },
+  "updatedAt": "2026-11-12T22:45:40.276Z"
+}

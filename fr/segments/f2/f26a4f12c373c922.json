@@ -1,0 +1,14 @@
+{
+  "hash": "f26a4f12c373c922",
+  "source": "**Server-side error boundaries**: {0} is enabled, so {1} {2}catches errors thrown while server-rendering its default slot{/2} instead of letting them reach the error page",
+  "text": "**Error boundaries côté serveur** : {0} est activé, donc {1} {2}intercepte les erreurs levées lors du rendu côté serveur de son slot par défaut{/2} au lieu de les laisser atteindre la page d'erreur",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Error boundaries côté serveur** : {0} est activé, donc {1} {2}intercepte les erreurs levées lors du rendu côté serveur de son slot par défaut{/2} au lieu de les laisser atteindre la page d'erreur"
+  },
+  "updatedAt": "2026-11-12T22:45:40.276Z"
+}

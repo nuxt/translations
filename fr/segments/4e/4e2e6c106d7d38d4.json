@@ -1,0 +1,15 @@
+{
+  "hash": "4e2e6c106d7d38d4",
+  "source": "The <NuxtErrorBoundary> component handles errors happening in its default slot.",
+  "text": "Le composant <NuxtErrorBoundary> gère les erreurs survenant dans son slot par défaut.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "779d6201b4f3bd53",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le composant <NuxtErrorBoundary> gère les erreurs survenant dans son slot par défaut."
+  },
+  "updatedAt": "2026-11-12T22:45:40.276Z"
+}

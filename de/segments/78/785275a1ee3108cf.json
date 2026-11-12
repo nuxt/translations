@@ -1,0 +1,14 @@
+{
+  "hash": "785275a1ee3108cf",
+  "source": "{0} is available from Nuxt 4.7. {1} also exports {2} as an alias of {3}, which works from Nuxt 4.6, so renaming your handlers is optional.",
+  "text": "{0} ist ab Nuxt 4.7 verfügbar. {1} exportiert außerdem {2} als Alias für {3}, der ab Nuxt 4.6 funktioniert. Das Umbenennen deiner Handler ist daher optional.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ist ab Nuxt 4.7 verfügbar. {1} exportiert außerdem {2} als Alias für {3}, der ab Nuxt 4.6 funktioniert. Das Umbenennen deiner Handler ist daher optional."
+  },
+  "updatedAt": "2026-11-12T22:45:40.276Z"
+}

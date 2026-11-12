@@ -1,0 +1,14 @@
+{
+  "hash": "9b33f061b9e3f890",
+  "source": "Server-side catching is controlled by the {0} option, which is enabled when {1} is set to {2}. When disabled, the boundary only catches client-side errors.",
+  "text": "La capture côté serveur est contrôlée par l'option {0}, qui est activée lorsque {1} est défini sur {2}. Lorsqu'elle est désactivée, la boundary ne capture que les erreurs côté client.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La capture côté serveur est contrôlée par l'option {0}, qui est activée lorsque {1} est défini sur {2}. Lorsqu'elle est désactivée, la boundary ne capture que les erreurs côté client."
+  },
+  "updatedAt": "2026-11-12T22:45:40.276Z"
+}

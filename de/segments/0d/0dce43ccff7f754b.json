@@ -1,0 +1,14 @@
+{
+  "hash": "0dce43ccff7f754b",
+  "source": "{0} is deprecated. {1} can catch server-side errors too, with {2} enabled, and its {3} prop provides the same \"try again on the client\" behaviour, with the error available in the {4} slot.",
+  "text": "{0} wird nicht mehr empfohlen. {1} kann mit aktiviertem {2} auch serverseitige Fehler abfangen, und die Prop {3} bietet dasselbe Verhalten „auf dem Client erneut versuchen“, wobei der Fehler im Slot {4} verfügbar ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} wird nicht mehr empfohlen. {1} kann mit aktiviertem {2} auch serverseitige Fehler abfangen, und die Prop {3} bietet dasselbe Verhalten „auf dem Client erneut versuchen“, wobei der Fehler im Slot {4} verfügbar ist."
+  },
+  "updatedAt": "2026-11-12T22:45:40.276Z"
+}
