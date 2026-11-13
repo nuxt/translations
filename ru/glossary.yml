@@ -1,0 +1,286 @@
+# Russian terminology decisions.
+# These entries override shared glossary entries with the same source term.
+# Terminology follows the community glossary at
+# https://github.com/translation-gang/nuxt.com/blob/main/GLOSSARY.md where the two overlap;
+# terms that are not listed there use the decisions below.
+terms:
+  - term: composable
+    match: \bcomposables?\b
+    note: A Vue Composition API function; use the established Russian developer term.
+    decision: translate
+    target: композабл
+    accept:
+      - композабл\p{L}*
+
+  - term: plugin
+    match: \bplugins?\b
+    decision: translate
+    target: плагин
+    accept:
+      - плагин\p{L}*
+
+  - term: middleware
+    match: \bmiddleware\b
+    note: Community glossary uses «мидлвар»; keep the English word when it is part of an API name or file name.
+    decision: translate
+    target: мидлвар
+    accept:
+      - мидлвар\p{L}*
+      - middleware
+
+  - term: runtime config
+    match: \bruntime config\b
+    note: Refers to Nuxt runtimeConfig and useRuntimeConfig.
+    decision: translate
+    target: конфигурация времени выполнения
+    accept:
+      - runtime-конфигураци\p{L}*
+      - конфигураци\p{L}* времени выполнения
+
+  - term: app config
+    match: \bapp config\b
+    note: Refers to app.config and useAppConfig.
+    decision: translate
+    target: конфигурация приложения
+    accept:
+      - конфигураци\p{L}* приложения
+
+  - term: hook
+    match: \bhooks?\b
+    decision: translate
+    target: хук
+    accept:
+      - хук\p{L}*
+      - хуки
+
+  - term: layout
+    match: \blayouts?\b
+    note: A Nuxt layout file or layout system, not a page design in general. Community glossary uses «лейаут»; «макет» is also accepted.
+    decision: translate
+    target: лейаут
+    accept:
+      - лейаут\p{L}*
+      - макет\p{L}*
+      - layout
+
+  - term: component
+    match: \bcomponents?\b
+    decision: translate
+    target: компонент
+    accept:
+      - компонент\p{L}*
+
+  - term: server component
+    match: \bserver components?\b
+    decision: translate
+    target: серверный компонент
+    accept:
+      - серверн\p{L}* компонент\p{L}*
+
+  - term: data fetching
+    match: \bdata fetching\b
+    note: Community glossary uses «получение данных»; «загрузка данных» is also accepted.
+    decision: translate
+    target: получение данных
+    accept:
+      - получени\p{L}* данных
+      - загрузк\p{L}* данных
+
+  - term: server-side rendering
+    match: \bserver-side rendering\b
+    decision: translate
+    target: серверный рендеринг
+    accept:
+      - серверн\p{L}* рендеринг
+      - SSR
+
+  - term: prerendering
+    match: \bprerender(?:ing)?\b
+    note: Community glossary uses «пререндеринг».
+    decision: translate
+    target: пререндеринг
+    accept:
+      - пререндеринг\p{L}*
+      - предварительн\p{L}* рендеринг
+
+  - term: route middleware
+    match: \broute middleware\b
+    decision: translate
+    target: мидлвар маршрута
+    accept:
+      - мидлвар\p{L}* маршрута
+      - middleware маршрута
+      - промежуточн\p{L}* ПО маршрута
+
+  - term: layer
+    match: \blayers?\b
+    note: The Nuxt layers feature, especially when used with extends.
+    decision: translate
+    target: слой
+    accept:
+      - слой
+      - слоя
+      - слои
+      - слоёв
+      - слоев
+
+  - term: payload
+    match: \bpayloads?\b
+    note: Serialized server state or data sent to the client; prefer a natural Russian phrase.
+    decision: translate
+    target: данные
+    accept:
+      - данные
+      - полезн\p{L}* нагрузк\p{L}*
+
+  - term: auto-import
+    match: \bauto-?imports?\b|\bautomatically imports?\b
+    decision: translate
+    target: автоимпорт
+    accept:
+      - автоимпорт\p{L}*
+      - автоматическ\p{L}* импорт
+
+  - term: hydration
+    match: \bhydrat(?:ion|es?|ed|ing)\b
+    note: Community glossary uses «гидрация»; «гидратация» is also accepted.
+    decision: translate
+    target: гидрация
+    accept:
+      - гидраци\p{L}*
+      - гидратаци\p{L}*
+
+  - term: server route
+    match: \bserver routes?\b
+    decision: translate
+    target: серверный маршрут
+    accept:
+      - серверн\p{L}* маршрут\p{L}*
+
+  - term: directory
+    match: \bdirector(?:y|ies)\b
+    decision: translate
+    target: каталог
+    accept:
+      - каталог\p{L}*
+      - директори\p{L}*
+
+  - term: bundle
+    match: \bbundles?\b
+    decision: keep-gloss
+    gloss: бандл
+    note: Use «бандл» for a compiled bundle; do not translate as «пакет».
+
+  - term: template
+    match: \btemplates?\b
+    decision: translate
+    target: шаблон
+    accept:
+      - шаблон\p{L}*
+
+  - term: helper
+    match: \bhelpers?\b
+    decision: translate
+    target: вспомогательная функция
+    accept:
+      - вспомогательн\p{L}* функци\p{L}*
+      - хелпер\p{L}*
+
+  - term: package
+    match: \bpackages?\b
+    decision: translate
+    target: пакет
+    accept:
+      - пакет\p{L}*
+
+  - term: build
+    match: \bbuild(?:s|ing)?\b
+    note: As a noun, use «сборка»; as a verb, translate naturally as «собрать», «собирать» or «сборка» depending on context.
+    decision: translate
+    target: сборка
+    accept:
+      - сборк\p{L}*
+      - собрат\p{L}*
+      - собира\p{L}*
+      - build
+
+  - term: rendering
+    match: \brender(?:ing)?\b
+    note: Community glossary uses «рендеринг»; «отрисовка» is acceptable in explanatory prose.
+    decision: translate
+    target: рендеринг
+    accept:
+      - рендеринг\p{L}*
+      - рендер\p{L}*
+      - отрисовк\p{L}*
+
+  - term: static site generation
+    match: \bstatic site generation\b|\bSSG\b
+    note: Keep the SSG abbreviation in parentheses on first mention.
+    decision: translate
+    target: генерация статического сайта
+    accept:
+      - генераци\p{L}* статическ\p{L}* сайт\p{L}*
+      - SSG
+
+  - term: module
+    match: \bmodules?\b
+    decision: translate
+    target: модуль
+    accept:
+      - модул\p{L}*
+
+  - term: route
+    match: \broutes?\b
+    decision: translate
+    target: маршрут
+    accept:
+      - маршрут\p{L}*
+
+  - term: routing
+    match: \brouting\b
+    decision: translate
+    target: маршрутизация
+    accept:
+      - маршрутизаци\p{L}*
+
+  - term: state management
+    match: \bstate management\b
+    decision: translate
+    target: управление состоянием
+    accept:
+      - управлени\p{L}* состояни\p{L}*
+
+  - term: deployment
+    match: \bdeploy(?:ment|s|ed|ing)?\b
+    note: Community glossary allows both «деплой» and «развёртывание»; prefer «развёртывание» in prose and keep «деплой» informal.
+    decision: translate
+    target: развёртывание
+    accept:
+      - развёртывани\p{L}*
+      - развертывани\p{L}*
+      - депло\p{L}*
+
+  - term: edge
+    match: \bedge\b
+    note: Community glossary keeps the English word for the edge platform and edge rendering.
+    decision: keep
+
+  - term: lifecycle
+    match: \blife ?cycle\b
+    decision: translate
+    target: жизненный цикл
+    accept:
+      - жизненн\p{L}* цикл\p{L}*
+
+  - term: bundler
+    match: \bbundlers?\b
+    decision: translate
+    target: сборщик
+    accept:
+      - сборщик\p{L}*
+
+  - term: tree-shaking
+    match: \btree-?shak(?:e|es|ed|ing)\b
+    note: Community glossary keeps the English word.
+    decision: keep
