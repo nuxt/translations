@@ -1,0 +1,14 @@
+{
+  "hash": "855fcbe28e513d21",
+  "source": "In production, an error thrown on the server that is neither an HTTP error (such as one created with {0}) nor a failed {1} with a response status reaches {2} as a generic {3} error, so its message and data are not sent to the browser.",
+  "text": "In der Produktion erreicht ein auf dem Server ausgelöster Fehler, der weder ein HTTP-Fehler (etwa einer, der mit {0} erstellt wurde) noch ein fehlgeschlagener {1} mit Antwortstatus ist, {2} als generischer {3}-Fehler. Seine Meldung und seine Daten werden daher nicht an den Browser gesendet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In der Produktion erreicht ein auf dem Server ausgelöster Fehler, der weder ein HTTP-Fehler (etwa einer, der mit {0} erstellt wurde) noch ein fehlgeschlagener {1} mit Antwortstatus ist, {2} als generischer {3}-Fehler. Seine Meldung und seine Daten werden daher nicht an den Browser gesendet."
+  },
+  "updatedAt": "2026-11-13T14:10:35.548Z"
+}

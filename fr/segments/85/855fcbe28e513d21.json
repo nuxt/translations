@@ -1,0 +1,14 @@
+{
+  "hash": "855fcbe28e513d21",
+  "source": "In production, an error thrown on the server that is neither an HTTP error (such as one created with {0}) nor a failed {1} with a response status reaches {2} as a generic {3} error, so its message and data are not sent to the browser.",
+  "text": "En production, une erreur levée sur le serveur qui n'est ni une erreur HTTP (comme une erreur créée avec {0}) ni un {1} échoué avec un statut de réponse parvient à {2} sous la forme d'une erreur {3} générique ; son message et ses données ne sont donc pas envoyés au navigateur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En production, une erreur levée sur le serveur qui n'est ni une erreur HTTP (comme une erreur créée avec {0}) ni un {1} échoué avec un statut de réponse parvient à {2} sous la forme d'une erreur {3} générique ; son message et ses données ne sont donc pas envoyés au navigateur."
+  },
+  "updatedAt": "2026-11-13T14:10:35.548Z"
+}

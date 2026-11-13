@@ -2,7 +2,7 @@
   "version": 1,
   "source": "nuxt-main",
   "ref": "main",
-  "sha": "850bce0e4a0498b60a5595b0d723bcd9ead2cfd1",
+  "sha": "9c40cd3c88d10a5575b8940099e028ba81f9e5c1",
   "policy": "f6e446c627d4102c",
   "files": {
     "docs/.navigation.yml": [
@@ -6505,6 +6505,7 @@
       {"hash":"a00644508de97e85","kind":"table-cell","format":"markdown","words":0,"skeleton":"{0}","placeholders":["code"]},
       {"hash":"a00644508de97e85","kind":"table-cell","format":"markdown","words":0,"skeleton":"{0}","placeholders":["code"]},
       {"hash":"e11cad114d2122b4","kind":"table-cell","format":"markdown","words":16,"skeleton":"Resets {0} to {1} (or the value of {2} if provided), {3} to {4}, set {5} to {6}, and cancels any pending calls.","placeholders":["code","code","code","code","code","code","code"]},
+      {"hash":"855fcbe28e513d21","kind":"paragraph","format":"markdown","words":42,"skeleton":"In production, an error thrown on the server that is neither an HTTP error (such as one created with {0}) nor a failed {1} with a response status reaches {2} as a generic {3} error, so its message and data are not sent to the browser.","placeholders":["link","code","code","code"]},
       {"hash":"2f96fcc37b437fb2","kind":"component-slot","format":"markdown","words":16,"skeleton":"Functions from the {0} ({1}, {2}, and {3}) can safely be destructured, if you did not await the return value.","placeholders":["code","code","code","code"]},
       {"hash":"6b73ef40a05404ca","kind":"heading","format":"markdown","words":2,"skeleton":"Status Values"},
       {"hash":"1ba96c29c11d5800","kind":"list-item","format":"markdown","words":12,"skeleton":"{0}: Function has not been called yet (e.g. {1} or {2} on server render)","placeholders":["code","code","code"]},
