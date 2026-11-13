@@ -2,7 +2,7 @@
   "version": 1,
   "source": "nuxt-main",
   "ref": "main",
-  "sha": "9c40cd3c88d10a5575b8940099e028ba81f9e5c1",
+  "sha": "c3323421a50fe02e2829d8d50dd7051806d267c8",
   "policy": "f6e446c627d4102c",
   "files": {
     "docs/.navigation.yml": [
@@ -6232,7 +6232,7 @@
       {"hash":"4aa5e84536747a1c","kind":"paragraph","format":"markdown","words":21,"skeleton":"When you pass a function, the factory options **override** the caller's options. The function receives the caller's options as its argument:"},
       {"hash":"ae0e2a8f22d78e0a","kind":"code-comment","format":"plain","words":6,"skeleton":"deep is always enforced as false"},
       {"hash":"af3185c7197e24bf","kind":"heading","format":"markdown","words":1,"skeleton":"Addons"},
-      {"hash":"2006403b0627f8f1","kind":"paragraph","format":"markdown","words":37,"skeleton":"In addition to {0} options, {1} accepts an {2} array. Addons are reusable units of behavior defined with {3}. They can declare custom call-site options, run middleware around the handler, extend the returned object, and attach custom logic to the composable.","placeholders":["code","code","code","link"]},
+      {"hash":"ab4ce07b37ff385c","kind":"paragraph","format":"markdown","words":37,"skeleton":"In addition to {0} options, {1} accepts an {2} array {3}. Addons are reusable units of behavior defined with {4}. They can declare custom call-site options, run middleware around the handler, extend the returned object, and attach custom logic to the composable.","placeholders":["code","code","code","component","link"]},
       {"hash":"27ec7ea0d58c4533","kind":"paragraph","format":"markdown","words":24,"skeleton":"For example, an addon that refreshes the data whenever the window regains focus, gated behind a custom {0} option, so callers opt in per call:","placeholders":["code"]},
       {"hash":"8b7e954a47688795","kind":"code-comment","format":"plain","words":9,"skeleton":"augment the call-site options for the custom useAsyncData instance 👇"},
       {"hash":"4dc4575ca4485f6f","kind":"code-comment","format":"plain","words":6,"skeleton":"👈 run code *before* creating the {0} instance","placeholders":["code"]},
@@ -6277,7 +6277,7 @@
       {"hash":"dac695704704c5c4","kind":"paragraph","format":"markdown","words":7,"skeleton":"You can pass a custom {0} instance to {1}:","placeholders":["code","code"]},
       {"hash":"f47fabe8aed23735","kind":"component-slot","format":"markdown","words":33,"skeleton":"The **function signature** (override mode) is required here so that {0} is called in the setup context (at the composable call site) rather than in the module scope, where no Nuxt instance is available.","placeholders":["link"]},
       {"hash":"af3185c7197e24bf","kind":"heading","format":"markdown","words":1,"skeleton":"Addons"},
-      {"hash":"2006403b0627f8f1","kind":"paragraph","format":"markdown","words":37,"skeleton":"In addition to {0} options, {1} accepts an {2} array. Addons are reusable units of behavior defined with {3}. They can declare custom call-site options, run middleware around the handler, extend the returned object, and attach custom logic to the composable.","placeholders":["code","code","code","link"]},
+      {"hash":"ab4ce07b37ff385c","kind":"paragraph","format":"markdown","words":37,"skeleton":"In addition to {0} options, {1} accepts an {2} array {3}. Addons are reusable units of behavior defined with {4}. They can declare custom call-site options, run middleware around the handler, extend the returned object, and attach custom logic to the composable.","placeholders":["code","code","code","component","link"]},
       {"hash":"27ec7ea0d58c4533","kind":"paragraph","format":"markdown","words":24,"skeleton":"For example, an addon that refreshes the data whenever the window regains focus, gated behind a custom {0} option, so callers opt in per call:","placeholders":["code"]},
       {"hash":"deff747e5570e209","kind":"code-comment","format":"plain","words":9,"skeleton":"augment the call-site options for the custom useFetch instance 👇"},
       {"hash":"5850fee9d3d08040","kind":"code-comment","format":"plain","words":5,"skeleton":"👈 run code *before* calling {0} in {1}","placeholders":["code","code"]},
