@@ -2,7 +2,7 @@
   "version": 1,
   "source": "nuxt-cli",
   "ref": "main",
-  "sha": "196e2bb916bc3b97c4fd9e45be6d130b1d370fda",
+  "sha": "ab4b2dc6c1dcc3485f5e46298e88ce099f7f5062",
   "policy": "f6e446c627d4102c",
   "files": {
     "docs/.navigation.yml": [
