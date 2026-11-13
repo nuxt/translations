@@ -2,7 +2,7 @@
   "version": 1,
   "source": "nuxt-main",
   "ref": "main",
-  "sha": "c3323421a50fe02e2829d8d50dd7051806d267c8",
+  "sha": "2c5d147050d71eab1ad55a86ad34b94be0a4eb08",
   "policy": "f6e446c627d4102c",
   "files": {
     "docs/.navigation.yml": [
@@ -4879,7 +4879,7 @@
       {"hash":"ce6929f712437e60","kind":"list-item","format":"markdown","words":7,"skeleton":"{0}: a {1} whose static {2} matches no page route","placeholders":["link","code","code"]},
       {"hash":"7beb065fe5506984","kind":"list-item","format":"markdown","words":5,"skeleton":"{0}: {1} or {2} on a server component","placeholders":["link","code","code"]},
       {"hash":"46767905a0245c17","kind":"list-item","format":"markdown","words":18,"skeleton":"{0}: a function or class instance passed as a prop to a server component, or in the {1} of a {2}","placeholders":["link","code","code"]},
-      {"hash":"61140631cb8bb75e","kind":"paragraph","format":"markdown","words":20,"skeleton":"Warnings are printed to the terminal with the template location and, in development, sent to open error pages and overlays."},
+      {"hash":"1d78c2d3cc2b2de0","kind":"paragraph","format":"markdown","words":20,"skeleton":"Warnings are printed to the terminal with the template location and, in development, shown on every open page until fixed."},
       {"hash":"e83714bd8d45e8f4","kind":"paragraph","format":"markdown","words":12,"skeleton":"This flag is enabled by default, but you can disable this feature:"},
       {"hash":"7406e51b96c36bd9","kind":"component-slot","format":"markdown","words":25,"skeleton":"The route check cannot see routes added at runtime with {0} or paths that route middleware redirects, and is skipped when a custom {1} file may modify {2}.","placeholders":["code","code","code"]},
       {"hash":"009b7a37669cc218","kind":"heading","format":"markdown","words":1,"skeleton":"clientFallback"},

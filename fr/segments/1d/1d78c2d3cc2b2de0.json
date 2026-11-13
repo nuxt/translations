@@ -1,0 +1,15 @@
+{
+  "hash": "1d78c2d3cc2b2de0",
+  "source": "Warnings are printed to the terminal with the template location and, in development, shown on every open page until fixed.",
+  "text": "Les avertissements sont affichés dans le terminal avec l'emplacement du template et, en développement, affichés sur chaque page ouverte jusqu'à leur correction.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "61140631cb8bb75e",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les avertissements sont affichés dans le terminal avec l'emplacement du template et, en développement, affichés sur chaque page ouverte jusqu'à leur correction."
+  },
+  "updatedAt": "2026-11-13T22:33:09.370Z"
+}
