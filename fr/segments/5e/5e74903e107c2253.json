@@ -1,0 +1,14 @@
+{
+  "hash": "5e74903e107c2253",
+  "source": "If plugins depend on each other in a cycle, Nuxt warns and ignores one of the dependencies to break the cycle.",
+  "text": "Si des plugins dépendent les uns des autres de manière cyclique, Nuxt affiche un avertissement et ignore l'une des dépendances pour rompre le cycle.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si des plugins dépendent les uns des autres de manière cyclique, Nuxt affiche un avertissement et ignore l'une des dépendances pour rompre le cycle."
+  },
+  "updatedAt": "2026-11-14T23:34:34.533Z"
+}
