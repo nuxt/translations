@@ -1,0 +1,15 @@
+{
+  "hash": "e5408c2eb948ee12",
+  "source": "If you are using the object-syntax, {0}, {1}, {2}, {3} and {4} are statically analyzed at build time. Pass the object directly to {5}, and use literal values (or top-level {6} variables in the same file that are initialized with one). Otherwise, Nuxt warns and resolves {7}, {8} and {9} at runtime instead, which produces a less optimized build.{10}For example, setting {11} would defeat any optimization Nuxt is able to do for your plugins. Nuxt does statically pre-load any hook listeners when using object-syntax, allowing you to define hooks without needing to worry about order of plugin registration.",
+  "text": "Si vous utilisez la syntaxe objet, {0}, {1}, {2}, {3} et {4} sont analysés statiquement au moment du build. Passez l'objet directement à {5}, et utilisez des valeurs littérales (ou des variables {6} de premier niveau dans le même fichier, initialisées avec une telle valeur). Sinon, Nuxt émet un avertissement et résout {7}, {8} et {9} à l'exécution, ce qui produit un build moins optimisé.{10}Par exemple, définir {11} annulerait toute optimisation que Nuxt est capable de faire pour vos plugins. Nuxt précharge statiquement les écouteurs de hooks lorsque vous utilisez la syntaxe objet, ce qui vous permet de définir des hooks sans vous soucier de l'ordre d'enregistrement des plugins.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "86377076ba498877",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous utilisez la syntaxe objet, {0}, {1}, {2}, {3} et {4} sont analysés statiquement au moment du build. Passez l'objet directement à {5}, et utilisez des valeurs littérales (ou des variables {6} de premier niveau dans le même fichier, initialisées avec une telle valeur). Sinon, Nuxt émet un avertissement et résout {7}, {8} et {9} à l'exécution, ce qui produit un build moins optimisé.{10}Par exemple, définir {11} annulerait toute optimisation que Nuxt est capable de faire pour vos plugins. Nuxt précharge statiquement les écouteurs de hooks lorsque vous utilisez la syntaxe objet, ce qui vous permet de définir des hooks sans vous soucier de l'ordre d'enregistrement des plugins."
+  },
+  "updatedAt": "2026-11-14T19:21:53.523Z"
+}

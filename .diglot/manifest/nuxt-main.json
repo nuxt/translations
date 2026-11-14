@@ -2,7 +2,7 @@
   "version": 1,
   "source": "nuxt-main",
   "ref": "main",
-  "sha": "2c5d147050d71eab1ad55a86ad34b94be0a4eb08",
+  "sha": "d3d92474c1d443daff5d873aa49534466122deed",
   "policy": "f6e446c627d4102c",
   "files": {
     "docs/.navigation.yml": [
@@ -2494,7 +2494,7 @@
       {"hash":"49eb41473edcb2bd","kind":"code-comment","format":"plain","words":5,"skeleton":"do something in the hook"},
       {"hash":"0bcee075000d002f","kind":"code-comment","format":"plain","words":18,"skeleton":"Set this value to {0} if you don't want the plugin to run when rendering server-only or island components.","placeholders":["code"]},
       {"hash":"73956348de516d60","kind":"prop","format":"plain","words":13,"skeleton":"Watch a video from Alexander Lichter about the Object Syntax for Nuxt plugins"},
-      {"hash":"86377076ba498877","kind":"component-slot","format":"markdown","words":65,"skeleton":"If you are using the object-syntax, the properties are statically analyzed to produce a more optimized build. So you should not define them at runtime.{0}For example, setting {1} would defeat any future optimization Nuxt is able to do for your plugins. Nuxt does statically pre-load any hook listeners when using object-syntax, allowing you to define hooks without needing to worry about order of plugin registration.","placeholders":["break","code"]},
+      {"hash":"e5408c2eb948ee12","kind":"component-slot","format":"markdown","words":88,"skeleton":"If you are using the object-syntax, {0}, {1}, {2}, {3} and {4} are statically analyzed at build time. Pass the object directly to {5}, and use literal values (or top-level {6} variables in the same file that are initialized with one). Otherwise, Nuxt warns and resolves {7}, {8} and {9} at runtime instead, which produces a less optimized build.{10}For example, setting {11} would defeat any optimization Nuxt is able to do for your plugins. Nuxt does statically pre-load any hook listeners when using object-syntax, allowing you to define hooks without needing to worry about order of plugin registration.","placeholders":["code","code","code","code","code","code","code","code","code","code","break","code"]},
       {"hash":"51afb6755a0a8316","kind":"heading","format":"markdown","words":2,"skeleton":"Registration Order"},
       {"hash":"2ea1b4ff789da11e","kind":"paragraph","format":"markdown","words":19,"skeleton":"You can control the order in which plugins are registered by prefixing with 'alphabetical' numbering to the file names."},
       {"hash":"f74c16467d8ac5aa","kind":"code-label","format":"plain","words":2,"skeleton":"Directory structure"},
@@ -2508,6 +2508,7 @@
       {"hash":"6ba73dbccbb66a14","kind":"heading","format":"markdown","words":3,"skeleton":"Plugins With Dependencies"},
       {"hash":"3687986bbb878545","kind":"paragraph","format":"markdown","words":21,"skeleton":"If a plugin needs to wait for another plugin before it runs, you can add the plugin's name to the {0} array.","placeholders":["code"]},
       {"hash":"f8e876f8adb8097e","kind":"code-comment","format":"plain","words":13,"skeleton":"this plugin will wait for the end of {0}'s execution before it runs","placeholders":["code"]},
+      {"hash":"133c493e7d31e51e","kind":"paragraph","format":"markdown","words":24,"skeleton":"If plugins depend on each other in a cycle, {0} fails. In development, Nuxt warns and ignores one of the dependencies to break the cycle.","placeholders":["code"]},
       {"hash":"85a23893b6701d71","kind":"heading","format":"markdown","words":2,"skeleton":"Using Composables"},
       {"hash":"518ec71856762fab","kind":"paragraph","format":"markdown","words":11,"skeleton":"You can use {0}composables{/0} as well as {1}utils{/1} within Nuxt plugins:","placeholders":["link","link"]},
       {"hash":"7a9d09f3089b1bb7","kind":"paragraph","format":"markdown","words":10,"skeleton":"However, keep in mind there are some limitations and differences:"},
