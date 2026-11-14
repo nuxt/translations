@@ -1,0 +1,14 @@
+{
+  "hash": "3edf05f94ab911c5",
+  "source": "{0} files are imported by the runtime in the same way, and Nuxt reads their JSDoc annotations as they are imported. So they follow the same rules as config files: a {1} inside {2}, such as one shipped by a published layer, is loaded through {3}. On a runtime without {4}, such as Bun, every {5} file is loaded through {6}.",
+  "text": "Les fichiers {0} sont importés par le runtime de la même manière, et Nuxt lit leurs annotations JSDoc au moment de leur importation. Ils suivent donc les mêmes règles que les fichiers de configuration : un {1} à l'intérieur de {2}, comme celui fourni par un layer (couche) publié, est chargé via {3}. Sur un runtime sans {4}, comme Bun, chaque fichier {5} est chargé via {6}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les fichiers {0} sont importés par le runtime de la même manière, et Nuxt lit leurs annotations JSDoc au moment de leur importation. Ils suivent donc les mêmes règles que les fichiers de configuration : un {1} à l'intérieur de {2}, comme celui fourni par un layer (couche) publié, est chargé via {3}. Sur un runtime sans {4}, comme Bun, chaque fichier {5} est chargé via {6}."
+  },
+  "updatedAt": "2026-11-14T20:27:38.772Z"
+}

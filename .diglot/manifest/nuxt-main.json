@@ -2,7 +2,7 @@
   "version": 1,
   "source": "nuxt-main",
   "ref": "main",
-  "sha": "d3d92474c1d443daff5d873aa49534466122deed",
+  "sha": "4eafd743bf870d54612af4250d78c755f3ff8249",
   "policy": "f6e446c627d4102c",
   "files": {
     "docs/.navigation.yml": [
@@ -1594,7 +1594,7 @@
       {"hash":"bb3f0a1bd88f2d37","kind":"paragraph","format":"markdown","words":12,"skeleton":"This does not apply to layers inside your own project: {0} loads natively.","placeholders":["code"]},
       {"hash":"05435c1e66ce0623","kind":"paragraph","format":"markdown","words":6,"skeleton":"**4. Install {0} if you still need it.**","placeholders":["code"]},
       {"hash":"4700ffe6a83f5493","kind":"paragraph","format":"markdown","words":28,"skeleton":"{0} is now an optional peer dependency. Install it and Nuxt will pick it up automatically as a fallback whenever the runtime cannot load a file on its own:","placeholders":["code"]},
-      {"hash":"403cf3a6bfd7856d","kind":"paragraph","format":"markdown","words":25,"skeleton":"A {0} file always needs {1}, whatever Node version you are on: its JSDoc annotations are read by an import-time transform rather than by importing the file.","placeholders":["code","code"]},
+      {"hash":"3edf05f94ab911c5","kind":"paragraph","format":"markdown","words":54,"skeleton":"{0} files are imported by the runtime in the same way, and Nuxt reads their JSDoc annotations as they are imported. So they follow the same rules as config files: a {1} inside {2}, such as one shipped by a published layer, is loaded through {3}. On a runtime without {4}, such as Bun, every {5} file is loaded through {6}.","placeholders":["code","code","code","code","code","code","code"]},
       {"hash":"31c71253770694e0","kind":"paragraph","format":"markdown","words":37,"skeleton":"One smaller change comes with this: PostCSS plugins named in {0} are now resolved by the runtime, so a plugin name that only resolves through a Nuxt {1} entry no longer loads. Use the package name, or a path.","placeholders":["code","code"]},
       {"hash":"566ce3d10f631caa","kind":"heading","format":"markdown","words":5,"skeleton":"Migration to Vite Environment API"},
       {"hash":"5504f3651e33f59d","kind":"paragraph","format":"markdown","words":3,"skeleton":"🚦 **Impact Level**: Medium"},
