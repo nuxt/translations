@@ -1,0 +1,14 @@
+{
+  "hash": "e5ab816c3e344075",
+  "source": "parallelBuild",
+  "text": "parallelBuild",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "parallelBuild"
+  },
+  "updatedAt": "2026-11-15T13:24:21.115Z"
+}

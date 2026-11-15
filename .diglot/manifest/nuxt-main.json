@@ -2,7 +2,7 @@
   "version": 1,
   "source": "nuxt-main",
   "ref": "main",
-  "sha": "d897f4ce69a8c861ce2c4c52f396d97e77c0e718",
+  "sha": "9e88af27ae25d132192cdbb4232a48ab278522b4",
   "policy": "f6e446c627d4102c",
   "files": {
     "docs/.navigation.yml": [
@@ -5123,6 +5123,11 @@
       {"hash":"3e70f8a285e1e513","kind":"paragraph","format":"markdown","words":37,"skeleton":"By default, when your app has exactly one layout, Nuxt bundles the components and other modules that the layout statically imports into a single chunk, which is requested alongside the layout on every page that uses it."},
       {"hash":"ed97d2325c40b3e9","kind":"paragraph","format":"markdown","words":27,"skeleton":"Pages that share a component with the layout import this chunk too, so a page with {0} loads the whole chunk rather than only the components it uses.","placeholders":["code"]},
       {"hash":"8da9df7363e5fc45","kind":"component-slot","format":"markdown","words":44,"skeleton":"This feature only applies to production builds with the Vite builder. It is skipped if your app has more than one layout, if the client build has more than one entry (for example with {0}), or if you have configured your own chunking in {1} ({2}, {3}, {4} or {5}).","placeholders":["code","code","code","code","code","code"]},
+      {"hash":"72699ce2d34208b5","kind":"paragraph","format":"markdown","words":11,"skeleton":"If you need to disable this feature you can do so:"},
+      {"hash":"e5ab816c3e344075","kind":"heading","format":"markdown","words":1,"skeleton":"parallelBuild"},
+      {"hash":"7b9f205980991504","kind":"paragraph","format":"markdown","words":41,"skeleton":"By default, Nuxt builds the client and server environments at the same time in a Vite production build. Where the server build reads output of the client build, such as the client manifest, Nuxt waits for the client build to finish."},
+      {"hash":"b91ed8f7f16ca1a0","kind":"paragraph","format":"markdown","words":31,"skeleton":"Disabling this builds the client first. This may be needed by a Vite plugin that reads output of the client build from the server build, or to reduce peak memory usage."},
+      {"hash":"74c2f4a8199e180b","kind":"component-slot","format":"markdown","words":16,"skeleton":"This feature only applies to production builds with the Vite builder, and not when {0} is disabled.","placeholders":["code"]},
       {"hash":"72699ce2d34208b5","kind":"paragraph","format":"markdown","words":11,"skeleton":"If you need to disable this feature you can do so:"},
       {"hash":"f8ef2fb17c63f006","kind":"heading","format":"markdown","words":1,"skeleton":"typescriptPlugin"},
       {"hash":"b7da95cd134e20d1","kind":"paragraph","format":"markdown","words":8,"skeleton":"Enable enhanced TypeScript developer experience with the {0} module.","placeholders":["code"]},

@@ -1,0 +1,14 @@
+{
+  "hash": "b91ed8f7f16ca1a0",
+  "source": "Disabling this builds the client first. This may be needed by a Vite plugin that reads output of the client build from the server build, or to reduce peak memory usage.",
+  "text": "Désactiver cette option construit d'abord le client. Cela peut être nécessaire si un plugin Vite lit, depuis le build serveur, la sortie du build client, ou pour réduire le pic d'utilisation de la mémoire.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Désactiver cette option construit d'abord le client. Cela peut être nécessaire si un plugin Vite lit, depuis le build serveur, la sortie du build client, ou pour réduire le pic d'utilisation de la mémoire."
+  },
+  "updatedAt": "2026-11-15T13:24:21.115Z"
+}
