@@ -2,7 +2,7 @@
   "version": 1,
   "source": "nuxt-4.x",
   "ref": "4.x",
-  "sha": "ebd2e0544472ec814f63dae3a0300b15d8bebd48",
+  "sha": "bcb45be78f2d12d8b8b0778dd027b16d7184e4cf",
   "policy": "f6e446c627d4102c",
   "files": {
     "docs/.navigation.yml": [
@@ -5026,6 +5026,11 @@
       {"hash":"ed97d2325c40b3e9","kind":"paragraph","format":"markdown","words":27,"skeleton":"Pages that share a component with the layout import this chunk too, so a page with {0} loads the whole chunk rather than only the components it uses.","placeholders":["code"]},
       {"hash":"8da9df7363e5fc45","kind":"component-slot","format":"markdown","words":44,"skeleton":"This feature only applies to production builds with the Vite builder. It is skipped if your app has more than one layout, if the client build has more than one entry (for example with {0}), or if you have configured your own chunking in {1} ({2}, {3}, {4} or {5}).","placeholders":["code","code","code","code","code","code"]},
       {"hash":"72699ce2d34208b5","kind":"paragraph","format":"markdown","words":11,"skeleton":"If you need to disable this feature you can do so:"},
+      {"hash":"e5ab816c3e344075","kind":"heading","format":"markdown","words":1,"skeleton":"parallelBuild"},
+      {"hash":"eb6e4c09303547bd","kind":"paragraph","format":"markdown","words":41,"skeleton":"With {0} enabled, Nuxt builds the client and server environments at the same time in a Vite production build. Where the server build reads output of the client build, such as the client manifest, Nuxt waits for the client build to finish.","placeholders":["code"]},
+      {"hash":"b91ed8f7f16ca1a0","kind":"paragraph","format":"markdown","words":31,"skeleton":"Disabling this builds the client first. This may be needed by a Vite plugin that reads output of the client build from the server build, or to reduce peak memory usage."},
+      {"hash":"59f5b97659b83baa","kind":"component-slot","format":"markdown","words":14,"skeleton":"This feature only applies to production builds with the Vite builder when {0} is enabled.","placeholders":["code"]},
+      {"hash":"72699ce2d34208b5","kind":"paragraph","format":"markdown","words":11,"skeleton":"If you need to disable this feature you can do so:"},
       {"hash":"f8ef2fb17c63f006","kind":"heading","format":"markdown","words":1,"skeleton":"typescriptPlugin"},
       {"hash":"b7da95cd134e20d1","kind":"paragraph","format":"markdown","words":8,"skeleton":"Enable enhanced TypeScript developer experience with the {0} module.","placeholders":["code"]},
       {"hash":"f7a2f03cd90da0fc","kind":"paragraph","format":"markdown","words":20,"skeleton":"This experimental plugin provides improved TypeScript integration and development tooling for better DX when working with TypeScript in Nuxt applications."},
@@ -7497,7 +7502,7 @@
       {"hash":"e68b36b17cbd9908","kind":"heading","format":"markdown","words":1,"skeleton":"Parameters"},
       {"hash":"b091adeeace7ee34","kind":"list-item","format":"markdown","words":25,"skeleton":"{0}: One or an array of keys that are used in {1} to delete their cached state. If no keys are provided, **all state** will be invalidated.","placeholders":["code","link"]},
       {"hash":"730dbcdf25ce2c21","kind":"list-item","format":"markdown","words":8,"skeleton":"{0}: An options object to configure the clear behavior.","placeholders":["code"]},
-      {"hash":"7712e76566cf8430","kind":"list-item","format":"markdown","words":35,"skeleton":"{0} {1}: When set to {2}, resets the state to the initial value provided by the {3} function of {4} instead of setting it to {5}. When not specified, defaults to the value of {6} in your Nuxt config (which is {7} with {8}).","placeholders":["code","component","code","code","link","code","code","code","code"]}
+      {"hash":"3a0e58c97719edbe","kind":"list-item","format":"markdown","words":76,"skeleton":"{0} {1}: When set to {2}, resets the state to the initial value provided by the {3} function of {4} instead of setting it to {5}. An {6} function provided by a component is only used while that component is mounted; one provided by a plugin or route middleware is kept for the lifetime of the app. If no {7} function is available, the state is set to {8} instead. When not specified, defaults to the value of {9} in your Nuxt config (which is {10} with {11}).","placeholders":["code","component","code","code","link","code","code","code","code","code","code","code"]}
     ],
     "docs/4.api/3.utils/create-error.md": [
       {"hash":"b4171433f649e006","kind":"frontmatter","format":"plain","words":1,"skeleton":"createError"},

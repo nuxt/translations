@@ -1,0 +1,14 @@
+{
+  "hash": "59f5b97659b83baa",
+  "source": "This feature only applies to production builds with the Vite builder when {0} is enabled.",
+  "text": "Diese Funktion gilt nur für Builds für die Produktion mit dem Vite-Builder, wenn {0} aktiviert ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese Funktion gilt nur für Builds für die Produktion mit dem Vite-Builder, wenn {0} aktiviert ist."
+  },
+  "updatedAt": "2026-11-15T16:17:17.270Z"
+}

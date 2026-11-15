@@ -1,0 +1,14 @@
+{
+  "hash": "eb6e4c09303547bd",
+  "source": "With {0} enabled, Nuxt builds the client and server environments at the same time in a Vite production build. Where the server build reads output of the client build, such as the client manifest, Nuxt waits for the client build to finish.",
+  "text": "Wenn {0} aktiviert ist, erzeugt Nuxt die Client- und die Server-Umgebung bei einem Vite-Build für die Produktion gleichzeitig. Liest der Server-Build Ausgaben des Client-Builds, etwa das Client-Manifest, wartet Nuxt, bis der Client-Build abgeschlossen ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn {0} aktiviert ist, erzeugt Nuxt die Client- und die Server-Umgebung bei einem Vite-Build für die Produktion gleichzeitig. Liest der Server-Build Ausgaben des Client-Builds, etwa das Client-Manifest, wartet Nuxt, bis der Client-Build abgeschlossen ist."
+  },
+  "updatedAt": "2026-11-15T16:17:17.270Z"
+}

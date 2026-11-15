@@ -1,0 +1,14 @@
+{
+  "hash": "3a0e58c97719edbe",
+  "source": "{0} {1}: When set to {2}, resets the state to the initial value provided by the {3} function of {4} instead of setting it to {5}. An {6} function provided by a component is only used while that component is mounted; one provided by a plugin or route middleware is kept for the lifetime of the app. If no {7} function is available, the state is set to {8} instead. When not specified, defaults to the value of {9} in your Nuxt config (which is {10} with {11}).",
+  "text": "{0} {1} : lorsque la valeur est {2}, réinitialise l'état à la valeur initiale fournie par la fonction {3} de {4} au lieu de le définir à {5}. Une fonction {6} fournie par un composant n'est utilisée que tant que ce composant est monté ; celle fournie par un plugin ou un middleware de route est conservée pendant toute la durée de vie de l'application. Si aucune fonction {7} n'est disponible, l'état est défini à {8}. Lorsque cette option n'est pas spécifiée, elle prend par défaut la valeur de {9} dans votre configuration Nuxt (qui est {10} avec {11}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} {1} : lorsque la valeur est {2}, réinitialise l'état à la valeur initiale fournie par la fonction {3} de {4} au lieu de le définir à {5}. Une fonction {6} fournie par un composant n'est utilisée que tant que ce composant est monté ; celle fournie par un plugin ou un middleware de route est conservée pendant toute la durée de vie de l'application. Si aucune fonction {7} n'est disponible, l'état est défini à {8}. Lorsque cette option n'est pas spécifiée, elle prend par défaut la valeur de {9} dans votre configuration Nuxt (qui est {10} avec {11})."
+  },
+  "updatedAt": "2026-11-15T16:17:17.270Z"
+}
