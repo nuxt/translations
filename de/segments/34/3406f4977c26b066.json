@@ -3,12 +3,16 @@
   "source": "Bundlers: {0}@nuxt/vite-builder{/0}, {1}@nuxt/rsbuild-builder{/1} and {2}@nuxt/webpack-builder{/2}",
   "text": "Bundler: {0}@nuxt/vite-builder{/0}, {1}@nuxt/rsbuild-builder{/1} und {2}@nuxt/webpack-builder{/2}",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Bundler: {0}@nuxt/vite-builder{/0}, {1}@nuxt/rsbuild-builder{/1} und {2}@nuxt/webpack-builder{/2}"
   },
-  "updatedAt": "2026-11-07T18:13:50.741Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-15T14:00:03.069Z"
+  },
+  "updatedAt": "2026-11-15T14:00:03.069Z"
 }
