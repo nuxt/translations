@@ -3,12 +3,16 @@
   "source": "Image Optimization",
   "text": "Bildoptimierung",
   "origin": "mt",
-  "review": "none",
+  "review": "verified",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Bildoptimierung"
   },
-  "updatedAt": "2026-11-11T00:32:04.040Z"
+  "verifiedBy": {
+    "by": "OrbisK",
+    "at": "2026-11-15T14:17:07.589Z"
+  },
+  "updatedAt": "2026-11-15T14:17:07.589Z"
 }
