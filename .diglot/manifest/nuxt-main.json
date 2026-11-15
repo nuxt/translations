@@ -2,7 +2,7 @@
   "version": 1,
   "source": "nuxt-main",
   "ref": "main",
-  "sha": "4eafd743bf870d54612af4250d78c755f3ff8249",
+  "sha": "7b9dec7a4956917036f6b3825a7954eb6d3a4a23",
   "policy": "f6e446c627d4102c",
   "files": {
     "docs/.navigation.yml": [
@@ -7587,7 +7587,7 @@
       {"hash":"e68b36b17cbd9908","kind":"heading","format":"markdown","words":1,"skeleton":"Parameters"},
       {"hash":"b091adeeace7ee34","kind":"list-item","format":"markdown","words":25,"skeleton":"{0}: One or an array of keys that are used in {1} to delete their cached state. If no keys are provided, **all state** will be invalidated.","placeholders":["code","link"]},
       {"hash":"730dbcdf25ce2c21","kind":"list-item","format":"markdown","words":8,"skeleton":"{0}: An options object to configure the clear behavior.","placeholders":["code"]},
-      {"hash":"6166b84afed20b43","kind":"list-item","format":"markdown","words":35,"skeleton":"{0} {1}: When set to {2}, resets the state to the initial value provided by the {3} function of {4} instead of setting it to {5}. When not specified, defaults to the value of {6} in your Nuxt config (which defaults to {7}).","placeholders":["code","component","code","code","link","code","code","code"]}
+      {"hash":"677a77d671110b8c","kind":"list-item","format":"markdown","words":76,"skeleton":"{0} {1}: When set to {2}, resets the state to the initial value provided by the {3} function of {4} instead of setting it to {5}. An {6} function provided by a component is only used while that component is mounted; one provided by a plugin or route middleware is kept for the lifetime of the app. If no {7} function is available, the state is set to {8} instead. When not specified, defaults to the value of {9} in your Nuxt config (which defaults to {10}).","placeholders":["code","component","code","code","link","code","code","code","code","code","code"]}
     ],
     "docs/4.api/3.utils/create-error.md": [
       {"hash":"b4171433f649e006","kind":"frontmatter","format":"plain","words":1,"skeleton":"createError"},
