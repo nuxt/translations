@@ -1,0 +1,14 @@
+{
+  "hash": "86272f23e1cfd9ca",
+  "source": "To keep a custom global agent or an undici {0} dispatcher, or to opt out of proxy support entirely (which also silences the warning on Node.js 22), set {1}.",
+  "text": "Pour conserver un agent global personnalisé ou un dispatcher {0} d'undici, ou pour désactiver complètement la prise en charge du proxy (ce qui supprime aussi l'avertissement sur Node.js 22), définissez {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour conserver un agent global personnalisé ou un dispatcher {0} d'undici, ou pour désactiver complètement la prise en charge du proxy (ce qui supprime aussi l'avertissement sur Node.js 22), définissez {1}."
+  },
+  "updatedAt": "2026-11-15T01:25:42.085Z"
+}

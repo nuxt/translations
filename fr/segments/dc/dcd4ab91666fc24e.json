@@ -1,0 +1,14 @@
+{
+  "hash": "dcd4ab91666fc24e",
+  "source": "**Node.js versions**: Nuxt 5 {0}requires Node.js {1}, {2} or {3}{/0}",
+  "text": "**Versions de Node.js** : Nuxt 5 {0}nécessite Node.js {1}, {2} ou {3}{/0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Versions de Node.js** : Nuxt 5 {0}nécessite Node.js {1}, {2} ou {3}{/0}"
+  },
+  "updatedAt": "2026-11-15T01:25:42.085Z"
+}

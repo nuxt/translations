@@ -1,0 +1,14 @@
+{
+  "hash": "05c8666048da2560",
+  "source": "Nuxt leaves the proxy configuration alone when {0} is set, when Node's own proxy support is already on ({1} or {2}), or when a global dispatcher other than undici's default {3} is installed, such as a {4}. On Node.js 24 and 26, a global dispatcher that is itself an undici {5} (for example, one created with custom TLS options) cannot be distinguished from the default one, and is replaced.",
+  "text": "Nuxt lässt die Proxy-Konfiguration unverändert, wenn {0} gesetzt ist, wenn die eigene Proxy-Unterstützung von Node bereits aktiviert ist ({1} oder {2}) oder wenn ein anderer globaler Dispatcher als der Standard-{3} von undici installiert ist, etwa ein {4}. Unter Node.js 24 und 26 lässt sich ein globaler Dispatcher, der selbst ein undici-{5} ist (zum Beispiel einer, der mit eigenen TLS-Optionen erstellt wurde), nicht vom Standard-Dispatcher unterscheiden und wird ersetzt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt lässt die Proxy-Konfiguration unverändert, wenn {0} gesetzt ist, wenn die eigene Proxy-Unterstützung von Node bereits aktiviert ist ({1} oder {2}) oder wenn ein anderer globaler Dispatcher als der Standard-{3} von undici installiert ist, etwa ein {4}. Unter Node.js 24 und 26 lässt sich ein globaler Dispatcher, der selbst ein undici-{5} ist (zum Beispiel einer, der mit eigenen TLS-Optionen erstellt wurde), nicht vom Standard-Dispatcher unterscheiden und wird ersetzt."
+  },
+  "updatedAt": "2026-11-15T01:25:42.085Z"
+}

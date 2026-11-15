@@ -1,0 +1,14 @@
+{
+  "hash": "f2607d6edd7d1d43",
+  "source": "**Node.js 24 and 26**: Nuxt calls Node's {0}, so requests made with {1} and {2} use the proxy as well as {3}. Node replaces {4} when {5} is set and {6} when {7} is set, so a global agent assigned before {8} runs (for example, in a script that runs Nuxt programmatically) is replaced. Agents that modules assign during setup are kept.",
+  "text": "**Node.js 24 und 26**: Nuxt ruft {0} von Node auf, sodass Anfragen mit {1} und {2} ebenso den Proxy verwenden wie {3}. Node ersetzt {4}, wenn {5} gesetzt ist, und {6}, wenn {7} gesetzt ist. Ein globaler Agent, der vor der Ausführung von {8} zugewiesen wird (zum Beispiel in einem Skript, das Nuxt programmatisch ausführt), wird daher ersetzt. Agents, die Module während des Setups zuweisen, bleiben erhalten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Node.js 24 und 26**: Nuxt ruft {0} von Node auf, sodass Anfragen mit {1} und {2} ebenso den Proxy verwenden wie {3}. Node ersetzt {4}, wenn {5} gesetzt ist, und {6}, wenn {7} gesetzt ist. Ein globaler Agent, der vor der Ausführung von {8} zugewiesen wird (zum Beispiel in einem Skript, das Nuxt programmatisch ausführt), wird daher ersetzt. Agents, die Module während des Setups zuweisen, bleiben erhalten."
+  },
+  "updatedAt": "2026-11-15T01:25:42.085Z"
+}

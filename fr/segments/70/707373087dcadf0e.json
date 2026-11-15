@@ -1,0 +1,14 @@
+{
+  "hash": "707373087dcadf0e",
+  "source": "Node.js Version Requirements",
+  "text": "Versions de Node.js requises",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Versions de Node.js requises"
+  },
+  "updatedAt": "2026-11-15T01:25:42.085Z"
+}

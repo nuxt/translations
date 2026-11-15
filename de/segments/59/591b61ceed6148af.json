@@ -1,0 +1,14 @@
+{
+  "hash": "591b61ceed6148af",
+  "source": "Depending on the Node.js version, {0} and {1} match IPv6 addresses in {2} in different forms, so list each one both bare and in brackets:",
+  "text": "Je nach Node.js-Version gleichen {0} und {1} IPv6-Adressen in {2} in unterschiedlichen Formen ab. Führe daher jede Adresse sowohl ohne als auch mit eckigen Klammern auf:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Je nach Node.js-Version gleichen {0} und {1} IPv6-Adressen in {2} in unterschiedlichen Formen ab. Führe daher jede Adresse sowohl ohne als auch mit eckigen Klammern auf:"
+  },
+  "updatedAt": "2026-11-15T01:25:42.085Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "581224fc89f6cd05",
+  "source": "Nuxt 5 supports Node.js {0}, {1} and {2}. On Node.js 24, the minimum is now 24.15.0, matching current Nuxt 4 releases.",
+  "text": "Nuxt 5 prend en charge Node.js {0}, {1} et {2}. Sur Node.js 24, la version minimale est désormais la 24.15.0, comme pour les versions actuelles de Nuxt 4.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt 5 prend en charge Node.js {0}, {1} et {2}. Sur Node.js 24, la version minimale est désormais la 24.15.0, comme pour les versions actuelles de Nuxt 4."
+  },
+  "updatedAt": "2026-11-15T01:25:42.085Z"
+}

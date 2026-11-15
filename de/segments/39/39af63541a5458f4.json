@@ -1,0 +1,14 @@
+{
+  "hash": "39af63541a5458f4",
+  "source": "**Proxy environment variables**: Build-time requests {0}use Node's built-in proxy support{/0} instead of {1}, which on Node.js 22 needs {2}",
+  "text": "**Proxy-Umgebungsvariablen**: Anfragen zur Build-Zeit {0}nutzen die integrierte Proxy-Unterstützung von Node{/0} statt {1}, was unter Node.js 22 {2} erfordert",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Proxy-Umgebungsvariablen**: Anfragen zur Build-Zeit {0}nutzen die integrierte Proxy-Unterstützung von Node{/0} statt {1}, was unter Node.js 22 {2} erfordert"
+  },
+  "updatedAt": "2026-11-15T01:25:42.085Z"
+}

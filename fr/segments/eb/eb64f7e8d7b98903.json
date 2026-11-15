@@ -1,0 +1,14 @@
+{
+  "hash": "eb64f7e8d7b98903",
+  "source": "If you build behind a proxy on Node.js 24 or 26 and a module reaches internal hosts with {0} or {1}, add those hosts to {2}:",
+  "text": "Si vous compilez derrière un proxy sur Node.js 24 ou 26 et qu'un module accède à des hôtes internes avec {0} ou {1}, ajoutez ces hôtes à {2} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous compilez derrière un proxy sur Node.js 24 ou 26 et qu'un module accède à des hôtes internes avec {0} ou {1}, ajoutez ces hôtes à {2} :"
+  },
+  "updatedAt": "2026-11-15T01:25:42.085Z"
+}

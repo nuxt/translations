@@ -1,0 +1,14 @@
+{
+  "hash": "c98230b9b3ad7283",
+  "source": "🚦 **Impact Level**: Minimal (Medium if you build behind a proxy)",
+  "text": "🚦 **Auswirkung**: Minimal (mittel, wenn du hinter einem Proxy einen Build erzeugst)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "🚦 **Auswirkung**: Minimal (mittel, wenn du hinter einem Proxy einen Build erzeugst)"
+  },
+  "updatedAt": "2026-11-15T01:25:42.085Z"
+}

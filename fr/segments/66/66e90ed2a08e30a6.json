@@ -1,0 +1,14 @@
+{
+  "hash": "66e90ed2a08e30a6",
+  "source": "Build-Time Proxy Support Uses Node.js",
+  "text": "La prise en charge du proxy au moment du build utilise Node.js",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La prise en charge du proxy au moment du build utilise Node.js"
+  },
+  "updatedAt": "2026-11-15T01:25:42.085Z"
+}

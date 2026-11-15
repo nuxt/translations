@@ -1,0 +1,14 @@
+{
+  "hash": "b7efca4701f19c21",
+  "source": "If you build behind a proxy on Node.js 22, set {0} alongside your proxy variables, which routes {1}, {2} and {3} through the proxy, or upgrade to Node.js 24:",
+  "text": "Si vous compilez derrière un proxy sur Node.js 22, définissez {0} en plus de vos variables de proxy, ce qui fait passer {1}, {2} et {3} par le proxy, ou passez à Node.js 24 :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous compilez derrière un proxy sur Node.js 22, définissez {0} en plus de vos variables de proxy, ce qui fait passer {1}, {2} et {3} par le proxy, ou passez à Node.js 24 :"
+  },
+  "updatedAt": "2026-11-15T01:25:42.085Z"
+}

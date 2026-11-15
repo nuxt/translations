@@ -1,0 +1,14 @@
+{
+  "hash": "99e43f78cd47efb3",
+  "source": "**Node.js 22**: Nuxt no longer depends on {0}, so it does not install {1} as Nuxt 4 did. Unless Node's own proxy support is on, build-time requests go directly to their destination, and Nuxt logs a warning when a proxy variable is set.",
+  "text": "**Node.js 22** : Nuxt ne dépend plus de {0} et n'installe donc pas {1} comme le faisait Nuxt 4. Tant que la prise en charge native du proxy de Node n'est pas activée, les requêtes effectuées au moment du build vont directement à leur destination, et Nuxt affiche un avertissement lorsqu'une variable de proxy est définie.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Node.js 22** : Nuxt ne dépend plus de {0} et n'installe donc pas {1} comme le faisait Nuxt 4. Tant que la prise en charge native du proxy de Node n'est pas activée, les requêtes effectuées au moment du build vont directement à leur destination, et Nuxt affiche un avertissement lorsqu'une variable de proxy est définie."
+  },
+  "updatedAt": "2026-11-15T01:25:42.085Z"
+}

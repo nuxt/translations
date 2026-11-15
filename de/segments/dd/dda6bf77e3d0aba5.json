@@ -1,0 +1,14 @@
+{
+  "hash": "dda6bf77e3d0aba5",
+  "source": "When {0} or {1} (or their lowercase forms) is set, Nuxt relies on Node's built-in proxy support to route build-time requests from modules, prerendering and your {2} through the proxy. Hosts listed in {3} are reached directly.",
+  "text": "Ist {0} oder {1} (oder die jeweilige Kleinschreibung) gesetzt, verlässt sich Nuxt auf die integrierte Proxy-Unterstützung von Node, um Anfragen von Modulen, Vorab-Rendering und deinem {2} zur Build-Zeit über den Proxy zu leiten. Hosts, die in {3} aufgeführt sind, werden direkt angesprochen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ist {0} oder {1} (oder die jeweilige Kleinschreibung) gesetzt, verlässt sich Nuxt auf die integrierte Proxy-Unterstützung von Node, um Anfragen von Modulen, Vorab-Rendering und deinem {2} zur Build-Zeit über den Proxy zu leiten. Hosts, die in {3} aufgeführt sind, werden direkt angesprochen."
+  },
+  "updatedAt": "2026-11-15T01:25:42.085Z"
+}

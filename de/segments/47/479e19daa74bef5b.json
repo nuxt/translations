@@ -1,0 +1,14 @@
+{
+  "hash": "479e19daa74bef5b",
+  "source": "If you run Node.js 24.11 to 24.14, upgrade to the latest Node.js 24 release.",
+  "text": "Wenn du Node.js 24.11 bis 24.14 verwendest, führe ein Upgrade auf das neueste Node.js-24-Release durch.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du Node.js 24.11 bis 24.14 verwendest, führe ein Upgrade auf das neueste Node.js-24-Release durch."
+  },
+  "updatedAt": "2026-11-15T01:25:42.085Z"
+}
