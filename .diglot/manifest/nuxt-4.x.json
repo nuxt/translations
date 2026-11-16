@@ -2,7 +2,7 @@
   "version": 1,
   "source": "nuxt-4.x",
   "ref": "4.x",
-  "sha": "365219f83e6041c154189622d89cde61bfdcc3f8",
+  "sha": "f377936e36f492ac9d5a26e1652abc5c1f545f2a",
   "policy": "f6e446c627d4102c",
   "files": {
     "docs/.navigation.yml": [
@@ -4549,8 +4549,7 @@
       {"hash":"a00644508de97e85","kind":"list-item","format":"markdown","words":0,"skeleton":"{0}","placeholders":["code"]},
       {"hash":"bbfaff4d5b42c832","kind":"component-slot","format":"markdown","words":14,"skeleton":"With {0}, routing is case-sensitive by default to match Nitro. Set {1} to {2} to opt out.","placeholders":["code","code","code"]},
       {"hash":"0067fe28263fc5ba","kind":"heading","format":"markdown","words":5,"skeleton":"Route rules with case-insensitive routing"},
-      {"hash":"a493c29d28fb0a56","kind":"paragraph","format":"markdown","words":34,"skeleton":"Unless {0} is {1}, Nuxt matches {2}route rules{/2} by lower-casing both the request path and the rule pattern. Regex constraints in the pattern are kept as written, so they must be written for lower-case letters: {3} matches {4}.","placeholders":["code","code","link","code","code"]},
-      {"hash":"10affb2a5f93c375","kind":"paragraph","format":"markdown","words":57,"skeleton":"The build fails if a constraint matches an upper-case letter but not its lower-case form, such as {0}, {1} or {2}, or is a negated class that excludes only one of them, such as {3}. Use {4} or {5} instead. If {6} is {7} in {8} or is set in {9}, the check runs when the app loads instead, and the app throws an error unless {10} is {11}.","placeholders":["code","code","code","code","code","code","code","code","code","code","code","code"]},
+      {"hash":"228285b60092d743","kind":"paragraph","format":"markdown","words":22,"skeleton":"Unless {0} is {1}, Nuxt matches {2}route rules{/2} by lower-casing both the request path and the rule pattern, so a {3} rule also applies to {4}.","placeholders":["code","code","link","code","code"]},
       {"hash":"3f6f3f56ddb8f2bd","kind":"heading","format":"markdown","words":5,"skeleton":"Server middleware with case-insensitive routing"},
       {"hash":"9aacb37770ec33f6","kind":"paragraph","format":"markdown","words":41,"skeleton":"Nitro matches the {0} of a server middleware case-sensitively. Unless {1} is {2}, a middleware registered for {3} with {4} or {5} does not run for {6} or {7}, but the page router still renders the pages at {8} and {9}. If you use server middleware to protect pages, set {10} to {11}.","placeholders":["code","code","code","code","link","link","code","code","code","code","code","code"]},
       {"hash":"070ea2cf87563443","kind":"heading","format":"markdown","words":3,"skeleton":"Hash Mode (SPA)"},

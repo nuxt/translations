@@ -1,0 +1,15 @@
+{
+  "hash": "228285b60092d743",
+  "source": "Unless {0} is {1}, Nuxt matches {2}route rules{/2} by lower-casing both the request path and the rule pattern, so a {3} rule also applies to {4}.",
+  "text": "Sofern {0} nicht {1} ist, gleicht Nuxt {2}Routenregeln{/2} ab, indem es sowohl den Anfragepfad als auch das Regelmuster in Kleinbuchstaben umwandelt, sodass eine {3}-Regel auch auf {4} zutrifft.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "a493c29d28fb0a56",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sofern {0} nicht {1} ist, gleicht Nuxt {2}Routenregeln{/2} ab, indem es sowohl den Anfragepfad als auch das Regelmuster in Kleinbuchstaben umwandelt, sodass eine {3}-Regel auch auf {4} zutrifft."
+  },
+  "updatedAt": "2026-11-16T10:58:24.155Z"
+}
