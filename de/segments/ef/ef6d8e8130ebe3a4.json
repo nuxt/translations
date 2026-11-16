@@ -1,0 +1,14 @@
+{
+  "hash": "ef6d8e8130ebe3a4",
+  "source": "an attribute is invalid, for example a {0} that is not an integer",
+  "text": "ein Attribut ungültig ist, z. B. ein {0}, der keine Ganzzahl ist",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "ein Attribut ungültig ist, z. B. ein {0}, der keine Ganzzahl ist"
+  },
+  "updatedAt": "2026-11-16T16:15:02.864Z"
+}

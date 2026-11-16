@@ -2,7 +2,7 @@
   "version": 1,
   "source": "nuxt-main",
   "ref": "main",
-  "sha": "19d4b899036215e60447c6b93224c4230e8d9ad7",
+  "sha": "b0ec1dc3de680674095cb2f34f8fb2509be0c59d",
   "policy": "f6e446c627d4102c",
   "files": {
     "docs/.navigation.yml": [
@@ -1484,6 +1484,7 @@
       {"hash":"687c1fac586d4cb9","kind":"list-item","format":"markdown","words":14,"skeleton":"**Client-side payload extraction**: {0} is {1}, inlining the payload in the HTML of a prerendered page","placeholders":["link","code"]},
       {"hash":"85f46e5070cd2471","kind":"list-item","format":"markdown","words":14,"skeleton":"**{0} resets to defaults**: {1} {2}resets state to its initial value{/2} instead of setting it to {3}","placeholders":["code","code","link","code"]},
       {"hash":"279a906626e45143","kind":"list-item","format":"markdown","words":12,"skeleton":"**Early return from {0}**: A successful top-level {1} {2}stops the rest of your {3} running{/2}","placeholders":["code","code","link","code"]},
+      {"hash":"6f03f921bb0cc414","kind":"list-item","format":"markdown","words":11,"skeleton":"**{0} for {1}**: Windows opened with {2} {3}get {4} by default{/3}, so they cannot access {5}","placeholders":["code","code","code","link","code","code"]},
       {"hash":"e479f46bfde2e3af","kind":"list-item","format":"markdown","words":19,"skeleton":"**Server-side error boundaries**: {0} {1}catches errors thrown while server-rendering its default slot{/1} instead of letting them reach the error page","placeholders":["code","link"]},
       {"hash":"fd16ae04264b0adc","kind":"list-item","format":"markdown","words":8,"skeleton":"**Non-async {0}**: {1}{2} may return {3}{/1} instead of always returning a {4}","placeholders":["code","link","code","code","code"]},
       {"hash":"af6d73479755d021","kind":"list-item","format":"markdown","words":19,"skeleton":"**Comment node placeholders**: Client-only components use {0}comment nodes instead of {1}{/0} as SSR placeholders, fixing a scoped styles hydration issue","placeholders":["link","code"]},
@@ -1560,6 +1561,13 @@
       {"hash":"5137681134e9c9e4","kind":"paragraph","format":"markdown","words":40,"skeleton":"{0} is now enabled by default. A top-level {1} in {2} is compiled into an early return from {3} when the navigation succeeds, so the rest of the setup code does not run and the component renders a placeholder comment while the navigation proceeds.","placeholders":["code","code","code","code"]},
       {"hash":"08d1284a2cd89690","kind":"heading","format":"markdown","words":2,"skeleton":"Migration Steps"},
       {"hash":"23a042ac77f80987","kind":"paragraph","format":"markdown","words":19,"skeleton":"If you relied on code after a successful {0} running, move it before the navigation. To keep the previous behavior:","placeholders":["code"]},
+      {"hash":"17cbe7f5be98bce2","kind":"heading","format":"markdown","words":4,"skeleton":"{0} for Windows Opened by {1}","placeholders":["code","code"]},
+      {"hash":"512707ef0d2f0874","kind":"paragraph","format":"markdown","words":3,"skeleton":"🚦 **Impact Level**: Minimal"},
+      {"hash":"2eeb11ec1191374a","kind":"heading","format":"markdown","words":2,"skeleton":"What Changed"},
+      {"hash":"1425f962a7285643","kind":"paragraph","format":"markdown","words":45,"skeleton":"{0} is now enabled by default, so {1} with the {2} option passes {3} to {4} unless {5} is set. The opened page can no longer access your application through {6}, and a named {7} (other than {8}, {9} and {10}) opens a new window each time rather than reusing an existing one with that name.","placeholders":["code","link","code","code","code","code","code","code","code","code","code"]},
+      {"hash":"08d1284a2cd89690","kind":"heading","format":"markdown","words":2,"skeleton":"Migration Steps"},
+      {"hash":"de7b8c57c19dbc3f","kind":"paragraph","format":"markdown","words":23,"skeleton":"If an opened page relies on {0} (for example, an OAuth popup that calls {1}), or you reuse a named window, set {2} for that call:","placeholders":["code","code","code"]},
+      {"hash":"3055e4ebaf481355","kind":"paragraph","format":"markdown","words":6,"skeleton":"To keep the previous behavior everywhere:"},
       {"hash":"6b9eaaa652111dd6","kind":"heading","format":"markdown","words":3,"skeleton":"{0} Catches Server-Side Errors","placeholders":["code"]},
       {"hash":"5504f3651e33f59d","kind":"paragraph","format":"markdown","words":3,"skeleton":"🚦 **Impact Level**: Medium"},
       {"hash":"2eeb11ec1191374a","kind":"heading","format":"markdown","words":2,"skeleton":"What Changed"},
@@ -5080,6 +5088,7 @@
       {"hash":"601ebec8c65c95b3","kind":"paragraph","format":"markdown","words":12,"skeleton":"This allows specifying the default options for core Nuxt components and composables."},
       {"hash":"2042a5f9b340e848","kind":"paragraph","format":"markdown","words":17,"skeleton":"These options will likely be moved elsewhere in the future, such as into {0} or into the {1} directory.","placeholders":["code","code"]},
       {"hash":"5f1b7b0b78592c3f","kind":"paragraph","format":"markdown","words":23,"skeleton":"The {0} option controls whether {1} resets state to its initial value (provided by the {2} function of {3}) instead of setting it to {4}. This defaults to {5}.","placeholders":["code","link","code","link","code","code"]},
+      {"hash":"dbeb725f3ef73480","kind":"paragraph","format":"markdown","words":18,"skeleton":"The {0} option controls whether {1} passes {2} to {3} when called with the {4} option and {5} is not set. This defaults to {6}.","placeholders":["code","link","code","code","code","code","code"]},
       {"hash":"33bb2c2d57e0e6f5","kind":"heading","format":"markdown","words":1,"skeleton":"purgeCachedData"},
       {"hash":"e173ce56c0e626fd","kind":"paragraph","format":"markdown","words":12,"skeleton":"Whether to clean up Nuxt static and asyncData caches on route navigation."},
       {"hash":"8165b1bb32d1ed1c","kind":"paragraph","format":"markdown","words":28,"skeleton":"Nuxt will automatically purge cached data from {0} and {1}. This helps prevent memory leaks and ensures fresh data is loaded when needed, but it is possible to disable it.","placeholders":["code","code"]},
@@ -8046,7 +8055,9 @@
       {"hash":"a00644508de97e85","kind":"table-cell","format":"markdown","words":0,"skeleton":"{0}","placeholders":["code"]},
       {"hash":"a00644508de97e85","kind":"table-cell","format":"markdown","words":0,"skeleton":"{0}","placeholders":["code"]},
       {"hash":"f27a74958e2cd5c8","kind":"table-cell","format":"markdown","words":10,"skeleton":"Prevents the Referer header from being sent and implicitly enables {0}.","placeholders":["code"]},
-      {"hash":"93a26e2029afea48","kind":"list-item","format":"markdown","words":12,"skeleton":"Refer to the {0}documentation{/0} for more detailed information on the **windowFeatures** properties.","placeholders":["link"]}
+      {"hash":"93a26e2029afea48","kind":"list-item","format":"markdown","words":12,"skeleton":"Refer to the {0}documentation{/0} for more detailed information on the **windowFeatures** properties.","placeholders":["link"]},
+      {"hash":"22d6437c3d2383af","kind":"component-slot","format":"markdown","words":63,"skeleton":"{0} is enabled by default, so the opened page cannot access your application through {1} unless you disable it for that call or app-wide. A named {2} other than {3}, {4} and {5} then always opens a new window instead of reusing an existing one. Set it to {6} for a page that needs {7}, such as an OAuth popup that posts its result back, or to reuse a named window:","placeholders":["code","code","code","code","code","code","code","code"]},
+      {"hash":"7e4760eb81b736a0","kind":"component-slot","format":"markdown","words":9,"skeleton":"To change the default for your whole application, set {0}.","placeholders":["link"]}
     ],
     "docs/4.api/3.utils/on-before-route-leave.md": [
       {"hash":"c577bb42ee1f52a9","kind":"frontmatter","format":"plain","words":1,"skeleton":"onBeforeRouteLeave"},
@@ -12489,6 +12500,18 @@
       {"hash":"f9f098ad40e1ab3b","kind":"paragraph","format":"markdown","words":29,"skeleton":"{0} was called with a key that is not a string. The key is used to track whether the function has already run, so it must be a non-empty string.","placeholders":["code"]},
       {"hash":"d4055fafa3794fa8","kind":"heading","format":"markdown","words":1,"skeleton":"Resolution"},
       {"hash":"e516ba1b29fbda9d","kind":"code-comment","format":"plain","words":2,"skeleton":"runs once"}
+    ],
+    "docs/errors/e7011.md": [
+      {"hash":"dfd2bb9ccf91b7ab","kind":"frontmatter","format":"plain","words":2,"skeleton":"NUXT_E7011"},
+      {"hash":"a18fe42fd1220613","kind":"frontmatter","format":"plain","words":6,"skeleton":"A cookie could not be written."},
+      {"hash":"b3816b00c56ce7d0","kind":"heading","format":"markdown","words":1,"skeleton":"E7011"},
+      {"hash":"a287f27781353db8","kind":"paragraph","format":"markdown","words":19,"skeleton":"{0} could not serialize a cookie for the {1} header or {2}. The original error is attached as {3}. It is raised when:","placeholders":["code","code","code","code"]},
+      {"hash":"ab035ae422f11a3a","kind":"list-item","format":"markdown","words":17,"skeleton":"the cookie name contains characters that are not allowed in a cookie name, such as spaces, {0} or {1}","placeholders":["code","code"]},
+      {"hash":"5b3d1a0b90f69c94","kind":"list-item","format":"markdown","words":16,"skeleton":"the value returned by a custom {0} contains characters that are not allowed in a cookie value","placeholders":["code"]},
+      {"hash":"84538b686b38d7f0","kind":"list-item","format":"markdown","words":15,"skeleton":"the attributes are inconsistent, for example {0}, {1} or a {2} / {3} name without {4}, or a {5} cookie with a {6}","placeholders":["code","code","code","code","code","code","code"]},
+      {"hash":"ef6d8e8130ebe3a4","kind":"list-item","format":"markdown","words":12,"skeleton":"an attribute is invalid, for example a {0} that is not an integer","placeholders":["code"]},
+      {"hash":"d4055fafa3794fa8","kind":"heading","format":"markdown","words":1,"skeleton":"Resolution"},
+      {"hash":"a10f523538782580","kind":"paragraph","format":"markdown","words":17,"skeleton":"Use a valid cookie name, return an encoded string from {0}, and set {1} for cookies that require it:","placeholders":["code","code"]}
     ],
     "docs/errors/e8007.md": [
       {"hash":"0c48cf6f2b5b8d1a","kind":"frontmatter","format":"plain","words":2,"skeleton":"NUXT_E8007"},

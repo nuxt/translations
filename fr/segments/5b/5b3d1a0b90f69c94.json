@@ -1,0 +1,14 @@
+{
+  "hash": "5b3d1a0b90f69c94",
+  "source": "the value returned by a custom {0} contains characters that are not allowed in a cookie value",
+  "text": "la valeur retournée par un {0} personnalisé contient des caractères non autorisés dans une valeur de cookie",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "la valeur retournée par un {0} personnalisé contient des caractères non autorisés dans une valeur de cookie"
+  },
+  "updatedAt": "2026-11-16T16:15:02.864Z"
+}

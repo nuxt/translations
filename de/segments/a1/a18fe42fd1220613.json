@@ -1,0 +1,14 @@
+{
+  "hash": "a18fe42fd1220613",
+  "source": "A cookie could not be written.",
+  "text": "Ein Cookie konnte nicht geschrieben werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein Cookie konnte nicht geschrieben werden."
+  },
+  "updatedAt": "2026-11-16T16:15:02.864Z"
+}

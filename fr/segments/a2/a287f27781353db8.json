@@ -1,0 +1,14 @@
+{
+  "hash": "a287f27781353db8",
+  "source": "{0} could not serialize a cookie for the {1} header or {2}. The original error is attached as {3}. It is raised when:",
+  "text": "{0} n'a pas pu sérialiser un cookie pour l'en-tête {1} ou {2}. L'erreur d'origine est jointe en tant que {3}. Elle est levée lorsque :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} n'a pas pu sérialiser un cookie pour l'en-tête {1} ou {2}. L'erreur d'origine est jointe en tant que {3}. Elle est levée lorsque :"
+  },
+  "updatedAt": "2026-11-16T16:15:02.864Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "7e4760eb81b736a0",
+  "source": "To change the default for your whole application, set {0}.",
+  "text": "Pour modifier la valeur par défaut de toute votre application, définissez {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour modifier la valeur par défaut de toute votre application, définissez {0}."
+  },
+  "updatedAt": "2026-11-16T16:15:02.864Z"
+}

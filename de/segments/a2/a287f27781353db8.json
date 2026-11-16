@@ -1,0 +1,14 @@
+{
+  "hash": "a287f27781353db8",
+  "source": "{0} could not serialize a cookie for the {1} header or {2}. The original error is attached as {3}. It is raised when:",
+  "text": "{0} konnte ein Cookie für den {1}-Header oder {2} nicht serialisieren. Der ursprüngliche Fehler ist als {3} angehängt. Dieser Fehler tritt auf, wenn:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} konnte ein Cookie für den {1}-Header oder {2} nicht serialisieren. Der ursprüngliche Fehler ist als {3} angehängt. Dieser Fehler tritt auf, wenn:"
+  },
+  "updatedAt": "2026-11-16T16:15:02.864Z"
+}

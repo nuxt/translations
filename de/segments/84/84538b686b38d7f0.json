@@ -1,0 +1,14 @@
+{
+  "hash": "84538b686b38d7f0",
+  "source": "the attributes are inconsistent, for example {0}, {1} or a {2} / {3} name without {4}, or a {5} cookie with a {6}",
+  "text": "die Attribute widersprüchlich sind, z. B. {0}, {1} oder ein Name mit {2}- bzw. {3}-Präfix ohne {4}, oder ein {5}-Cookie mit einem {6}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "die Attribute widersprüchlich sind, z. B. {0}, {1} oder ein Name mit {2}- bzw. {3}-Präfix ohne {4}, oder ein {5}-Cookie mit einem {6}"
+  },
+  "updatedAt": "2026-11-16T16:15:02.864Z"
+}

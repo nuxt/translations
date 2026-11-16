@@ -1,0 +1,14 @@
+{
+  "hash": "3055e4ebaf481355",
+  "source": "To keep the previous behavior everywhere:",
+  "text": "Pour conserver le comportement précédent partout :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour conserver le comportement précédent partout :"
+  },
+  "updatedAt": "2026-11-16T16:15:02.864Z"
+}

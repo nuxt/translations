@@ -1,0 +1,14 @@
+{
+  "hash": "a10f523538782580",
+  "source": "Use a valid cookie name, return an encoded string from {0}, and set {1} for cookies that require it:",
+  "text": "Verwende einen gültigen Cookie-Namen, gib von {0} einen kodierten String zurück und setze {1} für Cookies, die es erfordern:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Verwende einen gültigen Cookie-Namen, gib von {0} einen kodierten String zurück und setze {1} für Cookies, die es erfordern:"
+  },
+  "updatedAt": "2026-11-16T16:15:02.864Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "de7b8c57c19dbc3f",
+  "source": "If an opened page relies on {0} (for example, an OAuth popup that calls {1}), or you reuse a named window, set {2} for that call:",
+  "text": "Si une page ouverte dépend de {0} (par exemple, une popup OAuth qui appelle {1}), ou si vous réutilisez une fenêtre nommée, définissez {2} pour cet appel :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si une page ouverte dépend de {0} (par exemple, une popup OAuth qui appelle {1}), ou si vous réutilisez une fenêtre nommée, définissez {2} pour cet appel :"
+  },
+  "updatedAt": "2026-11-16T16:15:02.864Z"
+}

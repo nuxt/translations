@@ -1,0 +1,14 @@
+{
+  "hash": "dbeb725f3ef73480",
+  "source": "The {0} option controls whether {1} passes {2} to {3} when called with the {4} option and {5} is not set. This defaults to {6}.",
+  "text": "Die Option {0} legt fest, ob {1} {2} an {3} übergibt, wenn es mit der Option {4} aufgerufen wird und {5} nicht gesetzt ist. Der Standardwert ist {6}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Option {0} legt fest, ob {1} {2} an {3} übergibt, wenn es mit der Option {4} aufgerufen wird und {5} nicht gesetzt ist. Der Standardwert ist {6}."
+  },
+  "updatedAt": "2026-11-16T16:15:02.864Z"
+}

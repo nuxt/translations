@@ -1,0 +1,14 @@
+{
+  "hash": "1425f962a7285643",
+  "source": "{0} is now enabled by default, so {1} with the {2} option passes {3} to {4} unless {5} is set. The opened page can no longer access your application through {6}, and a named {7} (other than {8}, {9} and {10}) opens a new window each time rather than reusing an existing one with that name.",
+  "text": "{0} ist jetzt standardmäßig aktiviert. Deshalb übergibt {1} mit der Option {2} {3} an {4}, sofern {5} nicht gesetzt ist. Die geöffnete Seite kann nicht mehr über {6} auf deine Anwendung zugreifen, und ein benanntes {7} (außer {8}, {9} und {10}) öffnet jedes Mal ein neues Fenster, anstatt ein bestehendes Fenster mit diesem Namen wiederzuverwenden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ist jetzt standardmäßig aktiviert. Deshalb übergibt {1} mit der Option {2} {3} an {4}, sofern {5} nicht gesetzt ist. Die geöffnete Seite kann nicht mehr über {6} auf deine Anwendung zugreifen, und ein benanntes {7} (außer {8}, {9} und {10}) öffnet jedes Mal ein neues Fenster, anstatt ein bestehendes Fenster mit diesem Namen wiederzuverwenden."
+  },
+  "updatedAt": "2026-11-16T16:15:02.864Z"
+}
