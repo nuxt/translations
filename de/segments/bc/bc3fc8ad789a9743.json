@@ -1,0 +1,14 @@
+{
+  "hash": "bc3fc8ad789a9743",
+  "source": "The runtime config is now a single object shared by every request, both in server routes and in the Vue part of your app during server-side rendering. In Nuxt 4, each request received its own copy, so a change made while rendering one request (for example, setting {0} from the request host in a plugin) stayed within that request. In Nuxt 5, it is visible to every later request and, for {1} and {2} keys, to the browser through their payloads. Keep per-request values in {3}, {4} or {5} instead. In development, Nuxt logs a warning when the runtime config is mutated while rendering a page.",
+  "text": "Die Laufzeitkonfiguration ist jetzt ein einzelnes Objekt, das von jeder Anfrage gemeinsam genutzt wird – sowohl in Server-Routen als auch im Vue-Teil deiner App während des serverseitigen Renderings. In Nuxt 4 erhielt jede Anfrage ihre eigene Kopie, sodass eine Änderung, die beim Rendern einer Anfrage vorgenommen wurde (z. B. das Setzen von {0} anhand des Anfrage-Hosts in einem plugin), auf diese Anfrage beschränkt blieb. In Nuxt 5 ist sie für alle späteren Anfragen sichtbar und – bei den Schlüsseln {1} und {2} – über deren Payloads auch für den Browser. Halte anfragespezifische Werte stattdessen in {3}, {4} oder {5}. In der Entwicklung protokolliert Nuxt eine Warnung, wenn die Laufzeitkonfiguration beim Rendern einer Seite verändert wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Laufzeitkonfiguration ist jetzt ein einzelnes Objekt, das von jeder Anfrage gemeinsam genutzt wird – sowohl in Server-Routen als auch im Vue-Teil deiner App während des serverseitigen Renderings. In Nuxt 4 erhielt jede Anfrage ihre eigene Kopie, sodass eine Änderung, die beim Rendern einer Anfrage vorgenommen wurde (z. B. das Setzen von {0} anhand des Anfrage-Hosts in einem plugin), auf diese Anfrage beschränkt blieb. In Nuxt 5 ist sie für alle späteren Anfragen sichtbar und – bei den Schlüsseln {1} und {2} – über deren Payloads auch für den Browser. Halte anfragespezifische Werte stattdessen in {3}, {4} oder {5}. In der Entwicklung protokolliert Nuxt eine Warnung, wenn die Laufzeitkonfiguration beim Rendern einer Seite verändert wird."
+  },
+  "updatedAt": "2026-11-16T16:33:45.839Z"
+}

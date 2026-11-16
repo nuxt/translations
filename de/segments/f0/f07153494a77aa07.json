@@ -1,0 +1,14 @@
+{
+  "hash": "f07153494a77aa07",
+  "source": "The slot also exposes {0} as a deprecated alias of {1}. Use {2}: if a template does not destructure {3} from the slot props, it calls the auto-imported {4} instead, which clears the **global** error.",
+  "text": "Der Slot stellt außerdem {0} als nicht mehr empfohlenen Alias von {1} bereit. Verwende {2}: Wenn eine Vorlage {3} nicht aus den Slot-Props destrukturiert, ruft sie stattdessen das automatisch importierte {4} auf, das den **globalen** Fehler zurücksetzt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Slot stellt außerdem {0} als nicht mehr empfohlenen Alias von {1} bereit. Verwende {2}: Wenn eine Vorlage {3} nicht aus den Slot-Props destrukturiert, ruft sie stattdessen das automatisch importierte {4} auf, das den **globalen** Fehler zurücksetzt."
+  },
+  "updatedAt": "2026-11-16T16:33:45.839Z"
+}

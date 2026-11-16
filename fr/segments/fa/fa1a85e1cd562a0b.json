@@ -1,0 +1,14 @@
+{
+  "hash": "fa1a85e1cd562a0b",
+  "source": "The auto-imported {0} clears the global error, not the boundary's. Use {1} from the slot props instead.",
+  "text": "Le {0} importé automatiquement efface l'erreur globale, et non celle de la boundary. Utilisez plutôt {1} issu des props du slot.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le {0} importé automatiquement efface l'erreur globale, et non celle de la boundary. Utilisez plutôt {1} issu des props du slot."
+  },
+  "updatedAt": "2026-11-16T16:33:45.839Z"
+}

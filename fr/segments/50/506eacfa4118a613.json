@@ -1,0 +1,14 @@
+{
+  "hash": "506eacfa4118a613",
+  "source": "When registering middleware from a component, call the returned function when the component is unmounted, for example with {0}. To guard leaving the current page, use {1} instead.",
+  "text": "Lorsque vous enregistrez un middleware depuis un composant, appelez la fonction renvoyée lorsque le composant est démonté, par exemple avec {0}. Pour protéger la sortie de la page actuelle, utilisez plutôt {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque vous enregistrez un middleware depuis un composant, appelez la fonction renvoyée lorsque le composant est démonté, par exemple avec {0}. Pour protéger la sortie de la page actuelle, utilisez plutôt {1}."
+  },
+  "updatedAt": "2026-11-16T16:33:45.839Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e3dee5069af32aee",
+  "source": "Removing a named middleware that overrides one in the {0} directory restores the original. If the name has since been registered again with a different function, the returned function does nothing.",
+  "text": "La suppression d'un middleware nommé qui remplace un middleware du répertoire {0} rétablit l'original. Si le nom a depuis été enregistré à nouveau avec une fonction différente, la fonction renvoyée ne fait rien.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La suppression d'un middleware nommé qui remplace un middleware du répertoire {0} rétablit l'original. Si le nom a depuis été enregistré à nouveau avec une fonction différente, la fonction renvoyée ne fait rien."
+  },
+  "updatedAt": "2026-11-16T16:33:45.839Z"
+}

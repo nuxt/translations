@@ -1,0 +1,15 @@
+{
+  "hash": "15d7dfa6d36bf97b",
+  "source": "The {0} slot receives {1} and {2} as props. (Clearing the error triggers re-rendering of the default slot; you'll need to ensure that the error is fully resolved first or the error slot will just be rendered a second time.)",
+  "text": "Le slot {0} reçoit {1} et {2} comme props. (Effacer l'erreur déclenche un nouveau rendu du slot par défaut ; vous devez d'abord vous assurer que l'erreur est entièrement résolue, sinon le slot d'erreur sera simplement rendu une seconde fois.)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "77e7c9acd76cc6ef",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le slot {0} reçoit {1} et {2} comme props. (Effacer l'erreur déclenche un nouveau rendu du slot par défaut ; vous devez d'abord vous assurer que l'erreur est entièrement résolue, sinon le slot d'erreur sera simplement rendu une seconde fois.)"
+  },
+  "updatedAt": "2026-11-16T16:33:45.839Z"
+}

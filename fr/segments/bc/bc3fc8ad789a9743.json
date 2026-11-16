@@ -1,0 +1,14 @@
+{
+  "hash": "bc3fc8ad789a9743",
+  "source": "The runtime config is now a single object shared by every request, both in server routes and in the Vue part of your app during server-side rendering. In Nuxt 4, each request received its own copy, so a change made while rendering one request (for example, setting {0} from the request host in a plugin) stayed within that request. In Nuxt 5, it is visible to every later request and, for {1} and {2} keys, to the browser through their payloads. Keep per-request values in {3}, {4} or {5} instead. In development, Nuxt logs a warning when the runtime config is mutated while rendering a page.",
+  "text": "Le runtime config est désormais un objet unique partagé par toutes les requêtes, à la fois dans les routes serveur et dans la partie Vue de votre application pendant le rendu côté serveur. Dans Nuxt 4, chaque requête recevait sa propre copie : une modification effectuée lors du rendu d'une requête (par exemple, définir {0} à partir de l'hôte de la requête dans un plugin) restait donc limitée à cette requête. Dans Nuxt 5, elle est visible par toutes les requêtes suivantes et, pour les clés {1} et {2}, par le navigateur via leurs payloads. Conservez plutôt les valeurs propres à chaque requête dans {3}, {4} ou {5}. En développement, Nuxt affiche un avertissement lorsque le runtime config est modifié pendant le rendu d'une page.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le runtime config est désormais un objet unique partagé par toutes les requêtes, à la fois dans les routes serveur et dans la partie Vue de votre application pendant le rendu côté serveur. Dans Nuxt 4, chaque requête recevait sa propre copie : une modification effectuée lors du rendu d'une requête (par exemple, définir {0} à partir de l'hôte de la requête dans un plugin) restait donc limitée à cette requête. Dans Nuxt 5, elle est visible par toutes les requêtes suivantes et, pour les clés {1} et {2}, par le navigateur via leurs payloads. Conservez plutôt les valeurs propres à chaque requête dans {3}, {4} ou {5}. En développement, Nuxt affiche un avertissement lorsque le runtime config est modifié pendant le rendu d'une page."
+  },
+  "updatedAt": "2026-11-16T16:33:45.839Z"
+}

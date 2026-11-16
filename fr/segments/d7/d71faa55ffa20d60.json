@@ -1,0 +1,14 @@
+{
+  "hash": "d71faa55ffa20d60",
+  "source": "{0} returns a function that removes the middleware again. This is useful for middleware that only applies for part of the lifetime of your app:",
+  "text": "{0} renvoie une fonction qui supprime à nouveau le middleware. C'est utile pour un middleware qui ne s'applique que pendant une partie de la durée de vie de votre application :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} renvoie une fonction qui supprime à nouveau le middleware. C'est utile pour un middleware qui ne s'applique que pendant une partie de la durée de vie de votre application :"
+  },
+  "updatedAt": "2026-11-16T16:33:45.839Z"
+}
