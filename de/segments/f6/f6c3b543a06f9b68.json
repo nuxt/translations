@@ -1,0 +1,14 @@
+{
+  "hash": "f6c3b543a06f9b68",
+  "source": "That response comes from the island endpoint ({0}), so it's cached according to the {1}route rules{/1} that match {2}, not the rules for the page's own path. For example, with the following rules, {3} itself isn't cached, but its island response is, because {4} also matches {5}:",
+  "text": "Diese Antwort stammt vom Island-Endpunkt ({0}) und wird daher gemäß den {1}Route-Rules{/1} zwischengespeichert, die auf {2} zutreffen – nicht gemäß den Regeln für den eigenen Pfad der Seite. Mit den folgenden Regeln wird beispielsweise {3} selbst nicht zwischengespeichert, seine Island-Antwort jedoch schon, weil {4} ebenfalls auf {5} zutrifft:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese Antwort stammt vom Island-Endpunkt ({0}) und wird daher gemäß den {1}Route-Rules{/1} zwischengespeichert, die auf {2} zutreffen – nicht gemäß den Regeln für den eigenen Pfad der Seite. Mit den folgenden Regeln wird beispielsweise {3} selbst nicht zwischengespeichert, seine Island-Antwort jedoch schon, weil {4} ebenfalls auf {5} zutrifft:"
+  },
+  "updatedAt": "2026-11-16T11:51:10.107Z"
+}

@@ -2,7 +2,7 @@
   "version": 1,
   "source": "nuxt-main",
   "ref": "main",
-  "sha": "ab96d2c54327646b680d0759561bf769a7547200",
+  "sha": "238d65ff04a4c743f72ab43a3bb7a16fe98accb8",
   "policy": "f6e446c627d4102c",
   "files": {
     "docs/.navigation.yml": [
@@ -2487,6 +2487,8 @@
       {"hash":"c2a0a64f8934f1db","kind":"paragraph","format":"markdown","words":52,"skeleton":"You can define a page as {0}server only{/0} by giving it a {1} suffix. While you will be able to navigate to the page using client-side navigation, controlled by {2}, it will be rendered with a server component automatically, meaning the code required to render the page will not be in your client-side bundle.","placeholders":["link","code","code"]},
       {"hash":"f64276329edd3d33","kind":"component-slot","format":"markdown","words":15,"skeleton":"Server-only pages must have a single root element. (HTML comments are considered elements as well.)"},
       {"hash":"58940939f1482270","kind":"paragraph","format":"markdown","words":24,"skeleton":"Navigating to a server-only page needs a request to render it, so when a {0} to one is prefetched, Nuxt prefetches that response as well.","placeholders":["code"]},
+      {"hash":"f6c3b543a06f9b68","kind":"paragraph","format":"markdown","words":42,"skeleton":"That response comes from the island endpoint ({0}), so it's cached according to the {1}route rules{/1} that match {2}, not the rules for the page's own path. For example, with the following rules, {3} itself isn't cached, but its island response is, because {4} also matches {5}:","placeholders":["code","link","code","code","code","code"]},
+      {"hash":"3420b3a2d0ee0e92","kind":"paragraph","format":"markdown","words":35,"skeleton":"If a server-only page renders data for the current user, such as values read from a cookie, make sure no cache rule matches {0} (for example, by adding {1}), or make the page a regular page instead.","placeholders":["code","code"]},
       {"hash":"88461d2090fee770","kind":"heading","format":"markdown","words":2,"skeleton":"Custom Routing"},
       {"hash":"d5ae2387caac70e3","kind":"paragraph","format":"markdown","words":31,"skeleton":"As your app gets bigger and more complex, your routing might require more flexibility. For this reason, Nuxt directly exposes the router, routes and router options for customization in different ways."},
       {"hash":"cbeb9a836d82079d","kind":"heading","format":"markdown","words":3,"skeleton":"Multiple Pages Directories"},

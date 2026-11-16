@@ -1,0 +1,14 @@
+{
+  "hash": "3420b3a2d0ee0e92",
+  "source": "If a server-only page renders data for the current user, such as values read from a cookie, make sure no cache rule matches {0} (for example, by adding {1}), or make the page a regular page instead.",
+  "text": "Si une page server-only affiche des données propres à l'utilisateur courant, comme des valeurs lues depuis un cookie, assurez-vous qu'aucune règle de cache ne correspond à {0} (par exemple, en ajoutant {1}), ou transformez-la en page classique.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si une page server-only affiche des données propres à l'utilisateur courant, comme des valeurs lues depuis un cookie, assurez-vous qu'aucune règle de cache ne correspond à {0} (par exemple, en ajoutant {1}), ou transformez-la en page classique."
+  },
+  "updatedAt": "2026-11-16T11:51:10.107Z"
+}
