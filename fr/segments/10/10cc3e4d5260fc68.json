@@ -1,0 +1,15 @@
+{
+  "hash": "10cc3e4d5260fc68",
+  "source": "**The event object.** With the default builder, {0} is h3 v2's event. The layer adds back some things h3 v2 dropped, such as {1}, {2} and a Node-shaped {3} on runtimes that don't have one. Headers and the status you set on {4} apply to the response that Nitro sends.",
+  "text": "**L'objet event.** Avec le builder par défaut, {0} est l'événement de h3 v2. Le layer rétablit certains éléments supprimés par h3 v2, comme {1}, {2} et un {3} de type Node sur les runtimes qui n'en ont pas. Les en-têtes et le statut que vous définissez sur {4} s'appliquent à la réponse envoyée par Nitro.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "0a998c77f98d7dff",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**L'objet event.** Avec le builder par défaut, {0} est l'événement de h3 v2. Le layer rétablit certains éléments supprimés par h3 v2, comme {1}, {2} et un {3} de type Node sur les runtimes qui n'en ont pas. Les en-têtes et le statut que vous définissez sur {4} s'appliquent à la réponse envoyée par Nitro."
+  },
+  "updatedAt": "2026-11-16T20:00:27.541Z"
+}

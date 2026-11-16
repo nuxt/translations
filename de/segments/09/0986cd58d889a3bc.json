@@ -1,0 +1,15 @@
+{
+  "hash": "0986cd58d889a3bc",
+  "source": "With it on, {0}, {1}, {2}, {3}, {4}, auto-imports from subdirectories of {5} and handlers registered without a {6} all keep working. A handler that returns a string still sends it as {7} unless it sets a content type.",
+  "text": "Wenn die Option aktiviert ist, funktionieren {0}, {1}, {2}, {3}, {4}, automatische Importe aus Unterverzeichnissen von {5} und Handler, die ohne {6} registriert wurden, weiterhin. Ein Handler, der einen String zurückgibt, sendet ihn weiterhin als {7}, sofern er keinen Content-Type setzt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "cffe14d07f4ae11c",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn die Option aktiviert ist, funktionieren {0}, {1}, {2}, {3}, {4}, automatische Importe aus Unterverzeichnissen von {5} und Handler, die ohne {6} registriert wurden, weiterhin. Ein Handler, der einen String zurückgibt, sendet ihn weiterhin als {7}, sofern er keinen Content-Type setzt."
+  },
+  "updatedAt": "2026-11-16T20:00:27.541Z"
+}
