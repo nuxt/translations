@@ -2,7 +2,7 @@
   "version": 1,
   "source": "nuxt-main",
   "ref": "main",
-  "sha": "238d65ff04a4c743f72ab43a3bb7a16fe98accb8",
+  "sha": "19d4b899036215e60447c6b93224c4230e8d9ad7",
   "policy": "f6e446c627d4102c",
   "files": {
     "docs/.navigation.yml": [
@@ -7239,6 +7239,7 @@
       {"hash":"33021f71e5ca3849","kind":"paragraph","format":"markdown","words":15,"skeleton":"You can use {0} to forward the request context and headers when making server-side fetch requests.","placeholders":["code"]},
       {"hash":"7ae205f090e6c357","kind":"paragraph","format":"markdown","words":32,"skeleton":"When making a client-side fetch request, the browser automatically sends the necessary headers. However, when making a request during server-side rendering, due to security considerations, we need to forward the headers manually."},
       {"hash":"d5815b269c8571e0","kind":"component-slot","format":"markdown","words":20,"skeleton":"Headers that are **not meant to be forwarded** will **not be included** in the request. These headers include, for example: {0}, {1}, {2}, {3}, {4}, {5}, {6}","placeholders":["code","code","code","code","code","code","code"]},
+      {"hash":"d3f7862c357effed","kind":"component-slot","format":"markdown","words":26,"skeleton":"Headers are only forwarded to paths starting with {0} (such as {1}). Requests to an absolute URL, including one pointing at your own app, are sent without them.","placeholders":["code","code"]},
       {"hash":"897f449d9d7e9d55","kind":"component-slot","format":"markdown","words":14,"skeleton":"The {0} composable uses {1} under the hood to automatically forward the request context and headers.","placeholders":["link","code"]},
       {"hash":"e9f25bbdc63c80d6","kind":"code-comment","format":"plain","words":10,"skeleton":"This will forward the user's headers to the {0} event handler","placeholders":["code"]},
       {"hash":"0c43bbc3f8df20b3","kind":"code-comment","format":"plain","words":5,"skeleton":"This will NOT forward anything"},

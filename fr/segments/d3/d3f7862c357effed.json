@@ -1,0 +1,14 @@
+{
+  "hash": "d3f7862c357effed",
+  "source": "Headers are only forwarded to paths starting with {0} (such as {1}). Requests to an absolute URL, including one pointing at your own app, are sent without them.",
+  "text": "Les en-têtes ne sont transmis qu'aux chemins commençant par {0} (comme {1}). Les requêtes vers une URL absolue, y compris une URL pointant vers votre propre application, sont envoyées sans eux.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les en-têtes ne sont transmis qu'aux chemins commençant par {0} (comme {1}). Les requêtes vers une URL absolue, y compris une URL pointant vers votre propre application, sont envoyées sans eux."
+  },
+  "updatedAt": "2026-11-16T13:10:09.151Z"
+}

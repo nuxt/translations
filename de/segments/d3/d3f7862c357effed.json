@@ -1,0 +1,14 @@
+{
+  "hash": "d3f7862c357effed",
+  "source": "Headers are only forwarded to paths starting with {0} (such as {1}). Requests to an absolute URL, including one pointing at your own app, are sent without them.",
+  "text": "Header werden nur an Pfade weitergeleitet, die mit {0} beginnen (z. B. {1}). Anfragen an eine absolute URL, auch wenn sie auf deine eigene App zeigt, werden ohne sie gesendet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Header werden nur an Pfade weitergeleitet, die mit {0} beginnen (z. B. {1}). Anfragen an eine absolute URL, auch wenn sie auf deine eigene App zeigt, werden ohne sie gesendet."
+  },
+  "updatedAt": "2026-11-16T13:10:09.151Z"
+}
