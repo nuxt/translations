@@ -1,0 +1,14 @@
+{
+  "hash": "1af0363d41ad5ec8",
+  "source": "A new execution with {0} is served from {1}",
+  "text": "Une nouvelle exécution avec {0} est servie depuis {1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une nouvelle exécution avec {0} est servie depuis {1}"
+  },
+  "updatedAt": "2026-11-16T16:44:17.705Z"
+}

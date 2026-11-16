@@ -2,7 +2,7 @@
   "version": 1,
   "source": "nuxt-main",
   "ref": "main",
-  "sha": "e0d2cce197035fb8046b522ea1cdd400bdab2ee7",
+  "sha": "96caf0e247c48708d7b232a46cb80d68b6274635",
   "policy": "f6e446c627d4102c",
   "files": {
     "docs/.navigation.yml": [
@@ -6421,6 +6421,7 @@
       {"hash":"0eb46399b55bacaf","kind":"paragraph","format":"markdown","words":18,"skeleton":"If your {0} function does not support abort signals, you can implement your own abort logic using the {1} provided.","placeholders":["code","code"]},
       {"hash":"358642d485512fe6","kind":"paragraph","format":"markdown","words":7,"skeleton":"The handler signal will be aborted when:"},
       {"hash":"2313e8b1d3988b79","kind":"list-item","format":"markdown","words":6,"skeleton":"A new request is made with {0}","placeholders":["code"]},
+      {"hash":"1af0363d41ad5ec8","kind":"list-item","format":"markdown","words":7,"skeleton":"A new execution with {0} is served from {1}","placeholders":["code","code"]},
       {"hash":"4845e357ab7d4016","kind":"list-item","format":"markdown","words":4,"skeleton":"The {0} function is called","placeholders":["code"]},
       {"hash":"635a7824c238402b","kind":"list-item","format":"markdown","words":4,"skeleton":"The {0} duration is exceeded","placeholders":["code"]},
       {"hash":"5f901fe179c63453","kind":"component-slot","format":"markdown","words":17,"skeleton":"{0} is a reserved function name transformed by the compiler, so you should not name your own function {1}.","placeholders":["link","link"]},
