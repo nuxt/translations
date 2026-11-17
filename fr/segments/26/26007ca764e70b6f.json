@@ -1,0 +1,14 @@
+{
+  "hash": "26007ca764e70b6f",
+  "source": "These composables are no-ops on the client, and Nuxt tree-shakes them out of the client bundle in production builds.",
+  "text": "Ces composables ne font rien côté client, et Nuxt les supprime du bundle client par tree-shaking dans les builds de production.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ces composables ne font rien côté client, et Nuxt les supprime du bundle client par tree-shaking dans les builds de production."
+  },
+  "updatedAt": "2026-11-17T12:41:17.841Z"
+}

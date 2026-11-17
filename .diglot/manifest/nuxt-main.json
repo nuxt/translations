@@ -2,7 +2,7 @@
   "version": 1,
   "source": "nuxt-main",
   "ref": "main",
-  "sha": "94391c73d4c8ca2be9b4be75fe4cac033dfc4044",
+  "sha": "d0c823a9afd1f58a4a36ddddb35248f0dbee7fbb",
   "policy": "f6e446c627d4102c",
   "files": {
     "docs/.navigation.yml": [
@@ -1864,7 +1864,7 @@
       {"hash":"2eeb11ec1191374a","kind":"heading","format":"markdown","words":2,"skeleton":"What Changed"},
       {"hash":"1e0038cff61657f4","kind":"paragraph","format":"markdown","words":17,"skeleton":"{0}, {1} and {2} are removed from Nuxt's auto-imports. They are still exported from {3}, so an explicit import keeps working.","placeholders":["code","code","code","code"]},
       {"hash":"cb9c0b94ebbcc9fb","kind":"paragraph","format":"markdown","words":33,"skeleton":"The {0} option is ignored on Nuxt 5: setting it logs a warning. Unhead's legacy plugins ({1}, {2}, {3}) are no longer registered, and Capo sorting is always on. {4} is still registered, so {5}, {6} and {7} title interpolation is unaffected.","placeholders":["code","code","code","code","code","code","code","code"]},
-      {"hash":"948089953e1453ba","kind":"paragraph","format":"markdown","words":20,"skeleton":"Tree-shaking of server-only head composables out of the client bundle is handled by the {0} plugin, which Nuxt registers when using {1}.","placeholders":["code","code"]},
+      {"hash":"26007ca764e70b6f","kind":"paragraph","format":"markdown","words":19,"skeleton":"These composables are no-ops on the client, and Nuxt tree-shakes them out of the client bundle in production builds."},
       {"hash":"08d1284a2cd89690","kind":"heading","format":"markdown","words":2,"skeleton":"Migration Steps"},
       {"hash":"b497064502bbd4ea","kind":"paragraph","format":"markdown","words":10,"skeleton":"Wrap a {0} call in {1} instead, or import the composable explicitly:","placeholders":["code","code"]},
       {"hash":"8a47c36589187d73","kind":"paragraph","format":"markdown","words":4,"skeleton":"Remove {0} from your configuration:","placeholders":["code"]},
@@ -6947,7 +6947,7 @@
       {"hash":"24e864275d297415","kind":"table-cell","format":"markdown","words":18,"skeleton":"A function executed **only on the server** (called when SSR rendering is done) to set the initial value."},
       {"hash":"a00644508de97e85","kind":"table-cell","format":"markdown","words":0,"skeleton":"{0}","placeholders":["code"]},
       {"hash":"a00644508de97e85","kind":"table-cell","format":"markdown","words":0,"skeleton":"{0}","placeholders":["code"]},
-      {"hash":"af2569a55d354597","kind":"table-cell","format":"markdown","words":18,"skeleton":"A function executed **only on the client** (called when initial Vue instance is created) to receive the data."},
+      {"hash":"8b74e0f00e9bc364","kind":"table-cell","format":"markdown","words":24,"skeleton":"A function executed **only on the client** (called when the app is created, or immediately when registered later during hydration) to receive the data."},
       {"hash":"c9edc9e1cccf8003","kind":"heading","format":"markdown","words":2,"skeleton":"Return Values"},
       {"hash":"a76f8c01a5040644","kind":"paragraph","format":"markdown","words":7,"skeleton":"This composable does not return any value."}
     ],

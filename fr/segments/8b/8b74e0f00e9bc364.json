@@ -1,0 +1,15 @@
+{
+  "hash": "8b74e0f00e9bc364",
+  "source": "A function executed **only on the client** (called when the app is created, or immediately when registered later during hydration) to receive the data.",
+  "text": "Une fonction exécutée **uniquement sur le client** (appelée lors de la création de l'application, ou immédiatement si elle est enregistrée plus tard pendant l'hydratation) pour recevoir les données.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "af2569a55d354597",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une fonction exécutée **uniquement sur le client** (appelée lors de la création de l'application, ou immédiatement si elle est enregistrée plus tard pendant l'hydratation) pour recevoir les données."
+  },
+  "updatedAt": "2026-11-17T12:41:17.841Z"
+}
