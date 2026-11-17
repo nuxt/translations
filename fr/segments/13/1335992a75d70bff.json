@@ -1,0 +1,14 @@
+{
+  "hash": "1335992a75d70bff",
+  "source": "The remaining changes are listed under {0}Migration to Nitro v3{/0} in the Nuxt 5 upgrade guide.",
+  "text": "Les autres changements sont listés sous {0}Migration vers Nitro v3{/0} dans le guide de mise à jour vers Nuxt 5.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les autres changements sont listés sous {0}Migration vers Nitro v3{/0} dans le guide de mise à jour vers Nuxt 5."
+  },
+  "updatedAt": "2026-11-17T11:22:53.452Z"
+}

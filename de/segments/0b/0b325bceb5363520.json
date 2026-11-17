@@ -1,0 +1,14 @@
+{
+  "hash": "0b325bceb5363520",
+  "source": "**Types**: your server code is type-checked against Nitro v3 and h3 v2. Move augmentations of {0} or {1} to {2}. An {3} type imported from h3 v1 doesn't match the event your handlers receive.",
+  "text": "**Typen**: Dein Servercode wird gegen Nitro v3 und h3 v2 typgeprüft. Verschiebe Erweiterungen von {0} oder {1} nach {2}. Ein aus h3 v1 importierter Typ {3} passt nicht zum Event, das deine Handler erhalten.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Typen**: Dein Servercode wird gegen Nitro v3 und h3 v2 typgeprüft. Verschiebe Erweiterungen von {0} oder {1} nach {2}. Ein aus h3 v1 importierter Typ {3} passt nicht zum Event, das deine Handler erhalten."
+  },
+  "updatedAt": "2026-11-17T11:22:53.452Z"
+}

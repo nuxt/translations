@@ -1,0 +1,14 @@
+{
+  "hash": "2fd63a15ef43133c",
+  "source": "The layer keeps Nitro v2 code resolving and running. It doesn't restore every behavior of Nitro v2 and h3 v1, so these differences remain:",
+  "text": "Le layer permet au code Nitro v2 d'être résolu et exécuté. Il ne restaure pas tous les comportements de Nitro v2 et h3 v1, donc ces différences subsistent :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le layer permet au code Nitro v2 d'être résolu et exécuté. Il ne restaure pas tous les comportements de Nitro v2 et h3 v1, donc ces différences subsistent :"
+  },
+  "updatedAt": "2026-11-17T11:22:53.452Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e2e946b15844f0bd",
+  "source": "**Nitro configuration**: options that Nitro v3 removed are ignored, and the build lists them in a {0} warning.",
+  "text": "**Nitro-Konfiguration**: Optionen, die Nitro v3 entfernt hat, werden ignoriert, und der Build listet sie in einer {0}-Warnung auf.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Nitro-Konfiguration**: Optionen, die Nitro v3 entfernt hat, werden ignoriert, und der Build listet sie in einer {0}-Warnung auf."
+  },
+  "updatedAt": "2026-11-17T11:22:53.452Z"
+}

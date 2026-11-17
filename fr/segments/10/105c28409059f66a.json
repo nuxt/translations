@@ -1,0 +1,14 @@
+{
+  "hash": "105c28409059f66a",
+  "source": "**The response on the event**: {0} is the h3 v2 response, with {1} and {2}, rather than the Node.js response. {3} isn't available. Use {4} or {5}.",
+  "text": "**La réponse sur l'événement** : {0} est la réponse h3 v2, avec {1} et {2}, plutôt que la réponse Node.js. {3} n'est pas disponible. Utilisez {4} ou {5}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**La réponse sur l'événement** : {0} est la réponse h3 v2, avec {1} et {2}, plutôt que la réponse Node.js. {3} n'est pas disponible. Utilisez {4} ou {5}."
+  },
+  "updatedAt": "2026-11-17T11:22:53.452Z"
+}

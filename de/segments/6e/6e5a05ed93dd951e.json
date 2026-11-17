@@ -1,0 +1,14 @@
+{
+  "hash": "6e5a05ed93dd951e",
+  "source": "To opt in, add {0} to the dependencies of your project:",
+  "text": "Um dich dafür zu entscheiden, füge {0} zu den Abhängigkeiten deines Projekts hinzu:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um dich dafür zu entscheiden, füge {0} zu den Abhängigkeiten deines Projekts hinzu:"
+  },
+  "updatedAt": "2026-11-17T11:22:53.452Z"
+}

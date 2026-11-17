@@ -1,0 +1,15 @@
+{
+  "hash": "f228e522a3fab742",
+  "source": "This list describes what the flag changes on Nuxt 4. Nuxt 5 itself carries further changes that no flag enables here, such as the upgrade to Nitro v3, which you can {0}test separately{/0}.",
+  "text": "Cette liste décrit ce que le flag modifie sur Nuxt 4. Nuxt 5 apporte lui-même d'autres changements qu'aucun flag n'active ici, comme la mise à niveau vers Nitro v3, que vous pouvez {0}tester séparément{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "8e02abf07cc452d2",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette liste décrit ce que le flag modifie sur Nuxt 4. Nuxt 5 apporte lui-même d'autres changements qu'aucun flag n'active ici, comme la mise à niveau vers Nitro v3, que vous pouvez {0}tester séparément{/0}."
+  },
+  "updatedAt": "2026-11-17T11:22:53.452Z"
+}

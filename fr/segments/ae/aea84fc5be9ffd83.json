@@ -1,0 +1,14 @@
+{
+  "hash": "aea84fc5be9ffd83",
+  "source": "Testing Nitro v3",
+  "text": "Tester Nitro v3",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Tester Nitro v3"
+  },
+  "updatedAt": "2026-11-17T11:22:53.452Z"
+}

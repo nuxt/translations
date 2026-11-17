@@ -1,0 +1,14 @@
+{
+  "hash": "5ec0edd32a9cba0b",
+  "source": "Nuxt 4 builds your server with Nitro v2 ({0}) by default. From Nuxt 4.7, you can build it with {1}Nitro v3{/1} instead, which is the default in Nuxt 5. This lets you move your server code to Nitro v3 before you upgrade Nuxt itself.",
+  "text": "Nuxt 4 erzeugt deinen Server standardmäßig mit Nitro v2 ({0}). Ab Nuxt 4.7 kannst du ihn stattdessen mit {1}Nitro v3{/1} erzeugen, das in Nuxt 5 der Standard ist. So kannst du deinen Servercode auf Nitro v3 umstellen, bevor du Nuxt selbst aktualisierst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt 4 erzeugt deinen Server standardmäßig mit Nitro v2 ({0}). Ab Nuxt 4.7 kannst du ihn stattdessen mit {1}Nitro v3{/1} erzeugen, das in Nuxt 5 der Standard ist. So kannst du deinen Servercode auf Nitro v3 umstellen, bevor du Nuxt selbst aktualisierst."
+  },
+  "updatedAt": "2026-11-17T11:22:53.452Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "dadf305d70e89df2",
+  "source": "**Runtime config environment variables**: values are {0}converted to the type of the value they replace{/0} rather than cast with {1}, as with {2}.",
+  "text": "**Variables d'environnement du runtime config** : les valeurs sont {0}converties vers le type de la valeur qu'elles remplacent{/0} plutôt que transtypées avec {1}, comme avec {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Variables d'environnement du runtime config** : les valeurs sont {0}converties vers le type de la valeur qu'elles remplacent{/0} plutôt que transtypées avec {1}, comme avec {2}."
+  },
+  "updatedAt": "2026-11-17T11:22:53.452Z"
+}

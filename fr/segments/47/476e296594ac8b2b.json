@@ -1,0 +1,14 @@
+{
+  "hash": "476e296594ac8b2b",
+  "source": "Nuxt reads the Nitro version from the {0} of your project: {1} selects Nitro v3 and {2} selects Nitro v2. If your project lists both, Nuxt uses Nitro v3. In a workspace, a project that lists neither follows the workspace root, as long as the root lists only one of them. To return to Nitro v2, remove {3} from your dependencies.",
+  "text": "Nuxt lit la version de Nitro dans le {0} de votre projet : {1} sélectionne Nitro v3 et {2} sélectionne Nitro v2. Si votre projet liste les deux, Nuxt utilise Nitro v3. Dans un workspace, un projet qui ne liste aucun des deux suit la racine du workspace, à condition que celle-ci n'en liste qu'un seul. Pour revenir à Nitro v2, retirez {3} de vos dépendances.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt lit la version de Nitro dans le {0} de votre projet : {1} sélectionne Nitro v3 et {2} sélectionne Nitro v2. Si votre projet liste les deux, Nuxt utilise Nitro v3. Dans un workspace, un projet qui ne liste aucun des deux suit la racine du workspace, à condition que celle-ci n'en liste qu'un seul. Pour revenir à Nitro v2, retirez {3} de vos dépendances."
+  },
+  "updatedAt": "2026-11-17T11:22:53.452Z"
+}

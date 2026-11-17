@@ -1,0 +1,14 @@
+{
+  "hash": "8c8ba2934f40ecd0",
+  "source": "Your app code doesn't change, and you don't need to change the {0} option. A module that ships separate server code for each Nitro version gets the one that matches, as described in the {1}module server compatibility guide{/1}.",
+  "text": "Dein App-Code ändert sich nicht, und du musst die Option {0} nicht anpassen. Ein Modul, das für jede Nitro-Version eigenen Servercode mitliefert, erhält den passenden, wie in der {1}Anleitung zur Server-Kompatibilität von Modulen{/1} beschrieben.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dein App-Code ändert sich nicht, und du musst die Option {0} nicht anpassen. Ein Modul, das für jede Nitro-Version eigenen Servercode mitliefert, erhält den passenden, wie in der {1}Anleitung zur Server-Kompatibilität von Modulen{/1} beschrieben."
+  },
+  "updatedAt": "2026-11-17T11:22:53.452Z"
+}

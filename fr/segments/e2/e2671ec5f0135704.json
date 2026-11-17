@@ -1,0 +1,14 @@
+{
+  "hash": "e2671ec5f0135704",
+  "source": "The {0}Nitro v2 compatibility section{/0} of the Nuxt 5 upgrade guide describes the layer and its individual switches. To find the server code that depends on it, turn it off:",
+  "text": "La {0}section de compatibilité avec Nitro v2{/0} du guide de mise à jour vers Nuxt 5 décrit ce layer (couche) et ses interrupteurs individuels. Pour trouver le code serveur qui en dépend, désactivez-le :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La {0}section de compatibilité avec Nitro v2{/0} du guide de mise à jour vers Nuxt 5 décrit ce layer (couche) et ses interrupteurs individuels. Pour trouver le code serveur qui en dépend, désactivez-le :"
+  },
+  "updatedAt": "2026-11-17T11:22:53.452Z"
+}

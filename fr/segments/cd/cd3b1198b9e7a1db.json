@@ -1,0 +1,14 @@
+{
+  "hash": "cd3b1198b9e7a1db",
+  "source": "What Changes With Nitro v3",
+  "text": "Ce qui change avec Nitro v3",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ce qui change avec Nitro v3"
+  },
+  "updatedAt": "2026-11-17T11:22:53.452Z"
+}

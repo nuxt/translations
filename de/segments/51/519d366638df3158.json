@@ -1,0 +1,14 @@
+{
+  "hash": "519d366638df3158",
+  "source": "**Server plugins**: {0} and {1} aren't available.",
+  "text": "**Server-Plugins**: {0} und {1} sind nicht verfügbar.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Server-Plugins**: {0} und {1} sind nicht verfügbar."
+  },
+  "updatedAt": "2026-11-17T11:22:53.452Z"
+}

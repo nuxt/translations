@@ -1,0 +1,14 @@
+{
+  "hash": "7fdbf59335bca594",
+  "source": "**Cached routes**: responses are still cached per query string while {0} is on. With it off, {1}set {2}{/1} to keep the query string.",
+  "text": "**Routes en cache** : les réponses sont toujours mises en cache par query string tant que {0} est activé. Lorsqu'il est désactivé, {1}définissez {2}{/1} pour conserver la query string.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Routes en cache** : les réponses sont toujours mises en cache par query string tant que {0} est activé. Lorsqu'il est désactivé, {1}définissez {2}{/1} pour conserver la query string."
+  },
+  "updatedAt": "2026-11-17T11:22:53.452Z"
+}
