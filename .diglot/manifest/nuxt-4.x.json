@@ -2,7 +2,7 @@
   "version": 1,
   "source": "nuxt-4.x",
   "ref": "4.x",
-  "sha": "295f0d7c246a6414da14cf8c41c5c2f647c951ec",
+  "sha": "76ed794127463ea4bb3074f95365ac279762ca2b",
   "policy": "f6e446c627d4102c",
   "files": {
     "docs/.navigation.yml": [
@@ -9121,6 +9121,10 @@
       {"hash":"a00644508de97e85","kind":"table-cell","format":"markdown","words":0,"skeleton":"{0}","placeholders":["code"]},
       {"hash":"a00644508de97e85","kind":"table-cell","format":"markdown","words":0,"skeleton":"{0}","placeholders":["code"]},
       {"hash":"a32d7450171a3a85","kind":"table-cell","format":"markdown","words":22,"skeleton":"Whether to prompt before installing. {0} always prompts, {1} never prompts (and installs automatically on StackBlitz), and leaving it unset prompts everywhere except StackBlitz.","placeholders":["code","code"]},
+      {"hash":"a00644508de97e85","kind":"table-cell","format":"markdown","words":0,"skeleton":"{0}","placeholders":["code"]},
+      {"hash":"a00644508de97e85","kind":"table-cell","format":"markdown","words":0,"skeleton":"{0}","placeholders":["code"]},
+      {"hash":"a00644508de97e85","kind":"table-cell","format":"markdown","words":0,"skeleton":"{0}","placeholders":["code"]},
+      {"hash":"edb4c13a6e4bbde5","kind":"table-cell","format":"markdown","words":9,"skeleton":"Whether to install the dependency as a dev dependency."},
       {"hash":"4329767c30021f6e","kind":"heading","format":"markdown","words":2,"skeleton":"Return Value"},
       {"hash":"91b631e0852ab625","kind":"paragraph","format":"markdown","words":48,"skeleton":"Passing a single package name returns {0} if it is available and {1} if it is not. Passing an array returns {2} if every package is available, or an array of the package names that are still missing (because the user declined, the install failed, or there was no interactive terminal).","placeholders":["code","code","code"]},
       {"hash":"fd357164a6140d16","kind":"component-slot","format":"markdown","words":41,"skeleton":"Nothing is installed in CI or when there is no interactive terminal. In that case the missing packages are reported as a diagnostic that includes the install command, and the function reports them as missing so your module can degrade gracefully."},
