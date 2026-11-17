@@ -1,0 +1,14 @@
+{
+  "hash": "e8d34e0925ae3dbb",
+  "source": "The {0} option controls whether {1} passes {2} to {3} when called with the {4} option and {5} is not set. This defaults to {6} with {7}.",
+  "text": "L'option {0} détermine si {1} transmet {2} à {3} lorsqu'il est appelé avec l'option {4} et que {5} n'est pas défini. Elle vaut par défaut {6} avec {7}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'option {0} détermine si {1} transmet {2} à {3} lorsqu'il est appelé avec l'option {4} et que {5} n'est pas défini. Elle vaut par défaut {6} avec {7}."
+  },
+  "updatedAt": "2026-11-17T16:30:54.426Z"
+}

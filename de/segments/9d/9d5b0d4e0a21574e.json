@@ -1,0 +1,14 @@
+{
+  "hash": "9d5b0d4e0a21574e",
+  "source": "On server-side, the entire runtime config is available, but it is read-only to avoid context sharing. When the server is built with {0}Nitro v3{/0}, it is a single object shared by every request, so a change made while rendering one request is visible to all later ones. In development, Nuxt then logs a warning when it is mutated during server-side rendering.",
+  "text": "Auf der Serverseite ist die gesamte Laufzeitkonfiguration verfügbar, jedoch schreibgeschützt, um die gemeinsame Nutzung von Kontext zu vermeiden. Wird der Server mit {0}Nitro v3{/0} erstellt, handelt es sich um ein einzelnes Objekt, das von jeder Anfrage gemeinsam genutzt wird. Eine Änderung, die beim Rendern einer Anfrage vorgenommen wird, ist daher für alle nachfolgenden Anfragen sichtbar. In der Entwicklung protokolliert Nuxt dann eine Warnung, wenn das Objekt während des serverseitigen Renderings verändert wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auf der Serverseite ist die gesamte Laufzeitkonfiguration verfügbar, jedoch schreibgeschützt, um die gemeinsame Nutzung von Kontext zu vermeiden. Wird der Server mit {0}Nitro v3{/0} erstellt, handelt es sich um ein einzelnes Objekt, das von jeder Anfrage gemeinsam genutzt wird. Eine Änderung, die beim Rendern einer Anfrage vorgenommen wird, ist daher für alle nachfolgenden Anfragen sichtbar. In der Entwicklung protokolliert Nuxt dann eine Warnung, wenn das Objekt während des serverseitigen Renderings verändert wird."
+  },
+  "updatedAt": "2026-11-17T16:30:54.426Z"
+}

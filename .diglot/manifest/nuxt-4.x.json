@@ -2,7 +2,7 @@
   "version": 1,
   "source": "nuxt-4.x",
   "ref": "4.x",
-  "sha": "88b8ffae374afd47b92f3323de8fb54fb64e5cf0",
+  "sha": "dac4c5ea13f4f301cdeeb9fce5478b115e5529cc",
   "policy": "f6e446c627d4102c",
   "files": {
     "docs/.navigation.yml": [
@@ -966,7 +966,8 @@
       {"hash":"e3df21f8d10dd2b7","kind":"paragraph","format":"markdown","words":67,"skeleton":"This component is responsible for handling errors that occur within its default slot. It will prevent the error from bubbling up to the top level, and will render the {0} slot instead. With {1} enabled, this also applies during server-side rendering: if content inside the boundary throws on the server, the {2} slot is rendered in the HTML response (with a {3} status) and the client hydrates into the same state.","placeholders":["code","link","code","code"]},
       {"hash":"1ad47143c9fa614d","kind":"component-slot","format":"markdown","words":64,"skeleton":"The boundary catches everything thrown while rendering its default slot, including errors created with {0}. It does not intercept errors that bypass the component tree: calling {1} directly, errors thrown in route middleware or during navigation (such as a 404 for an unmatched route), or {2}/{3} failures, which are returned in {4} rather than thrown. A default slot rendered by a vapor component is only caught on the client.","placeholders":["code","link","code","code","code"]},
       {"hash":"2c93e5a71c71ec94","kind":"component-slot","format":"markdown","words":14,"skeleton":"Server-side catching is controlled by the {0} option, which is enabled when {1} is set to {2}.","placeholders":["link","code","code"]},
-      {"hash":"77e7c9acd76cc6ef","kind":"paragraph","format":"markdown","words":39,"skeleton":"The {0} slot will receive {1} as a prop. (If you set {2} it will trigger re-rendering the default slot; you'll need to ensure that the error is fully resolved first or the error slot will just be rendered a second time.)","placeholders":["code","code","code"]},
+      {"hash":"15d7dfa6d36bf97b","kind":"paragraph","format":"markdown","words":37,"skeleton":"The {0} slot receives {1} and {2} as props. (Clearing the error triggers re-rendering of the default slot; you'll need to ensure that the error is fully resolved first or the error slot will just be rendered a second time.)","placeholders":["code","code","code"]},
+      {"hash":"fa1a85e1cd562a0b","kind":"component-slot","format":"markdown","words":15,"skeleton":"The auto-imported {0} clears the global error, not the boundary's. Use {1} from the slot props instead.","placeholders":["link","code"]},
       {"hash":"2c09a4b63d5137df","kind":"component-slot","format":"markdown","words":12,"skeleton":"If you navigate to another route, the error will be cleared automatically."},
       {"hash":"bd575d3c61b7b158","kind":"code-comment","format":"plain","words":2,"skeleton":"some content"},
       {"hash":"247dc02a30ca202a","kind":"code-comment","format":"plain","words":9,"skeleton":"You use the default slot to render your content"}
@@ -1455,6 +1456,7 @@
       {"hash":"f26a4f12c373c922","kind":"list-item","format":"markdown","words":22,"skeleton":"**Server-side error boundaries**: {0} is enabled, so {1} {2}catches errors thrown while server-rendering its default slot{/2} instead of letting them reach the error page","placeholders":["link","code","link"]},
       {"hash":"b1aab157be74b8e7","kind":"list-item","format":"markdown","words":8,"skeleton":"**Non-async {0}**: {1} may return {2} instead of always returning a {3}","placeholders":["code","code","code","code"]},
       {"hash":"1bfdf901abd8e7fa","kind":"list-item","format":"markdown","words":10,"skeleton":"**Early return from {0}**: {1} stops a middleware continuing after it redirects","placeholders":["code","link"]},
+      {"hash":"640d25d60489a059","kind":"list-item","format":"markdown","words":11,"skeleton":"**{0} for {1}**: windows opened with {2} get {3} by default ({4}), so they cannot access {5}","placeholders":["code","code","code","code","link","code"]},
       {"hash":"5c03b60937c2ef60","kind":"list-item","format":"markdown","words":23,"skeleton":"**Server-only head composables**: {0}, {1} and {2} are no longer auto-imported, {3} is ignored, Unhead's legacy plugins are no longer registered and Capo sorting is always on","placeholders":["code","code","code","code"]},
       {"hash":"f08899a82ace88e3","kind":"list-item","format":"markdown","words":13,"skeleton":"**PostCSS defaults off**: {0} and {1} are no longer configured unless you enable them in {2}","placeholders":["code","code","code"]},
       {"hash":"f3c5fff2cb17d117","kind":"list-item","format":"markdown","words":15,"skeleton":"**Keyed composables require {0}**: a {1} entry without a string {2} is no longer matched through its auto-import","placeholders":["code","link","code"]},
@@ -2404,6 +2406,8 @@
       {"hash":"c2a0a64f8934f1db","kind":"paragraph","format":"markdown","words":52,"skeleton":"You can define a page as {0}server only{/0} by giving it a {1} suffix. While you will be able to navigate to the page using client-side navigation, controlled by {2}, it will be rendered with a server component automatically, meaning the code required to render the page will not be in your client-side bundle.","placeholders":["link","code","code"]},
       {"hash":"f64276329edd3d33","kind":"component-slot","format":"markdown","words":15,"skeleton":"Server-only pages must have a single root element. (HTML comments are considered elements as well.)"},
       {"hash":"58940939f1482270","kind":"paragraph","format":"markdown","words":24,"skeleton":"Navigating to a server-only page needs a request to render it, so when a {0} to one is prefetched, Nuxt prefetches that response as well.","placeholders":["code"]},
+      {"hash":"f6c3b543a06f9b68","kind":"paragraph","format":"markdown","words":42,"skeleton":"That response comes from the island endpoint ({0}), so it's cached according to the {1}route rules{/1} that match {2}, not the rules for the page's own path. For example, with the following rules, {3} itself isn't cached, but its island response is, because {4} also matches {5}:","placeholders":["code","link","code","code","code","code"]},
+      {"hash":"3420b3a2d0ee0e92","kind":"paragraph","format":"markdown","words":35,"skeleton":"If a server-only page renders data for the current user, such as values read from a cookie, make sure no cache rule matches {0} (for example, by adding {1}), or make the page a regular page instead.","placeholders":["code","code"]},
       {"hash":"88461d2090fee770","kind":"heading","format":"markdown","words":2,"skeleton":"Custom Routing"},
       {"hash":"d5ae2387caac70e3","kind":"paragraph","format":"markdown","words":31,"skeleton":"As your app gets bigger and more complex, your routing might require more flexibility. For this reason, Nuxt directly exposes the router, routes and router options for customization in different ways."},
       {"hash":"cbeb9a836d82079d","kind":"heading","format":"markdown","words":3,"skeleton":"Multiple Pages Directories"},
@@ -4972,6 +4976,7 @@
       {"hash":"601ebec8c65c95b3","kind":"paragraph","format":"markdown","words":12,"skeleton":"This allows specifying the default options for core Nuxt components and composables."},
       {"hash":"2042a5f9b340e848","kind":"paragraph","format":"markdown","words":17,"skeleton":"These options will likely be moved elsewhere in the future, such as into {0} or into the {1} directory.","placeholders":["code","code"]},
       {"hash":"8b1372f2bcaa29f2","kind":"paragraph","format":"markdown","words":24,"skeleton":"The {0} option controls whether {1} resets state to its initial value (provided by the {2} function of {3}) instead of setting it to {4}. This defaults to {5} with {6}.","placeholders":["code","link","code","link","code","code","code"]},
+      {"hash":"e8d34e0925ae3dbb","kind":"paragraph","format":"markdown","words":19,"skeleton":"The {0} option controls whether {1} passes {2} to {3} when called with the {4} option and {5} is not set. This defaults to {6} with {7}.","placeholders":["code","link","code","code","code","code","code","code"]},
       {"hash":"33bb2c2d57e0e6f5","kind":"heading","format":"markdown","words":1,"skeleton":"purgeCachedData"},
       {"hash":"e173ce56c0e626fd","kind":"paragraph","format":"markdown","words":12,"skeleton":"Whether to clean up Nuxt static and asyncData caches on route navigation."},
       {"hash":"8165b1bb32d1ed1c","kind":"paragraph","format":"markdown","words":28,"skeleton":"Nuxt will automatically purge cached data from {0} and {1}. This helps prevent memory leaks and ensures fresh data is loaded when needed, but it is possible to disable it.","placeholders":["code","code"]},
@@ -5254,7 +5259,7 @@
       {"hash":"9b7b70b893b5ff0e","kind":"paragraph","format":"markdown","words":18,"skeleton":"Within the Vue part of your Nuxt app, you will need to call {0} to access the runtime config.","placeholders":["link"]},
       {"hash":"ca8c977be6326362","kind":"component-slot","format":"markdown","words":9,"skeleton":"The behavior is different between the client-side and server-side:"},
       {"hash":"85893a2cbe0b9691","kind":"list-item","format":"markdown","words":22,"skeleton":"On client-side, only keys in {0} and {1} (which is used by Nuxt internally) are available, and the object is both writable and reactive.","placeholders":["code","code"]},
-      {"hash":"d7d511b882d3164e","kind":"list-item","format":"markdown","words":16,"skeleton":"On server-side, the entire runtime config is available, but it is read-only to avoid context sharing."},
+      {"hash":"9d5b0d4e0a21574e","kind":"list-item","format":"markdown","words":61,"skeleton":"On server-side, the entire runtime config is available, but it is read-only to avoid context sharing. When the server is built with {0}Nitro v3{/0}, it is a single object shared by every request, so a change made while rendering one request is visible to all later ones. In development, Nuxt then logs a warning when it is mutated during server-side rendering.","placeholders":["link"]},
       {"hash":"7944b95ac76e2af9","kind":"component-slot","format":"markdown","words":21,"skeleton":"**Security note:** Be careful not to expose runtime config keys to the client-side by either rendering them or passing them to {0}.","placeholders":["code"]},
       {"hash":"9514b7ff4860ead7","kind":"heading","format":"markdown","words":1,"skeleton":"Plugins"},
       {"hash":"9785133e5ad6f3e1","kind":"paragraph","format":"markdown","words":19,"skeleton":"If you want to use the runtime config within any (custom) plugin, you can use {0} inside of your {1} function.","placeholders":["link","code"]},
@@ -6059,6 +6064,7 @@
       {"hash":"b69794c6174ab61b","kind":"list-item","format":"markdown","words":26,"skeleton":"{0}: Event emitted when the default slot of the component throws an error. For an error caught during server-side rendering, it is emitted on the server only.","placeholders":["code"]},
       {"hash":"4fd72c06bcff7971","kind":"heading","format":"markdown","words":1,"skeleton":"Slots"},
       {"hash":"cb8aa2083e180946","kind":"list-item","format":"markdown","words":10,"skeleton":"{0}: Specify a fallback content to display in case of error.","placeholders":["code"]},
+      {"hash":"f07153494a77aa07","kind":"component-slot","format":"markdown","words":30,"skeleton":"The slot also exposes {0} as a deprecated alias of {1}. Use {2}: if a template does not destructure {3} from the slot props, it calls the auto-imported {4} instead, which clears the **global** error.","placeholders":["code","code","code","code","link"]},
       {"hash":"d029f87e3d80f8fd","kind":"heading","format":"markdown","words":1,"skeleton":"Example"},
       {"hash":"b5b5eea1101df26a","kind":"heading","format":"markdown","words":4,"skeleton":"Accessing {0} and {1} in Script","placeholders":["code","code"]},
       {"hash":"dea2a60454738f23","kind":"paragraph","format":"markdown","words":11,"skeleton":"You can access {0} and {1} properties within the component's script as below:","placeholders":["code","code"]}
@@ -6312,6 +6318,7 @@
       {"hash":"0eb46399b55bacaf","kind":"paragraph","format":"markdown","words":18,"skeleton":"If your {0} function does not support abort signals, you can implement your own abort logic using the {1} provided.","placeholders":["code","code"]},
       {"hash":"358642d485512fe6","kind":"paragraph","format":"markdown","words":7,"skeleton":"The handler signal will be aborted when:"},
       {"hash":"2313e8b1d3988b79","kind":"list-item","format":"markdown","words":6,"skeleton":"A new request is made with {0}","placeholders":["code"]},
+      {"hash":"1af0363d41ad5ec8","kind":"list-item","format":"markdown","words":7,"skeleton":"A new execution with {0} is served from {1}","placeholders":["code","code"]},
       {"hash":"4845e357ab7d4016","kind":"list-item","format":"markdown","words":4,"skeleton":"The {0} function is called","placeholders":["code"]},
       {"hash":"635a7824c238402b","kind":"list-item","format":"markdown","words":4,"skeleton":"The {0} duration is exceeded","placeholders":["code"]},
       {"hash":"5f901fe179c63453","kind":"component-slot","format":"markdown","words":17,"skeleton":"{0} is a reserved function name transformed by the compiler, so you should not name your own function {1}.","placeholders":["link","link"]},
@@ -6840,7 +6847,7 @@
       {"hash":"24e864275d297415","kind":"table-cell","format":"markdown","words":18,"skeleton":"A function executed **only on the server** (called when SSR rendering is done) to set the initial value."},
       {"hash":"a00644508de97e85","kind":"table-cell","format":"markdown","words":0,"skeleton":"{0}","placeholders":["code"]},
       {"hash":"a00644508de97e85","kind":"table-cell","format":"markdown","words":0,"skeleton":"{0}","placeholders":["code"]},
-      {"hash":"af2569a55d354597","kind":"table-cell","format":"markdown","words":18,"skeleton":"A function executed **only on the client** (called when initial Vue instance is created) to receive the data."},
+      {"hash":"8b74e0f00e9bc364","kind":"table-cell","format":"markdown","words":24,"skeleton":"A function executed **only on the client** (called when the app is created, or immediately when registered later during hydration) to receive the data."},
       {"hash":"c9edc9e1cccf8003","kind":"heading","format":"markdown","words":2,"skeleton":"Return Values"},
       {"hash":"a76f8c01a5040644","kind":"paragraph","format":"markdown","words":7,"skeleton":"This composable does not return any value."}
     ],
@@ -7452,6 +7459,10 @@
       {"hash":"a00644508de97e85","kind":"heading","format":"markdown","words":0,"skeleton":"{0}","placeholders":["code"]},
       {"hash":"580392543601d58d","kind":"list-item","format":"markdown","words":1,"skeleton":"**Type:** {0}","placeholders":["code"]},
       {"hash":"9d7f941fc4a97a38","kind":"paragraph","format":"markdown","words":24,"skeleton":"An optional {0} argument lets you set the value of {1} to {2} to indicate whether the router middleware is global or not (set to {3} by default).","placeholders":["code","code","code","code"]},
+      {"hash":"4329767c30021f6e","kind":"heading","format":"markdown","words":2,"skeleton":"Return Value"},
+      {"hash":"d71faa55ffa20d60","kind":"paragraph","format":"markdown","words":24,"skeleton":"{0} returns a function that removes the middleware again. This is useful for middleware that only applies for part of the lifetime of your app:","placeholders":["code"]},
+      {"hash":"506eacfa4118a613","kind":"paragraph","format":"markdown","words":26,"skeleton":"When registering middleware from a component, call the returned function when the component is unmounted, for example with {0}. To guard leaving the current page, use {1} instead.","placeholders":["code","link"]},
+      {"hash":"e3dee5069af32aee","kind":"paragraph","format":"markdown","words":30,"skeleton":"Removing a named middleware that overrides one in the {0} directory restores the original. If the name has since been registered again with a different function, the returned function does nothing.","placeholders":["code"]},
       {"hash":"d029f87e3d80f8fd","kind":"heading","format":"markdown","words":1,"skeleton":"Example"},
       {"hash":"de4a4ea149e39cb3","kind":"heading","format":"markdown","words":3,"skeleton":"Named Route Middleware"},
       {"hash":"d35f3dd8f54d0e4b","kind":"paragraph","format":"markdown","words":19,"skeleton":"Named route middleware is defined by providing a string as the first argument and a function as the second:"},
@@ -7915,7 +7926,7 @@
       {"hash":"4e10d15694f4f0db","kind":"list-item","format":"markdown","words":22,"skeleton":"Allows navigating to an external URL when set to {0}. Otherwise, {1} will throw an error, as external navigation is not allowed by default.","placeholders":["code","code"]},
       {"hash":"a00644508de97e85","kind":"list-item","format":"markdown","words":0,"skeleton":"{0}","placeholders":["code"]},
       {"hash":"332c963f865ed314","kind":"list-item","format":"markdown","words":1,"skeleton":"**Type**: {0}","placeholders":["code"]},
-      {"hash":"fabdbb4a98a1d759","kind":"list-item","format":"markdown","words":29,"skeleton":"Allows navigating to the URL using the {0}open(){/0} method of the window. This option is only applicable on the client side and will be ignored on the server side.","placeholders":["link"]},
+      {"hash":"0b8ee5f7fd34c4a7","kind":"list-item","format":"markdown","words":33,"skeleton":"Allows navigating to the URL using the {0}open(){/0} method of the window. This is only supported on the client side; on the server, {1} with {2} is a no-op, though script-protocol URLs are still rejected.","placeholders":["link","code","code"]},
       {"hash":"dd092a59b23f4b19","kind":"list-item","format":"markdown","words":6,"skeleton":"An object accepting the following properties:"},
       {"hash":"a00644508de97e85","kind":"list-item","format":"markdown","words":0,"skeleton":"{0}","placeholders":["code"]},
       {"hash":"332c963f865ed314","kind":"list-item","format":"markdown","words":1,"skeleton":"**Type**: {0}","placeholders":["code"]},
@@ -7948,7 +7959,9 @@
       {"hash":"a00644508de97e85","kind":"table-cell","format":"markdown","words":0,"skeleton":"{0}","placeholders":["code"]},
       {"hash":"a00644508de97e85","kind":"table-cell","format":"markdown","words":0,"skeleton":"{0}","placeholders":["code"]},
       {"hash":"f27a74958e2cd5c8","kind":"table-cell","format":"markdown","words":10,"skeleton":"Prevents the Referer header from being sent and implicitly enables {0}.","placeholders":["code"]},
-      {"hash":"93a26e2029afea48","kind":"list-item","format":"markdown","words":12,"skeleton":"Refer to the {0}documentation{/0} for more detailed information on the **windowFeatures** properties.","placeholders":["link"]}
+      {"hash":"93a26e2029afea48","kind":"list-item","format":"markdown","words":12,"skeleton":"Refer to the {0}documentation{/0} for more detailed information on the **windowFeatures** properties.","placeholders":["link"]},
+      {"hash":"2a947f98322137e3","kind":"component-slot","format":"markdown","words":64,"skeleton":"With {0}, {1} is enabled by default, so the opened page cannot access your application through {2} unless you disable it for that call or app-wide. A named {3} other than {4}, {5} and {6} then always opens a new window instead of reusing an existing one. Set it to {7} for a page that needs {8}, such as an OAuth popup that posts its result back, or to reuse a named window:","placeholders":["code","code","code","code","code","code","code","code","code"]},
+      {"hash":"7e4760eb81b736a0","kind":"component-slot","format":"markdown","words":9,"skeleton":"To change the default for your whole application, set {0}.","placeholders":["link"]}
     ],
     "docs/4.api/3.utils/on-before-route-leave.md": [
       {"hash":"c577bb42ee1f52a9","kind":"frontmatter","format":"plain","words":1,"skeleton":"onBeforeRouteLeave"},
@@ -12398,6 +12411,18 @@
       {"hash":"f9f098ad40e1ab3b","kind":"paragraph","format":"markdown","words":29,"skeleton":"{0} was called with a key that is not a string. The key is used to track whether the function has already run, so it must be a non-empty string.","placeholders":["code"]},
       {"hash":"d4055fafa3794fa8","kind":"heading","format":"markdown","words":1,"skeleton":"Resolution"},
       {"hash":"e516ba1b29fbda9d","kind":"code-comment","format":"plain","words":2,"skeleton":"runs once"}
+    ],
+    "docs/errors/e7011.md": [
+      {"hash":"dfd2bb9ccf91b7ab","kind":"frontmatter","format":"plain","words":2,"skeleton":"NUXT_E7011"},
+      {"hash":"a18fe42fd1220613","kind":"frontmatter","format":"plain","words":6,"skeleton":"A cookie could not be written."},
+      {"hash":"b3816b00c56ce7d0","kind":"heading","format":"markdown","words":1,"skeleton":"E7011"},
+      {"hash":"a287f27781353db8","kind":"paragraph","format":"markdown","words":19,"skeleton":"{0} could not serialize a cookie for the {1} header or {2}. The original error is attached as {3}. It is raised when:","placeholders":["code","code","code","code"]},
+      {"hash":"ab035ae422f11a3a","kind":"list-item","format":"markdown","words":17,"skeleton":"the cookie name contains characters that are not allowed in a cookie name, such as spaces, {0} or {1}","placeholders":["code","code"]},
+      {"hash":"5b3d1a0b90f69c94","kind":"list-item","format":"markdown","words":16,"skeleton":"the value returned by a custom {0} contains characters that are not allowed in a cookie value","placeholders":["code"]},
+      {"hash":"84538b686b38d7f0","kind":"list-item","format":"markdown","words":15,"skeleton":"the attributes are inconsistent, for example {0}, {1} or a {2} / {3} name without {4}, or a {5} cookie with a {6}","placeholders":["code","code","code","code","code","code","code"]},
+      {"hash":"ef6d8e8130ebe3a4","kind":"list-item","format":"markdown","words":12,"skeleton":"an attribute is invalid, for example a {0} that is not an integer","placeholders":["code"]},
+      {"hash":"d4055fafa3794fa8","kind":"heading","format":"markdown","words":1,"skeleton":"Resolution"},
+      {"hash":"a10f523538782580","kind":"paragraph","format":"markdown","words":17,"skeleton":"Use a valid cookie name, return an encoded string from {0}, and set {1} for cookies that require it:","placeholders":["code","code"]}
     ],
     "docs/errors/e8007.md": [
       {"hash":"0c48cf6f2b5b8d1a","kind":"frontmatter","format":"plain","words":2,"skeleton":"NUXT_E8007"},

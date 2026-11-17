@@ -1,0 +1,14 @@
+{
+  "hash": "2a947f98322137e3",
+  "source": "With {0}, {1} is enabled by default, so the opened page cannot access your application through {2} unless you disable it for that call or app-wide. A named {3} other than {4}, {5} and {6} then always opens a new window instead of reusing an existing one. Set it to {7} for a page that needs {8}, such as an OAuth popup that posts its result back, or to reuse a named window:",
+  "text": "Avec {0}, {1} est activé par défaut : la page ouverte ne peut donc pas accéder à votre application via {2}, sauf si vous le désactivez pour cet appel ou pour toute l'application. Un {3} nommé autre que {4}, {5} et {6} ouvre alors toujours une nouvelle fenêtre au lieu de réutiliser une fenêtre existante. Définissez-le sur {7} pour une page qui a besoin de {8}, comme une popup OAuth qui renvoie son résultat, ou pour réutiliser une fenêtre nommée :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avec {0}, {1} est activé par défaut : la page ouverte ne peut donc pas accéder à votre application via {2}, sauf si vous le désactivez pour cet appel ou pour toute l'application. Un {3} nommé autre que {4}, {5} et {6} ouvre alors toujours une nouvelle fenêtre au lieu de réutiliser une fenêtre existante. Définissez-le sur {7} pour une page qui a besoin de {8}, comme une popup OAuth qui renvoie son résultat, ou pour réutiliser une fenêtre nommée :"
+  },
+  "updatedAt": "2026-11-17T16:30:54.426Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "640d25d60489a059",
+  "source": "**{0} for {1}**: windows opened with {2} get {3} by default ({4}), so they cannot access {5}",
+  "text": "**{0} pour {1}** : les fenêtres ouvertes avec {2} reçoivent {3} par défaut ({4}), elles ne peuvent donc pas accéder à {5}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0} pour {1}** : les fenêtres ouvertes avec {2} reçoivent {3} par défaut ({4}), elles ne peuvent donc pas accéder à {5}"
+  },
+  "updatedAt": "2026-11-17T16:30:54.426Z"
+}
