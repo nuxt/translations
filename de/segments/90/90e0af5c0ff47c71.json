@@ -1,0 +1,14 @@
+{
+  "hash": "90e0af5c0ff47c71",
+  "source": "**Runtime config per request**: environment variables are applied once, when the server starts, rather than again for each request. The object that {0} returns without an event isn't frozen.",
+  "text": "**Laufzeitkonfiguration pro Anfrage**: Umgebungsvariablen werden einmalig beim Start des Servers angewendet und nicht erneut für jede Anfrage. Das Objekt, das {0} ohne Event zurückgibt, ist nicht eingefroren.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Laufzeitkonfiguration pro Anfrage**: Umgebungsvariablen werden einmalig beim Start des Servers angewendet und nicht erneut für jede Anfrage. Das Objekt, das {0} ohne Event zurückgibt, ist nicht eingefroren."
+  },
+  "updatedAt": "2026-11-17T20:08:42.323Z"
+}

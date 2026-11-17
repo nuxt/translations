@@ -1,0 +1,15 @@
+{
+  "hash": "444e38eef2b18f97",
+  "source": "On Nuxt 4 with Nitro v3, the {0} option is enabled by default, so server code written for Nitro v2 keeps running. This covers imports from {1}, {2} and {3}, the Nitro v2 auto-imports, {4}, {5}, and Nitro v2 hooks such as {6}. It also covers {7} helpers that your app code imports and calls during server rendering, such as {8} in a component or composable.",
+  "text": "Bei Nuxt 4 mit Nitro v3 ist die Option {0} standardmäßig aktiviert, sodass für Nitro v2 geschriebener Servercode weiterläuft. Das betrifft Importe aus {1}, {2} und {3}, die automatischen Importe von Nitro v2, {4}, {5} sowie Nitro-v2-Hooks wie {6}. Es betrifft auch {7}-Hilfsprogramme, die dein App-Code importiert und beim Server-Rendering aufruft, etwa {8} in einer Komponente oder einem Composable.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "14b531763400a87f",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bei Nuxt 4 mit Nitro v3 ist die Option {0} standardmäßig aktiviert, sodass für Nitro v2 geschriebener Servercode weiterläuft. Das betrifft Importe aus {1}, {2} und {3}, die automatischen Importe von Nitro v2, {4}, {5} sowie Nitro-v2-Hooks wie {6}. Es betrifft auch {7}-Hilfsprogramme, die dein App-Code importiert und beim Server-Rendering aufruft, etwa {8} in einer Komponente oder einem Composable."
+  },
+  "updatedAt": "2026-11-17T20:08:42.323Z"
+}

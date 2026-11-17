@@ -1,0 +1,14 @@
+{
+  "hash": "7caa44ea48053d00",
+  "source": "**Nitro as a Vite environment**: {0} isn't supported on Nuxt 4. Nuxt turns it off, reports {1}, and builds the server with Nitro's own bundler.",
+  "text": "**Nitro comme environnement Vite** : {0} n'est pas pris en charge sur Nuxt 4. Nuxt le désactive, signale {1} et compile le serveur avec le bundler propre à Nitro.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Nitro comme environnement Vite** : {0} n'est pas pris en charge sur Nuxt 4. Nuxt le désactive, signale {1} et compile le serveur avec le bundler propre à Nitro."
+  },
+  "updatedAt": "2026-11-17T20:08:42.323Z"
+}

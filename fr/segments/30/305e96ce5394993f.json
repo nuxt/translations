@@ -1,0 +1,14 @@
+{
+  "hash": "305e96ce5394993f",
+  "source": "**Top-level {0} in server plugins**: {1} doesn't start when the module of a server plugin uses a top-level {2}, because of a {3}bug in Rolldown{/3}, the bundler that Nitro v3 uses by default. Production builds aren't affected. Until the bug is fixed, run the dev server with the {4} environment variable.",
+  "text": "**{0} de premier niveau dans les plugins serveur** : {1} ne démarre pas lorsque le module d'un plugin serveur utilise un {2} de premier niveau, à cause d'un {3}bug dans Rolldown{/3}, le bundler que Nitro v3 utilise par défaut. Les builds de production ne sont pas concernés. En attendant la correction du bug, lancez le serveur de développement avec la variable d'environnement {4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0} de premier niveau dans les plugins serveur** : {1} ne démarre pas lorsque le module d'un plugin serveur utilise un {2} de premier niveau, à cause d'un {3}bug dans Rolldown{/3}, le bundler que Nitro v3 utilise par défaut. Les builds de production ne sont pas concernés. En attendant la correction du bug, lancez le serveur de développement avec la variable d'environnement {4}."
+  },
+  "updatedAt": "2026-11-17T20:08:42.323Z"
+}

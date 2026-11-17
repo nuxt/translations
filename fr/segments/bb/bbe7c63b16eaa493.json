@@ -1,0 +1,15 @@
+{
+  "hash": "bbe7c63b16eaa493",
+  "source": "**JSON error responses**: the body carries {0} and {1}. While {2} is on, it also carries {3} and {4}. It has no {5}. For an error thrown while rendering a page, the body includes the {6} of the error in production, where Nitro v2 sent {7}.",
+  "text": "**Réponses d'erreur JSON** : le corps contient {0} et {1}. Lorsque {2} est activé, il contient aussi {3} et {4}. Il n'a pas de {5}. Pour une erreur levée pendant le rendu d'une page, le corps inclut le {6} de l'erreur en production, là où Nitro v2 envoyait {7}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "11978b46b85dd564",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Réponses d'erreur JSON** : le corps contient {0} et {1}. Lorsque {2} est activé, il contient aussi {3} et {4}. Il n'a pas de {5}. Pour une erreur levée pendant le rendu d'une page, le corps inclut le {6} de l'erreur en production, là où Nitro v2 envoyait {7}."
+  },
+  "updatedAt": "2026-11-17T20:08:42.323Z"
+}
