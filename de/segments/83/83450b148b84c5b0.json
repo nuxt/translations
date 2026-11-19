@@ -1,0 +1,14 @@
+{
+  "hash": "83450b148b84c5b0",
+  "source": "With {0} on, Nuxt also removes any server alias that points {1} at h3 v1, such as one a module sets so that {2} resolves to the copy {3} depends on, and reports it with {4}. Nitro v3 can't run h3 v1, so with the alias removed, Nitro v2 code gets the h3 v1 helpers and other server code gets h3 v2.",
+  "text": "Ist {0} aktiviert, entfernt Nuxt außerdem jeden Server-Alias, der {1} auf h3 v1 verweisen lässt, etwa einen, den ein Modul setzt, damit {2} auf die Kopie aufgelöst wird, von der {3} abhängt, und meldet dies mit {4}. Nitro v3 kann h3 v1 nicht ausführen. Ohne den Alias erhält Nitro-v2-Code daher die Hilfsfunktionen von h3 v1, während anderer Server-Code h3 v2 verwendet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ist {0} aktiviert, entfernt Nuxt außerdem jeden Server-Alias, der {1} auf h3 v1 verweisen lässt, etwa einen, den ein Modul setzt, damit {2} auf die Kopie aufgelöst wird, von der {3} abhängt, und meldet dies mit {4}. Nitro v3 kann h3 v1 nicht ausführen. Ohne den Alias erhält Nitro-v2-Code daher die Hilfsfunktionen von h3 v1, während anderer Server-Code h3 v2 verwendet."
+  },
+  "updatedAt": "2026-11-19T09:01:08.378Z"
+}

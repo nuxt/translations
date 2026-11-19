@@ -1,0 +1,15 @@
+{
+  "hash": "b2f8eaca603a667d",
+  "source": "Nitro v2 config shapes, dotted server file names, and removed-option warnings",
+  "text": "Konfigurationsstrukturen von Nitro v2, Servernamen mit Punkten in Dateinamen und Warnungen zu entfernten Optionen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "9f2353468d2b5016",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Konfigurationsstrukturen von Nitro v2, Servernamen mit Punkten in Dateinamen und Warnungen zu entfernten Optionen"
+  },
+  "updatedAt": "2026-11-19T09:01:08.378Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "957ced6a9d6ccc5f",
+  "source": "The build warns with {0} and lists the suffixes to add. Nitro v2 kept these suffixes as part of the name, so with {1} on, Nuxt adds them to {2} for you and lists the files with {3}.",
+  "text": "Der Build warnt mit {0} und listet die Suffixe auf, die du hinzufügen musst. Nitro v2 hat diese Suffixe als Teil des Namens beibehalten. Ist {1} aktiviert, hängt Nuxt sie deshalb automatisch an {2} an und listet die betroffenen Dateien mit {3} auf.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Build warnt mit {0} und listet die Suffixe auf, die du hinzufügen musst. Nitro v2 hat diese Suffixe als Teil des Namens beibehalten. Ist {1} aktiviert, hängt Nuxt sie deshalb automatisch an {2} an und listet die betroffenen Dateien mit {3} auf."
+  },
+  "updatedAt": "2026-11-19T09:01:08.378Z"
+}

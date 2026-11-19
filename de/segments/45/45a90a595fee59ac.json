@@ -1,0 +1,14 @@
+{
+  "hash": "45a90a595fee59ac",
+  "source": "On Nuxt 4 with Nitro v3, when {0} is on, error responses carry the {1}, {2} and {3} headers, and JSON error responses also carry {4}. On Nuxt 5, and on Nuxt 4 with {5} off, Nuxt doesn't add these headers to error responses.",
+  "text": "Bei Nuxt 4 mit Nitro v3 enthalten Fehlerantworten bei aktiviertem {0} die Header {1}, {2} und {3}, JSON-Fehlerantworten zusätzlich {4}. Bei Nuxt 5 sowie bei Nuxt 4 mit deaktiviertem {5} fügt Nuxt diese Header den Fehlerantworten nicht hinzu.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bei Nuxt 4 mit Nitro v3 enthalten Fehlerantworten bei aktiviertem {0} die Header {1}, {2} und {3}, JSON-Fehlerantworten zusätzlich {4}. Bei Nuxt 5 sowie bei Nuxt 4 mit deaktiviertem {5} fügt Nuxt diese Header den Fehlerantworten nicht hinzu."
+  },
+  "updatedAt": "2026-11-19T09:01:08.378Z"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "fb74da52b2b250c9",
+  "source": "**Runtime hooks**: {0}, {1} and {2} have been replaced by {3}. The {4} hook is emitted only while the {5}Nitro v2 compatibility layer{/5} is active; to respond before a page renders, return a {6} from a server middleware.",
+  "text": "**Runtime-Hooks**: {0}, {1} und {2} wurden durch {3} ersetzt. Der Hook {4} wird nur ausgelöst, solange die {5}Nitro-v2-Kompatibilitätsschicht{/5} aktiv ist; um vor dem Rendern einer Seite zu antworten, gib aus einer Server-Middleware ein {6} zurück.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "a90527c99ae443ba",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Runtime-Hooks**: {0}, {1} und {2} wurden durch {3} ersetzt. Der Hook {4} wird nur ausgelöst, solange die {5}Nitro-v2-Kompatibilitätsschicht{/5} aktiv ist; um vor dem Rendern einer Seite zu antworten, gib aus einer Server-Middleware ein {6} zurück."
+  },
+  "updatedAt": "2026-11-19T09:01:08.378Z"
+}

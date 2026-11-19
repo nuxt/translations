@@ -1,0 +1,14 @@
+{
+  "hash": "9d2a61fdcc6ad6ec",
+  "source": "The {0}, {1}, {2} and {3} hooks need no switch. Whenever the layer is active, for your code or for a module's, Nuxt emits {4} and {5} from the Nitro v3 {6} hook, and {7} and {8} around each page render. It reports any case it can't handle. Nitro v2 plugins that the layer covers, and {9} imported from {10}, also get a {11} that always returns a promise, as in Nitro v2, so {12} keeps working.",
+  "text": "Die Hooks {0}, {1}, {2} und {3} erfordern keinen Schalter. Solange der Layer aktiv ist, sei es für deinen Code oder für den eines Moduls, sendet Nuxt {4} und {5} aus dem Nitro-v3-Hook {6} sowie {7} und {8} um jedes Rendern einer Seite herum. Nuxt meldet jeden Fall, den es nicht verarbeiten kann. Nitro-v2-Plugins, die der Layer abdeckt, und {9}, das aus {10} importiert wird, erhalten außerdem ein {11}, das wie in Nitro v2 immer ein Promise zurückgibt, sodass {12} weiterhin funktioniert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Hooks {0}, {1}, {2} und {3} erfordern keinen Schalter. Solange der Layer aktiv ist, sei es für deinen Code oder für den eines Moduls, sendet Nuxt {4} und {5} aus dem Nitro-v3-Hook {6} sowie {7} und {8} um jedes Rendern einer Seite herum. Nuxt meldet jeden Fall, den es nicht verarbeiten kann. Nitro-v2-Plugins, die der Layer abdeckt, und {9}, das aus {10} importiert wird, erhalten außerdem ein {11}, das wie in Nitro v2 immer ein Promise zurückgibt, sodass {12} weiterhin funktioniert."
+  },
+  "updatedAt": "2026-11-19T09:01:08.378Z"
+}

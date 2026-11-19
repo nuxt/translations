@@ -1,0 +1,15 @@
+{
+  "hash": "925ddde18da6a49f",
+  "source": "With it on, {0}, {1}, {2}, {3}, {4}, auto-imports from subdirectories of {5}, handlers registered without a {6}, and server files with a dotted suffix in their names, such as {7}, all keep working. A handler that returns a string still sends it as {8} unless it sets a content type, and a handler that returns {9} still responds with {10}, or with the status it set.",
+  "text": "Une fois l'option activée, {0}, {1}, {2}, {3}, {4}, les imports automatiques depuis les sous-répertoires de {5}, les handlers enregistrés sans {6}, et les fichiers serveur dont le nom comporte un suffixe avec un point, comme {7}, continuent tous de fonctionner. Un handler qui retourne une chaîne de caractères l'envoie toujours en tant que {8}, sauf s'il définit un type de contenu, et un handler qui retourne {9} répond toujours avec {10}, ou avec le statut qu'il a défini.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "0986cd58d889a3bc",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une fois l'option activée, {0}, {1}, {2}, {3}, {4}, les imports automatiques depuis les sous-répertoires de {5}, les handlers enregistrés sans {6}, et les fichiers serveur dont le nom comporte un suffixe avec un point, comme {7}, continuent tous de fonctionner. Un handler qui retourne une chaîne de caractères l'envoie toujours en tant que {8}, sauf s'il définit un type de contenu, et un handler qui retourne {9} répond toujours avec {10}, ou avec le statut qu'il a défini."
+  },
+  "updatedAt": "2026-11-19T09:01:08.378Z"
+}
