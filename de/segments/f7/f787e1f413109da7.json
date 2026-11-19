@@ -1,0 +1,14 @@
+{
+  "hash": "f787e1f413109da7",
+  "source": "A {0} value reaches the client only if it is assigned before the shell is flushed: in a plugin, in route middleware, or in {1} before any {2}. A later assignment, for example in an async component under {3}, is dropped, and logs a warning in development. A cookie assigned before a server-side {4}, or before an error raised before the shell is flushed, is sent with the redirect or error response.",
+  "text": "Ein {0}-Wert erreicht den Client nur, wenn er zugewiesen wird, bevor die Shell ausgeliefert wird: in einem Plugin, in einer Routen-Middleware oder in {1} vor jedem {2}. Eine spätere Zuweisung, z. B. in einer asynchronen Komponente unter {3}, wird verworfen und protokolliert in der Entwicklung eine Warnung. Ein Cookie, das vor einer serverseitigen {4} oder vor einem Fehler zugewiesen wird, der vor dem Ausliefern der Shell auftritt, wird mit der Weiterleitungs- bzw. Fehlerantwort gesendet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein {0}-Wert erreicht den Client nur, wenn er zugewiesen wird, bevor die Shell ausgeliefert wird: in einem Plugin, in einer Routen-Middleware oder in {1} vor jedem {2}. Eine spätere Zuweisung, z. B. in einer asynchronen Komponente unter {3}, wird verworfen und protokolliert in der Entwicklung eine Warnung. Ein Cookie, das vor einer serverseitigen {4} oder vor einem Fehler zugewiesen wird, der vor dem Ausliefern der Shell auftritt, wird mit der Weiterleitungs- bzw. Fehlerantwort gesendet."
+  },
+  "updatedAt": "2026-11-19T15:47:32.321Z"
+}

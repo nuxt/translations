@@ -1,0 +1,14 @@
+{
+  "hash": "f787e1f413109da7",
+  "source": "A {0} value reaches the client only if it is assigned before the shell is flushed: in a plugin, in route middleware, or in {1} before any {2}. A later assignment, for example in an async component under {3}, is dropped, and logs a warning in development. A cookie assigned before a server-side {4}, or before an error raised before the shell is flushed, is sent with the redirect or error response.",
+  "text": "Une valeur {0} n'atteint le client que si elle est assignée avant que le shell ne soit envoyé : dans un plugin, dans un middleware de route, ou dans {1} avant tout {2}. Une assignation ultérieure, par exemple dans un composant asynchrone sous {3}, est ignorée et génère un avertissement en développement. Un cookie assigné avant un {4} côté serveur, ou avant une erreur levée avant l'envoi du shell, est transmis avec la réponse de redirection ou d'erreur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une valeur {0} n'atteint le client que si elle est assignée avant que le shell ne soit envoyé : dans un plugin, dans un middleware de route, ou dans {1} avant tout {2}. Une assignation ultérieure, par exemple dans un composant asynchrone sous {3}, est ignorée et génère un avertissement en développement. Un cookie assigné avant un {4} côté serveur, ou avant une erreur levée avant l'envoi du shell, est transmis avec la réponse de redirection ou d'erreur."
+  },
+  "updatedAt": "2026-11-19T15:47:32.321Z"
+}

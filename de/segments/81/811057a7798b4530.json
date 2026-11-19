@@ -1,0 +1,15 @@
+{
+  "hash": "811057a7798b4530",
+  "source": "To keep a response mutation, move it into a plugin or route middleware, or opt the route out of streaming:",
+  "text": "Um eine Änderung an der Antwort beizubehalten, verlagere sie in ein plugin oder eine Routen-Middleware oder nimm die Route vom Streaming aus:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "c66931100d025564",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um eine Änderung an der Antwort beizubehalten, verlagere sie in ein plugin oder eine Routen-Middleware oder nimm die Route vom Streaming aus:"
+  },
+  "updatedAt": "2026-11-19T15:47:32.321Z"
+}

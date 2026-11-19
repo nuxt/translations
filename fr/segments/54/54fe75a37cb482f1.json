@@ -1,0 +1,15 @@
+{
+  "hash": "54fe75a37cb482f1",
+  "source": "**Dropped**: {0}, {1} and h3 {2}/{3} calls made later during component rendering (after an {4} in {5}, or in an async component under {6}), since that work can happen after the shell is already on the wire.",
+  "text": "**Ignoré** : les écritures de {0}, {1} et les appels h3 {2}/{3} effectués plus tard pendant le rendu des composants (après un {4} dans {5}, ou dans un composant asynchrone sous {6}), car ce travail peut avoir lieu une fois que l'enveloppe est déjà envoyée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "40259bc20028b153",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Ignoré** : les écritures de {0}, {1} et les appels h3 {2}/{3} effectués plus tard pendant le rendu des composants (après un {4} dans {5}, ou dans un composant asynchrone sous {6}), car ce travail peut avoir lieu une fois que l'enveloppe est déjà envoyée."
+  },
+  "updatedAt": "2026-11-19T15:47:32.321Z"
+}
