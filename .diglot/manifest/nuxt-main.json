@@ -2,7 +2,7 @@
   "version": 1,
   "source": "nuxt-main",
   "ref": "main",
-  "sha": "ecfdcc4a18538ede7525f631f2763acad9431d26",
+  "sha": "021183c16306246c175532a8f82ea4efba395688",
   "policy": "f6e446c627d4102c",
   "files": {
     "docs/.navigation.yml": [
@@ -3845,7 +3845,7 @@
       {"hash":"15ca7e7d90535dc8","kind":"prop","format":"plain","words":1,"skeleton":"NuxtLink"},
       {"hash":"6ab48523dbb66d1a","kind":"heading","format":"markdown","words":2,"skeleton":"Resource Hints"},
       {"hash":"46c28f07d05ba462","kind":"paragraph","format":"markdown","words":49,"skeleton":"To speed up client-side navigation, Nuxt adds resource hints for the JavaScript and CSS chunks a request resolves. {0} (or {1}) marks the chunks the page itself needs, while {2} marks the chunks the entry point and the rendered components lazy-import, so they are warm if the user later navigates to them.","placeholders":["code","code","code"]},
-      {"hash":"c6603c626b2bb9f0","kind":"paragraph","format":"markdown","words":100,"skeleton":"Preload hints take effect as soon as the HTML is parsed. Prefetch hints are rendered with {0} in place of {1}, so the browser ignores them until Nuxt activates them once the app is ready (see {2}). They are also left out of the {3} response header and 103 Early Hints. That way they do not compete with the page's own resources while it loads. You can turn this off with {4}. On a connection with data saver enabled, or a 2G connection, they are not activated at all. Routes served with {5} have no client to activate them, so their non-script prefetch hints are rendered with {6}.","placeholders":["code","code","link","code","link","link","code"]},
+      {"hash":"7cbf453d0132a76f","kind":"paragraph","format":"markdown","words":99,"skeleton":"Preload hints take effect as soon as the HTML is parsed. Prefetch hints are rendered inside a {0} element, so the browser ignores them until Nuxt activates them once the app is ready (see {1}). They are also left out of the {2} response header and 103 Early Hints. That way they do not compete with the page's own resources while it loads. You can turn this off with {3}. On a connection with data saver enabled, or a 2G connection, they are not activated at all. Routes served with {4} have no client to activate them, so their non-script prefetch hints are not deferred.","placeholders":["code","link","code","link","link"]},
       {"hash":"55085b28dd323d46","kind":"paragraph","format":"markdown","words":49,"skeleton":"On a large app the prefetched set can grow past what a page actually needs. A public page and the signed-in app often share an entry chunk, so a prerendered public page can prefetch chunks that only the signed-in app uses, spending bandwidth on chunks the visitor never loads."},
       {"hash":"c975cf1bfc12bd8c","kind":"paragraph","format":"markdown","words":16,"skeleton":"To stop a chunk from being prefetched, set {0} to {1} on its manifest entry in the {2} hook:","placeholders":["code","code","link"]},
       {"hash":"235c8cf837b95297","kind":"paragraph","format":"markdown","words":37,"skeleton":"This removes the {0} hint for every chunk whose source lives under {1}, while leaving the chunks in the bundle and the {2} and {3} hints intact. Adjust the {4} prefix to the directory whose chunks your public pages should not prefetch.","placeholders":["code","code","code","code","code"]},
@@ -4937,7 +4937,7 @@
       {"hash":"4f4089b4b9e8a1f6","kind":"paragraph","format":"markdown","words":8,"skeleton":"Enables cross-origin prefetch using the Speculation Rules API."},
       {"hash":"c44ce34b3d5f4fdb","kind":"component-slot","format":"markdown","words":7,"skeleton":"Read more about the **Speculation Rules API**."},
       {"hash":"5a21823d8ff38e7e","kind":"heading","format":"markdown","words":1,"skeleton":"deferPrefetchHints"},
-      {"hash":"7fef6317dbe9d7ae","kind":"paragraph","format":"markdown","words":36,"skeleton":"By default, Nuxt renders the {0} hints for lazily imported chunks with {1} in place of {2}, and activates them once the app is ready (see {3}). This keeps them from competing with the page's own resources while it loads.","placeholders":["code","code","code","link"]},
+      {"hash":"a34a511299f4507b","kind":"paragraph","format":"markdown","words":36,"skeleton":"By default, Nuxt renders the {0} hints for lazily imported chunks inside an inert {1} element, and activates them once the app is ready (see {2}). This keeps them from competing with the page's own resources while it loads.","placeholders":["code","code","link"]},
       {"hash":"87c8ebca72015e38","kind":"paragraph","format":"markdown","words":22,"skeleton":"If you need the browser to start prefetching these chunks as soon as the HTML is parsed, you can disable this feature:"},
       {"hash":"9f994c7c8a57d25d","kind":"heading","format":"markdown","words":1,"skeleton":"viewTransition"},
       {"hash":"f87455b627b11ba7","kind":"paragraph","format":"markdown","words":8,"skeleton":"Enables View Transition API integration with client-side router."},
