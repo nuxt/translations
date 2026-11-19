@@ -1,0 +1,14 @@
+{
+  "hash": "b8417b99d6959f80",
+  "source": "Route Rules: {0} Apply After the Handler",
+  "text": "Route Rules: {0} gelten nach dem Handler",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Route Rules: {0} gelten nach dem Handler"
+  },
+  "updatedAt": "2026-11-19T10:04:22.160Z"
+}

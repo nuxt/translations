@@ -1,0 +1,14 @@
+{
+  "hash": "b8417b99d6959f80",
+  "source": "Route Rules: {0} Apply After the Handler",
+  "text": "Règles de route : les {0} s'appliquent après le gestionnaire",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Règles de route : les {0} s'appliquent après le gestionnaire"
+  },
+  "updatedAt": "2026-11-19T10:04:22.160Z"
+}

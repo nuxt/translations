@@ -1,0 +1,14 @@
+{
+  "hash": "3b070347e08e6931",
+  "source": "With {0} on, build hooks such as {1} can read and write the Nitro v2 build-time storage, {2}. It has the {3}, {4}, {5} (your {6}), {7} and {8} mounts, plus the ones you declare in {9} and {10}. The dev server and the prerenderer get the same {11}, {12} and {13} mounts, so what the prerenderer writes to {14} can be read from {15} once prerendering is done. Your production server doesn't get them. Unlike Nitro v2, cached handlers and functions keep the memory cache driver in development and while prerendering, unless you set {16} or declare a {17} mount yourself.",
+  "text": "Avec {0} activé, les hooks de build tels que {1} peuvent lire et écrire dans le stockage Nitro v2 disponible au moment du build, {2}. Il comporte les montages {3}, {4}, {5} (votre {6}), {7} et {8}, ainsi que ceux que vous déclarez dans {9} et {10}. Le serveur de développement et le moteur de prérendu reçoivent les mêmes montages {11}, {12} et {13}, de sorte que ce que le moteur de prérendu écrit dans {14} peut être lu depuis {15} une fois le prérendu terminé. Votre serveur de production ne les reçoit pas. Contrairement à Nitro v2, les gestionnaires et fonctions mis en cache conservent le driver de cache en mémoire en développement et pendant le prérendu, sauf si vous définissez {16} ou déclarez vous-même un montage {17}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avec {0} activé, les hooks de build tels que {1} peuvent lire et écrire dans le stockage Nitro v2 disponible au moment du build, {2}. Il comporte les montages {3}, {4}, {5} (votre {6}), {7} et {8}, ainsi que ceux que vous déclarez dans {9} et {10}. Le serveur de développement et le moteur de prérendu reçoivent les mêmes montages {11}, {12} et {13}, de sorte que ce que le moteur de prérendu écrit dans {14} peut être lu depuis {15} une fois le prérendu terminé. Votre serveur de production ne les reçoit pas. Contrairement à Nitro v2, les gestionnaires et fonctions mis en cache conservent le driver de cache en mémoire en développement et pendant le prérendu, sauf si vous définissez {16} ou déclarez vous-même un montage {17}."
+  },
+  "updatedAt": "2026-11-19T10:04:22.160Z"
+}

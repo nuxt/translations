@@ -1,0 +1,14 @@
+{
+  "hash": "3b070347e08e6931",
+  "source": "With {0} on, build hooks such as {1} can read and write the Nitro v2 build-time storage, {2}. It has the {3}, {4}, {5} (your {6}), {7} and {8} mounts, plus the ones you declare in {9} and {10}. The dev server and the prerenderer get the same {11}, {12} and {13} mounts, so what the prerenderer writes to {14} can be read from {15} once prerendering is done. Your production server doesn't get them. Unlike Nitro v2, cached handlers and functions keep the memory cache driver in development and while prerendering, unless you set {16} or declare a {17} mount yourself.",
+  "text": "Mit aktiviertem {0} können Build-Hooks wie {1} den Nitro-v2-Speicher für die Erzeugungszeit, {2}, lesen und beschreiben. Er enthält die Mounts {3}, {4}, {5} (dein {6}), {7} und {8} sowie die, die du in {9} und {10} deklarierst. Der Entwicklungsserver und der Vorab-Renderer erhalten dieselben Mounts {11}, {12} und {13}, sodass das, was der Vorab-Renderer nach {14} schreibt, aus {15} gelesen werden kann, sobald das Vorab-Rendering abgeschlossen ist. Dein Produktionsserver erhält sie nicht. Anders als in Nitro v2 behalten gecachte Handler und Funktionen in der Entwicklung und während des Vorab-Renderings den Memory-Cache-Treiber, es sei denn, du setzt {16} oder deklarierst selbst einen {17}-Mount.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit aktiviertem {0} können Build-Hooks wie {1} den Nitro-v2-Speicher für die Erzeugungszeit, {2}, lesen und beschreiben. Er enthält die Mounts {3}, {4}, {5} (dein {6}), {7} und {8} sowie die, die du in {9} und {10} deklarierst. Der Entwicklungsserver und der Vorab-Renderer erhalten dieselben Mounts {11}, {12} und {13}, sodass das, was der Vorab-Renderer nach {14} schreibt, aus {15} gelesen werden kann, sobald das Vorab-Rendering abgeschlossen ist. Dein Produktionsserver erhält sie nicht. Anders als in Nitro v2 behalten gecachte Handler und Funktionen in der Entwicklung und während des Vorab-Renderings den Memory-Cache-Treiber, es sei denn, du setzt {16} oder deklarierst selbst einen {17}-Mount."
+  },
+  "updatedAt": "2026-11-19T10:04:22.160Z"
+}

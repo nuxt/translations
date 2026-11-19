@@ -1,0 +1,14 @@
+{
+  "hash": "4690c33c002de5b4",
+  "source": "**The {0} hook while prerendering.** Nitro v3 stops the prerenderer without calling the runtime {1} hook, so a listener that saves data there never runs, and the data is lost. Nuxt names each Nitro v2 plugin that registers one with {2}. Save the data as each route is prerendered instead, and read it back in a build hook.",
+  "text": "**Le hook {0} pendant le prérendu.** Nitro v3 arrête le moteur de prérendu sans appeler le hook {1} du runtime, de sorte qu'un écouteur qui y enregistre des données ne s'exécute jamais et que ces données sont perdues. Nuxt nomme avec {2} chaque plugin Nitro v2 qui en enregistre un. Enregistrez plutôt les données au fur et à mesure du prérendu de chaque route, puis relisez-les dans un hook de build.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Le hook {0} pendant le prérendu.** Nitro v3 arrête le moteur de prérendu sans appeler le hook {1} du runtime, de sorte qu'un écouteur qui y enregistre des données ne s'exécute jamais et que ces données sont perdues. Nuxt nomme avec {2} chaque plugin Nitro v2 qui en enregistre un. Enregistrez plutôt les données au fur et à mesure du prérendu de chaque route, puis relisez-les dans un hook de build."
+  },
+  "updatedAt": "2026-11-19T10:04:22.160Z"
+}

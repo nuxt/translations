@@ -1,0 +1,14 @@
+{
+  "hash": "ac2676883ae952b7",
+  "source": "Nitro v3 sets the headers of a {0} route rule after the handler runs, so a rule header replaces a header of the same name that the handler sets, including one on a {1} that the handler returns. This also applies to Nuxt 4 with Nitro v3, and the {2}Nitro v2 compatibility layer{/2} doesn't change it.",
+  "text": "Nitro v3 définit les en-têtes d'une règle de route {0} après l'exécution du gestionnaire, de sorte qu'un en-tête de règle remplace un en-tête de même nom défini par le gestionnaire, y compris sur un {1} que le gestionnaire renvoie. Cela s'applique aussi à Nuxt 4 avec Nitro v3, et la {2}couche de compatibilité Nitro v2{/2} n'y change rien.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nitro v3 définit les en-têtes d'une règle de route {0} après l'exécution du gestionnaire, de sorte qu'un en-tête de règle remplace un en-tête de même nom défini par le gestionnaire, y compris sur un {1} que le gestionnaire renvoie. Cela s'applique aussi à Nuxt 4 avec Nitro v3, et la {2}couche de compatibilité Nitro v2{/2} n'y change rien."
+  },
+  "updatedAt": "2026-11-19T10:04:22.160Z"
+}

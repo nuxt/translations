@@ -1,0 +1,14 @@
+{
+  "hash": "c44c869fced5f94b",
+  "source": "**The event object.** With the default builder, {0} is h3 v2's event. The layer adds back some things h3 v2 dropped, such as {1}, {2} and a Node-shaped {3} on runtimes that don't have one. Requests made in process, such as a server-side {4} or {5} to one of your own routes or a page being prerendered, get one too, with an {6} whose {7} is {8}, as in Nitro v2. Its {9} is the client address of the request that made the call, or {10} when there is none. Headers and the status you set on {11} apply to the response that Nitro sends.",
+  "text": "**Das Event-Objekt.** Mit dem Standard-Builder ist {0} das Event von h3 v2. Die Schicht ergänzt einiges wieder, was h3 v2 entfernt hat, etwa {1}, {2} und ein Node-förmiges {3} auf Runtimes, die keines haben. Anfragen, die im selben Prozess gestellt werden, etwa ein serverseitiges {4} oder {5} an eine deiner eigenen Routen oder eine Seite, die gerade vorab gerendert wird, erhalten ebenfalls eines, und zwar mit einem {6}, dessen {7} {8} ist, wie in Nitro v2. Sein {9} ist die Client-Adresse der Anfrage, die den Aufruf ausgelöst hat, oder {10}, wenn es keine gibt. Header und der Status, die du auf {11} setzt, gelten für die Antwort, die Nitro sendet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Das Event-Objekt.** Mit dem Standard-Builder ist {0} das Event von h3 v2. Die Schicht ergänzt einiges wieder, was h3 v2 entfernt hat, etwa {1}, {2} und ein Node-förmiges {3} auf Runtimes, die keines haben. Anfragen, die im selben Prozess gestellt werden, etwa ein serverseitiges {4} oder {5} an eine deiner eigenen Routen oder eine Seite, die gerade vorab gerendert wird, erhalten ebenfalls eines, und zwar mit einem {6}, dessen {7} {8} ist, wie in Nitro v2. Sein {9} ist die Client-Adresse der Anfrage, die den Aufruf ausgelöst hat, oder {10}, wenn es keine gibt. Header und der Status, die du auf {11} setzt, gelten für die Antwort, die Nitro sendet."
+  },
+  "updatedAt": "2026-11-19T10:04:22.160Z"
+}
