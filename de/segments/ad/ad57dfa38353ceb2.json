@@ -1,0 +1,14 @@
+{
+  "hash": "ad57dfa38353ceb2",
+  "source": "In the same cases, Nuxt emits the Nitro v2 {0}, {1}, {2} and {3} hooks. Nitro v2 plugins that the layer covers, and {4} imported from {5}, get a {6} that always returns a promise.",
+  "text": "In denselben Fällen löst Nuxt die Nitro-v2-Hooks {0}, {1}, {2} und {3} aus. Nitro-v2-Plugins, die der Layer abdeckt, und {4}, das aus {5} importiert wird, erhalten ein {6}, das immer ein Promise zurückgibt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In denselben Fällen löst Nuxt die Nitro-v2-Hooks {0}, {1}, {2} und {3} aus. Nitro-v2-Plugins, die der Layer abdeckt, und {4}, das aus {5} importiert wird, erhalten ein {6}, das immer ein Promise zurückgibt."
+  },
+  "updatedAt": "2026-11-19T12:14:26.766Z"
+}

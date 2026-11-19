@@ -1,0 +1,14 @@
+{
+  "hash": "b95113749846146c",
+  "source": "While any switch is on, an error thrown with its own {0}, such as {1}, responds with that status instead of {2}. This applies to the whole app, and also happens when module server code gets the compatibility layer.",
+  "text": "Solange ein Schalter aktiviert ist, antwortet ein Fehler, der mit einem eigenen {0} ausgelöst wird, etwa {1}, mit diesem Status statt mit {2}. Das gilt für die gesamte App und tritt auch auf, wenn Servercode von Modulen die Kompatibilitätsschicht erhält.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Solange ein Schalter aktiviert ist, antwortet ein Fehler, der mit einem eigenen {0} ausgelöst wird, etwa {1}, mit diesem Status statt mit {2}. Das gilt für die gesamte App und tritt auch auf, wenn Servercode von Modulen die Kompatibilitätsschicht erhält."
+  },
+  "updatedAt": "2026-11-19T12:14:26.766Z"
+}

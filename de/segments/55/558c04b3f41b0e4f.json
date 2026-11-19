@@ -1,0 +1,15 @@
+{
+  "hash": "558c04b3f41b0e4f",
+  "source": "If you are using the object-syntax, {0}, {1}, {2}, {3} and {4} are statically analyzed at build time. Pass the object directly to {5}, and use literal values (or top-level {6} variables in the same file that are initialized with one). Otherwise, Nuxt warns and resolves {7}, {8} and {9} at runtime instead, which produces a less optimized build. Plugins installed in {10} only produce this warning when {11} is {12} or {13} is enabled.{14}For example, setting {15} would defeat any optimization Nuxt is able to do for your plugins. Nuxt does statically pre-load any hook listeners when using object-syntax, allowing you to define hooks without needing to worry about order of plugin registration.",
+  "text": "Wenn du die Objektsyntax verwendest, werden {0}, {1}, {2}, {3} und {4} zur Build-Zeit statisch analysiert. Übergib das Objekt direkt an {5} und verwende Literalwerte (oder {6}-Variablen auf oberster Ebene in derselben Datei, die mit einem solchen Wert initialisiert werden). Andernfalls gibt Nuxt eine Warnung aus und löst {7}, {8} und {9} stattdessen zur Laufzeit auf, was einen weniger optimierten Build erzeugt. In {10} installierte Plugins erzeugen diese Warnung nur, wenn {11} auf {12} gesetzt ist oder {13} aktiviert ist.{14}Wenn du zum Beispiel {15} setzt, würde das jede Optimierung zunichtemachen, die Nuxt für deine Plugins vornehmen kann. Nuxt lädt bei der Objektsyntax alle Hook-Listener statisch vor. So kannst du Hooks definieren, ohne dir Gedanken über die Reihenfolge der Plugin-Registrierung machen zu müssen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "e5408c2eb948ee12",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du die Objektsyntax verwendest, werden {0}, {1}, {2}, {3} und {4} zur Build-Zeit statisch analysiert. Übergib das Objekt direkt an {5} und verwende Literalwerte (oder {6}-Variablen auf oberster Ebene in derselben Datei, die mit einem solchen Wert initialisiert werden). Andernfalls gibt Nuxt eine Warnung aus und löst {7}, {8} und {9} stattdessen zur Laufzeit auf, was einen weniger optimierten Build erzeugt. In {10} installierte Plugins erzeugen diese Warnung nur, wenn {11} auf {12} gesetzt ist oder {13} aktiviert ist.{14}Wenn du zum Beispiel {15} setzt, würde das jede Optimierung zunichtemachen, die Nuxt für deine Plugins vornehmen kann. Nuxt lädt bei der Objektsyntax alle Hook-Listener statisch vor. So kannst du Hooks definieren, ohne dir Gedanken über die Reihenfolge der Plugin-Registrierung machen zu müssen."
+  },
+  "updatedAt": "2026-11-19T12:14:26.766Z"
+}

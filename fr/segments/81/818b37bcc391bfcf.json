@@ -1,0 +1,14 @@
+{
+  "hash": "818b37bcc391bfcf",
+  "source": "A route written with {0}, or with {1} or {2}, is typed by what the handler it caches returns. Called directly, a cached handler resolves to the {3} it serves.",
+  "text": "Une route écrite avec {0}, ou avec {1} ou {2}, est typée d'après ce que renvoie le gestionnaire qu'elle met en cache. Lorsqu'il est appelé directement, un gestionnaire mis en cache se résout en {3} qu'il sert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une route écrite avec {0}, ou avec {1} ou {2}, est typée d'après ce que renvoie le gestionnaire qu'elle met en cache. Lorsqu'il est appelé directement, un gestionnaire mis en cache se résout en {3} qu'il sert."
+  },
+  "updatedAt": "2026-11-19T12:14:26.766Z"
+}

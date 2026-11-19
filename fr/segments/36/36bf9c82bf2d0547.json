@@ -1,0 +1,14 @@
+{
+  "hash": "36bf9c82bf2d0547",
+  "source": "Keep server code that you wrote for Nitro v2 and h3 v1 running on Nitro v3. The option applies to the {0} and {1} directories of your project and its layers. Module server code written for Nitro v2 gets the compatibility layer whatever this option is set to.",
+  "text": "Conservez le code serveur que vous avez écrit pour Nitro v2 et h3 v1 en état de fonctionnement sur Nitro v3. L'option s'applique aux répertoires {0} et {1} de votre projet et de ses layers (couches). Le code serveur des modules écrit pour Nitro v2 bénéficie de la couche de compatibilité, quelle que soit la valeur de cette option.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Conservez le code serveur que vous avez écrit pour Nitro v2 et h3 v1 en état de fonctionnement sur Nitro v3. L'option s'applique aux répertoires {0} et {1} de votre projet et de ses layers (couches). Le code serveur des modules écrit pour Nitro v2 bénéficie de la couche de compatibilité, quelle que soit la valeur de cette option."
+  },
+  "updatedAt": "2026-11-19T12:14:26.766Z"
+}

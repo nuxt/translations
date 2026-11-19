@@ -1,0 +1,14 @@
+{
+  "hash": "33458740a948e76c",
+  "source": "This option and the compatibility layer will be removed in Nuxt 6.",
+  "text": "Cette option et la couche de compatibilité seront supprimées dans Nuxt 6.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette option et la couche de compatibilité seront supprimées dans Nuxt 6."
+  },
+  "updatedAt": "2026-11-19T12:14:26.766Z"
+}

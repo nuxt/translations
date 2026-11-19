@@ -1,0 +1,14 @@
+{
+  "hash": "bb4f9fbdf3b8ec77",
+  "source": "Set it to {0} to turn on every switch below, or pass an object to choose them. A switch you leave out of the object is on.",
+  "text": "Setze sie auf {0}, um alle folgenden Schalter zu aktivieren, oder übergib ein Objekt, um sie einzeln auszuwählen. Ein Schalter, den du im Objekt weglässt, ist aktiviert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Setze sie auf {0}, um alle folgenden Schalter zu aktivieren, oder übergib ein Objekt, um sie einzeln auszuwählen. Ein Schalter, den du im Objekt weglässt, ist aktiviert."
+  },
+  "updatedAt": "2026-11-19T12:14:26.766Z"
+}

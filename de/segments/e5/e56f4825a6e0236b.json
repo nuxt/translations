@@ -1,0 +1,14 @@
+{
+  "hash": "e56f4825a6e0236b",
+  "source": "nitroLegacy",
+  "text": "nitroLegacy",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "nitroLegacy"
+  },
+  "updatedAt": "2026-11-19T12:14:26.766Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "580e2150efee963b",
+  "source": "Resolve {0}, {1} and {2} to their Nitro v3 equivalents.",
+  "text": "Résolvez {0}, {1} et {2} vers leurs équivalents Nitro v3.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Résolvez {0}, {1} et {2} vers leurs équivalents Nitro v3."
+  },
+  "updatedAt": "2026-11-19T12:14:26.766Z"
+}

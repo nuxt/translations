@@ -1,0 +1,14 @@
+{
+  "hash": "818223cc577f6f77",
+  "source": "Accept Nitro v2 config shapes: a server handler registered without a {0} runs as middleware for every request. Server files with a dotted suffix that Nitro v3 rejects, such as {1}, keep working: Nuxt adds the suffix to {2} and lists the files with {3}.",
+  "text": "Acceptez les formes de configuration de Nitro v2 : un gestionnaire serveur enregistré sans {0} s'exécute comme middleware pour chaque requête. Les fichiers serveur avec un suffixe à point que Nitro v3 rejette, comme {1}, continuent de fonctionner : Nuxt ajoute le suffixe à {2} et liste les fichiers avec {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Acceptez les formes de configuration de Nitro v2 : un gestionnaire serveur enregistré sans {0} s'exécute comme middleware pour chaque requête. Les fichiers serveur avec un suffixe à point que Nitro v3 rejette, comme {1}, continuent de fonctionner : Nuxt ajoute le suffixe à {2} et liste les fichiers avec {3}."
+  },
+  "updatedAt": "2026-11-19T12:14:26.766Z"
+}

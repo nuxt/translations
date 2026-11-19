@@ -1,0 +1,14 @@
+{
+  "hash": "31cfc2816b9b2287",
+  "source": "Accept {0}, which returns a copy of the runtime config for that request.",
+  "text": "Akzeptiert {0}, das eine Kopie der Laufzeitkonfiguration für diese Anfrage zurückgibt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Akzeptiert {0}, das eine Kopie der Laufzeitkonfiguration für diese Anfrage zurückgibt."
+  },
+  "updatedAt": "2026-11-19T12:14:26.766Z"
+}

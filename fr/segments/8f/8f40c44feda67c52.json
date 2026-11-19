@@ -1,0 +1,14 @@
+{
+  "hash": "8f40c44feda67c52",
+  "source": "Resolve {0} and {1} imports in your server code to the h3 v1 helpers. Auto-imported h3 utilities resolve to them as well. Nuxt also removes server aliases that point {2} at h3 v1, and lists them with {3}.",
+  "text": "Résolvez les imports de {0} et {1} dans votre code serveur vers les helpers h3 v1. Les utilitaires h3 importés automatiquement s'y résolvent également. Nuxt supprime aussi les alias serveur qui pointent {2} vers h3 v1, et les liste avec {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Résolvez les imports de {0} et {1} dans votre code serveur vers les helpers h3 v1. Les utilitaires h3 importés automatiquement s'y résolvent également. Nuxt supprime aussi les alias serveur qui pointent {2} vers h3 v1, et les liste avec {3}."
+  },
+  "updatedAt": "2026-11-19T12:14:26.766Z"
+}

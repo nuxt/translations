@@ -1,0 +1,15 @@
+{
+  "hash": "9c2392edd0a69505",
+  "source": "Nitro v2 config shapes and dotted server file names",
+  "text": "Konfigurationsstrukturen von Nitro v2 und Servernamen mit Punkten in Dateinamen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "b2f8eaca603a667d",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Konfigurationsstrukturen von Nitro v2 und Servernamen mit Punkten in Dateinamen"
+  },
+  "updatedAt": "2026-11-19T12:14:26.766Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e2cd3606d52dae08",
+  "source": "Auto-import the utilities that Nitro and h3 provide, including Nitro v2 names such as {0}, {1} and {2}, and the exports of files in subdirectories of {3}.",
+  "text": "Importiert die Utilities, die Nitro und h3 bereitstellen, automatisch, einschließlich Nitro-v2-Namen wie {0}, {1} und {2}, sowie die Exporte von Dateien in Unterverzeichnissen von {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Importiert die Utilities, die Nitro und h3 bereitstellen, automatisch, einschließlich Nitro-v2-Namen wie {0}, {1} und {2}, sowie die Exporte von Dateien in Unterverzeichnissen von {3}."
+  },
+  "updatedAt": "2026-11-19T12:14:26.766Z"
+}

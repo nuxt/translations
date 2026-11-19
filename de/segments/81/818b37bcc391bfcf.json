@@ -1,0 +1,14 @@
+{
+  "hash": "818b37bcc391bfcf",
+  "source": "A route written with {0}, or with {1} or {2}, is typed by what the handler it caches returns. Called directly, a cached handler resolves to the {3} it serves.",
+  "text": "Eine Route, die mit {0} oder mit {1} bzw. {2} geschrieben wurde, wird anhand dessen typisiert, was der zwischengespeicherte Handler zurückgibt. Wird ein zwischengespeicherter Handler direkt aufgerufen, liefert er als Ergebnis das {3}, das er ausliefert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine Route, die mit {0} oder mit {1} bzw. {2} geschrieben wurde, wird anhand dessen typisiert, was der zwischengespeicherte Handler zurückgibt. Wird ein zwischengespeicherter Handler direkt aufgerufen, liefert er als Ergebnis das {3}, das er ausliefert."
+  },
+  "updatedAt": "2026-11-19T12:14:26.766Z"
+}
