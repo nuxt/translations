@@ -1,0 +1,14 @@
+{
+  "hash": "dec8c44128006913",
+  "source": "The layer also keeps these behaviors of Nitro v2 and h3 v1:",
+  "text": "Der Layer behält außerdem diese Verhaltensweisen von Nitro v2 und h3 v1 bei:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Layer behält außerdem diese Verhaltensweisen von Nitro v2 und h3 v1 bei:"
+  },
+  "updatedAt": "2026-11-20T17:12:53.356Z"
+}

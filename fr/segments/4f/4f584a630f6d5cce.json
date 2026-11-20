@@ -1,0 +1,14 @@
+{
+  "hash": "4f584a630f6d5cce",
+  "source": "**WebSocket upgrades**: server middleware runs for a WebSocket upgrade request, which Nitro v2 didn't do, but an error thrown there doesn't refuse the handshake. To refuse it, return or throw a {0} from the {1} hook of the WebSocket handler.",
+  "text": "**Mises à niveau WebSocket** : le middleware serveur s'exécute pour une requête de mise à niveau WebSocket, ce que Nitro v2 ne faisait pas, mais une erreur levée à cet endroit ne refuse pas la poignée de main. Pour la refuser, renvoyez ou levez un {0} depuis le hook {1} du handler WebSocket.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Mises à niveau WebSocket** : le middleware serveur s'exécute pour une requête de mise à niveau WebSocket, ce que Nitro v2 ne faisait pas, mais une erreur levée à cet endroit ne refuse pas la poignée de main. Pour la refuser, renvoyez ou levez un {0} depuis le hook {1} du handler WebSocket."
+  },
+  "updatedAt": "2026-11-20T17:12:53.356Z"
+}

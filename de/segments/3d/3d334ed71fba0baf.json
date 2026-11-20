@@ -1,0 +1,14 @@
+{
+  "hash": "3d334ed71fba0baf",
+  "source": "**h3 v1 requests**: in a handler defined with {0}, the h3 v1 helpers that ended the response, such as {1}, {2} or {3} for a preflight request, still end it, and {4} keeps its WebSocket hooks. The {5} hooks of such a handler run for the requests it responds to, and not for its WebSocket upgrade request. The h3 v1 body readers, such as {6}, reject a {7} request with {8}. Requests made in process, such as a server-side {9} call to one of your own routes, get an {10} whose {11} is {12}. The {13}Nuxt 5 upgrade guide{/13} lists the helpers.",
+  "text": "**h3-v1-Anfragen**: In einem mit {0} definierten Handler beenden die h3-v1-Hilfsfunktionen, die die Antwort beendet haben, wie {1}, {2} oder {3} für eine Preflight-Anfrage, diese weiterhin, und {4} behält seine WebSocket-Hooks. Die {5}-Hooks eines solchen Handlers laufen für die Anfragen, auf die er antwortet, nicht aber für seine WebSocket-Upgrade-Anfrage. Die h3-v1-Body-Reader wie {6} lehnen eine {7}-Anfrage mit {8} ab. Prozessinterne Anfragen, etwa ein serverseitiger {9}-Aufruf an eine deiner eigenen Routen, erhalten {10}, dessen {11} {12} ist. Die {13}Upgrade-Anleitung für Nuxt 5{/13} listet die Hilfsfunktionen auf.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**h3-v1-Anfragen**: In einem mit {0} definierten Handler beenden die h3-v1-Hilfsfunktionen, die die Antwort beendet haben, wie {1}, {2} oder {3} für eine Preflight-Anfrage, diese weiterhin, und {4} behält seine WebSocket-Hooks. Die {5}-Hooks eines solchen Handlers laufen für die Anfragen, auf die er antwortet, nicht aber für seine WebSocket-Upgrade-Anfrage. Die h3-v1-Body-Reader wie {6} lehnen eine {7}-Anfrage mit {8} ab. Prozessinterne Anfragen, etwa ein serverseitiger {9}-Aufruf an eine deiner eigenen Routen, erhalten {10}, dessen {11} {12} ist. Die {13}Upgrade-Anleitung für Nuxt 5{/13} listet die Hilfsfunktionen auf."
+  },
+  "updatedAt": "2026-11-20T17:12:53.356Z"
+}

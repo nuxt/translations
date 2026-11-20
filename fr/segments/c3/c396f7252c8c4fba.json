@@ -1,0 +1,14 @@
+{
+  "hash": "c396f7252c8c4fba",
+  "source": "**Request URL while prerendering**: the origin of a request that Nitro prerenders, as returned by {0}, is the address of the prerender worker, such as {1}, and its port changes with every build. Nitro v2 used {2}. Build absolute URLs in prerendered pages, such as a canonical link, from a fixed value such as one in your runtime config. Relative {3} and {4} calls to your API routes and public assets aren't affected.",
+  "text": "**URL de la requête pendant le prérendu** : l'origine d'une requête que Nitro prérend, telle que renvoyée par {0}, est l'adresse du worker de prérendu, comme {1}, et son port change à chaque build. Nitro v2 utilisait {2}. Construisez les URL absolues dans les pages prérendues, comme un lien canonique, à partir d'une valeur fixe, par exemple une valeur de votre runtime config. Les appels {3} et {4} relatifs vers vos routes d'API et vos ressources publiques ne sont pas affectés.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**URL de la requête pendant le prérendu** : l'origine d'une requête que Nitro prérend, telle que renvoyée par {0}, est l'adresse du worker de prérendu, comme {1}, et son port change à chaque build. Nitro v2 utilisait {2}. Construisez les URL absolues dans les pages prérendues, comme un lien canonique, à partir d'une valeur fixe, par exemple une valeur de votre runtime config. Les appels {3} et {4} relatifs vers vos routes d'API et vos ressources publiques ne sont pas affectés."
+  },
+  "updatedAt": "2026-11-20T17:12:53.356Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "1a8b320eafabb64b",
+  "source": "**{0} of error responses**: error responses are sent with {1}. A {2} set on the error itself is kept, and so is one that rules out reuse by a shared cache, such as {3} or {4}, whether it comes from a route rule or was set before the error. An error response that a handler returns, rather than throws, keeps the {5} of its route rule.",
+  "text": "**{0} des réponses d'erreur** : les réponses d'erreur sont envoyées avec {1}. Un {2} défini sur l'erreur elle-même est conservé, de même que celui qui exclut la réutilisation par un cache partagé, comme {3} ou {4}, qu'il provienne d'une règle de route ou qu'il ait été défini avant l'erreur. Une réponse d'erreur qu'un handler renvoie, plutôt que de la lever, conserve le {5} de sa règle de route.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0} des réponses d'erreur** : les réponses d'erreur sont envoyées avec {1}. Un {2} défini sur l'erreur elle-même est conservé, de même que celui qui exclut la réutilisation par un cache partagé, comme {3} ou {4}, qu'il provienne d'une règle de route ou qu'il ait été défini avant l'erreur. Une réponse d'erreur qu'un handler renvoie, plutôt que de la lever, conserve le {5} de sa règle de route."
+  },
+  "updatedAt": "2026-11-20T17:12:53.356Z"
+}

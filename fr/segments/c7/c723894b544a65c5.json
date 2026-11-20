@@ -1,0 +1,14 @@
+{
+  "hash": "c723894b544a65c5",
+  "source": "**{0} route rules**: a rule with {1} responds to a CORS preflight request itself, so the {2} request doesn't reach your handler. Nitro v2 only added the CORS headers.",
+  "text": "**Règles de route {0}** : une règle avec {1} répond elle-même à une requête CORS preflight, de sorte que la requête {2} n'atteint pas votre handler. Nitro v2 ne faisait qu'ajouter les en-têtes CORS.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Règles de route {0}** : une règle avec {1} répond elle-même à une requête CORS preflight, de sorte que la requête {2} n'atteint pas votre handler. Nitro v2 ne faisait qu'ajouter les en-têtes CORS."
+  },
+  "updatedAt": "2026-11-20T17:12:53.356Z"
+}

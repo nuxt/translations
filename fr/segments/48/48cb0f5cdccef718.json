@@ -1,0 +1,14 @@
+{
+  "hash": "48cb0f5cdccef718",
+  "source": "Cached handlers and cached routes keep the query string, because Nuxt sets {0} to {1} unless you set it. {2} and {3} route rules, {4} and {5} send the {6} of Nitro v2, such as {7} for {8}. A {9} route rule that sets neither {10} nor {11} sends {12}, unless the handler sets a value that rules out shared caching. Error responses carry the {13}, {14} and {15} headers, and JSON error responses also carry {16}. A route rule that sets {17} is applied as {18} without a {19} warning.",
+  "text": "Les gestionnaires mis en cache et les routes mises en cache conservent la query string, car Nuxt définit {0} sur {1} sauf si vous le définissez vous-même. Les règles de route {2} et {3}, ainsi que {4} et {5}, envoient le {6} de Nitro v2, comme {7} pour {8}. Une règle de route {9} qui ne définit ni {10} ni {11} envoie {12}, sauf si le gestionnaire définit une valeur qui exclut la mise en cache partagée. Les réponses d'erreur contiennent les en-têtes {13}, {14} et {15}, et les réponses d'erreur JSON contiennent également {16}. Une règle de route qui définit {17} est appliquée comme {18}, sans avertissement {19}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les gestionnaires mis en cache et les routes mises en cache conservent la query string, car Nuxt définit {0} sur {1} sauf si vous le définissez vous-même. Les règles de route {2} et {3}, ainsi que {4} et {5}, envoient le {6} de Nitro v2, comme {7} pour {8}. Une règle de route {9} qui ne définit ni {10} ni {11} envoie {12}, sauf si le gestionnaire définit une valeur qui exclut la mise en cache partagée. Les réponses d'erreur contiennent les en-têtes {13}, {14} et {15}, et les réponses d'erreur JSON contiennent également {16}. Une règle de route qui définit {17} est appliquée comme {18}, sans avertissement {19}."
+  },
+  "updatedAt": "2026-11-20T17:12:53.356Z"
+}

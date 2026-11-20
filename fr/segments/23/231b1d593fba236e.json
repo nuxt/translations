@@ -1,0 +1,14 @@
+{
+  "hash": "231b1d593fba236e",
+  "source": "**Server file names with a dotted suffix**: with {0}, a file such as {1} keeps working. Nuxt adds the suffix to {2} and lists the files with {3}. With it off, {4} lists the suffixes to add yourself, as described in {5}Server File Names Can't Contain Unknown Suffixes{/5}.",
+  "text": "**Noms de fichiers serveur avec un suffixe à point** : avec {0}, un fichier tel que {1} continue de fonctionner. Nuxt ajoute le suffixe à {2} et liste les fichiers avec {3}. Lorsque l'option est désactivée, {4} liste les suffixes à ajouter vous-même, comme décrit dans {5}Les noms de fichiers serveur ne peuvent pas contenir de suffixes inconnus{/5}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Noms de fichiers serveur avec un suffixe à point** : avec {0}, un fichier tel que {1} continue de fonctionner. Nuxt ajoute le suffixe à {2} et liste les fichiers avec {3}. Lorsque l'option est désactivée, {4} liste les suffixes à ajouter vous-même, comme décrit dans {5}Les noms de fichiers serveur ne peuvent pas contenir de suffixes inconnus{/5}."
+  },
+  "updatedAt": "2026-11-20T17:12:53.356Z"
+}

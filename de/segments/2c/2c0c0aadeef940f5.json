@@ -1,0 +1,14 @@
+{
+  "hash": "2c0c0aadeef940f5",
+  "source": "**{0}**: the result includes {1} for every path that Nuxt renders on the server, and leaves {2} out where a route rule sets it to {3}. Code that checks whether any rule matches a path, for example by counting the keys of the result, also counts {4}.",
+  "text": "**{0}**: Das Ergebnis enthält {1} für jeden Pfad, den Nuxt auf dem Server rendert, und lässt {2} weg, wenn eine Routenregel es auf {3} setzt. Code, der prüft, ob eine Regel auf einen Pfad passt, etwa indem er die Schlüssel des Ergebnisses zählt, zählt ebenfalls {4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}**: Das Ergebnis enthält {1} für jeden Pfad, den Nuxt auf dem Server rendert, und lässt {2} weg, wenn eine Routenregel es auf {3} setzt. Code, der prüft, ob eine Regel auf einen Pfad passt, etwa indem er die Schlüssel des Ergebnisses zählt, zählt ebenfalls {4}."
+  },
+  "updatedAt": "2026-11-20T17:12:53.356Z"
+}

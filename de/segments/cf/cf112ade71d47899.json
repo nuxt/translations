@@ -1,0 +1,14 @@
+{
+  "hash": "cf112ade71d47899",
+  "source": "**Error response headers**: with {0}, error responses carry the {1}, {2} and {3} headers, and JSON error responses also carry {4}. With it off, Nuxt doesn't add these headers to error responses.",
+  "text": "**Header von Fehlerantworten**: Mit {0} enthalten Fehlerantworten die Header {1}, {2} und {3}, JSON-Fehlerantworten zusätzlich {4}. Ist die Option aus, fügt Nuxt diese Header nicht zu Fehlerantworten hinzu.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Header von Fehlerantworten**: Mit {0} enthalten Fehlerantworten die Header {1}, {2} und {3}, JSON-Fehlerantworten zusätzlich {4}. Ist die Option aus, fügt Nuxt diese Header nicht zu Fehlerantworten hinzu."
+  },
+  "updatedAt": "2026-11-20T17:12:53.356Z"
+}

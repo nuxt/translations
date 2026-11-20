@@ -1,0 +1,14 @@
+{
+  "hash": "d1b10c3cf202bc9a",
+  "source": "**{0} in route rules**: the route rule type accepts it, marked as deprecated, and Nuxt applies it as {1}. Keep {2} while your project still builds with Nitro v2, which ignores {3}. With {4} off, the build lists these rules in a {5} warning.",
+  "text": "**{0} in Routenregeln**: Der Typ der Routenregel akzeptiert es, als nicht mehr empfohlen markiert, und Nuxt wendet es als {1} an. Behalte {2} bei, solange dein Projekt noch mit Nitro v2 erzeugt wird, das {3} ignoriert. Ist {4} aus, listet der Build diese Regeln in einer {5}-Warnung auf.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0} in Routenregeln**: Der Typ der Routenregel akzeptiert es, als nicht mehr empfohlen markiert, und Nuxt wendet es als {1} an. Behalte {2} bei, solange dein Projekt noch mit Nitro v2 erzeugt wird, das {3} ignoriert. Ist {4} aus, listet der Build diese Regeln in einer {5}-Warnung auf."
+  },
+  "updatedAt": "2026-11-20T17:12:53.356Z"
+}

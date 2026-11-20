@@ -1,0 +1,14 @@
+{
+  "hash": "16064666d9d6b016",
+  "source": "**Storage drivers**: a storage driver that needs a library, including one that a module mounts, needs that library in the dependencies of your project. When it's missing, Nitro v3 prompts you to install it, or installs it without asking in a non-interactive shell, and adds it to your {0}. In CI, and with {1}, the build fails and names the package to add instead. {2} and {3} still work, with a deprecation warning. See {4}Server Storage Is Renamed to KV{/4}.",
+  "text": "**Drivers de stockage** : un driver de stockage qui nécessite une bibliothèque, y compris celui qu'un module monte, nécessite cette bibliothèque dans les dépendances de votre projet. Lorsqu'elle est absente, Nitro v3 vous invite à l'installer, ou l'installe sans demander dans un shell non interactif, et l'ajoute à votre {0}. En CI, et avec {1}, le build échoue et indique à la place le package à ajouter. {2} et {3} fonctionnent toujours, avec un avertissement de dépréciation. Voir {4}Le stockage serveur est renommé en KV{/4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Drivers de stockage** : un driver de stockage qui nécessite une bibliothèque, y compris celui qu'un module monte, nécessite cette bibliothèque dans les dépendances de votre projet. Lorsqu'elle est absente, Nitro v3 vous invite à l'installer, ou l'installe sans demander dans un shell non interactif, et l'ajoute à votre {0}. En CI, et avec {1}, le build échoue et indique à la place le package à ajouter. {2} et {3} fonctionnent toujours, avec un avertissement de dépréciation. Voir {4}Le stockage serveur est renommé en KV{/4}."
+  },
+  "updatedAt": "2026-11-20T17:12:53.356Z"
+}

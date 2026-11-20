@@ -1,0 +1,14 @@
+{
+  "hash": "30cc0833f64ef592",
+  "source": "**{0} options**: {1} isn't a type that {2} accepts for a {3} URL, while it keeps working with Nitro v2 ({4}). For a URL your app doesn't serve, type the options as {5} from {6} (or {7} in app code), which is Nuxt's type. A file that already imports the {8} type of {9} needs to alias one of the two. Server code that calls ofetch's own {10} should import {11} from ofetch; Nuxt's {12} is for Nuxt's typed {13}. For a wrapper around your own routes with different defaults, use {14}.",
+  "text": "**Options de {0}** : {1} n'est pas un type que {2} accepte pour une URL {3}, alors qu'il continue de fonctionner avec Nitro v2 ({4}). Pour une URL que votre application ne sert pas, typez les options avec {5} depuis {6} (ou {7} dans le code de l'application), qui est le type de Nuxt. Un fichier qui importe déjà le type {8} de {9} doit donner un alias à l'un des deux. Le code serveur qui appelle le {10} propre à ofetch doit importer {11} depuis ofetch ; le {12} de Nuxt est destiné au {13} typé de Nuxt. Pour un wrapper autour de vos propres routes avec des valeurs par défaut différentes, utilisez {14}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Options de {0}** : {1} n'est pas un type que {2} accepte pour une URL {3}, alors qu'il continue de fonctionner avec Nitro v2 ({4}). Pour une URL que votre application ne sert pas, typez les options avec {5} depuis {6} (ou {7} dans le code de l'application), qui est le type de Nuxt. Un fichier qui importe déjà le type {8} de {9} doit donner un alias à l'un des deux. Le code serveur qui appelle le {10} propre à ofetch doit importer {11} depuis ofetch ; le {12} de Nuxt est destiné au {13} typé de Nuxt. Pour un wrapper autour de vos propres routes avec des valeurs par défaut différentes, utilisez {14}."
+  },
+  "updatedAt": "2026-11-20T17:12:53.356Z"
+}

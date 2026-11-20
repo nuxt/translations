@@ -1,0 +1,15 @@
+{
+  "hash": "a45ebd9969201c08",
+  "source": "Resolve {0} and {1} imports in your server code to the h3 v1 helpers. Auto-imported h3 utilities resolve to them as well, and so do {2} imports in the server build of your app, such as a helper that a component calls during server rendering. Nuxt also removes server aliases that point {3} at h3 v1, and lists them with {4}.",
+  "text": "Löst {0}- und {1}-Importe in deinem Servercode zu den h3-v1-Hilfsprogrammen auf. Automatisch importierte h3-Utilities werden ebenfalls dorthin aufgelöst, ebenso wie {2}-Importe im Server-Build deiner App, etwa bei einem Hilfsprogramm, das eine Komponente beim Server-Rendering aufruft. Nuxt entfernt außerdem Server-Aliasse, die {3} auf h3 v1 verweisen lassen, und listet sie mit {4} auf.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "8f40c44feda67c52",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Löst {0}- und {1}-Importe in deinem Servercode zu den h3-v1-Hilfsprogrammen auf. Automatisch importierte h3-Utilities werden ebenfalls dorthin aufgelöst, ebenso wie {2}-Importe im Server-Build deiner App, etwa bei einem Hilfsprogramm, das eine Komponente beim Server-Rendering aufruft. Nuxt entfernt außerdem Server-Aliasse, die {3} auf h3 v1 verweisen lassen, und listet sie mit {4} auf."
+  },
+  "updatedAt": "2026-11-20T17:12:53.356Z"
+}

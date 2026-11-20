@@ -1,0 +1,14 @@
+{
+  "hash": "fa48ecfac06cf977",
+  "source": "**Replacing {0}**: with either Nitro version, {1} and {2} on the server are built from {3}. If you replace it, for example in a Nitro plugin, the replacement must be a complete {4} instance, such as one created with {5}, and its defaults also apply to server-side {6} requests.",
+  "text": "**{0} ersetzen**: Bei beiden Nitro-Versionen werden {1} und {2} auf dem Server aus {3} erzeugt. Wenn du {0} ersetzt, etwa in einem Nitro-Plugin, muss der Ersatz eine vollständige {4}-Instanz sein, etwa eine mit {5} erzeugte, und deren Standardwerte gelten auch für serverseitige {6}-Anfragen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0} ersetzen**: Bei beiden Nitro-Versionen werden {1} und {2} auf dem Server aus {3} erzeugt. Wenn du {0} ersetzt, etwa in einem Nitro-Plugin, muss der Ersatz eine vollständige {4}-Instanz sein, etwa eine mit {5} erzeugte, und deren Standardwerte gelten auch für serverseitige {6}-Anfragen."
+  },
+  "updatedAt": "2026-11-20T17:12:53.356Z"
+}

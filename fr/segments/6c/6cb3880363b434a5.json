@@ -1,0 +1,15 @@
+{
+  "hash": "6cb3880363b434a5",
+  "source": "In the same cases, Nuxt emits the Nitro v2 {0}, {1}, {2} and {3} hooks. Nitro v2 plugins that the layer covers, and {4} imported from {5}, get a {6} that always returns a promise, and JSON error responses carry {7} and {8} alongside {9} and {10}.",
+  "text": "Dans les mêmes cas, Nuxt émet les hooks Nitro v2 {0}, {1}, {2} et {3}. Les plugins Nitro v2 couverts par la couche, ainsi que {4} importé depuis {5}, reçoivent un {6} qui renvoie toujours une promesse, et les réponses d'erreur JSON contiennent {7} et {8} en plus de {9} et {10}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "ad57dfa38353ceb2",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans les mêmes cas, Nuxt émet les hooks Nitro v2 {0}, {1}, {2} et {3}. Les plugins Nitro v2 couverts par la couche, ainsi que {4} importé depuis {5}, reçoivent un {6} qui renvoie toujours une promesse, et les réponses d'erreur JSON contiennent {7} et {8} en plus de {9} et {10}."
+  },
+  "updatedAt": "2026-11-20T17:12:53.356Z"
+}

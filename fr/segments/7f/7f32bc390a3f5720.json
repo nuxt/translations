@@ -1,0 +1,14 @@
+{
+  "hash": "7f32bc390a3f5720",
+  "source": "**Dependencies in the server build**: Nitro v3 bundles the packages that your server code imports. If a package doesn't work once bundled, for example with an error when the server starts, list it in {0} to keep it out of the bundle and copy it into the build output.",
+  "text": "**Dépendances dans le build serveur** : Nitro v3 inclut dans le bundle les packages importés par votre code serveur. Si un package ne fonctionne plus une fois intégré au bundle, par exemple avec une erreur au démarrage du serveur, listez-le dans {0} pour le garder hors du bundle et le copier dans la sortie du build.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Dépendances dans le build serveur** : Nitro v3 inclut dans le bundle les packages importés par votre code serveur. Si un package ne fonctionne plus une fois intégré au bundle, par exemple avec une erreur au démarrage du serveur, listez-le dans {0} pour le garder hors du bundle et le copier dans la sortie du build."
+  },
+  "updatedAt": "2026-11-20T17:12:53.356Z"
+}

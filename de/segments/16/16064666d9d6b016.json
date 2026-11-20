@@ -1,0 +1,14 @@
+{
+  "hash": "16064666d9d6b016",
+  "source": "**Storage drivers**: a storage driver that needs a library, including one that a module mounts, needs that library in the dependencies of your project. When it's missing, Nitro v3 prompts you to install it, or installs it without asking in a non-interactive shell, and adds it to your {0}. In CI, and with {1}, the build fails and names the package to add instead. {2} and {3} still work, with a deprecation warning. See {4}Server Storage Is Renamed to KV{/4}.",
+  "text": "**Storage-Treiber**: Ein Storage-Treiber, der eine Bibliothek benötigt, auch einer, den ein Modul einbindet, braucht diese Bibliothek in den Abhängigkeiten deines Projekts. Fehlt sie, fordert Nitro v3 dich zur Installation auf oder installiert sie in einer nicht interaktiven Shell ohne Nachfrage und fügt sie zu deiner {0} hinzu. In CI und mit {1} schlägt der Build stattdessen fehl und nennt das Paket, das du hinzufügen musst. {2} und {3} funktionieren weiterhin, mit einer Warnung zur Abkündigung. Siehe {4}Server-Storage wird in KV umbenannt{/4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Storage-Treiber**: Ein Storage-Treiber, der eine Bibliothek benötigt, auch einer, den ein Modul einbindet, braucht diese Bibliothek in den Abhängigkeiten deines Projekts. Fehlt sie, fordert Nitro v3 dich zur Installation auf oder installiert sie in einer nicht interaktiven Shell ohne Nachfrage und fügt sie zu deiner {0} hinzu. In CI und mit {1} schlägt der Build stattdessen fehl und nennt das Paket, das du hinzufügen musst. {2} und {3} funktionieren weiterhin, mit einer Warnung zur Abkündigung. Siehe {4}Server-Storage wird in KV umbenannt{/4}."
+  },
+  "updatedAt": "2026-11-20T17:12:53.356Z"
+}

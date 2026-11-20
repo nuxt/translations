@@ -1,0 +1,14 @@
+{
+  "hash": "c396f7252c8c4fba",
+  "source": "**Request URL while prerendering**: the origin of a request that Nitro prerenders, as returned by {0}, is the address of the prerender worker, such as {1}, and its port changes with every build. Nitro v2 used {2}. Build absolute URLs in prerendered pages, such as a canonical link, from a fixed value such as one in your runtime config. Relative {3} and {4} calls to your API routes and public assets aren't affected.",
+  "text": "**Anfrage-URL beim Vorab-Rendering**: Der Origin einer Anfrage, die Nitro vorab rendert, wie ihn {0} zurückgibt, ist die Adresse des Workers für das Vorab-Rendering, etwa {1}, und sein Port ändert sich mit jedem Build. Nitro v2 verwendete {2}. Leite absolute URLs in vorab gerenderten Seiten, etwa einen kanonischen Link, von einem festen Wert ab, z. B. aus deiner Laufzeitkonfiguration. Relative {3}- und {4}-Aufrufe an deine API-Routen und öffentliche Assets sind nicht betroffen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Anfrage-URL beim Vorab-Rendering**: Der Origin einer Anfrage, die Nitro vorab rendert, wie ihn {0} zurückgibt, ist die Adresse des Workers für das Vorab-Rendering, etwa {1}, und sein Port ändert sich mit jedem Build. Nitro v2 verwendete {2}. Leite absolute URLs in vorab gerenderten Seiten, etwa einen kanonischen Link, von einem festen Wert ab, z. B. aus deiner Laufzeitkonfiguration. Relative {3}- und {4}-Aufrufe an deine API-Routen und öffentliche Assets sind nicht betroffen."
+  },
+  "updatedAt": "2026-11-20T17:12:53.356Z"
+}

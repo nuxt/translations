@@ -1,0 +1,14 @@
+{
+  "hash": "850239d7fe985101",
+  "source": "**The {0} hook while prerendering**: a listener for the runtime {1} hook doesn't run when prerendering ends, and Nuxt names each Nitro v2 plugin that registers one with {2}. The {3}Nuxt 5 upgrade guide{/3} describes how to save the data instead.",
+  "text": "**Le hook {0} pendant le prérendu** : un listener du hook {1} du runtime ne s'exécute pas à la fin du prérendu, et Nuxt nomme chaque plugin Nitro v2 qui en enregistre un avec {2}. Le {3}guide de migration vers Nuxt 5{/3} décrit comment enregistrer les données autrement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Le hook {0} pendant le prérendu** : un listener du hook {1} du runtime ne s'exécute pas à la fin du prérendu, et Nuxt nomme chaque plugin Nitro v2 qui en enregistre un avec {2}. Le {3}guide de migration vers Nuxt 5{/3} décrit comment enregistrer les données autrement."
+  },
+  "updatedAt": "2026-11-20T17:12:53.356Z"
+}

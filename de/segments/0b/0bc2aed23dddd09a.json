@@ -1,0 +1,14 @@
+{
+  "hash": "0bc2aed23dddd09a",
+  "source": "**Modules**: some modules need a release that supports Nitro v3, such as {0} 2.7.0 or later.",
+  "text": "**Module**: Einige Module benötigen ein Release, das Nitro v3 unterstützt, etwa {0} 2.7.0 oder höher.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Module**: Einige Module benötigen ein Release, das Nitro v3 unterstützt, etwa {0} 2.7.0 oder höher."
+  },
+  "updatedAt": "2026-11-20T17:12:53.356Z"
+}

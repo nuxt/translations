@@ -1,0 +1,14 @@
+{
+  "hash": "da0ccb8632d6d034",
+  "source": "**{0}**: a listener can respond in place of the page by setting {1}. A {2} set as its {3} is sent as that response, and an {4} is sent as an error response.",
+  "text": "**{0}**: Ein Listener kann anstelle der Seite antworten, indem er {1} setzt. Ist {2} als {3} gesetzt, wird es als diese Antwort gesendet, und {4} wird als Fehlerantwort gesendet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}**: Ein Listener kann anstelle der Seite antworten, indem er {1} setzt. Ist {2} als {3} gesetzt, wird es als diese Antwort gesendet, und {4} wird als Fehlerantwort gesendet."
+  },
+  "updatedAt": "2026-11-20T17:12:53.356Z"
+}

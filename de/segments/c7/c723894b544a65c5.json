@@ -1,0 +1,14 @@
+{
+  "hash": "c723894b544a65c5",
+  "source": "**{0} route rules**: a rule with {1} responds to a CORS preflight request itself, so the {2} request doesn't reach your handler. Nitro v2 only added the CORS headers.",
+  "text": "**{0}-Routenregeln**: Eine Regel mit {1} beantwortet eine CORS-Preflight-Anfrage selbst, sodass die {2}-Anfrage deinen Handler nicht erreicht. Nitro v2 hat nur die CORS-Header hinzugefügt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}-Routenregeln**: Eine Regel mit {1} beantwortet eine CORS-Preflight-Anfrage selbst, sodass die {2}-Anfrage deinen Handler nicht erreicht. Nitro v2 hat nur die CORS-Header hinzugefügt."
+  },
+  "updatedAt": "2026-11-20T17:12:53.356Z"
+}

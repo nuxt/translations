@@ -1,0 +1,14 @@
+{
+  "hash": "3fd9a27b4c78500d",
+  "source": "**Types of cached handlers**: routes written with {0}, {1} or {2} are typed by what the handler they cache returns. Called directly, a cached handler resolves to the {3} it serves.",
+  "text": "**Typen gecachter Handler**: Mit {0}, {1} oder {2} geschriebene Routen werden anhand dessen typisiert, was der gecachte Handler zurückgibt. Direkt aufgerufen, wird ein gecachter Handler zu dem {3} aufgelöst, das er ausliefert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Typen gecachter Handler**: Mit {0}, {1} oder {2} geschriebene Routen werden anhand dessen typisiert, was der gecachte Handler zurückgibt. Direkt aufgerufen, wird ein gecachter Handler zu dem {3} aufgelöst, das er ausliefert."
+  },
+  "updatedAt": "2026-11-20T17:12:53.356Z"
+}

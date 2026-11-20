@@ -1,0 +1,14 @@
+{
+  "hash": "86ce45172f3a8192",
+  "source": "**String responses**: a handler that returns a string sends it as {0} unless it sets a content type. Handlers written for h3 v1, which the layer covers, still send {1}, as Nitro v2 did.",
+  "text": "**Réponses de type chaîne** : un handler qui renvoie une chaîne l'envoie comme {0}, sauf s'il définit un type de contenu. Les handlers écrits pour h3 v1, que le layer prend en charge, envoient toujours {1}, comme le faisait Nitro v2.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Réponses de type chaîne** : un handler qui renvoie une chaîne l'envoie comme {0}, sauf s'il définit un type de contenu. Les handlers écrits pour h3 v1, que le layer prend en charge, envoient toujours {1}, comme le faisait Nitro v2."
+  },
+  "updatedAt": "2026-11-20T17:12:53.356Z"
+}

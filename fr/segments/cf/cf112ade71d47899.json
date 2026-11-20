@@ -1,0 +1,14 @@
+{
+  "hash": "cf112ade71d47899",
+  "source": "**Error response headers**: with {0}, error responses carry the {1}, {2} and {3} headers, and JSON error responses also carry {4}. With it off, Nuxt doesn't add these headers to error responses.",
+  "text": "**En-têtes des réponses d'erreur** : avec {0}, les réponses d'erreur portent les en-têtes {1}, {2} et {3}, et les réponses d'erreur JSON portent également {4}. Lorsque l'option est désactivée, Nuxt n'ajoute pas ces en-têtes aux réponses d'erreur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**En-têtes des réponses d'erreur** : avec {0}, les réponses d'erreur portent les en-têtes {1}, {2} et {3}, et les réponses d'erreur JSON portent également {4}. Lorsque l'option est désactivée, Nuxt n'ajoute pas ces en-têtes aux réponses d'erreur."
+  },
+  "updatedAt": "2026-11-20T17:12:53.356Z"
+}

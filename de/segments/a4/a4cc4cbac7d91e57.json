@@ -1,0 +1,14 @@
+{
+  "hash": "a4cc4cbac7d91e57",
+  "source": "**{0} route rules**: Nitro v3 applies a {1} rule after the handler, so a rule header replaces a header of the same name that the handler sets, including one on a {2} that the handler returns. {3} doesn't change this. See {4}Route Rules: {5} Apply After the Handler{/4}.",
+  "text": "**{0}-Routenregeln**: Nitro v3 wendet eine {1}-Regel nach dem Handler an, sodass ein Header der Regel einen gleichnamigen Header ersetzt, den der Handler setzt – auch einen Header an einer vom Handler zurückgegebenen {2}. {3} ändert daran nichts. Siehe {4}Routenregeln: {5} werden nach dem Handler angewendet{/4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}-Routenregeln**: Nitro v3 wendet eine {1}-Regel nach dem Handler an, sodass ein Header der Regel einen gleichnamigen Header ersetzt, den der Handler setzt – auch einen Header an einer vom Handler zurückgegebenen {2}. {3} ändert daran nichts. Siehe {4}Routenregeln: {5} werden nach dem Handler angewendet{/4}."
+  },
+  "updatedAt": "2026-11-20T17:12:53.356Z"
+}

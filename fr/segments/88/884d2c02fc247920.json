@@ -1,0 +1,14 @@
+{
+  "hash": "884d2c02fc247920",
+  "source": "**Build-time storage**: with {0}, build hooks such as {1} can read and write {2}, and the dev server and the prerenderer get its {3}, {4} and {5} mounts. The {6}Nuxt 5 upgrade guide{/6} describes the mounts.",
+  "text": "**Stockage au moment du build** : avec {0}, les hooks de build comme {1} peuvent lire et écrire {2}, et le serveur de développement ainsi que le prérendu obtiennent ses montages {3}, {4} et {5}. Le {6}guide de migration vers Nuxt 5{/6} décrit ces montages.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Stockage au moment du build** : avec {0}, les hooks de build comme {1} peuvent lire et écrire {2}, et le serveur de développement ainsi que le prérendu obtiennent ses montages {3}, {4} et {5}. Le {6}guide de migration vers Nuxt 5{/6} décrit ces montages."
+  },
+  "updatedAt": "2026-11-20T17:12:53.356Z"
+}
