@@ -1,0 +1,14 @@
+{
+  "hash": "5b2c7dfe54770cf0",
+  "source": "These patterns match different paths with Nitro v3:",
+  "text": "Diese Muster treffen mit Nitro v3 auf andere Pfade zu:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese Muster treffen mit Nitro v3 auf andere Pfade zu:"
+  },
+  "updatedAt": "2026-11-20T17:08:49.914Z"
+}

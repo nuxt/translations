@@ -1,0 +1,14 @@
+{
+  "hash": "452feb1873f8ff15",
+  "source": "Nitro v3 matches {0}route rules{/0} with a different pattern syntax. The new syntax applies to every rule, including rules that layers and modules add and rules set in a {1} hook, and {2} doesn't restore the old one. Your app uses the same syntax as the server, so {3}, {4}, {5}, {6}, {7}, {8}, and the payload of cached routes apply to the same paths on both. With Nitro v2, route rules match as before.",
+  "text": "Nitro v3 fait correspondre les {0}règles de route{/0} avec une syntaxe de motifs différente. La nouvelle syntaxe s'applique à toutes les règles, y compris celles ajoutées par les layers et les modules et celles définies dans un hook {1}, et {2} ne rétablit pas l'ancienne. Votre application utilise la même syntaxe que le serveur : {3}, {4}, {5}, {6}, {7}, {8} et le payload (charge utile) des routes mises en cache s'appliquent donc aux mêmes chemins des deux côtés. Avec Nitro v2, les règles de route correspondent comme avant.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nitro v3 fait correspondre les {0}règles de route{/0} avec une syntaxe de motifs différente. La nouvelle syntaxe s'applique à toutes les règles, y compris celles ajoutées par les layers et les modules et celles définies dans un hook {1}, et {2} ne rétablit pas l'ancienne. Votre application utilise la même syntaxe que le serveur : {3}, {4}, {5}, {6}, {7}, {8} et le payload (charge utile) des routes mises en cache s'appliquent donc aux mêmes chemins des deux côtés. Avec Nitro v2, les règles de route correspondent comme avant."
+  },
+  "updatedAt": "2026-11-20T17:08:49.914Z"
+}

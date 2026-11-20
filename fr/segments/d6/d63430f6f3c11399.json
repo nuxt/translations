@@ -1,0 +1,14 @@
+{
+  "hash": "d63430f6f3c11399",
+  "source": "**A parameter name** ends at the first character that isn't a letter, a digit, or {0}. {1} is the parameter {2} followed by the text {3}, so it matches only segments that end with {4}. Rename the parameter, for example to {5}.",
+  "text": "**Un nom de paramètre** se termine au premier caractère qui n'est ni une lettre, ni un chiffre, ni {0}. {1} est le paramètre {2} suivi du texte {3}, il ne correspond donc qu'aux segments qui se terminent par {4}. Renommez le paramètre, par exemple en {5}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Un nom de paramètre** se termine au premier caractère qui n'est ni une lettre, ni un chiffre, ni {0}. {1} est le paramètre {2} suivi du texte {3}, il ne correspond donc qu'aux segments qui se terminent par {4}. Renommez le paramètre, par exemple en {5}."
+  },
+  "updatedAt": "2026-11-20T17:08:49.914Z"
+}

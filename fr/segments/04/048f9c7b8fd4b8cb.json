@@ -1,0 +1,14 @@
+{
+  "hash": "048f9c7b8fd4b8cb",
+  "source": "The {0}route rules section{/0} of the Nuxt 5 upgrade guide covers the same change, and the {1}rou3 migration guide{/1} lists every change to the pattern syntax.",
+  "text": "La {0}section sur les règles de route{/0} du guide de mise à niveau vers Nuxt 5 couvre le même changement, et le {1}guide de migration de rou3{/1} liste tous les changements de la syntaxe des motifs.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La {0}section sur les règles de route{/0} du guide de mise à niveau vers Nuxt 5 couvre le même changement, et le {1}guide de migration de rou3{/1} liste tous les changements de la syntaxe des motifs."
+  },
+  "updatedAt": "2026-11-20T17:08:49.914Z"
+}

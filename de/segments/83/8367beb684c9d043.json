@@ -1,0 +1,14 @@
+{
+  "hash": "8367beb684c9d043",
+  "source": "**A {0} followed by more of the pattern** requires the rest of the pattern, so {1} matches {2} but no longer matches {3}.",
+  "text": "**Ein {0}, auf das weitere Teile des Musters folgen,** erfordert den Rest des Musters, sodass {1} auf {2} zutrifft, aber nicht mehr auf {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Ein {0}, auf das weitere Teile des Musters folgen,** erfordert den Rest des Musters, sodass {1} auf {2} zutrifft, aber nicht mehr auf {3}."
+  },
+  "updatedAt": "2026-11-20T17:08:49.914Z"
+}

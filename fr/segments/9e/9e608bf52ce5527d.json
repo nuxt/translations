@@ -1,0 +1,14 @@
+{
+  "hash": "9e608bf52ce5527d",
+  "source": "**A single {0}** matches any number of segments rather than exactly one, so {1} also applies to {2}. This is also the case for a {3} inside a segment, such as {4}, a {5} followed by more of the pattern, such as {6}, and a {7} constraint, such as {8}. To match a single segment, use a named parameter: {9} matches {10}, and {11} also matches {12}.",
+  "text": "**Un seul {0}** correspond à un nombre quelconque de segments plutôt qu'à un seul, donc {1} s'applique aussi à {2}. C'est également le cas pour un {3} à l'intérieur d'un segment, comme {4}, un {5} suivi du reste du motif, comme {6}, et une contrainte {7}, comme {8}. Pour correspondre à un seul segment, utilisez un paramètre nommé : {9} correspond à {10}, et {11} correspond aussi à {12}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Un seul {0}** correspond à un nombre quelconque de segments plutôt qu'à un seul, donc {1} s'applique aussi à {2}. C'est également le cas pour un {3} à l'intérieur d'un segment, comme {4}, un {5} suivi du reste du motif, comme {6}, et une contrainte {7}, comme {8}. Pour correspondre à un seul segment, utilisez un paramètre nommé : {9} correspond à {10}, et {11} correspond aussi à {12}."
+  },
+  "updatedAt": "2026-11-20T17:08:49.914Z"
+}

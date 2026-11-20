@@ -1,0 +1,14 @@
+{
+  "hash": "4721f51712bd5264",
+  "source": "Review the scope of your route rules when you switch, and in particular rules that set headers, {0}, {1}, {2}, {3}, {4}, {5}, {6}, or {7}. A rule can apply to more paths, or to fewer, than it did with Nitro v2.",
+  "text": "Vérifiez la portée de vos règles de route lorsque vous changez de version, en particulier celles qui définissent des en-têtes, {0}, {1}, {2}, {3}, {4}, {5}, {6} ou {7}. Une règle peut s'appliquer à plus de chemins, ou à moins de chemins, qu'avec Nitro v2.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vérifiez la portée de vos règles de route lorsque vous changez de version, en particulier celles qui définissent des en-têtes, {0}, {1}, {2}, {3}, {4}, {5}, {6} ou {7}. Une règle peut s'appliquer à plus de chemins, ou à moins de chemins, qu'avec Nitro v2."
+  },
+  "updatedAt": "2026-11-20T17:08:49.914Z"
+}

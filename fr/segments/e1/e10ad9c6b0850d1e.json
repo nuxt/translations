@@ -1,0 +1,14 @@
+{
+  "hash": "e10ad9c6b0850d1e",
+  "source": "**A catch-all parameter**, such as {0} or {1}, doesn't match a path with an empty segment, such as {2}.",
+  "text": "**Un paramètre fourre-tout**, comme {0} ou {1}, ne correspond pas à un chemin contenant un segment vide, comme {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Un paramètre fourre-tout**, comme {0} ou {1}, ne correspond pas à un chemin contenant un segment vide, comme {2}."
+  },
+  "updatedAt": "2026-11-20T17:08:49.914Z"
+}

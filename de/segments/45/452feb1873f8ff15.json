@@ -1,0 +1,14 @@
+{
+  "hash": "452feb1873f8ff15",
+  "source": "Nitro v3 matches {0}route rules{/0} with a different pattern syntax. The new syntax applies to every rule, including rules that layers and modules add and rules set in a {1} hook, and {2} doesn't restore the old one. Your app uses the same syntax as the server, so {3}, {4}, {5}, {6}, {7}, {8}, and the payload of cached routes apply to the same paths on both. With Nitro v2, route rules match as before.",
+  "text": "Nitro v3 gleicht {0}Route Rules{/0} mit einer anderen Mustersyntax ab. Die neue Syntax gilt für jede Regel, auch für Regeln, die Layer und Module hinzufügen, und für Regeln, die in einem {1}-Hook gesetzt werden. {2} stellt die alte Syntax nicht wieder her. Deine App verwendet dieselbe Syntax wie der Server, sodass {3}, {4}, {5}, {6}, {7}, {8} und die Payload zwischengespeicherter Routen auf beiden Seiten für dieselben Pfade gelten. Mit Nitro v2 werden Route Rules wie bisher abgeglichen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nitro v3 gleicht {0}Route Rules{/0} mit einer anderen Mustersyntax ab. Die neue Syntax gilt für jede Regel, auch für Regeln, die Layer und Module hinzufügen, und für Regeln, die in einem {1}-Hook gesetzt werden. {2} stellt die alte Syntax nicht wieder her. Deine App verwendet dieselbe Syntax wie der Server, sodass {3}, {4}, {5}, {6}, {7}, {8} und die Payload zwischengespeicherter Routen auf beiden Seiten für dieselben Pfade gelten. Mit Nitro v2 werden Route Rules wie bisher abgeglichen."
+  },
+  "updatedAt": "2026-11-20T17:08:49.914Z"
+}

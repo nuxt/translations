@@ -1,0 +1,14 @@
+{
+  "hash": "85aa57e5666a84de",
+  "source": "The build reports {0} for each rule key that uses one of the first three patterns. The warning names the key, which may come from a module rather than from your {1}. A pattern with more than one {2}, {3}, {4}, or {5}, or a regex constraint with a capturing group, an anchor, or a look-around, fails the build.",
+  "text": "Der Build meldet {0} für jeden Regelschlüssel, der eines der ersten drei Muster verwendet. Die Warnung nennt den Schlüssel, der auch aus einem Modul statt aus deiner {1} stammen kann. Ein Muster mit mehr als einem {2}, {3}, {4} oder {5} oder eine Regex-Einschränkung mit einer Erfassungsgruppe, einem Anker oder einem Look-around lässt den Build fehlschlagen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Build meldet {0} für jeden Regelschlüssel, der eines der ersten drei Muster verwendet. Die Warnung nennt den Schlüssel, der auch aus einem Modul statt aus deiner {1} stammen kann. Ein Muster mit mehr als einem {2}, {3}, {4} oder {5} oder eine Regex-Einschränkung mit einer Erfassungsgruppe, einem Anker oder einem Look-around lässt den Build fehlschlagen."
+  },
+  "updatedAt": "2026-11-20T17:08:49.914Z"
+}

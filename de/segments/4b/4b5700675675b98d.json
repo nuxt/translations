@@ -1,0 +1,15 @@
+{
+  "hash": "4b5700675675b98d",
+  "source": "The option has no effect when Nuxt builds your server with Nitro v2 ({0}). It's on by default when your project depends on {1}, so that Nuxt builds the server with Nitro v3, unless {2} is {3}. If you set {4} and leave {5} unset, the default is {6}, which keeps every other switch on.",
+  "text": "Die Option hat keine Wirkung, wenn Nuxt deinen Server mit Nitro v2 erzeugt ({0}). Sie ist standardmäßig aktiviert, wenn dein Projekt von {1} abhängt, sodass Nuxt den Server mit Nitro v3 erzeugt, es sei denn, {2} ist {3}. Wenn du {4} setzt und {5} nicht festlegst, ist der Standardwert {6}, der alle anderen Schalter aktiviert lässt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "14dc2cb7d4aadb49",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Option hat keine Wirkung, wenn Nuxt deinen Server mit Nitro v2 erzeugt ({0}). Sie ist standardmäßig aktiviert, wenn dein Projekt von {1} abhängt, sodass Nuxt den Server mit Nitro v3 erzeugt, es sei denn, {2} ist {3}. Wenn du {4} setzt und {5} nicht festlegst, ist der Standardwert {6}, der alle anderen Schalter aktiviert lässt."
+  },
+  "updatedAt": "2026-11-20T17:08:49.914Z"
+}

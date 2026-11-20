@@ -1,0 +1,14 @@
+{
+  "hash": "9e608bf52ce5527d",
+  "source": "**A single {0}** matches any number of segments rather than exactly one, so {1} also applies to {2}. This is also the case for a {3} inside a segment, such as {4}, a {5} followed by more of the pattern, such as {6}, and a {7} constraint, such as {8}. To match a single segment, use a named parameter: {9} matches {10}, and {11} also matches {12}.",
+  "text": "**Ein einzelnes {0}** trifft auf eine beliebige Anzahl von Segmenten zu und nicht auf genau eines, daher gilt {1} auch für {2}. Das gilt ebenso für ein {3} innerhalb eines Segments, etwa {4}, für ein {5}, auf das weitere Teile des Musters folgen, etwa {6}, und für eine {7}-Einschränkung, etwa {8}. Um ein einzelnes Segment abzugleichen, verwende einen benannten Parameter: {9} trifft auf {10} zu, und {11} trifft auch auf {12} zu.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Ein einzelnes {0}** trifft auf eine beliebige Anzahl von Segmenten zu und nicht auf genau eines, daher gilt {1} auch für {2}. Das gilt ebenso für ein {3} innerhalb eines Segments, etwa {4}, für ein {5}, auf das weitere Teile des Musters folgen, etwa {6}, und für eine {7}-Einschränkung, etwa {8}. Um ein einzelnes Segment abzugleichen, verwende einen benannten Parameter: {9} trifft auf {10} zu, und {11} trifft auch auf {12} zu."
+  },
+  "updatedAt": "2026-11-20T17:08:49.914Z"
+}

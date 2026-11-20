@@ -1,0 +1,14 @@
+{
+  "hash": "2e174afba6992c88",
+  "source": "If you set {0} and don't set {1}, the layer leaves its auto-imports off ({2}), so your server code must import h3 and Nitro helpers explicitly, and files in subdirectories of {3} aren't auto-imported.",
+  "text": "Wenn du {0} setzt und {1} nicht setzt, lässt der Layer seine automatischen Importe deaktiviert ({2}). Dein Servercode muss dann h3- und Nitro-Hilfsfunktionen explizit importieren, und Dateien in Unterverzeichnissen von {3} werden nicht automatisch importiert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du {0} setzt und {1} nicht setzt, lässt der Layer seine automatischen Importe deaktiviert ({2}). Dein Servercode muss dann h3- und Nitro-Hilfsfunktionen explizit importieren, und Dateien in Unterverzeichnissen von {3} werden nicht automatisch importiert."
+  },
+  "updatedAt": "2026-11-20T17:08:49.914Z"
+}

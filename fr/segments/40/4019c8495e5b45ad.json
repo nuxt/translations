@@ -1,0 +1,14 @@
+{
+  "hash": "4019c8495e5b45ad",
+  "source": "With Nitro v3, a rule key can start with an HTTP method, such as {0}, and the server applies the rule only to requests with that method. Your app, during server rendering and client navigation, follows the rules that apply to {1} requests, so a rule scoped to another method has no effect in the app. Nitro v2 doesn't support method-scoped keys and reads such a key as a literal path.",
+  "text": "Avec Nitro v3, une clé de règle peut commencer par une méthode HTTP, comme {0}, et le serveur n'applique la règle qu'aux requêtes utilisant cette méthode. Votre application, lors du rendu côté serveur et de la navigation côté client, suit les règles qui s'appliquent aux requêtes {1}, donc une règle limitée à une autre méthode n'a aucun effet dans l'application. Nitro v2 ne prend pas en charge les clés limitées à une méthode et interprète une telle clé comme un chemin littéral.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avec Nitro v3, une clé de règle peut commencer par une méthode HTTP, comme {0}, et le serveur n'applique la règle qu'aux requêtes utilisant cette méthode. Votre application, lors du rendu côté serveur et de la navigation côté client, suit les règles qui s'appliquent aux requêtes {1}, donc une règle limitée à une autre méthode n'a aucun effet dans l'application. Nitro v2 ne prend pas en charge les clés limitées à une méthode et interprète une telle clé comme un chemin littéral."
+  },
+  "updatedAt": "2026-11-20T17:08:49.914Z"
+}

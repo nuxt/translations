@@ -1,0 +1,15 @@
+{
+  "hash": "beac054b41ba3fb5",
+  "source": "**Default:** {0} with Nitro v3 and a {1} below {2} ({3} when {4} is {5}), otherwise {6}",
+  "text": "**Standard:** {0} mit Nitro v3 und einer {1} unterhalb von {2} ({3}, wenn {4} {5} ist), andernfalls {6}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "5b27db45a16c0fb9",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Standard:** {0} mit Nitro v3 und einer {1} unterhalb von {2} ({3}, wenn {4} {5} ist), andernfalls {6}"
+  },
+  "updatedAt": "2026-11-20T17:08:49.914Z"
+}

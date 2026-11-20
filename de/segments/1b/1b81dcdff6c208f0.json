@@ -1,0 +1,14 @@
+{
+  "hash": "1b81dcdff6c208f0",
+  "source": "Route Rule Patterns",
+  "text": "Muster für Route Rules",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Muster für Route Rules"
+  },
+  "updatedAt": "2026-11-20T17:08:49.914Z"
+}
