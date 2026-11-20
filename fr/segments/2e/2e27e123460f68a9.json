@@ -1,0 +1,14 @@
+{
+  "hash": "2e27e123460f68a9",
+  "source": "Server-side {0} redirects from plugins, middleware, or page setup (a page setup redirect that only runs after an {1} has resolved may come after the shell is flushed, in which case it happens on the client during hydration)",
+  "text": "Redirections {0} côté serveur depuis des plugins, des middleware ou le setup d'une page (une redirection dans le setup d'une page qui ne s'exécute qu'après la résolution d'un {1} peut intervenir après l'envoi du shell ; dans ce cas, elle a lieu côté client pendant l'hydratation)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Redirections {0} côté serveur depuis des plugins, des middleware ou le setup d'une page (une redirection dans le setup d'une page qui ne s'exécute qu'après la résolution d'un {1} peut intervenir après l'envoi du shell ; dans ce cas, elle a lieu côté client pendant l'hydratation)"
+  },
+  "updatedAt": "2026-11-20T12:17:32.997Z"
+}

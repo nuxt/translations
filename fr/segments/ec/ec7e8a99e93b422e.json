@@ -1,0 +1,14 @@
+{
+  "hash": "ec7e8a99e93b422e",
+  "source": "To build a {0} with different defaults, such as headers or interceptors, use {1}. The instance it returns is typed by the routes you call it with, in the same way as {2}:",
+  "text": "Pour construire un {0} avec des valeurs par défaut différentes, comme des en-têtes ou des intercepteurs, utilisez {1}. L'instance retournée est typée selon les routes avec lesquelles vous l'appelez, de la même manière que {2} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour construire un {0} avec des valeurs par défaut différentes, comme des en-têtes ou des intercepteurs, utilisez {1}. L'instance retournée est typée selon les routes avec lesquelles vous l'appelez, de la même manière que {2} :"
+  },
+  "updatedAt": "2026-11-20T12:17:32.997Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "ad1c193a0f5cc879",
+  "source": "A {0} the route validates is checked on each call, and a call that leaves out a required {1} is a type error.",
+  "text": "Un {0} que la route valide est vérifié à chaque appel, et un appel qui omet un {1} requis provoque une erreur de type.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un {0} que la route valide est vérifié à chaque appel, et un appel qui omet un {1} requis provoque une erreur de type."
+  },
+  "updatedAt": "2026-11-20T12:17:32.997Z"
+}

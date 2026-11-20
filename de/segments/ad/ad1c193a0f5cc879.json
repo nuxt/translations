@@ -1,0 +1,14 @@
+{
+  "hash": "ad1c193a0f5cc879",
+  "source": "A {0} the route validates is checked on each call, and a call that leaves out a required {1} is a type error.",
+  "text": "Ein {0}, den die Route validiert, wird bei jedem Aufruf geprüft. Ein Aufruf, bei dem ein erforderlicher {1} fehlt, führt zu einem Typfehler.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein {0}, den die Route validiert, wird bei jedem Aufruf geprüft. Ein Aufruf, bei dem ein erforderlicher {1} fehlt, führt zu einem Typfehler."
+  },
+  "updatedAt": "2026-11-20T12:17:32.997Z"
+}

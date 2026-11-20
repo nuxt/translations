@@ -1,0 +1,14 @@
+{
+  "hash": "85759dc40d004fdf",
+  "source": "To request a URL your app doesn't serve and name the response type yourself, type the options as {0}. This is Nuxt's type, imported from {1} in app, server and shared code (or from {2} in app code): ofetch's type of the same name types {3} as a plain {4}, which typed {5} doesn't accept.",
+  "text": "Pour requêter une URL que votre application ne sert pas et nommer vous-même le type de la réponse, typez les options avec {0}. Il s'agit du type de Nuxt, importé depuis {1} dans le code de l'application, du serveur et du code partagé (ou depuis {2} dans le code de l'application) : le type du même nom d'ofetch type {3} comme un simple {4}, ce que {5} typé n'accepte pas.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour requêter une URL que votre application ne sert pas et nommer vous-même le type de la réponse, typez les options avec {0}. Il s'agit du type de Nuxt, importé depuis {1} dans le code de l'application, du serveur et du code partagé (ou depuis {2} dans le code de l'application) : le type du même nom d'ofetch type {3} comme un simple {4}, ce que {5} typé n'accepte pas."
+  },
+  "updatedAt": "2026-11-20T12:17:32.997Z"
+}

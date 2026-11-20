@@ -1,0 +1,14 @@
+{
+  "hash": "0d8ccabd9dcba24d",
+  "source": "For a wrapper around your own routes with different defaults, use {0}, which keeps the route typing:",
+  "text": "Für einen Wrapper um deine eigenen Routen mit anderen Standardwerten verwendest du {0}, das die Routentypisierung beibehält:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Für einen Wrapper um deine eigenen Routen mit anderen Standardwerten verwendest du {0}, das die Routentypisierung beibehält:"
+  },
+  "updatedAt": "2026-11-20T12:17:32.997Z"
+}

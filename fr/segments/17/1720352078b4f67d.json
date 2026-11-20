@@ -1,0 +1,14 @@
+{
+  "hash": "1720352078b4f67d",
+  "source": "Replace options typed as {0}. With nitropack, that type is nitropack's {1}, which accepts any method and ofetch's own option types. With Nitro v3, {2} is typed from your app's routes, and the type read off its signature isn't one it accepts for a {3} URL: depending on your routes, it resolves to {4} or to options that a call with a {5} URL rejects.",
+  "text": "Remplacez les options typées avec {0}. Avec nitropack, ce type est le {1} de nitropack, qui accepte n'importe quelle méthode ainsi que les types d'options propres à ofetch. Avec Nitro v3, {2} est typé à partir des routes de votre application, et le type déduit de sa signature n'est pas un type qu'elle accepte pour une URL {3} : selon vos routes, il se résout en {4} ou en des options qu'un appel avec une URL {5} rejette.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Remplacez les options typées avec {0}. Avec nitropack, ce type est le {1} de nitropack, qui accepte n'importe quelle méthode ainsi que les types d'options propres à ofetch. Avec Nitro v3, {2} est typé à partir des routes de votre application, et le type déduit de sa signature n'est pas un type qu'elle accepte pour une URL {3} : selon vos routes, il se résout en {4} ou en des options qu'un appel avec une URL {5} rejette."
+  },
+  "updatedAt": "2026-11-20T12:17:32.997Z"
+}

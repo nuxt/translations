@@ -1,0 +1,14 @@
+{
+  "hash": "d14b4fffe8223f67",
+  "source": "For a URL your app doesn't serve, where you name the response type, type the options as {0} from {1} (or from {2} in app code). This is Nuxt's type: ofetch's type of the same name types {3} as a plain {4}, which typed {5} doesn't accept, so a file that already imports ofetch's {6} needs to alias one of the two. Server code that calls ofetch's own {7} keeps ofetch's own options type: Nuxt's {8} is for Nuxt's typed {9}.",
+  "text": "Für eine URL, die deine App nicht ausliefert und bei der du den Antworttyp angibst, typisiere die Optionen als {0} aus {1} (oder aus {2} im App-Code). Das ist der Typ von Nuxt: Der gleichnamige Typ von ofetch typisiert {3} als einfachen {4}, den das typisierte {5} nicht akzeptiert. Eine Datei, die bereits {6} von ofetch importiert, muss daher einen der beiden Typen mit einem Alias versehen. Serverseitiger Code, der {7} von ofetch direkt aufruft, behält den Optionstyp von ofetch: {8} von Nuxt ist für das typisierte {9} von Nuxt gedacht.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Für eine URL, die deine App nicht ausliefert und bei der du den Antworttyp angibst, typisiere die Optionen als {0} aus {1} (oder aus {2} im App-Code). Das ist der Typ von Nuxt: Der gleichnamige Typ von ofetch typisiert {3} als einfachen {4}, den das typisierte {5} nicht akzeptiert. Eine Datei, die bereits {6} von ofetch importiert, muss daher einen der beiden Typen mit einem Alias versehen. Serverseitiger Code, der {7} von ofetch direkt aufruft, behält den Optionstyp von ofetch: {8} von Nuxt ist für das typisierte {9} von Nuxt gedacht."
+  },
+  "updatedAt": "2026-11-20T12:17:32.997Z"
+}

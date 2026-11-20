@@ -1,0 +1,14 @@
+{
+  "hash": "a52036dd5405116a",
+  "source": "Server code that calls ofetch's own {0} should import {1} from ofetch; Nuxt's {2} is for Nuxt's typed {3}.",
+  "text": "Serverseitiger Code, der das eigene {0} von ofetch aufruft, sollte {1} aus ofetch importieren. Der {2} von Nuxt ist für das typisierte {3} von Nuxt gedacht.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Serverseitiger Code, der das eigene {0} von ofetch aufruft, sollte {1} aus ofetch importieren. Der {2} von Nuxt ist für das typisierte {3} von Nuxt gedacht."
+  },
+  "updatedAt": "2026-11-20T12:17:32.997Z"
+}
