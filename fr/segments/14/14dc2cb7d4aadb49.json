@@ -1,0 +1,14 @@
+{
+  "hash": "14dc2cb7d4aadb49",
+  "source": "The option has no effect when Nuxt builds your server with Nitro v2 ({0}). It's on by default when your project depends on {1}, so that Nuxt builds the server with Nitro v3, unless {2} is {3}.",
+  "text": "L'option n'a aucun effet lorsque Nuxt construit votre serveur avec Nitro v2 ({0}). Elle est activée par défaut lorsque votre projet dépend de {1}, de sorte que Nuxt construit le serveur avec Nitro v3, sauf si {2} vaut {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'option n'a aucun effet lorsque Nuxt construit votre serveur avec Nitro v2 ({0}). Elle est activée par défaut lorsque votre projet dépend de {1}, de sorte que Nuxt construit le serveur avec Nitro v3, sauf si {2} vaut {3}."
+  },
+  "updatedAt": "2026-11-20T13:50:01.089Z"
+}
