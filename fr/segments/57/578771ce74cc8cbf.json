@@ -1,0 +1,14 @@
+{
+  "hash": "578771ce74cc8cbf",
+  "source": "Server Middleware Runs for WebSocket Upgrades",
+  "text": "Le middleware serveur s'exécute pour les mises à niveau WebSocket",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le middleware serveur s'exécute pour les mises à niveau WebSocket"
+  },
+  "updatedAt": "2026-11-20T19:15:07.579Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "578771ce74cc8cbf",
+  "source": "Server Middleware Runs for WebSocket Upgrades",
+  "text": "Server-Middleware wird bei WebSocket-Upgrades ausgeführt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Server-Middleware wird bei WebSocket-Upgrades ausgeführt"
+  },
+  "updatedAt": "2026-11-20T19:15:07.579Z"
+}

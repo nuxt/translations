@@ -1,0 +1,15 @@
+{
+  "hash": "a70496201fac0450",
+  "source": "The h3 v1 helpers that ended the response still end it. When a handler defined with {0} calls {1}, {2}, {3}, {4}, {5}, {6} or {7}, or handles a preflight request with {8}, Nuxt sends that response even if the handler returns nothing, and the request goes no further. A handler defined with {9} still gets its {10} hooks for a WebSocket upgrade request. The {11} hooks of such a handler run for the requests it responds to, and not for its WebSocket upgrade request.",
+  "text": "Die h3-v1-Hilfsfunktionen, die die Antwort beendeten, beenden sie weiterhin. Ruft ein mit {0} definierter Handler {1}, {2}, {3}, {4}, {5}, {6} oder {7} auf oder behandelt er eine Preflight-Anfrage mit {8}, sendet Nuxt diese Antwort, auch wenn der Handler nichts zurückgibt, und die Anfrage geht nicht weiter. Ein mit {9} definierter Handler erhält für eine WebSocket-Upgrade-Anfrage weiterhin seine {10}-Hooks. Die {11}-Hooks eines solchen Handlers laufen für die Anfragen, auf die er antwortet, und nicht für seine WebSocket-Upgrade-Anfrage.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "5633c3d63e20e882",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die h3-v1-Hilfsfunktionen, die die Antwort beendeten, beenden sie weiterhin. Ruft ein mit {0} definierter Handler {1}, {2}, {3}, {4}, {5}, {6} oder {7} auf oder behandelt er eine Preflight-Anfrage mit {8}, sendet Nuxt diese Antwort, auch wenn der Handler nichts zurückgibt, und die Anfrage geht nicht weiter. Ein mit {9} definierter Handler erhält für eine WebSocket-Upgrade-Anfrage weiterhin seine {10}-Hooks. Die {11}-Hooks eines solchen Handlers laufen für die Anfragen, auf die er antwortet, und nicht für seine WebSocket-Upgrade-Anfrage."
+  },
+  "updatedAt": "2026-11-20T19:15:07.579Z"
+}
