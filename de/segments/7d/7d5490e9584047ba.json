@@ -1,0 +1,15 @@
+{
+  "hash": "7d5490e9584047ba",
+  "source": "Search, add, remove, and build Nuxt modules from the command line.",
+  "text": "Suche, füge hinzu, entferne und erzeuge Nuxt-Module über die Kommandozeile.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "a83a86d26e7c102d",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Suche, füge hinzu, entferne und erzeuge Nuxt-Module über die Kommandozeile."
+  },
+  "updatedAt": "2026-11-21T15:37:44.165Z"
+}

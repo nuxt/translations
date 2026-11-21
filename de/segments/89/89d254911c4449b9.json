@@ -1,0 +1,14 @@
+{
+  "hash": "89d254911c4449b9",
+  "source": "Output directory, relative to the module root (default: {0})",
+  "text": "Ausgabeverzeichnis relativ zum Modulstamm (Standard: {0})",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ausgabeverzeichnis relativ zum Modulstamm (Standard: {0})"
+  },
+  "updatedAt": "2026-11-21T15:37:44.165Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "a018b929ffecd74f",
+  "source": "Specify the root directory of your Nuxt module",
+  "text": "Gib das Stammverzeichnis deines Nuxt-Moduls an",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gib das Stammverzeichnis deines Nuxt-Moduls an"
+  },
+  "updatedAt": "2026-11-21T15:37:44.165Z"
+}

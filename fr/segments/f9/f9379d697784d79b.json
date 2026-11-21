@@ -1,0 +1,14 @@
+{
+  "hash": "f9379d697784d79b",
+  "source": "The command creates the {0} directory and generates types for your module by running {1} from {2} with all arguments passed through.",
+  "text": "La commande crée le répertoire {0} et génère les types de votre module en exécutant {1} depuis {2}, en lui transmettant tous les arguments.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La commande crée le répertoire {0} et génère les types de votre module en exécutant {1} depuis {2}, en lui transmettant tous les arguments."
+  },
+  "updatedAt": "2026-11-21T15:37:44.165Z"
+}

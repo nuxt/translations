@@ -1,0 +1,14 @@
+{
+  "hash": "dc0a944ed76b5615",
+  "source": "The root directory of your Nuxt module (default: .)",
+  "text": "Le répertoire racine de votre module Nuxt (par défaut : .)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le répertoire racine de votre module Nuxt (par défaut : .)"
+  },
+  "updatedAt": "2026-11-21T15:37:44.165Z"
+}

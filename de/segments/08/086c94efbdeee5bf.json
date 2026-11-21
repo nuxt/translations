@@ -1,0 +1,14 @@
+{
+  "hash": "086c94efbdeee5bf",
+  "source": "The command builds your module for publishing by running {0} from {1} with all arguments passed through. {2} must be installed in your module.",
+  "text": "Der Befehl erzeugt dein Modul für die Veröffentlichung, indem er {0} aus {1} ausführt und alle Argumente weiterreicht. {2} muss in deinem Modul installiert sein.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Befehl erzeugt dein Modul für die Veröffentlichung, indem er {0} aus {1} ausführt und alle Argumente weiterreicht. {2} muss in deinem Modul installiert sein."
+  },
+  "updatedAt": "2026-11-21T15:37:44.165Z"
+}

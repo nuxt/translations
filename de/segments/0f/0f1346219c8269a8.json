@@ -1,0 +1,14 @@
+{
+  "hash": "0f1346219c8269a8",
+  "source": "Emit source maps",
+  "text": "Source Maps ausgeben",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Source Maps ausgeben"
+  },
+  "updatedAt": "2026-11-21T15:37:44.165Z"
+}
