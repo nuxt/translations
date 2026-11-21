@@ -1,0 +1,3 @@
+# Enable machine translation for the Russian locale.
+mt:
+  enabled: true
