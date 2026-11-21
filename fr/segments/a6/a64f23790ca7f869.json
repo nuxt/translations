@@ -1,0 +1,14 @@
+{
+  "hash": "a64f23790ca7f869",
+  "source": "Called after each route is prerendered, with its {0}, {1}, the {2} number of routes queued so far (which grows while links are crawled), the {3} it was written to, whether it was {4}, and an {5} ({6} and {7}) when it failed, with the pages that link to it ({8}) where known.",
+  "text": "Appelé après le prérendu de chaque route, avec son {0}, son {1}, le nombre {2} de routes mises en file d'attente jusqu'ici (qui augmente pendant l'exploration des liens), le {3} dans lequel elle a été écrite, si elle a été {4}, et une {5} ({6} et {7}) en cas d'échec, avec les pages qui pointent vers elle ({8}) lorsqu'elles sont connues.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé après le prérendu de chaque route, avec son {0}, son {1}, le nombre {2} de routes mises en file d'attente jusqu'ici (qui augmente pendant l'exploration des liens), le {3} dans lequel elle a été écrite, si elle a été {4}, et une {5} ({6} et {7}) en cas d'échec, avec les pages qui pointent vers elle ({8}) lorsqu'elles sont connues."
+  },
+  "updatedAt": "2026-11-21T18:19:47.187Z"
+}

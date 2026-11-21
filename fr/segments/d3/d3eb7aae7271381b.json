@@ -1,0 +1,14 @@
+{
+  "hash": "d3eb7aae7271381b",
+  "source": "Called in a production build once a bundle has been written to disk, with how long it took, where it was written and the {0} (relative to {1}) and {2} of each file.",
+  "text": "Appelé dans un build de production une fois qu'un bundle a été écrit sur le disque, avec sa durée de construction, son emplacement d'écriture ainsi que le {0} (relatif à {1}) et le {2} de chaque fichier.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé dans un build de production une fois qu'un bundle a été écrit sur le disque, avec sa durée de construction, son emplacement d'écriture ainsi que le {0} (relatif à {1}) et le {2} de chaque fichier."
+  },
+  "updatedAt": "2026-11-21T18:19:47.187Z"
+}

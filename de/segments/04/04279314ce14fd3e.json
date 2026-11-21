@@ -1,0 +1,14 @@
+{
+  "hash": "04279314ce14fd3e",
+  "source": "The Nuxt CLI renders the progress and output of a production build from the {0}{1} and {2} hooks{/0}, rather than from the bundler's own logs. An app builder calls them for every bundle it writes, and leaves its bundler printing only warnings and errors in a production build, unless the project sets the bundler's log level itself.",
+  "text": "Die Nuxt-Kommandozeilenschnittstelle (CLI) stellt Fortschritt und Ausgabe eines Produktions-Builds anhand der Hooks {0}{1} und {2}{/0} dar, nicht anhand der eigenen Protokolle des Bundlers. Ein App-Builder ruft sie für jedes geschriebene Bundle auf und lässt seinen Bundler in einem Produktions-Build nur Warnungen und Fehler ausgeben, sofern das Projekt die Protokollstufe des Bundlers nicht selbst festlegt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Nuxt-Kommandozeilenschnittstelle (CLI) stellt Fortschritt und Ausgabe eines Produktions-Builds anhand der Hooks {0}{1} und {2}{/0} dar, nicht anhand der eigenen Protokolle des Bundlers. Ein App-Builder ruft sie für jedes geschriebene Bundle auf und lässt seinen Bundler in einem Produktions-Build nur Warnungen und Fehler ausgeben, sofern das Projekt die Protokollstufe des Bundlers nicht selbst festlegt."
+  },
+  "updatedAt": "2026-11-21T18:19:47.187Z"
+}

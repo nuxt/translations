@@ -1,0 +1,14 @@
+{
+  "hash": "1b50547349ea7c05",
+  "source": "Reporting Production Bundles",
+  "text": "Signalement des bundles de production",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Signalement des bundles de production"
+  },
+  "updatedAt": "2026-11-21T18:19:47.187Z"
+}

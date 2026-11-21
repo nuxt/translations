@@ -1,0 +1,14 @@
+{
+  "hash": "0df7484a86d61fe0",
+  "source": "Called when prerendering finishes, before the build fails for any route that failed to render. Each entry in {0} has the same {1}, {2}, {3} and {4}.",
+  "text": "Wird aufgerufen, wenn das Vorab-Rendering abgeschlossen ist, bevor der Build für Routen fehlschlägt, die nicht gerendert werden konnten. Jeder Eintrag in {0} hat dieselben {1}, {2}, {3} und {4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird aufgerufen, wenn das Vorab-Rendering abgeschlossen ist, bevor der Build für Routen fehlschlägt, die nicht gerendert werden konnten. Jeder Eintrag in {0} hat dieselben {1}, {2}, {3} und {4}."
+  },
+  "updatedAt": "2026-11-21T18:19:47.187Z"
+}

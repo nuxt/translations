@@ -1,0 +1,14 @@
+{
+  "hash": "c353f2c885257e52",
+  "source": "the deploy target's own deploy command",
+  "text": "der eigene Bereitstellungsbefehl des Bereitstellungsziels",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "der eigene Bereitstellungsbefehl des Bereitstellungsziels"
+  },
+  "updatedAt": "2026-11-21T18:19:47.187Z"
+}

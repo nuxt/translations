@@ -1,0 +1,14 @@
+{
+  "hash": "b636e9930265c12f",
+  "source": "Called in a production build when a bundle starts, with its {0}, {1} ({2} or {3}) and the {4} that bundles it. Every bundle the app builder and the server builder write is reported, including intermediate ones, and bundles built concurrently overlap.",
+  "text": "Appelé dans un build de production lorsqu'un bundle démarre, avec son {0}, son {1} ({2} ou {3}) et le {4} qui le génère. Chaque bundle écrit par le constructeur de l'application et par celui du serveur est signalé, y compris les bundles intermédiaires, et les bundles construits en parallèle se chevauchent.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé dans un build de production lorsqu'un bundle démarre, avec son {0}, son {1} ({2} ou {3}) et le {4} qui le génère. Chaque bundle écrit par le constructeur de l'application et par celui du serveur est signalé, y compris les bundles intermédiaires, et les bundles construits en parallèle se chevauchent."
+  },
+  "updatedAt": "2026-11-21T18:19:47.187Z"
+}

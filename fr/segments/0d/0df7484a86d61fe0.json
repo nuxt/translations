@@ -1,0 +1,14 @@
+{
+  "hash": "0df7484a86d61fe0",
+  "source": "Called when prerendering finishes, before the build fails for any route that failed to render. Each entry in {0} has the same {1}, {2}, {3} and {4}.",
+  "text": "Appelé à la fin du prérendu, avant que le build n'échoue pour toute route dont le rendu a échoué. Chaque entrée de {0} possède les mêmes {1}, {2}, {3} et {4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé à la fin du prérendu, avant que le build n'échoue pour toute route dont le rendu a échoué. Chaque entrée de {0} possède les mêmes {1}, {2}, {3} et {4}."
+  },
+  "updatedAt": "2026-11-21T18:19:47.187Z"
+}

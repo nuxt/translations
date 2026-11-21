@@ -1,0 +1,14 @@
+{
+  "hash": "59ba3b2a349a17b7",
+  "source": "The preview command runs from {0}, and the deploy command from the project root ({1}). The paths in each are relative to the directory it runs from.",
+  "text": "La commande de prévisualisation s'exécute depuis {0}, et la commande de déploiement depuis la racine du projet ({1}). Les chemins de chacune sont relatifs au répertoire depuis lequel elle s'exécute.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La commande de prévisualisation s'exécute depuis {0}, et la commande de déploiement depuis la racine du projet ({1}). Les chemins de chacune sont relatifs au répertoire depuis lequel elle s'exécute."
+  },
+  "updatedAt": "2026-11-21T18:19:47.187Z"
+}

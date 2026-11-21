@@ -1,0 +1,14 @@
+{
+  "hash": "8a4df09eb21b86ae",
+  "source": "Call {0} once the files are on disk. Bundles that build concurrently report their own start and end, so the calls for different environments may interleave. A server builder reports its own bundle the same way, and reports prerendering through the {1}, {2} and {3} hooks.",
+  "text": "Rufe {0} auf, sobald die Dateien auf dem Datenträger liegen. Bundles, die gleichzeitig erzeugt werden, melden ihren eigenen Start und ihr eigenes Ende, sodass sich die Aufrufe für verschiedene Umgebungen überschneiden können. Ein Server-Builder meldet sein eigenes Bundle auf dieselbe Weise und meldet das Vorab-Rendering über die Hooks {1}, {2} und {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Rufe {0} auf, sobald die Dateien auf dem Datenträger liegen. Bundles, die gleichzeitig erzeugt werden, melden ihren eigenen Start und ihr eigenes Ende, sodass sich die Aufrufe für verschiedene Umgebungen überschneiden können. Ein Server-Builder meldet sein eigenes Bundle auf dieselbe Weise und meldet das Vorab-Rendering über die Hooks {1}, {2} und {3}."
+  },
+  "updatedAt": "2026-11-21T18:19:47.187Z"
+}

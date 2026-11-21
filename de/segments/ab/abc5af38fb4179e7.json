@@ -1,0 +1,14 @@
+{
+  "hash": "abc5af38fb4179e7",
+  "source": "the command that serves the build locally",
+  "text": "der Befehl, der den Build lokal bereitstellt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "der Befehl, der den Build lokal bereitstellt"
+  },
+  "updatedAt": "2026-11-21T18:19:47.187Z"
+}

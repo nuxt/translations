@@ -1,0 +1,14 @@
+{
+  "hash": "59ba3b2a349a17b7",
+  "source": "The preview command runs from {0}, and the deploy command from the project root ({1}). The paths in each are relative to the directory it runs from.",
+  "text": "Der Preview-Befehl wird aus {0} ausgeführt, der Bereitstellungsbefehl aus dem Projektstammverzeichnis ({1}). Die Pfade in beiden sind relativ zum Verzeichnis, aus dem der jeweilige Befehl ausgeführt wird.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Der Preview-Befehl wird aus {0} ausgeführt, der Bereitstellungsbefehl aus dem Projektstammverzeichnis ({1}). Die Pfade in beiden sind relativ zum Verzeichnis, aus dem der jeweilige Befehl ausgeführt wird."
+  },
+  "updatedAt": "2026-11-21T18:19:47.187Z"
+}

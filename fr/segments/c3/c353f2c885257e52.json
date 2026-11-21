@@ -1,0 +1,14 @@
+{
+  "hash": "c353f2c885257e52",
+  "source": "the deploy target's own deploy command",
+  "text": "la commande de déploiement propre à la cible de déploiement",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "la commande de déploiement propre à la cible de déploiement"
+  },
+  "updatedAt": "2026-11-21T18:19:47.187Z"
+}

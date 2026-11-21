@@ -1,0 +1,14 @@
+{
+  "hash": "a26183cbe7996253",
+  "source": "paths relative to {0}, and sizes in bytes as written",
+  "text": "Pfade relativ zu {0} und Größen in Bytes, wie geschrieben",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pfade relativ zu {0} und Größen in Bytes, wie geschrieben"
+  },
+  "updatedAt": "2026-11-21T18:19:47.187Z"
+}

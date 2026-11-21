@@ -1,0 +1,14 @@
+{
+  "hash": "1da5e0108a79129f",
+  "source": "Called when prerendering starts, with the number of routes it starts from, whichever server builder prerenders.",
+  "text": "Wird aufgerufen, wenn das Vorab-Rendering startet, mit der Anzahl der Routen, von denen es ausgeht – unabhängig davon, welcher Server-Builder das Vorab-Rendering durchführt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wird aufgerufen, wenn das Vorab-Rendering startet, mit der Anzahl der Routen, von denen es ausgeht – unabhängig davon, welcher Server-Builder das Vorab-Rendering durchführt."
+  },
+  "updatedAt": "2026-11-21T18:19:47.187Z"
+}
