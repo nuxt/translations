@@ -1,0 +1,14 @@
+{
+  "hash": "57ef3bd47660987d",
+  "source": "Requests are served over HTTP/2, so the browser loads the modules of a page in parallel on a single connection. HTTP/1.1 remains available for WebSockets and for clients without HTTP/2. Projects on Nitro older than 2.13.3 are served over HTTP/1.1 only.",
+  "text": "Anfragen werden über HTTP/2 bearbeitet, sodass der Browser die Module einer Seite parallel über eine einzige Verbindung lädt. HTTP/1.1 bleibt für WebSockets und für Clients ohne HTTP/2 weiterhin verfügbar. Projekte mit einer Nitro-Version älter als 2.13.3 werden ausschließlich über HTTP/1.1 ausgeliefert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Anfragen werden über HTTP/2 bearbeitet, sodass der Browser die Module einer Seite parallel über eine einzige Verbindung lädt. HTTP/1.1 bleibt für WebSockets und für Clients ohne HTTP/2 weiterhin verfügbar. Projekte mit einer Nitro-Version älter als 2.13.3 werden ausschließlich über HTTP/1.1 ausgeliefert."
+  },
+  "updatedAt": "2026-11-22T11:27:43.128Z"
+}

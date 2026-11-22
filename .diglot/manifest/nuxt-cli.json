@@ -2,7 +2,7 @@
   "version": 1,
   "source": "nuxt-cli",
   "ref": "main",
-  "sha": "860176c4c8655f8768196921f89af75f88834d5e",
+  "sha": "daa1d36b2921e9228c679f68ab8220cd2cf2913c",
   "policy": "f6e446c627d4102c",
   "files": {
     "docs/.navigation.yml": [
@@ -496,6 +496,7 @@
       {"hash":"36afebe4bba7c945","kind":"paragraph","format":"markdown","words":13,"skeleton":"The same lock file is how {0} and {1} find the server to talk to.","placeholders":["link","link"]},
       {"hash":"205ecf3f81bf7ebb","kind":"heading","format":"markdown","words":1,"skeleton":"HTTPS"},
       {"hash":"1a1d647914127027","kind":"paragraph","format":"markdown","words":29,"skeleton":"{0} serves over TLS, generating a locally-trusted certificate with {1} when it is installed and a self-signed one otherwise. {2} and {3} use a certificate you already have, and {4} with {5} a PKCS#12 keystore.","placeholders":["code","code","code","code","code","code"]},
+      {"hash":"57ef3bd47660987d","kind":"paragraph","format":"markdown","words":40,"skeleton":"Requests are served over HTTP/2, so the browser loads the modules of a page in parallel on a single connection. HTTP/1.1 remains available for WebSockets and for clients without HTTP/2. Projects on Nitro older than 2.13.3 are served over HTTP/1.1 only."},
       {"hash":"c372e183f6b9de5a","kind":"component-slot","format":"markdown","words":32,"skeleton":"Node does not read your system trust store, so requests made from Node to a server using a generated certificate will not trust it. Set {0} to the certificate authority that issued it.","placeholders":["code"]},
       {"hash":"47fc5bfb5680bd7a","kind":"heading","format":"markdown","words":1,"skeleton":"Debugging"},
       {"hash":"68bb62c5867df49d","kind":"paragraph","format":"markdown","words":47,"skeleton":"{0} opens the Node.js inspector for your server code: server routes, middleware and server-side rendering, which run in a Nitro worker thread. It accepts an optional {1} and defaults to {2}, so Chrome DevTools ({3}) and most editors find it without configuration. Your debugger reconnects automatically when the server reloads.","placeholders":["code","code","code","code"]},
