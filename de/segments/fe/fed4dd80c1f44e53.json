@@ -1,0 +1,14 @@
+{
+  "hash": "fed4dd80c1f44e53",
+  "source": "To try your tools locally, turn on {0} in Chrome, or start it with {1}, and open your app on {2}, as WebMCP requires a secure context. You also need an agent that calls WebMCP tools, such as the {3}Model Context Tool Inspector{/3} extension.",
+  "text": "Um deine Tools lokal auszuprobieren, aktiviere {0} in Chrome oder starte es mit {1} und öffne deine App unter {2}, da WebMCP einen sicheren Kontext erfordert. Außerdem brauchst du einen Agenten, der WebMCP-Tools aufruft, etwa die Erweiterung {3}Model Context Tool Inspector{/3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um deine Tools lokal auszuprobieren, aktiviere {0} in Chrome oder starte es mit {1} und öffne deine App unter {2}, da WebMCP einen sicheren Kontext erfordert. Außerdem brauchst du einen Agenten, der WebMCP-Tools aufruft, etwa die Erweiterung {3}Model Context Tool Inspector{/3}."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

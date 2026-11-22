@@ -1,0 +1,14 @@
+{
+  "hash": "2d1e746d90ac769c",
+  "source": "a value that none of the options offers, leaving out any {0} or {1} that is hidden with the {2} attribute or {3}",
+  "text": "ein Wert, den keine der Optionen anbietet; ausgenommen sind {0} oder {1}, die mit dem Attribut {2} oder {3} ausgeblendet sind",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "ein Wert, den keine der Optionen anbietet; ausgenommen sind {0} oder {1}, die mit dem Attribut {2} oder {3} ausgeblendet sind"
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

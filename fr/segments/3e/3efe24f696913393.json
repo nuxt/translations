@@ -1,0 +1,14 @@
+{
+  "hash": "3efe24f696913393",
+  "source": "A token is tied to the origin it was registered for and expires, so other origins, such as staging or preview deployments, need their own.",
+  "text": "Un jeton est lié à l'origine pour laquelle il a été enregistré et expire : les autres origines, comme les déploiements de staging ou de prévisualisation, ont donc besoin du leur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un jeton est lié à l'origine pour laquelle il a été enregistré et expire : les autres origines, comme les déploiements de staging ou de prévisualisation, ont donc besoin du leur."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "fed5d19948f952f1",
+  "source": "{0}WebMCP{/0} is a proposed browser API that lets a page offer tools to AI agents running in the browser, so an agent can add something to a cart or submit a form without guessing which button to click. Nuxt can turn the actions your templates already bind into WebMCP tools.",
+  "text": "{0}WebMCP{/0} ist eine vorgeschlagene Browser-API, mit der eine Seite Tools für KI-Agenten bereitstellen kann, die im Browser laufen. So kann ein Agent etwas in den Warenkorb legen oder ein Formular absenden, ohne zu raten, auf welche Schaltfläche er klicken muss. Nuxt kann die Aktionen, die deine Vorlagen bereits binden, in WebMCP-Tools umwandeln.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}WebMCP{/0} ist eine vorgeschlagene Browser-API, mit der eine Seite Tools für KI-Agenten bereitstellen kann, die im Browser laufen. So kann ein Agent etwas in den Warenkorb legen oder ein Formular absenden, ohne zu raten, auf welche Schaltfläche er klicken muss. Nuxt kann die Aktionen, die deine Vorlagen bereits binden, in WebMCP-Tools umwandeln."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

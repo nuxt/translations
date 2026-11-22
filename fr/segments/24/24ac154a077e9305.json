@@ -1,0 +1,14 @@
+{
+  "hash": "24ac154a077e9305",
+  "source": "This registers an {0} tool, and:",
+  "text": "Cela enregistre un outil {0}, et :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela enregistre un outil {0}, et :"
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

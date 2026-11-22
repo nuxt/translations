@@ -1,0 +1,14 @@
+{
+  "hash": "427264ac7e2952d4",
+  "source": "The tool has effects that are hard to undo, so the browser or agent may ask the user first.",
+  "text": "L'outil a des effets difficiles à annuler, donc le navigateur ou l'agent peut demander d'abord confirmation à l'utilisateur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'outil a des effets difficiles à annuler, donc le navigateur ou l'agent peut demander d'abord confirmation à l'utilisateur."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

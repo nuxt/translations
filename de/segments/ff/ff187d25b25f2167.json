@@ -1,0 +1,14 @@
+{
+  "hash": "ff187d25b25f2167",
+  "source": "A field that is moved off-screen, clipped or covered by another element counts as rendered.",
+  "text": "Ein Feld, das außerhalb des sichtbaren Bereichs verschoben, abgeschnitten oder von einem anderen Element verdeckt wird, gilt als gerendert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein Feld, das außerhalb des sichtbaren Bereichs verschoben, abgeschnitten oder von einem anderen Element verdeckt wird, gilt als gerendert."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

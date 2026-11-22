@@ -1,0 +1,14 @@
+{
+  "hash": "a2b13cee4f55c2aa",
+  "source": "Defaults are read when the form mounts, so a field that is hidden afterwards keeps the default it was published with.",
+  "text": "Les valeurs par défaut sont lues au montage du formulaire : un champ masqué par la suite conserve donc la valeur par défaut avec laquelle il a été publié.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les valeurs par défaut sont lues au montage du formulaire : un champ masqué par la suite conserve donc la valeur par défaut avec laquelle il a été publié."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

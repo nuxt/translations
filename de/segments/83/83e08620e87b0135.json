@@ -1,0 +1,14 @@
+{
+  "hash": "83e08620e87b0135",
+  "source": "webmcp",
+  "text": "webmcp",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "webmcp"
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

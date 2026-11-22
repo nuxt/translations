@@ -1,0 +1,14 @@
+{
+  "hash": "06479ae975d20571",
+  "source": "a call runs the bound expression, and its return value is the tool result.",
+  "text": "un appel exécute l'expression liée, et sa valeur de retour constitue le résultat de l'outil.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "un appel exécute l'expression liée, et sa valeur de retour constitue le résultat de l'outil."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "6829cb95db656d83",
+  "source": "Offer the app's actions to AI agents in the browser through {0}WebMCP{/0}: functions bound in a template and tagged with {1}, and tools activated with {2}.",
+  "text": "Stelle die Aktionen der App KI-Agenten im Browser über {0}WebMCP{/0} zur Verfügung: Funktionen, die in einer Vorlage gebunden und mit {1} markiert sind, sowie Tools, die mit {2} aktiviert werden.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Stelle die Aktionen der App KI-Agenten im Browser über {0}WebMCP{/0} zur Verfügung: Funktionen, die in einer Vorlage gebunden und mit {1} markiert sind, sowie Tools, die mit {2} aktiviert werden."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

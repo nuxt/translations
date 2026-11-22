@@ -1,0 +1,14 @@
+{
+  "hash": "a2b13cee4f55c2aa",
+  "source": "Defaults are read when the form mounts, so a field that is hidden afterwards keeps the default it was published with.",
+  "text": "Standardwerte werden beim Einbinden des Formulars gelesen. Ein Feld, das danach ausgeblendet wird, behält daher den Standardwert, mit dem es veröffentlicht wurde.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Standardwerte werden beim Einbinden des Formulars gelesen. Ein Feld, das danach ausgeblendet wird, behält daher den Standardwert, mit dem es veröffentlicht wurde."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

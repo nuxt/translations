@@ -1,0 +1,14 @@
+{
+  "hash": "49090f9c6fbd7c56",
+  "source": "This is an experimental feature, built on an API that is still being designed. Tools register only in {0}browsers that support WebMCP{/0}.",
+  "text": "Cette fonctionnalité est expérimentale et repose sur une API encore en cours de conception. Les outils ne sont enregistrés que dans les {0}navigateurs qui prennent en charge WebMCP{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette fonctionnalité est expérimentale et repose sur une API encore en cours de conception. Les outils ne sont enregistrés que dans les {0}navigateurs qui prennent en charge WebMCP{/0}."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

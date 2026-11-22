@@ -1,0 +1,14 @@
+{
+  "hash": "4bbf99b26347db20",
+  "source": "Tools from Templates",
+  "text": "Tools aus Vorlagen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Tools aus Vorlagen"
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

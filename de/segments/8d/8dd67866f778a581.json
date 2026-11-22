@@ -1,0 +1,14 @@
+{
+  "hash": "8dd67866f778a581",
+  "source": "a disabled {0}, radio button or checkbox",
+  "text": "ein deaktiviertes {0}, ein deaktivierter Radiobutton oder eine deaktivierte Checkbox",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "ein deaktiviertes {0}, ein deaktivierter Radiobutton oder eine deaktivierte Checkbox"
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

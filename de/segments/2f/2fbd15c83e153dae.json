@@ -1,0 +1,14 @@
+{
+  "hash": "2fbd15c83e153dae",
+  "source": "{0} controls whether the tool, or one of its targets, can run;",
+  "text": "{0} steuert, ob das Tool oder eines seiner Ziele ausgeführt werden kann.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} steuert, ob das Tool oder eines seiner Ziele ausgeführt werden kann."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "aba108ce32976030",
+  "source": "The tool only reads, so an agent can call it freely.",
+  "text": "Das Tool liest nur, daher kann ein Agent es beliebig aufrufen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Tool liest nur, daher kann ein Agent es beliebig aufrufen."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

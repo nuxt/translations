@@ -1,0 +1,14 @@
+{
+  "hash": "48f7da82b40d60a1",
+  "source": "Nuxt warns at build time about bindings that cannot become tools (such as handlers that wrap a {0} function, or a {1} keyed by its index), descriptions that do not follow the {2}WebMCP tool design guidance{/2}, and form fields without a label. In development, it also warns about tools and results that are longer than agents handle well.",
+  "text": "Nuxt warnt zur Build-Zeit vor Bindungen, die nicht zu Tools werden können (etwa Handler, die eine {0}-Funktion umschließen, oder ein {1}, das über seinen Index adressiert wird), vor Beschreibungen, die nicht den {2}Richtlinien für das Design von WebMCP-Tools{/2} folgen, und vor Formularfeldern ohne Label. In der Entwicklung warnt es außerdem vor Tools und Ergebnissen, die länger sind, als Agenten gut verarbeiten können.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt warnt zur Build-Zeit vor Bindungen, die nicht zu Tools werden können (etwa Handler, die eine {0}-Funktion umschließen, oder ein {1}, das über seinen Index adressiert wird), vor Beschreibungen, die nicht den {2}Richtlinien für das Design von WebMCP-Tools{/2} folgen, und vor Formularfeldern ohne Label. In der Entwicklung warnt es außerdem vor Tools und Ergebnissen, die länger sind, als Agenten gut verarbeiten können."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

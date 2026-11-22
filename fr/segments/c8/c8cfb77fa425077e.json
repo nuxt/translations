@@ -1,0 +1,14 @@
+{
+  "hash": "c8cfb77fa425077e",
+  "source": "Tag a function with {0} in its JSDoc and bind it to {1} or {2} on an element, or to an event on a component. Nuxt registers a tool named after the function, described by the JSDoc summary:",
+  "text": "Ajoutez {0} au JSDoc d'une fonction et liez-la à {1} ou {2} sur un élément, ou à un événement sur un composant. Nuxt enregistre un outil portant le nom de la fonction, décrit par le résumé du JSDoc :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ajoutez {0} au JSDoc d'une fonction et liez-la à {1} ou {2} sur un élément, ou à un événement sur un composant. Nuxt enregistre un outil portant le nom de la fonction, décrit par le résumé du JSDoc :"
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

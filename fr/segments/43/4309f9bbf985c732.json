@@ -1,0 +1,14 @@
+{
+  "hash": "4309f9bbf985c732",
+  "source": "the arguments come from the template, so the agent cannot pass a SKU that is not on the page;",
+  "text": "les arguments proviennent du template, de sorte que l'agent ne peut pas transmettre un SKU absent de la page ;",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "les arguments proviennent du template, de sorte que l'agent ne peut pas transmettre un SKU absent de la page ;"
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

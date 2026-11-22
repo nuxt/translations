@@ -1,0 +1,14 @@
+{
+  "hash": "aa79379a2b922920",
+  "source": "Write descriptions for the agent: say what the tool does for the user and when to use it, and leave implementation details out.",
+  "text": "Rédigez les descriptions à l'intention de l'agent : indiquez ce que l'outil fait pour l'utilisateur et quand l'utiliser, et laissez de côté les détails d'implémentation.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Rédigez les descriptions à l'intention de l'agent : indiquez ce que l'outil fait pour l'utilisateur et quand l'utiliser, et laissez de côté les détails d'implémentation."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

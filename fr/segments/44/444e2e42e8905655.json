@@ -1,0 +1,14 @@
+{
+  "hash": "444e2e42e8905655",
+  "source": "Pass a {0}Standard Schema{/0} (such as Zod, Valibot or ArkType) with {1}, or bind it to the form as {2}, to validate the input. A schema that implements Standard JSON Schema, such as a Zod schema, or a Valibot schema wrapped in {3} from {4}, also describes the input to the agent. Otherwise, types come from the current values and the native controls. Labels become descriptions.",
+  "text": "Passez un {0}Standard Schema{/0} (comme Zod, Valibot ou ArkType) avec {1}, ou liez-le au formulaire sous la forme {2}, pour valider l'entrée. Un schéma qui implémente Standard JSON Schema, comme un schéma Zod, ou un schéma Valibot enveloppé dans {3} de {4}, décrit également l'entrée à l'agent. Sinon, les types proviennent des valeurs actuelles et des contrôles natifs. Les libellés deviennent des descriptions.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Passez un {0}Standard Schema{/0} (comme Zod, Valibot ou ArkType) avec {1}, ou liez-le au formulaire sous la forme {2}, pour valider l'entrée. Un schéma qui implémente Standard JSON Schema, comme un schéma Zod, ou un schéma Valibot enveloppé dans {3} de {4}, décrit également l'entrée à l'agent. Sinon, les types proviennent des valeurs actuelles et des contrôles natifs. Les libellés deviennent des descriptions."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "858451263b1b9b41",
+  "source": "Forms",
+  "text": "Formulaires",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Formulaires"
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

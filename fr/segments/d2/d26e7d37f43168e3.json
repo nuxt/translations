@@ -1,0 +1,14 @@
+{
+  "hash": "d26e7d37f43168e3",
+  "source": "A default that your schema declares for a property is published as written, whatever the field. Keep secrets out of schema defaults.",
+  "text": "Une valeur par défaut que votre schéma déclare pour une propriété est publiée telle quelle, quel que soit le champ. Ne placez pas de secrets dans les valeurs par défaut du schéma.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une valeur par défaut que votre schéma déclare pour une propriété est publiée telle quelle, quel que soit le champ. Ne placez pas de secrets dans les valeurs par défaut du schéma."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

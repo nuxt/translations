@@ -1,0 +1,14 @@
+{
+  "hash": "d1e4a9c050c5a735",
+  "source": "Flags after {0} describe the action:",
+  "text": "Les indicateurs placés après {0} décrivent l'action :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les indicateurs placés après {0} décrivent l'action :"
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

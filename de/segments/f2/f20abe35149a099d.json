@@ -1,0 +1,14 @@
+{
+  "hash": "f20abe35149a099d",
+  "source": "To offer tools to your users, {0}register your site for the WebMCP origin trial{/0} and add the token to your pages:",
+  "text": "Um deinen Nutzenden Tools anzubieten, {0}registriere deine Website für den WebMCP-Origin-Trial{/0} und füge das Token zu deinen Seiten hinzu:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Um deinen Nutzenden Tools anzubieten, {0}registriere deine Website für den WebMCP-Origin-Trial{/0} und füge das Token zu deinen Seiten hinzu:"
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

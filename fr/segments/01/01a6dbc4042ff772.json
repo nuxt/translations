@@ -1,0 +1,14 @@
+{
+  "hash": "01a6dbc4042ff772",
+  "source": "WebMCP is in early preview in Chrome and is not turned on by default. Where it is unavailable, no tools register and your app behaves as it does without this feature.",
+  "text": "WebMCP est en préversion précoce dans Chrome et n'est pas activé par défaut. Lorsqu'il n'est pas disponible, aucun outil n'est enregistré et votre application se comporte comme sans cette fonctionnalité.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "WebMCP est en préversion précoce dans Chrome et n'est pas activé par défaut. Lorsqu'il n'est pas disponible, aucun outil n'est enregistré et votre application se comporte comme sans cette fonctionnalité."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

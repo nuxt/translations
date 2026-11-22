@@ -1,0 +1,14 @@
+{
+  "hash": "0d0bc364a853cd7c",
+  "source": "Add one of a product to the cart. Use when the user wants to buy something.",
+  "text": "Legt ein Exemplar eines Produkts in den Warenkorb. Verwenden, wenn die nutzende Person etwas kaufen möchte.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Legt ein Exemplar eines Produkts in den Warenkorb. Verwenden, wenn die nutzende Person etwas kaufen möchte."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

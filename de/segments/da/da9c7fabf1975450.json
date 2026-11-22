@@ -1,0 +1,14 @@
+{
+  "hash": "da9c7fabf1975450",
+  "source": "These checks keep an agent to what the page offers the user. Validate and authorize every submission on the server, as you would for any other request.",
+  "text": "Diese Prüfungen beschränken einen Agenten auf das, was die Seite den Nutzenden anbietet. Validiere und autorisiere jede Übermittlung auf dem Server, so wie bei jeder anderen Anfrage.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diese Prüfungen beschränken einen Agenten auf das, was die Seite den Nutzenden anbietet. Validiere und autorisiere jede Übermittlung auf dem Server, so wie bei jeder anderen Anfrage."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

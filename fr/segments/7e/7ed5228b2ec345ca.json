@@ -1,0 +1,14 @@
+{
+  "hash": "7ed5228b2ec345ca",
+  "source": "inside a {0}, the agent picks an item by its {1} as {2}, and a shared {3} tool lists the items on screen with their text;",
+  "text": "dans un {0}, l'agent choisit un élément par son {1} sous la forme {2}, et un outil partagé {3} liste les éléments à l'écran avec leur texte ;",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "dans un {0}, l'agent choisit un élément par son {1} sous la forme {2}, et un outil partagé {3} liste les éléments à l'écran avec leur texte ;"
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

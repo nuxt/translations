@@ -1,0 +1,14 @@
+{
+  "hash": "d2692f9117ea7196",
+  "source": "The user must complete the action. A call highlights the control (or fills in the form) and returns {0} instead of running it.",
+  "text": "Die nutzende Person muss die Aktion abschließen. Ein Aufruf hebt das Bedienelement hervor (oder füllt das Formular aus) und gibt {0} zurück, anstatt die Aktion auszuführen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die nutzende Person muss die Aktion abschließen. Ein Aufruf hebt das Bedienelement hervor (oder füllt das Formular aus) und gibt {0} zurück, anstatt die Aktion auszuführen."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

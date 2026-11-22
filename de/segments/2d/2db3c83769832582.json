@@ -1,0 +1,14 @@
+{
+  "hash": "2db3c83769832582",
+  "source": "Offer your app's actions to AI agents in the browser, as WebMCP tools.",
+  "text": "Stelle die Aktionen deiner App KI-Agenten im Browser als WebMCP-Tools zur Verfügung.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Stelle die Aktionen deiner App KI-Agenten im Browser als WebMCP-Tools zur Verfügung."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

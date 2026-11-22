@@ -1,0 +1,14 @@
+{
+  "hash": "d26e7d37f43168e3",
+  "source": "A default that your schema declares for a property is published as written, whatever the field. Keep secrets out of schema defaults.",
+  "text": "Ein Standardwert, den dein Schema für eine Eigenschaft deklariert, wird unabhängig vom Feld so veröffentlicht, wie er geschrieben ist. Halte Geheimnisse aus den Standardwerten des Schemas heraus.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein Standardwert, den dein Schema für eine Eigenschaft deklariert, wird unabhängig vom Feld so veröffentlicht, wie er geschrieben ist. Halte Geheimnisse aus den Standardwerten des Schemas heraus."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

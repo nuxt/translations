@@ -1,0 +1,14 @@
+{
+  "hash": "10fb082d69bf9a7e",
+  "source": "inside an element with the {0} attribute",
+  "text": "situé à l'intérieur d'un élément portant l'attribut {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "situé à l'intérieur d'un élément portant l'attribut {0}"
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

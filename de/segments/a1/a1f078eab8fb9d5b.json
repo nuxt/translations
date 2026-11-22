@@ -1,0 +1,14 @@
+{
+  "hash": "a1f078eab8fb9d5b",
+  "source": "Nuxt also registers a {0} tool listing your app's pages, so an agent can reach actions on other pages. Tools are swapped when the page changes. Disable it with {1}:",
+  "text": "Nuxt registriert außerdem ein Tool {0}, das die Seiten deiner App auflistet, sodass ein Agent Aktionen auf anderen Seiten erreichen kann. Tools werden ausgetauscht, wenn die Seite wechselt. Deaktiviere es mit {1}:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt registriert außerdem ein Tool {0}, das die Seiten deiner App auflistet, sodass ein Agent Aktionen auf anderen Seiten erreichen kann. Tools werden ausgetauscht, wenn die Seite wechselt. Deaktiviere es mit {1}:"
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "20be159c11b75b9f",
+  "source": "With {0}, the current value of a field is still left out when:",
+  "text": "Mit {0} wird der aktuelle Wert eines Feldes dennoch weggelassen, wenn:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit {0} wird der aktuelle Wert eines Feldes dennoch weggelassen, wenn:"
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

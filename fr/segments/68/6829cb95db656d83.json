@@ -1,0 +1,14 @@
+{
+  "hash": "6829cb95db656d83",
+  "source": "Offer the app's actions to AI agents in the browser through {0}WebMCP{/0}: functions bound in a template and tagged with {1}, and tools activated with {2}.",
+  "text": "Proposez les actions de l'application aux agents IA dans le navigateur grâce à {0}WebMCP{/0} : des fonctions liées dans un template et balisées avec {1}, ainsi que des outils activés avec {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Proposez les actions de l'application aux agents IA dans le navigateur grâce à {0}WebMCP{/0} : des fonctions liées dans un template et balisées avec {1}, ainsi que des outils activés avec {2}."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

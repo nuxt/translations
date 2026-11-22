@@ -1,0 +1,14 @@
+{
+  "hash": "444e2e42e8905655",
+  "source": "Pass a {0}Standard Schema{/0} (such as Zod, Valibot or ArkType) with {1}, or bind it to the form as {2}, to validate the input. A schema that implements Standard JSON Schema, such as a Zod schema, or a Valibot schema wrapped in {3} from {4}, also describes the input to the agent. Otherwise, types come from the current values and the native controls. Labels become descriptions.",
+  "text": "Übergib ein {0}Standard Schema{/0} (z. B. Zod, Valibot oder ArkType) mit {1} oder binde es als {2} an das Formular, um die Eingabe zu validieren. Ein Schema, das Standard JSON Schema implementiert, etwa ein Zod-Schema oder ein Valibot-Schema, das mit {3} aus {4} umschlossen ist, beschreibt die Eingabe außerdem gegenüber dem Agenten. Andernfalls ergeben sich die Typen aus den aktuellen Werten und den nativen Steuerelementen. Labels werden zu Beschreibungen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Übergib ein {0}Standard Schema{/0} (z. B. Zod, Valibot oder ArkType) mit {1} oder binde es als {2} an das Formular, um die Eingabe zu validieren. Ein Schema, das Standard JSON Schema implementiert, etwa ein Zod-Schema oder ein Valibot-Schema, das mit {3} aus {4} umschlossen ist, beschreibt die Eingabe außerdem gegenüber dem Agenten. Andernfalls ergeben sich die Typen aus den aktuellen Werten und den nativen Steuerelementen. Labels werden zu Beschreibungen."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

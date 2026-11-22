@@ -1,0 +1,14 @@
+{
+  "hash": "0fd29ca363b76632",
+  "source": "A value that repeats the default published for a disabled or read-only field is accepted while the field still has that value.",
+  "text": "Une valeur qui reprend le défaut publié pour un champ désactivé ou en lecture seule est acceptée tant que le champ a toujours cette valeur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une valeur qui reprend le défaut publié pour un champ désactivé ou en lecture seule est acceptée tant que le champ a toujours cette valeur."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

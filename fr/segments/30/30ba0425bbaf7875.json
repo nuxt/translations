@@ -1,0 +1,14 @@
+{
+  "hash": "30ba0425bbaf7875",
+  "source": "disabled, with the {0} attribute, a disabled {1}, {2} or {3}",
+  "text": "désactivé, avec l'attribut {0}, un {1} désactivé, {2} ou {3}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "désactivé, avec l'attribut {0}, un {1} désactivé, {2} ou {3}"
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

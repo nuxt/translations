@@ -1,0 +1,14 @@
+{
+  "hash": "dfdf71568e09567a",
+  "source": "a component whose {0} or {1} prop, written on it in the template, is true",
+  "text": "un composant dont la prop {0} ou {1}, écrite dessus dans le template, vaut true",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "un composant dont la prop {0} ou {1}, écrite dessus dans le template, vaut true"
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

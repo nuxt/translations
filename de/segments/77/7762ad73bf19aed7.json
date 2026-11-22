@@ -1,0 +1,14 @@
+{
+  "hash": "7762ad73bf19aed7",
+  "source": "With {0}, a secret in a field that has none of the signals above is published as a default. Give it {1}, a matching {2}, or a {3} property in your schema.",
+  "text": "Mit {0} wird ein Geheimnis in einem Feld, das keines der oben genannten Signale hat, als Standardwert veröffentlicht. Gib ihm {1}, einen passenden {2} oder in deinem Schema eine Eigenschaft {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mit {0} wird ein Geheimnis in einem Feld, das keines der oben genannten Signale hat, als Standardwert veröffentlicht. Gib ihm {1}, einen passenden {2} oder in deinem Schema eine Eigenschaft {3}."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "450fd90e0d116173",
+  "source": "the field has {0}",
+  "text": "le champ a {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "le champ a {0}"
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

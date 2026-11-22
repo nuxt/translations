@@ -1,0 +1,14 @@
+{
+  "hash": "243411ceabc8c464",
+  "source": "A {0} function bound to {1} becomes a form tool. Its input is the form's {2} bindings, and a call writes them, then submits the form, so your own validation and submit handler run as they would for the user. Fields whose {3} reads a {4} or slot variable declared inside the form are not part of the input.",
+  "text": "Une fonction {0} liée à {1} devient un outil de formulaire. Son entrée correspond aux liaisons {2} du formulaire, et un appel les écrit, puis soumet le formulaire, de sorte que votre propre validation et votre gestionnaire de soumission s'exécutent comme pour l'utilisateur. Les champs dont le {3} lit une variable {4} ou de slot déclarée à l'intérieur du formulaire ne font pas partie de l'entrée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une fonction {0} liée à {1} devient un outil de formulaire. Son entrée correspond aux liaisons {2} du formulaire, et un appel les écrit, puis soumet le formulaire, de sorte que votre propre validation et votre gestionnaire de soumission s'exécutent comme pour l'utilisateur. Les champs dont le {3} lit une variable {4} ou de slot déclarée à l'intérieur du formulaire ne font pas partie de l'entrée."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

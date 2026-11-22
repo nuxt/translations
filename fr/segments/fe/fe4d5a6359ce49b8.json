@@ -1,0 +1,14 @@
+{
+  "hash": "fe4d5a6359ce49b8",
+  "source": "The current values of a form's fields are not sent to the agent. Add the {0} flag to publish them as defaults, so the agent can read what is already filled in:",
+  "text": "Les valeurs actuelles des champs d'un formulaire ne sont pas envoyées à l'agent. Ajoutez le drapeau {0} pour les publier comme valeurs par défaut, afin que l'agent puisse lire ce qui est déjà renseigné :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les valeurs actuelles des champs d'un formulaire ne sont pas envoyées à l'agent. Ajoutez le drapeau {0} pour les publier comme valeurs par défaut, afin que l'agent puisse lire ce qui est déjà renseigné :"
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

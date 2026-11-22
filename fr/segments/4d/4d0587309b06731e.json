@@ -1,0 +1,14 @@
+{
+  "hash": "4d0587309b06731e",
+  "source": "Pass {0} (with {1} and {2}) to let the agent choose between items, and {3} to make the tool unavailable without unregistering it. The agent chooses an item with an argument named {4}, so a tool with {5} cannot have an input property of that name.",
+  "text": "Passez {0} (avec {1} et {2}) pour laisser l'agent choisir parmi des éléments, et {3} pour rendre l'outil indisponible sans le désenregistrer. L'agent choisit un élément avec un argument nommé {4} : un outil avec {5} ne peut donc pas avoir de propriété d'entrée portant ce nom.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Passez {0} (avec {1} et {2}) pour laisser l'agent choisir parmi des éléments, et {3} pour rendre l'outil indisponible sans le désenregistrer. L'agent choisit un élément avec un argument nommé {4} : un outil avec {5} ne peut donc pas avoir de propriété d'entrée portant ce nom."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

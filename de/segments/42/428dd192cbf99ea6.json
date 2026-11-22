@@ -1,0 +1,14 @@
+{
+  "hash": "428dd192cbf99ea6",
+  "source": "While {0} runs with the Vite builder, every tool your pages offer as you browse is written to {1}, with the tools seen on each page. This works in any browser. You can use it with {2} to check that a model picks the right tools. Set {3} to write it somewhere else, or {4} to turn it off:",
+  "text": "Während {0} mit dem Vite-Builder läuft, wird jedes Tool, das deine Seiten beim Durchstöbern anbieten, zusammen mit den auf jeder Seite gesehenen Tools in {1} geschrieben. Das funktioniert in jedem Browser. Du kannst es mit {2} verwenden, um zu prüfen, ob ein Modell die richtigen Tools auswählt. Setze {3}, um es an einen anderen Ort zu schreiben, oder {4}, um es auszuschalten:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Während {0} mit dem Vite-Builder läuft, wird jedes Tool, das deine Seiten beim Durchstöbern anbieten, zusammen mit den auf jeder Seite gesehenen Tools in {1} geschrieben. Das funktioniert in jedem Browser. Du kannst es mit {2} verwenden, um zu prüfen, ob ein Modell die richtigen Tools auswählt. Setze {3}, um es an einen anderen Ort zu schreiben, oder {4}, um es auszuschalten:"
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

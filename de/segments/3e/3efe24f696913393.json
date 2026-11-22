@@ -1,0 +1,14 @@
+{
+  "hash": "3efe24f696913393",
+  "source": "A token is tied to the origin it was registered for and expires, so other origins, such as staging or preview deployments, need their own.",
+  "text": "Ein Token ist an den Origin gebunden, für den es registriert wurde, und läuft ab. Andere Origins, etwa Staging- oder Vorschau-Bereitstellungen, brauchen daher ein eigenes.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein Token ist an den Origin gebunden, für den es registriert wurde, und läuft ab. Andere Origins, etwa Staging- oder Vorschau-Bereitstellungen, brauchen daher ein eigenes."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

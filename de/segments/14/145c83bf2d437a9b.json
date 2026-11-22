@@ -1,0 +1,14 @@
+{
+  "hash": "145c83bf2d437a9b",
+  "source": "{0} validates each call, and describes the tool's parameters when the schema implements Standard JSON Schema. For other schemas, describe the parameters with {1}.",
+  "text": "{0} validiert jeden Aufruf und beschreibt die Parameter des Tools, wenn das Schema Standard JSON Schema implementiert. Bei anderen Schemas beschreibst du die Parameter mit {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} validiert jeden Aufruf und beschreibt die Parameter des Tools, wenn das Schema Standard JSON Schema implementiert. Bei anderen Schemas beschreibst du die Parameter mit {1}."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

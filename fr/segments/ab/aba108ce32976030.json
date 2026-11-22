@@ -1,0 +1,14 @@
+{
+  "hash": "aba108ce32976030",
+  "source": "The tool only reads, so an agent can call it freely.",
+  "text": "L'outil se contente de lire, donc un agent peut l'appeler librement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'outil se contente de lire, donc un agent peut l'appeler librement."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

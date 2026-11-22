@@ -1,0 +1,14 @@
+{
+  "hash": "810254b062f213dd",
+  "source": "Place the order for everything in the cart. Use when the user is ready to pay.",
+  "text": "Passe la commande pour tout le contenu du panier. À utiliser lorsque l'utilisateur est prêt à payer.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Passe la commande pour tout le contenu du panier. À utiliser lorsque l'utilisateur est prêt à payer."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "9c3e299629c8e1da",
+  "source": "your schema marks the property, or an object that contains it, as {0}",
+  "text": "dein Schema die Eigenschaft oder ein Objekt, das sie enthält, als {0} kennzeichnet",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "dein Schema die Eigenschaft oder ein Objekt, das sie enthält, als {0} kennzeichnet"
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

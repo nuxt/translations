@@ -1,0 +1,14 @@
+{
+  "hash": "fe96b1e27bf64e8f",
+  "source": "A form tool only fills in a field that the browser reports as rendered and that is not disabled or read-only. A call that provides a value for any other field is rejected.",
+  "text": "Un outil de formulaire ne remplit qu'un champ que le navigateur signale comme rendu et qui n'est ni désactivé ni en lecture seule. Un appel qui fournit une valeur pour tout autre champ est rejeté.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un outil de formulaire ne remplit qu'un champ que le navigateur signale comme rendu et qui n'est ni désactivé ni en lecture seule. Un appel qui fournit une valeur pour tout autre champ est rejeté."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

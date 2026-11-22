@@ -1,0 +1,14 @@
+{
+  "hash": "b3eef15668b1d183",
+  "source": "For tools that do not map to one control, define a tool with {0} and offer it while a component is mounted with {1}:",
+  "text": "Pour les outils qui ne correspondent pas à un seul contrôle, définissez un outil avec {0} et proposez-le tant qu'un composant est monté avec {1} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour les outils qui ne correspondent pas à un seul contrôle, définissez un outil avec {0} et proposez-le tant qu'un composant est monté avec {1} :"
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

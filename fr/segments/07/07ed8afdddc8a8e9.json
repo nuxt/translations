@@ -1,0 +1,14 @@
+{
+  "hash": "07ed8afdddc8a8e9",
+  "source": "read-only, with the {0} attribute or {1}",
+  "text": "en lecture seule, avec l'attribut {0} ou {1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "en lecture seule, avec l'attribut {0} ou {1}"
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

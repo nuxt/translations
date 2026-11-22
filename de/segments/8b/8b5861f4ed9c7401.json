@@ -1,0 +1,14 @@
+{
+  "hash": "8b5861f4ed9c7401",
+  "source": "Tools from Code",
+  "text": "Tools aus Code",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Tools aus Code"
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "773dceaec1a2fb28",
+  "source": "A component that hides its own control while the element around it stays displayed counts as rendered.",
+  "text": "Eine Komponente, die ihr eigenes Steuerelement ausblendet, während das umgebende Element angezeigt bleibt, gilt als gerendert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine Komponente, die ihr eigenes Steuerelement ausblendet, während das umgebende Element angezeigt bleibt, gilt als gerendert."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

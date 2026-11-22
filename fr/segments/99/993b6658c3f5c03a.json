@@ -1,0 +1,14 @@
+{
+  "hash": "993b6658c3f5c03a",
+  "source": "the field's {0} is {1}, {2}, {3} or a payment card value such as {4}",
+  "text": "le {0} du champ est {1}, {2}, {3} ou une valeur de carte de paiement telle que {4}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "le {0} du champ est {1}, {2}, {3} ou une valeur de carte de paiement telle que {4}"
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

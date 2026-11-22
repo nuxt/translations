@@ -1,0 +1,14 @@
+{
+  "hash": "e08231160abbb920",
+  "source": "For a component, whether it is rendered is read from the element that receives the component's attributes. The other attributes are read from that element and from the first native control inside it.",
+  "text": "Bei einer Komponente wird anhand des Elements, das die Attribute der Komponente erhält, gelesen, ob sie gerendert wird. Die übrigen Attribute werden von diesem Element und vom ersten nativen Steuerelement darin gelesen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bei einer Komponente wird anhand des Elements, das die Attribute der Komponente erhält, gelesen, ob sie gerendert wird. Die übrigen Attribute werden von diesem Element und vom ersten nativen Steuerelement darin gelesen."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

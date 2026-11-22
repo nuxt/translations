@@ -1,0 +1,14 @@
+{
+  "hash": "243411ceabc8c464",
+  "source": "A {0} function bound to {1} becomes a form tool. Its input is the form's {2} bindings, and a call writes them, then submits the form, so your own validation and submit handler run as they would for the user. Fields whose {3} reads a {4} or slot variable declared inside the form are not part of the input.",
+  "text": "Eine {0}-Funktion, die an {1} gebunden ist, wird zu einem Formular-Tool. Seine Eingabe sind die {2}-Bindungen des Formulars. Ein Aufruf schreibt sie und sendet das Formular anschließend ab, sodass deine eigene Validierung und dein eigener Submit-Handler so laufen, als hätte die nutzende Person das Formular abgesendet. Felder, deren {3} eine {4} oder eine im Formular deklarierte Slot-Variable liest, gehören nicht zur Eingabe.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine {0}-Funktion, die an {1} gebunden ist, wird zu einem Formular-Tool. Seine Eingabe sind die {2}-Bindungen des Formulars. Ein Aufruf schreibt sie und sendet das Formular anschließend ab, sodass deine eigene Validierung und dein eigener Submit-Handler so laufen, als hätte die nutzende Person das Formular abgesendet. Felder, deren {3} eine {4} oder eine im Formular deklarierte Slot-Variable liest, gehören nicht zur Eingabe."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "427264ac7e2952d4",
+  "source": "The tool has effects that are hard to undo, so the browser or agent may ask the user first.",
+  "text": "Das Tool hat Auswirkungen, die sich schwer rückgängig machen lassen, daher kann der Browser oder Agent zuerst die nutzende Person fragen.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Das Tool hat Auswirkungen, die sich schwer rückgängig machen lassen, daher kann der Browser oder Agent zuerst die nutzende Person fragen."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

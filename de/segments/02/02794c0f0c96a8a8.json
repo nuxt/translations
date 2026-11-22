@@ -1,0 +1,14 @@
+{
+  "hash": "02794c0f0c96a8a8",
+  "source": "{0} returns the tool calls in progress, so you can show the user what an agent is doing and let them stop it. Stopping a call aborts the {1} passed to {2}, and the agent receives a result asking it not to retry. A {3} function runs as the event handler it is bound to and does not receive a {4}: a form tool stopped before it submits restores the form, and a handler that has started runs to completion.",
+  "text": "{0} gibt die laufenden Tool-Aufrufe zurück, sodass du den Nutzenden anzeigen kannst, was ein Agent gerade tut, und ihnen ermöglichst, ihn zu stoppen. Das Stoppen eines Aufrufs bricht das an {2} übergebene {1} ab, und der Agent erhält ein Ergebnis mit der Aufforderung, es nicht erneut zu versuchen. Eine {3}-Funktion läuft als der Event-Handler, an den sie gebunden ist, und erhält kein {4}: Ein Formular-Tool, das vor dem Absenden gestoppt wird, stellt das Formular wieder her, und ein bereits gestarteter Handler läuft bis zum Ende.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} gibt die laufenden Tool-Aufrufe zurück, sodass du den Nutzenden anzeigen kannst, was ein Agent gerade tut, und ihnen ermöglichst, ihn zu stoppen. Das Stoppen eines Aufrufs bricht das an {2} übergebene {1} ab, und der Agent erhält ein Ergebnis mit der Aufforderung, es nicht erneut zu versuchen. Eine {3}-Funktion läuft als der Event-Handler, an den sie gebunden ist, und erhält kein {4}: Ein Formular-Tool, das vor dem Absenden gestoppt wird, stellt das Formular wieder her, und ein bereits gestarteter Handler läuft bis zum Ende."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

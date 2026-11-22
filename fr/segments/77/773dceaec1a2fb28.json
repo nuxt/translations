@@ -1,0 +1,14 @@
+{
+  "hash": "773dceaec1a2fb28",
+  "source": "A component that hides its own control while the element around it stays displayed counts as rendered.",
+  "text": "Un composant qui masque son propre contrôle alors que l'élément qui l'entoure reste affiché est considéré comme rendu.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un composant qui masque son propre contrôle alors que l'élément qui l'entoure reste affiché est considéré comme rendu."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

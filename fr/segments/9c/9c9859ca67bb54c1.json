@@ -1,0 +1,14 @@
+{
+  "hash": "9c9859ca67bb54c1",
+  "source": "Browser Support",
+  "text": "Prise en charge des navigateurs",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Prise en charge des navigateurs"
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

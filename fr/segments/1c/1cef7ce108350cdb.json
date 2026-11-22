@@ -1,0 +1,14 @@
+{
+  "hash": "1cef7ce108350cdb",
+  "source": "A component that does not render its attributes on an element cannot be filled in.",
+  "text": "Un composant qui ne rend pas ses attributs sur un élément ne peut pas être rempli.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un composant qui ne rend pas ses attributs sur un élément ne peut pas être rempli."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "fe4d5a6359ce49b8",
+  "source": "The current values of a form's fields are not sent to the agent. Add the {0} flag to publish them as defaults, so the agent can read what is already filled in:",
+  "text": "Die aktuellen Werte der Formularfelder werden nicht an den Agenten gesendet. Füge das Flag {0} hinzu, um sie als Standardwerte zu veröffentlichen, damit der Agent lesen kann, was bereits ausgefüllt ist:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die aktuellen Werte der Formularfelder werden nicht an den Agenten gesendet. Füge das Flag {0} hinzu, um sie als Standardwerte zu veröffentlichen, damit der Agent lesen kann, was bereits ausgefüllt ist:"
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

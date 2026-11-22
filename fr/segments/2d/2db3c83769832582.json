@@ -1,0 +1,14 @@
+{
+  "hash": "2db3c83769832582",
+  "source": "Offer your app's actions to AI agents in the browser, as WebMCP tools.",
+  "text": "Proposez les actions de votre application aux agents IA dans le navigateur, sous forme d'outils WebMCP.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Proposez les actions de votre application aux agents IA dans le navigateur, sous forme d'outils WebMCP."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

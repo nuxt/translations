@@ -1,0 +1,14 @@
+{
+  "hash": "e9532851523c66f8",
+  "source": "Showing What the Agent Does",
+  "text": "Anzeigen, was der Agent tut",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Anzeigen, was der Agent tut"
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

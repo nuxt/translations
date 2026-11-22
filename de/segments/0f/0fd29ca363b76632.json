@@ -1,0 +1,14 @@
+{
+  "hash": "0fd29ca363b76632",
+  "source": "A value that repeats the default published for a disabled or read-only field is accepted while the field still has that value.",
+  "text": "Ein Wert, der den für ein deaktiviertes oder schreibgeschütztes Feld veröffentlichten Standardwert wiederholt, wird akzeptiert, solange das Feld noch diesen Wert hat.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein Wert, der den für ein deaktiviertes oder schreibgeschütztes Feld veröffentlichten Standardwert wiederholt, wird akzeptiert, solange das Feld noch diesen Wert hat."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

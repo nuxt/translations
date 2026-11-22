@@ -1,0 +1,14 @@
+{
+  "hash": "fe96b1e27bf64e8f",
+  "source": "A form tool only fills in a field that the browser reports as rendered and that is not disabled or read-only. A call that provides a value for any other field is rejected.",
+  "text": "Ein Formular-Tool füllt nur Felder aus, die der Browser als gerendert meldet und die weder deaktiviert noch schreibgeschützt sind. Ein Aufruf, der einen Wert für ein anderes Feld angibt, wird abgelehnt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein Formular-Tool füllt nur Felder aus, die der Browser als gerendert meldet und die weder deaktiviert noch schreibgeschützt sind. Ein Aufruf, der einen Wert für ein anderes Feld angibt, wird abgelehnt."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

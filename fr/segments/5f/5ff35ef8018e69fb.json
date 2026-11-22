@@ -1,0 +1,14 @@
+{
+  "hash": "5ff35ef8018e69fb",
+  "source": "Send a message to the shop. Use when the user has a question about an order.",
+  "text": "Envoie un message à la boutique. À utiliser lorsque l'utilisateur a une question sur une commande.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Envoie un message à la boutique. À utiliser lorsque l'utilisateur a une question sur une commande."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

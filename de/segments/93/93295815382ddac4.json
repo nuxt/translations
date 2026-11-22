@@ -1,0 +1,14 @@
+{
+  "hash": "93295815382ddac4",
+  "source": "For a form, the current values of its fields are sent to the agent as defaults. See {0}What a Call Can Read and Change{/0}.",
+  "text": "Bei einem Formular werden die aktuellen Werte seiner Felder als Standardwerte an den Agenten gesendet. Siehe {0}Was ein Aufruf lesen und ändern kann{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bei einem Formular werden die aktuellen Werte seiner Felder als Standardwerte an den Agenten gesendet. Siehe {0}Was ein Aufruf lesen und ändern kann{/0}."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

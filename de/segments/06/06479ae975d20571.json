@@ -1,0 +1,14 @@
+{
+  "hash": "06479ae975d20571",
+  "source": "a call runs the bound expression, and its return value is the tool result.",
+  "text": "Ein Aufruf führt den gebundenen Ausdruck aus, und dessen Rückgabewert ist das Ergebnis des Tools.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein Aufruf führt den gebundenen Ausdruck aus, und dessen Rückgabewert ist das Ergebnis des Tools."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

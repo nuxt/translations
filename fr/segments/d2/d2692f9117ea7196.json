@@ -1,0 +1,14 @@
+{
+  "hash": "d2692f9117ea7196",
+  "source": "The user must complete the action. A call highlights the control (or fills in the form) and returns {0} instead of running it.",
+  "text": "L'utilisateur doit terminer l'action. Un appel met en évidence le contrôle (ou remplit le formulaire) et renvoie {0} au lieu de l'exécuter.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'utilisateur doit terminer l'action. Un appel met en évidence le contrôle (ou remplit le formulaire) et renvoie {0} au lieu de l'exécuter."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

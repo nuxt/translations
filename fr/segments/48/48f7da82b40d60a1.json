@@ -1,0 +1,14 @@
+{
+  "hash": "48f7da82b40d60a1",
+  "source": "Nuxt warns at build time about bindings that cannot become tools (such as handlers that wrap a {0} function, or a {1} keyed by its index), descriptions that do not follow the {2}WebMCP tool design guidance{/2}, and form fields without a label. In development, it also warns about tools and results that are longer than agents handle well.",
+  "text": "Nuxt avertit au moment du build des liaisons qui ne peuvent pas devenir des outils (comme les gestionnaires qui enveloppent une fonction {0}, ou un {1} identifié par son index), des descriptions qui ne suivent pas les {2}recommandations de conception des outils WebMCP{/2}, et des champs de formulaire sans label. En développement, il avertit aussi des outils et des résultats plus longs que ce que les agents gèrent correctement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt avertit au moment du build des liaisons qui ne peuvent pas devenir des outils (comme les gestionnaires qui enveloppent une fonction {0}, ou un {1} identifié par son index), des descriptions qui ne suivent pas les {2}recommandations de conception des outils WebMCP{/2}, et des champs de formulaire sans label. En développement, il avertit aussi des outils et des résultats plus longs que ce que les agents gèrent correctement."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

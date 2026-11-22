@@ -1,0 +1,14 @@
+{
+  "hash": "f6497471ec1b6649",
+  "source": "Input is checked against the schema before anything is written. Native constraints, such as {0} or {1}, are checked once the values are written, and a call that fails them restores the form.",
+  "text": "L'entrée est vérifiée par rapport au schéma avant toute écriture. Les contraintes natives, telles que {0} ou {1}, sont vérifiées une fois les valeurs écrites, et un appel qui ne les respecte pas rétablit le formulaire.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'entrée est vérifiée par rapport au schéma avant toute écriture. Les contraintes natives, telles que {0} ou {1}, sont vérifiées une fois les valeurs écrites, et un appel qui ne les respecte pas rétablit le formulaire."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "1b76fdd3c7f827ed",
+  "source": "A component that is disabled in another way, such as through {0} with an object or from inside the component, is treated as editable unless the element it renders has one of the attributes above.",
+  "text": "Eine Komponente, die auf andere Weise deaktiviert wird, etwa über {0} mit einem Objekt oder innerhalb der Komponente, gilt als bearbeitbar, sofern das gerenderte Element nicht eines der oben genannten Attribute hat.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Eine Komponente, die auf andere Weise deaktiviert wird, etwa über {0} mit einem Objekt oder innerhalb der Komponente, gilt als bearbeitbar, sofern das gerenderte Element nicht eines der oben genannten Attribute hat."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

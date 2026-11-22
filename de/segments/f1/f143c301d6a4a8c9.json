@@ -1,0 +1,14 @@
+{
+  "hash": "f143c301d6a4a8c9",
+  "source": "A field is rendered when the element with its {0} is displayed. That excludes a field removed by {1}, an {2}, and a field that is hidden, or inside an element that is hidden, with {3}, the {4} attribute, {5}, {6}, {7} or a closed {8}, whether that comes from your template or from a stylesheet. A checkbox or radio button that is hidden behind its own visible {9} counts as rendered.",
+  "text": "Ein Feld gilt als gerendert, wenn das Element mit seinem {0} angezeigt wird. Ausgenommen sind ein Feld, das durch {1} oder ein {2} entfernt wurde, sowie ein Feld, das mit {3}, dem Attribut {4}, {5}, {6}, {7} oder einem geschlossenen {8} ausgeblendet ist oder sich in einem ausgeblendeten Element befindet, unabhängig davon, ob dies aus deiner Vorlage oder aus einem Stylesheet stammt. Eine Checkbox oder ein Optionsfeld, das hinter seinem eigenen sichtbaren {9} verborgen ist, gilt als gerendert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein Feld gilt als gerendert, wenn das Element mit seinem {0} angezeigt wird. Ausgenommen sind ein Feld, das durch {1} oder ein {2} entfernt wurde, sowie ein Feld, das mit {3}, dem Attribut {4}, {5}, {6}, {7} oder einem geschlossenen {8} ausgeblendet ist oder sich in einem ausgeblendeten Element befindet, unabhängig davon, ob dies aus deiner Vorlage oder aus einem Stylesheet stammt. Eine Checkbox oder ein Optionsfeld, das hinter seinem eigenen sichtbaren {9} verborgen ist, gilt als gerendert."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

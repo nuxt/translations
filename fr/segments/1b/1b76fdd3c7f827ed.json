@@ -1,0 +1,14 @@
+{
+  "hash": "1b76fdd3c7f827ed",
+  "source": "A component that is disabled in another way, such as through {0} with an object or from inside the component, is treated as editable unless the element it renders has one of the attributes above.",
+  "text": "Un composant désactivé d'une autre manière, par exemple via {0} avec un objet ou depuis l'intérieur du composant, est traité comme modifiable, sauf si l'élément qu'il rend possède l'un des attributs ci-dessus.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un composant désactivé d'une autre manière, par exemple via {0} avec un objet ou depuis l'intérieur du composant, est traité comme modifiable, sauf si l'élément qu'il rend possède l'un des attributs ci-dessus."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

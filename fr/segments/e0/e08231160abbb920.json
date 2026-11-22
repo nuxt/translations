@@ -1,0 +1,14 @@
+{
+  "hash": "e08231160abbb920",
+  "source": "For a component, whether it is rendered is read from the element that receives the component's attributes. The other attributes are read from that element and from the first native control inside it.",
+  "text": "Pour un composant, le fait qu'il soit rendu est lu depuis l'élément qui reçoit les attributs du composant. Les autres attributs sont lus depuis cet élément et depuis le premier contrôle natif qu'il contient.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour un composant, le fait qu'il soit rendu est lu depuis l'élément qui reçoit les attributs du composant. Les autres attributs sont lus depuis cet élément et depuis le premier contrôle natif qu'il contient."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

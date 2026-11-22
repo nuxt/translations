@@ -1,0 +1,14 @@
+{
+  "hash": "f143c301d6a4a8c9",
+  "source": "A field is rendered when the element with its {0} is displayed. That excludes a field removed by {1}, an {2}, and a field that is hidden, or inside an element that is hidden, with {3}, the {4} attribute, {5}, {6}, {7} or a closed {8}, whether that comes from your template or from a stylesheet. A checkbox or radio button that is hidden behind its own visible {9} counts as rendered.",
+  "text": "Un champ est rendu lorsque l'élément portant son {0} est affiché. Cela exclut un champ supprimé par {1}, un {2}, ainsi qu'un champ masqué, ou situé dans un élément masqué, avec {3}, l'attribut {4}, {5}, {6}, {7} ou un {8} fermé, que cela provienne de votre template ou d'une feuille de style. Une case à cocher ou un bouton radio masqué derrière son propre {9} visible est considéré comme rendu.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un champ est rendu lorsque l'élément portant son {0} est affiché. Cela exclut un champ supprimé par {1}, un {2}, ainsi qu'un champ masqué, ou situé dans un élément masqué, avec {3}, l'attribut {4}, {5}, {6}, {7} ou un {8} fermé, que cela provienne de votre template ou d'une feuille de style. Une case à cocher ou un bouton radio masqué derrière son propre {9} visible est considéré comme rendu."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

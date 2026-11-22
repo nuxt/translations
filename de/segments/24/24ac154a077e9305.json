@@ -1,0 +1,14 @@
+{
+  "hash": "24ac154a077e9305",
+  "source": "This registers an {0} tool, and:",
+  "text": "Dadurch wird ein {0}-Tool registriert, und:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dadurch wird ein {0}-Tool registriert, und:"
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

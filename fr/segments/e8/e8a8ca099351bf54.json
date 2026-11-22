@@ -1,0 +1,14 @@
+{
+  "hash": "e8a8ca099351bf54",
+  "source": "Save the profile. Use when the user wants to change their details.",
+  "text": "Enregistrer le profil. À utiliser lorsque l'utilisateur veut modifier ses informations.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Enregistrer le profil. À utiliser lorsque l'utilisateur veut modifier ses informations."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

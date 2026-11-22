@@ -1,0 +1,14 @@
+{
+  "hash": "810254b062f213dd",
+  "source": "Place the order for everything in the cart. Use when the user is ready to pay.",
+  "text": "Gibt die Bestellung für alles im Warenkorb auf. Verwenden, wenn die nutzende Person bereit zum Bezahlen ist.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gibt die Bestellung für alles im Warenkorb auf. Verwenden, wenn die nutzende Person bereit zum Bezahlen ist."
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}

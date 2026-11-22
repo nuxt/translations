@@ -1,0 +1,14 @@
+{
+  "hash": "0520f052d59099f5",
+  "source": "A rendered field is still rejected when it is:",
+  "text": "Un champ rendu est tout de même rejeté lorsqu'il est :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un champ rendu est tout de même rejeté lorsqu'il est :"
+  },
+  "updatedAt": "2026-11-22T23:44:31.937Z"
+}
