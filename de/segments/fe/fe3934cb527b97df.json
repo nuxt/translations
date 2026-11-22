@@ -1,0 +1,14 @@
+{
+  "hash": "fe3934cb527b97df",
+  "source": "In the log view ({0}), each log takes one row, ending with how many more rows it has. The selected log expands in place, wrapped to the terminal, so moving through the list with {1}/{2} reads each one in full. Press {3} to show the selected log on its own: {4}/{5} scroll it, {6}/{7} step to the previous or next log, and {8} goes back to the list.",
+  "text": "In der Protokollansicht ({0}) belegt jeder Protokolleintrag eine Zeile, die mit der Anzahl der weiteren Zeilen des Eintrags endet. Der ausgewählte Eintrag wird an Ort und Stelle aufgeklappt und an die Breite des Terminals umbrochen. So kannst du beim Navigieren durch die Liste mit {1}/{2} jeden Eintrag vollständig lesen. Drücke {3}, um den ausgewählten Eintrag einzeln anzuzeigen: Mit {4}/{5} scrollst du darin, mit {6}/{7} springst du zum vorherigen oder nächsten Eintrag, und mit {8} gelangst du zurück zur Liste.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "In der Protokollansicht ({0}) belegt jeder Protokolleintrag eine Zeile, die mit der Anzahl der weiteren Zeilen des Eintrags endet. Der ausgewählte Eintrag wird an Ort und Stelle aufgeklappt und an die Breite des Terminals umbrochen. So kannst du beim Navigieren durch die Liste mit {1}/{2} jeden Eintrag vollständig lesen. Drücke {3}, um den ausgewählten Eintrag einzeln anzuzeigen: Mit {4}/{5} scrollst du darin, mit {6}/{7} springst du zum vorherigen oder nächsten Eintrag, und mit {8} gelangst du zurück zur Liste."
+  },
+  "updatedAt": "2026-11-22T09:29:44.154Z"
+}

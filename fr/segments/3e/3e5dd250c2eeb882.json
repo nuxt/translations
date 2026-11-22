@@ -1,0 +1,14 @@
+{
+  "hash": "3e5dd250c2eeb882",
+  "source": "Show the last error in full",
+  "text": "Afficher la dernière erreur en entier",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Afficher la dernière erreur en entier"
+  },
+  "updatedAt": "2026-11-22T09:29:44.154Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "a2481af3958d4375",
+  "source": "Reading logs",
+  "text": "Lecture des logs",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lecture des logs"
+  },
+  "updatedAt": "2026-11-22T09:29:44.154Z"
+}

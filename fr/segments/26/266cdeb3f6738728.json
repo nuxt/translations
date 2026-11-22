@@ -1,0 +1,14 @@
+{
+  "hash": "266cdeb3f6738728",
+  "source": "nuxt dev browsing logs",
+  "text": "nuxt dev lors de la navigation dans les logs",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "nuxt dev lors de la navigation dans les logs"
+  },
+  "updatedAt": "2026-11-22T09:29:44.154Z"
+}

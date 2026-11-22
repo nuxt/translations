@@ -1,0 +1,14 @@
+{
+  "hash": "d7bc7dc6893c9624",
+  "source": "A log's time is shown when it differs from the row above. Press {0} to hide timestamps and give the logs the full width.",
+  "text": "Die Uhrzeit eines Protokolleintrags wird angezeigt, wenn sie sich von der Zeile darüber unterscheidet. Drücke {0}, um die Zeitstempel auszublenden und den Einträgen die volle Breite zu geben.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Uhrzeit eines Protokolleintrags wird angezeigt, wenn sie sich von der Zeile darüber unterscheidet. Drücke {0}, um die Zeitstempel auszublenden und den Einträgen die volle Breite zu geben."
+  },
+  "updatedAt": "2026-11-22T09:29:44.154Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "3e5dd250c2eeb882",
+  "source": "Show the last error in full",
+  "text": "Den letzten Fehler vollständig anzeigen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Den letzten Fehler vollständig anzeigen"
+  },
+  "updatedAt": "2026-11-22T09:29:44.154Z"
+}

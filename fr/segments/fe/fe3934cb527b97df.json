@@ -1,0 +1,14 @@
+{
+  "hash": "fe3934cb527b97df",
+  "source": "In the log view ({0}), each log takes one row, ending with how many more rows it has. The selected log expands in place, wrapped to the terminal, so moving through the list with {1}/{2} reads each one in full. Press {3} to show the selected log on its own: {4}/{5} scroll it, {6}/{7} step to the previous or next log, and {8} goes back to the list.",
+  "text": "Dans la vue des logs ({0}), chaque log occupe une ligne, qui se termine par le nombre de lignes supplémentaires qu'il contient. Le log sélectionné se déploie sur place, avec un retour à la ligne adapté au terminal, de sorte que parcourir la liste avec {1}/{2} permet de lire chaque log en entier. Appuyez sur {3} pour afficher le log sélectionné seul : {4}/{5} le font défiler, {6}/{7} passent au log précédent ou suivant, et {8} revient à la liste.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans la vue des logs ({0}), chaque log occupe une ligne, qui se termine par le nombre de lignes supplémentaires qu'il contient. Le log sélectionné se déploie sur place, avec un retour à la ligne adapté au terminal, de sorte que parcourir la liste avec {1}/{2} permet de lire chaque log en entier. Appuyez sur {3} pour afficher le log sélectionné seul : {4}/{5} le font défiler, {6}/{7} passent au log précédent ou suivant, et {8} revient à la liste."
+  },
+  "updatedAt": "2026-11-22T09:29:44.154Z"
+}
