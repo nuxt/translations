@@ -1,0 +1,14 @@
+{
+  "hash": "c0f622d60dac491e",
+  "source": "Called when the dev server is loading, with the HTTP, HTTPS or HTTP/2 server.",
+  "text": "Appelé lorsque le serveur de développement se charge, avec le serveur HTTP, HTTPS ou HTTP/2.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé lorsque le serveur de développement se charge, avec le serveur HTTP, HTTPS ou HTTP/2."
+  },
+  "updatedAt": "2026-11-22T11:53:44.392Z"
+}

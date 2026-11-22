@@ -2,7 +2,7 @@
   "version": 1,
   "source": "nuxt-main",
   "ref": "main",
-  "sha": "63ab9cc6473f28ae96568849119fc4b68cca19bd",
+  "sha": "462c23b70cfdeaf8831bfdc13788b3c810069cc7",
   "policy": "f6e446c627d4102c",
   "files": {
     "docs/.navigation.yml": [
@@ -10278,7 +10278,7 @@
       {"hash":"f654d6c5f4ef7374","kind":"table-cell","format":"markdown","words":24,"skeleton":"Called before {0} writes TypeScript configuration files ({1}, {2}, etc.) and {3}, allowing addition of custom references and declarations in {4}, or directly modifying the options in generated configurations","placeholders":["code","code","code","code","code"]},
       {"hash":"a00644508de97e85","kind":"table-cell","format":"markdown","words":0,"skeleton":"{0}","placeholders":["code"]},
       {"hash":"a00644508de97e85","kind":"table-cell","format":"markdown","words":0,"skeleton":"{0}","placeholders":["code"]},
-      {"hash":"5ef0a12a70ae67ec","kind":"table-cell","format":"markdown","words":7,"skeleton":"Called when the dev server is loading."},
+      {"hash":"c0f622d60dac491e","kind":"table-cell","format":"markdown","words":14,"skeleton":"Called when the dev server is loading, with the HTTP, HTTPS or HTTP/2 server."},
       {"hash":"a00644508de97e85","kind":"table-cell","format":"markdown","words":0,"skeleton":"{0}","placeholders":["code"]},
       {"hash":"a00644508de97e85","kind":"table-cell","format":"markdown","words":0,"skeleton":"{0}","placeholders":["code"]},
       {"hash":"09437773cd456e1d","kind":"table-cell","format":"markdown","words":4,"skeleton":"Allows extending default schemas."},
