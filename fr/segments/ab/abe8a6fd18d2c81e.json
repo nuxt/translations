@@ -1,0 +1,14 @@
+{
+  "hash": "abe8a6fd18d2c81e",
+  "source": "Nitro matches the {0} of a server middleware case-sensitively. With {1}, a middleware registered for {2} with {3} or {4} does not run for {5}, but the page router still renders the page at {6}. Keeping {7} set to {8} covers case variants, but not encoded slashes: a middleware registered for {9} does not run for {10}, while a catch-all page receives the decoded param {11}. Server middleware is not a reliable way to protect pages. Check access in the server route or API that returns the protected data.",
+  "text": "Nitro fait correspondre le {0} d'un middleware serveur en tenant compte de la casse. Avec {1}, un middleware enregistré pour {2} avec {3} ou {4} ne s'exécute pas pour {5}, mais le routeur de pages affiche tout de même la page à l'adresse {6}. Conserver {7} défini sur {8} couvre les variantes de casse, mais pas les barres obliques encodées : un middleware enregistré pour {9} ne s'exécute pas pour {10}, alors qu'une page fourre-tout reçoit le paramètre décodé {11}. Un middleware serveur n'est pas un moyen fiable de protéger des pages. Vérifiez l'accès dans la route serveur ou l'API qui renvoie les données protégées.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nitro fait correspondre le {0} d'un middleware serveur en tenant compte de la casse. Avec {1}, un middleware enregistré pour {2} avec {3} ou {4} ne s'exécute pas pour {5}, mais le routeur de pages affiche tout de même la page à l'adresse {6}. Conserver {7} défini sur {8} couvre les variantes de casse, mais pas les barres obliques encodées : un middleware enregistré pour {9} ne s'exécute pas pour {10}, alors qu'une page fourre-tout reçoit le paramètre décodé {11}. Un middleware serveur n'est pas un moyen fiable de protéger des pages. Vérifiez l'accès dans la route serveur ou l'API qui renvoie les données protégées."
+  },
+  "updatedAt": "2026-11-23T22:50:46.531Z"
+}

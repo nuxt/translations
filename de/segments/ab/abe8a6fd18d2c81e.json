@@ -1,0 +1,14 @@
+{
+  "hash": "abe8a6fd18d2c81e",
+  "source": "Nitro matches the {0} of a server middleware case-sensitively. With {1}, a middleware registered for {2} with {3} or {4} does not run for {5}, but the page router still renders the page at {6}. Keeping {7} set to {8} covers case variants, but not encoded slashes: a middleware registered for {9} does not run for {10}, while a catch-all page receives the decoded param {11}. Server middleware is not a reliable way to protect pages. Check access in the server route or API that returns the protected data.",
+  "text": "Nitro gleicht den {0} einer Server-Middleware unter Beachtung der Groß- und Kleinschreibung ab. Mit {1} wird eine Middleware, die mit {3} oder {4} für {2} registriert ist, für {5} nicht ausgeführt, der Seiten-Router rendert die Seite unter {6} aber trotzdem. Wenn du {7} auf {8} gesetzt lässt, werden Varianten in Groß- und Kleinschreibung abgedeckt, nicht aber kodierte Schrägstriche: Eine Middleware, die für {9} registriert ist, wird für {10} nicht ausgeführt, während eine Catch-all-Seite den dekodierten Parameter {11} erhält. Server-Middleware ist kein zuverlässiger Weg, um Seiten zu schützen. Prüfe den Zugriff in der Server-Route oder API, die die geschützten Daten zurückgibt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nitro gleicht den {0} einer Server-Middleware unter Beachtung der Groß- und Kleinschreibung ab. Mit {1} wird eine Middleware, die mit {3} oder {4} für {2} registriert ist, für {5} nicht ausgeführt, der Seiten-Router rendert die Seite unter {6} aber trotzdem. Wenn du {7} auf {8} gesetzt lässt, werden Varianten in Groß- und Kleinschreibung abgedeckt, nicht aber kodierte Schrägstriche: Eine Middleware, die für {9} registriert ist, wird für {10} nicht ausgeführt, während eine Catch-all-Seite den dekodierten Parameter {11} erhält. Server-Middleware ist kein zuverlässiger Weg, um Seiten zu schützen. Prüfe den Zugriff in der Server-Route oder API, die die geschützten Daten zurückgibt."
+  },
+  "updatedAt": "2026-11-23T22:50:46.531Z"
+}
