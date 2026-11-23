@@ -2,7 +2,7 @@
   "version": 1,
   "source": "nuxt-4.x",
   "ref": "4.x",
-  "sha": "0ac046209c10cbeffed3979df7e9d03f4652b46b",
+  "sha": "663906fd662b8aadd045c19208c7b2b4345d54a2",
   "policy": "f6e446c627d4102c",
   "files": {
     "docs/.navigation.yml": [
@@ -4137,7 +4137,7 @@
       {"hash":"6a2d468060685cf1","kind":"list-item","format":"markdown","words":5,"skeleton":"the field is not rendered"},
       {"hash":"450fd90e0d116173","kind":"list-item","format":"markdown","words":3,"skeleton":"the field has {0}","placeholders":["code"]},
       {"hash":"993b6658c3f5c03a","kind":"list-item","format":"markdown","words":10,"skeleton":"the field's {0} is {1}, {2}, {3} or a payment card value such as {4}","placeholders":["code","code","code","code","code"]},
-      {"hash":"9c3e299629c8e1da","kind":"list-item","format":"markdown","words":12,"skeleton":"your schema marks the property, or an object that contains it, as {0}","placeholders":["code"]},
+      {"hash":"b085f4035856b835","kind":"list-item","format":"markdown","words":16,"skeleton":"your schema marks the property, an object that contains it, or a property inside it, as {0}","placeholders":["code"]},
       {"hash":"a2b13cee4f55c2aa","kind":"paragraph","format":"markdown","words":21,"skeleton":"Defaults are read when the form mounts, so a field that is hidden afterwards keeps the default it was published with."},
       {"hash":"e08231160abbb920","kind":"paragraph","format":"markdown","words":33,"skeleton":"For a component, whether it is rendered is read from the element that receives the component's attributes. The other attributes are read from that element and from the first native control inside it."},
       {"hash":"f1155b90ca2ba2ec","kind":"component-slot","format":"markdown","words":5,"skeleton":"Some restrictions are not detected:"},
