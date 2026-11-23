@@ -2,7 +2,7 @@
   "version": 1,
   "source": "nuxt-main",
   "ref": "main",
-  "sha": "0ed8910341dd2375b23ae08ffce7d5a891e4dd1a",
+  "sha": "3ff555dc8296dd77017ff33a35736f32c0fd107b",
   "policy": "f6e446c627d4102c",
   "files": {
     "docs/.navigation.yml": [
@@ -1807,6 +1807,9 @@
       {"hash":"0da4a85dcbc1ec6e","kind":"heading","format":"markdown","words":8,"skeleton":"{0} Is Deprecated in Server Code, in Favor of {1}","placeholders":["code","code"]},
       {"hash":"43ff9de04e51532d","kind":"paragraph","format":"markdown","words":5,"skeleton":"Server code should import from {0}:","placeholders":["code"]},
       {"hash":"a4c2cf58fd481c9b","kind":"paragraph","format":"markdown","words":28,"skeleton":"{0} still resolves when your server code runs, so an unmigrated project keeps working, but it is no longer typed: TypeScript reports it as unresolved until you move to {1}.","placeholders":["code","code"]},
+      {"hash":"c710f74df5ed87f1","kind":"heading","format":"markdown","words":6,"skeleton":"Server Imports Must Be Declared in {0}","placeholders":["code"]},
+      {"hash":"ba73b25e5107cd2b","kind":"paragraph","format":"markdown","words":43,"skeleton":"An import that Nitro v3 can't resolve stays external, in development and in the build output, so {0} fails at startup with {1}, and a built server fails on a route that reaches the import. Nitro v2 resolved such imports from Nuxt's own dependency tree.","placeholders":["code","code"]},
+      {"hash":"98b0c1c68e3b328b","kind":"paragraph","format":"markdown","words":9,"skeleton":"Declare every package your server code imports in your {0}.","placeholders":["code"]},
       {"hash":"8684d1128d9587f9","kind":"heading","format":"markdown","words":3,"skeleton":"Error Handling: {0}/{1} replace {2}/{3}","placeholders":["code","code","code","code"]},
       {"hash":"7a34fc265e287839","kind":"paragraph","format":"markdown","words":11,"skeleton":"h3 v2 renames the error properties to align with Web standards:"},
       {"hash":"7d5d686bb37b17bc","kind":"paragraph","format":"markdown","words":10,"skeleton":"In server routes, the error class is now {0} (replacing {1} from {2}):","placeholders":["code","code","code"]},
@@ -4210,7 +4213,7 @@
       {"hash":"6a2d468060685cf1","kind":"list-item","format":"markdown","words":5,"skeleton":"the field is not rendered"},
       {"hash":"450fd90e0d116173","kind":"list-item","format":"markdown","words":3,"skeleton":"the field has {0}","placeholders":["code"]},
       {"hash":"993b6658c3f5c03a","kind":"list-item","format":"markdown","words":10,"skeleton":"the field's {0} is {1}, {2}, {3} or a payment card value such as {4}","placeholders":["code","code","code","code","code"]},
-      {"hash":"9c3e299629c8e1da","kind":"list-item","format":"markdown","words":12,"skeleton":"your schema marks the property, or an object that contains it, as {0}","placeholders":["code"]},
+      {"hash":"b085f4035856b835","kind":"list-item","format":"markdown","words":16,"skeleton":"your schema marks the property, an object that contains it, or a property inside it, as {0}","placeholders":["code"]},
       {"hash":"a2b13cee4f55c2aa","kind":"paragraph","format":"markdown","words":21,"skeleton":"Defaults are read when the form mounts, so a field that is hidden afterwards keeps the default it was published with."},
       {"hash":"e08231160abbb920","kind":"paragraph","format":"markdown","words":33,"skeleton":"For a component, whether it is rendered is read from the element that receives the component's attributes. The other attributes are read from that element and from the first native control inside it."},
       {"hash":"f1155b90ca2ba2ec","kind":"component-slot","format":"markdown","words":5,"skeleton":"Some restrictions are not detected:"},

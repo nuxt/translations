@@ -1,0 +1,14 @@
+{
+  "hash": "c710f74df5ed87f1",
+  "source": "Server Imports Must Be Declared in {0}",
+  "text": "Les imports côté serveur doivent être déclarés dans {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les imports côté serveur doivent être déclarés dans {0}"
+  },
+  "updatedAt": "2026-11-23T13:18:18.733Z"
+}

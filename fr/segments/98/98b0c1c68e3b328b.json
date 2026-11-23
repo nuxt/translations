@@ -1,0 +1,14 @@
+{
+  "hash": "98b0c1c68e3b328b",
+  "source": "Declare every package your server code imports in your {0}.",
+  "text": "Déclarez dans votre {0} chaque package importé par votre code serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Déclarez dans votre {0} chaque package importé par votre code serveur."
+  },
+  "updatedAt": "2026-11-23T13:18:18.733Z"
+}

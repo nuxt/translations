@@ -1,0 +1,14 @@
+{
+  "hash": "ba73b25e5107cd2b",
+  "source": "An import that Nitro v3 can't resolve stays external, in development and in the build output, so {0} fails at startup with {1}, and a built server fails on a route that reaches the import. Nitro v2 resolved such imports from Nuxt's own dependency tree.",
+  "text": "Ein Import, den Nitro v3 nicht auflösen kann, bleibt extern – sowohl in der Entwicklung als auch in der Build-Ausgabe. Deshalb schlägt {0} beim Start mit {1} fehl, und ein erzeugter Server schlägt bei einer Route fehl, die den Import erreicht. Nitro v2 hat solche Imports aus dem eigenen Abhängigkeitsbaum von Nuxt aufgelöst.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ein Import, den Nitro v3 nicht auflösen kann, bleibt extern – sowohl in der Entwicklung als auch in der Build-Ausgabe. Deshalb schlägt {0} beim Start mit {1} fehl, und ein erzeugter Server schlägt bei einer Route fehl, die den Import erreicht. Nitro v2 hat solche Imports aus dem eigenen Abhängigkeitsbaum von Nuxt aufgelöst."
+  },
+  "updatedAt": "2026-11-23T13:18:18.733Z"
+}

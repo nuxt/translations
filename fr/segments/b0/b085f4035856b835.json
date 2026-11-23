@@ -1,0 +1,15 @@
+{
+  "hash": "b085f4035856b835",
+  "source": "your schema marks the property, an object that contains it, or a property inside it, as {0}",
+  "text": "votre schéma marque la propriété, un objet qui la contient, ou une propriété à l'intérieur de celui-ci, comme {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "9c3e299629c8e1da",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "votre schéma marque la propriété, un objet qui la contient, ou une propriété à l'intérieur de celui-ci, comme {0}"
+  },
+  "updatedAt": "2026-11-23T13:18:18.733Z"
+}
