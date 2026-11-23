@@ -2,7 +2,7 @@
   "version": 1,
   "source": "nuxt-4.x",
   "ref": "4.x",
-  "sha": "4cc3b14c056aefe8606dfcf3c0137731cc298671",
+  "sha": "0ac046209c10cbeffed3979df7e9d03f4652b46b",
   "policy": "f6e446c627d4102c",
   "files": {
     "docs/.navigation.yml": [
@@ -1506,6 +1506,7 @@
       {"hash":"c396f7252c8c4fba","kind":"list-item","format":"markdown","words":68,"skeleton":"**Request URL while prerendering**: the origin of a request that Nitro prerenders, as returned by {0}, is the address of the prerender worker, such as {1}, and its port changes with every build. Nitro v2 used {2}. Build absolute URLs in prerendered pages, such as a canonical link, from a fixed value such as one in your runtime config. Relative {3} and {4} calls to your API routes and public assets aren't affected.","placeholders":["link","code","code","code","code"]},
       {"hash":"850239d7fe985101","kind":"list-item","format":"markdown","words":37,"skeleton":"**The {0} hook while prerendering**: a listener for the runtime {1} hook doesn't run when prerendering ends, and Nuxt names each Nitro v2 plugin that registers one with {2}. The {3}Nuxt 5 upgrade guide{/3} describes how to save the data instead.","placeholders":["code","code","code","link"]},
       {"hash":"7f32bc390a3f5720","kind":"list-item","format":"markdown","words":48,"skeleton":"**Dependencies in the server build**: Nitro v3 bundles the packages that your server code imports. If a package doesn't work once bundled, for example with an error when the server starts, list it in {0} to keep it out of the bundle and copy it into the build output.","placeholders":["code"]},
+      {"hash":"9d171d04b61c3572","kind":"list-item","format":"markdown","words":57,"skeleton":"**Imports your code doesn't declare**: an import that Nitro v3 can't resolve stays external, in development and in the build output, so {0} fails at startup with {1}, and a built server fails on a route that reaches the import. Nitro v2 resolved such imports from Nuxt's own dependency tree. Declare every package your server code imports in your {2}.","placeholders":["code","code","code"]},
       {"hash":"16064666d9d6b016","kind":"list-item","format":"markdown","words":76,"skeleton":"**Storage drivers**: a storage driver that needs a library, including one that a module mounts, needs that library in the dependencies of your project. When it's missing, Nitro v3 prompts you to install it, or installs it without asking in a non-interactive shell, and adds it to your {0}. In CI, and with {1}, the build fails and names the package to add instead. {2} and {3} still work, with a deprecation warning. See {4}Server Storage Is Renamed to KV{/4}.","placeholders":["code","code","code","code","link"]},
       {"hash":"0bc2aed23dddd09a","kind":"list-item","format":"markdown","words":14,"skeleton":"**Modules**: some modules need a release that supports Nitro v3, such as {0} 2.7.0 or later.","placeholders":["code"]},
       {"hash":"e2e946b15844f0bd","kind":"list-item","format":"markdown","words":17,"skeleton":"**Nitro configuration**: options that Nitro v3 removed are ignored, and the build lists them in a {0} warning.","placeholders":["code"]},

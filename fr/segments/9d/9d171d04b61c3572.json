@@ -1,0 +1,14 @@
+{
+  "hash": "9d171d04b61c3572",
+  "source": "**Imports your code doesn't declare**: an import that Nitro v3 can't resolve stays external, in development and in the build output, so {0} fails at startup with {1}, and a built server fails on a route that reaches the import. Nitro v2 resolved such imports from Nuxt's own dependency tree. Declare every package your server code imports in your {2}.",
+  "text": "**Imports que votre code ne déclare pas** : un import que Nitro v3 ne peut pas résoudre reste externe, en développement comme dans la sortie du build, si bien que {0} échoue au démarrage avec {1}, et qu'un serveur construit échoue sur une route qui atteint cet import. Nitro v2 résolvait ces imports à partir de l'arbre de dépendances propre à Nuxt. Déclarez chaque package que le code de votre serveur importe dans votre {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Imports que votre code ne déclare pas** : un import que Nitro v3 ne peut pas résoudre reste externe, en développement comme dans la sortie du build, si bien que {0} échoue au démarrage avec {1}, et qu'un serveur construit échoue sur une route qui atteint cet import. Nitro v2 résolvait ces imports à partir de l'arbre de dépendances propre à Nuxt. Déclarez chaque package que le code de votre serveur importe dans votre {2}."
+  },
+  "updatedAt": "2026-11-23T13:13:50.286Z"
+}
