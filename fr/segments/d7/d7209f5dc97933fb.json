@@ -1,0 +1,14 @@
+{
+  "hash": "d7209f5dc97933fb",
+  "source": "Values set in {0}, including values read from {1}, are written into the server build output. Anyone who can read your project files, including clients of a dev server you have exposed to the network, can read them. Leave private values empty in {2} and provide them with {3} environment variables, as in the {4}example below{/4}.",
+  "text": "Les valeurs définies dans {0}, y compris celles lues depuis {1}, sont écrites dans la sortie du build serveur. Toute personne pouvant lire les fichiers de votre projet, y compris les clients d'un serveur de développement exposé sur le réseau, peut les lire. Laissez les valeurs privées vides dans {2} et fournissez-les avec les variables d'environnement {3}, comme dans l'{4}exemple ci-dessous{/4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les valeurs définies dans {0}, y compris celles lues depuis {1}, sont écrites dans la sortie du build serveur. Toute personne pouvant lire les fichiers de votre projet, y compris les clients d'un serveur de développement exposé sur le réseau, peut les lire. Laissez les valeurs privées vides dans {2} et fournissez-les avec les variables d'environnement {3}, comme dans l'{4}exemple ci-dessous{/4}."
+  },
+  "updatedAt": "2026-11-23T22:31:15.706Z"
+}

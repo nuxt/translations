@@ -1,0 +1,15 @@
+{
+  "hash": "0585506f4d2e05eb",
+  "source": "Because props come from the request (URL query or body), treat them as untrusted input. Nuxt rejects the props most likely to leak through unintentionally: a top-level {0} or {1} that the island does not declare (an undeclared prop falls through as an attribute onto the island's root), and, with {2} enabled, a {3} anywhere in the props. Beyond that, avoid feeding props you have not validated into dynamic component resolution ({4}, {5}, {6}, or a polymorphic {7} / {8} prop), since a string can resolve to any registered component or HTML element.",
+  "text": "Comme les props proviennent de la requête (paramètres d'URL ou corps), considérez-les comme des entrées non fiables. Nuxt rejette les props les plus susceptibles de fuiter involontairement : un {0} ou {1} de premier niveau que l'island ne déclare pas (une prop non déclarée est transmise comme attribut à la racine de l'island) et, lorsque {2} est activé, un {3} n'importe où dans les props. Au-delà, évitez de fournir des props que vous n'avez pas validées à la résolution dynamique de composants ({4}, {5}, {6}, ou une prop polymorphe {7} / {8}), car une chaîne peut correspondre à n'importe quel composant enregistré ou élément HTML.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "bf4ba65b86506327",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Comme les props proviennent de la requête (paramètres d'URL ou corps), considérez-les comme des entrées non fiables. Nuxt rejette les props les plus susceptibles de fuiter involontairement : un {0} ou {1} de premier niveau que l'island ne déclare pas (une prop non déclarée est transmise comme attribut à la racine de l'island) et, lorsque {2} est activé, un {3} n'importe où dans les props. Au-delà, évitez de fournir des props que vous n'avez pas validées à la résolution dynamique de composants ({4}, {5}, {6}, ou une prop polymorphe {7} / {8}), car une chaîne peut correspondre à n'importe quel composant enregistré ou élément HTML."
+  },
+  "updatedAt": "2026-11-23T22:31:15.706Z"
+}

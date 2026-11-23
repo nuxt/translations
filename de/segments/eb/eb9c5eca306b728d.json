@@ -1,0 +1,15 @@
+{
+  "hash": "eb9c5eca306b728d",
+  "source": "Nitro matches the {0} of a server middleware case-sensitively. Unless {1} is {2}, a middleware registered for {3} with {4} or {5} does not run for {6} or {7}, but the page router still renders the pages at {8} and {9}. Setting {10} to {11} covers case variants, but not encoded slashes: a middleware registered for {12} does not run for {13}, while a catch-all page receives the decoded param {14}. Server middleware is not a reliable way to protect pages. Check access in the server route or API that returns the protected data.",
+  "text": "Nitro gleicht den {0} einer Server-Middleware unter Beachtung der Groß- und Kleinschreibung ab. Solange {1} nicht {2} ist, wird eine Middleware, die mit {4} oder {5} für {3} registriert wurde, nicht für {6} oder {7} ausgeführt, der Seiten-Router rendert die Seiten unter {8} und {9} aber trotzdem. Das Setzen von {10} auf {11} deckt Varianten in der Groß- und Kleinschreibung ab, nicht jedoch kodierte Schrägstriche: Eine Middleware, die für {12} registriert wurde, wird nicht für {13} ausgeführt, während eine Catch-all-Seite den dekodierten Parameter {14} erhält. Server-Middleware ist kein zuverlässiger Weg, um Seiten zu schützen. Prüfe den Zugriff in der Server-Route oder API, die die geschützten Daten zurückgibt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "9aacb37770ec33f6",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nitro gleicht den {0} einer Server-Middleware unter Beachtung der Groß- und Kleinschreibung ab. Solange {1} nicht {2} ist, wird eine Middleware, die mit {4} oder {5} für {3} registriert wurde, nicht für {6} oder {7} ausgeführt, der Seiten-Router rendert die Seiten unter {8} und {9} aber trotzdem. Das Setzen von {10} auf {11} deckt Varianten in der Groß- und Kleinschreibung ab, nicht jedoch kodierte Schrägstriche: Eine Middleware, die für {12} registriert wurde, wird nicht für {13} ausgeführt, während eine Catch-all-Seite den dekodierten Parameter {14} erhält. Server-Middleware ist kein zuverlässiger Weg, um Seiten zu schützen. Prüfe den Zugriff in der Server-Route oder API, die die geschützten Daten zurückgibt."
+  },
+  "updatedAt": "2026-11-23T22:31:15.706Z"
+}

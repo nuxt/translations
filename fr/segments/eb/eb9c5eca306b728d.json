@@ -1,0 +1,15 @@
+{
+  "hash": "eb9c5eca306b728d",
+  "source": "Nitro matches the {0} of a server middleware case-sensitively. Unless {1} is {2}, a middleware registered for {3} with {4} or {5} does not run for {6} or {7}, but the page router still renders the pages at {8} and {9}. Setting {10} to {11} covers case variants, but not encoded slashes: a middleware registered for {12} does not run for {13}, while a catch-all page receives the decoded param {14}. Server middleware is not a reliable way to protect pages. Check access in the server route or API that returns the protected data.",
+  "text": "Nitro fait correspondre le {0} d'un server middleware en respectant la casse. À moins que {1} ne soit défini sur {2}, un middleware enregistré pour {3} avec {4} ou {5} ne s'exécute pas pour {6} ou {7}, alors que le routeur de pages affiche tout de même les pages à {8} et {9}. Définir {10} sur {11} couvre les variantes de casse, mais pas les slashs encodés : un middleware enregistré pour {12} ne s'exécute pas pour {13}, alors qu'une page catch-all reçoit le paramètre décodé {14}. Un server middleware n'est pas un moyen fiable de protéger des pages. Vérifiez l'accès dans la route serveur ou l'API qui renvoie les données protégées.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "9aacb37770ec33f6",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nitro fait correspondre le {0} d'un server middleware en respectant la casse. À moins que {1} ne soit défini sur {2}, un middleware enregistré pour {3} avec {4} ou {5} ne s'exécute pas pour {6} ou {7}, alors que le routeur de pages affiche tout de même les pages à {8} et {9}. Définir {10} sur {11} couvre les variantes de casse, mais pas les slashs encodés : un middleware enregistré pour {12} ne s'exécute pas pour {13}, alors qu'une page catch-all reçoit le paramètre décodé {14}. Un server middleware n'est pas un moyen fiable de protéger des pages. Vérifiez l'accès dans la route serveur ou l'API qui renvoie les données protégées."
+  },
+  "updatedAt": "2026-11-23T22:31:15.706Z"
+}
