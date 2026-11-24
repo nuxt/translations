@@ -2,7 +2,7 @@
   "version": 1,
   "source": "nuxt-main",
   "ref": "main",
-  "sha": "4667ae2d318b70cc938f2c6bbc303f29faa86306",
+  "sha": "7ae7b022066b466b4bd46c00e3dc36bea97a64c5",
   "policy": "f6e446c627d4102c",
   "files": {
     "docs/.navigation.yml": [
@@ -6275,6 +6275,7 @@
       {"hash":"b69794c6174ab61b","kind":"list-item","format":"markdown","words":26,"skeleton":"{0}: Event emitted when the default slot of the component throws an error. For an error caught during server-side rendering, it is emitted on the server only.","placeholders":["code"]},
       {"hash":"4fd72c06bcff7971","kind":"heading","format":"markdown","words":1,"skeleton":"Slots"},
       {"hash":"cb8aa2083e180946","kind":"list-item","format":"markdown","words":10,"skeleton":"{0}: Specify a fallback content to display in case of error.","placeholders":["code"]},
+      {"hash":"c1d4cf69069cb393","kind":"list-item","format":"markdown","words":59,"skeleton":"The {0} prop is an {1} that may also carry {2}, {3}, {4}, {5} and {6}. A server-side error is always a {7}, so the fields exist, though {8}, {9} and {10} are {11} when Nuxt does not know them. An error thrown on the client is passed through as it was thrown, so the fields are only present when the thrown error carried them, for example an error created with {12}.","placeholders":["code","code","code","code","code","code","code","code","code","code","code","code","link"]},
       {"hash":"f07153494a77aa07","kind":"component-slot","format":"markdown","words":30,"skeleton":"The slot also exposes {0} as a deprecated alias of {1}. Use {2}: if a template does not destructure {3} from the slot props, it calls the auto-imported {4} instead, which clears the **global** error.","placeholders":["code","code","code","code","link"]},
       {"hash":"d029f87e3d80f8fd","kind":"heading","format":"markdown","words":1,"skeleton":"Example"},
       {"hash":"b5b5eea1101df26a","kind":"heading","format":"markdown","words":4,"skeleton":"Accessing {0} and {1} in Script","placeholders":["code","code"]},

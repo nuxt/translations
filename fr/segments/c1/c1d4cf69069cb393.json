@@ -1,0 +1,14 @@
+{
+  "hash": "c1d4cf69069cb393",
+  "source": "The {0} prop is an {1} that may also carry {2}, {3}, {4}, {5} and {6}. A server-side error is always a {7}, so the fields exist, though {8}, {9} and {10} are {11} when Nuxt does not know them. An error thrown on the client is passed through as it was thrown, so the fields are only present when the thrown error carried them, for example an error created with {12}.",
+  "text": "La prop {0} est une {1} pouvant également contenir {2}, {3}, {4}, {5} et {6}. Une erreur côté serveur est toujours une {7}, donc ces champs existent, mais {8}, {9} et {10} sont {11} lorsque Nuxt ne les connaît pas. Une erreur levée côté client est transmise telle quelle, de sorte que les champs ne sont présents que si l'erreur levée les contenait, par exemple une erreur créée avec {12}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La prop {0} est une {1} pouvant également contenir {2}, {3}, {4}, {5} et {6}. Une erreur côté serveur est toujours une {7}, donc ces champs existent, mais {8}, {9} et {10} sont {11} lorsque Nuxt ne les connaît pas. Une erreur levée côté client est transmise telle quelle, de sorte que les champs ne sont présents que si l'erreur levée les contenait, par exemple une erreur créée avec {12}."
+  },
+  "updatedAt": "2026-11-24T11:07:35.957Z"
+}
