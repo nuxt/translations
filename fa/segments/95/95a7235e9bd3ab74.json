@@ -1,0 +1,13 @@
+{
+  "hash": "95a7235e9bd3ab74",
+  "source": "{0}: the loading screen shown while a client-side rendered ({1}) page initializes",
+  "text": "{0}: صفحهٔ بارگذاری که هنگام مقداردهی اولیهٔ صفحه‌ای با رندر سمت کلاینت ({1}) نمایش داده می‌شود",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "{0}: صفحهٔ بارگذاری که هنگام مقداردهی اولیهٔ صفحه‌ای با رندر سمت کلاینت ({1}) نمایش داده می‌شود"
+  },
+  "updatedAt": "2026-11-23T17:47:08.575Z"
+}

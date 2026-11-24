@@ -1,0 +1,13 @@
+{
+  "hash": "3339f7cc786cf0e7",
+  "source": "The {0} does **not** change the server-rendered HTML. During server rendering, Nuxt waits for the request to resolve before serializing the page either way ({1}, and {2} under the hood), so the fully populated result is always sent to the browser.",
+  "text": "{0}، HTML رندرشده در سرور را **تغییر نمی‌دهد**. در رندر سمت سرور، Nuxt در هر دو حالت پیش از سریال‌سازی صفحه منتظر تکمیل درخواست می‌ماند (با {1} و {2} در پشت صحنه)؛ بنابراین همیشه نتیجهٔ کاملاً آماده به مرورگر ارسال می‌شود.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "{0}، HTML رندرشده در سرور را **تغییر نمی‌دهد**. در رندر سمت سرور، Nuxt در هر دو حالت پیش از سریال‌سازی صفحه منتظر تکمیل درخواست می‌ماند (با {1} و {2} در پشت صحنه)؛ بنابراین همیشه نتیجهٔ کاملاً آماده به مرورگر ارسال می‌شود."
+  },
+  "updatedAt": "2026-11-23T17:50:28.790Z"
+}

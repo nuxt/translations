@@ -1,0 +1,13 @@
+{
+  "hash": "2b8a2ff1872ad501",
+  "source": "If you only have a single layout in your application, we recommend using {0} with {1} instead.",
+  "text": "اگر برنامهٔ شما فقط یک Layout دارد، پیشنهاد می‌کنیم از {0} همراه با {1} استفاده کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "اگر برنامهٔ شما فقط یک Layout دارد، پیشنهاد می‌کنیم از {0} همراه با {1} استفاده کنید."
+  },
+  "updatedAt": "2026-11-23T17:47:08.554Z"
+}

@@ -1,0 +1,13 @@
+{
+  "hash": "0570a823eca381e4",
+  "source": "The {0} directory is the directory that contains the server-side code of the Nuxt application. It contains the following subdirectories:",
+  "text": "پوشهٔ {0} کد سمت سرور برنامهٔ Nuxt را در بر می‌گیرد و شامل زیرپوشه‌های زیر است:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "پوشهٔ {0} کد سمت سرور برنامهٔ Nuxt را در بر می‌گیرد و شامل زیرپوشه‌های زیر است:"
+  },
+  "updatedAt": "2026-11-23T17:47:08.578Z"
+}

@@ -1,0 +1,13 @@
+{
+  "hash": "ae3c3782213e126e",
+  "source": "This call will only be performed on the client",
+  "text": "این فراخوانی فقط در کلاینت انجام می‌شود",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "این فراخوانی فقط در کلاینت انجام می‌شود"
+  },
+  "updatedAt": "2026-11-23T17:50:28.804Z"
+}

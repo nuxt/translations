@@ -1,0 +1,13 @@
+{
+  "hash": "e0f10f54930bbeed",
+  "source": "Hot module replacement",
+  "text": "Hot Module Replacement",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Hot Module Replacement"
+  },
+  "updatedAt": "2026-11-23T17:47:08.531Z"
+}

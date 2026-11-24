@@ -1,0 +1,13 @@
+{
+  "hash": "1ec020437e6dc2a1",
+  "source": "Layouts are wrappers around pages that contain a common User Interface for several pages, such as header and footer displays. Layouts are Vue files using {0} components to display the **page** content. The {1} file will be used by default. Custom layouts can be set as part of your page metadata.",
+  "text": "Layout‌ها پوشش‌هایی پیرامون صفحه‌ها هستند که رابط کاربری مشترک چند صفحه، مانند Header و Footer، را در بر می‌گیرند. Layout‌ها فایل‌های Vue هستند که با کامپوننت‌های {0} محتوای **صفحه** را نمایش می‌دهند. فایل {1} به‌صورت پیش‌فرض استفاده می‌شود. می‌توانید Layout‌های سفارشی را در متادیتای صفحه تعیین کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Layoutها پوشش‌هایی پیرامون صفحه‌ها هستند که رابط کاربری مشترک چند صفحه، مانند Header و Footer، را در بر می‌گیرند. Layoutها فایل‌های Vue هستند که با کامپوننت‌های {0} محتوای **صفحه** را نمایش می‌دهند. فایل {1} به‌صورت پیش‌فرض استفاده می‌شود. می‌توانید Layoutهای سفارشی را در متادیتای صفحه تعیین کنید."
+  },
+  "updatedAt": "2026-11-23T18:11:52.680Z"
+}

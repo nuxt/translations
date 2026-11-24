@@ -1,0 +1,13 @@
+{
+  "hash": "d0387666281c9869",
+  "source": "The {0} directory is the recommended place for application tests (unit, Nuxt runtime, and end-to-end). See {1}Organizing Your Tests{/1} for layout and setup details.",
+  "text": "پوشهٔ {0} محل پیشنهادی برای تست‌های برنامه (واحد، محیط اجرای Nuxt و سرتاسری) است. برای جزئیات ساختار و راه‌اندازی، {1}سازمان‌دهی تست‌ها{/1} را ببینید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "پوشهٔ {0} محل پیشنهادی برای تست‌های برنامه (واحد، محیط اجرای Nuxt و سرتاسری) است. برای جزئیات ساختار و راه‌اندازی، {1}سازمان‌دهی تست‌ها{/1} را ببینید."
+  },
+  "updatedAt": "2026-11-23T17:47:08.582Z"
+}

@@ -1,0 +1,13 @@
+{
+  "hash": "dea3058b1130c4dc",
+  "source": "When requests don't rely on each other, you can make them in parallel with {0} to boost performance.",
+  "text": "وقتی درخواست‌ها به یکدیگر وابسته نیستند، می‌توانید با {0} آن‌ها را به‌صورت موازی انجام دهید تا عملکرد بهبود یابد.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "وقتی درخواست‌ها به یکدیگر وابسته نیستند، می‌توانید با {0} آن‌ها را به‌صورت موازی انجام دهید تا عملکرد بهبود یابد."
+  },
+  "updatedAt": "2026-11-23T17:50:28.873Z"
+}

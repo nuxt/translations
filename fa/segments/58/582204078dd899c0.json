@@ -1,0 +1,13 @@
+{
+  "hash": "582204078dd899c0",
+  "source": "This composable will automatically pass cookies to the client",
+  "text": "این Composable کوکی‌ها را به‌صورت خودکار به کلاینت منتقل می‌کند",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "این Composable کوکی‌ها را به‌صورت خودکار به کلاینت منتقل می‌کند"
+  },
+  "updatedAt": "2026-11-23T17:50:28.853Z"
+}

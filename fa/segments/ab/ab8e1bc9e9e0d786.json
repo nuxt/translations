@@ -1,0 +1,13 @@
+{
+  "hash": "ab8e1bc9e9e0d786",
+  "source": "A minimal configuration file exports the {0} function containing an object with your configuration. The {1} helper is globally available without import.",
+  "text": "در فایل پیکربندی حداقلی، نتیجهٔ فراخوانی {0} با آبجکتی شامل پیکربندی شما Export می‌شود. تابع کمکی {1} بدون نیاز به Import، به‌صورت سراسری در دسترس است.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "یک فایل پیکربندی حداقلی، تابع {0} را با آبجکتی شامل پیکربندی شما Export می‌کند. تابع کمکی {1} بدون نیاز به Import، به‌صورت سراسری در دسترس است."
+  },
+  "updatedAt": "2026-11-23T18:11:52.669Z"
+}

@@ -1,0 +1,13 @@
+{
+  "hash": "40fc36a4cba28064",
+  "source": "To globally refetch or invalidate cached data, see {0} and {1}.",
+  "text": "برای دریافت مجدد یا بی‌اعتبار کردن دادهٔ کش‌شده در کل برنامه، {0} و {1} را ببینید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "برای دریافت مجدد یا بی‌اعتبار کردن دادهٔ کش‌شده در کل برنامه، {0} و {1} را ببینید."
+  },
+  "updatedAt": "2026-11-23T17:50:28.829Z"
+}

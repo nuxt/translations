@@ -1,0 +1,13 @@
+{
+  "hash": "fd2796011abbb90b",
+  "source": "Now, if you set the title to {0} with {1} on another page of your site, the title would appear as 'My Page - Site Title' in the browser tab. You could also pass {2} to default to 'Site Title'.",
+  "text": "حالا اگر در صفحه‌ای دیگر از سایت، عنوان را با {1} روی {0} تنظیم کنید، عنوان در تب مرورگر به‌صورت «My Page - Site Title» نمایش داده می‌شود. همچنین می‌توانید {2} بدهید تا عنوان پیش‌فرض «Site Title» استفاده شود.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "حالا اگر در صفحه‌ای دیگر از سایت، عنوان را با {1} روی {0} تنظیم کنید، عنوان در تب مرورگر به‌صورت «My Page - Site Title» نمایش داده می‌شود. همچنین می‌توانید {2} بدهید تا عنوان پیش‌فرض «Site Title» استفاده شود."
+  },
+  "updatedAt": "2026-11-23T17:47:08.664Z"
+}

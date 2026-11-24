@@ -1,0 +1,13 @@
+{
+  "hash": "00612589df4dfc7b",
+  "source": "Nuxt routing is based on {0}vue-router{/0} and generates the routes from every component created in the {1}{2} directory{/1}, based on their filename.",
+  "text": "Routing در Nuxt بر پایهٔ {0}vue-router{/0} است و از روی نام فایل هر کامپوننت ایجادشده در {1}پوشهٔ {2}{/1}، Route‌ها را تولید می‌کند.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Routing در Nuxt بر پایهٔ {0}vue-router{/0} است و از روی نام فایل هر کامپوننت ایجادشده در {1}پوشهٔ {2}{/1}، Routeها را تولید می‌کند."
+  },
+  "updatedAt": "2026-11-23T18:11:52.690Z"
+}

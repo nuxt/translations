@@ -1,0 +1,13 @@
+{
+  "hash": "e83722c28bd5036c",
+  "source": "Nuxt provides composables to handle data fetching within your application.",
+  "text": "Nuxt برای مدیریت دریافت داده در برنامهٔ شما Composable‌هایی ارائه می‌کند.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Nuxt برای مدیریت دریافت داده در برنامهٔ شما Composableهایی ارائه می‌کند."
+  },
+  "updatedAt": "2026-11-23T18:11:52.703Z"
+}

@@ -1,0 +1,13 @@
+{
+  "hash": "3d083962bc9eb5a5",
+  "source": "Alternatively, the example below shows how to use {0} to access and send cookies to the API from a server-side request (originating on the client). Using an isomorphic {1} call, we ensure that the API endpoint has access to the same {2} header originally sent by the user's browser. This is only necessary if you aren't using {3}.",
+  "text": "روش دیگر در مثال زیر نشان داده شده است: با {0} به کوکی‌های درخواست سمت سرور که از کلاینت آغاز شده دسترسی پیدا می‌کنید و آن‌ها را به API می‌فرستید. با یک فراخوانی ایزومورفیک {1} اطمینان حاصل می‌کنید که Endpoint مربوط به API به همان Header {2} ارسال‌شده از مرورگر کاربر دسترسی دارد. این کار فقط زمانی لازم است که از {3} استفاده نمی‌کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "روش دیگر در مثال زیر نشان داده شده است: با {0} به کوکی‌های درخواست سمت سرور که از کلاینت آغاز شده دسترسی پیدا می‌کنید و آن‌ها را به API می‌فرستید. با یک فراخوانی ایزومورفیک {1} اطمینان می‌دهیم که Endpoint مربوط به API به همان Header {2} ارسال‌شده از مرورگر کاربر دسترسی دارد. این کار فقط زمانی لازم است که از {3} استفاده نمی‌کنید."
+  },
+  "updatedAt": "2026-11-24T17:15:35.121Z"
+}

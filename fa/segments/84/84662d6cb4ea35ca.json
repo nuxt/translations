@@ -1,0 +1,13 @@
+{
+  "hash": "84662d6cb4ea35ca",
+  "source": "This is suitable for files that have to keep their names (e.g. {0}) *or* likely won't change (e.g. {1}).",
+  "text": "این پوشه برای فایل‌هایی مناسب است که باید نامشان حفظ شود (مانند {0}) *یا* احتمالاً تغییر نمی‌کنند (مانند {1}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "این پوشه برای فایل‌هایی مناسب است که باید نامشان حفظ شود (مانند {0}) *یا* احتمالاً تغییر نمی‌کنند (مانند {1})."
+  },
+  "updatedAt": "2026-11-23T17:47:08.577Z"
+}

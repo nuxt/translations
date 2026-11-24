@@ -1,0 +1,13 @@
+{
+  "hash": "02acfc95909a4d62",
+  "source": "Changing the id will trigger a refetch",
+  "text": "تغییر id باعث دریافت مجدد داده می‌شود",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "تغییر id باعث دریافت مجدد داده می‌شود"
+  },
+  "updatedAt": "2026-11-23T17:50:28.831Z"
+}

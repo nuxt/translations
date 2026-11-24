@@ -1,0 +1,13 @@
+{
+  "hash": "988f1b7242a3de13",
+  "source": "Code-splitting is enabled by default and is recommended for most apps. If you have a specific reason to ship a single bundle instead, you can disable it in your {0}:",
+  "text": "تقسیم کد به‌صورت پیش‌فرض فعال است و برای بیشتر برنامه‌ها توصیه می‌شود. اگر دلیل مشخصی برای ارسال یک Bundle واحد دارید، می‌توانید آن را در {0} غیرفعال کنید:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "تقسیم کد به‌صورت پیش‌فرض فعال است و برای بیشتر برنامه‌ها توصیه می‌شود. اگر دلیل مشخصی برای ارسال یک Bundle واحد دارید، می‌توانید آن را در {0} غیرفعال کنید:"
+  },
+  "updatedAt": "2026-11-23T17:47:08.596Z"
+}

@@ -1,0 +1,13 @@
+{
+  "hash": "4877973bc4c41023",
+  "source": "As Nuxt is a versatile framework, it gives you the possibility to statically render your whole application to a static hosting with {0}, disable SSR globally with the {1} option or leverage hybrid rendering by setting up the {2} option.",
+  "text": "Nuxt فریم‌ورکی انعطاف‌پذیر است؛ می‌توانید با {0} کل برنامه را به‌صورت ایستا برای میزبانی ایستا رندر کنید، با گزینهٔ {1}، SSR را در کل برنامه غیرفعال کنید، یا با پیکربندی گزینهٔ {2} از رندر ترکیبی بهره ببرید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Nuxt فریم‌ورکی انعطاف‌پذیر است؛ می‌توانید با {0} کل برنامه را به‌صورت ایستا برای میزبانی ایستا رندر کنید، با گزینهٔ {1}، SSR را در کل برنامه غیرفعال کنید، یا با پیکربندی گزینهٔ {2} از رندر ترکیبی بهره ببرید."
+  },
+  "updatedAt": "2026-11-23T17:47:08.486Z"
+}

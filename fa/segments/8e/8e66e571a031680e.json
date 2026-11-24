@@ -1,0 +1,13 @@
+{
+  "hash": "8e66e571a031680e",
+  "source": "If you only need to modify the {0}, you can refer to the {1}SEO and meta section{/1}.",
+  "text": "اگر فقط نیاز دارید {0} را تغییر دهید، به {1}بخش SEO و متادیتا{/1} مراجعه کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "اگر فقط نیاز دارید {0} را تغییر دهید، به {1}بخش SEO و متادیتا{/1} مراجعه کنید."
+  },
+  "updatedAt": "2026-11-23T17:47:08.556Z"
+}

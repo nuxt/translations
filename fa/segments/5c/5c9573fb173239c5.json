@@ -1,0 +1,13 @@
+{
+  "hash": "5c9573fb173239c5",
+  "source": "We made everything so you can start writing {0} files from the beginning while enjoying hot module replacement in development and a performant application in production with server-side rendering by default.",
+  "text": "همه‌چیز را آماده کرده‌ایم تا از همان ابتدا فایل‌های {0} بنویسید و در محیط توسعه از Hot Module Replacement و در محیط عملیاتی از برنامه‌ای با عملکرد بالا و رندر سمت سرور به‌صورت پیش‌فرض بهره ببرید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "همه‌چیز را آماده کرده‌ایم تا از همان ابتدا فایل‌های {0} بنویسید و در محیط توسعه از Hot Module Replacement و در محیط عملیاتی از برنامه‌ای با عملکرد بالا و رندر سمت سرور به‌صورت پیش‌فرض بهره ببرید."
+  },
+  "updatedAt": "2026-11-23T17:47:08.476Z"
+}

@@ -1,0 +1,13 @@
+{
+  "hash": "7653eea33abe2cfc",
+  "source": "Most components are reusable pieces of the user interface, like buttons and menus. In Nuxt, you can create these components in the {0} directory, and they will be automatically available across your application without having to explicitly import them.",
+  "text": "بیشتر کامپوننت‌ها بخش‌های قابل‌استفادهٔ مجدد رابط کاربری، مانند دکمه‌ها و منوها هستند. در Nuxt می‌توانید این کامپوننت‌ها را در پوشهٔ {0} ایجاد کنید تا بدون نیاز به Import صریح، به‌صورت خودکار در سراسر برنامه در دسترس باشند.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "بیشتر کامپوننت‌ها بخش‌های قابل‌استفادهٔ مجدد رابط کاربری، مانند دکمه‌ها و منوها هستند. در Nuxt می‌توانید این کامپوننت‌ها را در پوشهٔ {0} ایجاد کنید تا بدون نیاز به Import صریح، به‌صورت خودکار در سراسر برنامه در دسترس باشند."
+  },
+  "updatedAt": "2026-11-23T17:47:08.543Z"
+}

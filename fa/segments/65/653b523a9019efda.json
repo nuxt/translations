@@ -1,0 +1,13 @@
+{
+  "hash": "653b523a9019efda",
+  "source": "This will be an object representation of the html template.",
+  "text": "این یک نمایش آبجکتی از قالب HTML خواهد بود.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "این یک نمایش آبجکتی از قالب HTML خواهد بود."
+  },
+  "updatedAt": "2026-11-23T17:47:08.559Z"
+}

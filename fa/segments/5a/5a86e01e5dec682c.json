@@ -1,0 +1,13 @@
+{
+  "hash": "5a86e01e5dec682c",
+  "source": "When multiple components use the same key with {0} or {1}, they will share the same {2}, {3} and {4} refs. This ensures consistency across components but requires some options to be consistent.",
+  "text": "وقتی چند کامپوننت با {0} یا {1} از یک کلید استفاده می‌کنند، ref‌های {2}، {3} و {4} مشترکی دارند. این کار سازگاری بین کامپوننت‌ها را تضمین می‌کند، اما لازم است بعضی گزینه‌ها یکسان باشند.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "وقتی چند کامپوننت با {0} یا {1} از یک کلید استفاده می‌کنند، refهای {2}، {3} و {4} مشترکی دارند. این کار سازگاری بین کامپوننت‌ها را تضمین می‌کند، اما لازم است بعضی گزینه‌ها یکسان باشند."
+  },
+  "updatedAt": "2026-11-23T18:11:52.734Z"
+}

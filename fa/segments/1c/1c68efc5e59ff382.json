@@ -1,0 +1,13 @@
+{
+  "hash": "1c68efc5e59ff382",
+  "source": "valid options are: 'head' | 'bodyClose' | 'bodyOpen'",
+  "text": "گزینه‌های معتبر: 'head' | 'bodyClose' | 'bodyOpen'",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "گزینه‌های معتبر: 'head' | 'bodyClose' | 'bodyOpen'"
+  },
+  "updatedAt": "2026-11-23T17:47:08.673Z"
+}

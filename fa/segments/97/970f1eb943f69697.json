@@ -1,0 +1,13 @@
+{
+  "hash": "970f1eb943f69697",
+  "source": "Some route rules ({0}, {1} and {2}) also affect client-side behavior.",
+  "text": "بعضی قواعد Route ({0}، {1} و {2}) بر رفتار سمت کلاینت نیز تأثیر می‌گذارند.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "بعضی قواعد Route ({0}، {1} و {2}) بر رفتار سمت کلاینت نیز تأثیر می‌گذارند."
+  },
+  "updatedAt": "2026-11-23T17:51:31.641Z"
+}

@@ -1,0 +1,13 @@
+{
+  "hash": "e9057c0338e2484c",
+  "source": "{0}: use plugins and more at the creation of the Nuxt server",
+  "text": "{0}: هنگام ایجاد سرور Nuxt از پلاگین‌ها و امکانات دیگر استفاده کنید",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "{0}: استفاده از پلاگین‌ها و امکانات دیگر هنگام ایجاد سرور Nuxt"
+  },
+  "updatedAt": "2026-11-23T18:11:52.687Z"
+}

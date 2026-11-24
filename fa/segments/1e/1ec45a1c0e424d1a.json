@@ -1,0 +1,13 @@
+{
+  "hash": "1ec45a1c0e424d1a",
+  "source": "The {0} and {1} are independent, and on the client awaiting a {2} function won't have the effect you expect. If you {3} a {4} call (for example {5} or {6}), it still blocks server rendering as usual, but on **client-side navigation** the {7} resolves immediately without waiting for the request. {8} will still be at its default value right after the {9}, and you must handle the loading state via {10}. If you actually want the navigation to wait for the data, drop the {11} option rather than relying on {12}.",
+  "text": "{0} و {1} مستقل‌اند و در کلاینت، منتظر ماندن برای تابع {2} اثر مورد انتظار را ندارد. اگر برای فراخوانی {4} از {3} استفاده کنید (برای مثال {5} یا {6})، همچنان مثل معمول رندر سرور را مسدود می‌کند، اما در **جابه‌جایی سمت کلاینت**، {7} بلافاصله و بدون انتظار برای درخواست تکمیل می‌شود. {8} درست پس از {9} همچنان مقدار پیش‌فرض دارد و باید وضعیت بارگذاری را با {10} مدیریت کنید. اگر می‌خواهید جابه‌جایی واقعاً منتظر داده بماند، گزینهٔ {11} را حذف کنید و به {12} تکیه نکنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "{0} و {1} مستقل‌اند و در کلاینت، منتظر ماندن برای تابع {2} اثر مورد انتظار را ندارد. اگر برای فراخوانی {4} از {3} استفاده کنید (برای مثال {5} یا {6})، همچنان مثل معمول رندر سرور را مسدود می‌کند، اما در **جابه‌جایی سمت کلاینت**، {7} بلافاصله و بدون انتظار برای درخواست تکمیل می‌شود. {8} درست پس از {9} همچنان مقدار پیش‌فرض دارد و باید وضعیت بارگذاری را با {10} مدیریت کنید. اگر می‌خواهید جابه‌جایی واقعاً منتظر داده بماند، گزینهٔ {11} را حذف کنید و به {12} تکیه نکنید."
+  },
+  "updatedAt": "2026-11-23T17:50:28.792Z"
+}

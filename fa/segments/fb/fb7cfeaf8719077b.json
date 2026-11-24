@@ -1,0 +1,13 @@
+{
+  "hash": "fb7cfeaf8719077b",
+  "source": "Not awaiting has a similar user-visible effect to the {0} option (navigation is not blocked and you handle loading state yourself), but the two are not identical: {1} is an explicit flag that defers the request until the component mounts, whereas simply not awaiting starts the request during setup. Prefer {2} (or {3} / {4}) when you want non-blocking behavior, since it makes the intent explicit.",
+  "text": "استفاده نکردن از await از دید کاربر اثری مشابه گزینهٔ {0} دارد: جابه‌جایی مسدود نمی‌شود و وضعیت بارگذاری را خودتان مدیریت می‌کنید. اما این دو یکسان نیستند؛ {1} یک Flag صریح است که درخواست را تا Mount شدن کامپوننت به تعویق می‌اندازد، در حالی که استفاده نکردن از await درخواست را هنگام setup شروع می‌کند. برای رفتار غیرمسدودکننده، {2} (یا {3} / {4}) را ترجیح دهید، چون قصد شما را صریح بیان می‌کند.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "استفاده نکردن از await از دید کاربر اثری مشابه گزینهٔ {0} دارد: جابه‌جایی مسدود نمی‌شود و وضعیت بارگذاری را خودتان مدیریت می‌کنید. اما این دو یکسان نیستند؛ {1} یک Flag صریح است که درخواست را تا Mount شدن کامپوننت به تعویق می‌اندازد، در حالی که استفاده نکردن از await درخواست را هنگام setup شروع می‌کند. برای رفتار غیرمسدودکننده، {2} (یا {3} / {4}) را ترجیح دهید، چون قصد شما را صریح بیان می‌کند."
+  },
+  "updatedAt": "2026-11-23T17:50:28.792Z"
+}

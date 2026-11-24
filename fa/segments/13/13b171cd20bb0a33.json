@@ -1,0 +1,13 @@
+{
+  "hash": "13b171cd20bb0a33",
+  "source": "{0}: Vue components that wrap around your pages and avoid re-rendering between pages",
+  "text": "{0}: کامپوننت‌های Vue که صفحه‌ها را در بر می‌گیرند و از رندر مجدد هنگام جابه‌جایی بین صفحه‌ها جلوگیری می‌کنند",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "{0}: کامپوننت‌های Vue که صفحه‌ها را در بر می‌گیرند و از رندر مجدد هنگام جابه‌جایی بین صفحه‌ها جلوگیری می‌کنند"
+  },
+  "updatedAt": "2026-11-23T17:47:08.571Z"
+}

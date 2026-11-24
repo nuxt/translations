@@ -1,0 +1,13 @@
+{
+  "hash": "82165f64ff06f000",
+  "source": "This will override the value of apiSecret",
+  "text": "این مقدار apiSecret را بازنویسی می‌کند",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "این مقدار apiSecret را بازنویسی می‌کند"
+  },
+  "updatedAt": "2026-11-23T17:47:08.523Z"
+}

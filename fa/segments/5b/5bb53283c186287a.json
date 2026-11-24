@@ -1,0 +1,13 @@
+{
+  "hash": "5bb53283c186287a",
+  "source": "By default, Nuxt waits until a {0} is finished before it can be executed again.",
+  "text": "Nuxt به‌صورت پیش‌فرض تا تکمیل {0} منتظر می‌ماند و سپس اجازهٔ اجرای مجدد آن را می‌دهد.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Nuxt به‌صورت پیش‌فرض تا تکمیل {0} منتظر می‌ماند و سپس اجازهٔ اجرای مجدد آن را می‌دهد."
+  },
+  "updatedAt": "2026-11-23T17:50:28.800Z"
+}

@@ -1,0 +1,13 @@
+{
+  "hash": "321ecc2a895edb10",
+  "source": "**Code splitting:** Nuxt automatically splits your code into smaller chunks, which can help reduce the initial load time of your application.",
+  "text": "**تقسیم کد:** Nuxt کد شما را به‌صورت خودکار به بخش‌های کوچک‌تر تقسیم می‌کند؛ این کار می‌تواند زمان بارگذاری اولیهٔ برنامه را کاهش دهد.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "**تقسیم کد:** Nuxt کد شما را به‌صورت خودکار به بخش‌های کوچک‌تر تقسیم می‌کند؛ این کار می‌تواند زمان بارگذاری اولیهٔ برنامه را کاهش دهد."
+  },
+  "updatedAt": "2026-11-23T17:47:08.479Z"
+}

@@ -1,0 +1,13 @@
+{
+  "hash": "5419e640fab98727",
+  "source": "Layouts are wrapper around pages",
+  "text": "Layout‌ها پوشش پیرامون صفحه‌ها هستند",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Layoutها پوشش پیرامون صفحه‌ها هستند"
+  },
+  "updatedAt": "2026-11-23T18:11:52.679Z"
+}

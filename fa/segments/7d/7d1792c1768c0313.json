@@ -1,0 +1,13 @@
+{
+  "hash": "7d1792c1768c0313",
+  "source": "Lazy",
+  "text": "Lazy",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Lazy"
+  },
+  "updatedAt": "2026-11-23T17:50:28.801Z"
+}

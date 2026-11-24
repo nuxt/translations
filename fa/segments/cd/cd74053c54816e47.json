@@ -1,0 +1,13 @@
+{
+  "hash": "cd74053c54816e47",
+  "source": "Architecture",
+  "text": "معماری",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "معماری"
+  },
+  "updatedAt": "2026-11-23T17:47:08.493Z"
+}

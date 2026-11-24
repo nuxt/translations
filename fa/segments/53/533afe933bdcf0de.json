@@ -1,0 +1,13 @@
+{
+  "hash": "533afe933bdcf0de",
+  "source": "You can also provide any of the keys listed below in {0}Types{/0}.",
+  "text": "همچنین می‌توانید هرکدام از کلیدهای فهرست‌شده در بخش {0}نوع‌ها{/0} را تنظیم کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "همچنین می‌توانید هرکدام از کلیدهای فهرست‌شده در بخش {0}نوع‌ها{/0} را تنظیم کنید."
+  },
+  "updatedAt": "2026-11-23T17:47:08.642Z"
+}

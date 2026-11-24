@@ -1,0 +1,13 @@
+{
+  "hash": "9c0c5d262ec25637",
+  "source": "Test Directory",
+  "text": "پوشهٔ Test",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "پوشهٔ Test"
+  },
+  "updatedAt": "2026-11-23T17:47:08.582Z"
+}

@@ -1,0 +1,13 @@
+{
+  "hash": "88ccdb82a968f716",
+  "source": "Normally, during server-side-rendering, due to security considerations, the {0} wouldn't include the user's browser cookies, nor pass on cookies from the fetch response.",
+  "text": "در حالت معمول، هنگام رندر سمت سرور و به‌دلیل ملاحظات امنیتی، {0} کوکی‌های مرورگر کاربر را ارسال نمی‌کند و کوکی‌های پاسخ درخواست را نیز منتقل نمی‌کند.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "در حالت معمول، هنگام رندر سمت سرور و به‌دلیل ملاحظات امنیتی، {0} کوکی‌های مرورگر کاربر را ارسال نمی‌کند و کوکی‌های پاسخ درخواست را نیز منتقل نمی‌کند."
+  },
+  "updatedAt": "2026-11-23T17:50:28.851Z"
+}

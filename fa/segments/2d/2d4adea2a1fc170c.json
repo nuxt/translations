@@ -1,0 +1,13 @@
+{
+  "hash": "2d4adea2a1fc170c",
+  "source": "Route middleware runs within the Vue part of your Nuxt app. Despite the similar name, they are completely different from server middleware, which are run in the Nitro server part of your app.",
+  "text": "Middleware مربوط به Route در بخش Vue برنامهٔ Nuxt اجرا می‌شود. با وجود شباهت نام، کاملاً با Middleware سرور متفاوت است؛ Middleware سرور در بخش سرور Nitro برنامه اجرا می‌شود.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Middleware مربوط به Route در بخش Vue برنامهٔ Nuxt اجرا می‌شود. با وجود شباهت نام، کاملاً با Middleware سرور متفاوت است؛ Middleware سرور در بخش سرور Nitro برنامه اجرا می‌شود."
+  },
+  "updatedAt": "2026-11-23T17:47:08.615Z"
+}

@@ -1,0 +1,13 @@
+{
+  "hash": "8dc01b5c8276a31b",
+  "source": "Route middleware does **not** run for server routes (e.g. {0}) or other server requests. To apply middleware to these requests, use {1}server middleware{/1} instead.",
+  "text": "Middleware مربوط به Route برای Route‌های سرور (مانند {0}) یا دیگر درخواست‌های سرور **اجرا نمی‌شود**. برای اعمال Middleware روی این درخواست‌ها، از {1}Middleware سرور{/1} استفاده کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Middleware مربوط به Route برای Routeهای سرور (مانند {0}) یا دیگر درخواست‌های سرور **اجرا نمی‌شود**. برای اعمال Middleware روی این درخواست‌ها، از {1}Middleware سرور{/1} استفاده کنید."
+  },
+  "updatedAt": "2026-11-23T18:11:52.693Z"
+}

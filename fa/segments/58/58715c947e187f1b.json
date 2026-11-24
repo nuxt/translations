@@ -1,0 +1,13 @@
+{
+  "hash": "58715c947e187f1b",
+  "source": "When we call {0} in the browser, user headers like {1} will be directly sent to the API.",
+  "text": "وقتی {0} را در مرورگر فراخوانی می‌کنید، Header‌های کاربر مانند {1} مستقیماً به API ارسال می‌شوند.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "وقتی {0} را در مرورگر فراخوانی می‌کنیم، Headerهای کاربر مانند {1} مستقیماً به API ارسال می‌شوند."
+  },
+  "updatedAt": "2026-11-24T17:15:35.121Z"
+}

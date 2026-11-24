@@ -1,0 +1,13 @@
+{
+  "hash": "802dcfdd930acfe4",
+  "source": "To learn more about the mechanism behind these overrides, please refer to the {0} documentation on {1}environment-specific configuration{/1}.",
+  "text": "برای آشنایی بیشتر با سازوکار این بازنویسی‌ها، مستندات {0} دربارهٔ {1}پیکربندی مخصوص هر محیط{/1} را مطالعه کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "برای آشنایی بیشتر با سازوکار این بازنویسی‌ها، مستندات {0} دربارهٔ {1}پیکربندی مخصوص هر محیط{/1} را مطالعه کنید."
+  },
+  "updatedAt": "2026-11-23T17:47:08.519Z"
+}

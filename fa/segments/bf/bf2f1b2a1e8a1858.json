@@ -1,0 +1,13 @@
+{
+  "hash": "bf2f1b2a1e8a1858",
+  "source": "If you need to change the URL based on a reactive value, you may want to use a {0}computed URL{/0} instead.",
+  "text": "اگر لازم است URL بر اساس یک مقدار واکنش‌پذیر تغییر کند، می‌توانید از {0}URL محاسبه‌شده{/0} استفاده کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "اگر لازم است URL بر اساس یک مقدار واکنش‌پذیر تغییر کند، می‌توانید از {0}URL محاسبه‌شده{/0} استفاده کنید."
+  },
+  "updatedAt": "2026-11-23T17:50:28.835Z"
+}

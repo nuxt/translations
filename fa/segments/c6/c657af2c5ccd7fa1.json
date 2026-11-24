@@ -1,0 +1,13 @@
+{
+  "hash": "c657af2c5ccd7fa1",
+  "source": "The following options **must be consistent** across all calls with the same key:",
+  "text": "گزینه‌های زیر در همهٔ فراخوانی‌های دارای کلید یکسان **باید یکسان باشند**:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "گزینه‌های زیر در همهٔ فراخوانی‌های دارای کلید یکسان **باید یکسان باشند**:"
+  },
+  "updatedAt": "2026-11-23T17:50:28.811Z"
+}

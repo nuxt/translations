@@ -1,0 +1,13 @@
+{
+  "hash": "96250ea5ec486fb0",
+  "source": "Route Middleware",
+  "text": "Middleware مربوط به Route",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Middleware مربوط به Route"
+  },
+  "updatedAt": "2026-11-23T17:47:08.613Z"
+}

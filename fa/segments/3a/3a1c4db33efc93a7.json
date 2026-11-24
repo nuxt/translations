@@ -1,0 +1,13 @@
+{
+  "hash": "3a1c4db33efc93a7",
+  "source": "Most of the time, you will want to initialize your state with data that resolves asynchronously. You can use the {0} component with the {1} util to do so.",
+  "text": "اغلب می‌خواهید State را با داده‌ای مقداردهی اولیه کنید که به‌صورت غیرهمزمان آماده می‌شود. برای این کار می‌توانید از کامپوننت {0} همراه با ابزار {1} استفاده کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "اغلب می‌خواهید State را با داده‌ای مقداردهی اولیه کنید که به‌صورت غیرهمزمان آماده می‌شود. برای این کار می‌توانید از کامپوننت {0} همراه با ابزار {1} استفاده کنید."
+  },
+  "updatedAt": "2026-11-23T17:51:31.623Z"
+}

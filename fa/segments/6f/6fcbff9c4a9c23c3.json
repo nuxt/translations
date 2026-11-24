@@ -1,0 +1,13 @@
+{
+  "hash": "6fcbff9c4a9c23c3",
+  "source": "Deployment section",
+  "text": "بخش استقرار",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "بخش استقرار"
+  },
+  "updatedAt": "2026-11-23T17:47:08.492Z"
+}

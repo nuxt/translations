@@ -1,0 +1,13 @@
+{
+  "hash": "a5b3f4d6aae4b923",
+  "source": "If you're authoring layers, you can also use the {0} key to provide metadata that you or the consumers of your layer might use.",
+  "text": "اگر Layer می‌نویسید، می‌توانید از کلید {0} نیز برای ارائهٔ متادیتایی استفاده کنید که خودتان یا استفاده‌کنندگان Layer ممکن است از آن استفاده کنند.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "اگر Layer می‌نویسید، می‌توانید از کلید {0} نیز برای ارائهٔ متادیتایی استفاده کنید که خودتان یا استفاده‌کنندگان Layer به آن نیاز دارند."
+  },
+  "updatedAt": "2026-11-23T18:11:52.670Z"
+}

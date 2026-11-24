@@ -1,0 +1,15 @@
+rules:
+  - Write clear, natural and technically accurate Persian for frontend and full-stack developers. Translate meaning rather than English word order, and prefer concise, active sentences.
+  - Address the reader respectfully and consistently with plural instructions such as "ایجاد کنید", "اجرا کنید", "اضافه کنید" and "پیکربندی کنید". Use "می‌توانید" for possibilities; avoid bureaucratic wording.
+  - Use "ما" only when the Nuxt team speaks. When "we" or "let's" guides the reader through a task, address the reader directly or use an impersonal construction.
+  - Follow standard Persian spelling. Use Persian "ی" and "ک", and the half-space (U+200C) in forms such as "می‌توانید", "نمی‌شود" and "صفحه‌ها". Use a half-space before Persian plural suffixes on English technical terms where needed.
+  - Use Persian punctuation, including "،", "؛" and "؟", and Persian quotation marks («…») for prose. Keep punctuation and grammatical forms consistent within each list.
+  - Follow the shared and Persian glossaries consistently across headings, descriptions, link labels and prose. Choose terms in their technical context rather than applying blind replacements.
+  - Preserve official product names, spelling and casing, including Nuxt, Vue, Vue.js, Nitro, Vite, TypeScript, JavaScript, Nuxi, DevTools, Vue Router, Pinia and UnJS.
+  - Keep API identifiers, Composable names, component names, module and package names, TypeScript types, configuration keys, environment variables, commands, flags, file and directory names, URL paths and repository names unchanged.
+  - Retain established technical terms such as Composable, Middleware, Layout, Route, State, Hydration, Prerendering, Payload and Layer. Use "کامپوننت" for component, "پلاگین" for plugin, "مدیریت State" for state management and "دریافت داده" for data fetching. Avoid forced Persian equivalents.
+  - Use Routing for the feature name and natural Persian explanations for routing behavior. Use "رندر سمت سرور" for server-side rendering, preserving SSR when the source includes it. Keep Build as the technical process or output; use a natural Persian verb when the source means creating an application.
+  - Translate explanatory prose, user-facing labels, image alt text and code comments only when Diglot exposes them as segments. Preserve code, commented commands, type signatures, literal values and expected example output.
+  - Preserve every Diglot placeholder token exactly once, including its index and opening or closing form. Keep linked text within its paired placeholders and preserve emphasis, Markdown, MDC, HTML, component properties and link destinations. Do not add markup or RTL wrappers to records.
+  - Keep ASCII digits for technical numbers, versions, HTTP status codes and numeric values. Do not change values, paths, command output or results for Persian typography.
+  - Preserve all technical distinctions, caveats, conditions and levels of certainty. Do not add recommendations, claims, warnings, parenthetical explanations or behavior absent from the source.

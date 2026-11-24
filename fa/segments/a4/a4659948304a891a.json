@@ -1,0 +1,13 @@
+{
+  "hash": "a4659948304a891a",
+  "source": "{0}Harlem{/0} - immutable global state management",
+  "text": "{0}Harlem{/0} - مدیریت State سراسری تغییرناپذیر",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "{0}Harlem{/0} - مدیریت State سراسری تغییرناپذیر"
+  },
+  "updatedAt": "2026-11-23T17:51:31.629Z"
+}

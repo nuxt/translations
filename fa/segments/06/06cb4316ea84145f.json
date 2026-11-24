@@ -1,0 +1,13 @@
+{
+  "hash": "06cb4316ea84145f",
+  "source": "When a {0} enters the viewport on the client side, Nuxt will automatically prefetch components and payload (generated pages) of the linked pages ahead of time, resulting in faster navigation.",
+  "text": "وقتی {0} در سمت کلاینت وارد محدودهٔ قابل‌مشاهدهٔ مرورگر می‌شود، Nuxt کامپوننت‌ها و Payload صفحه‌های مقصد (صفحه‌های تولیدشده) را از پیش دریافت می‌کند تا جابه‌جایی سریع‌تر انجام شود.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "وقتی {0} در سمت کلاینت وارد محدودهٔ قابل‌مشاهدهٔ مرورگر می‌شود، Nuxt کامپوننت‌ها و Payload صفحه‌های مقصد (صفحه‌های تولیدشده) را از پیش دریافت می‌کند تا جابه‌جایی سریع‌تر انجام شود."
+  },
+  "updatedAt": "2026-11-23T17:47:08.607Z"
+}

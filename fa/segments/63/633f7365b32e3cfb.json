@@ -1,0 +1,13 @@
+{
+  "hash": "633f7365b32e3cfb",
+  "source": "Introduction",
+  "text": "معرفی",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "معرفی"
+  },
+  "updatedAt": "2026-11-23T17:47:08.473Z"
+}

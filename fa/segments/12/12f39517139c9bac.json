@@ -1,0 +1,13 @@
+{
+  "hash": "12f39517139c9bac",
+  "source": "Watch a video from Vue School on blocking vs. non-blocking (lazy) requests",
+  "text": "ویدیوی Vue School دربارهٔ درخواست‌های مسدودکننده و غیرمسدودکننده (lazy) را ببینید",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "ویدیوی Vue School دربارهٔ درخواست‌های مسدودکننده و غیرمسدودکننده (lazy) را ببینید"
+  },
+  "updatedAt": "2026-11-23T17:50:28.802Z"
+}

@@ -1,0 +1,13 @@
+{
+  "hash": "6610e801982ca029",
+  "source": "By default, data fetching composables will perform their asynchronous function on both client and server environments. Set the {0} option to {1} to only perform the call on the client-side. On initial load, the data will not be fetched before hydration is complete so you have to handle a pending state, though on subsequent client-side navigation the data will be awaited before loading the page.",
+  "text": "Composable‌های دریافت داده به‌صورت پیش‌فرض تابع غیرهمزمان را هم در محیط کلاینت و هم در سرور اجرا می‌کنند. برای اجرای فراخوانی فقط در کلاینت، گزینهٔ {0} را روی {1} تنظیم کنید. در بارگذاری اولیه، داده پیش از تکمیل Hydration دریافت نمی‌شود و باید وضعیت انتظار را مدیریت کنید؛ اما در جابه‌جایی‌های بعدی سمت کلاینت، پیش از بارگذاری صفحه برای دریافت داده انتظار کشیده می‌شود.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Composableهای دریافت داده به‌صورت پیش‌فرض تابع غیرهمزمان را هم در محیط کلاینت و هم در سرور اجرا می‌کنند. برای اجرای فراخوانی فقط در کلاینت، گزینهٔ {0} را روی {1} تنظیم کنید. در بارگذاری اولیه، داده پیش از تکمیل Hydration دریافت نمی‌شود و باید وضعیت انتظار را مدیریت کنید؛ اما در جابه‌جایی‌های بعدی سمت کلاینت، پیش از بارگذاری صفحه منتظر دریافت داده می‌ماند."
+  },
+  "updatedAt": "2026-11-23T18:11:52.730Z"
+}

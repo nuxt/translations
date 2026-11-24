@@ -1,0 +1,13 @@
+{
+  "hash": "3de91e1129bf8215",
+  "source": "The {0} option helps you to minimize the payload size stored in your HTML document by only selecting the fields that you want returned from the composables.",
+  "text": "گزینهٔ {0} با انتخاب فقط فیلدهایی که می‌خواهید Composable‌ها برگردانند، به کاهش حجم Payload ذخیره‌شده در سند HTML کمک می‌کند.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "گزینهٔ {0} با انتخاب فقط فیلدهایی که می‌خواهید Composableها برگردانند، به کاهش حجم Payload ذخیره‌شده در سند HTML کمک می‌کند."
+  },
+  "updatedAt": "2026-11-23T18:11:52.732Z"
+}

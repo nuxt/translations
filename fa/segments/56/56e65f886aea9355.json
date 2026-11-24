@@ -1,0 +1,13 @@
+{
+  "hash": "56e65f886aea9355",
+  "source": "**Data-fetching utilities:** Nuxt provides composables to handle SSR-compatible data fetching as well as different strategies.",
+  "text": "**ابزارهای دریافت داده:** Nuxt برای دریافت دادهٔ سازگار با SSR و پیاده‌سازی راهبردهای مختلف، Composable‌هایی ارائه می‌کند.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "**ابزارهای دریافت داده:** Nuxt برای دریافت دادهٔ سازگار با SSR و پیاده‌سازی راهبردهای مختلف، Composableهایی ارائه می‌کند."
+  },
+  "updatedAt": "2026-11-23T18:11:52.660Z"
+}

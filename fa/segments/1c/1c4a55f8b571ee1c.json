@@ -1,0 +1,13 @@
+{
+  "hash": "1c4a55f8b571ee1c",
+  "source": "Deno",
+  "text": "Deno",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Deno"
+  },
+  "updatedAt": "2026-11-23T17:51:31.639Z"
+}

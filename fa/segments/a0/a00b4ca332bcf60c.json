@@ -1,0 +1,13 @@
+{
+  "hash": "a00b4ca332bcf60c",
+  "source": "Watch a video from Daniel Roe on how to deal with global state and SSR in Nuxt",
+  "text": "ویدیوی Daniel Roe دربارهٔ مدیریت State سراسری و SSR در Nuxt را ببینید",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "ویدیوی Daniel Roe دربارهٔ مدیریت State سراسری و SSR در Nuxt را ببینید"
+  },
+  "updatedAt": "2026-11-23T17:51:31.627Z"
+}

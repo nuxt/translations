@@ -1,0 +1,13 @@
+{
+  "hash": "4073da3b5b905083",
+  "source": "In development, it uses Rollup and Node.js workers for your server code and context isolation. It also generates your server API by reading files from {0} and server middleware from {1}.",
+  "text": "در محیط توسعه، برای کد سرور و جداسازی Context از Rollup و Worker‌های Node.js استفاده می‌کند. همچنین با خواندن فایل‌های {0}، API سرور و با خواندن فایل‌های {1}، Middleware سرور را ایجاد می‌کند.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "در محیط توسعه، برای کد سرور و جداسازی Context از Rollup و Workerهای Node.js استفاده می‌کند. همچنین با خواندن فایل‌های {0}، API سرور و با خواندن فایل‌های {1}، Middleware سرور را ایجاد می‌کند."
+  },
+  "updatedAt": "2026-11-23T18:11:52.662Z"
+}

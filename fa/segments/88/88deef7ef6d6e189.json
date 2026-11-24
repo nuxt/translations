@@ -1,0 +1,13 @@
+{
+  "hash": "88deef7ef6d6e189",
+  "source": "{0}: Public tokens that are determined at build time, website configuration such as theme variant, title and any project config that are not sensitive.",
+  "text": "{0}: توکن‌های عمومی که در زمان Build تعیین می‌شوند، تنظیمات وب‌سایت مانند نوع تم و عنوان، و هر پیکربندی پروژه که حساس نیست.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "{0}: توکن‌های عمومی که در زمان Build تعیین می‌شوند، تنظیمات وب‌سایت مانند نوع تم و عنوان، و هر پیکربندی پروژه که حساس نیست."
+  },
+  "updatedAt": "2026-11-23T17:47:08.525Z"
+}

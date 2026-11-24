@@ -1,0 +1,13 @@
+{
+  "hash": "e3a59c359337f8e3",
+  "source": "When userId changes, the data will be automatically refetched",
+  "text": "با تغییر userId، داده به‌صورت خودکار دوباره دریافت می‌شود",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "با تغییر userId، داده به‌صورت خودکار دوباره دریافت می‌شود"
+  },
+  "updatedAt": "2026-11-23T17:50:28.824Z"
+}

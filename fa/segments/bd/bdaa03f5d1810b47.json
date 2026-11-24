@@ -1,0 +1,13 @@
+{
+  "hash": "bdaa03f5d1810b47",
+  "source": "**WSL**: If you are using Windows and experience slow HMR, you may want to try using {0}WSL (Windows Subsystem for Linux){/0} which may solve some performance issues.",
+  "text": "**WSL**: اگر از Windows استفاده می‌کنید و HMR کند است، می‌توانید {0}WSL (Windows Subsystem for Linux){/0} را امتحان کنید؛ ممکن است برخی مشکلات عملکرد را برطرف کند.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "**WSL**: اگر از Windows استفاده می‌کنید و HMR کند است، می‌توانید {0}WSL (Windows Subsystem for Linux){/0} را امتحان کنید؛ ممکن است برخی مشکلات عملکرد را برطرف کند."
+  },
+  "updatedAt": "2026-11-23T17:47:08.501Z"
+}

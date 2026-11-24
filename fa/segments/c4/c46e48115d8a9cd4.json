@@ -1,0 +1,13 @@
+{
+  "hash": "c46e48115d8a9cd4",
+  "source": "{0} is nearly equivalent to {1}.{2}It's developer experience sugar for the most common use case. (You can find out more about {3} at {4}.)",
+  "text": "{0} تقریباً معادل {1} است.{2}این یک میان‌بر برای بهبود تجربهٔ توسعه‌دهنده در رایج‌ترین کاربرد است. (برای اطلاعات بیشتر دربارهٔ {3}، به {4} مراجعه کنید.)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "{0} تقریباً معادل {1} است.{2}این یک میان‌بر برای بهبود تجربهٔ توسعه‌دهنده در رایج‌ترین کاربرد است. (برای اطلاعات بیشتر دربارهٔ {3}، به {4} مراجعه کنید.)"
+  },
+  "updatedAt": "2026-11-23T17:50:28.795Z"
+}

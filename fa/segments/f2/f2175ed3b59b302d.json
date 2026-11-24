@@ -1,0 +1,13 @@
+{
+  "hash": "f2175ed3b59b302d",
+  "source": "If you want to use a function (for full control), then this cannot be set in your {0}. It is recommended instead to set it within your {1} file where it will apply to all pages on your site:",
+  "text": "اگر می‌خواهید برای کنترل کامل از تابع استفاده کنید، نمی‌توانید آن را در {0} تنظیم کنید. پیشنهاد می‌شود آن را در فایل {1} تنظیم کنید تا روی همهٔ صفحه‌های سایت اعمال شود:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "اگر می‌خواهید برای کنترل کامل از تابع استفاده کنید، نمی‌توانید آن را در {0} تنظیم کنید. پیشنهاد می‌شود آن را در فایل {1} تنظیم کنید تا روی همهٔ صفحه‌های سایت اعمال شود:"
+  },
+  "updatedAt": "2026-11-23T17:47:08.663Z"
+}

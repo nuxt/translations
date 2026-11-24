@@ -1,0 +1,13 @@
+{
+  "hash": "49d0868241edd56f",
+  "source": "Keys within public are also exposed client-side",
+  "text": "کلیدهای داخل public در سمت کلاینت نیز در دسترس قرار می‌گیرند",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "کلیدهای داخل public در سمت کلاینت نیز در دسترس قرار می‌گیرند"
+  },
+  "updatedAt": "2026-11-23T17:47:08.522Z"
+}

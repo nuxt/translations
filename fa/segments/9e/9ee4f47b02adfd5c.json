@@ -1,0 +1,13 @@
+{
+  "hash": "9ee4f47b02adfd5c",
+  "source": "{0}Vitest{/0}",
+  "text": "{0}Vitest{/0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "{0}Vitest{/0}"
+  },
+  "updatedAt": "2026-11-23T17:47:08.537Z"
+}

@@ -1,0 +1,13 @@
+{
+  "hash": "ccd7b83d71a3030b",
+  "source": "{0} is also used as an alternative way of setting the page title. However, {1} does not allow the page title to be dynamic. Therefore, it is recommended to use {2} in the {3} file to add a dynamic title, which is then applied to all routes of your Nuxt app.",
+  "text": "از {0} نیز می‌توان به‌عنوان روشی دیگر برای تنظیم عنوان صفحه استفاده کرد. با این حال، {1} امکان پویایی عنوان صفحه را نمی‌دهد. بنابراین پیشنهاد می‌شود برای اضافه کردن عنوان پویا از {2} در فایل {3} استفاده کنید تا روی همهٔ Route‌های برنامهٔ Nuxt اعمال شود.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "از {0} نیز می‌توان به‌عنوان روشی دیگر برای تنظیم عنوان صفحه استفاده کرد. با این حال، {1} امکان پویایی عنوان صفحه را نمی‌دهد. بنابراین پیشنهاد می‌شود برای اضافه کردن عنوان پویا از {2} در فایل {3} استفاده کنید تا روی همهٔ Routeهای برنامهٔ Nuxt اعمال شود."
+  },
+  "updatedAt": "2026-11-23T18:11:52.699Z"
+}

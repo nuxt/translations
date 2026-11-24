@@ -1,0 +1,13 @@
+{
+  "hash": "ac5a14aac3c22ec4",
+  "source": "It is also possible to define your own serializer/deserializer for types that are not supported by Nuxt. You can read more in the {0} docs.",
+  "text": "برای نوع‌هایی که Nuxt پشتیبانی نمی‌کند، می‌توانید سریال‌ساز و بازیابی‌کنندهٔ خود را تعریف کنید. اطلاعات بیشتر را در مستندات {0} بخوانید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "برای نوع‌هایی که Nuxt پشتیبانی نمی‌کند، می‌توانید سریال‌ساز و بازیابی‌کنندهٔ خود را تعریف کنید. اطلاعات بیشتر را در مستندات {0} بخوانید."
+  },
+  "updatedAt": "2026-11-23T17:50:28.861Z"
+}

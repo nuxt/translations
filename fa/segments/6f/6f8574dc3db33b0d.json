@@ -1,0 +1,13 @@
+{
+  "hash": "6f8574dc3db33b0d",
+  "source": "Shared State",
+  "text": "State مشترک",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "State مشترک"
+  },
+  "updatedAt": "2026-11-23T17:51:31.626Z"
+}

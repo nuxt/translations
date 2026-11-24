@@ -1,0 +1,13 @@
+{
+  "hash": "aac7246f5e97142c",
+  "source": "Environment variables",
+  "text": "متغیرهای محیطی",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "متغیرهای محیطی"
+  },
+  "updatedAt": "2026-11-23T17:47:08.527Z"
+}

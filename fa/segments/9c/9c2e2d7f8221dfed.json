@@ -1,0 +1,13 @@
+{
+  "hash": "9c2e2d7f8221dfed",
+  "source": "Nuxt provides a customizable route middleware framework you can use throughout your application, ideal for extracting code that you want to run before navigating to a particular route.",
+  "text": "Nuxt یک سازوکار قابل‌سفارشی‌سازی برای Middleware مربوط به Route ارائه می‌کند که می‌توانید در سراسر برنامه از آن استفاده کنید. این سازوکار برای جدا کردن کدی مناسب است که می‌خواهید پیش از رفتن به یک Route مشخص اجرا شود.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Nuxt یک سازوکار قابل‌سفارشی‌سازی برای Middleware مربوط به Route ارائه می‌کند که می‌توانید در سراسر برنامه از آن استفاده کنید. این سازوکار برای جدا کردن کدی مناسب است که می‌خواهید پیش از رفتن به یک Route مشخص اجرا شود."
+  },
+  "updatedAt": "2026-11-23T17:47:08.614Z"
+}

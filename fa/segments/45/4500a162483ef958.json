@@ -1,0 +1,13 @@
+{
+  "hash": "4500a162483ef958",
+  "source": "These variables are exposed to the rest of your application using the {0} composable.",
+  "text": "این متغیرها با Composable {0} در اختیار بخش‌های دیگر برنامه قرار می‌گیرند.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "این متغیرها با Composable مربوط به {0} در اختیار بخش‌های دیگر برنامه قرار می‌گیرند."
+  },
+  "updatedAt": "2026-11-23T18:11:52.671Z"
+}

@@ -1,0 +1,13 @@
+{
+  "hash": "dc12e1caf655f7f5",
+  "source": "Create a new ReadableStream from the response with TextDecoderStream to get the data as text",
+  "text": "از پاسخ یک ReadableStream جدید با TextDecoderStream ایجاد کنید تا داده را به‌صورت متن دریافت کنید",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "از پاسخ یک ReadableStream جدید با TextDecoderStream ایجاد کنید تا داده را به‌صورت متن دریافت کنید"
+  },
+  "updatedAt": "2026-11-23T17:50:28.871Z"
+}

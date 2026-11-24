@@ -1,0 +1,13 @@
+{
+  "hash": "92b30c64b5f1a222",
+  "source": "Pass Cookies From Server-side API Calls on SSR Response",
+  "text": "ارسال کوکی‌های فراخوانی API سمت سرور در پاسخ SSR",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "ارسال کوکی‌های فراخوانی API سمت سرور در پاسخ SSR"
+  },
+  "updatedAt": "2026-11-23T17:50:28.851Z"
+}

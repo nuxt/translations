@@ -1,0 +1,13 @@
+{
+  "hash": "40d5c84f2fe96c0b",
+  "source": "**Without {0}**, execution continues immediately while the request runs in the background, so {1} starts as its default value and fills in once the request resolves. On client-side navigation, this means navigation happens immediately and you are responsible for handling the loading and error states, typically via the returned {2} and {3} refs.",
+  "text": "**بدون {0}**، اجرا بلافاصله ادامه می‌یابد و درخواست در پس‌زمینه انجام می‌شود؛ بنابراین {1} ابتدا مقدار پیش‌فرض دارد و پس از تکمیل درخواست مقداردهی می‌شود. در سمت کلاینت، جابه‌جایی بلافاصله انجام می‌شود و مدیریت وضعیت‌های بارگذاری و خطا بر عهدهٔ شماست؛ معمولاً با ref‌های {2} و {3} که برگردانده می‌شوند.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "**بدون {0}**، اجرا بلافاصله ادامه می‌یابد و درخواست در پس‌زمینه انجام می‌شود؛ بنابراین {1} ابتدا مقدار پیش‌فرض دارد و پس از تکمیل درخواست مقداردهی می‌شود. در سمت کلاینت، جابه‌جایی بلافاصله انجام می‌شود و مدیریت وضعیت‌های بارگذاری و خطا بر عهدهٔ شماست؛ معمولاً با refهای {2} و {3} که برگردانده می‌شوند."
+  },
+  "updatedAt": "2026-11-23T18:11:52.709Z"
+}

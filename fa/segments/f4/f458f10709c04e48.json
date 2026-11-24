@@ -1,0 +1,13 @@
+{
+  "hash": "f458f10709c04e48",
+  "source": "Using {0} or {1} are the recommended way of declaring Vue components in Nuxt.",
+  "text": "استفاده از {0} یا {1} روش پیشنهادی برای تعریف کامپوننت‌های Vue در Nuxt است.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "استفاده از {0} یا {1} روش پیشنهادی برای تعریف کامپوننت‌های Vue در Nuxt است."
+  },
+  "updatedAt": "2026-11-23T17:50:28.858Z"
+}

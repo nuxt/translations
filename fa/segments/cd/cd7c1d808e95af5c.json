@@ -1,0 +1,13 @@
+{
+  "hash": "cd7c1d808e95af5c",
+  "source": "App Configuration",
+  "text": "پیکربندی برنامه",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "پیکربندی برنامه"
+  },
+  "updatedAt": "2026-11-23T17:47:08.523Z"
+}

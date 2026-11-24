@@ -1,0 +1,13 @@
+{
+  "hash": "75c5e079ecbb7bcc",
+  "source": "Nuxt provides several component layers to implement the user interface of your application.",
+  "text": "Nuxt برای پیاده‌سازی رابط کاربری برنامه، چند لایه از کامپوننت‌ها را در اختیار شما می‌گذارد.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Nuxt برای پیاده‌سازی رابط کاربری برنامه، چند لایه از کامپوننت‌ها را در اختیار شما می‌گذارد."
+  },
+  "updatedAt": "2026-11-23T17:47:08.542Z"
+}

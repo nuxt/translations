@@ -1,0 +1,13 @@
+{
+  "hash": "702b25a300a72bd0",
+  "source": "When you set {0}, assets in your {1} directory (including {2}) are served from that CDN. Nuxt resolves public assets against {3}, falling back to {4}. However, a static {5} link such as {6} above is a literal path and is **not** resolved against {7}. To point the favicon at the resolved location, build the {8} from runtime config with {9} in {10}:",
+  "text": "وقتی {0} را تنظیم می‌کنید، فایل‌های پوشهٔ {1} (از جمله {2}) از همان CDN ارائه می‌شوند. Nuxt مسیر فایل‌های عمومی را بر اساس {3} تعیین می‌کند و در صورت نبود آن از {4} استفاده می‌کند. اما یک لینک ایستای {5} مانند {6} در مثال بالا، یک مسیر صریح است و بر اساس {7} **تعیین نمی‌شود**. برای اینکه Favicon به مسیر تعیین‌شده اشاره کند، مقدار {8} را از پیکربندی زمان اجرا با {9} در {10} بسازید:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "وقتی {0} را تنظیم می‌کنید، فایل‌های پوشهٔ {1} (از جمله {2}) از همان CDN ارائه می‌شوند. Nuxt مسیر فایل‌های عمومی را بر اساس {3} تعیین می‌کند و در صورت نبود آن از {4} استفاده می‌کند. اما یک لینک ایستای {5} مانند {6} در مثال بالا، یک مسیر صریح است و بر اساس {7} **تعیین نمی‌شود**. برای اینکه Favicon به مسیر تعیین‌شده اشاره کند، مقدار {8} را از پیکربندی زمان اجرا با {9} در {10} بسازید:"
+  },
+  "updatedAt": "2026-11-23T17:47:08.641Z"
+}

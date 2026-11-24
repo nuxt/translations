@@ -1,0 +1,13 @@
+{
+  "hash": "14c401fb5fa19ba8",
+  "source": "default fallback title",
+  "text": "عنوان پیش‌فرض در صورت نبود عنوان دیگر",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "عنوان پیش‌فرض در صورت نبود عنوان دیگر"
+  },
+  "updatedAt": "2026-11-23T17:47:08.640Z"
+}

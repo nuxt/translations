@@ -1,0 +1,13 @@
+{
+  "hash": "a0d769930f772532",
+  "source": "{0}: contains the server routes of the application (e.g. dynamic {1}).",
+  "text": "{0}: Route‌های سرور برنامه را در بر می‌گیرد (مانند {1} پویا).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "{0}: Routeهای سرور برنامه را در بر می‌گیرد (مانند {1} پویا)."
+  },
+  "updatedAt": "2026-11-23T18:11:52.686Z"
+}

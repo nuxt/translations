@@ -1,0 +1,13 @@
+{
+  "hash": "cfcd830bf5896106",
+  "source": "**Faster initial page load time:** Nuxt sends a fully rendered HTML page to the browser, which can be displayed immediately. This can provide a faster perceived page load time and a better user experience (UX), especially on slower networks or devices.",
+  "text": "**بارگذاری اولیهٔ سریع‌تر صفحه:** Nuxt یک صفحهٔ HTML کاملاً رندرشده به مرورگر می‌فرستد که می‌تواند بلافاصله نمایش داده شود. این کار می‌تواند بارگذاری صفحه را برای کاربر سریع‌تر جلوه دهد و تجربهٔ کاربری (UX) بهتری فراهم کند، به‌ویژه روی شبکه‌ها یا دستگاه‌های کندتر.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "**بارگذاری اولیهٔ سریع‌تر صفحه:** Nuxt یک صفحهٔ HTML کاملاً رندرشده به مرورگر می‌فرستد که می‌تواند بلافاصله نمایش داده شود. این کار می‌تواند بارگذاری صفحه را برای کاربر سریع‌تر جلوه دهد و تجربهٔ کاربری (UX) بهتری فراهم کند، به‌ویژه روی شبکه‌ها یا دستگاه‌های کندتر."
+  },
+  "updatedAt": "2026-11-23T17:47:08.483Z"
+}

@@ -1,0 +1,13 @@
+{
+  "hash": "038d50991cea206b",
+  "source": "As stated above, {0} and {1} are both used to expose variables to the rest of your application. To determine whether you should use one or the other, here are some guidelines:",
+  "text": "همان‌طور که گفته شد، {0} و {1} هر دو متغیرها را در اختیار بخش‌های دیگر برنامه قرار می‌دهند. برای انتخاب بین آن‌ها، این راهنمایی‌ها را در نظر بگیرید:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "همان‌طور که گفته شد، {0} و {1} هر دو متغیرها را در اختیار بخش‌های دیگر برنامه قرار می‌دهند. برای انتخاب بین آن‌ها، این راهنمایی‌ها را در نظر بگیرید:"
+  },
+  "updatedAt": "2026-11-23T17:47:08.524Z"
+}

@@ -1,0 +1,13 @@
+{
+  "hash": "307484e81dc1ee9d",
+  "source": "With that, you will need both the {0} to handle the fetch lifecycle, and {1} to start the data fetch.",
+  "text": "در این حالت، هم برای مدیریت چرخهٔ دریافت داده به {0} نیاز دارید و هم برای شروع دریافت داده به {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "در این حالت، هم برای مدیریت چرخهٔ دریافت داده به {0} نیاز دارید و هم برای شروع دریافت داده به {1}."
+  },
+  "updatedAt": "2026-11-23T17:50:28.846Z"
+}

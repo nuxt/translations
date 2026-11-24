@@ -1,0 +1,13 @@
+{
+  "hash": "f07cff44f3779dda",
+  "source": "Both {0} and {1} don't prevent the unwanted data from being fetched initially. But they will prevent unwanted data from being added to the payload transferred from server to client.",
+  "text": "{0} و {1} از دریافت اولیهٔ داده‌های ناخواسته جلوگیری نمی‌کنند؛ اما اجازه نمی‌دهند آن داده‌ها به Payload منتقل‌شده از سرور به کلاینت اضافه شوند.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "{0} و {1} از دریافت اولیهٔ داده‌های ناخواسته جلوگیری نمی‌کنند؛ اما اجازه نمی‌دهند آن داده‌ها به Payload منتقل‌شده از سرور به کلاینت اضافه شوند."
+  },
+  "updatedAt": "2026-11-23T17:50:28.807Z"
+}

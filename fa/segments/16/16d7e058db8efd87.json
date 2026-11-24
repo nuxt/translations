@@ -1,0 +1,13 @@
+{
+  "hash": "16d7e058db8efd87",
+  "source": "To select an environment when running a Nuxt CLI command, simply pass the name to the {0} flag, like so: {1}.",
+  "text": "برای انتخاب محیط هنگام اجرای یک دستور Nuxt CLI، نام محیط را به Flag {0} بدهید؛ مانند {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "برای انتخاب محیط هنگام اجرای یک دستور Nuxt CLI، نام محیط را به Flag {0} بدهید؛ مانند {1}."
+  },
+  "updatedAt": "2026-11-23T17:47:08.519Z"
+}

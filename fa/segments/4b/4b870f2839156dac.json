@@ -1,0 +1,13 @@
+{
+  "hash": "4b870f2839156dac",
+  "source": "Some tags are provided by Nuxt by default to ensure your website works well out of the box.",
+  "text": "Nuxt بعضی تگ‌ها را به‌صورت پیش‌فرض ارائه می‌کند تا وب‌سایت شما بدون تنظیمات اضافی درست کار کند.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Nuxt بعضی تگ‌ها را به‌صورت پیش‌فرض ارائه می‌کند تا وب‌سایت شما بدون تنظیمات اضافی درست کار کند."
+  },
+  "updatedAt": "2026-11-23T17:47:08.643Z"
+}

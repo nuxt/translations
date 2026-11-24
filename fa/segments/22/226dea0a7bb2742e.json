@@ -1,0 +1,13 @@
+{
+  "hash": "226dea0a7bb2742e",
+  "source": "The {0} directory is the main directory of the Nuxt application. It contains the following subdirectories:",
+  "text": "پوشهٔ {0} پوشهٔ اصلی برنامهٔ Nuxt است و زیرپوشه‌های زیر را در بر می‌گیرد:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "پوشهٔ {0} پوشهٔ اصلی برنامهٔ Nuxt است و زیرپوشه‌های زیر را در بر می‌گیرد:"
+  },
+  "updatedAt": "2026-11-23T17:47:08.569Z"
+}

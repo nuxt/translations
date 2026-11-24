@@ -1,0 +1,13 @@
+{
+  "hash": "e946b3c9832b4976",
+  "source": "{0}/{1}: a function that can be used to refresh the data returned by the {2} function.",
+  "text": "{0}/{1}: تابعی برای تازه‌سازی دادهٔ برگردانده‌شده از تابع {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "{0}/{1}: تابعی برای تازه‌سازی دادهٔ برگردانده‌شده از تابع {2}."
+  },
+  "updatedAt": "2026-11-23T17:50:28.798Z"
+}

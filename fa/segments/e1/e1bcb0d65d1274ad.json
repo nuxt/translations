@@ -1,0 +1,13 @@
+{
+  "hash": "e1bcb0d65d1274ad",
+  "source": "Be very careful before proxying headers to an external API and just include headers that you need. Not all headers are safe to be bypassed and might introduce unwanted behavior. Here is a list of common headers that are NOT to be proxied:",
+  "text": "پیش از انتقال Header‌ها به یک API خارجی بسیار دقت کنید و فقط Header‌های مورد نیاز را بفرستید. انتقال همهٔ Header‌ها ایمن نیست و ممکن است رفتار ناخواسته ایجاد کند. Header‌های رایج زیر نباید منتقل شوند:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "پیش از انتقال Headerها به یک API خارجی بسیار دقت کنید و فقط Headerهای مورد نیاز را بفرستید. انتقال همهٔ Headerها ایمن نیست و ممکن است رفتار ناخواسته ایجاد کند. Headerهای رایج زیر نباید منتقل شوند:"
+  },
+  "updatedAt": "2026-11-23T18:11:52.714Z"
+}

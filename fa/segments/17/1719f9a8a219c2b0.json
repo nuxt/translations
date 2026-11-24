@@ -1,0 +1,13 @@
+{
+  "hash": "1719f9a8a219c2b0",
+  "source": "You can use the {0} option to provide a dynamic template for customizing the title of your site. For example, you could add the name of your site to the title of every page.",
+  "text": "می‌توانید با گزینهٔ {0} یک قالب پویا برای سفارشی کردن عنوان سایت تعریف کنید. برای مثال، نام سایت را به عنوان هر صفحه اضافه کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "می‌توانید با گزینهٔ {0} یک قالب پویا برای سفارشی کردن عنوان سایت تعریف کنید. برای مثال، نام سایت را به عنوان هر صفحه اضافه کنید."
+  },
+  "updatedAt": "2026-11-23T17:47:08.661Z"
+}

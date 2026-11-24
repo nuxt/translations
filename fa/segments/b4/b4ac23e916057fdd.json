@@ -1,0 +1,13 @@
+{
+  "hash": "b4ac23e916057fdd",
+  "source": "This helps you avoid typos and common mistakes, such as using {0} instead of {1}.",
+  "text": "این کار به شما کمک می‌کند از اشتباه‌های تایپی و خطاهای رایج، مانند استفاده از {0} به‌جای {1}، جلوگیری کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "این کار به شما کمک می‌کند از اشتباه‌های تایپی و خطاهای رایج، مانند استفاده از {0} به‌جای {1}، جلوگیری کنید."
+  },
+  "updatedAt": "2026-11-23T17:47:08.649Z"
+}

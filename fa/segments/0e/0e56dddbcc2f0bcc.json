@@ -1,0 +1,13 @@
+{
+  "hash": "0e56dddbcc2f0bcc",
+  "source": "You can alternatively use {0} and {1} as convenient methods to perform the same.",
+  "text": "همچنین می‌توانید از {0} و {1} به‌عنوان روش‌های آماده برای انجام همین کار استفاده کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "همچنین می‌توانید از {0} و {1} به‌عنوان روش‌های آماده برای انجام همین کار استفاده کنید."
+  },
+  "updatedAt": "2026-11-23T17:50:28.802Z"
+}

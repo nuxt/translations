@@ -1,0 +1,13 @@
+{
+  "hash": "415299450b37d4e9",
+  "source": "Development kit: {0}@nuxt/kit{/0}",
+  "text": "کیت توسعه: {0}@nuxt/kit{/0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "کیت توسعه: {0}@nuxt/kit{/0}"
+  },
+  "updatedAt": "2026-11-23T17:47:08.496Z"
+}

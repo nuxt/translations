@@ -1,0 +1,13 @@
+{
+  "hash": "5a6291dee18b3dd6",
+  "source": "Nuxt **used to rely** on the Vuex library to provide global state management. If you are migrating from Nuxt 2, please head to {0}the migration guide{/0}.",
+  "text": "Nuxt برای مدیریت State سراسری **در گذشته به کتابخانهٔ Vuex متکی بود**. اگر از Nuxt 2 مهاجرت می‌کنید، به {0}راهنمای مهاجرت{/0} مراجعه کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Nuxt **در گذشته متکی بود** به کتابخانهٔ Vuex برای مدیریت State سراسری. اگر از Nuxt 2 مهاجرت می‌کنید، به {0}راهنمای مهاجرت{/0} مراجعه کنید."
+  },
+  "updatedAt": "2026-11-23T18:11:52.755Z"
+}

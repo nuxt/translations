@@ -1,0 +1,13 @@
+{
+  "hash": "ef47bee58d2566ee",
+  "source": "Configuration",
+  "text": "پیکربندی",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "پیکربندی"
+  },
+  "updatedAt": "2026-11-23T17:47:08.514Z"
+}

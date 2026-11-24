@@ -1,0 +1,13 @@
+{
+  "hash": "d461f435f4ec6851",
+  "source": "The {0} directory is enabled by the {1}Nuxt Content{/1} module. It is used to create a file-based CMS for your application using Markdown files.",
+  "text": "پوشهٔ {0} با ماژول {1}Nuxt Content{/1} فعال می‌شود و برای ایجاد یک CMS مبتنی بر فایل با استفاده از فایل‌های Markdown در برنامه به کار می‌رود.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "پوشهٔ {0} با ماژول {1}Nuxt Content{/1} فعال می‌شود و برای ایجاد یک CMS مبتنی بر فایل با استفاده از فایل‌های Markdown در برنامه به کار می‌رود."
+  },
+  "updatedAt": "2026-11-23T17:47:08.583Z"
+}

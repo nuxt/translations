@@ -1,0 +1,13 @@
+{
+  "hash": "511983ebfb0dcb69",
+  "source": "Nuxt provides the {0} composable to create a reactive and SSR-friendly shared state across components.",
+  "text": "Nuxt با Composable {0} امکان ایجاد State مشترک واکنش‌پذیر و سازگار با SSR بین کامپوننت‌ها را فراهم می‌کند.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Nuxt با Composable مربوط به {0} امکان ایجاد State مشترک واکنش‌پذیر و سازگار با SSR بین کامپوننت‌ها را فراهم می‌کند."
+  },
+  "updatedAt": "2026-11-23T18:11:52.751Z"
+}

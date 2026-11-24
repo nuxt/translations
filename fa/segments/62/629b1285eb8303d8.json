@@ -1,0 +1,13 @@
+{
+  "hash": "629b1285eb8303d8",
+  "source": "The {0} file is located at the root of a Nuxt project and can override or extend the application's behavior.",
+  "text": "فایل {0} در ریشهٔ پروژهٔ Nuxt قرار دارد و می‌تواند رفتار برنامه را بازنویسی یا گسترش دهد.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "فایل {0} در ریشهٔ پروژهٔ Nuxt قرار دارد و می‌تواند رفتار برنامه را بازنویسی یا گسترش دهد."
+  },
+  "updatedAt": "2026-11-23T17:47:08.516Z"
+}

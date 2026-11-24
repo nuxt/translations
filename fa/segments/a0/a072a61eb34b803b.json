@@ -1,0 +1,13 @@
+{
+  "hash": "a072a61eb34b803b",
+  "source": "Using a computed property as a key",
+  "text": "استفاده از ویژگی محاسبه‌شده به‌عنوان کلید",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "استفاده از ویژگی محاسبه‌شده به‌عنوان کلید"
+  },
+  "updatedAt": "2026-11-23T17:50:28.824Z"
+}

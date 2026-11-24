@@ -1,0 +1,13 @@
+{
+  "hash": "f305a620e97c36b7",
+  "source": "{0} is similar to {1} but offers more fine-grained control.",
+  "text": "{0} شبیه {1} است، اما کنترل دقیق‌تری در اختیار شما می‌گذارد.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "{0} شبیه {1} است، اما کنترل دقیق‌تری در اختیار شما می‌گذارد."
+  },
+  "updatedAt": "2026-11-23T17:50:28.783Z"
+}

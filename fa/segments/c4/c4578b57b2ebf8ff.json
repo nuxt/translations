@@ -1,0 +1,13 @@
+{
+  "hash": "c4578b57b2ebf8ff",
+  "source": "Nuxt file-system routing creates a route for every file in the pages/ directory.",
+  "text": "Routing مبتنی بر سیستم فایل در Nuxt برای هر فایل در پوشهٔ pages/ یک Route ایجاد می‌کند.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Routing مبتنی بر سیستم فایل در Nuxt برای هر فایل در پوشهٔ pages/ یک Route ایجاد می‌کند."
+  },
+  "updatedAt": "2026-11-23T17:47:08.593Z"
+}

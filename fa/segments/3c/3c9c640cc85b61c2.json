@@ -1,0 +1,13 @@
+{
+  "hash": "3c9c640cc85b61c2",
+  "source": "Note that this *does not apply* to data passed from your server routes when fetched with {0} or {1} - see the next section for more information.",
+  "text": "در نظر داشته باشید که این موضوع دربارهٔ دادهٔ Route‌های سرور که با {0} یا {1} دریافت می‌شود *صدق نمی‌کند*؛ برای اطلاعات بیشتر بخش بعدی را ببینید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "در نظر داشته باشید که این موضوع دربارهٔ دادهٔ Routeهای سرور که با {0} یا {1} دریافت می‌شود *صدق نمی‌کند*؛ برای اطلاعات بیشتر بخش بعدی را ببینید."
+  },
+  "updatedAt": "2026-11-23T18:11:52.746Z"
+}

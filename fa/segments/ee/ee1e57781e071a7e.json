@@ -1,0 +1,13 @@
+{
+  "hash": "ee1e57781e071a7e",
+  "source": "{0}: use Vue plugins and more at the creation of your Nuxt application",
+  "text": "{0}: هنگام ایجاد برنامهٔ Nuxt از پلاگین‌های Vue و امکانات دیگر استفاده کنید",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "{0}: استفاده از پلاگین‌های Vue و امکانات دیگر هنگام ایجاد برنامهٔ Nuxt"
+  },
+  "updatedAt": "2026-11-23T18:11:52.684Z"
+}

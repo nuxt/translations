@@ -1,0 +1,13 @@
+{
+  "hash": "8bcd181598d290d1",
+  "source": "**With {0}**, execution pauses until the data is ready, so any code after the call can rely on {1} already being populated. On client-side navigation, this blocks navigation until the data resolves: the user stays on the current page (optionally with a {2}) and then lands on a fully populated page. This is the default behavior.",
+  "text": "**با {0}**، اجرا تا آماده شدن داده متوقف می‌شود؛ بنابراین کد پس از فراخوانی می‌تواند به مقداردهی شدن {1} تکیه کند. در جابه‌جایی سمت کلاینت، این کار تا تکمیل دریافت داده مانع جابه‌جایی می‌شود: کاربر در صفحهٔ فعلی می‌ماند (در صورت تمایل با {2}) و سپس وارد صفحه‌ای با داده‌های آماده می‌شود. این رفتار پیش‌فرض است.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "**با {0}**، اجرا تا آماده شدن داده متوقف می‌شود؛ بنابراین کد پس از فراخوانی می‌تواند به مقداردهی شدن {1} تکیه کند. در جابه‌جایی سمت کلاینت، این کار تا تکمیل دریافت داده مانع جابه‌جایی می‌شود: کاربر در صفحهٔ فعلی می‌ماند (در صورت تمایل با {2}) و سپس وارد صفحه‌ای با داده‌های آماده می‌شود. این رفتار پیش‌فرض است."
+  },
+  "updatedAt": "2026-11-23T17:50:28.791Z"
+}

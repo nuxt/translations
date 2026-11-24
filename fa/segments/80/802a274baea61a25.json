@@ -1,0 +1,13 @@
+{
+  "hash": "802a274baea61a25",
+  "source": "The {0} composable is meant to be invoked in setup method or called directly at the top level of a function in lifecycle hooks, otherwise you should use {1}{2} method{/1}.",
+  "text": "Composable {0} باید در متد setup یا مستقیماً در سطح بالای تابعی در Hook‌های چرخهٔ حیات فراخوانی شود؛ در غیر این صورت از {1}متد {2}{/1} استفاده کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Composable مربوط به {0} باید در متد setup یا مستقیماً در سطح بالای تابعی در Hookهای چرخهٔ حیات فراخوانی شود؛ در غیر این صورت از {1}متد {2}{/1} استفاده کنید."
+  },
+  "updatedAt": "2026-11-23T18:11:52.731Z"
+}

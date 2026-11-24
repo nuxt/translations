@@ -1,0 +1,13 @@
+{
+  "hash": "2d9f844f1444a6f5",
+  "source": "In production, Nitro builds your app and server into one universal {0} directory. This output is light: minified and removed from any Node.js modules (except polyfills). You can deploy this output on any system supporting JavaScript, from Node.js, Serverless, Workers, Edge-side rendering or purely static.",
+  "text": "در محیط عملیاتی، Nitro برنامه و سرور شما را در یک پوشهٔ {0} قابل‌استفاده در محیط‌های مختلف Build می‌کند. این خروجی سبک است: کوچک‌سازی شده و ماژول‌های Node.js از آن حذف شده‌اند، به‌جز Polyfill‌ها. می‌توانید این خروجی را روی هر سیستمی که از JavaScript پشتیبانی می‌کند مستقر کنید؛ از Node.js و Serverless تا Workers، رندر سمت Edge یا میزبانی کاملاً ایستا.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "در محیط عملیاتی، Nitro برنامه و سرور شما را در یک پوشهٔ {0} با قابلیت اجرای فراگیر Build می‌کند. این خروجی سبک است: کوچک‌سازی شده و ماژول‌های Node.js از آن حذف شده‌اند، به‌جز Polyfillها. می‌توانید این خروجی را روی هر سیستمی که از JavaScript پشتیبانی می‌کند مستقر کنید؛ از Node.js و Serverless تا Workers، رندر سمت Edge یا میزبانی کاملاً ایستا."
+  },
+  "updatedAt": "2026-11-23T18:11:52.662Z"
+}

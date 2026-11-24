@@ -1,0 +1,13 @@
+{
+  "hash": "03f2499ac39ec771",
+  "source": "Since Nuxt 3.9 and Vue 3.4, {0} has been moved from Vue to Vue Macros which has a {1}Nuxt integration{/1}.",
+  "text": "از Nuxt 3.9 و Vue 3.4 به بعد، {0} از Vue به Vue Macros منتقل شده است که {1}با Nuxt یکپارچه می‌شود{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "از Nuxt 3.9 و Vue 3.4 به بعد، {0} از Vue به Vue Macros منتقل شده است که {1}با Nuxt یکپارچه می‌شود{/1}."
+  },
+  "updatedAt": "2026-11-23T17:47:08.541Z"
+}

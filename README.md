@@ -1,6 +1,6 @@
 # Nuxt translations
 
-Translations of the Nuxt documentation, maintained with [diglot](https://github.com/danielroe/diglot). The locales are French and German.
+Translations of the Nuxt documentation, maintained with [diglot](https://github.com/danielroe/diglot). The locales are French, German and Persian (`fa`, initial partial coverage).
 
 To contribute a translation, see [`CONTRIBUTING.md`](./CONTRIBUTING.md); discussion happens in [this thread](https://github.com/nuxt/translations/discussions/8).
 
@@ -136,6 +136,26 @@ Terminology is in [`glossary.yml`](./glossary.yml) and [`fr/glossary.yml`](./fr/
 - The project glossary is authoritative for project terminology. Follow it consistently; MDN is a reference, not a replacement for the glossary.
 
 Style rules are in [`de/style.yml`](./de/style.yml); terminology is in [`glossary.yml`](./glossary.yml) and [`de/glossary.yml`](./de/glossary.yml).
+
+## Persian style
+
+- Write natural, clear and technically accurate Persian for developers; preserve the source's meaning, caveats and level of certainty.
+- Address the reader respectfully and consistently; use instructions such as `ایجاد کنید`, `اجرا کنید` and `پیکربندی کنید`.
+- Use Persian `ی` and `ک`, correct half-spaces (`می‌توانید`, `صفحه‌ها`) and Persian punctuation (`،`, `؛`, `؟`). Keep technical numbers in ASCII.
+- Preserve official names and casing, including Nuxt, Vue, Nitro, Vite, TypeScript and JavaScript. Keep API identifiers, component names, package names, commands, configuration keys and file paths unchanged.
+- Retain established terms such as Composable, Middleware, Layout, Route, State, Hydration, Prerendering, Payload and Layer. Use `کامپوننت`, `پلاگین`, `مدیریت State` and `دریافت داده` consistently; avoid forced Persian equivalents.
+- Translate explanatory prose and only the labels, alt text and code comments exposed by diglot. Preserve code, type signatures, literal values and commented commands.
+- Keep every placeholder token exactly once, including paired opening and closing markers. Preserve Markdown, MDC and protected link destinations; do not add RTL HTML to records.
+
+Style rules are in [`fa/style.yml`](./fa/style.yml); terminology is in [`glossary.yml`](./glossary.yml) and [`fa/glossary.yml`](./fa/glossary.yml).
+
+The initial Persian contribution covers ten pages in `nuxt-4.x`: Introduction, Installation, Configuration, Views, Directory Structure, Routing, SEO and Meta, Data Fetching, State Management and Server. This is partial coverage of the Nuxt documentation. Shared segment hashes can also supply the same translations wherever those segments occur in other pages or sources.
+
+These pages use 537 distinct Persian translation records across 570 segment occurrences. All translatable content is covered against the stored `nuxt-4.x` manifest; placeholder-only segments, commented commands and literal type signatures retain their source content without translation records.
+
+Automatic translation is disabled in [`fa/locale.yml`](./fa/locale.yml) so this contribution includes only explicitly committed records. The initial translations were generated with OpenAI Codex and retain `origin: mt` and `review: none`; they require Persian-speaking human review. The runtime did not expose an exact underlying model identifier, so `mt.model` records the tool label `OpenAI Codex`.
+
+Persian-speaking contributors and maintainers still need to coordinate sustained review and translator ownership. Website integration, including RTL presentation, and official locale support remain follow-up work.
 
 ## License
 

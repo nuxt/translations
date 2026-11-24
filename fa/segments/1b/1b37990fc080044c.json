@@ -1,0 +1,13 @@
+{
+  "hash": "1b37990fc080044c",
+  "source": "**Easier caching:** pages can be cached on the server-side, which can further improve performance by reducing the amount of time it takes to generate and send the content to the client.",
+  "text": "**کش کردن آسان‌تر:** صفحه‌ها را می‌توان در سمت سرور کش کرد. این کار با کاهش زمان تولید و ارسال محتوا به کلاینت می‌تواند عملکرد را بیشتر بهبود دهد.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "**کش کردن آسان‌تر:** صفحه‌ها را می‌توان در سمت سرور کش کرد. این کار با کاهش زمان تولید و ارسال محتوا به کلاینت می‌تواند عملکرد را بیشتر بهبود دهد."
+  },
+  "updatedAt": "2026-11-23T17:47:08.485Z"
+}

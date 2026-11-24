@@ -1,0 +1,13 @@
+{
+  "hash": "22bfc2cad70e111b",
+  "source": "and the old data will be cleaned up if no other components use it",
+  "text": "و اگر کامپوننت دیگری از دادهٔ قبلی استفاده نکند، آن داده پاک می‌شود",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "و اگر کامپوننت دیگری از دادهٔ قبلی استفاده نکند، آن داده پاک می‌شود"
+  },
+  "updatedAt": "2026-11-23T17:50:28.826Z"
+}

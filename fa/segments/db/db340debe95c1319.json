@@ -1,0 +1,13 @@
+{
+  "hash": "db340debe95c1319",
+  "source": "Routing",
+  "text": "Routing",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Routing"
+  },
+  "updatedAt": "2026-11-23T17:47:08.593Z"
+}

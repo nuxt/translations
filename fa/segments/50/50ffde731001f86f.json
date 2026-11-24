@@ -1,0 +1,13 @@
+{
+  "hash": "50ffde731001f86f",
+  "source": "In the case of more complex URL construction, you may use a callback as a {0}computed getter{/0} that returns the URL string.",
+  "text": "برای ساخت URL‌های پیچیده‌تر می‌توانید از یک Callback به‌عنوان {0}Getter محاسبه‌شده{/0} استفاده کنید که رشتهٔ URL را برمی‌گرداند.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "برای ساخت URLهای پیچیده‌تر می‌توانید از یک Callback به‌عنوان {0}Getter محاسبه‌شده{/0} استفاده کنید که رشتهٔ URL را برمی‌گرداند."
+  },
+  "updatedAt": "2026-11-23T18:11:52.741Z"
+}

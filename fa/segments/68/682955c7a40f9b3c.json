@@ -1,0 +1,13 @@
+{
+  "hash": "682955c7a40f9b3c",
+  "source": "update Nuxt defaults",
+  "text": "به‌روزرسانی پیش‌فرض‌های Nuxt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "به‌روزرسانی پیش‌فرض‌های Nuxt"
+  },
+  "updatedAt": "2026-11-23T17:47:08.644Z"
+}

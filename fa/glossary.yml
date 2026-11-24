@@ -1,0 +1,193 @@
+# Persian decisions extend the shared glossary; matching is limited to prose terms.
+# Protected identifiers, paths and commands remain unchanged.
+# English targets with `translate` allow contextual alternatives without promoting
+# Persian retention rules to x18n's shared `doNotTranslate` flag.
+terms:
+  - term: composable
+    match: '\bcomposables?\b(?![/\w-])'
+    note: Use Composable with this casing for a Vue Composition API function. Preserve API names such as useFetch and useState.
+    decision: keep
+  - term: component
+    match: '\bcomponents?\b(?![/\w-])'
+    decision: translate
+    target: کامپوننت
+  - term: plugin
+    match: '\bplugins?\b(?![/\w-])'
+    note: Use پلاگین for explanatory prose; preserve named plugins and package identifiers.
+    decision: translate
+    target: پلاگین
+  - term: middleware
+    match: '\bmiddleware\b(?![/\w-])'
+    note: Keep Middleware in technical prose, including both Route and server contexts.
+    decision: keep
+  - term: route middleware
+    match: '\broute middleware\b'
+    decision: translate
+    target: Middleware مربوط به Route
+    accept:
+      - Middleware (?:بی‌نام|نام‌دار|سراسری) مربوط به Route
+      - Middleware بی‌نام \(یا درون‌خطی\) مربوط به Route
+  - term: layout
+    match: '\blayouts?\b(?![/\w-])'
+    note: Keep Layout for Nuxt page wrappers; preserve layouts/ and NuxtLayout.
+    decision: translate
+    target: Layout
+    accept:
+      - ساختار
+  - term: route
+    match: '\broutes?\b(?![/\w-])'
+    note: Keep Route for a router entry. Use Persian plural suffixes when needed; preserve URL paths and route identifiers.
+    decision: translate
+    target: Route
+  - term: routing
+    match: '\brouting\b'
+    note: Keep Routing as the feature name; explain file-system routing naturally in prose.
+    decision: translate
+    target: Routing
+    accept:
+      - مسیریابی
+  - term: state
+    match: '\bstates?\b(?![/\w-])'
+    note: Keep State for application state; translate ordinary conditions or request statuses contextually.
+    decision: translate
+    target: State
+    accept:
+      - وضعیت
+  - term: state management
+    match: '\bstate management\b'
+    decision: translate
+    target: مدیریت State
+  - term: data fetching
+    match: '\bdata[- ]fetching\b'
+    decision: translate
+    target: دریافت داده
+    accept:
+      - دریافت موازی داده
+      - دریافت مجدد داده
+  - term: hydration
+    match: '\bhydrat(?:ion|es?|ed|ing)\b'
+    note: Keep Hydration for the client process that makes server-rendered HTML interactive. Describe hydrated values as prepared or restored through Hydration, according to context.
+    decision: translate
+    target: Hydration
+  - term: prerendering
+    match: '\bpre-?render(?:ing|ed|s)?\b'
+    note: Keep Prerendering for rendering pages in advance; preserve configuration keys such as prerender.
+    decision: translate
+    target: Prerendering
+  - term: payload
+    match: '\bpayloads?\b(?![/\w-])'
+    note: Keep Payload for the Nuxt data transferred from server to client. Preserve the Payload tab label and payload identifiers.
+    decision: keep
+  - term: layer
+    match: '\blayers?\b(?![/\w-])'
+    note: Keep Layer for the Nuxt Layers feature; preserve layers/ and extends. Use لایه when the source means an ordinary component or query layer.
+    decision: translate
+    target: Layer
+    accept:
+      - لایه
+  - term: build
+    match: '\bbuild(?:s|ing)?\b(?![/\w-])'
+    note: Keep Build for the technical process or its output. When the source means creating an application rather than compiling it, use a natural Persian verb such as ایجاد کردن or ساختن. Preserve CLI commands.
+    decision: translate
+  - term: reactive
+    match: '\breactive\b(?![/\w-])'
+    note: Use واکنش‌پذیر for prose; preserve reactive(), refs and API identifiers.
+    decision: translate
+    target: واکنش‌پذیر
+    accept:
+      - غیرواکنش‌پذیر
+  - term: reactivity
+    match: '\breactivity\b'
+    decision: translate
+    target: واکنش‌پذیری
+  - term: server-side rendering
+    match: '\bserver[- ]side rendering\b'
+    note: Preserve SSR when present in the source; do not confuse server rendering with Hydration or Prerendering.
+    decision: translate
+    target: رندر سمت سرور
+  - term: client-side rendering
+    match: '\bclient[- ]side render(?:ing|ed)\b'
+    decision: translate
+    target: رندر سمت کلاینت
+    accept:
+      - رندرشده در سمت کلاینت
+  - term: hybrid rendering
+    match: '\bhybrid rendering\b'
+    decision: translate
+    target: رندر ترکیبی
+  - term: runtime config
+    match: '\bruntime config\b'
+    note: The runtimeConfig option and useRuntimeConfig; the identifiers stay unchanged.
+    decision: translate
+    target: پیکربندی زمان اجرا
+  - term: app config
+    match: '\bapp config(?:uration)?\b'
+    note: The app.config file and useAppConfig; the identifiers stay unchanged.
+    decision: translate
+    target: پیکربندی برنامه
+  - term: module
+    match: '\bmodules?\b(?![/\w-]| replacement\b)'
+    note: Use ماژول in prose; preserve official module and package names.
+    decision: translate
+    target: ماژول
+  - term: hook
+    match: '\bhooks?\b(?![/\w-])'
+    note: Keep Hook as the technical callback registration concept; preserve hook names such as render:html.
+    decision: keep
+  - term: directory
+    match: '\bdirector(?:y|ies)\b'
+    decision: translate
+    target: پوشه
+  - term: environment variable
+    match: '\benvironment variables?\b'
+    decision: translate
+    target: متغیر محیطی
+    accept:
+      - متغیرهای محیطی
+  - term: Options API
+    match: '\bOptions API\b'
+    note: Preserve the official Vue API name and casing.
+    decision: translate
+    target: Options API
+  - term: JavaScript
+    decision: keep
+  - term: template
+    match: '\btemplates?\b(?![/\w-])'
+    note: Use قالب in prose; preserve template tags and identifiers such as titleTemplate.
+    decision: translate
+    target: قالب
+  - term: framework
+    match: '\bframeworks?\b(?![/\w-])'
+    note: Use فریم‌ورک in prose; route middleware framework may be described as a سازوکار in context.
+    decision: translate
+    target: فریم‌ورک
+    accept:
+      - سازوکار
+  - term: helper
+    match: '\bhelpers?\b(?![/\w-])'
+    decision: translate
+    target: تابع کمکی
+  - term: developer experience
+    match: '\bdeveloper experience\b'
+    decision: translate
+    target: تجربهٔ توسعه‌دهنده
+    accept:
+      - تجربه‌ای عالی برای توسعه‌دهندگان
+  - term: viewport
+    match: '\bviewport\b(?![/\w-])'
+    decision: translate
+    target: محدودهٔ قابل‌مشاهدهٔ مرورگر
+  - term: web
+    match: '\bweb\b(?![/\w-])'
+    note: Use وب for the web platform; preserve names and URLs.
+    decision: translate
+    target: وب
+  - term: theme
+    match: '\bthemes?\b(?![/\w-])'
+    note: Use تم in prose; preserve theme keys and package names.
+    decision: translate
+    target: تم
+  - term: hot module replacement
+    match: '\bhot module replacement\b|\bHMR\b'
+    note: Keep Hot Module Replacement and HMR as technical terms. Do not apply the generic module translation inside this feature name.
+    decision: keep

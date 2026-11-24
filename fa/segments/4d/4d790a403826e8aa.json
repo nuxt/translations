@@ -1,0 +1,13 @@
+{
+  "hash": "4d790a403826e8aa",
+  "source": "Template Parameters",
+  "text": "پارامترهای قالب",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "پارامترهای قالب"
+  },
+  "updatedAt": "2026-11-23T17:47:08.665Z"
+}

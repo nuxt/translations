@@ -1,0 +1,13 @@
+{
+  "hash": "4279d3041751f456",
+  "source": "You can configure fully typed, per-environment overrides in your nuxt.config",
+  "text": "می‌توانید در nuxt.config تنظیمات جایگزین مخصوص هر محیط را با پشتیبانی کامل از نوع‌ها پیکربندی کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "می‌توانید در nuxt.config تنظیمات جایگزین مخصوص هر محیط را با پشتیبانی کامل از نوع‌ها پیکربندی کنید."
+  },
+  "updatedAt": "2026-11-23T17:47:08.519Z"
+}

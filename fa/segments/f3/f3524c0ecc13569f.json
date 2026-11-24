@@ -1,0 +1,13 @@
+{
+  "hash": "f3524c0ecc13569f",
+  "source": "What the {0} *does* change is what happens next in your own {1}, and how client-side navigation behaves:",
+  "text": "آنچه {0} *تغییر می‌دهد*، ادامهٔ اجرای کد در {1} شما و رفتار جابه‌جایی بین صفحه‌ها در سمت کلاینت است:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "آنچه {0} *تغییر می‌دهد*، ادامهٔ اجرای کد در {1} شما و رفتار جابه‌جایی بین صفحه‌ها در سمت کلاینت است:"
+  },
+  "updatedAt": "2026-11-23T17:50:28.790Z"
+}

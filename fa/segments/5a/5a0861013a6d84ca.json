@@ -1,0 +1,13 @@
+{
+  "hash": "5a0861013a6d84ca",
+  "source": "**Node.js** - {0} or newer (but we recommend the {1}active LTS release{/1})",
+  "text": "**Node.js** - نسخهٔ {0} یا جدیدتر (اما {1}نسخهٔ فعال LTS{/1} را پیشنهاد می‌کنیم)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "**Node.js** - نسخهٔ {0} یا جدیدتر (اما {1}نسخهٔ فعال LTS{/1} را پیشنهاد می‌کنیم)"
+  },
+  "updatedAt": "2026-11-23T17:47:08.499Z"
+}

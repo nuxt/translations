@@ -1,0 +1,13 @@
+{
+  "hash": "92bdaa7c59e8e8c0",
+  "source": "Passing Headers and Cookies",
+  "text": "ارسال Header‌ها و کوکی‌ها",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "ارسال Headerها و کوکی‌ها"
+  },
+  "updatedAt": "2026-11-23T18:11:52.743Z"
+}

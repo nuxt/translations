@@ -1,0 +1,13 @@
+{
+  "hash": "87f747648da58bad",
+  "source": "And then in your layout file, you might use the route's metadata you have previously set:",
+  "text": "سپس در فایل Layout می‌توانید از متادیتای Route که قبلاً تنظیم کرده‌اید استفاده کنید:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "سپس در فایل Layout می‌توانید از متادیتای Route که قبلاً تنظیم کرده‌اید استفاده کنید:"
+  },
+  "updatedAt": "2026-11-23T17:47:08.677Z"
+}

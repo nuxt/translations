@@ -1,0 +1,13 @@
+{
+  "hash": "77544ae12bb09e24",
+  "source": "{0}Vite{/0}",
+  "text": "{0}Vite{/0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "{0}Vite{/0}"
+  },
+  "updatedAt": "2026-11-23T17:47:08.534Z"
+}

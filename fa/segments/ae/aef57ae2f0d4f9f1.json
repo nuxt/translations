@@ -1,0 +1,13 @@
+{
+  "hash": "aef57ae2f0d4f9f1",
+  "source": "In the example below, {0} is set either as a string with the {1} placeholder or as a {2}, which allows greater flexibility in setting the page title dynamically for each route of your Nuxt app:",
+  "text": "در مثال زیر، {0} به‌صورت رشته‌ای با جای‌نگهدار {1} یا به‌صورت {2} تنظیم می‌شود. این روش برای تنظیم پویای عنوان صفحه در هر Route برنامهٔ Nuxt انعطاف بیشتری فراهم می‌کند:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "در مثال زیر، {0} به‌صورت رشته‌ای با جای‌نگهدار {1} یا به‌صورت {2} تنظیم می‌شود. این روش برای تنظیم پویای عنوان صفحه در هر Route برنامهٔ Nuxt انعطاف بیشتری فراهم می‌کند:"
+  },
+  "updatedAt": "2026-11-23T17:47:08.679Z"
+}

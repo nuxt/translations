@@ -1,0 +1,13 @@
+{
+  "hash": "053babe55a503124",
+  "source": "If you use webpack and need to configure {0}, you can do this using {1} key inside your {2} file. The available options are {3}defined here{/3}.",
+  "text": "اگر از webpack استفاده می‌کنید و باید {0} را پیکربندی کنید، می‌توانید از کلید {1} در فایل {2} استفاده کنید. گزینه‌های موجود {3}در اینجا تعریف شده‌اند{/3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "اگر از webpack استفاده می‌کنید و باید {0} را پیکربندی کنید، می‌توانید از کلید {1} در فایل {2} استفاده کنید. گزینه‌های موجود {3}در اینجا تعریف شده‌اند{/3}."
+  },
+  "updatedAt": "2026-11-23T17:47:08.540Z"
+}

@@ -1,0 +1,13 @@
+{
+  "hash": "2692d72634caccf5",
+  "source": "Nuxt is a framework which can run isomorphic (or universal) code in both server and client environments. If the {0}{1} function{/0} is used to perform data fetching in the setup function of a Vue component, this may cause data to be fetched twice, once on the server (to render the HTML) and once again on the client (when the HTML is hydrated). This can cause hydration issues, increase the time to interactivity and cause unpredictable behavior.",
+  "text": "Nuxt فریم‌ورکی است که می‌تواند کد ایزومورفیک (یا یونیورسال) را در محیط سرور و کلاینت اجرا کند. اگر از {0}تابع {1}{/0} برای دریافت داده در تابع setup یک کامپوننت Vue استفاده کنید، ممکن است داده دو بار دریافت شود: یک بار در سرور برای رندر HTML و بار دیگر در کلاینت هنگام Hydration آن. این کار می‌تواند باعث مشکلات Hydration، افزایش زمان آماده شدن صفحه برای تعامل و رفتار پیش‌بینی‌ناپذیر شود.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Nuxt فریم‌ورکی است که می‌تواند کد ایزومورفیک (یا یونیورسال) را در محیط سرور و کلاینت اجرا کند. اگر از {0}تابع {1}{/0} برای دریافت داده در تابع setup یک کامپوننت Vue استفاده کنید، ممکن است داده دو بار دریافت شود: یک بار در سرور برای رندر HTML و بار دیگر در کلاینت هنگام Hydration آن. این کار می‌تواند باعث مشکلات Hydration، افزایش زمان آماده شدن صفحه برای تعامل و رفتار پیش‌بینی‌ناپذیر شود."
+  },
+  "updatedAt": "2026-11-23T17:50:28.784Z"
+}

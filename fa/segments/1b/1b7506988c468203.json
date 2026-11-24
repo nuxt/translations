@@ -1,0 +1,13 @@
+{
+  "hash": "1b7506988c468203",
+  "source": "You can have full control over the HTML template by adding a Nitro plugin that registers a hook. The callback function of the {0} hook allows you to mutate the HTML before it is sent to the client.",
+  "text": "با اضافه کردن یک پلاگین Nitro که Hook ثبت می‌کند، می‌توانید کنترل کامل قالب HTML را در اختیار بگیرید. تابع Callback در Hook {0} به شما امکان می‌دهد HTML را پیش از ارسال به کلاینت تغییر دهید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "با اضافه کردن یک پلاگین Nitro که Hook ثبت می‌کند، می‌توانید کنترل کامل قالب HTML را در اختیار بگیرید. تابع Callback در Hook {0} به شما امکان می‌دهد HTML را پیش از ارسال به کلاینت تغییر دهید."
+  },
+  "updatedAt": "2026-11-23T17:47:08.557Z"
+}

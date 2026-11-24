@@ -1,0 +1,13 @@
+{
+  "hash": "f60b837c0e10b1e9",
+  "source": "Nuxt uses {0} file as the single source of truth for configurations and skips reading external configuration files. During the course of building your project, you may have a need to configure those. The following table highlights common configurations and, where applicable, how they can be configured with Nuxt.",
+  "text": "Nuxt از فایل {0} به‌عنوان مرجع واحد پیکربندی استفاده می‌کند و فایل‌های پیکربندی خارجی را نمی‌خواند. هنگام ساخت پروژه ممکن است لازم باشد این ابزارها را پیکربندی کنید. جدول زیر پیکربندی‌های رایج و، در صورت امکان، روش تنظیم آن‌ها در Nuxt را نشان می‌دهد.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Nuxt از فایل {0} به‌عنوان مرجع واحد پیکربندی استفاده می‌کند و فایل‌های پیکربندی خارجی را نمی‌خواند. هنگام ساخت پروژه ممکن است لازم باشد این ابزارها را پیکربندی کنید. جدول زیر پیکربندی‌های رایج و، در صورت امکان، روش تنظیم آن‌ها در Nuxt را نشان می‌دهد."
+  },
+  "updatedAt": "2026-11-23T17:47:08.532Z"
+}

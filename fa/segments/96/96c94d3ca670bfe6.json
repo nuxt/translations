@@ -1,0 +1,13 @@
+{
+  "hash": "96c94d3ca670bfe6",
+  "source": "**Text editor** - There is no IDE requirement, but we recommend {0}Visual Studio Code{/0} with the {1}official Vue extension{/1} (previously known as Volar) or {2}WebStorm{/2}, which, along with {3}other JetBrains IDEs{/3}, offers great Nuxt support right out-of-the-box. If you use another editor, such as Neovim, you can configure {4}Vue Language Server{/4} support by following the {5}Vue Language Tools setup guides{/5}.",
+  "text": "**ویرایشگر متن** - استفاده از IDE خاصی الزامی نیست، اما {0}Visual Studio Code{/0} با {1}افزونهٔ رسمی Vue{/1} (که پیش‌تر Volar نام داشت) یا {2}WebStorm{/2} را پیشنهاد می‌کنیم. این IDE در کنار {3}دیگر IDE‌های JetBrains{/3}، بدون تنظیمات اضافی پشتیبانی بسیار خوبی از Nuxt دارد. اگر از ویرایشگر دیگری مانند Neovim استفاده می‌کنید، می‌توانید با دنبال کردن {5}راهنماهای راه‌اندازی Vue Language Tools{/5}، پشتیبانی از {4}Vue Language Server{/4} را پیکربندی کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "**ویرایشگر متن** - استفاده از IDE خاصی الزامی نیست، اما {0}Visual Studio Code{/0} با {1}افزونهٔ رسمی Vue{/1} (که پیش‌تر Volar نام داشت) یا {2}WebStorm{/2} را پیشنهاد می‌کنیم. WebStorm در کنار {3}دیگر IDEهای JetBrains{/3}، بدون تنظیمات اضافی پشتیبانی بسیار خوبی از Nuxt دارد. اگر از ویرایشگر دیگری مانند Neovim استفاده می‌کنید، می‌توانید با دنبال کردن {5}راهنماهای راه‌اندازی Vue Language Tools{/5}، پشتیبانی از {4}Vue Language Server{/4} را پیکربندی کنید."
+  },
+  "updatedAt": "2026-11-23T18:11:52.665Z"
+}

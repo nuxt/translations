@@ -1,0 +1,13 @@
+{
+  "hash": "787f88ba1da353e6",
+  "source": "{0} is an SSR-friendly {1} replacement. Its value will be preserved after server-side rendering (during client-side hydration) and shared across all components using a unique key.",
+  "text": "{0} جایگزینی سازگار با SSR برای {1} است. مقدار آن پس از رندر سمت سرور، در طول Hydration کلاینت، حفظ می‌شود و با یک کلید یکتا بین همهٔ کامپوننت‌ها به اشتراک گذاشته می‌شود.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "{0} جایگزینی سازگار با SSR برای {1} است. مقدار آن پس از رندر سمت سرور، در طول Hydration کلاینت، حفظ می‌شود و با یک کلید یکتا بین همهٔ کامپوننت‌ها به اشتراک گذاشته می‌شود."
+  },
+  "updatedAt": "2026-11-23T17:51:31.619Z"
+}

@@ -1,0 +1,13 @@
+{
+  "hash": "25768334a3f56adb",
+  "source": "Making parallel requests",
+  "text": "ارسال درخواست‌های موازی",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "ارسال درخواست‌های موازی"
+  },
+  "updatedAt": "2026-11-23T17:50:28.872Z"
+}

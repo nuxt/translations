@@ -1,0 +1,13 @@
+{
+  "hash": "e5265adb568e92bf",
+  "source": "You can also intercept the response here.",
+  "text": "در اینجا می‌توانید به پاسخ نیز پیش از ارسال دسترسی داشته باشید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "در اینجا می‌توانید پاسخ را نیز پیش از ارسال بررسی یا تغییر دهید."
+  },
+  "updatedAt": "2026-11-23T18:11:52.680Z"
+}

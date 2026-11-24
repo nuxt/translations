@@ -1,0 +1,13 @@
+{
+  "hash": "eb369f086e31f64a",
+  "source": "{0} uses its first argument as a key if it is a string. If the first argument is the handler function that performs the query, then a key that is unique to the location of the {1} call in your source code will be generated for you.",
+  "text": "اگر آرگومان اول {0} رشته باشد، از آن به‌عنوان کلید استفاده می‌کند. اگر آرگومان اول تابع Handler باشد که Query را انجام می‌دهد، کلیدی مخصوص محل فراخوانی {1} در کد سورس برای شما تولید می‌شود.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "اگر آرگومان اول {0} رشته باشد، از آن به‌عنوان کلید استفاده می‌کند. اگر آرگومان اول تابع Handler باشد که Query را انجام می‌دهد، کلیدی مخصوص محل فراخوانی {1} در کد سورس برای شما تولید می‌شود."
+  },
+  "updatedAt": "2026-11-23T17:50:28.809Z"
+}

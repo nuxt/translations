@@ -1,0 +1,13 @@
+{
+  "hash": "1013ed17c82b2ac2",
+  "source": "External CSS",
+  "text": "CSS خارجی",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "CSS خارجی"
+  },
+  "updatedAt": "2026-11-23T17:47:08.682Z"
+}

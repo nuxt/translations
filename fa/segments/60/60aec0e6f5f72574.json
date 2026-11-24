@@ -1,0 +1,13 @@
+{
+  "hash": "60aec0e6f5f72574",
+  "source": "{0}: the error page of your Nuxt application",
+  "text": "{0}: صفحهٔ خطای برنامهٔ Nuxt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "{0}: صفحهٔ خطای برنامهٔ Nuxt"
+  },
+  "updatedAt": "2026-11-23T17:47:08.574Z"
+}

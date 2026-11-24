@@ -1,0 +1,13 @@
+{
+  "hash": "50f1a65938b6d4e4",
+  "source": "{0} and {1} use keys to prevent refetching the same data.",
+  "text": "{0} و {1} از کلیدها برای جلوگیری از دریافت مجدد همان داده استفاده می‌کنند.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "{0} و {1} از کلیدها برای جلوگیری از دریافت مجدد همان داده استفاده می‌کنند."
+  },
+  "updatedAt": "2026-11-23T17:50:28.808Z"
+}

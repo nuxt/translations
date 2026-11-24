@@ -1,0 +1,13 @@
+{
+  "hash": "4fff8842529fd7aa",
+  "source": "Build full-stack applications with Nuxt's server framework. You can fetch data from your database or another server, create APIs, or even generate static server-side content like a sitemap or a RSS feed - all from a single codebase.",
+  "text": "با فریم‌ورک سرور Nuxt برنامه‌های فول‌استک بسازید. می‌توانید داده را از پایگاه داده یا سروری دیگر دریافت کنید، API بسازید یا حتی محتوای ایستای سمت سرور مانند Sitemap یا خوراک RSS تولید کنید؛ همه با یک مجموعه کد.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "با فریم‌ورک سرور Nuxt برنامه‌های فول‌استک بسازید. می‌توانید داده را از پایگاه داده یا سروری دیگر دریافت کنید، API بسازید یا حتی محتوای ایستای سمت سرور مانند Sitemap یا خوراک RSS تولید کنید؛ همه با یک مجموعه کد."
+  },
+  "updatedAt": "2026-11-23T17:51:31.630Z"
+}

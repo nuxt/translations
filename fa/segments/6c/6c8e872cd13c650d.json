@@ -1,0 +1,13 @@
+{
+  "hash": "6c8e872cd13c650d",
+  "source": "{0} and {1} return the same object type and accept a common set of options as their last argument. They can help you control the composables behavior, such as navigation blocking, caching or execution.",
+  "text": "{0} و {1} آبجکتی با نوع یکسان برمی‌گردانند و مجموعهٔ مشترکی از گزینه‌ها را به‌عنوان آخرین آرگومان می‌پذیرند. این گزینه‌ها به کنترل رفتار Composable‌ها، مانند مسدود کردن جابه‌جایی بین صفحه‌ها، کش کردن یا اجرا، کمک می‌کنند.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "{0} و {1} آبجکتی با نوع یکسان برمی‌گردانند و مجموعهٔ مشترکی از گزینه‌ها را به‌عنوان آخرین آرگومان می‌پذیرند. این گزینه‌ها به کنترل رفتار Composableها، مانند مسدود کردن جابه‌جایی بین صفحه‌ها، کش کردن یا اجرا، کمک می‌کنند."
+  },
+  "updatedAt": "2026-11-23T18:11:52.729Z"
+}

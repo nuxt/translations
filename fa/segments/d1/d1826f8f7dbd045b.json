@@ -1,0 +1,13 @@
+{
+  "hash": "d1826f8f7dbd045b",
+  "source": "Dynamic Title",
+  "text": "عنوان پویا",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "عنوان پویا"
+  },
+  "updatedAt": "2026-11-23T17:47:08.678Z"
+}

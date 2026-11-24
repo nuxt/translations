@@ -1,0 +1,13 @@
+{
+  "hash": "6cda3dddde73da48",
+  "source": "When consuming SSE via POST request, you need to handle the connection manually. Here's how you can do it:",
+  "text": "برای دریافت SSE با درخواست POST باید اتصال را به‌صورت دستی مدیریت کنید. روش انجام آن:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "برای دریافت SSE با درخواست POST باید اتصال را به‌صورت دستی مدیریت کنید. روش انجام آن:"
+  },
+  "updatedAt": "2026-11-23T17:50:28.870Z"
+}

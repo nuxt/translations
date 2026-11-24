@@ -1,0 +1,13 @@
+{
+  "hash": "62304bb041ccf3af",
+  "source": "This is similar to the {0}{1} action{/0} in Nuxt 2, which allows filling the initial state of your store server-side before rendering the page.",
+  "text": "این روش مشابه {0}Action مربوط به {1}{/0} در Nuxt 2 است که امکان مقداردهی اولیهٔ State در Store را در سمت سرور، پیش از رندر صفحه، فراهم می‌کند.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "این روش مشابه {0}Action مربوط به {1}{/0} در Nuxt 2 است که امکان مقداردهی اولیهٔ State در Store را در سمت سرور، پیش از رندر صفحه، فراهم می‌کند."
+  },
+  "updatedAt": "2026-11-23T17:51:31.624Z"
+}

@@ -1,0 +1,13 @@
+{
+  "hash": "0bfd5473efc208c4",
+  "source": "Watch a video from Alexander Lichter to dig deeper into the difference between useFetch and useAsyncData",
+  "text": "ویدیوی Alexander Lichter برای شناخت دقیق‌تر تفاوت useFetch و useAsyncData را ببینید",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "ویدیوی Alexander Lichter برای شناخت دقیق‌تر تفاوت useFetch و useAsyncData را ببینید"
+  },
+  "updatedAt": "2026-11-23T17:50:28.796Z"
+}

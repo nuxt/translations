@@ -1,0 +1,13 @@
+{
+  "hash": "28918421c0c69daf",
+  "source": "Configuration per request",
+  "text": "پیکربندی برای هر درخواست",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "پیکربندی برای هر درخواست"
+  },
+  "updatedAt": "2026-11-23T17:47:08.530Z"
+}

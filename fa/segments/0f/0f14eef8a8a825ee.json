@@ -1,0 +1,13 @@
+{
+  "hash": "0f14eef8a8a825ee",
+  "source": "Both {0} and {1} share a common set of options and patterns that we will detail in the last sections.",
+  "text": "{0} و {1} مجموعهٔ مشترکی از گزینه‌ها و الگوها دارند که در بخش‌های پایانی توضیح می‌دهیم.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "{0} و {1} مجموعهٔ مشترکی از گزینه‌ها و الگوها دارند که در بخش‌های پایانی توضیح می‌دهیم."
+  },
+  "updatedAt": "2026-11-23T17:50:28.783Z"
+}

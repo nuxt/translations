@@ -1,0 +1,13 @@
+{
+  "hash": "3a843d53d031a6a1",
+  "source": "You can use computed refs, plain refs or getter functions as keys, allowing for dynamic data fetching that automatically updates when dependencies change:",
+  "text": "می‌توانید از ref‌های محاسبه‌شده، ref‌های معمولی یا تابع‌های Getter به‌عنوان کلید استفاده کنید تا دریافت داده به‌صورت پویا انجام شود و با تغییر وابستگی‌ها خودکار به‌روزرسانی شود:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "می‌توانید از refهای محاسبه‌شده، refهای معمولی یا تابع‌های Getter به‌عنوان کلید استفاده کنید تا دریافت داده به‌صورت پویا انجام شود و با تغییر وابستگی‌ها خودکار به‌روزرسانی شود:"
+  },
+  "updatedAt": "2026-11-23T18:11:52.737Z"
+}

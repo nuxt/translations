@@ -1,0 +1,13 @@
+{
+  "hash": "d029f87e3d80f8fd",
+  "source": "Example",
+  "text": "مثال",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "مثال"
+  },
+  "updatedAt": "2026-11-23T17:47:08.674Z"
+}

@@ -1,0 +1,13 @@
+{
+  "hash": "c395ecab4147ce04",
+  "source": "The {0} directory allows you to organize and share reusable code, components, composables, and configurations. Layers within this directory are automatically registered in your project.",
+  "text": "پوشهٔ {0} به شما امکان می‌دهد کد، کامپوننت‌ها، Composable‌ها و پیکربندی‌های قابل‌استفادهٔ مجدد را سازمان‌دهی و به اشتراک بگذارید. Layer‌های این پوشه به‌صورت خودکار در پروژه ثبت می‌شوند.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "پوشهٔ {0} به شما امکان می‌دهد کد، کامپوننت‌ها، Composableها و پیکربندی‌های قابل‌استفادهٔ مجدد را سازمان‌دهی و به اشتراک بگذارید. Layerهای این پوشه به‌صورت خودکار در پروژه ثبت می‌شوند."
+  },
+  "updatedAt": "2026-11-23T18:11:52.689Z"
+}

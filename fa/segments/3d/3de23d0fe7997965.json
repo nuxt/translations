@@ -1,0 +1,13 @@
+{
+  "hash": "3de23d0fe7997965",
+  "source": "There are some cases when using the {0} composable is not appropriate, for example when a CMS or a third-party provides their own query layer. In this case, you can use {1} to wrap your calls and still keep the benefits provided by the composable.",
+  "text": "در بعضی موارد استفاده از Composable {0} مناسب نیست؛ برای مثال وقتی یک CMS یا سرویس شخص ثالث لایهٔ Query مخصوص خود را ارائه می‌کند. در این حالت می‌توانید با {1} فراخوانی‌ها را در بر بگیرید و همچنان از مزایای Composable بهره ببرید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "در بعضی موارد استفاده از Composable مربوط به {0} مناسب نیست؛ برای مثال وقتی یک CMS یا سرویس شخص ثالث لایهٔ Query مخصوص خود را ارائه می‌کند. در این حالت می‌توانید با {1} فراخوانی‌ها را در بر بگیرید و همچنان از مزایای Composable بهره ببرید."
+  },
+  "updatedAt": "2026-11-23T18:11:52.722Z"
+}

@@ -1,0 +1,13 @@
+{
+  "hash": "19e2af2edd0f9f6b",
+  "source": "Reactivity is supported on all properties, by providing a computed value, a getter, or a reactive object.",
+  "text": "با ارائهٔ یک مقدار محاسبه‌شده، Getter یا آبجکت واکنش‌پذیر، همهٔ ویژگی‌ها از واکنش‌پذیری پشتیبانی می‌کنند.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "با ارائهٔ یک مقدار محاسبه‌شده، Getter یا آبجکت واکنش‌پذیر، همهٔ ویژگی‌ها از واکنش‌پذیری پشتیبانی می‌کنند."
+  },
+  "updatedAt": "2026-11-23T17:47:08.660Z"
+}

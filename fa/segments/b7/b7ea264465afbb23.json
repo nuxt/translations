@@ -1,0 +1,13 @@
+{
+  "hash": "b7ea264465afbb23",
+  "source": "Bun",
+  "text": "Bun",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Bun"
+  },
+  "updatedAt": "2026-11-23T17:51:31.639Z"
+}

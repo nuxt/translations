@@ -1,0 +1,13 @@
+{
+  "hash": "24770ae19d62a36b",
+  "source": "This call is performed before hydration",
+  "text": "این فراخوانی پیش از Hydration انجام می‌شود",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "این فراخوانی پیش از Hydration انجام می‌شود"
+  },
+  "updatedAt": "2026-11-23T17:50:28.804Z"
+}

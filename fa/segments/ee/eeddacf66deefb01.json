@@ -1,0 +1,13 @@
+{
+  "hash": "eeddacf66deefb01",
+  "source": "Beware that using only {0} will not provide {1}network calls de-duplication and navigation prevention{/1}.{2}It is recommended to use {3} for client-side interactions (event-based) or combined with {4} when fetching the initial component data.",
+  "text": "در نظر داشته باشید که استفاده از {0} به‌تنهایی، {1}حذف فراخوانی‌های تکراری شبکه و جلوگیری از جابه‌جایی بین صفحه‌ها{/1} را فراهم نمی‌کند.{2}پیشنهاد می‌شود از {3} برای تعامل‌های سمت کلاینت بر پایهٔ رویداد، یا همراه با {4} برای دریافت دادهٔ اولیهٔ کامپوننت استفاده کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "در نظر داشته باشید که استفاده از {0} به‌تنهایی، {1}حذف فراخوانی‌های تکراری شبکه و جلوگیری از جابه‌جایی بین صفحه‌ها{/1} را فراهم نمی‌کند.{2}پیشنهاد می‌شود از {3} برای تعامل‌های سمت کلاینت بر پایهٔ رویداد، یا همراه با {4} برای دریافت دادهٔ اولیهٔ کامپوننت استفاده کنید."
+  },
+  "updatedAt": "2026-11-23T17:50:28.793Z"
+}

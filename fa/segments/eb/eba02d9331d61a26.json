@@ -1,0 +1,13 @@
+{
+  "hash": "eba02d9331d61a26",
+  "source": "Instead use {0}",
+  "text": "به‌جای آن از {0} استفاده کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "به‌جای آن از {0} استفاده کنید."
+  },
+  "updatedAt": "2026-11-23T17:51:31.621Z"
+}

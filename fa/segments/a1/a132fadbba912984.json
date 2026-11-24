@@ -1,0 +1,13 @@
+{
+  "hash": "a132fadbba912984",
+  "source": "**Auto-imports:** write Vue composables and components in their respective directories and use them without having to import them with the benefits of tree-shaking and optimized JS bundles.",
+  "text": "**Import خودکار:** Composable‌ها و کامپوننت‌های Vue را در پوشه‌های مربوط به خود بنویسید و بدون Import صریح از آن‌ها استفاده کنید؛ در عین حال از Tree-shaking و Bundle‌های بهینهٔ JS بهره ببرید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "**Import خودکار:** Composableها و کامپوننت‌های Vue را در پوشه‌های مربوط به خود بنویسید و بدون Import صریح از آن‌ها استفاده کنید؛ در عین حال از Tree-shaking و Bundleهای بهینهٔ JS بهره ببرید."
+  },
+  "updatedAt": "2026-11-23T18:11:52.659Z"
+}

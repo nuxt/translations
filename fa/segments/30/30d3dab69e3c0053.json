@@ -1,0 +1,13 @@
+{
+  "hash": "30d3dab69e3c0053",
+  "source": "Get the cookies from the response",
+  "text": "کوکی‌ها را از پاسخ دریافت کنید",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "کوکی‌ها را از پاسخ دریافت کنید"
+  },
+  "updatedAt": "2026-11-23T17:50:28.852Z"
+}

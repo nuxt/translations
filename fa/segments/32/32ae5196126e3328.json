@@ -1,0 +1,13 @@
+{
+  "hash": "32ae5196126e3328",
+  "source": "Data Fetching",
+  "text": "دریافت داده",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "دریافت داده"
+  },
+  "updatedAt": "2026-11-23T17:50:28.780Z"
+}

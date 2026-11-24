@@ -1,0 +1,13 @@
+{
+  "hash": "0170a1250bada7db",
+  "source": "Pages represent views for each specific route pattern. Every file in the {0} directory represents a different route displaying its content.",
+  "text": "صفحه‌ها نمای هر الگوی مشخص Route را تعریف می‌کنند. هر فایل در پوشهٔ {0} نمایندهٔ یک Route متفاوت است که محتوای آن فایل را نمایش می‌دهد.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "صفحه‌ها نمای هر الگوی مشخص Route را تعریف می‌کنند. هر فایل در پوشهٔ {0} نمایندهٔ یک Route متفاوت است که محتوای آن فایل را نمایش می‌دهد."
+  },
+  "updatedAt": "2026-11-23T17:47:08.546Z"
+}

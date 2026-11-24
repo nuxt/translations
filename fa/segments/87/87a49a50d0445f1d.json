@@ -1,0 +1,13 @@
+{
+  "hash": "87a49a50d0445f1d",
+  "source": "The {0} component links pages between them. It renders an {1} tag with the {2} attribute set to the route of the page. Once the application is hydrated, page transitions are performed in JavaScript by updating the browser URL. This prevents full-page refreshes and allows for animated transitions.",
+  "text": "کامپوننت {0} صفحه‌ها را به یکدیگر پیوند می‌دهد. یک تگ {1} رندر می‌کند که ویژگی {2} آن روی Route صفحه تنظیم شده است. پس از Hydration برنامه، جابه‌جایی بین صفحه‌ها با JavaScript و به‌روزرسانی URL مرورگر انجام می‌شود. این کار از بارگذاری مجدد کل صفحه جلوگیری می‌کند و امکان جابه‌جایی همراه با انیمیشن را فراهم می‌کند.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "کامپوننت {0} صفحه‌ها را به یکدیگر پیوند می‌دهد. یک تگ {1} رندر می‌کند که ویژگی {2} آن روی Route صفحه تنظیم شده است. پس از Hydration برنامه، جابه‌جایی بین صفحه‌ها با JavaScript و به‌روزرسانی URL مرورگر انجام می‌شود. این کار از بارگذاری مجدد کل صفحه جلوگیری می‌کند و امکان جابه‌جایی همراه با انیمیشن را فراهم می‌کند."
+  },
+  "updatedAt": "2026-11-23T17:47:08.606Z"
+}

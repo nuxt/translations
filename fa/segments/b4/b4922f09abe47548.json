@@ -1,0 +1,13 @@
+{
+  "hash": "b4922f09abe47548",
+  "source": "Well done! A browser window should automatically open for {0}.",
+  "text": "آفرین! باید یک پنجرهٔ مرورگر به‌صورت خودکار برای {0} باز شود.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "آفرین! باید یک پنجرهٔ مرورگر به‌صورت خودکار برای {0} باز شود."
+  },
+  "updatedAt": "2026-11-23T17:47:08.512Z"
+}

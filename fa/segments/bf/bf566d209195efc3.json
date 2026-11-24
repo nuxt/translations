@@ -1,0 +1,13 @@
+{
+  "hash": "bf566d209195efc3",
+  "source": "While most sites won't need to override these defaults, you can update them using the keyed shortcuts.",
+  "text": "بیشتر سایت‌ها نیازی به بازنویسی این پیش‌فرض‌ها ندارند، اما می‌توانید با میان‌برهای کلیددار آن‌ها را به‌روزرسانی کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "بیشتر سایت‌ها نیازی به بازنویسی این پیش‌فرض‌ها ندارند، اما می‌توانید با میان‌برهای کلیددار آن‌ها را به‌روزرسانی کنید."
+  },
+  "updatedAt": "2026-11-23T17:47:08.644Z"
+}

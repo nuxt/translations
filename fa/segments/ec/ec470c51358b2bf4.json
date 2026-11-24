@@ -1,0 +1,13 @@
+{
+  "hash": "ec470c51358b2bf4",
+  "source": "Every time a dependency changes, the data will be fetched using the newly constructed URL. Combine this with {0}not-immediate{/0}, and you can wait until the reactive element changes before fetching.",
+  "text": "با هر تغییر وابستگی، داده با URL جدید دریافت می‌شود. با ترکیب این روش و {0}دریافت غیرفوری{/0} می‌توانید دریافت داده را تا تغییر مقدار واکنش‌پذیر به تعویق بیندازید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "با هر تغییر وابستگی، داده با URL جدید دریافت می‌شود. با ترکیب این روش و {0}دریافت غیرفوری{/0} می‌توانید دریافت داده را تا تغییر مقدار واکنش‌پذیر به تعویق بیندازید."
+  },
+  "updatedAt": "2026-11-23T17:50:28.842Z"
+}

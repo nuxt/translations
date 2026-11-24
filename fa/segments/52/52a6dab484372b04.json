@@ -1,0 +1,13 @@
+{
+  "hash": "52a6dab484372b04",
+  "source": "The {0} and {1} composables solve this problem by ensuring that if an API call is made on the server, the data is forwarded to the client in the payload.",
+  "text": "Composable‌های {0} و {1} این مشکل را حل می‌کنند؛ اگر فراخوانی API در سرور انجام شود، داده از طریق Payload به کلاینت منتقل می‌شود.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Composableهای {0} و {1} این مشکل را حل می‌کنند؛ اگر فراخوانی API در سرور انجام شود، داده از طریق Payload به کلاینت منتقل می‌شود."
+  },
+  "updatedAt": "2026-11-23T18:11:52.706Z"
+}

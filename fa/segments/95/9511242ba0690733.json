@@ -1,0 +1,13 @@
+{
+  "hash": "9511242ba0690733",
+  "source": "Command line interface: {0}@nuxt/cli{/0}",
+  "text": "رابط خط فرمان: {0}@nuxt/cli{/0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "رابط خط فرمان: {0}@nuxt/cli{/0}"
+  },
+  "updatedAt": "2026-11-23T17:47:08.495Z"
+}

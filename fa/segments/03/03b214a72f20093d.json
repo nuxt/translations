@@ -1,0 +1,13 @@
+{
+  "hash": "03b214a72f20093d",
+  "source": "Universal deployment on any provider (many zero-config)",
+  "text": "استقرار روی هر ارائه‌دهنده (در بسیاری از آن‌ها بدون نیاز به پیکربندی)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "استقرار روی هر ارائه‌دهنده (در بسیاری از آن‌ها بدون نیاز به پیکربندی)"
+  },
+  "updatedAt": "2026-11-23T17:51:31.633Z"
+}

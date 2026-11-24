@@ -1,0 +1,13 @@
+{
+  "hash": "d135351a1c71b75a",
+  "source": "To get the cached data by key, you can use {0}",
+  "text": "برای دریافت دادهٔ کش‌شده با کلید، می‌توانید از {0} استفاده کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "برای دریافت دادهٔ کش‌شده با کلید، می‌توانید از {0} استفاده کنید."
+  },
+  "updatedAt": "2026-11-23T17:50:28.809Z"
+}

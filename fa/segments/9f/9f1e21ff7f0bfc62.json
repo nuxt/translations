@@ -1,0 +1,13 @@
+{
+  "hash": "9f1e21ff7f0bfc62",
+  "source": "Within your {0}{1} directory{/0}, you can use {2} along with {3} to set metadata based on the current route.",
+  "text": "در {0}پوشهٔ {1}{/0} می‌توانید از {2} همراه با {3} استفاده کنید تا متادیتا را بر اساس Route فعلی تنظیم کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "در {0}پوشهٔ {1}{/0} می‌توانید از {2} همراه با {3} استفاده کنید تا متادیتا را بر اساس Route فعلی تنظیم کنید."
+  },
+  "updatedAt": "2026-11-23T17:47:08.675Z"
+}

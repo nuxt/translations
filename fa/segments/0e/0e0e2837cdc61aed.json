@@ -1,0 +1,13 @@
+{
+  "hash": "0e0e2837cdc61aed",
+  "source": "Because the data inside {0} will be serialized to JSON, it is important that it does not contain anything that cannot be serialized, such as classes, functions or symbols.",
+  "text": "چون داده‌های داخل {0} به JSON سریال‌سازی می‌شوند، نباید شامل موارد غیرقابل‌سریال‌سازی مانند کلاس‌ها، تابع‌ها یا Symbol‌ها باشند.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "چون داده‌های داخل {0} به JSON سریال‌سازی می‌شوند، نباید شامل موارد غیرقابل‌سریال‌سازی مانند کلاس‌ها، تابع‌ها یا Symbolها باشند."
+  },
+  "updatedAt": "2026-11-23T18:11:52.752Z"
+}
