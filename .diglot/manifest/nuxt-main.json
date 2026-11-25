@@ -2,7 +2,7 @@
   "version": 1,
   "source": "nuxt-main",
   "ref": "main",
-  "sha": "b19192bc365d200c21928cd305ac1e3a00a8dfc0",
+  "sha": "03c8441d1f410b6be5bc1758cfe880e764f09cf9",
   "policy": "f6e446c627d4102c",
   "files": {
     "docs/.navigation.yml": [
@@ -7992,7 +7992,7 @@
       {"hash":"91de7d5e0a9ba9ff","kind":"list-item","format":"markdown","words":52,"skeleton":"Validate whether a given route can validly be rendered with this page. Return true if it is valid, or false if not. If another match can't be found, this will mean a 404. You can also directly return an object with {0}/{1} to respond immediately with an error (other matches will not be checked).","placeholders":["code","code"]},
       {"hash":"ca3756b08ccd10c5","kind":"list-item","format":"markdown","words":0,"skeleton":"**{0}**","placeholders":["code"]},
       {"hash":"332c963f865ed314","kind":"list-item","format":"markdown","words":1,"skeleton":"**Type**: {0}","placeholders":["code"]},
-      {"hash":"126846cf14f10322","kind":"list-item","format":"markdown","words":65,"skeleton":"Tell Nuxt to scroll to the top before rendering the page or not. Navigation is independent from rendering, so scroll behavior is always triggered even when the page doesn't re-render (e.g. when using a fixed {0}). Set {1} to disable scrolling in such cases. If you want to overwrite the default scroll behavior of Nuxt, you can do so in {2} (see {3}custom routing{/3}) for more info.","placeholders":["link","code","code","link"]},
+      {"hash":"126846cf14f10322","kind":"list-item","format":"markdown","words":65,"skeleton":"Tell Nuxt to scroll to the top before rendering the page or not. Navigation is independent from rendering, so scroll behavior is always triggered even when the page doesn't re-render (e.g. when using a fixed {0}). Set {1} to disable scrolling in such cases. If you want to overwrite the default scroll behavior of Nuxt, you can do so in {2} (see {3}custom routing{/3}) for more info.","placeholders":["code","code","code","link"]},
       {"hash":"ca3756b08ccd10c5","kind":"list-item","format":"markdown","words":0,"skeleton":"**{0}**","placeholders":["code"]},
       {"hash":"332c963f865ed314","kind":"list-item","format":"markdown","words":1,"skeleton":"**Type**: {0}","placeholders":["code"]},
       {"hash":"afbe8f7b0f0268d7","kind":"list-item","format":"markdown","words":28,"skeleton":"Apart from the above properties, you can also set **custom** metadata. You may wish to do so in a type-safe way by {0}augmenting the type of the {1} object{/0}.","placeholders":["link","code"]},
