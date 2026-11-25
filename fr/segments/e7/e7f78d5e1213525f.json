@@ -1,0 +1,14 @@
+{
+  "hash": "e7f78d5e1213525f",
+  "source": "If your module writes to {0}, or to {1} in the {2} hook, use {3} instead. The {4} hook is only called by the Nitro server builder.",
+  "text": "Si votre module écrit dans {0}, ou dans {1} au sein du hook {2}, utilisez plutôt {3}. Le hook {4} n'est appelé que par le builder serveur Nitro.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si votre module écrit dans {0}, ou dans {1} au sein du hook {2}, utilisez plutôt {3}. Le hook {4} n'est appelé que par le builder serveur Nitro."
+  },
+  "updatedAt": "2026-11-25T15:06:28.205Z"
+}

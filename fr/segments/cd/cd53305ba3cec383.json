@@ -1,0 +1,15 @@
+{
+  "hash": "cd53305ba3cec383",
+  "source": "Creating a Virtual File for the Server",
+  "text": "Créer un fichier virtuel pour le serveur",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "dfd345a02f7469f1",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Créer un fichier virtuel pour le serveur"
+  },
+  "updatedAt": "2026-11-25T15:06:28.205Z"
+}

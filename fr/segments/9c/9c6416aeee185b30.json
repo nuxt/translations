@@ -1,0 +1,14 @@
+{
+  "hash": "9c6416aeee185b30",
+  "source": "A virtual module registered with {0} can be imported from server code, such as a renderer plugin, with both {1} and {2}. Its contents are bundled into the server, so anything it imports has to resolve with the server builder in use.",
+  "text": "Un module virtuel enregistré avec {0} peut être importé depuis le code serveur, par exemple un plugin de rendu, avec {1} comme avec {2}. Son contenu est inclus dans le bundle du serveur, donc tout ce qu'il importe doit pouvoir être résolu par le builder serveur utilisé.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un module virtuel enregistré avec {0} peut être importé depuis le code serveur, par exemple un plugin de rendu, avec {1} comme avec {2}. Son contenu est inclus dans le bundle du serveur, donc tout ce qu'il importe doit pouvoir être résolu par le builder serveur utilisé."
+  },
+  "updatedAt": "2026-11-25T15:06:28.205Z"
+}

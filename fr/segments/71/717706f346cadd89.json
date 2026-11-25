@@ -1,0 +1,15 @@
+{
+  "hash": "717706f346cadd89",
+  "source": "**{0}** maps a module specifier to the code that must be behind it. Loop over it and register each one. Because you never write the specifiers yourself, Nuxt can add, remove, or rename modules and your builder will keep working. The list also holds the virtual modules that Nuxt modules register with {1}, so registering every entry is all it takes to support them.",
+  "text": "**{0}** associe un spécificateur de module au code qui doit se trouver derrière. Parcourez-le en boucle et enregistrez chacun d'eux. Comme vous n'écrivez jamais les spécificateurs vous-même, Nuxt peut ajouter, supprimer ou renommer des modules sans que votre builder cesse de fonctionner. La liste contient aussi les modules virtuels que les modules Nuxt enregistrent avec {1}, donc enregistrer chaque entrée suffit pour les prendre en charge.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "ae8199ca85b13707",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** associe un spécificateur de module au code qui doit se trouver derrière. Parcourez-le en boucle et enregistrez chacun d'eux. Comme vous n'écrivez jamais les spécificateurs vous-même, Nuxt peut ajouter, supprimer ou renommer des modules sans que votre builder cesse de fonctionner. La liste contient aussi les modules virtuels que les modules Nuxt enregistrent avec {1}, donc enregistrer chaque entrée suffit pour les prendre en charge."
+  },
+  "updatedAt": "2026-11-25T15:06:28.205Z"
+}

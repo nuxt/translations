@@ -1,0 +1,14 @@
+{
+  "hash": "1f58b92a0928eb48",
+  "source": "Server Templates",
+  "text": "Server-Vorlagen",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Server-Vorlagen"
+  },
+  "updatedAt": "2026-11-25T15:06:28.205Z"
+}

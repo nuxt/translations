@@ -1,0 +1,15 @@
+{
+  "hash": "e35a4d3f9abd06ce",
+  "source": "Adds a virtual file that can be used within the server build, with both {0} and {1}.",
+  "text": "Ajoute un fichier virtuel utilisable dans le build du serveur, avec {0} et {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "3ecc677760750b8d",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ajoute un fichier virtuel utilisable dans le build du serveur, avec {0} et {1}."
+  },
+  "updatedAt": "2026-11-25T15:06:28.205Z"
+}
