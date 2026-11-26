@@ -1,0 +1,14 @@
+{
+  "hash": "132783f86c0bfdcd",
+  "source": "Headers, including {0} and {1}, are forwarded to every URL passed to {2}, including absolute URLs and requests with a {3} on another origin. Only call it with URLs you trust, and use {4} with explicit headers for third-party APIs.",
+  "text": "Les en-têtes, y compris {0} et {1}, sont transmis à chaque URL passée à {2}, y compris les URL absolues et les requêtes avec un {3} sur une autre origine. Ne l'appelez qu'avec des URL de confiance, et utilisez {4} avec des en-têtes explicites pour les API tierces.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les en-têtes, y compris {0} et {1}, sont transmis à chaque URL passée à {2}, y compris les URL absolues et les requêtes avec un {3} sur une autre origine. Ne l'appelez qu'avec des URL de confiance, et utilisez {4} avec des en-têtes explicites pour les API tierces."
+  },
+  "updatedAt": "2026-11-26T21:14:41.245Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "132783f86c0bfdcd",
+  "source": "Headers, including {0} and {1}, are forwarded to every URL passed to {2}, including absolute URLs and requests with a {3} on another origin. Only call it with URLs you trust, and use {4} with explicit headers for third-party APIs.",
+  "text": "Header, darunter {0} und {1}, werden an jede URL weitergeleitet, die du an {2} übergibst. Das gilt auch für absolute URLs und für Anfragen mit einem {3} auf einen anderen Origin. Rufe die Funktion nur mit URLs auf, denen du vertraust, und verwende {4} mit expliziten Headern für APIs von Drittanbietern.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Header, darunter {0} und {1}, werden an jede URL weitergeleitet, die du an {2} übergibst. Das gilt auch für absolute URLs und für Anfragen mit einem {3} auf einen anderen Origin. Rufe die Funktion nur mit URLs auf, denen du vertraust, und verwende {4} mit expliziten Headern für APIs von Drittanbietern."
+  },
+  "updatedAt": "2026-11-26T21:14:41.245Z"
+}
