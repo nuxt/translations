@@ -1,0 +1,14 @@
+{
+  "hash": "4c60e656f47888af",
+  "source": "Nuxt checks the type of options that take a boolean, a string or one of a fixed set of values, such as {0}, {1}, the {2} directories and the boolean {3} flags. A value of the wrong type is replaced by the option's default, and Nuxt logs a {4} warning naming the option.",
+  "text": "Nuxt vérifie le type des options qui acceptent un booléen, une chaîne de caractères ou une valeur parmi un ensemble fixe, comme {0}, {1}, les répertoires {2} et les indicateurs booléens {3}. Une valeur du mauvais type est remplacée par la valeur par défaut de l'option, et Nuxt affiche un avertissement {4} qui nomme l'option.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt vérifie le type des options qui acceptent un booléen, une chaîne de caractères ou une valeur parmi un ensemble fixe, comme {0}, {1}, les répertoires {2} et les indicateurs booléens {3}. Une valeur du mauvais type est remplacée par la valeur par défaut de l'option, et Nuxt affiche un avertissement {4} qui nomme l'option."
+  },
+  "updatedAt": "2026-11-27T16:03:27.139Z"
+}

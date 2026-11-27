@@ -1,0 +1,14 @@
+{
+  "hash": "71296d8bd298ca2d",
+  "source": "Nuxt resolves {0} into {1} itself, and {2} only contains types. The {3} export is removed.",
+  "text": "Nuxt résout lui-même {0} en {1}, et {2} ne contient que des types. L'export {3} est supprimé.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt résout lui-même {0} en {1}, et {2} ne contient que des types. L'export {3} est supprimé."
+  },
+  "updatedAt": "2026-11-27T16:03:27.139Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "30fd3997bc70b103",
+  "source": "If your module or tooling imported {0} to resolve options, use {1} from {2} instead.",
+  "text": "Wenn dein Modul oder Tooling {0} importiert hat, um Optionen aufzulösen, verwende stattdessen {1} aus {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn dein Modul oder Tooling {0} importiert hat, um Optionen aufzulösen, verwende stattdessen {1} aus {2}."
+  },
+  "updatedAt": "2026-11-27T16:03:27.139Z"
+}

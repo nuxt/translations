@@ -1,0 +1,14 @@
+{
+  "hash": "b5349143f9b88704",
+  "source": "If TypeScript reports that a check on {0} is always true or always false, the value is already normalized and you can remove the check:",
+  "text": "Si TypeScript signale qu'une vérification sur {0} est toujours vraie ou toujours fausse, la valeur est déjà normalisée et vous pouvez supprimer la vérification :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si TypeScript signale qu'une vérification sur {0} est toujours vraie ou toujours fausse, la valeur est déjà normalisée et vous pouvez supprimer la vérification :"
+  },
+  "updatedAt": "2026-11-27T16:03:27.139Z"
+}

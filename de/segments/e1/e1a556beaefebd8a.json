@@ -1,0 +1,14 @@
+{
+  "hash": "e1a556beaefebd8a",
+  "source": "If you see a {0} warning, change the value in your {1}, or in the layer or module that sets it, to the type the warning names:",
+  "text": "Wenn du eine {0}-Warnung siehst, ändere den Wert in deiner {1} oder im Layer oder Modul, das ihn setzt, auf den Typ, den die Warnung nennt:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn du eine {0}-Warnung siehst, ändere den Wert in deiner {1} oder im Layer oder Modul, das ihn setzt, auf den Typ, den die Warnung nennt:"
+  },
+  "updatedAt": "2026-11-27T16:03:27.139Z"
+}

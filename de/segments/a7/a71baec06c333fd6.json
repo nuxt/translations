@@ -1,0 +1,14 @@
+{
+  "hash": "a71baec06c333fd6",
+  "source": "The {0} option is also removed. {1} added routes to prerender, which the top-level {2} option does. {3} had no effect.",
+  "text": "Die Option {0} wird ebenfalls entfernt. {1} hat Routen für das Vorab-Rendering hinzugefügt, was die Option {2} auf oberster Ebene bereits leistet. {3} hatte keine Wirkung.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Die Option {0} wird ebenfalls entfernt. {1} hat Routen für das Vorab-Rendering hinzugefügt, was die Option {2} auf oberster Ebene bereits leistet. {3} hatte keine Wirkung."
+  },
+  "updatedAt": "2026-11-27T16:03:27.139Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "20f98a1005379fa2",
+  "source": "{0} is typed with the shape of the resolved options rather than the shape of the input. For example, {1} is always an object with a {2} array, {3} is always {4}, and {5} is always defined.",
+  "text": "{0} ist mit der Form der aufgelösten Optionen statt der Form der Eingabe typisiert. Beispielsweise ist {1} immer ein Objekt mit einem {2}-Array, {3} ist immer {4}, und {5} ist immer definiert.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ist mit der Form der aufgelösten Optionen statt der Form der Eingabe typisiert. Beispielsweise ist {1} immer ein Objekt mit einem {2}-Array, {3} ist immer {4}, und {5} ist immer definiert."
+  },
+  "updatedAt": "2026-11-27T16:03:27.139Z"
+}

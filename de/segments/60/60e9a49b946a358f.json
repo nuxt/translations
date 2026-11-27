@@ -1,0 +1,14 @@
+{
+  "hash": "60e9a49b946a358f",
+  "source": "**Types-only {0}**: {1} is removed and {2}{3} has the type of the resolved options{/2}",
+  "text": "**Nur Typen bei {0}**: {1} wird entfernt und {2}{3} hat den Typ der aufgelösten Optionen{/2}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Nur Typen bei {0}**: {1} wird entfernt und {2}{3} hat den Typ der aufgelösten Optionen{/2}"
+  },
+  "updatedAt": "2026-11-27T16:03:27.139Z"
+}

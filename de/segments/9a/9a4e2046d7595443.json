@@ -1,0 +1,14 @@
+{
+  "hash": "9a4e2046d7595443",
+  "source": "If your configuration already sets {0} or {1}, add the entries to those lists. A key in {2} replaces the same key in {3}.",
+  "text": "Wenn deine Konfiguration bereits {0} oder {1} setzt, füge die Einträge zu diesen Listen hinzu. Ein Schlüssel in {2} ersetzt denselben Schlüssel in {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Wenn deine Konfiguration bereits {0} oder {1} setzt, füge die Einträge zu diesen Listen hinzu. Ein Schlüssel in {2} ersetzt denselben Schlüssel in {3}."
+  },
+  "updatedAt": "2026-11-27T16:03:27.139Z"
+}

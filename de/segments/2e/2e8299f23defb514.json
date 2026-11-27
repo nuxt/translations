@@ -1,0 +1,14 @@
+{
+  "hash": "2e8299f23defb514",
+  "source": "Previously, most of these values were replaced without a warning. With {0} and {1}, the value is the string {2} rather than a boolean, so server-side rendering stayed enabled with no indication why. An invalid {3} was kept after its warning, and is now replaced by the default too.",
+  "text": "Bisher wurden die meisten dieser Werte ohne Warnung ersetzt. Bei {0} und {1} ist der Wert der String {2} statt eines booleschen Werts, sodass serverseitiges Rendering aktiviert blieb, ohne dass ein Grund erkennbar war. Ein ungültiger Wert für {3} blieb nach seiner Warnung erhalten und wird jetzt ebenfalls durch den Standardwert ersetzt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bisher wurden die meisten dieser Werte ohne Warnung ersetzt. Bei {0} und {1} ist der Wert der String {2} statt eines booleschen Werts, sodass serverseitiges Rendering aktiviert blieb, ohne dass ein Grund erkennbar war. Ein ungültiger Wert für {3} blieb nach seiner Warnung erhalten und wird jetzt ebenfalls durch den Standardwert ersetzt."
+  },
+  "updatedAt": "2026-11-27T16:03:27.139Z"
+}

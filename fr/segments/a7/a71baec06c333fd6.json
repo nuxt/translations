@@ -1,0 +1,14 @@
+{
+  "hash": "a71baec06c333fd6",
+  "source": "The {0} option is also removed. {1} added routes to prerender, which the top-level {2} option does. {3} had no effect.",
+  "text": "L'option {0} est également supprimée. {1} ajoutait des routes à prérendre, ce que fait l'option de premier niveau {2}. {3} n'avait aucun effet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'option {0} est également supprimée. {1} ajoutait des routes à prérendre, ce que fait l'option de premier niveau {2}. {3} n'avait aucun effet."
+  },
+  "updatedAt": "2026-11-27T16:03:27.139Z"
+}

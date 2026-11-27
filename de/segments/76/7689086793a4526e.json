@@ -1,0 +1,14 @@
+{
+  "hash": "7689086793a4526e",
+  "source": "Invalid Option Values Fall Back to the Default",
+  "text": "Ungültige Optionswerte fallen auf den Standardwert zurück",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ungültige Optionswerte fallen auf den Standardwert zurück"
+  },
+  "updatedAt": "2026-11-27T16:03:27.139Z"
+}

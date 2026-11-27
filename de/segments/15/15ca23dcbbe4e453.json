@@ -1,0 +1,14 @@
+{
+  "hash": "15ca23dcbbe4e453",
+  "source": "**Validated options**: An option set to a value of the wrong type is {0}replaced by its default with a warning{/0} rather than silently",
+  "text": "**Validierte Optionen**: Eine Option mit einem Wert des falschen Typs wird {0}mit einer Warnung durch ihren Standardwert ersetzt{/0}, statt stillschweigend übernommen zu werden",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Validierte Optionen**: Eine Option mit einem Wert des falschen Typs wird {0}mit einer Warnung durch ihren Standardwert ersetzt{/0}, statt stillschweigend übernommen zu werden"
+  },
+  "updatedAt": "2026-11-27T16:03:27.139Z"
+}
