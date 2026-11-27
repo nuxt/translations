@@ -2,7 +2,7 @@
   "version": 1,
   "source": "nuxt-4.x",
   "ref": "4.x",
-  "sha": "0ebdf1b647a7059620838d3e669ca23464e23c8b",
+  "sha": "fe710d0e9aa948a4210d038816b5c2556b439d20",
   "policy": "f6e446c627d4102c",
   "files": {
     "docs/.navigation.yml": [
@@ -6191,6 +6191,7 @@
       {"hash":"b69794c6174ab61b","kind":"list-item","format":"markdown","words":26,"skeleton":"{0}: Event emitted when the default slot of the component throws an error. For an error caught during server-side rendering, it is emitted on the server only.","placeholders":["code"]},
       {"hash":"4fd72c06bcff7971","kind":"heading","format":"markdown","words":1,"skeleton":"Slots"},
       {"hash":"cb8aa2083e180946","kind":"list-item","format":"markdown","words":10,"skeleton":"{0}: Specify a fallback content to display in case of error.","placeholders":["code"]},
+      {"hash":"c1d4cf69069cb393","kind":"list-item","format":"markdown","words":59,"skeleton":"The {0} prop is an {1} that may also carry {2}, {3}, {4}, {5} and {6}. A server-side error is always a {7}, so the fields exist, though {8}, {9} and {10} are {11} when Nuxt does not know them. An error thrown on the client is passed through as it was thrown, so the fields are only present when the thrown error carried them, for example an error created with {12}.","placeholders":["code","code","code","code","code","code","code","code","code","code","code","code","link"]},
       {"hash":"f07153494a77aa07","kind":"component-slot","format":"markdown","words":30,"skeleton":"The slot also exposes {0} as a deprecated alias of {1}. Use {2}: if a template does not destructure {3} from the slot props, it calls the auto-imported {4} instead, which clears the **global** error.","placeholders":["code","code","code","code","link"]},
       {"hash":"d029f87e3d80f8fd","kind":"heading","format":"markdown","words":1,"skeleton":"Example"},
       {"hash":"b5b5eea1101df26a","kind":"heading","format":"markdown","words":4,"skeleton":"Accessing {0} and {1} in Script","placeholders":["code","code"]},
@@ -7902,7 +7903,7 @@
       {"hash":"91de7d5e0a9ba9ff","kind":"list-item","format":"markdown","words":52,"skeleton":"Validate whether a given route can validly be rendered with this page. Return true if it is valid, or false if not. If another match can't be found, this will mean a 404. You can also directly return an object with {0}/{1} to respond immediately with an error (other matches will not be checked).","placeholders":["code","code"]},
       {"hash":"ca3756b08ccd10c5","kind":"list-item","format":"markdown","words":0,"skeleton":"**{0}**","placeholders":["code"]},
       {"hash":"332c963f865ed314","kind":"list-item","format":"markdown","words":1,"skeleton":"**Type**: {0}","placeholders":["code"]},
-      {"hash":"126846cf14f10322","kind":"list-item","format":"markdown","words":65,"skeleton":"Tell Nuxt to scroll to the top before rendering the page or not. Navigation is independent from rendering, so scroll behavior is always triggered even when the page doesn't re-render (e.g. when using a fixed {0}). Set {1} to disable scrolling in such cases. If you want to overwrite the default scroll behavior of Nuxt, you can do so in {2} (see {3}custom routing{/3}) for more info.","placeholders":["link","code","code","link"]},
+      {"hash":"126846cf14f10322","kind":"list-item","format":"markdown","words":65,"skeleton":"Tell Nuxt to scroll to the top before rendering the page or not. Navigation is independent from rendering, so scroll behavior is always triggered even when the page doesn't re-render (e.g. when using a fixed {0}). Set {1} to disable scrolling in such cases. If you want to overwrite the default scroll behavior of Nuxt, you can do so in {2} (see {3}custom routing{/3}) for more info.","placeholders":["code","code","code","link"]},
       {"hash":"ca3756b08ccd10c5","kind":"list-item","format":"markdown","words":0,"skeleton":"**{0}**","placeholders":["code"]},
       {"hash":"332c963f865ed314","kind":"list-item","format":"markdown","words":1,"skeleton":"**Type**: {0}","placeholders":["code"]},
       {"hash":"afbe8f7b0f0268d7","kind":"list-item","format":"markdown","words":28,"skeleton":"Apart from the above properties, you can also set **custom** metadata. You may wish to do so in a type-safe way by {0}augmenting the type of the {1} object{/0}.","placeholders":["link","code"]},
