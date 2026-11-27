@@ -2,7 +2,7 @@
   "version": 1,
   "source": "nuxt-fonts",
   "ref": "main",
-  "sha": "00dbe78880fa1f19c1a588ed42a4d2f629246472",
+  "sha": "1e9277773d6bb567f146eeb273d55706d3d7626c",
   "policy": "f6e446c627d4102c",
   "files": {
     "docs/.navigation.yml": [
@@ -86,6 +86,7 @@
       {"hash":"65ead872a86c94c9","kind":"paragraph","format":"markdown","words":40,"skeleton":"Each family is preloaded with the option given for it, which takes the same shape as the {0} option of a family. A family named in more than one rule is preloaded with the faces the first of them asks for.","placeholders":["link"]},
       {"hash":"88addca696a80c23","kind":"paragraph","format":"markdown","words":41,"skeleton":"The option of a family belongs either here or in the {0} option of the family, not in both. A family named in a rule is not preloaded on any other route, so an option set for it in {1} has no effect.","placeholders":["link","code"]},
       {"hash":"46e8c84043085df7","kind":"paragraph","format":"markdown","words":41,"skeleton":"The font files of a family restricted to route rules are preloaded by the server, as their URLs are only known once the fonts have been resolved. The preload is therefore only rendered in the HTML of the routes that match."},
+      {"hash":"77328bd2c4d3a0b2","kind":"paragraph","format":"markdown","words":27,"skeleton":"This needs a Nitro server. With another server builder, such as {0}, font preloads in route rules are ignored and each family is preloaded as its {1} option sets.","placeholders":["code","link"]},
       {"hash":"a00644508de97e85","kind":"heading","format":"markdown","words":0,"skeleton":"{0}","placeholders":["code"]},
       {"hash":"70b8c07e18dcec46","kind":"paragraph","format":"markdown","words":11,"skeleton":"Default: *None* ({0} when the resolved font data does not specify one)","placeholders":["code"]},
       {"hash":"5cbcd3b137bd4c9c","kind":"paragraph","format":"markdown","words":17,"skeleton":"Defines the {0} descriptor of every {1} generated for the given font family, overriding any value the provider returns.","placeholders":["code","code"]},

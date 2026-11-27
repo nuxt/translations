@@ -1,0 +1,14 @@
+{
+  "hash": "77328bd2c4d3a0b2",
+  "source": "This needs a Nitro server. With another server builder, such as {0}, font preloads in route rules are ignored and each family is preloaded as its {1} option sets.",
+  "text": "Cela nécessite un serveur Nitro. Avec un autre constructeur de serveur, tel que {0}, les préchargements de polices définis dans les règles de route sont ignorés et chaque famille est préchargée selon ce que définit son option {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela nécessite un serveur Nitro. Avec un autre constructeur de serveur, tel que {0}, les préchargements de polices définis dans les règles de route sont ignorés et chaque famille est préchargée selon ce que définit son option {1}."
+  },
+  "updatedAt": "2026-11-27T20:16:53.660Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "77328bd2c4d3a0b2",
+  "source": "This needs a Nitro server. With another server builder, such as {0}, font preloads in route rules are ignored and each family is preloaded as its {1} option sets.",
+  "text": "Dafür wird ein Nitro-Server benötigt. Bei einem anderen Server-Builder wie {0} werden Font-Preloads in Routenregeln ignoriert, und jede Schriftfamilie wird so vorgeladen, wie es ihre {1}-Option festlegt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dafür wird ein Nitro-Server benötigt. Bei einem anderen Server-Builder wie {0} werden Font-Preloads in Routenregeln ignoriert, und jede Schriftfamilie wird so vorgeladen, wie es ihre {1}-Option festlegt."
+  },
+  "updatedAt": "2026-11-27T20:16:53.660Z"
+}
