@@ -2,7 +2,7 @@
   "version": 1,
   "source": "nuxt-main",
   "ref": "main",
-  "sha": "65da378949fa162673e85f7a33737508e352da00",
+  "sha": "f3ff1d55ca361023d3096b9ec259135f0500bf18",
   "policy": "f6e446c627d4102c",
   "files": {
     "docs/.navigation.yml": [
@@ -4732,7 +4732,7 @@
       {"hash":"f0c3c3967c20dea6","kind":"heading","format":"markdown","words":4,"skeleton":"Notable Changes in Nitro"},
       {"hash":"25fdfc23d864426c","kind":"paragraph","format":"markdown","words":14,"skeleton":"These behaviors changed with Nitro v3 and may require further updates in your code:"},
       {"hash":"d56fdef903640b32","kind":"list-item","format":"markdown","words":57,"skeleton":"**Routed middleware no longer runs for subpaths.** {0} v2 mounted middleware with a route so that it ran for that route *and* everything below it (such as {1}), with the route stripped from {2}. Nitro v3 matches it exactly, like any other handler. When updating, widen the {3} to {4} if you mean to cover both, and read the full path from {5}.","placeholders":["code","code","code","code","code","code"]},
-      {"hash":"2e48f6099ca06646","kind":"list-item","format":"markdown","words":34,"skeleton":"**A handler registered with no {0} was global middleware.** Nitro v3 requires a route. If you need middleware, register it with {1} and an explicit route, even if it is intended to run on every path {2}.","placeholders":["code","code","code"]},
+      {"hash":"d3a2d6cca858b1e4","kind":"list-item","format":"markdown","words":56,"skeleton":"**A handler registered with no {0} was global middleware.** Nitro v3 requires a route, so Nuxt registers a handler without one as middleware on {1}. Set {2} to declare that, and leave {3} unset unless the handler should not run on every path. On a Nitro v2 host a middleware {4} is a literal path prefix, so {5} would match nothing there.","placeholders":["code","code","code","code","code","code"]},
       {"hash":"be65dbaf4c4b771c","kind":"list-item","format":"markdown","words":43,"skeleton":"**{0} and {1} are not Nitro v3 hooks.** They will work in the compatibility layer, but you should move to the {2} hook, which receives the built {3}. Note that (even with the compatibility layer) a hook that replaces {4}, or reads it while streaming, is not supported.","placeholders":["code","code","code","code","code"]},
       {"hash":"b82b0a6f906cb85c","kind":"list-item","format":"markdown","words":20,"skeleton":"**{0} is not present in Nitro 3.** For a route of the app, use {1} from {2}. You can also use {3} or import {4} from {5}.","placeholders":["code","code","code","code","code","code"]},
       {"hash":"256be74e9ef24cb8","kind":"list-item","format":"markdown","words":32,"skeleton":"**{0} is no longer the server entry.** Nitro v2 rewrote it to a global pointing at the entry, but Nitro v3 emits the real value. Resolve assets from a path you control instead.","placeholders":["code"]}

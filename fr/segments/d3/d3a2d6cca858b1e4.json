@@ -1,0 +1,14 @@
+{
+  "hash": "d3a2d6cca858b1e4",
+  "source": "**A handler registered with no {0} was global middleware.** Nitro v3 requires a route, so Nuxt registers a handler without one as middleware on {1}. Set {2} to declare that, and leave {3} unset unless the handler should not run on every path. On a Nitro v2 host a middleware {4} is a literal path prefix, so {5} would match nothing there.",
+  "text": "**Un handler enregistré sans {0} était un middleware global.** Nitro v3 exige une route, donc Nuxt enregistre un handler sans route comme middleware sur {1}. Définissez {2} pour le déclarer, et laissez {3} non défini, sauf si le handler ne doit pas s'exécuter sur chaque chemin. Sur un hôte Nitro v2, le {4} d'un middleware est un préfixe de chemin littéral, donc {5} n'y correspondrait à rien.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Un handler enregistré sans {0} était un middleware global.** Nitro v3 exige une route, donc Nuxt enregistre un handler sans route comme middleware sur {1}. Définissez {2} pour le déclarer, et laissez {3} non défini, sauf si le handler ne doit pas s'exécuter sur chaque chemin. Sur un hôte Nitro v2, le {4} d'un middleware est un préfixe de chemin littéral, donc {5} n'y correspondrait à rien."
+  },
+  "updatedAt": "2026-11-27T19:14:31.636Z"
+}
