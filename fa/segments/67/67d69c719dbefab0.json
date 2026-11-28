@@ -1,0 +1,13 @@
+{
+  "hash": "67d69c719dbefab0",
+  "source": "{0}, {1} and {2} are Vue refs accessible with {3} in {4}",
+  "text": "{0}، {1} و {2}، ref‌های Vue هستند که در {4} با {3} در دسترس‌اند.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "{0}، {1} و {2}، refهای Vue هستند که در {4} با {3} در دسترس‌اند."
+  },
+  "updatedAt": "2026-11-23T18:11:52.728Z"
+}

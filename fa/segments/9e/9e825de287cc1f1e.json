@@ -1,0 +1,13 @@
+{
+  "hash": "9e825de287cc1f1e",
+  "source": "Usage with Pinia",
+  "text": "استفاده با Pinia",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "استفاده با Pinia"
+  },
+  "updatedAt": "2026-11-23T17:51:31.624Z"
+}

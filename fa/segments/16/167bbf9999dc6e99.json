@@ -1,0 +1,13 @@
+{
+  "hash": "167bbf9999dc6e99",
+  "source": "For finer control, the {0} variable can be:",
+  "text": "برای کنترل دقیق‌تر، متغیر {0} می‌تواند این مقادیر را داشته باشد:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "برای کنترل دقیق‌تر، متغیر {0} می‌تواند این مقادیر را داشته باشد:"
+  },
+  "updatedAt": "2026-11-23T17:50:28.847Z"
+}

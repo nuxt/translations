@@ -1,0 +1,13 @@
+{
+  "hash": "ed18f2f148576764",
+  "source": "Anonymous (or inline) route middleware, which are defined directly in the pages where they are used.",
+  "text": "Middleware بی‌نام (یا درون‌خطی) مربوط به Route که مستقیماً در صفحهٔ محل استفاده تعریف می‌شود.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Middleware بی‌نام (یا درون‌خطی) مربوط به Route که مستقیماً در صفحهٔ محل استفاده تعریف می‌شود."
+  },
+  "updatedAt": "2026-11-23T17:47:08.620Z"
+}

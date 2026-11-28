@@ -1,0 +1,13 @@
+{
+  "hash": "32cdb6b1a7cceee4",
+  "source": "Nuxt uses conventions and an opinionated directory structure to automate repetitive tasks and allow developers to focus on pushing features. The configuration file can still customize and override its default behaviors.",
+  "text": "Nuxt با استفاده از قراردادها و ساختار پوشه‌های از پیش تعیین‌شده، کارهای تکراری را خودکار می‌کند تا توسعه‌دهندگان بتوانند روی ارائهٔ قابلیت‌ها تمرکز کنند. همچنان می‌توانید با فایل پیکربندی، رفتارهای پیش‌فرض را سفارشی‌سازی یا بازنویسی کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Nuxt با استفاده از قراردادها و ساختار پوشه‌های از پیش تعیین‌شده، کارهای تکراری را خودکار می‌کند تا توسعه‌دهندگان بتوانند روی ارائهٔ قابلیت‌ها تمرکز کنند. همچنان می‌توانید با فایل پیکربندی، رفتارهای پیش‌فرض را سفارشی‌سازی یا بازنویسی کنید."
+  },
+  "updatedAt": "2026-11-23T17:47:08.478Z"
+}

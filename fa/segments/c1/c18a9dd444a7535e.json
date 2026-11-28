@@ -1,0 +1,13 @@
+{
+  "hash": "c18a9dd444a7535e",
+  "source": "Nuxt's goal is to make web development intuitive and performant with a great Developer Experience in mind.",
+  "text": "هدف Nuxt این است که با در نظر گرفتن تجربه‌ای عالی برای توسعه‌دهندگان، توسعهٔ وب را روان و کارآمد کند.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "هدف Nuxt این است که با در نظر گرفتن تجربه‌ای عالی برای توسعه‌دهندگان، توسعهٔ وب را روان و کارآمد کند."
+  },
+  "updatedAt": "2026-11-23T17:47:08.475Z"
+}

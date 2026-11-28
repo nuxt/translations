@@ -1,0 +1,13 @@
+{
+  "hash": "08582f14c8488fd0",
+  "source": "isAuthenticated() is an example method verifying if a user is authenticated",
+  "text": "isAuthenticated() یک متد نمونه برای بررسی احراز هویت کاربر است",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "isAuthenticated() یک متد نمونه برای بررسی احراز هویت کاربر است"
+  },
+  "updatedAt": "2026-11-23T17:47:08.625Z"
+}

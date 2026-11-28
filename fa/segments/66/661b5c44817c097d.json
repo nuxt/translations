@@ -1,0 +1,13 @@
+{
+  "hash": "661b5c44817c097d",
+  "source": "Both endpoints and middleware can be defined like this:",
+  "text": "Endpoint‌ها و Middleware را می‌توان به این شکل تعریف کرد:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Endpointها و Middleware را می‌توان به این شکل تعریف کرد:"
+  },
+  "updatedAt": "2026-11-23T18:11:52.758Z"
+}

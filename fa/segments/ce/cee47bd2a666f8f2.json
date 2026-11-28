@@ -1,0 +1,13 @@
+{
+  "hash": "cee47bd2a666f8f2",
+  "source": "Use {0} key in {1}",
+  "text": "از کلید {0} در {1} استفاده کنید",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "از کلید {0} در {1} استفاده کنید"
+  },
+  "updatedAt": "2026-11-23T17:47:08.533Z"
+}

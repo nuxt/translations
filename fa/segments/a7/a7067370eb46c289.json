@@ -1,0 +1,13 @@
+{
+  "hash": "a7067370eb46c289",
+  "source": "Nuxt comes with two composables and a built-in library to perform data-fetching in browser or server environments: {0}, {1} and {2}.",
+  "text": "Nuxt دو Composable و یک کتابخانهٔ داخلی برای دریافت داده در محیط مرورگر یا سرور دارد: {0}، {1} و {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Nuxt دو Composable و یک کتابخانهٔ داخلی برای دریافت داده در محیط مرورگر یا سرور دارد: {0}، {1} و {2}."
+  },
+  "updatedAt": "2026-11-23T17:50:28.781Z"
+}

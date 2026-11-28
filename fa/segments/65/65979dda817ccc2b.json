@@ -1,0 +1,13 @@
+{
+  "hash": "65979dda817ccc2b",
+  "source": "Nuxt applications have a specific directory structure that is used to organize the code. This structure is designed to be easy to understand and to be used in a consistent way.",
+  "text": "برنامه‌های Nuxt ساختار پوشه‌های مشخصی دارند که برای سازمان‌دهی کد استفاده می‌شود. این ساختار طوری طراحی شده است که درک آن آسان باشد و بتوان به‌شکلی یکسان از آن استفاده کرد.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "برنامه‌های Nuxt ساختار پوشه‌های مشخصی دارند که برای سازمان‌دهی کد استفاده می‌شود. این ساختار طوری طراحی شده است که درک آن آسان باشد و بتوان به‌شکلی یکسان از آن استفاده کرد."
+  },
+  "updatedAt": "2026-11-23T17:47:08.567Z"
+}

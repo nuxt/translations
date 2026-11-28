@@ -1,0 +1,13 @@
+{
+  "hash": "dc18e636721942b6",
+  "source": "Nuxt is composed of different {0}core packages{/0}:",
+  "text": "Nuxt از چند {0}پکیج اصلی{/0} تشکیل شده است:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Nuxt از چند {0}پکیج اصلی{/0} تشکیل شده است:"
+  },
+  "updatedAt": "2026-11-23T17:47:08.494Z"
+}

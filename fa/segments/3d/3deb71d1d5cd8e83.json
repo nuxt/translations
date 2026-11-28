@@ -1,0 +1,13 @@
+{
+  "hash": "3deb71d1d5cd8e83",
+  "source": "{0} is a wrapper around {1} that fetches data only once in {2}universal rendering{/2}.",
+  "text": "{0} یک Wrapper برای {1} است که در {2}رندر یونیورسال{/2} داده را فقط یک بار دریافت می‌کند.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "{0} یک Wrapper برای {1} است که در {2}رندر یونیورسال{/2} داده را فقط یک بار دریافت می‌کند."
+  },
+  "updatedAt": "2026-11-23T17:50:28.782Z"
+}

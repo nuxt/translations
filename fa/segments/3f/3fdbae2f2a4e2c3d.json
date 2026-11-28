@@ -1,0 +1,13 @@
+{
+  "hash": "3fdbae2f2a4e2c3d",
+  "source": "{0}: Private or public tokens that need to be specified after build using environment variables.",
+  "text": "{0}: توکن‌های خصوصی یا عمومی که باید پس از Build با استفاده از متغیرهای محیطی تعیین شوند.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "{0}: توکن‌های خصوصی یا عمومی که باید پس از Build با استفاده از متغیرهای محیطی تعیین شوند."
+  },
+  "updatedAt": "2026-11-23T17:47:08.525Z"
+}

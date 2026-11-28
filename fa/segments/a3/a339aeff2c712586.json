@@ -1,0 +1,13 @@
+{
+  "hash": "a339aeff2c712586",
+  "source": "Nuxt's server is {0}Nitro{/0}. It was originally created for Nuxt but is now part of {1}UnJS{/1} and open for other frameworks - and can even be used on its own.",
+  "text": "سرور Nuxt، {0}Nitro{/0} است. ابتدا برای Nuxt ساخته شد، اما اکنون بخشی از {1}UnJS{/1} است و فریم‌ورک‌های دیگر هم می‌توانند از آن استفاده کنند؛ حتی می‌توان آن را به‌تنهایی به کار برد.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "سرور Nuxt، {0}Nitro{/0} است. ابتدا برای Nuxt ساخته شد، اما اکنون بخشی از {1}UnJS{/1} است و فریم‌ورک‌های دیگر هم می‌توانند از آن استفاده کنند؛ حتی می‌توان آن را به‌تنهایی به کار برد."
+  },
+  "updatedAt": "2026-11-23T17:51:31.631Z"
+}

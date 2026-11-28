@@ -1,0 +1,13 @@
+{
+  "hash": "628ae6436cdf208d",
+  "source": "If you're using Docker or want a consistent development environment across machines, consider using a dev container. {0}Learn more about dev containers.{/0}",
+  "text": "اگر از Docker استفاده می‌کنید یا می‌خواهید محیط توسعه در دستگاه‌های مختلف یکسان باشد، استفاده از Dev Container را در نظر بگیرید. {0}دربارهٔ Dev Container‌ها بیشتر بدانید.{/0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "اگر از Docker استفاده می‌کنید یا می‌خواهید محیط توسعه در دستگاه‌های مختلف یکسان باشد، استفاده از Dev Container را در نظر بگیرید. {0}دربارهٔ Dev Containerها بیشتر بدانید.{/0}"
+  },
+  "updatedAt": "2026-11-23T18:11:52.667Z"
+}

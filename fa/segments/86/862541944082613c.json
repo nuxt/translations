@@ -1,0 +1,13 @@
+{
+  "hash": "862541944082613c",
+  "source": "Nuxt offers route validation via the {0} property in {1} in each page you wish to validate.",
+  "text": "Nuxt در هر صفحه‌ای که می‌خواهید اعتبارسنجی کنید، با ویژگی {0} در {1} امکان اعتبارسنجی Route را فراهم می‌کند.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Nuxt در هر صفحه‌ای که می‌خواهید اعتبارسنجی کنید، با ویژگی {0} در {1} امکان اعتبارسنجی Route را فراهم می‌کند."
+  },
+  "updatedAt": "2026-11-23T17:47:08.627Z"
+}

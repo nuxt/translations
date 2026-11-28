@@ -1,0 +1,13 @@
+{
+  "hash": "91d901ff19ddf210",
+  "source": "Server engine: {0}nitro{/0}",
+  "text": "موتور سرور: {0}nitro{/0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "موتور سرور: {0}nitro{/0}"
+  },
+  "updatedAt": "2026-11-23T17:47:08.495Z"
+}

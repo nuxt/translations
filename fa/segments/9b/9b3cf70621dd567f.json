@@ -1,0 +1,13 @@
+{
+  "hash": "9b3cf70621dd567f",
+  "source": "This method does not allow you to provide reactive data. We recommend using {0} in {1}.",
+  "text": "این روش امکان استفاده از داده‌های واکنش‌پذیر را نمی‌دهد. پیشنهاد می‌کنیم از {0} در {1} استفاده کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "این روش امکان استفاده از داده‌های واکنش‌پذیر را نمی‌دهد. پیشنهاد می‌کنیم از {0} در {1} استفاده کنید."
+  },
+  "updatedAt": "2026-11-23T17:47:08.638Z"
+}

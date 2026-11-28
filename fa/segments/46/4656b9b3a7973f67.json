@@ -1,0 +1,13 @@
+{
+  "hash": "4656b9b3a7973f67",
+  "source": "Nitro is internally using {0}h3{/0}, a minimal HTTP framework built for high performance and portability.",
+  "text": "Nitro در داخل خود از {0}h3{/0} استفاده می‌کند؛ یک فریم‌ورک حداقلی HTTP که برای عملکرد بالا و قابلیت اجرا در محیط‌های مختلف ساخته شده است.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Nitro در داخل خود از {0}h3{/0} استفاده می‌کند؛ یک فریم‌ورک حداقلی HTTP که برای عملکرد بالا و قابلیت اجرا در محیط‌های مختلف ساخته شده است."
+  },
+  "updatedAt": "2026-11-23T17:51:31.634Z"
+}

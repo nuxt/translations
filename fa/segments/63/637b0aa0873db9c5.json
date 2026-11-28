@@ -1,0 +1,13 @@
+{
+  "hash": "637b0aa0873db9c5",
+  "source": "form input tags",
+  "text": "تگ‌های ورودی فرم",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "تگ‌های ورودی فرم"
+  },
+  "updatedAt": "2026-11-23T17:50:28.785Z"
+}

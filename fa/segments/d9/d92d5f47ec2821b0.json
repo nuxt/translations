@@ -1,0 +1,13 @@
+{
+  "hash": "d92d5f47ec2821b0",
+  "source": "{0}: Vue components of the application",
+  "text": "{0}: کامپوننت‌های Vue برنامه",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "{0}: کامپوننت‌های Vue برنامه"
+  },
+  "updatedAt": "2026-11-23T17:47:08.570Z"
+}

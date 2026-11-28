@@ -1,0 +1,13 @@
+{
+  "hash": "8709128a7325db77",
+  "source": "However, when calling {0} with a relative URL on the server, Nuxt will use {1} to proxy headers and cookies (with the exception of headers not meant to be forwarded, like {2}).",
+  "text": "اما هنگام فراخوانی {0} با URL نسبی در سرور، Nuxt از {1} برای انتقال Header‌ها و کوکی‌ها استفاده می‌کند؛ به‌جز Header‌هایی مانند {2} که نباید منتقل شوند.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "اما هنگام فراخوانی {0} با URL نسبی در سرور، Nuxt از {1} برای انتقال Headerها و کوکی‌ها استفاده می‌کند؛ به‌جز Headerهایی مانند {2} که نباید منتقل شوند."
+  },
+  "updatedAt": "2026-11-23T18:11:52.744Z"
+}

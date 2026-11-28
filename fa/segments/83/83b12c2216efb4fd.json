@@ -1,0 +1,13 @@
+{
+  "hash": "83b12c2216efb4fd",
+  "source": "Clear",
+  "text": "پاک کردن",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "پاک کردن"
+  },
+  "updatedAt": "2026-11-23T17:50:28.829Z"
+}

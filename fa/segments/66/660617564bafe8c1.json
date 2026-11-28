@@ -1,0 +1,13 @@
+{
+  "hash": "660617564bafe8c1",
+  "source": "**Server-side rendering out of the box:** Nuxt comes with built-in SSR capabilities, so you don't have to set up a separate server yourself.",
+  "text": "**رندر سمت سرور بدون تنظیمات اضافی:** Nuxt قابلیت‌های SSR را به‌صورت داخلی ارائه می‌کند، بنابراین نیازی نیست خودتان سروری جداگانه راه‌اندازی کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "**رندر سمت سرور بدون تنظیمات اضافی:** Nuxt قابلیت‌های SSR را به‌صورت داخلی ارائه می‌کند، بنابراین نیازی نیست خودتان سروری جداگانه راه‌اندازی کنید."
+  },
+  "updatedAt": "2026-11-23T17:47:08.480Z"
+}

@@ -1,0 +1,13 @@
+{
+  "hash": "fcf855dfb18d2dcb",
+  "source": "Server engine",
+  "text": "موتور سرور",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "موتور سرور"
+  },
+  "updatedAt": "2026-11-23T17:47:08.487Z"
+}

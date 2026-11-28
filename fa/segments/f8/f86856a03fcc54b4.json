@@ -1,0 +1,13 @@
+{
+  "hash": "f86856a03fcc54b4",
+  "source": "If you need more control or map over several objects, you can use the {0} function to alter the result of the query.",
+  "text": "اگر به کنترل بیشتر یا اجرای map روی چند آبجکت نیاز دارید، می‌توانید با تابع {0} نتیجهٔ Query را تغییر دهید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "اگر به کنترل بیشتر یا اجرای map روی چند آبجکت نیاز دارید، می‌توانید با تابع {0} نتیجهٔ Query را تغییر دهید."
+  },
+  "updatedAt": "2026-11-23T17:50:28.807Z"
+}

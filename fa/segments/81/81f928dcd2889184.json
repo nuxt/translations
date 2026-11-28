@@ -1,0 +1,13 @@
+{
+  "hash": "81f928dcd2889184",
+  "source": "It's good practice to set tags here that won't change such as your site title default, language and favicon.",
+  "text": "بهتر است تگ‌هایی را که تغییر نمی‌کنند، مانند عنوان پیش‌فرض سایت، زبان و Favicon، در اینجا تنظیم کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "بهتر است تگ‌هایی را که تغییر نمی‌کنند، مانند عنوان پیش‌فرض سایت، زبان و Favicon، در اینجا تنظیم کنید."
+  },
+  "updatedAt": "2026-11-23T17:47:08.639Z"
+}

@@ -1,0 +1,13 @@
+{
+  "hash": "269efad1c5448cf4",
+  "source": "If you're consuming SSE via GET request, you can use {0} or VueUse composable {1}.",
+  "text": "اگر SSE را با درخواست GET دریافت می‌کنید، می‌توانید از {0} یا Composable {1} در VueUse استفاده کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "اگر SSE را با درخواست GET دریافت می‌کنید، می‌توانید از {0} یا Composable مربوط به {1} در VueUse استفاده کنید."
+  },
+  "updatedAt": "2026-11-23T18:11:52.749Z"
+}

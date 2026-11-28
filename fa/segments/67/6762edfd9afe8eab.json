@@ -1,0 +1,13 @@
+{
+  "hash": "6762edfd9afe8eab",
+  "source": "Now that you've created your Nuxt project, you are ready to start building your application.",
+  "text": "حالا که پروژهٔ Nuxt خود را ایجاد کرده‌اید، آماده‌اید ساخت برنامه را شروع کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "حالا که پروژهٔ Nuxt خود را ایجاد کرده‌اید، آماده‌اید ساخت برنامه را شروع کنید."
+  },
+  "updatedAt": "2026-11-23T17:47:08.513Z"
+}

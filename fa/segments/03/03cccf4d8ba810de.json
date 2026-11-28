@@ -1,0 +1,13 @@
+{
+  "hash": "03cccf4d8ba810de",
+  "source": "**Improved SEO:** search engines can better index SSR pages because the HTML content is available immediately, rather than requiring JavaScript to render the content on the client-side.",
+  "text": "**SEO بهتر:** موتورهای جست‌وجو می‌توانند صفحه‌های SSR را بهتر ایندکس کنند، زیرا محتوای HTML بلافاصله در دسترس است و نیازی نیست JavaScript آن را در سمت کلاینت رندر کند.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "**SEO بهتر:** موتورهای جست‌وجو می‌توانند صفحه‌های SSR را بهتر ایندکس کنند، زیرا محتوای HTML بلافاصله در دسترس است و نیازی نیست JavaScript آن را در سمت کلاینت رندر کند."
+  },
+  "updatedAt": "2026-11-23T17:47:08.484Z"
+}

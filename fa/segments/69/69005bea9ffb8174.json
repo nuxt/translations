@@ -1,0 +1,13 @@
+{
+  "hash": "69005bea9ffb8174",
+  "source": "The {0} API exposes values like environment variables to the rest of your application. By default, these keys are only available server-side. The keys within {1} and {2} (which is used by Nuxt internally) are also available client-side.",
+  "text": "API {0}، مقادیری مانند متغیرهای محیطی را در اختیار بخش‌های دیگر برنامه قرار می‌دهد. به‌صورت پیش‌فرض، این کلیدها فقط در سمت سرور در دسترس‌اند. کلیدهای داخل {1} و {2} (که Nuxt از آن در داخل خود استفاده می‌کند) در سمت کلاینت هم در دسترس‌اند.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "API مربوط به {0}، مقادیری مانند متغیرهای محیطی را در اختیار بخش‌های دیگر برنامه قرار می‌دهد. به‌صورت پیش‌فرض، این کلیدها فقط در سمت سرور در دسترس‌اند. کلیدهای داخل {1} و {2} (که Nuxt از آن در داخل خود استفاده می‌کند) در سمت کلاینت هم در دسترس‌اند."
+  },
+  "updatedAt": "2026-11-23T18:11:52.671Z"
+}

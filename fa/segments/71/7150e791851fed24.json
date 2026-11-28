@@ -1,0 +1,13 @@
+{
+  "hash": "7150e791851fed24",
+  "source": "The app.vue file is the entry point of your application",
+  "text": "فایل app.vue نقطهٔ ورود برنامهٔ شماست",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "فایل app.vue نقطهٔ ورود برنامهٔ شماست"
+  },
+  "updatedAt": "2026-11-23T17:47:08.542Z"
+}

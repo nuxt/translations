@@ -1,0 +1,13 @@
+{
+  "hash": "f55617cd46173e1f",
+  "source": "While using {0} is recommended in all cases, you may have a personal preference for defining your head tags in your template using components.",
+  "text": "اگرچه استفاده از {0} در همهٔ موارد توصیه می‌شود، ممکن است ترجیح دهید تگ‌های head را با کامپوننت‌ها در قالب تعریف کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "اگرچه استفاده از {0} در همهٔ موارد توصیه می‌شود، ممکن است ترجیح دهید تگ‌های head را با کامپوننت‌ها در قالب تعریف کنید."
+  },
+  "updatedAt": "2026-11-23T17:47:08.650Z"
+}

@@ -1,0 +1,13 @@
+{
+  "hash": "50b6cb0642d1ee1d",
+  "source": "The {0} composable will start fetching data the moment it is invoked. You may prevent this by setting {1}, for example, to wait for user interaction.",
+  "text": "Composable {0} به‌محض فراخوانی، دریافت داده را شروع می‌کند. می‌توانید با تنظیم {1} از این کار جلوگیری کنید؛ برای مثال تا منتظر تعامل کاربر بمانید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Composable مربوط به {0} به‌محض فراخوانی، دریافت داده را شروع می‌کند. می‌توانید با تنظیم {1} از این کار جلوگیری کنید؛ برای مثال تا منتظر تعامل کاربر بمانید."
+  },
+  "updatedAt": "2026-11-23T18:11:52.742Z"
+}

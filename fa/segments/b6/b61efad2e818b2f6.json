@@ -1,0 +1,13 @@
+{
+  "hash": "b61efad2e818b2f6",
+  "source": "Nuxt Configuration",
+  "text": "پیکربندی Nuxt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "پیکربندی Nuxt"
+  },
+  "updatedAt": "2026-11-23T17:47:08.516Z"
+}

@@ -1,0 +1,13 @@
+{
+  "hash": "ca0c96f6206d988b",
+  "source": "We recommend taking a look at the {0} and {1} composables.",
+  "text": "پیشنهاد می‌کنیم Composable‌های {0} و {1} را بررسی کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "پیشنهاد می‌کنیم Composableهای {0} و {1} را بررسی کنید."
+  },
+  "updatedAt": "2026-11-23T18:11:52.696Z"
+}

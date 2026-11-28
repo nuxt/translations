@@ -1,0 +1,13 @@
+{
+  "hash": "d7929583ba975ea3",
+  "source": "Nuxt provides the following components for this purpose: {0}, {1}, {2}, {3}, {4}, {5}, {6}, {7} and {8}. Note the capitalization of these components ensuring we don't use invalid native HTML tags.",
+  "text": "Nuxt برای این کار کامپوننت‌های زیر را ارائه می‌کند: {0}، {1}، {2}، {3}، {4}، {5}، {6}، {7} و {8}. به بزرگی حروف نام این کامپوننت‌ها توجه کنید تا از تگ‌های بومی نامعتبر HTML استفاده نکنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Nuxt برای این کار کامپوننت‌های زیر را ارائه می‌کند: {0}، {1}، {2}، {3}، {4}، {5}، {6}، {7} و {8}. به بزرگی حروف نام این کامپوننت‌ها توجه کنید تا از تگ‌های بومی نامعتبر HTML استفاده نکنید."
+  },
+  "updatedAt": "2026-11-23T17:47:08.651Z"
+}

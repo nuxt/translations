@@ -1,0 +1,13 @@
+{
+  "hash": "eb42f194e060b86a",
+  "source": "By default, Nuxt will treat this file as the **entrypoint** and render its content for every route of the application.",
+  "text": "Nuxt به‌صورت پیش‌فرض این فایل را **نقطهٔ ورود** در نظر می‌گیرد و محتوای آن را برای همهٔ Route‌های برنامه رندر می‌کند.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Nuxt به‌صورت پیش‌فرض این فایل را **نقطهٔ ورود** در نظر می‌گیرد و محتوای آن را برای همهٔ Routeهای برنامه رندر می‌کند."
+  },
+  "updatedAt": "2026-11-23T18:11:52.677Z"
+}

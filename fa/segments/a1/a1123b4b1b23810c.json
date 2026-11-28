@@ -1,0 +1,13 @@
+{
+  "hash": "a1123b4b1b23810c",
+  "source": "Play Online",
+  "text": "آزمایش آنلاین",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "آزمایش آنلاین"
+  },
+  "updatedAt": "2026-11-23T17:47:08.497Z"
+}

@@ -1,0 +1,13 @@
+{
+  "hash": "b59ecf54339d2b73",
+  "source": "To use pages, create an {0} file and add {1} component to the {2} (or remove {3} for default entry). You can now create more pages and their corresponding routes by adding new files in the {4} directory.",
+  "text": "برای استفاده از صفحه‌ها، یک فایل {0} ایجاد کنید و کامپوننت {1} را به {2} اضافه کنید (یا برای استفاده از ورودی پیش‌فرض، {3} را حذف کنید). سپس با اضافه کردن فایل‌های جدید در پوشهٔ {4} می‌توانید صفحه‌های بیشتر و Route‌های متناظرشان را ایجاد کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "برای استفاده از صفحه‌ها، یک فایل {0} ایجاد کنید و کامپوننت {1} را به {2} اضافه کنید (یا برای استفاده از ورودی پیش‌فرض، {3} را حذف کنید). سپس با اضافه کردن فایل‌های جدید در پوشهٔ {4} می‌توانید صفحه‌های بیشتر و Routeهای متناظرشان را ایجاد کنید."
+  },
+  "updatedAt": "2026-11-23T18:11:52.678Z"
+}

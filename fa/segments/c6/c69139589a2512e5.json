@@ -1,0 +1,13 @@
+{
+  "hash": "c69139589a2512e5",
+  "source": "{0}: run code before navigating to a particular route",
+  "text": "{0}: پیش از رفتن به یک Route مشخص، کد اجرا کنید",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "{0}: اجرای کد پیش از رفتن به یک Route مشخص"
+  },
+  "updatedAt": "2026-11-23T18:11:52.683Z"
+}

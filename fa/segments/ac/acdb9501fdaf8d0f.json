@@ -1,0 +1,13 @@
+{
+  "hash": "acdb9501fdaf8d0f",
+  "source": "If you want to create more layouts and learn how to use them in your pages, find more information in the {0}Layouts section{/0}.",
+  "text": "اگر می‌خواهید Layout‌های بیشتری ایجاد کنید و با استفاده از آن‌ها در صفحه‌ها آشنا شوید، اطلاعات بیشتر را در {0}بخش Layout‌ها{/0} بخوانید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "اگر می‌خواهید Layoutهای بیشتری ایجاد کنید و با استفاده از آن‌ها در صفحه‌ها آشنا شوید، اطلاعات بیشتر را در {0}بخش Layoutها{/0} بخوانید."
+  },
+  "updatedAt": "2026-11-23T18:11:52.680Z"
+}

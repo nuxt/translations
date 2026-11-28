@@ -1,0 +1,13 @@
+{
+  "hash": "d1e4ca6ad9c92955",
+  "source": "A module system allows you to extend Nuxt with custom features and integrations with third-party services.",
+  "text": "سیستم ماژول‌ها به شما امکان می‌دهد Nuxt را با قابلیت‌های سفارشی و اتصال به سرویس‌های شخص ثالث گسترش دهید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "سیستم ماژول‌ها به شما امکان می‌دهد Nuxt را با قابلیت‌های سفارشی و اتصال به سرویس‌های شخص ثالث گسترش دهید."
+  },
+  "updatedAt": "2026-11-23T17:47:08.493Z"
+}

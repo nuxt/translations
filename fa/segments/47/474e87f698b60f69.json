@@ -1,0 +1,13 @@
+{
+  "hash": "474e87f698b60f69",
+  "source": "The {0} function is an alias for {1} that works in exactly the same way but is more semantic for cases when the fetch is {2}not immediate{/2}.",
+  "text": "تابع {0} نام مستعار {1} است و دقیقاً به همان شکل کار می‌کند، اما برای مواردی که دریافت داده {2}بلافاصله انجام نمی‌شود{/2}، نام مناسب‌تری دارد.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "تابع {0} نام مستعار {1} است و دقیقاً به همان شکل کار می‌کند، اما برای مواردی که دریافت داده {2}بلافاصله انجام نمی‌شود{/2}، نام مناسب‌تری دارد."
+  },
+  "updatedAt": "2026-11-23T17:50:28.828Z"
+}

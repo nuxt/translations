@@ -1,0 +1,13 @@
+{
+  "hash": "8c19a6fa50b71399",
+  "source": "Online playground with code editor and terminal access.",
+  "text": "محیط آزمایشی آنلاین با ویرایشگر کد و دسترسی به ترمینال.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "محیط آزمایشی آنلاین با ویرایشگر کد و دسترسی به ترمینال."
+  },
+  "updatedAt": "2026-11-23T17:47:08.498Z"
+}

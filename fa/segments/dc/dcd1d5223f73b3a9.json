@@ -1,0 +1,13 @@
+{
+  "hash": "dcd1d5223f73b3a9",
+  "source": "Name",
+  "text": "نام",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "نام"
+  },
+  "updatedAt": "2026-11-23T17:47:08.532Z"
+}

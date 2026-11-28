@@ -1,0 +1,13 @@
+{
+  "hash": "b545026bb61c7c46",
+  "source": "{0} file is used to ignore files in the root directory during the build phase.",
+  "text": "فایل {0} برای نادیده گرفتن فایل‌های پوشهٔ ریشه در مرحلهٔ Build استفاده می‌شود.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "فایل {0} برای نادیده گرفتن فایل‌های پوشهٔ ریشه در مرحلهٔ Build استفاده می‌شود."
+  },
+  "updatedAt": "2026-11-23T17:47:08.592Z"
+}

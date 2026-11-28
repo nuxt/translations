@@ -1,0 +1,13 @@
+{
+  "hash": "c7101a3a5230a39e",
+  "source": "You can easily manage the server-only part of your Nuxt app, from API endpoints to middleware.",
+  "text": "می‌توانید بخش مختص سرور برنامهٔ Nuxt را، از Endpoint‌های API تا Middleware، به‌آسانی مدیریت کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "می‌توانید بخش مختص سرور برنامهٔ Nuxt را، از Endpointهای API تا Middleware، به‌آسانی مدیریت کنید."
+  },
+  "updatedAt": "2026-11-23T18:11:52.757Z"
+}

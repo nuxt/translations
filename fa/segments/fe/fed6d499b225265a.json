@@ -1,0 +1,13 @@
+{
+  "hash": "fed6d499b225265a",
+  "source": "disable the input while fetching",
+  "text": "ورودی را هنگام دریافت داده غیرفعال کنید",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "ورودی را هنگام دریافت داده غیرفعال کنید"
+  },
+  "updatedAt": "2026-11-23T17:50:28.842Z"
+}

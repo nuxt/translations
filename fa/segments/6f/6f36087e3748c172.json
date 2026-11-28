@@ -1,0 +1,13 @@
+{
+  "hash": "6f36087e3748c172",
+  "source": "The payload is a JavaScript object accessible through {0}. It is used on the client to avoid refetching the same data when the code is executed in the browser {1}during hydration{/1}.",
+  "text": "Payload یک آبجکت JavaScript است که از طریق {0} در دسترس قرار می‌گیرد. در کلاینت از آن استفاده می‌شود تا هنگام اجرای کد در مرورگر {1}در طول Hydration{/1}، همان داده دوباره دریافت نشود.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Payload یک آبجکت JavaScript است که از طریق {0} در دسترس قرار می‌گیرد. در کلاینت از آن استفاده می‌شود تا هنگام اجرای کد در مرورگر {1}در طول Hydration{/1}، همان داده دوباره دریافت نشود."
+  },
+  "updatedAt": "2026-11-23T17:50:28.784Z"
+}

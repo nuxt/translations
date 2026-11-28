@@ -1,0 +1,13 @@
+{
+  "hash": "daf41ffc1c9bba43",
+  "source": "{0}: a string indicating the status of the data request ({1}, {2}, {3}, {4}).",
+  "text": "{0}: رشته‌ای که وضعیت درخواست داده را نشان می‌دهد ({1}، {2}، {3}، {4}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "{0}: رشته‌ای که وضعیت درخواست داده را نشان می‌دهد ({1}، {2}، {3}، {4})."
+  },
+  "updatedAt": "2026-11-23T17:50:28.799Z"
+}

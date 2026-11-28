@@ -1,0 +1,13 @@
+{
+  "hash": "0626468e0db440f6",
+  "source": "The {0} property accepts the {1} as an argument. You can return a boolean value to determine whether or not this is a valid route to be rendered with this page. If you return {2}, this will cause a 404 error. You can also directly return an object with {3}/{4} to customize the error returned.",
+  "text": "ویژگی {0}، {1} را به‌عنوان آرگومان می‌پذیرد. می‌توانید یک مقدار بولی برگردانید تا تعیین کنید این Route برای رندر شدن با این صفحه معتبر است یا خیر. برگرداندن {2} باعث خطای 404 می‌شود. همچنین می‌توانید مستقیماً آبجکتی با {3}/{4} برگردانید تا خطای برگشتی را سفارشی کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "ویژگی {0}، {1} را به‌عنوان آرگومان می‌پذیرد. می‌توانید یک مقدار بولی برگردانید تا تعیین کنید این Route برای رندر شدن با این صفحه معتبر است یا خیر. برگرداندن {2} باعث خطای 404 می‌شود. همچنین می‌توانید مستقیماً آبجکتی با {3}/{4} برگردانید تا خطای برگشتی را سفارشی کنید."
+  },
+  "updatedAt": "2026-11-23T17:47:08.628Z"
+}

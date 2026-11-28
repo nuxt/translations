@@ -1,0 +1,13 @@
+{
+  "hash": "7486acec58c23b61",
+  "source": "State Management",
+  "text": "مدیریت State",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "مدیریت State"
+  },
+  "updatedAt": "2026-11-23T17:51:31.617Z"
+}

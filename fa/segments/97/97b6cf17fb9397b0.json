@@ -1,0 +1,13 @@
+{
+  "hash": "97b6cf17fb9397b0",
+  "source": "You may need to enable experimental features in Vue, such as {0}. Nuxt provides an easy way to do that in {1}, no matter which builder you are using:",
+  "text": "ممکن است لازم باشد قابلیت‌های آزمایشی Vue مانند {0} را فعال کنید. Nuxt روشی آسان برای انجام این کار در {1} ارائه می‌کند که مستقل از ابزار Build مورد استفادهٔ شماست:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "ممکن است لازم باشد قابلیت‌های آزمایشی Vue مانند {0} را فعال کنید. Nuxt روشی آسان برای انجام این کار در {1} ارائه می‌کند که مستقل از ابزار Build مورد استفادهٔ شماست:"
+  },
+  "updatedAt": "2026-11-23T17:47:08.540Z"
+}

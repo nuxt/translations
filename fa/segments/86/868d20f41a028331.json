@@ -1,0 +1,13 @@
+{
+  "hash": "868d20f41a028331",
+  "source": "{0} and {1} can accept nested meta tags (for aesthetic reasons) but this does not affect *where* the nested meta tags are rendered in the final HTML.",
+  "text": "{0} و {1} می‌توانند برای مرتب‌تر شدن قالب، متاتگ‌های تودرتو را بپذیرند؛ اما این موضوع روی *محل* رندر متاتگ‌های تودرتو در HTML نهایی تأثیری ندارد.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "{0} و {1} می‌توانند برای مرتب‌تر شدن قالب، متاتگ‌های تودرتو را بپذیرند؛ اما این موضوع روی *محل* رندر متاتگ‌های تودرتو در HTML نهایی تأثیری ندارد."
+  },
+  "updatedAt": "2026-11-23T17:47:08.653Z"
+}

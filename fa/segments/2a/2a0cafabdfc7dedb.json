@@ -1,0 +1,13 @@
+{
+  "hash": "2a0cafabdfc7dedb",
+  "source": "Custom serializer function",
+  "text": "تابع سریال‌ساز سفارشی",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "تابع سریال‌ساز سفارشی"
+  },
+  "updatedAt": "2026-11-23T17:50:28.864Z"
+}

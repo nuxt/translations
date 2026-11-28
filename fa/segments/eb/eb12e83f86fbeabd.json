@@ -1,0 +1,13 @@
+{
+  "hash": "eb12e83f86fbeabd",
+  "source": "Pass Client Headers to the API",
+  "text": "ارسال Header‌های کلاینت به API",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "ارسال Headerهای کلاینت به API"
+  },
+  "updatedAt": "2026-11-23T18:11:52.710Z"
+}

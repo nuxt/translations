@@ -1,0 +1,13 @@
+{
+  "hash": "58566318675b2b22",
+  "source": "Never define {0} outside of {1} or {2} function.{3}For example, doing {4} would result in state shared across requests on the server and can lead to memory leaks.",
+  "text": "هرگز {0} را بیرون از {1} یا تابع {2} تعریف نکنید.{3}برای مثال، {4} باعث اشتراک State بین درخواست‌های سرور می‌شود و می‌تواند به نشت حافظه منجر شود.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "هرگز {0} را بیرون از {1} یا تابع {2} تعریف نکنید.{3}برای مثال، {4} باعث اشتراک State بین درخواست‌های سرور می‌شود و می‌تواند به نشت حافظه منجر شود."
+  },
+  "updatedAt": "2026-11-23T17:51:31.621Z"
+}

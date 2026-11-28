@@ -1,0 +1,13 @@
+{
+  "hash": "e9757f963d3dc056",
+  "source": "This ships all JavaScript in a single file. It is rarely beneficial — it usually increases the initial download, even on slow connections — so only disable code-splitting if you have measured that it helps your case.",
+  "text": "این کار همهٔ JavaScript را در یک فایل ارسال می‌کند. به‌ندرت مفید است؛ معمولاً حجم دانلود اولیه را حتی روی اتصال‌های کند افزایش می‌دهد. بنابراین فقط زمانی تقسیم کد را غیرفعال کنید که با اندازه‌گیری مشخص کرده باشید برای مورد شما مفید است.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "این کار همهٔ JavaScript را در یک فایل ارسال می‌کند. به‌ندرت مفید است؛ معمولاً حجم دانلود اولیه را حتی روی اتصال‌های کند افزایش می‌دهد. بنابراین فقط زمانی تقسیم کد را غیرفعال کنید که با اندازه‌گیری مشخص کرده باشید برای مورد شما مفید است."
+  },
+  "updatedAt": "2026-11-23T17:47:08.598Z"
+}

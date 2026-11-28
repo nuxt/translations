@@ -1,0 +1,13 @@
+{
+  "hash": "136d570a0bd232b4",
+  "source": "Client-side",
+  "text": "سمت کلاینت",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "سمت کلاینت"
+  },
+  "updatedAt": "2026-11-23T17:47:08.526Z"
+}

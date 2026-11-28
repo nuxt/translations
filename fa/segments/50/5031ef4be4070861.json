@@ -1,0 +1,13 @@
+{
+  "hash": "5031ef4be4070861",
+  "source": "Pages are views tied to a specific route",
+  "text": "صفحه‌ها نماهایی مرتبط با یک Route مشخص هستند",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "صفحه‌ها نماهایی مرتبط با یک Route مشخص هستند"
+  },
+  "updatedAt": "2026-11-23T17:47:08.545Z"
+}

@@ -1,0 +1,13 @@
+{
+  "hash": "fbc47cb3f2141286",
+  "source": "In this example, we use a component-local counter state. Any other component that uses {0} shares the same reactive state.",
+  "text": "در این مثال از State یک شمارندهٔ محلی در کامپوننت استفاده می‌شود. هر کامپوننت دیگری که از {0} استفاده کند، همین State واکنش‌پذیر را به اشتراک می‌گذارد.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "در این مثال از State یک شمارندهٔ محلی در کامپوننت استفاده می‌کنیم. هر کامپوننت دیگری که از {0} استفاده کند، همین State واکنش‌پذیر را به اشتراک می‌گذارد."
+  },
+  "updatedAt": "2026-11-24T17:15:35.121Z"
+}

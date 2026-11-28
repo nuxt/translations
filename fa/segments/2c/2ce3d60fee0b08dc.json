@@ -1,0 +1,13 @@
+{
+  "hash": "2ce3d60fee0b08dc",
+  "source": "❌ This will trigger a development warning",
+  "text": "❌ این کار در محیط توسعه هشدار ایجاد می‌کند",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "❌ این کار در محیط توسعه هشدار ایجاد می‌کند"
+  },
+  "updatedAt": "2026-11-23T17:50:28.812Z"
+}

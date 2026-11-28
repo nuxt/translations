@@ -1,0 +1,13 @@
+{
+  "hash": "35b5c1a867026d7d",
+  "source": "Routing Section",
+  "text": "بخش Routing",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "بخش Routing"
+  },
+  "updatedAt": "2026-11-23T17:47:08.548Z"
+}

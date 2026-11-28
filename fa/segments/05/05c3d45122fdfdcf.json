@@ -1,0 +1,13 @@
+{
+  "hash": "05c3d45122fdfdcf",
+  "source": "There are three kinds of route middleware:",
+  "text": "سه نوع Middleware مربوط به Route وجود دارد:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "سه نوع Middleware مربوط به Route وجود دارد:"
+  },
+  "updatedAt": "2026-11-23T17:47:08.619Z"
+}

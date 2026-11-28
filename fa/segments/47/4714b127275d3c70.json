@@ -1,0 +1,13 @@
+{
+  "hash": "4714b127275d3c70",
+  "source": "See {0}@unhead/vue{/0} for more detailed types.",
+  "text": "برای نوع‌های دقیق‌تر، {0}@unhead/vue{/0} را ببینید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "برای نوع‌های دقیق‌تر، {0}@unhead/vue{/0} را ببینید."
+  },
+  "updatedAt": "2026-11-23T17:47:08.658Z"
+}

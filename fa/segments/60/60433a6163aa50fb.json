@@ -1,0 +1,13 @@
+{
+  "hash": "60433a6163aa50fb",
+  "source": "Example of an {0} middleware protecting the {1} page:",
+  "text": "نمونه‌ای از Middleware با نام {0} که از صفحهٔ {1} محافظت می‌کند:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "نمونه‌ای از Middleware با نام {0} که از صفحهٔ {1} محافظت می‌کند:"
+  },
+  "updatedAt": "2026-11-23T17:47:08.623Z"
+}

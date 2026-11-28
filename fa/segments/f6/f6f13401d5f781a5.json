@@ -1,0 +1,13 @@
+{
+  "hash": "f6f13401d5f781a5",
+  "source": "Examples in this documentation usually {0} calls to {1} and {2}, but this is not always required.",
+  "text": "مثال‌های این مستندات معمولاً با {0} منتظر نتیجهٔ فراخوانی‌های {1} و {2} می‌مانند، اما این کار همیشه لازم نیست.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "مثال‌های این مستندات معمولاً فراخوانی‌های {1} و {2} را با {0} انجام می‌دهند، اما این کار همیشه لازم نیست."
+  },
+  "updatedAt": "2026-11-23T18:11:52.708Z"
+}

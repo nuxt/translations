@@ -1,0 +1,13 @@
+{
+  "hash": "eaefd922bbc86568",
+  "source": "Type of {0} is inferred as string even though we returned a Date object",
+  "text": "نوع {0}، string استنباط می‌شود، با اینکه یک آبجکت Date برگردانده شده است",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "نوع {0}، string استنباط می‌شود، با اینکه آبجکت Date برگردانده‌ایم"
+  },
+  "updatedAt": "2026-11-24T17:15:35.121Z"
+}

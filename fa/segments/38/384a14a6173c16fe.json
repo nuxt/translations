@@ -1,0 +1,13 @@
+{
+  "hash": "384a14a6173c16fe",
+  "source": "❌ No",
+  "text": "❌ خیر",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "❌ خیر"
+  },
+  "updatedAt": "2026-11-23T17:47:08.528Z"
+}

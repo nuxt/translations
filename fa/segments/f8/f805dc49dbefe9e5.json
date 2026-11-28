@@ -1,0 +1,13 @@
+{
+  "hash": "f805dc49dbefe9e5",
+  "source": "The following options **can safely differ** without triggering warnings:",
+  "text": "گزینه‌های زیر بدون ایجاد هشدار **می‌توانند متفاوت باشند**:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "گزینه‌های زیر بدون ایجاد هشدار **می‌توانند متفاوت باشند**:"
+  },
+  "updatedAt": "2026-11-23T17:50:28.813Z"
+}

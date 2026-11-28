@@ -1,0 +1,13 @@
+{
+  "hash": "b1a0577456f93779",
+  "source": "If you have not fetched data on the server (for example, with {0}), then the data *will not* be fetched until hydration completes. This means even if you await {1} on client-side, {2} will remain undefined within {3}.",
+  "text": "اگر داده را در سرور دریافت نکرده باشید (برای مثال با {0})، تا تکمیل Hydration داده *دریافت نمی‌شود*. بنابراین حتی اگر در سمت کلاینت منتظر {1} بمانید، مقدار {2} در {3} همچنان undefined خواهد بود.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "اگر داده را در سرور دریافت نکرده باشید (برای مثال با {0})، تا تکمیل Hydration داده *دریافت نمی‌شود*. بنابراین حتی اگر در سمت کلاینت منتظر {1} بمانید، مقدار {2} در {3} همچنان undefined خواهد بود."
+  },
+  "updatedAt": "2026-11-23T17:50:28.800Z"
+}

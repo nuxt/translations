@@ -1,0 +1,13 @@
+{
+  "hash": "6c45a6b693298af3",
+  "source": "If you need to pass options to {0} or {1}, you can do this in your {2} file.",
+  "text": "اگر لازم است گزینه‌هایی به {0} یا {1} بدهید، می‌توانید آن‌ها را در فایل {2} تنظیم کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "اگر لازم است گزینه‌هایی به {0} یا {1} بدهید، می‌توانید آن‌ها را در فایل {2} تنظیم کنید."
+  },
+  "updatedAt": "2026-11-23T17:47:08.539Z"
+}

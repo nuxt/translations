@@ -1,0 +1,13 @@
+{
+  "hash": "1b807a83242225f1",
+  "source": "Environment Overrides",
+  "text": "بازنویسی تنظیمات برای هر محیط",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "بازنویسی تنظیمات برای هر محیط"
+  },
+  "updatedAt": "2026-11-23T17:47:08.518Z"
+}

@@ -1,0 +1,13 @@
+{
+  "hash": "bf01d8843cfaf211",
+  "source": "Open your project folder in Visual Studio Code:",
+  "text": "پوشهٔ پروژه را در Visual Studio Code باز کنید:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "پوشهٔ پروژه را در Visual Studio Code باز کنید:"
+  },
+  "updatedAt": "2026-11-23T17:47:08.503Z"
+}

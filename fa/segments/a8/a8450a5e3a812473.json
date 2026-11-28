@@ -1,0 +1,13 @@
+{
+  "hash": "a8450a5e3a812473",
+  "source": "{0}: add functions throughout your application that can be used in your server code.",
+  "text": "{0}: تابع‌هایی برای استفاده در کد سرور در سراسر برنامه اضافه کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "{0}: تابع‌هایی برای استفاده در کد سرور در سراسر برنامه اضافه کنید."
+  },
+  "updatedAt": "2026-11-23T17:47:08.580Z"
+}

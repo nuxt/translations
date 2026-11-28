@@ -1,0 +1,13 @@
+{
+  "hash": "f0ac16713b30c647",
+  "source": "{0}: an error object if the data fetching failed.",
+  "text": "{0}: در صورت شکست دریافت داده، یک آبجکت خطا.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "{0}: در صورت شکست دریافت داده، یک آبجکت خطا."
+  },
+  "updatedAt": "2026-11-23T17:50:28.799Z"
+}

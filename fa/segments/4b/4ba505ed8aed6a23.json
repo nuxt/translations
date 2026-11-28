@@ -1,0 +1,13 @@
+{
+  "hash": "4ba505ed8aed6a23",
+  "source": "experimental {0} migration from Vue 3.4 and Nuxt 3.9",
+  "text": "مهاجرت قابلیت آزمایشی {0} از Vue 3.4 و Nuxt 3.9 به بعد",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "مهاجرت از {0} آزمایشی از Vue 3.4 و Nuxt 3.9 به بعد"
+  },
+  "updatedAt": "2026-11-23T18:11:52.676Z"
+}

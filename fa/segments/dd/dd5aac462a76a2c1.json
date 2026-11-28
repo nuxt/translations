@@ -1,0 +1,13 @@
+{
+  "hash": "dd5aac462a76a2c1",
+  "source": "**Better performance on low-powered devices:** it reduces the amount of JavaScript that needs to be downloaded and executed on the client-side, which can be beneficial for low-powered devices that may struggle with processing heavy JavaScript applications.",
+  "text": "**عملکرد بهتر روی دستگاه‌های کم‌توان:** مقدار JavaScript لازم برای دانلود و اجرا در سمت کلاینت کاهش می‌یابد؛ این موضوع می‌تواند برای دستگاه‌های کم‌توانی مفید باشد که پردازش برنامه‌های سنگین JavaScript برایشان دشوار است.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "**عملکرد بهتر روی دستگاه‌های کم‌توان:** مقدار JavaScript لازم برای دانلود و اجرا در سمت کلاینت کاهش می‌یابد؛ این موضوع می‌تواند برای دستگاه‌های کم‌توانی مفید باشد که پردازش برنامه‌های سنگین JavaScript برایشان دشوار است."
+  },
+  "updatedAt": "2026-11-23T17:47:08.484Z"
+}

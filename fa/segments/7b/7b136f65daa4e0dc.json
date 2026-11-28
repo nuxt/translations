@@ -1,0 +1,13 @@
+{
+  "hash": "7b136f65daa4e0dc",
+  "source": "You don't have to use TypeScript to build an application with Nuxt. However, it is strongly recommended to use the {0} extension for the {1} file. This way you can benefit from hints in your IDE to avoid typos and mistakes while editing your configuration.",
+  "text": "برای ساخت برنامه با Nuxt نیازی به استفاده از TypeScript ندارید. با این حال، استفاده از پسوند {0} برای فایل {1} را به‌شدت توصیه می‌کنیم. به این ترتیب، هنگام ویرایش پیکربندی از راهنمایی‌های IDE بهره می‌برید و می‌توانید از اشتباه‌های تایپی و دیگر خطاها جلوگیری کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "برای ساخت برنامه با Nuxt نیازی به استفاده از TypeScript ندارید. با این حال، استفاده از پسوند {0} برای فایل {1} قویاً توصیه می‌شود. به این ترتیب، هنگام ویرایش پیکربندی از راهنمایی‌های IDE بهره می‌برید و می‌توانید از اشتباه‌های تایپی و دیگر خطاها جلوگیری کنید."
+  },
+  "updatedAt": "2026-11-23T18:11:52.670Z"
+}

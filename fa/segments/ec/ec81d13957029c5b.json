@@ -1,0 +1,13 @@
+{
+  "hash": "ec81d13957029c5b",
+  "source": "Nuxt does not currently support an alternative serializer to {0}. However, you can return your payload as a normal string and utilize the {1} method to maintain type safety.",
+  "text": "Nuxt در حال حاضر از سریال‌ساز جایگزین برای {0} پشتیبانی نمی‌کند. با این حال، می‌توانید Payload را به‌صورت یک رشتهٔ معمولی برگردانید و برای حفظ ایمنی نوع از متد {1} استفاده کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Nuxt در حال حاضر از سریال‌ساز جایگزین برای {0} پشتیبانی نمی‌کند. با این حال، می‌توانید Payload را به‌صورت یک رشتهٔ معمولی برگردانید و برای حفظ ایمنی نوع از متد {1} استفاده کنید."
+  },
+  "updatedAt": "2026-11-23T17:50:28.865Z"
+}

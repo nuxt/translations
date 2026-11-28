@@ -1,0 +1,13 @@
+{
+  "hash": "e6e0023a2544ac12",
+  "source": "{0}: a function that can be used to set {1} to {2} (or the value of {3} if provided), set {4} to {5}, set {6} to {7}, and mark any currently pending requests as cancelled.",
+  "text": "{0}: تابعی که می‌تواند مقدار {1} را به {2} (یا مقدار {3}، در صورت تعریف)، {4} را به {5} و {6} را به {7} تنظیم کند و همهٔ درخواست‌های در حال انتظار را لغوشده علامت بزند.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "{0}: تابعی که می‌تواند مقدار {1} را به {2} (یا مقدار {3}، در صورت تعریف)، {4} را به {5} و {6} را به {7} تنظیم کند و همهٔ درخواست‌های در حال انتظار را لغوشده علامت بزند."
+  },
+  "updatedAt": "2026-11-23T17:50:28.798Z"
+}

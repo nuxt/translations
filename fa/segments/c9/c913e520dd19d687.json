@@ -1,0 +1,13 @@
+{
+  "hash": "c913e520dd19d687",
+  "source": "Nuxt has no vendor lock-in, allowing you to deploy your application {0}**everywhere, even on the edge**{/0}.",
+  "text": "Nuxt شما را به ارائه‌دهندهٔ خاصی وابسته نمی‌کند و می‌توانید برنامهٔ خود را {0}**در هر جایی، حتی روی Edge**{/0} مستقر کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Nuxt شما را به ارائه‌دهندهٔ خاصی وابسته نمی‌کند و می‌توانید برنامهٔ خود را {0}**در هر جایی، حتی روی Edge**{/0} مستقر کنید."
+  },
+  "updatedAt": "2026-11-23T17:47:08.476Z"
+}

@@ -1,0 +1,13 @@
+{
+  "hash": "40ba7847308c866c",
+  "source": "One core feature of Nuxt is the file system router. Every Vue file inside the {0} directory creates a corresponding URL (or route) that displays the contents of the file. By using dynamic imports for each page, Nuxt leverages code-splitting to ship the minimum amount of JavaScript for the requested route.",
+  "text": "یکی از قابلیت‌های اصلی Nuxt، Router مبتنی بر سیستم فایل است. هر فایل Vue در پوشهٔ {0} یک URL (یا Route) متناظر ایجاد می‌کند که محتوای فایل را نمایش می‌دهد. Nuxt با Import پویا برای هر صفحه و تقسیم کد، کمترین مقدار JavaScript لازم را برای Route درخواست‌شده ارسال می‌کند.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "یکی از قابلیت‌های اصلی Nuxt، Router مبتنی بر سیستم فایل است. هر فایل Vue در پوشهٔ {0} یک URL (یا Route) متناظر ایجاد می‌کند که محتوای فایل را نمایش می‌دهد. Nuxt با Import پویا برای هر صفحه و تقسیم کد، کمترین مقدار JavaScript لازم را برای Route درخواست‌شده ارسال می‌کند."
+  },
+  "updatedAt": "2026-11-23T17:47:08.594Z"
+}

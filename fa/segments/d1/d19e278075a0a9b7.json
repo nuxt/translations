@@ -1,0 +1,13 @@
+{
+  "hash": "d19e278075a0a9b7",
+  "source": "This composable is a wrapper around the {0} composable and {1} utility.",
+  "text": "این Composable یک Wrapper برای Composable {0} و ابزار {1} است.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "این Composable یک Wrapper برای Composable مربوط به {0} و ابزار {1} است."
+  },
+  "updatedAt": "2026-11-23T18:11:52.716Z"
+}

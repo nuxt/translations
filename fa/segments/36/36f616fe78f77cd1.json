@@ -1,0 +1,13 @@
+{
+  "hash": "36f616fe78f77cd1",
+  "source": "Sometimes you may need to compute a URL from reactive values, and refresh the data each time these change. Instead of juggling your way around, you can attach each param as a reactive value. Nuxt will automatically use the reactive value and re-fetch each time it changes.",
+  "text": "گاهی لازم است URL را از مقادیر واکنش‌پذیر محاسبه کنید و با هر تغییر آن‌ها داده را تازه‌سازی کنید. می‌توانید به‌جای تنظیمات پیچیده، هر پارامتر را به‌صورت یک مقدار واکنش‌پذیر بدهید. Nuxt خودکار از مقدار واکنش‌پذیر استفاده می‌کند و با هر تغییر آن، داده را دوباره دریافت می‌کند.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "گاهی لازم است URL را از مقادیر واکنش‌پذیر محاسبه کنید و با هر تغییر آن‌ها داده را تازه‌سازی کنید. می‌توانید به‌جای تنظیمات پیچیده، هر پارامتر را به‌صورت یک مقدار واکنش‌پذیر بدهید. Nuxt خودکار از مقدار واکنش‌پذیر استفاده می‌کند و با هر تغییر آن، داده را دوباره دریافت می‌کند."
+  },
+  "updatedAt": "2026-11-23T17:50:28.841Z"
+}

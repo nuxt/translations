@@ -1,0 +1,13 @@
+{
+  "hash": "2ac78513a1ff719d",
+  "source": "Client-only fetching",
+  "text": "دریافت داده فقط در کلاینت",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "دریافت داده فقط در کلاینت"
+  },
+  "updatedAt": "2026-11-23T17:50:28.803Z"
+}

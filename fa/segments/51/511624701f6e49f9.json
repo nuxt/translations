@@ -1,0 +1,13 @@
+{
+  "hash": "511624701f6e49f9",
+  "source": "You can add the {0} to add a progress bar between page navigations.",
+  "text": "می‌توانید با اضافه کردن {0}، نوار پیشرفت جابه‌جایی بین صفحه‌ها را نمایش دهید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "می‌توانید با اضافه کردن {0}، نوار پیشرفت جابه‌جایی بین صفحه‌ها را نمایش دهید."
+  },
+  "updatedAt": "2026-11-23T17:50:28.789Z"
+}

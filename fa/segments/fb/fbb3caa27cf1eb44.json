@@ -1,0 +1,13 @@
+{
+  "hash": "fbb3caa27cf1eb44",
+  "source": "If you need independent instances, use different keys:",
+  "text": "اگر به نمونه‌های مستقل نیاز دارید، از کلیدهای متفاوت استفاده کنید:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "اگر به نمونه‌های مستقل نیاز دارید، از کلیدهای متفاوت استفاده کنید:"
+  },
+  "updatedAt": "2026-11-23T17:50:28.815Z"
+}

@@ -1,0 +1,13 @@
+{
+  "hash": "de11ee51197d39a4",
+  "source": "The {0} composable lets you define your site's SEO meta tags as an object with full type safety.",
+  "text": "Composable {0} به شما امکان می‌دهد متاتگ‌های SEO سایت را به‌صورت یک آبجکت با ایمنی کامل نوع تعریف کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Composable مربوط به {0} به شما امکان می‌دهد متاتگ‌های SEO سایت را به‌صورت یک آبجکت با ایمنی کامل نوع تعریف کنید."
+  },
+  "updatedAt": "2026-11-23T18:11:52.696Z"
+}

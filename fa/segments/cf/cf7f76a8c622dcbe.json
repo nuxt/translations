@@ -1,0 +1,13 @@
+{
+  "hash": "cf7f76a8c622dcbe",
+  "source": "By default, data fetching composables will wait for the resolution of their asynchronous function before navigating to a new page by using Vue's Suspense. This feature can be ignored on client-side navigation with the {0} option. In that case, you will have to manually handle loading state using the {1} value.",
+  "text": "Composable‌های دریافت داده به‌صورت پیش‌فرض با Suspense در Vue، پیش از رفتن به صفحهٔ جدید منتظر تکمیل تابع غیرهمزمان می‌مانند. با گزینهٔ {0} می‌توانید در جابه‌جایی سمت کلاینت از این رفتار صرف‌نظر کنید. در این حالت باید وضعیت بارگذاری را با مقدار {1} به‌صورت دستی مدیریت کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Composableهای دریافت داده به‌صورت پیش‌فرض با Suspense در Vue، پیش از رفتن به صفحهٔ جدید منتظر تکمیل تابع غیرهمزمان می‌مانند. با گزینهٔ {0} می‌توانید در جابه‌جایی سمت کلاینت از این رفتار صرف‌نظر کنید. در این حالت باید وضعیت بارگذاری را با مقدار {1} به‌صورت دستی مدیریت کنید."
+  },
+  "updatedAt": "2026-11-23T18:11:52.729Z"
+}

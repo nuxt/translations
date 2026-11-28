@@ -1,0 +1,13 @@
+{
+  "hash": "8ac66110db3a5b26",
+  "source": "{0}PostCSS{/0}",
+  "text": "{0}PostCSS{/0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "{0}PostCSS{/0}"
+  },
+  "updatedAt": "2026-11-23T17:47:08.533Z"
+}

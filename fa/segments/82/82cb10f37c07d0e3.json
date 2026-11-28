@@ -1,0 +1,13 @@
+{
+  "hash": "82cb10f37c07d0e3",
+  "source": "{0}: file-based routing to create routes within your web application",
+  "text": "{0}: Routing مبتنی بر فایل برای ایجاد Route‌ها در برنامهٔ وب",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "{0}: Routing مبتنی بر فایل برای ایجاد Routeها در برنامهٔ وب"
+  },
+  "updatedAt": "2026-11-23T18:11:52.683Z"
+}

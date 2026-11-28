@@ -1,0 +1,13 @@
+{
+  "hash": "dbd0f2d8388d1a69",
+  "source": "My todo data",
+  "text": "داده‌های کار من",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "داده‌های کار من"
+  },
+  "updatedAt": "2026-11-23T17:50:28.792Z"
+}

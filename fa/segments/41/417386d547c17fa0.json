@@ -1,0 +1,13 @@
+{
+  "hash": "417386d547c17fa0",
+  "source": "This file system routing uses naming conventions to create dynamic and nested routes:",
+  "text": "این Routing مبتنی بر سیستم فایل از قراردادهای نام‌گذاری برای ایجاد Route‌های پویا و تودرتو استفاده می‌کند:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "این Routing مبتنی بر سیستم فایل از قراردادهای نام‌گذاری برای ایجاد Routeهای پویا و تودرتو استفاده می‌کند:"
+  },
+  "updatedAt": "2026-11-23T18:11:52.691Z"
+}

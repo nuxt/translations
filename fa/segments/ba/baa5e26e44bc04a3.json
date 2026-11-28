@@ -1,0 +1,13 @@
+{
+  "hash": "baa5e26e44bc04a3",
+  "source": "Read more about {0} composable.",
+  "text": "دربارهٔ Composable {0} بیشتر بخوانید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "دربارهٔ Composable مربوط به {0} بیشتر بخوانید."
+  },
+  "updatedAt": "2026-11-23T18:11:52.752Z"
+}

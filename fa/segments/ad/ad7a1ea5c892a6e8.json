@@ -1,0 +1,13 @@
+{
+  "hash": "ad7a1ea5c892a6e8",
+  "source": "Server-Side Rendering",
+  "text": "رندر سمت سرور",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "رندر سمت سرور"
+  },
+  "updatedAt": "2026-11-23T17:47:08.482Z"
+}

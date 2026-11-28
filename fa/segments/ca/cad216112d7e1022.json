@@ -1,0 +1,13 @@
+{
+  "hash": "cad216112d7e1022",
+  "source": "where {0} is replaced with the title",
+  "text": "که در آن {0} با عنوان جایگزین می‌شود",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "که در آن {0} با عنوان جایگزین می‌شود"
+  },
+  "updatedAt": "2026-11-23T17:47:08.680Z"
+}

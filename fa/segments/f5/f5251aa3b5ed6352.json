@@ -1,0 +1,13 @@
+{
+  "hash": "f5251aa3b5ed6352",
+  "source": "Providing an {0} property in your {1} allows you to statically customize the head for your entire app.",
+  "text": "با تعریف ویژگی {0} در {1} می‌توانید head را برای کل برنامه به‌صورت ایستا سفارشی کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "با تعریف ویژگی {0} در {1} می‌توانید head را برای کل برنامه به‌صورت ایستا سفارشی کنید."
+  },
+  "updatedAt": "2026-11-23T17:47:08.638Z"
+}

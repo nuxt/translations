@@ -1,0 +1,13 @@
+{
+  "hash": "86acbff06846ea06",
+  "source": "{0} option",
+  "text": "گزینهٔ {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "گزینهٔ {0}"
+  },
+  "updatedAt": "2026-11-23T17:50:28.811Z"
+}

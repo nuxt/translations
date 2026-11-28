@@ -1,0 +1,13 @@
+{
+  "hash": "f1e5b95d7c2b696b",
+  "source": "When reactive fetch options are provided, they'll be automatically watched and trigger refetches. In some cases, it can be useful to opt-out of this behavior by specifying {0}.",
+  "text": "وقتی گزینه‌های دریافت داده واکنش‌پذیر باشند، تغییرات آن‌ها به‌صورت خودکار پایش می‌شود و باعث دریافت مجدد داده می‌شود. در بعضی موارد می‌توانید با تنظیم {0} این رفتار را غیرفعال کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "وقتی گزینه‌های دریافت داده واکنش‌پذیر باشند، تغییرات آن‌ها به‌صورت خودکار پایش می‌شود و باعث دریافت مجدد داده می‌شود. در بعضی موارد می‌توانید با تنظیم {0} این رفتار را غیرفعال کنید."
+  },
+  "updatedAt": "2026-11-23T17:50:28.837Z"
+}

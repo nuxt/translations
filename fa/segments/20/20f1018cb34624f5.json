@@ -1,0 +1,13 @@
+{
+  "hash": "20f1018cb34624f5",
+  "source": "Overall, server-side rendering can provide a faster and more efficient user experience, as well as improve search engine optimization and accessibility.",
+  "text": "در مجموع، رندر سمت سرور می‌تواند تجربهٔ کاربری سریع‌تر و کارآمدتری فراهم کند و بهینه‌سازی برای موتورهای جست‌وجو و دسترس‌پذیری را بهبود دهد.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "در مجموع، رندر سمت سرور می‌تواند تجربهٔ کاربری سریع‌تر و کارآمدتری فراهم کند و بهینه‌سازی برای موتورهای جست‌وجو و دسترس‌پذیری را بهبود دهد."
+  },
+  "updatedAt": "2026-11-23T17:47:08.485Z"
+}

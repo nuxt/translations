@@ -1,0 +1,13 @@
+{
+  "hash": "a7d0abf8e8c8fc91",
+  "source": "You can also use {0} to proxy headers to the call automatically.",
+  "text": "همچنین می‌توانید از {0} برای انتقال خودکار Header‌ها به فراخوانی استفاده کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "همچنین می‌توانید از {0} برای انتقال خودکار Headerها به فراخوانی استفاده کنید."
+  },
+  "updatedAt": "2026-11-23T18:11:52.712Z"
+}

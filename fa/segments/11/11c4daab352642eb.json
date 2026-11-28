@@ -1,0 +1,13 @@
+{
+  "hash": "11c4daab352642eb",
+  "source": "The example below shows how you might enable Google Fonts using either the {0} property of the {1} composable or using the {2} component:",
+  "text": "مثال زیر نشان می‌دهد چگونه می‌توانید Google Fonts را با ویژگی {0} در Composable {1} یا با کامپوننت {2} فعال کنید:",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "مثال زیر نشان می‌دهد چگونه می‌توانید Google Fonts را با ویژگی {0} در Composable مربوط به {1} یا با کامپوننت {2} فعال کنید:"
+  },
+  "updatedAt": "2026-11-23T18:11:52.701Z"
+}

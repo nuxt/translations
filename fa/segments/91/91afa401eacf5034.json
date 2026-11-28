@@ -1,0 +1,13 @@
+{
+  "hash": "91afa401eacf5034",
+  "source": "**Neovim**: When configuring the Vue TypeScript plugin, make sure {0} points to the {1} package directory, not its binary. See the {2}Neovim setup guide{/2} for a working configuration.",
+  "text": "**Neovim**: هنگام پیکربندی پلاگین TypeScript برای Vue، مطمئن شوید {0} به پوشهٔ پکیج {1} اشاره می‌کند، نه فایل اجرایی آن. برای دیدن یک پیکربندی عملی، {2}راهنمای راه‌اندازی Neovim{/2} را مطالعه کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "**Neovim**: هنگام پیکربندی پلاگین TypeScript برای Vue، مطمئن شوید {0} به پوشهٔ پکیج {1} اشاره می‌کند، نه فایل اجرایی آن. برای دیدن یک پیکربندی عملی، {2}راهنمای راه‌اندازی Neovim{/2} را مطالعه کنید."
+  },
+  "updatedAt": "2026-11-23T17:47:08.501Z"
+}

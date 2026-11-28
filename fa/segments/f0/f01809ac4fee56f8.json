@@ -1,0 +1,13 @@
+{
+  "hash": "f01809ac4fee56f8",
+  "source": "Note that **watching a reactive value won't change the URL fetched**. For example, this will keep fetching the same initial ID of the user because the URL is constructed at the moment the function is invoked.",
+  "text": "در نظر داشته باشید که **پایش یک مقدار واکنش‌پذیر، URL درخواست را تغییر نمی‌دهد**. برای مثال، کد زیر همچنان دادهٔ همان شناسهٔ اولیهٔ کاربر را دریافت می‌کند، چون URL در لحظهٔ فراخوانی تابع ساخته می‌شود.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "در نظر داشته باشید که **پایش یک مقدار واکنش‌پذیر، URL درخواست را تغییر نمی‌دهد**. برای مثال، کد زیر همچنان دادهٔ همان شناسهٔ اولیهٔ کاربر را دریافت می‌کند، چون URL در لحظهٔ فراخوانی تابع ساخته می‌شود."
+  },
+  "updatedAt": "2026-11-23T17:50:28.832Z"
+}

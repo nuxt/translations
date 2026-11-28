@@ -1,0 +1,13 @@
+{
+  "hash": "cb08913fd3e2ac41",
+  "source": "If you want to fetch or refresh data manually, use the {0} or {1} function provided by the composables.",
+  "text": "اگر می‌خواهید داده را به‌صورت دستی دریافت یا تازه‌سازی کنید، از تابع {0} یا {1} که Composable‌ها ارائه می‌کنند استفاده کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "اگر می‌خواهید داده را به‌صورت دستی دریافت یا تازه‌سازی کنید، از تابع {0} یا {1} که Composableها ارائه می‌کنند استفاده کنید."
+  },
+  "updatedAt": "2026-11-23T18:11:52.738Z"
+}

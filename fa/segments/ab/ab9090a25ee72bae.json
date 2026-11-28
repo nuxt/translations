@@ -1,0 +1,13 @@
+{
+  "hash": "ab9090a25ee72bae",
+  "source": "The {0} composable can be used in a {1} block or a {2} method of a Vue component to access the current route details.",
+  "text": "برای دسترسی به جزئیات Route فعلی می‌توانید Composable {0} را در بلوک {1} یا متد {2} یک کامپوننت Vue استفاده کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "برای دسترسی به جزئیات Route فعلی می‌توانید Composable مربوط به {0} را در بلوک {1} یا متد {2} یک کامپوننت Vue استفاده کنید."
+  },
+  "updatedAt": "2026-11-23T18:11:52.692Z"
+}

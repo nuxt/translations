@@ -1,0 +1,13 @@
+{
+  "hash": "653c1311c69d333a",
+  "source": "{0}Cloudflare Workers{/0}",
+  "text": "{0}Cloudflare Workers{/0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "{0}Cloudflare Workers{/0}"
+  },
+  "updatedAt": "2026-11-23T17:51:31.637Z"
+}

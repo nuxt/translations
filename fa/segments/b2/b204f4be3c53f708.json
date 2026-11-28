@@ -1,0 +1,13 @@
+{
+  "hash": "b204f4be3c53f708",
+  "source": "If you want to clear the data provided, for whatever reason, without needing to know the specific key to pass to {0}, you can use the {1} function provided by the composables.",
+  "text": "اگر به هر دلیلی می‌خواهید دادهٔ ارائه‌شده را پاک کنید و نمی‌خواهید کلید مشخص لازم برای {0} را بدانید، می‌توانید از تابع {1} که Composable‌ها ارائه می‌کنند استفاده کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "اگر به هر دلیلی می‌خواهید دادهٔ ارائه‌شده را پاک کنید و نمی‌خواهید کلید مشخص لازم برای {0} را بدانید، می‌توانید از تابع {1} که Composableها ارائه می‌کنند استفاده کنید."
+  },
+  "updatedAt": "2026-11-23T18:11:52.739Z"
+}

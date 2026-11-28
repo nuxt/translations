@@ -1,0 +1,4 @@
+# Automatic translation is disabled for the initial Persian contribution.
+# Only explicitly committed Persian translation records are included.
+mt:
+  enabled: false

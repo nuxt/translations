@@ -1,0 +1,13 @@
+{
+  "hash": "749add8f6a1d0fed",
+  "source": "doesn't trigger refetch",
+  "text": "باعث دریافت مجدد داده نمی‌شود",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "باعث دریافت مجدد داده نمی‌شود"
+  },
+  "updatedAt": "2026-11-23T17:50:28.840Z"
+}

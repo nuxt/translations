@@ -1,0 +1,13 @@
+{
+  "hash": "063b4bc5813fa8c5",
+  "source": "When using {0} and {1} to transfer data fetched on server to the client (as well as anything else that utilizes {2}the Nuxt payload{/2}), the payload is serialized with {3}. This allows us to transfer not just basic JSON but also to serialize and revive/deserialize more advanced kinds of data, such as regular expressions, Dates, Map and Set, {4}, {5}, {6}, {7} and {8} - and more.",
+  "text": "وقتی از {0} و {1} برای انتقال دادهٔ دریافت‌شده در سرور به کلاینت استفاده می‌کنید، Payload با {3} سریال‌سازی می‌شود؛ همین موضوع دربارهٔ هر چیز دیگری که از {2}Payload در Nuxt{/2} استفاده می‌کند نیز صدق می‌کند. این کار علاوه بر JSON ساده، انتقال و سریال‌سازی و بازگردانی از حالت سریال‌شدهٔ داده‌های پیشرفته‌تر را هم ممکن می‌کند؛ مانند عبارت‌های منظم، Date، Map و Set، {4}، {5}، {6}، {7}، {8} و موارد دیگر.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "وقتی از {0} و {1} برای انتقال دادهٔ دریافت‌شده در سرور به کلاینت استفاده می‌کنید، Payload با {3} سریال‌سازی می‌شود؛ همین موضوع دربارهٔ هر چیز دیگری که از {2}Payload در Nuxt{/2} استفاده می‌کند نیز صدق می‌کند. این کار علاوه بر JSON ساده، انتقال و سریال‌سازی و بازگردانی از حالت سریال‌شدهٔ داده‌های پیشرفته‌تر را هم ممکن می‌کند؛ مانند عبارت‌های منظم، Date، Map و Set، {4}، {5}، {6}، {7}، {8} و موارد دیگر."
+  },
+  "updatedAt": "2026-11-23T17:50:28.860Z"
+}

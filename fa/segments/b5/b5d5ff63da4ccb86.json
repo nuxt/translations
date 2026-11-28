@@ -1,0 +1,13 @@
+{
+  "hash": "b5d5ff63da4ccb86",
+  "source": "You can use the {0} option on applicable tags to append them to the end of the {1} tag.",
+  "text": "می‌توانید گزینهٔ {0} را روی تگ‌هایی که از آن پشتیبانی می‌کنند تنظیم کنید تا به انتهای تگ {1} اضافه شوند.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "می‌توانید گزینهٔ {0} را روی تگ‌هایی که از آن پشتیبانی می‌کنند تنظیم کنید تا به انتهای تگ {1} اضافه شوند."
+  },
+  "updatedAt": "2026-11-23T17:47:08.671Z"
+}

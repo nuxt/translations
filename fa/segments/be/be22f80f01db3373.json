@@ -1,0 +1,13 @@
+{
+  "hash": "be22f80f01db3373",
+  "source": "Named route middleware, which are placed in the {0} directory and will be automatically loaded via asynchronous import when used on a page. (**Note**: The route middleware name is normalized to kebab-case, so {1} becomes {2}.)",
+  "text": "Middleware نام‌دار مربوط به Route که در پوشهٔ {0} قرار می‌گیرد و هنگام استفاده در صفحه، با Import غیرهمزمان به‌صورت خودکار بارگذاری می‌شود. (**نکته**: نام Middleware مربوط به Route به kebab-case تبدیل می‌شود؛ بنابراین {1} به {2} تبدیل می‌شود.)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Middleware نام‌دار مربوط به Route که در پوشهٔ {0} قرار می‌گیرد و هنگام استفاده در صفحه، با Import غیرهمزمان به‌صورت خودکار بارگذاری می‌شود. (**نکته**: نام Middleware مربوط به Route به kebab-case تبدیل می‌شود؛ بنابراین {1} به {2} تبدیل می‌شود.)"
+  },
+  "updatedAt": "2026-11-23T17:47:08.620Z"
+}

@@ -1,0 +1,13 @@
+{
+  "hash": "52b36a0e0fb1df7e",
+  "source": "If you need to force a refresh when other reactive values change, you can also {0}watch other values{/0}.",
+  "text": "اگر لازم است با تغییر دیگر مقادیر واکنش‌پذیر، داده حتماً تازه‌سازی شود، می‌توانید {0}تغییرات مقادیر دیگر را نیز پایش کنید{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "اگر لازم است با تغییر دیگر مقادیر واکنش‌پذیر، داده حتماً تازه‌سازی شود، می‌توانید {0}تغییرات مقادیر دیگر را نیز پایش کنید{/0}."
+  },
+  "updatedAt": "2026-11-23T17:50:28.843Z"
+}

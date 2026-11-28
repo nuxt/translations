@@ -1,0 +1,13 @@
+{
+  "hash": "dd0249e25064a481",
+  "source": "Environment Variables and Private Tokens",
+  "text": "متغیرهای محیطی و توکن‌های خصوصی",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "متغیرهای محیطی و توکن‌های خصوصی"
+  },
+  "updatedAt": "2026-11-23T17:47:08.521Z"
+}

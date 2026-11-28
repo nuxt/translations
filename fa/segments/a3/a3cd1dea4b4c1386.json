@@ -1,0 +1,13 @@
+{
+  "hash": "a3cd1dea4b4c1386",
+  "source": "{0}: add functions throughout your application that can be used in your components, composables, and pages.",
+  "text": "{0}: تابع‌هایی برای استفاده در کامپوننت‌ها، Composable‌ها و صفحه‌ها در سراسر برنامه اضافه کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "{0}: تابع‌هایی برای استفاده در کامپوننت‌ها، Composableها و صفحه‌ها در سراسر برنامه اضافه کنید."
+  },
+  "updatedAt": "2026-11-23T18:11:52.684Z"
+}

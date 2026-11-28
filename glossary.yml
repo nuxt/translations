@@ -61,54 +61,67 @@
   translations:
     fr: composable
     de: Composable
+    fa: Composable
 - term: plugin
   translations:
     fr: plugin
     de: Plugin
+    fa: پلاگین
 - term: middleware
   translations:
     fr: middleware
     de: Middleware
+    fa: Middleware
 - term: runtime config
   note: the runtimeConfig option and useRuntimeConfig
   translations:
     fr: runtime config
     de: Laufzeitkonfiguration
+    fa: پیکربندی زمان اجرا
 - term: app config
   note: the app.config file and useAppConfig
   translations:
     fr: app config
     de: App-Konfiguration
+    fa: پیکربندی برنامه
 - term: hook
   translations:
     fr: hook
     de: Hook
+    fa: Hook
 - term: layout
   note: a file in the layouts directory
   translations:
     fr: layout
     de: Layout
+    fa: Layout
 - term: component
   translations:
     fr: composant
     de: Komponente
+    fa: کامپوننت
 - term: server component
   translations:
     fr: composant serveur
     de: Serverkomponente
+    fa: کامپوننت سمت سرور
 - term: data fetching
   translations:
     fr: récupération de données
     de: Datenabruf
+    fa: دریافت داده
 - term: server-side rendering
   translations:
     fr: rendu côté serveur
     de: serverseitiges Rendering
+    fa: رندر سمت سرور
 - term: prerendering
   translations:
     fr: prérendu
     de: Prerendering
+    fa: Prerendering
 - term: route middleware
   translations:
     fr: middleware de route
     de: Routen-Middleware
+    fa: Middleware مربوط به Route

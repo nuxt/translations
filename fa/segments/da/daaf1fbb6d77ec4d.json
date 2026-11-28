@@ -1,0 +1,13 @@
+{
+  "hash": "daaf1fbb6d77ec4d",
+  "source": "Global route middleware, which are placed in the {0} directory (with a {1} suffix) and will be automatically run on every route change.",
+  "text": "Middleware سراسری مربوط به Route که در پوشهٔ {0} با پسوند {1} قرار می‌گیرد و در هر تغییر Route به‌صورت خودکار اجرا می‌شود.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Middleware سراسری مربوط به Route که در پوشهٔ {0} با پسوند {1} قرار می‌گیرد و در هر تغییر Route به‌صورت خودکار اجرا می‌شود."
+  },
+  "updatedAt": "2026-11-23T17:47:08.621Z"
+}

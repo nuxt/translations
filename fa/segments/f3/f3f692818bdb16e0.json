@@ -1,0 +1,13 @@
+{
+  "hash": "f3f692818bdb16e0",
+  "source": "The {0} file, located in the source directory (by default {1}), is used to expose public variables that can be determined at build time. Contrary to the {2} option, these cannot be overridden using environment variables.",
+  "text": "فایل {0} که در پوشهٔ سورس قرار دارد (به‌صورت پیش‌فرض {1})، برای در دسترس قرار دادن متغیرهای عمومی استفاده می‌شود که مقدارشان در زمان Build قابل‌تعیین است. برخلاف گزینهٔ {2}، نمی‌توان این مقادیر را با متغیرهای محیطی بازنویسی کرد.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "فایل {0} که در پوشهٔ سورس قرار دارد (به‌صورت پیش‌فرض {1})، برای در دسترس قرار دادن متغیرهای عمومی استفاده می‌شود که مقدارشان در زمان Build قابل‌تعیین است. برخلاف گزینهٔ {2}، نمی‌توان این مقادیر را با متغیرهای محیطی بازنویسی کرد."
+  },
+  "updatedAt": "2026-11-23T17:47:08.524Z"
+}

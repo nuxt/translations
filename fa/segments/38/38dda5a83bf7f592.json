@@ -1,0 +1,13 @@
+{
+  "hash": "38dda5a83bf7f592",
+  "source": "Type of {0} is inferred as",
+  "text": "نوع {0} به این شکل استنباط می‌شود",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "نوع {0} به این شکل استنباط می‌شود"
+  },
+  "updatedAt": "2026-11-23T17:50:28.864Z"
+}

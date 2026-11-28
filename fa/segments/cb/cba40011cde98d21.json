@@ -1,0 +1,13 @@
+{
+  "hash": "cba40011cde98d21",
+  "source": "you will need to handle a loading state",
+  "text": "باید وضعیت بارگذاری را مدیریت کنید",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "باید وضعیت بارگذاری را مدیریت کنید"
+  },
+  "updatedAt": "2026-11-23T17:50:28.801Z"
+}

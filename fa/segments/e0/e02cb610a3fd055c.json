@@ -1,0 +1,13 @@
+{
+  "hash": "e02cb610a3fd055c",
+  "source": "My form data",
+  "text": "داده‌های فرم من",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "داده‌های فرم من"
+  },
+  "updatedAt": "2026-11-23T17:50:28.785Z"
+}

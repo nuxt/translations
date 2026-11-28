@@ -1,0 +1,13 @@
+{
+  "hash": "dfeae2857a6009c8",
+  "source": "Those values should be defined in {0} and can be overridden using environment variables.",
+  "text": "این مقادیر باید در {0} تعریف شوند و می‌توان آن‌ها را با متغیرهای محیطی بازنویسی کرد.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "این مقادیر باید در {0} تعریف شوند و می‌توان آن‌ها را با متغیرهای محیطی بازنویسی کرد."
+  },
+  "updatedAt": "2026-11-23T17:47:08.521Z"
+}

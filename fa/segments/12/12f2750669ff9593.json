@@ -1,0 +1,13 @@
+{
+  "hash": "12f2750669ff9593",
+  "source": "Below are the non-reactive types used for {0}, {1} and components.",
+  "text": "نوع‌های غیرواکنش‌پذیر مورد استفاده در {0}، {1} و کامپوننت‌ها در ادامه آمده‌اند.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "نوع‌های غیرواکنش‌پذیر مورد استفاده در {0}، {1} و کامپوننت‌ها در ادامه آمده‌اند."
+  },
+  "updatedAt": "2026-11-23T17:47:08.656Z"
+}

@@ -1,0 +1,13 @@
+{
+  "hash": "33bae6629fd42c4a",
+  "source": "Nuxt server engine",
+  "text": "موتور سرور Nuxt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "موتور سرور Nuxt"
+  },
+  "updatedAt": "2026-11-23T17:47:08.490Z"
+}

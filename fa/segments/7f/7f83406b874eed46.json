@@ -1,0 +1,13 @@
+{
+  "hash": "7f83406b874eed46",
+  "source": "Route Validation",
+  "text": "اعتبارسنجی Route",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "اعتبارسنجی Route"
+  },
+  "updatedAt": "2026-11-23T17:47:08.626Z"
+}

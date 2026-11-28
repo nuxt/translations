@@ -1,0 +1,13 @@
+{
+  "hash": "1464c76cd8f4892e",
+  "source": "{0}ESLint{/0}",
+  "text": "{0}ESLint{/0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "{0}ESLint{/0}"
+  },
+  "updatedAt": "2026-11-23T17:47:08.535Z"
+}

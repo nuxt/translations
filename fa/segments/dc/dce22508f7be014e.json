@@ -1,0 +1,13 @@
+{
+  "hash": "dce22508f7be014e",
+  "source": "Out-of-the-box, it supports **hot module replacement** and **auto-import** like the other parts of your Nuxt application.",
+  "text": "مانند بخش‌های دیگر برنامهٔ Nuxt، بدون تنظیمات اضافی از **Hot Module Replacement** و **Import خودکار** پشتیبانی می‌کند.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "مانند بخش‌های دیگر برنامهٔ Nuxt، بدون تنظیمات اضافی از **Hot Module Replacement** و **Import خودکار** پشتیبانی می‌کند."
+  },
+  "updatedAt": "2026-11-23T17:51:31.636Z"
+}

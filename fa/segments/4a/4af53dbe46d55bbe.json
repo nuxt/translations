@@ -1,0 +1,13 @@
+{
+  "hash": "4af53dbe46d55bbe",
+  "source": "The {0} composable is a great way to wrap and wait for multiple {1} requests to be completed, and then process the results.",
+  "text": "Composable {0} راه مناسبی برای در بر گرفتن چند درخواست {1}، انتظار تا تکمیل همهٔ آن‌ها و سپس پردازش نتایج است.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Composable مربوط به {0} راه مناسبی برای در بر گرفتن چند درخواست {1}، انتظار تا تکمیل همهٔ آن‌ها و سپس پردازش نتایج است."
+  },
+  "updatedAt": "2026-11-23T18:11:52.724Z"
+}

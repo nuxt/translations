@@ -1,0 +1,13 @@
+{
+  "hash": "59897f9a106b87d0",
+  "source": "When accessing /posts/1, route.params.id will be 1",
+  "text": "هنگام دسترسی به /posts/1، مقدار route.params.id برابر با 1 خواهد بود",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "هنگام دسترسی به /posts/1، مقدار route.params.id برابر با 1 خواهد بود"
+  },
+  "updatedAt": "2026-11-23T17:47:08.612Z"
+}

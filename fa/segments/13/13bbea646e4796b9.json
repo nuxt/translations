@@ -1,0 +1,13 @@
+{
+  "hash": "13bbea646e4796b9",
+  "source": "It's suggested to wrap your components in either a {0} or {1} component as tags will be deduped more intuitively.",
+  "text": "پیشنهاد می‌شود کامپوننت‌ها را در یک کامپوننت {0} یا {1} قرار دهید تا حذف تگ‌های تکراری به‌شکل روشن‌تری انجام شود.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "پیشنهاد می‌شود کامپوننت‌ها را در یک کامپوننت {0} یا {1} قرار دهید تا حذف تگ‌های تکراری به‌شکل روشن‌تری انجام شود."
+  },
+  "updatedAt": "2026-11-23T17:47:08.654Z"
+}

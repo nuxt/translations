@@ -1,0 +1,13 @@
+{
+  "hash": "5e8580d7d210f9b7",
+  "source": "{0} is for fetching and caching data, not triggering side effects like calling Pinia actions, as this can cause unintended behavior such as repeated executions with nullish values. If you need to trigger side effects, use the {1} utility to do so.",
+  "text": "{0} برای دریافت و کش کردن داده است، نه ایجاد اثرات جانبی مانند فراخوانی Action‌های Pinia؛ چنین استفاده‌ای ممکن است باعث رفتار ناخواسته، مانند اجرای تکراری با مقادیر null یا undefined، شود. برای ایجاد اثرات جانبی از ابزار {1} استفاده کنید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "{0} برای دریافت و کش کردن داده است، نه ایجاد اثرات جانبی مانند فراخوانی Actionهای Pinia؛ چنین استفاده‌ای ممکن است باعث رفتار ناخواسته، مانند اجرای تکراری با مقادیر null یا undefined، شود. برای ایجاد اثرات جانبی از ابزار {1} استفاده کنید."
+  },
+  "updatedAt": "2026-11-23T18:11:52.725Z"
+}

@@ -1,0 +1,13 @@
+{
+  "hash": "996c1cc88738ccf4",
+  "source": "**Zero-config TypeScript support:** write type-safe code without having to learn TypeScript with our auto-generated types and {0}.",
+  "text": "**پشتیبانی از TypeScript بدون پیکربندی:** با نوع‌های تولیدشدهٔ خودکار و {0}، بدون نیاز به یادگیری TypeScript کدی با ایمنی نوع بنویسید.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "**پشتیبانی از TypeScript بدون پیکربندی:** با نوع‌های تولیدشدهٔ خودکار و {0}، بدون نیاز به یادگیری TypeScript کدی با ایمنی نوع بنویسید."
+  },
+  "updatedAt": "2026-11-23T17:47:08.481Z"
+}

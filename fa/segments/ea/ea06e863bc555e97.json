@@ -1,0 +1,13 @@
+{
+  "hash": "ea06e863bc555e97",
+  "source": "{0}: the root component of your Nuxt application",
+  "text": "{0}: کامپوننت ریشهٔ برنامهٔ Nuxt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "{0}: کامپوننت ریشهٔ برنامهٔ Nuxt"
+  },
+  "updatedAt": "2026-11-23T17:47:08.574Z"
+}

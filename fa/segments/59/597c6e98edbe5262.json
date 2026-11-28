@@ -1,0 +1,13 @@
+{
+  "hash": "597c6e98edbe5262",
+  "source": "You can use {0} to provide additional placeholders in your {1} besides the default {2}. This allows for more dynamic title generation.",
+  "text": "می‌توانید از {0} برای اضافه کردن جای‌نگهدارهایی در {1} علاوه بر {2} پیش‌فرض استفاده کنید. این کار امکان تولید پویاتر عنوان را فراهم می‌کند.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "می‌توانید از {0} برای اضافه کردن جای‌نگهدارهایی در {1} علاوه بر {2} پیش‌فرض استفاده کنید. این کار امکان تولید پویاتر عنوان را فراهم می‌کند."
+  },
+  "updatedAt": "2026-11-23T17:47:08.667Z"
+}

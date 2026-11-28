@@ -1,0 +1,13 @@
+{
+  "hash": "9421e806535fee84",
+  "source": "The Nuxt server engine, {0}Nitro{/0}, unlocks new full-stack capabilities.",
+  "text": "موتور سرور Nuxt، یعنی {0}Nitro{/0}، قابلیت‌های جدید فول‌استک را در اختیار شما می‌گذارد.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "موتور سرور Nuxt، یعنی {0}Nitro{/0}، قابلیت‌های جدید فول‌استک را در اختیار شما می‌گذارد."
+  },
+  "updatedAt": "2026-11-23T17:47:08.487Z"
+}

@@ -1,0 +1,13 @@
+{
+  "hash": "288f906c46a54c70",
+  "source": "you can't do this",
+  "text": "این کار را نمی‌توانید انجام دهید",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "این کار را نمی‌توانید انجام دهید"
+  },
+  "updatedAt": "2026-11-23T17:50:28.797Z"
+}

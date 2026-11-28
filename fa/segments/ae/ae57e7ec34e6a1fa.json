@@ -1,0 +1,13 @@
+{
+  "hash": "ae57e7ec34e6a1fa",
+  "source": "Title Template",
+  "text": "قالب عنوان",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "قالب عنوان"
+  },
+  "updatedAt": "2026-11-23T17:47:08.660Z"
+}

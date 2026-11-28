@@ -1,0 +1,13 @@
+{
+  "hash": "0e75a1aa398062a8",
+  "source": "A note on {0}",
+  "text": "نکته‌ای دربارهٔ {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "نکته‌ای دربارهٔ {0}"
+  },
+  "updatedAt": "2026-11-23T17:50:28.789Z"
+}

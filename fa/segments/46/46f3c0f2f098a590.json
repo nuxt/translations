@@ -1,0 +1,13 @@
+{
+  "hash": "46f3c0f2f098a590",
+  "source": "By default, Nuxt is configured to cover most use cases. The {0} file can override or extend this default configuration.",
+  "text": "Nuxt به‌صورت پیش‌فرض برای بیشتر کاربردها پیکربندی شده است. فایل {0} می‌تواند این پیکربندی پیش‌فرض را بازنویسی یا گسترش دهد.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Nuxt به‌صورت پیش‌فرض برای بیشتر کاربردها پیکربندی شده است. فایل {0} می‌تواند این پیکربندی پیش‌فرض را بازنویسی یا گسترش دهد."
+  },
+  "updatedAt": "2026-11-23T17:47:08.515Z"
+}

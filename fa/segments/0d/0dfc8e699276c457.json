@@ -1,0 +1,13 @@
+{
+  "hash": "0dfc8e699276c457",
+  "source": "{0} when a fetch has started but not yet completed",
+  "text": "{0} وقتی دریافت داده شروع شده، اما هنوز کامل نشده است",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "{0} وقتی دریافت داده شروع شده، اما هنوز کامل نشده است"
+  },
+  "updatedAt": "2026-11-23T17:50:28.848Z"
+}

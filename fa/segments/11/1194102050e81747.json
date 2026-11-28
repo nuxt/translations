@@ -1,0 +1,13 @@
+{
+  "hash": "1194102050e81747",
+  "source": "Core engine: {0}nuxt{/0}",
+  "text": "موتور اصلی: {0}nuxt{/0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "موتور اصلی: {0}nuxt{/0}"
+  },
+  "updatedAt": "2026-11-23T17:47:08.494Z"
+}

@@ -1,0 +1,13 @@
+{
+  "hash": "0731214bd6a03443",
+  "source": "**Windows slow DNS resolution**: Instead of using {0} for local dev server on Windows, use {1} for much faster loading experience on browsers.",
+  "text": "**کندی تبدیل نام DNS در Windows**: برای سرور توسعهٔ محلی در Windows، به‌جای {0} از {1} استفاده کنید تا بارگذاری در مرورگرها بسیار سریع‌تر شود.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "**کندی تبدیل نام DNS در Windows**: برای سرور توسعهٔ محلی در Windows، به‌جای {0} از {1} استفاده کنید تا بارگذاری در مرورگرها بسیار سریع‌تر شود."
+  },
+  "updatedAt": "2026-11-23T17:47:08.502Z"
+}

@@ -1,0 +1,13 @@
+{
+  "hash": "e93bdf6adf1cf3da",
+  "source": "The {0} composable uses {1} under-the-hood to make SSR-safe network calls in the setup function.",
+  "text": "Composable {0} در پشت صحنه از {1} برای ارسال درخواست‌های شبکهٔ سازگار با SSR در تابع setup استفاده می‌کند.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Composable مربوط به {0} در پشت صحنه از {1} برای ارسال درخواست‌های شبکهٔ سازگار با SSR در تابع setup استفاده می‌کند."
+  },
+  "updatedAt": "2026-11-23T18:11:52.715Z"
+}

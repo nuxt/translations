@@ -1,0 +1,13 @@
+{
+  "hash": "062f8fe6956b4cda",
+  "source": "Serialize the output to string, using superjson",
+  "text": "خروجی را با superjson به رشته سریال‌سازی کنید",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "خروجی را با superjson به رشته سریال‌سازی کنید"
+  },
+  "updatedAt": "2026-11-23T17:50:28.866Z"
+}

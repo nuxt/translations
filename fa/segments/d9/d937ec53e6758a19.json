@@ -1,0 +1,13 @@
+{
+  "hash": "d937ec53e6758a19",
+  "source": "The {0} composable is responsible for wrapping async logic and returning the result once it is resolved.",
+  "text": "Composable {0} منطق غیرهمزمان را در بر می‌گیرد و پس از تکمیل آن، نتیجه را برمی‌گرداند.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "Composable مربوط به {0} منطق غیرهمزمان را در بر می‌گیرد و پس از تکمیل آن، نتیجه را برمی‌گرداند."
+  },
+  "updatedAt": "2026-11-23T18:11:52.721Z"
+}

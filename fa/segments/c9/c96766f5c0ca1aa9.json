@@ -1,0 +1,13 @@
+{
+  "hash": "c96766f5c0ca1aa9",
+  "source": "The {0} can either be a string, where {1} is replaced with the title, or a function.",
+  "text": "مقدار {0} می‌تواند یک رشته باشد که در آن {1} با عنوان جایگزین می‌شود، یا یک تابع.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "OpenAI Codex",
+    "candidate": "مقدار {0} می‌تواند یک رشته باشد که در آن {1} با عنوان جایگزین می‌شود، یا یک تابع."
+  },
+  "updatedAt": "2026-11-23T17:47:08.662Z"
+}
