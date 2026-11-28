@@ -1,0 +1,14 @@
+{
+  "hash": "d30bc488479a74ff",
+  "source": "Set {0} where serving a stale entry is acceptable, or set it for every cached handler and function with {1}. With {2} on, handlers and functions written for Nitro v2 keep the Nitro v2 default.",
+  "text": "Définissez {0} lorsque servir une entrée périmée est acceptable, ou appliquez-le à tous les handlers et fonctions en cache avec {1}. Avec {2} activé, les handlers et fonctions écrits pour Nitro v2 conservent le comportement par défaut de Nitro v2.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définissez {0} lorsque servir une entrée périmée est acceptable, ou appliquez-le à tous les handlers et fonctions en cache avec {1}. Avec {2} activé, les handlers et fonctions écrits pour Nitro v2 conservent le comportement par défaut de Nitro v2."
+  },
+  "updatedAt": "2026-11-28T12:48:05.621Z"
+}

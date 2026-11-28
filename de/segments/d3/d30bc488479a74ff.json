@@ -1,0 +1,14 @@
+{
+  "hash": "d30bc488479a74ff",
+  "source": "Set {0} where serving a stale entry is acceptable, or set it for every cached handler and function with {1}. With {2} on, handlers and functions written for Nitro v2 keep the Nitro v2 default.",
+  "text": "Setze {0} dort, wo es akzeptabel ist, einen veralteten Eintrag auszuliefern, oder lege es mit {1} für alle zwischengespeicherten Handler und Funktionen fest. Ist {2} aktiviert, behalten für Nitro v2 geschriebene Handler und Funktionen den Standardwert von Nitro v2.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Setze {0} dort, wo es akzeptabel ist, einen veralteten Eintrag auszuliefern, oder lege es mit {1} für alle zwischengespeicherten Handler und Funktionen fest. Ist {2} aktiviert, behalten für Nitro v2 geschriebene Handler und Funktionen den Standardwert von Nitro v2."
+  },
+  "updatedAt": "2026-11-28T12:48:05.621Z"
+}

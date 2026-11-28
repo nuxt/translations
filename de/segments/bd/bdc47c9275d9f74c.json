@@ -1,0 +1,14 @@
+{
+  "hash": "bdc47c9275d9f74c",
+  "source": "Cached Handlers and Functions No Longer Serve Stale by Default",
+  "text": "Zwischengespeicherte Handler und Funktionen liefern standardmäßig keine veralteten Einträge mehr aus",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Zwischengespeicherte Handler und Funktionen liefern standardmäßig keine veralteten Einträge mehr aus"
+  },
+  "updatedAt": "2026-11-28T12:48:05.621Z"
+}

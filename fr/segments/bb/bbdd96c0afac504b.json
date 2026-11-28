@@ -1,0 +1,14 @@
+{
+  "hash": "bbdd96c0afac504b",
+  "source": "Nitro v2 served an expired entry while it revalidated it in the background, because it defaulted {0} to {1}. Nitro v3 defaults it to {2}, so a request that finds an expired entry waits for the handler or function to resolve a fresh value:",
+  "text": "Nitro v2 servait une entrée expirée pendant qu'il la revalidait en arrière-plan, car il définissait {0} sur {1} par défaut. Nitro v3 le définit sur {2} par défaut : une requête qui trouve une entrée expirée attend donc que le handler ou la fonction produise une nouvelle valeur :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nitro v2 servait une entrée expirée pendant qu'il la revalidait en arrière-plan, car il définissait {0} sur {1} par défaut. Nitro v3 le définit sur {2} par défaut : une requête qui trouve une entrée expirée attend donc que le handler ou la fonction produise une nouvelle valeur :"
+  },
+  "updatedAt": "2026-11-28T12:48:05.621Z"
+}
